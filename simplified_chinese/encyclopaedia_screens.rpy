@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2024-01-10 16:08
+# TODO: Translation updated at 2025-05-22 12:22
 
 translate simplified_chinese strings:
 
     # game/encyclopaedia_screens.rpy:113
     old "Filters"
-    new "过滤器"
+    new "筛选器"
 
     # game/encyclopaedia_screens.rpy:119
     old "All"
@@ -12,5 +12,4 @@ translate simplified_chinese strings:
 
     # game/encyclopaedia_screens.rpy:158
     old "Codex: {0}"
-    new "法典：{0}"
-
+    new "百科: {0}"
