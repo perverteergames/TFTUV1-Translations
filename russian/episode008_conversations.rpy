@@ -2320,7 +2320,7 @@ translate russian strings:
 
 
     old "Tell her you love her"
-    new "Сказать, что любишь ей"
+    new "Сказать, что любишь её"
 
 
     old "Put an end to this"

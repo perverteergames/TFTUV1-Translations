@@ -1959,7 +1959,7 @@ translate russian extra_scene_10_ae86bbd8:
 translate russian extra_scene_10_492d3445:
 
 
-    "Влажные звуки, раздававшиеся между ног женщины, усилились, в то время как госпожа Мэлоди всё яростнее теребила свой клитор."
+    "Влажные звуки, раздававшиеся между ног женщины, усиЛиллись, в то время как госпожа Мэлоди всё яростнее теребила свой клитор."
 
 
 translate russian extra_scene_10_a8da08c9:
@@ -5039,7 +5039,7 @@ translate russian extra_scene_22_5b776473:
 translate russian extra_scene_22_5938b9a3:
 
 
-    "На мгновение мне показалось, что нас всех вычислили и веселье закончилось."
+    "На мгновение мне показалось, что нас всех вычисЛилли и веселье закончилось."
 
 
 translate russian extra_scene_22_3b6c3fc3:
@@ -5405,7 +5405,7 @@ translate russian extra_scene_23_5b776473:
 translate russian extra_scene_23_5938b9a3:
 
 
-    "На мгновение мне показалось, что нас всех вычислили и веселье закончилось."
+    "На мгновение мне показалось, что нас всех вычисЛилли и веселье закончилось."
 
 
 translate russian extra_scene_23_8f2630e4:
@@ -7570,12 +7570,3 @@ translate russian strings:
     # game/extras.rpy:2225
     old "Siora"
     new "Сиора"
-
-# TODO: Translation updated at 2022-04-14 16:26
-
-# game/extras.rpy:2158
-translate russian extra_scene_26_d7898ba9:
-
-    # "My fingers slowly slid through her pussy for the first time and I got a good measure of how wet she really was."
-    "Мои пальцы впервые медленно скользнули по её киске, и я смог оценить, насколько она была мокрой."
-

@@ -5698,7 +5698,7 @@ translate russian ep007_av_talk_5afd2893:
 translate russian ep007_av_talk_a96cfa13:
 
 
-    "Эвен улыбнулась мне после того, как мы неохотно оторвались друг от друга."
+    "Эвин улыбнулась мне после того, как мы неохотно оторвались друг от друга."
 
 
 translate russian ep007_av_talk_55586e95:

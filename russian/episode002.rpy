@@ -130,7 +130,7 @@ translate russian episode002_dbf41b03:
 translate russian episode002_c0f02718:
 
 
-    "Ни один здравомыслящий капитан не подумает «взрывать» С-К двигатель своего корабля, но у нас было не так уж много вариантов."
+    "Ни один здравомыслящий капитан не подумает «детонировать» С-К двигатель своего корабля, но у нас было не так уж много вариантов."
 
 
 translate russian episode002_011079c4:
@@ -1150,7 +1150,7 @@ translate russian episode002_b00d113d:
 translate russian episode002_4f80e7ff:
 
 
-    ki "Либо это, либо поход с великим Герцогом вон Скандерсфельтом..."
+    ki "Либо это, либо поход с великим Герцогом фон Скандерфельтом..."
 
 
 translate russian episode002_d391ece7:
@@ -7220,7 +7220,7 @@ translate russian episode002_8b4cf45c:
 translate russian episode002_2500a942:
 
 
-    "Ни один здравомыслящий капитан не подумает «взрывать» С-К двигатель своего корабля, но у нас было не так уж много вариантов."
+    "Ни один здравомыслящий капитан не подумает «детонировать» С-К двигатель своего корабля, но у нас было не так уж много вариантов."
 
 
 translate russian episode002_cfeed21e:
@@ -7450,11 +7450,11 @@ translate russian ep002_cargo_run_634a160b:
 
     "Стражники сопроводили Тхима в пещеры, оставив меня завершать деловую часть сделки."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 # game/episode002.rpy:1726
 translate russian ep002_university_b497127f:
 
     # av "I think the last time we saw each other was when were both nine years old?"
-    av "Думаю, в последний раз мы виделись, когда нам обоим было по девять лет?"
+    av "Думаю, последний раз мы виделись, когда нам было по девять лет?"
 

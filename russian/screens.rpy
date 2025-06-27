@@ -1,6 +1,7 @@
 
 
 translate russian python:
+    gui.text_size = 30
     gui.text_font = "fonts/RobotoSlab-Regular.ttf"
     gui.choice_button_text_font = "fonts/RobotoSlab-Regular.ttf"
 
@@ -614,9 +615,6 @@ translate russian strings:
     old "Italian (partial)"
     new "Italian (неполный)"
 
-    old "Spanish"
-    new "Испанский"
-
 
     old "Show Portraits"
     new "Показать портреты"
@@ -663,9 +661,9 @@ translate russian strings:
 
 
     old "Jump to page: "
-    new "Перейти на страницу: "
+    new "Перейти на страницу:"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
@@ -679,49 +677,58 @@ translate russian strings:
 
     # game/screens.rpy:1008
     old "Achievements Unlocked: %d / %d"
-    new "Полученные достижения: %d / %d"
+    new "Разблокированные достижения: %d / %d"
+
+    # game/screens.rpy:1371
+    old "Spanish (partial)"
+    new "Испанский (частично)"
 
     # game/screens.rpy:1385
     old "Incest"
     new "Инцест"
 
-# TODO: Translation updated at 2022-04-14 16:26
+# TODO: Translation updated at 2022-10-09 18:57
 
 translate russian strings:
 
-    # game/screens.rpy:1367
-    old "Italian"
-    new "Итальянский"
+    # game/screens.rpy:1081
+    old "Website: "
+    new "Вэбсайт: "
 
-# TODO: Translation updated at 2022-07-27 15:45
+    # game/screens.rpy:1081
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
 
-translate russian strings:
-
-    # game/screens.rpy:1375
-    old "Turkish"
-    new "Турецкий"
-
-# TODO: Translation updated at 2023-07-10 22:04
+# TODO: Translation updated at 2022-12-15 21:28
 
 translate russian strings:
 
     # game/screens.rpy:899
     old "View by: "
-    new "Посмотреть по:"
+    new "Просмотр по: "
 
-    # game/screens.rpy:901
-    old "character"
-    new "символ"
+translate russian strings:
 
-    # game/screens.rpy:903
     old "episode"
-    new "эпизод"
+    new "эпизоду"
 
-    # game/screens.rpy:1112
-    old "Website: "
-    new "Сайт:"
+    old "character"
+    new "персонажу"
+# TODO: Translation updated at 2023-04-01 11:39
 
-    # game/screens.rpy:1112
-    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
-    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+translate russian strings:
+
+    # game/screens.rpy:1120
+    old "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+    new "{size=-8}Freeport Space Station 2 created by {a=https://sketchfab.com/dradnon}Inditrion Dradnon{/a}, License: {a=https://creativecommons.org/licenses/by/4.0/}CC BY 4.0{/a}"
+
+
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+translate russian strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new "Выборы"
 

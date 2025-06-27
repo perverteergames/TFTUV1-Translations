@@ -3508,7 +3508,7 @@ translate russian ep012_interrogation_50e0769c:
 translate russian ep012_interrogation_2d0ccf2d:
 
     # ag "We were able to pinpoint it to a property owned by the Von Skandersfelt family."
-    ag "Мы смогли установить, что это собственность, принадлежащая семье Вон Скандерсфельт."
+    ag "Мы смогли установить, что это собственность, принадлежащая семье фон Скандерфельт."
 
 # game/episode012b.rpy:1062
 translate russian ep012_interrogation_33f42247:
@@ -7264,10 +7264,6 @@ translate russian strings:
     old "Cover their bodies"
     new "Покрыть спермой их тела"
 
-    # game/episode012b.rpy:1626
-    old "Cover their faces"
-    new "Покрыть спермой их лица"
-
     # game/episode012b.rpy:1962
     old "Fuck Tinesia"
     new "Трахнуть Тинезию"
@@ -7303,69 +7299,4 @@ translate russian strings:
     # game/episode012b.rpy:2078
     old "Creampie Siora"
     new "Кончить в Сиору"
-
-# TODO: Translation updated at 2022-04-14 16:26
-
-# game/episode012b.rpy:93
-translate russian episode012b_b46ebc15:
-
-    # bl "Yes, we should hurry, we might be able to catch them in time."
-    bl "Да, нам следует поторопиться, чтобы вовремя их поймать."
-
-# game/episode012b.rpy:238
-translate russian episode012b_ad48e794:
-
-    # c "Supposedly she was some princess, back when the Sovereignty hadn't yet demonstrated its superiority."
-    c "Предположительно, она была какой-то принцессой, в те времена, когда Суверенитет ещё не демонстрировал своего превосходства."
-
-# game/episode012b.rpy:1333
-translate russian ep012_lilly_sex_64edb63a:
-
-    # "She sat upright again and I pulled my girl on my lap for another round of kissing."
-    "Она снова села прямо, и я притянул свою девочку к себе на колени для очередного раунда поцелуев."
-# game/episode012b.rpy:1358
-translate russian ep012_lilly_sex_6d7d07a4:
-
-    # "It took me a lot of self-restraint not to give a little thrust and enter her, but I decided against it as Lilly was trusting me to be in control."
-    "Мне потребовалось большое самообладание, чтобы не сделать небольшой толчок и не войти в неё, но я решил не делать этого, так как Лилли доверила мне контроль над ситуацией."
-
-# game/episode012b.rpy:1937
-translate russian ep012_tyuarene_sex_ecb38cd9:
-
-    # mad "My friend to your left is Siora, Tinesia to your right and I’m Madris."
-    mad "Слева от тебя моя подруга - Сиора, справа - Тинезия, а я Мадрис."
-
-# TODO: Translation updated at 2022-07-27 15:45
-
-# game/episode012b.rpy:858
-translate russian ep012_interrogation_41901602:
-
-    # "I didn't see my father give the order, but that comment earned me a fist against the head, cracking my eye socket."
-    "Я не видел, как отец отдавал приказ, но за это замечание я получил кулаком по голове, разбившим мою глазницу."
-
-# game/episode012b.rpy:1136
-translate russian ep012_execution_a80e763e:
-
-    # "Did that mean they captured my friends?"
-    "Означало ли это, что они захватили моих друзей?"
-
-# game/episode012b.rpy:1201
-translate russian ep012_execution_f28f745a:
-
-    # "A searing pain coursed through my arms as the muscles strained against the pull."
-    "Кричащая боль пронзила мои руки, когда мышцы напряглись от притяжения."
-
-# TODO: Translation updated at 2022-07-28 10:26
-
-# game/episode012b.rpy:1106
-translate russian ep012_execution_ebe0b8a9:
-
-    # "Hopefully my misdirections during the simulated interrogation were enough to give the crew a head start."
-    "Надеюсь, моих неверных указаний во время имитационного допроса было достаточно, чтобы дать команде фору."
-
-# game/episode012b.rpy:1884
-translate russian ep012_voyeur_sex_b067852c:
-
-    # "The woman on the couch clearly reveled in the distress of the girls in front of her."
-    "Женщина на кушетке явно наслаждалась бедственным положением девушек перед ней."
 

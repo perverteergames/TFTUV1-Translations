@@ -192,14 +192,12 @@ translate russian strings:
     old "Manager"
     new "Менеджер"
 
-    old "Nyssa"
-    new "Нисса"
+    old "Innkeeper"
+    new "Хозяин таверны"
 
-    old "Mercenary"
-    new "Наёмник"
+    old "Ashala"
+    new "Ашала"
 
-    old "Noral"
-    new "Норал"
 
 
 translate russian strings:
@@ -240,13 +238,13 @@ translate russian strings:
     old "Consult the game manual or {a=https://perverteer.com/faq}the FAQ section{/a} for more information."
     new "Обратитесь к руководству по игре или {a=https://perverteer.com/faq}разделу FAQ{/a} для получения дополнительной информации."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
     # game/script.rpy:394
     old "Story, artwork and development"
-    new "История, художественное оформление и разработка"
+    new "История, художественная работа и разработка"
 
     # game/script.rpy:394
     old "Perverteer"
@@ -262,7 +260,7 @@ translate russian strings:
 
     # game/script.rpy:394
     old "Proofreading"
-    new "Редактура текста"
+    new "Редактура"
 
     # game/script.rpy:394
     old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
@@ -282,11 +280,11 @@ translate russian strings:
 
     # game/script.rpy:394
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}"
-    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Русский){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}"
 
     # game/script.rpy:394
     old "Special thanks to"
-    new "Отдельное спасибо"
+    new "Особая благодарность"
 
     # game/script.rpy:394
     old "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
@@ -294,33 +292,101 @@ translate russian strings:
 
     # game/script.rpy:394
     old "Very special thanks to"
-    new "Особая благодарность"
+    new "Очень особая благодарность"
 
     # game/script.rpy:394
     old "All loyal patrons who generously supported the development of this project."
-    new "Всем верным покровителям, которые щедро поддержали развитие этого проекта."
+    new "Всем верным покровителям, щедро поддерживавшим развитие этого проекта."
 
-# TODO: Translation updated at 2022-04-14 16:26
+# TODO: Translation updated at 2022-07-02 15:42
 
 translate russian strings:
 
-    # game/script.rpy:111
+    # game/script.rpy:129
     old "ACHIEVEMENT UNLOCKED"
-    new "ДОСТИЖЕНИЕ РАЗБЛОКИРОВАНО"
+    new "РАЗБЛОКИРОВАНО ДОСТИЖЕНИЕ"
 
-# TODO: Translation updated at 2022-04-20 22:17
-
-translate russian strings:
-
-    # game/script.rpy:393
-    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}"
-    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Русский){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel и Kabezon {i}(Spanish){/i}"
-
-# TODO: Translation updated at 2022-07-27 15:45
+# TODO: Translation updated at 2022-10-09 18:57
 
 translate russian strings:
 
-    # game/script.rpy:197
+    # game/script.rpy:250
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new "Нажмите {i}\"Enter\"{/i} на экранной клавиатуре для подтверждения."
+    new "Нажмите {i}\"Enter\"{/i} на экранной клавиатуре для подтверждения"
+
+
+
+
+
+# TODO: Translation updated at 2024-03-02 10:36
+
+translate russian strings:
+
+    # game/script.rpy:216
+    old " and "
+    new " и "
+
+    # game/script.rpy:221
+    old "one"
+    new "один"
+
+    # game/script.rpy:223
+    old "two"
+    new "два"
+
+    # game/script.rpy:225
+    old "three"
+    new "три"
+
+    # game/script.rpy:227
+    old "four"
+    new "четыре"
+
+    # game/script.rpy:229
+    old "five"
+    new "пять"
+
+    # game/script.rpy:231
+    old "six"
+    new "шесть"
+
+    # game/script.rpy:233
+    old "seven"
+    new "семь"
+
+    # game/script.rpy:235
+    old "eight"
+    new "восемь"
+
+    # game/script.rpy:237
+    old "nine"
+    new "девять"
+
+    # game/script.rpy:239
+    old "a lot"
+    new "много"
+
+# TODO: Translation updated at 2025-02-04 18:17
+
+translate russian strings:
+
+    # game/script.rpy:538
+    old "Character Selection"
+    new "Выбор персонажа"
+
+    # game/script.rpy:545
+    old "Who participates in this scene?"
+    new "Кто участвует в этой сцене?"
+
+    # game/script.rpy:603
+    old "Select at least two characters."
+    new "Выбери как минимум двух персонажей."
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+translate russian strings:
+
+    # game/script.rpy:714
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Русский){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
 

@@ -308,7 +308,7 @@ translate russian strings:
 
 
     old "Cancel"
-    new "Cancel"
+    new "Отмена"
 
 
     old "Remove"
@@ -316,15 +316,15 @@ translate russian strings:
 
 
     old "Statement:"
-    new "Statement:"
+    new "Отчёт:"
 
 
     old "Tag:"
-    new "Tag:"
+    new "Метка:"
 
 
     old "Attributes:"
-    new "Attributes:"
+    new "Атрибуты:"
 
 
     old "Transforms:"
@@ -336,7 +336,7 @@ translate russian strings:
 
 
     old "Transition:"
-    new "Transition:"
+    new "Переход:"
 
 
     old "Channel:"
@@ -1349,232 +1349,3 @@ translate russian strings:
     new "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
 
-
-# TODO: Translation updated at 2022-04-14 16:26
-
-translate russian strings:
-
-    # renpy/common/00accessibility.rpy:180
-    old "High Contrast Text"
-    new "High Contrast Text"
-
-    # renpy/common/00accessibility.rpy:215
-    old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
-
-    # renpy/common/00preferences.rpy:402
-    old "self voicing volume drop"
-    new "self voicing volume drop"
-
-    # renpy/common/00preferences.rpy:478
-    old "system cursor"
-    new "system cursor"
-
-    # renpy/common/00preferences.rpy:487
-    old "renderer menu"
-    new "renderer menu"
-
-    # renpy/common/00preferences.rpy:490
-    old "accessibility menu"
-    new "accessibility menu"
-
-    # renpy/common/00preferences.rpy:493
-    old "high contrast text"
-    new "high contrast text"
-
-    # renpy/common/00gltest.rpy:100
-    old "Force GL Renderer"
-    new "Force GL Renderer"
-
-    # renpy/common/00gltest.rpy:105
-    old "Force ANGLE Renderer"
-    new "Force ANGLE Renderer"
-
-    # renpy/common/00gltest.rpy:110
-    old "Force GLES Renderer"
-    new "Force GLES Renderer"
-
-    # renpy/common/00gltest.rpy:116
-    old "Force GL2 Renderer"
-    new "Force GL2 Renderer"
-
-    # renpy/common/00gltest.rpy:121
-    old "Force ANGLE2 Renderer"
-    new "Force ANGLE2 Renderer"
-
-    # renpy/common/00gltest.rpy:126
-    old "Force GLES2 Renderer"
-    new "Force GLES2 Renderer"
-
-    # renpy/common/00gltest.rpy:136
-    old "Enable (No Blocklist)"
-    new "Enable (No Blocklist)"
-
-    # renpy/common/00gltest.rpy:249
-    old "This game requires use of GL2 that can't be initialised."
-    new "This game requires use of GL2 that can't be initialised."
-
-    # renpy/common/00gltest.rpy:259
-    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-
-    # renpy/common/00gltest.rpy:264
-    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-
-    # renpy/common/00gltest.rpy:281
-    old "Change render options"
-    new "Change render options"
-
-    # renpy/common/00gamepad.rpy:58
-    old "Press or move the '[control!s]' [kind]."
-    new "Press or move the '[control!s]' [kind]."
-
-# TODO: Translation updated at 2022-07-27 15:42
-
-translate russian strings:
-
-    # renpy/common/00action_other.rpy:703
-    old "Open [text] directory."
-    new ""
-
-    # renpy/common/00preferences.rpy:507
-    old "audio when minimized"
-    new ""
-
-    # renpy/common/00preferences.rpy:527
-    old "main volume"
-    new ""
-
-    # renpy/common/00preferences.rpy:531
-    old "mute main"
-    new ""
-
-# TODO: Translation updated at 2023-07-10 22:04
-
-translate russian strings:
-
-    # renpy/common/00director.rpy:1745
-    old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Щелкните, чтобы переключить атрибут, щелкните правой кнопкой мыши, чтобы переключить отрицательный атрибут."
-
-    # renpy/common/00director.rpy:1768
-    old "Click to set transform, right click to add to transform list."
-    new "Щелкните, чтобы установить преобразование, щелкните правой кнопкой мыши, чтобы добавить в список преобразований."
-
-    # renpy/common/00director.rpy:1789
-    old "Click to set, right click to add to behind list."
-    new "Щелкните, чтобы установить, щелкните правой кнопкой мыши, чтобы добавить в список позади."
-
-    # renpy/common/00gui.rpy:456
-    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Это сохранение было создано на другом устройстве. Злонамеренно созданные файлы сохранения могут нанести вред вашему компьютеру. Доверяете ли вы создателю этого сохранения и всем тем, кто мог изменить файл?"
-
-    # renpy/common/00gui.rpy:457
-    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Доверяете ли вы устройству, на котором было создано сохранение? Вы должны выбрать \"Да\", только если вы являетесь единственным пользователем устройства."
-
-    # renpy/common/00preferences.rpy:528
-    old "audio when unfocused"
-    new "звук при расфокусировке"
-
-    # renpy/common/00preferences.rpy:537
-    old "web cache preload"
-    new "предварительная загрузка веб-кэша"
-
-    # renpy/common/00preferences.rpy:552
-    old "voice after game menu"
-    new "голос после меню игры"
-
-    # renpy/common/00speechbubble.rpy:344
-    old "Speech Bubble Editor"
-    new "Редактор речевых пузырьков"
-
-    # renpy/common/00speechbubble.rpy:349
-    old "(hide)"
-    new "(скрыть)"
-
-    # renpy/common/00sync.rpy:70
-    old "Sync downloaded."
-    # Automatic translation.
-    new "Синхронизация загружена."
-
-    # renpy/common/00sync.rpy:190
-    old "Could not connect to the Ren'Py Sync server."
-    # Automatic translation.
-    new "Не удалось подключиться к серверу Ren'Py Sync."
-
-    # renpy/common/00sync.rpy:192
-    old "The Ren'Py Sync server timed out."
-    # Automatic translation.
-    new "Сервер Ren'Py Sync завершил работу по таймеру."
-
-    # renpy/common/00sync.rpy:194
-    old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    # Automatic translation.
-    new "При подключении к серверу Ren'Py Sync произошла неизвестная ошибка."
-
-    # renpy/common/00sync.rpy:267
-    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    # Automatic translation.
-    new "Сервер Ren'Py Sync не имеет копии этой синхронизации. Идентификатор синхронизации может быть недействительным, или она могла завершиться."
-
-    # renpy/common/00sync.rpy:409
-    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    # Automatic translation.
-    new "Введите созданный вами идентификатор синхронизации.\nНикогда не вводите идентификатор синхронизации, который вы не создавали сами."
-
-    # renpy/common/00sync.rpy:428
-    old "The sync ID is not in the correct format."
-    # Automatic translation.
-    new "Идентификатор синхронизации имеет неправильный формат."
-
-    # renpy/common/00sync.rpy:448
-    old "The sync could not be decrypted."
-    # Automatic translation.
-    new "Синхронизация не может быть расшифрована."
-
-    # renpy/common/00sync.rpy:471
-    old "The sync belongs to a different game."
-    # Automatic translation.
-    new "Синхронизация относится к другой игре."
-
-    # renpy/common/00sync.rpy:476
-    old "The sync contains a file with an invalid name."
-    # Automatic translation.
-    new "Синхронизация содержит файл с недопустимым именем."
-
-    # renpy/common/00sync.rpy:529
-    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    # Automatic translation.
-    new "Это загрузит ваши сохранения на сервер {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nВы хотите продолжить?"
-
-    # renpy/common/00sync.rpy:558
-    old "Enter Sync ID"
-    # Automatic translation.
-    new "Введите идентификатор синхронизации"
-
-    # renpy/common/00sync.rpy:569
-    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    # Automatic translation.
-    new "Это позволит связаться с сервером {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-
-    # renpy/common/00sync.rpy:596
-    old "Sync Success"
-    # Automatic translation.
-    new "Успех синхронизации"
-
-    # renpy/common/00sync.rpy:599
-    old "The Sync ID is:"
-    # Automatic translation.
-    new "Идентификатор синхронизации:"
-
-    # renpy/common/00sync.rpy:605
-    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    # Automatic translation.
-    new "Вы можете использовать этот идентификатор для загрузки сохранения на другое устройство.\nСрок действия этой синхронизации истечет через час.\nRen'Py Sync поддерживается спонсорами {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-
-    # renpy/common/00sync.rpy:631
-    old "Sync Error"
-    # Automatic translation.
-    new "Ошибка синхронизации"

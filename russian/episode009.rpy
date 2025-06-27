@@ -8306,19 +8306,3 @@ translate russian strings:
     old "The rules of courtship are just as strict as the species' society and amorous relationships often take years to develop."
     new "Правила ухаживания столь же строги, как и в обществе данного вида, и на развитие любовных отношений часто уходят годы."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-07-27 15:45
-
-# game/episode009.rpy:1578
-translate russian ep009_zi_visit_bf88523c:
-
-    # zi "We Rhenkoy have agreements like that as well, but they extend to every aspect of courtship."
-    zi "У нас, у Ренкоев, тоже есть такие соглашения, но они распространяются на все аспекты ухаживания."
-
-# TODO: Translation updated at 2022-07-28 10:26
-
-# game/episode009.rpy:1077
-translate russian ep009_na_expedition_966cbb79:
-
-    # "A triumphant roar signaled the fact that the creature had picked up on our trail again."
-    "Торжествующий рёв возвестил о том, что существо снова вышло на наш след."
-

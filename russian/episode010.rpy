@@ -2560,7 +2560,7 @@ translate russian ep010_erylin_1fd858dd:
 translate russian ep010_erylin_36e69f78:
 
 
-    "Все улыбались, Эрилин и её помощница поблагодарили меня за компанию и попрощались."
+    "Все улыбались, Эрилин и её послушница поблагодарили меня за компанию и попрощались."
 
 
 translate russian ep010_erylin_efd57caa:
@@ -11252,13 +11252,13 @@ translate russian ep010_vess_sex_8077ee39:
 
     "Это прозвучало почти так, как будто ей пришлось убеждать себя в этом ответе."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 # game/episode010.rpy:1071
 translate russian ep010_erylin_keo_sex_proposal_36e69f78:
 
     # "All smiles, Erylin and her acolyte thanked me for the company and bid me farewell."
-    "Все улыбались, Эрилин и её помощница поблагодарили меня за компанию и попрощались."
+    "Все улыбались, Эрилин и её послушница поблагодарили меня за компанию и попрощались."
 
 # game/episode010.rpy:1092
 translate russian ep010_erylin_keo_sex_proposal_c98c9560:
@@ -11270,21 +11270,5 @@ translate russian ep010_erylin_keo_sex_proposal_c98c9560:
 translate russian ep010_erylin_keo_sex_proposal_36e69f78_1:
 
     # "All smiles, Erylin and her acolyte thanked me for the company and bid me farewell."
-    "Все улыбались, Эрилин и её помощница поблагодарили меня за компанию и попрощались."
-
-# TODO: Translation updated at 2022-07-27 15:45
-
-# game/episode010.rpy:1877
-translate russian ep010_hunt_c0bd0cb3:
-
-    # "Though the laser rifle I carried seemed impressive, I was pretty sure it wouldn’t even make a dent in the bug’s carapace."
-    "Хотя лазерная винтовка, которую я носил, выглядела впечатляюще, я был уверен, что она не сделает даже вмятины в панцире жука."
-
-# TODO: Translation updated at 2022-07-28 10:26
-
-# game/episode010.rpy:1204
-translate russian ep010_raene_1ba67ae8:
-
-    # "The calgounds ran fast, and Raene had a head start."
-    "Калгаунды бежали быстро, но Рэин удалось вырваться вперёд."
+    "Все улыбались, Эрилин и её послушница поблагодарили меня за компанию и попрощались."
 

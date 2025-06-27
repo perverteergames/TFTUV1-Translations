@@ -394,7 +394,7 @@ translate russian strings:
     old "Popping that Popstar"
     new "По попе поп-звезду"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
@@ -408,7 +408,7 @@ translate russian strings:
 
     # game/scenes.rpy:3
     old "Lilly's Farewell"
-    new "Прощание с Лилли"
+    new "Прощание Лилли"
 
     # game/scenes.rpy:3
     old "Sampling the wares"
@@ -424,7 +424,7 @@ translate russian strings:
 
     # game/scenes.rpy:3
     old "Clogging the drain"
-    new "Засорившийся слив"
+    new "Засорение слива"
 
     # game/scenes.rpy:3
     old "Fun on Kepler XIV"
@@ -433,4 +433,320 @@ translate russian strings:
     # game/scenes.rpy:3
     old "Bunk Bonanza"
     new "Двухъярусное затишье"
+
+# TODO: Translation updated at 2022-07-02 15:42
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Célick"
+    new "Селик"
+
+    # game/scenes.rpy:3
+    old "Thyia's Tools"
+    new "Инструменты Тхии"
+
+    # game/scenes.rpy:3
+    old "Episode #13"
+    new "Эпизод #13"
+
+    # game/scenes.rpy:3
+    old "Touchy-feely"
+    new "Сюси-Пуси"
+
+    # game/scenes.rpy:3
+    old "Night Cap"
+    new "Ночёвка"
+
+    # game/scenes.rpy:3
+    old "Grateful Vess"
+    new "Признательная Весс"
+
+    # game/scenes.rpy:3
+    old "For the Horde!"
+    new "За Орду!"
+
+# TODO: Translation updated at 2022-10-09 18:57
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Shower Spy"
+    new "Душевой Шпион"
+
+    # game/scenes.rpy:3
+    old "Vess Freed"
+    new "Высвобождение Весс"
+
+    # game/scenes.rpy:3
+    old "Episode #14"
+    new "Эпизод #14"
+
+    # game/scenes.rpy:3
+    old "The Waiting Game"
+    new "Игра в ожидание"
+
+    # game/scenes.rpy:3
+    old "Nadya's Night"
+    new "Ночь Надии"
+
+# TODO: Translation updated at 2022-12-15 21:28
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Midnight Taste"
+    new "Вкус полуночи"
+
+    # game/scenes.rpy:3
+    old "Puss or Tush?"
+    new "Пилотка или попка?"
+
+    # game/scenes.rpy:3
+    old "Episode #15"
+    new "Эпизод #15"
+
+    # game/scenes.rpy:3
+    old "Pitch a Tent"
+    new "Разбитая палатка"
+
+    # game/scenes.rpy:3
+    old "Showery Show"
+    new "Душевое шоу"
+
+    # game/scenes.rpy:3
+    old "Dual Wielding"
+    new "Стрельба по-македонски"
+
+# TODO: Translation updated at 2023-04-01 11:39
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Pussy at the Pool"
+    new "Киска в бассейне"
+
+    # game/scenes.rpy:3
+    old "Clearing Her Throat"
+    new "Прочистка горла"
+
+    # game/scenes.rpy:3
+    old "Episode #16"
+    new "Эпизод #16"
+
+    # game/scenes.rpy:3
+    old "Swimming Lessons"
+    new "Уроки плавания"
+
+    # game/scenes.rpy:3
+    old "Unfinished Business"
+    new "Незаконченные дела"
+
+    # game/scenes.rpy:3
+    old "Sneaky Snake"
+    new "Хитрая змейка"
+
+    # game/scenes.rpy:3
+    old "Just Deserts"
+    new "Десерт"
+
+    # game/scenes.rpy:3
+    old "Spank 'n Spunk"
+    new "Шлёпка и Течка"
+
+# TODO: Translation updated at 2023-06-29 20:33
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Vess' Caress"
+    new "Ласка Весс"
+
+    # game/scenes.rpy:3
+    old "Cabin Climax"
+    new "Каютный оргазм"
+
+    # game/scenes.rpy:3
+    old "Episode #17"
+    new "Эпизод #17"
+
+    # game/scenes.rpy:3
+    old "Cabin Fever"
+    new "Жаркая каюта"
+
+    # game/scenes.rpy:3
+    old "Vess Visit"
+    new "Визит к Весс"
+
+    # game/scenes.rpy:3
+    old "Toying With You"
+    new "Играясь с тобой"
+
+# TODO: Translation updated at 2023-11-12 13:23
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Eva Eating The Apple"
+    new "Ева Ест Яблоко"
+
+    # game/scenes.rpy:3
+    old "Ruin Romp"
+    new "Разрушительная Шалость"
+
+    # game/scenes.rpy:3
+    old "Episode #18"
+    new "Эпизод #18"
+
+    # game/scenes.rpy:3
+    old "The Ex-Virgin Queen"
+    new "Бывшая Королева-девственница"
+
+    # game/scenes.rpy:3
+    old "BFF"
+    new "ЛУЧШИЕ ПОДРУГИ"
+
+# TODO: Translation updated at 2024-03-02 10:36
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Semen Shower"
+    new "Семенной душ"
+
+    # game/scenes.rpy:3
+    old "Bed Ass"
+    new "Отпадный шезлонг"
+
+    # game/scenes.rpy:3
+    old "Episode #19"
+    new "Эпизод #19"
+
+    # game/scenes.rpy:3
+    old "Couch Fuckers"
+    new "Диван и Трахи"
+
+    # game/scenes.rpy:3
+    old "Nightcap"
+    new "Стаканчик на ночь"
+
+    # game/scenes.rpy:3
+    old "Shower For Two"
+    new "Душ для двоих"
+
+    # game/scenes.rpy:3
+    old "Balcony Bonking"
+    new "Балконный трах"
+
+# TODO: Translation updated at 2024-09-12 20:55
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Round Two"
+    new "Второй раунд"
+
+    # game/scenes.rpy:3
+    old "Rainforest"
+    new "Влажные леса"
+
+    # game/scenes.rpy:3
+    old "Episode #20"
+    new "Эпизод #20"
+
+    # game/scenes.rpy:3
+    old "It Takes Two"
+    new "Нужны двое"
+
+    # game/scenes.rpy:3
+    old "Paclerara Passion"
+    new "Страсть Паклерары"
+
+    # game/scenes.rpy:3
+    old "Massage Make-out"
+    new "Массажные ласки"
+
+    # game/scenes.rpy:3
+    old "Poolside Plow"
+    new "Перепихон у бассейна"
+
+# TODO: Translation updated at 2025-02-04 18:17
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Eva Evening"
+    new "Вечер с Евой"
+
+    # game/scenes.rpy:3
+    old "Breeding the Books"
+    new "Размножение книг"
+
+    # game/scenes.rpy:3
+    old "Episode #21"
+    new "Эпизод #21"
+
+    # game/scenes.rpy:3
+    old "Intercourse In Transit"
+    new "Соитие уже в пути"
+
+    # game/scenes.rpy:3
+    old "Attendant Arousal"
+    new "Возбуждение прислужницы"
+
+    # game/scenes.rpy:3
+    old "Ramrod Raene"
+    new "Шомпол Рэин"
+
+    # game/scenes.rpy:3
+    old "Four Is A Crowd"
+    new "Четверо - это Толпа"
+
+    # game/scenes.rpy:3
+    old "Over By The Window"
+    new "У окна"
+
+    # game/scenes.rpy:3
+    old "Couch Coitus"
+    new "Соитие на диване"
+
+    # game/scenes.rpy:3
+    old "Couch Corruption"
+    new "Диванное совращение"
+
+    # game/scenes.rpy:3
+    old "Shagging After Showering"
+    new "Потрахушки после душа"
+
+# TODO: Translation updated at 2025-05-18 20:59
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Lickety-spit"
+    new "ТурбоЛиз"
+
+    # game/scenes.rpy:3
+    old "Ziv's Zenith"
+    new "Зив в Зените"
+
+    # game/scenes.rpy:3
+    old "Operative Oral"
+    new "Оперативный Орал"
+
+    # game/scenes.rpy:3
+    old "Duo Dalliance"
+    new "Дуэт Дальянс"
+
+    # game/scenes.rpy:3
+    old "Two Turned-on Tools"
+    new "Два заведённых инструмента"
+
+    # game/scenes.rpy:3
+    old "Boinking On The Bridge"
+    new "Перепихон на мостике"
+
+    # game/scenes.rpy:3
+    old "Bridge Bitches"
+    new "Мостовые Сучки"
 

@@ -8894,11 +8894,11 @@ translate russian episode006_6700ecb2:
 
     "Маленькое окошко позволяло мне видеть пространство сразу за ней, коридор, такой же непримечательный, как и моя камера."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 # game/episode006.rpy:75
 translate russian episode006_a3e40928:
 
     # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
-    co "К сожалению, Хрейр был не очень откровенен во время своей последней исповеди, но, может быть, его записи поведают нам, куда эти женщины-воины забрали подругу мальчика."
+    co "К сожалению, Хрейр был не очень откровенен во время своей последней исповеди, но, возможно, его записи поведают нам, куда эти женщины-воины забрали подругу мальчика."
 

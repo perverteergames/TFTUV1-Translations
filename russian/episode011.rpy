@@ -6088,7 +6088,7 @@ translate russian ep011_feast_orgy_bb522e43:
 translate russian ep011_feast_orgy_5fb8d962:
 
 
-    "Сначала медленно, острожно, не выскальзывая из неё, но довольно быстро набирая скорость."
+    "Сначала медленно, осторожно, не выскальзывая из неё, но довольно быстро набирая скорость."
 
 
 translate russian ep011_feast_orgy_cfd5a9fb:
@@ -6448,13 +6448,13 @@ translate russian strings:
     old "Kepler XIV is a planet at the edge of Sovereignty territory. Known for it's beaches and various entertainments, it's a popular retreat for people from all over Sovereignty space."
     new "Кеплер XIV это планета на границе территории Суверенитета. Известная своими пляжами и многочисленными развлечениями, она является популярным местом отдыха для людей со всего пространства Суверенитета."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 # game/episode011.rpy:492
 translate russian ep011_eva_talk_5460e3ab:
 
     # e "You brought Nadya and Aven too?"
-    e "Тётю Надию и Эвин ты тоже привела?"
+    e "Надию и Эвин ты тоже привела?"
 
 # game/episode011.rpy:661
 translate russian ep011_vess_talk_de30f6da:

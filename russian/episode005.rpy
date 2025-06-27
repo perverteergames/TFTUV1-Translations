@@ -11278,7 +11278,7 @@ translate russian ep005_departure_2f80f783:
 translate russian ep005_departure_f04f4307:
 
 
-    ce "Стоит ли нам снова отважиться на «взрыв»?"
+    ce "Стоит ли нам снова отважиться на Детонацию?"
 
 
 translate russian ep005_departure_a04a36ab:
@@ -14444,19 +14444,3 @@ translate russian ep005_factory_visit_55e5d603:
 
     "Я проследовал за охранником по нескольким невзрачным коридорам, прежде чем остановиться у большой двери."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-07-27 15:45
-
-# game/episode005.rpy:3029
-translate russian ep005_jade_factory_talk_42d9e489:
-
-    # c "Giving him just one bullet was more than a kindness."
-    c "Дать ему всего одну пулю было больше, чем просто добротой."
-
-# TODO: Translation updated at 2022-07-28 10:26
-
-# game/episode005.rpy:2260
-translate russian ep005_doarn_finger_03374062:
-
-    # "This wasn't sensual masturbation, but rather a frantic finger fuck, a single-minded pursuit of climax."
-    "Это была не чувственная мастурбация, а, скорее, безумный трах пальцами, целеустремлённая погоня за оргазмом."
-

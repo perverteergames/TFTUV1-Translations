@@ -3652,7 +3652,7 @@ translate russian ep011_jade_sex_hard_6c23b33a:
 translate russian ep011_lilly_sex_c90e5fbb:
 
 
-    "Как только я почувствовал, что её тело давит на мое, моя любовь к Лили превратилась в горячее желание."
+    "Как только я почувствовал, что её тело давит на мое, моя любовь к Лилли превратилась в горячее желание."
 
 
 translate russian ep011_lilly_sex_b7bb4e51:
@@ -3976,7 +3976,7 @@ translate russian ep011_lilly_sex_d22a7839:
 translate russian ep011_lilly_sex_44522a1a:
 
 
-    "Лили смотрела на меня с лихорадочными глазами и жемчужным потом на коже."
+    "Лилли смотрела на меня с лихорадочными глазами и жемчужным потом на коже."
 
 
 translate russian ep011_lilly_sex_7d4fdd0f:
@@ -4084,7 +4084,7 @@ translate russian ep011_lilly_sex_14933d6d:
 translate russian ep011_lilly_sex_cd169dee:
 
 
-    "Лили действительно стала женщиной."
+    "Лилли действительно стала женщиной."
 
 
 translate russian ep011_lilly_sex_14bc98ce:

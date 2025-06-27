@@ -484,7 +484,7 @@ translate russian episode012a_fccee1db:
 translate russian episode012a_a8baf43f:
 
 
-    "Поместье фон Скандерсфельт было одним из самых больших и отдалённых на Кеплере."
+    "Поместье фон Скандерфельт было одним из самых больших и отдалённых на Кеплере."
 
 
 translate russian episode012a_e7137156:
@@ -658,7 +658,7 @@ translate russian ep012_kepler_thim_talk_44799a76:
 translate russian ep012_kepler_thim_talk_4e17fa21:
 
 
-    c "Справедливое замечание, но мы ничтожны по сравнению с фон Скандерсфельтами."
+    c "Справедливое замечание, но мы ничтожны по сравнению с фон Скандерфельтами."
 
 
 translate russian ep012_kepler_thim_talk_b5454397:
@@ -766,7 +766,7 @@ translate russian ep012_kepler_thim_talk_a9f0fad5:
 translate russian ep012_kepler_thim_talk_1034d9d4:
 
 
-    t "Я уверен, что если бы кто-нибудь осмелился посмотреть, то из шкафа фон Скандерсфельтов вывалились бы какие-нибудь мерзкие скелеты."
+    t "Я уверен, что если бы кто-нибудь осмелился посмотреть, то из шкафа фон Скандерфельтов вывалились бы какие-нибудь мерзкие скелеты."
 
 
 translate russian ep012_kepler_thim_talk_e5882bc4:
@@ -5206,7 +5206,7 @@ translate russian ep012_nadya_reveal_b41f1dca:
 translate russian ep012_nadya_reveal_fd38e1dd:
 
 
-    "Надя колебалась, повернулась за остальными, но в конце концов закрыла дверь и пошла ко мне."
+    "Надия колебалась, повернулась за остальными, но в конце концов закрыла дверь и пошла ко мне."
 
 
 translate russian ep012_nadya_reveal_b6a2e70b:
@@ -5374,7 +5374,7 @@ translate russian ep012_nadya_reveal_022613dd:
 translate russian ep012_nadya_reveal_24770b67:
 
 
-    "Надя подняла на меня глаза, сглотнув комок в горле."
+    "Надия подняла на меня глаза, сглотнув комок в горле."
 
 
 translate russian ep012_nadya_reveal_7499f87a:
@@ -7858,31 +7858,31 @@ translate russian strings:
     old "Allow"
     new "Позволить"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 # game/episode012a.rpy:62
 translate russian episode012a_ba164597:
 
     # er "We also have warships at our disposal with the ousting of the warrior caste."
-    er "К тому же, после изгнания касты воинов в нашем распоряжении оказались военные корабли."
+    er "К тому же, после изгнания касты воинов в нашем распоряжении появились военные корабли."
 
 # game/episode012a.rpy:863
 translate russian ep012_kepler_vess_talk_650e7857:
 
     # ve "But...{w} I’ve come to realize the chances of seeing her again are becoming slimmer by the day, if there ever was a chance."
-    ve "Но...{w} Я поняла, что шансы увидеть её снова уменьшаются с каждым днём, если такой шанс вообще был."
+    ve "Но... {w} Я поняла, что шансы увидеть её снова уменьшаются с каждым днём, если они вообще были."
 
 # game/episode012a.rpy:1506
 translate russian ep012_mansion_36802745:
 
     # c "Still her regular old self."
-    c "Всё такая же, как и прежде."
+    c "Всё ещё такая же, как прежде."
 
 # game/episode012a.rpy:1614
 translate russian ep012_nadya_reveal_c4b3be1f:
 
     # c "At one point, she mentioned only pretending to have a son."
-    c "В какой-то момент она упомянула, что только притворяется, что у неё есть сын."
+    c "В какой-то момент, она упомянула, что только притворяется, что у неё есть сын."
 
 # game/episode012a.rpy:1726
 translate russian ep012_nadya_reveal_4a8e24fa:
@@ -7894,41 +7894,11 @@ translate russian ep012_nadya_reveal_4a8e24fa:
 translate russian ep012_nadya_reveal_e9c73987:
 
     # na "I was too afraid to be alone in the same room with the man I thought knew for so long."
-    na "Я слишком боялась оставаться наедине в одной комнате с человеком, которого, как мне казалось, я знала так долго."
+    na "Я слишком боялась оставаться наедине в одной комнате с человеком, которого, как мне казалось, знала так долго."
 
 # game/episode012a.rpy:2110
 translate russian ep012_yve_sex_722320ee:
 
     # c "Just like the dirty slut you are."
     c "Как и подобает грязной шлюхе, которой ты являешься."
-
-# TODO: Translation updated at 2022-07-27 15:45
-
-# game/episode012a.rpy:2242
-translate russian ep012_yve_sex_43ba36aa:
-
-    # "Yve bit back the pain and wrapped her legs around me."
-    "Ив сдержала боль и обхватила меня ногами."
-
-# TODO: Translation updated at 2022-07-28 10:26
-
-# game/episode012a.rpy:191
-translate russian episode012a_d6aa3455:
-
-    # "The house was surprisingly modern, I’d expected some pastiche of a bygone era, but not everyone seemed enamored with that building style."
-    "Дом был на удивление современным, я ожидал какой-нибудь пародии на ушедшую эпоху, но, похоже, не все были в восторге от этого архитектурного стиля."
-
-# game/episode012a.rpy:1201
-translate russian ep012_club_e407b6db:
-
-    # "Pointing a sausage-like digit into my general direction, he signaled me to follow him into a small antechamber."
-    "Указывая похожим на сосиску пальцем в мою сторону, он дал знак следовать за ним в небольшую прихожую."
-
-# TODO: Translation updated at 2023-07-10 22:04
-
-# game/episode012a.rpy:819
-translate russian ep012_kepler_vess_talk_c20503dd:
-
-    # ve "It just drifts and drifts, until his handmaidens have found another lead and then they set out to investigate."
-    ve "Она просто дрейфует и дрейфует, пока его подручные не находят очередную зацепку, и тогда они отправляются на поиски."
 

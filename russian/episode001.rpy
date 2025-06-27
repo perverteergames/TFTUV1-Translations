@@ -10,7 +10,7 @@ translate russian episode001_690a76b8:
 translate russian episode001_07cfefb1:
 
 
-    "Космос - необъятное, холодное место..."
+    "Космос - огромное, холодное место..."
 
 
 translate russian episode001_e08890e4:
@@ -250,7 +250,7 @@ translate russian episode001_07304d30:
 translate russian episode001_e3d972c0:
 
 
-    "Так продолжалось до тех пор, пока её мать Надия внезапно не ушла с ней, оставив мужа с Евой и Лилией."
+    "Так продолжалось до тех пор, пока её мать Надия внезапно не ушла с ней, оставив мужа с Евой и Лилли."
 
 
 translate russian episode001_9aedb519:
@@ -550,7 +550,7 @@ translate russian episode001_dacc8910:
 translate russian episode001_faa8a9a1:
 
 
-    ca "...Валенман де Лонваль, С. Сузуме, К. Сузуме C. и фон Скандерсфельт."
+    ca "...Валенман де Лонваль, С. Сузуме, К. Сузуме C. и фон Скандерфельт."
 
 
 translate russian episode001_cd786109:
@@ -4876,7 +4876,7 @@ translate russian strings:
 
 
     old "Visit Eva and Lilly"
-    new "Посетить Еву и Лили"
+    new "Посетить Еву и Лилли"
 
 
     old "Go to sleep"
@@ -5061,7 +5061,7 @@ translate russian episode001_391951c0:
 translate russian episode001_b0120d87:
 
 
-    "Так продолжалось до тех пор, пока её мать Надия внезапно не ушла с ней, оставив мужа с Евой и Лилией."
+    "Так продолжалось до тех пор, пока её мать Надия внезапно не ушла с ней, оставив мужа с Евой и Лилли."
 
 
 translate russian episode001_da3cf92f:
@@ -5331,7 +5331,7 @@ translate russian strings:
 
 
     old "Thim von Skandersfelt"
-    new "Тхим вон Скандерсфельт"
+    new "Тхим фон Скандерфельт"
 
 
     old "Jade"
@@ -5617,9 +5617,9 @@ translate russian ep001_basecamp_conversation_97cc546d:
 translate russian episode001_a4f78208:
 
 
-    ca "...Валенман де Лонваль, [p_initial]. К. Сузуме, С. Сузуме и Т. Вон Скандерсфельт."
+    ca "...Валенман де Лонваль, [p_initial]. К. Сузуме, С. Сузуме и Т. фон Скандерфельт."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
@@ -5629,11 +5629,11 @@ translate russian strings:
 
     # game/episode001.rpy:267
     old "The battle cruiser Ypotryll belongs to one of the larger class of ships under the TGN banner and most often utilized in any type of situation, from troop deployment to large scale ship-to-ship battles."
-    new "Боевой крейсер Ипотрилл принадлежит к одному из самых крупных классов кораблей под знаменем ЗГФ и чаще всего используется в различных ситуациях, от переброски войск до крупномасштабных сражений между кораблями."
+    new "Боевой крейсер Ипотрилл относится к одному из более крупных классов кораблей под флагом ЗГФ и наиболее часто используется в ситуациях любого типа, от развёртывания войск до крупномасштабных сражений между кораблями."
 
     # game/episode001.rpy:267
     old "Commander Szuzume is the most senior officer on the Ypotryll."
-    new "Коммандер Сузуме является самым старшим офицером на Ипотрилле."
+    new "Коммандер Сузуме является высшим должностным лицом на Ипотрилле."
 
     # game/episode001.rpy:1273
     old "TGN Enfield"
@@ -5641,5 +5641,5 @@ translate russian strings:
 
     # game/episode001.rpy:1273
     old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."
-    new "Легкий истребитель ЗГФ, захваченный [p_name] и командой во время их дезертирства из флота."
+    new "Лёгкий истребитель ЗГФ, захваченный [p_name] и экипажем во время дезертирства из флота."
 

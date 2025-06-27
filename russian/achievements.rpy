@@ -1,22 +1,22 @@
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
     # game/achievements.rpy:3
     old "Where no man has gone before"
-    new "Там, где не ступала нога человека"
+    new "Там, где ещё не ступала нога человека"
 
     # game/achievements.rpy:3
     old "Something lost, something gained."
-    new "Что-то теряешь, что-то находишь"
+    new "Что-то теряешь, что-то находишь."
 
     # game/achievements.rpy:3
     old "The Epicly Unspeakable Apple of Sin"
-    new "Эпически невыразимое яблоко греха"
+    new "Эпически Невыразимое Яблоко греха"
 
     # game/achievements.rpy:3
     old "You've tasted the unspeakable and undoubtedly crave for more."
-    new "Ты попробовал невыразимое и, несомненно, жаждешь большего."
+    new "Ты попробовал неописуемое и, несомненно, жаждешь большего."
 
     # game/achievements.rpy:3
     old "Locked and unloaded"
@@ -40,7 +40,7 @@ translate russian strings:
 
     # game/achievements.rpy:3
     old "Hero of the Common Folk"
-    new "Герой из народа"
+    new "Герой из Народа"
 
     # game/achievements.rpy:3
     old "The desires of the common folk are often overlooked, but not by you."
@@ -48,7 +48,7 @@ translate russian strings:
 
     # game/achievements.rpy:3
     old "A Fine Vintage"
-    new "Прекрасный Винтаж"
+    new "Прекрасная Марка"
 
     # game/achievements.rpy:3
     old "Met Doarn and sampled some of his collection of exotic drinks."
@@ -56,7 +56,7 @@ translate russian strings:
 
     # game/achievements.rpy:3
     old "The Caves of Feel"
-    new "Пещеры чувств"
+    new "Пещеры Чувств"
 
     # game/achievements.rpy:3
     old "The R'o welcomed you in great numbers."

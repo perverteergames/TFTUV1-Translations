@@ -8440,7 +8440,7 @@ translate russian ep003_shuttle_d7f43ad5:
 translate russian ep003_shuttle_255d054f:
 
 
-    ce "Корабль называется «Его Вечный Святой Свет, Тысячекратно Украшающий Наше Ничтожное Существование»."
+    ce "Корабль называется «Его Вечный Святой Свет, Который В Тысячу Раз Украшает Наше Ничтожное Существование»."
 
 
 translate russian ep003_shuttle_1ed694d8:
@@ -8796,7 +8796,7 @@ translate russian strings:
 
 
     old "Hierophant Sacleus is the highest ranking member of an unknown religious order and owner of the vessel “His Eternal Holy Light That Graces Our Paltry Existence A Thousandfold”."
-    new "Иерофант Саклеус является самым высокопоставленным членом неизвестного религиозного ордена и владельцем судна «Его Вечный Святой Свет, Тысячекратно Украшающий Наше Ничтожное Существование»."
+    new "Иерофант Саклеус является самым высокопоставленным членом неизвестного религиозного ордена и владельцем судна «Его Вечный Святой Свет, Который В Тысячу Раз Украшает Наше Ничтожное Существование»."
 
 
 
@@ -9422,15 +9422,15 @@ translate russian strings:
     old "Scientist specializing in genetics and living a solitary life inside a well-protected asteroid base. Knows more about the warrior women that abducted Eva."
     new "Учёный, специализирующийся на генетике и ведущий уединённый образ жизни на хорошо охраняемой астероидной базе. Знает больше о женщинах-воинах, которые похитили Еву."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
-# TODO: Translation updated at 2022-04-05 21:43
+# TODO: Translation updated at 2022-03-28 20:04
 
 translate russian strings:
 
     # game/episode003.rpy:2692
     old "His Eternal Holy Light That Graces Our Paltry Existence A Thousandfold"
-    new "Его Вечный Святой Свет, Тысячекратно Украшающий Наше Ничтожное Существование"
+    new "Его Вечный Святой Свет, Который В Тысячу Раз Украшает Наше Ничтожное Существование"
 
     # game/episode003.rpy:2692
     old "A large cruiser belonging to Hierophant Sacleus, of the religious order based on Verdigris V and Raene's father."
-    new "Большой крейсер, принадлежащий Иерофанту Саклеусу, члену религиозного ордена, основанного на Вердигрисе V и отцу Рэин."
+    new "Большой крейсер, принадлежащий Иерофанту Саклеусу, члену религиозного ордена, основанного на Вердигрисе V, и отцу Рэин."
 
