@@ -1758,3 +1758,29 @@ translate russian ep003_celine_talk_f47cb8d6:
 
     ce "Да ладно, Кит, может быть она.-"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode003_conversations.rpy:457
+translate russian ep003_thyia_talk_40db5048:
+
+    # c "So I can slam you against the bulkhead and fuck you hard."
+    c "Чтобы я мог прижать тебя к переборке и жестко трахнуть."
+
+# game/episode003_conversations.rpy:481
+translate russian ep003_thyia_talk_150c2997:
+
+    # th "You know the saying, what happens on Vulpes..."
+    th "Вы знаете поговорку: что происходит на Vulpes..."
+
+# game/episode003_conversations.rpy:482
+translate russian ep003_thyia_talk_9f538fc9:
+
+    # c "Can’t say that I’m familiar with that particular aphorism."
+    c "Не могу сказать, что я знаком с этим конкретным афоризмом."
+
+# game/episode003_conversations.rpy:483
+translate russian ep003_thyia_talk_9e7946e4:
+
+    # th "Should have taken your chance before, is all I’m saying."
+    th "Я просто говорю, что нужно было воспользоваться шансом раньше."
+

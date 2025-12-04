@@ -11272,3 +11272,29 @@ translate russian ep010_erylin_keo_sex_proposal_36e69f78_1:
     # "All smiles, Erylin and her acolyte thanked me for the company and bid me farewell."
     "Все улыбались, Эрилин и её послушница поблагодарили меня за компанию и попрощались."
 
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode010.rpy:81
+translate russian episode010_b1e9252e:
+
+    # bl "They seemed to have pissed off a local crime lord here and then vanished without a trace into the Heveliun Belt, a local asteroid field."
+    bl "Похоже, они разозлили местного криминального авторитета, а затем бесследно исчезли в поясе Гевелиуна, местном астероидном поле."
+
+# game/episode010.rpy:1204
+translate russian ep010_raene_1ba67ae8:
+
+    # "The calgounds ran fast, and Raene had a head start."
+    "Кальгунды бежали быстро, и Рэйн имела фору."
+
+# game/episode010.rpy:1877
+translate russian ep010_hunt_c0bd0cb3:
+
+    # "Though the laser rifle I carried seemed impressive, I was pretty sure it wouldn’t even make a dent in the bug’s carapace."
+    "Хотя лазерная винтовка, которую я нес, выглядела впечатляюще, я был почти уверен, что она даже не оставит впадины на панцире насекомого."
+
+# game/episode010.rpy:3074
+translate russian ep010_vess_sex_ad74bdfa:
+
+    # ve "I’m not sure you realize how much I enjoyed our night on Almagest?"
+    ve "Не уверен, что ты понимаешь, как мне понравился наш вечер в Almagest?"
+

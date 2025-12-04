@@ -390,3 +390,19 @@ translate russian strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
     new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Русский){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel {i}(Spanish){/i}, `SpeciaL. (Turkish)"
 
+# TODO: Translation updated at 2025-09-04 12:12
+
+translate russian strings:
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "СПАСИБО"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Огромное спасибо моим главным спонсорам, вы просто молодцы!"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+

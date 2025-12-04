@@ -6462,3 +6462,17 @@ translate russian ep011_vess_talk_de30f6da:
     # ve "The way you cast everything aside to find Eva, it really struck me."
     ve "То, как ты отбросил всё, чтобы найти Еву, меня действительно поразило."
 
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode011.rpy:1636
+translate russian ep011_feast_orgy_a104c94d:
+
+    # woman2 "They’re both very big boys, aren’t they?"
+    woman2 "Они оба очень большие мальчики, не так ли?"
+
+# game/episode011.rpy:1673
+translate russian ep011_feast_orgy_78c80ce2:
+
+    # woman2 "He’s a big boy, isn’t he?"
+    woman2 "Он большой мальчик, не так ли?"
+

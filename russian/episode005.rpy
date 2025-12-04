@@ -14444,3 +14444,23 @@ translate russian ep005_factory_visit_55e5d603:
 
     "Я проследовал за охранником по нескольким невзрачным коридорам, прежде чем остановиться у большой двери."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode005.rpy:1712
+translate russian ep005_thim_c5f9a2ed:
+
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Я просто думал, что ты доволен тем, что после окончания учебы тебя ждет гарантированная должность офицера."
+
+# game/episode005.rpy:2323
+translate russian ep005_doarn_finger_03374062:
+
+    # "This wasn't sensual masturbation, but rather a frantic finger fuck, a single-minded pursuit of climax."
+    "Это была не чувственная мастурбация, а скорее неистовое трахание пальцами, целеустремленное стремление к кульминации."
+
+# game/episode005.rpy:3092
+translate russian ep005_jade_factory_talk_42d9e489:
+
+    # c "Giving him just one bullet was more than a kindness."
+    c "Дать ему всего одну пулю было более чем милосердием."
+

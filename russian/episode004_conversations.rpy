@@ -4961,3 +4961,11 @@ translate russian ep004_jade_sex_hard_36c63158:
 
     "Обмазав её лицо спермой, я позволил ей рухнуть на меня сверху."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode004_conversations.rpy:1430
+translate russian ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Обмазав свое лицо спермой, она рухнула на меня с широкой улыбкой."
+

@@ -6418,3 +6418,47 @@ translate russian strings:
     old "Rhenkoy society is stricly hierarchical, divided in to commune-like living groups and governed by the Council of Nkoy."
     new "Общество Ренкой строго иерархично, разделено на коммунообразные группы населения и управляется Советом Нкоя."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode004.rpy:417
+translate russian episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka "Надеюсь, это сообщение дойдет до тебя, потому что они наконец-то придут за мной."
+
+# game/episode004.rpy:418
+translate russian episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka "Я не знаю, кто это, но они уже почти прошли через охранные двери."
+
+# game/episode004.rpy:419
+translate russian episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka "Может быть, это как-то связано с тобой, а может быть, просто пришло мое время."
+
+# game/episode004.rpy:420
+translate russian episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka "Сейчас это не имеет значения."
+
+# game/episode004.rpy:421
+translate russian episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka "Воительницы, которых вы ищете, — это Акархин, продукт незаконного генетического эксперимента."
+
+# game/episode004.rpy:422
+translate russian episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka "Местонахождение их родной планеты неизвестно, но Ранимо Цетрувар, вероятно, знает его."
+
+# game/episode004.rpy:423
+translate russian episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka "Надя, ты была верной подругой, я..."
+

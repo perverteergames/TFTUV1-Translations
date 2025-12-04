@@ -7570,3 +7570,17 @@ translate russian strings:
     # game/extras.rpy:2225
     old "Siora"
     new "Сиора"
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/extras.rpy:1989
+translate russian extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    "Командир проглотила все и снова обратила свое внимание на меня."
+
+# game/extras.rpy:2616
+translate russian extra_scene_26_d7898ba9:
+
+    # "My fingers slowly slid through her pussy for the first time and I got a good measure of how wet she really was."
+    "Мои пальцы впервые медленно скользнули по ее киске, и я хорошо почувствовал, насколько она была влажной."
+

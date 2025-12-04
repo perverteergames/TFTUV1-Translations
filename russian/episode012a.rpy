@@ -7902,3 +7902,29 @@ translate russian ep012_yve_sex_722320ee:
     # c "Just like the dirty slut you are."
     c "Как и подобает грязной шлюхе, которой ты являешься."
 
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode012a.rpy:191
+translate russian episode012a_d6aa3455:
+
+    # "The house was surprisingly modern, I’d expected some pastiche of a bygone era, but not everyone seemed enamored with that building style."
+    "Дом был удивительно современным, я ожидал увидеть какую-то пародию на ушедшую эпоху, но не все, похоже, были в восторге от этого стиля здания."
+
+# game/episode012a.rpy:819
+translate russian ep012_kepler_vess_talk_c20503dd:
+
+    # ve "It just drifts and drifts, until his handmaidens have found another lead and then they set out to investigate."
+    ve "Он просто плывет по течению, пока его служанки не находят новую зацепку, и тогда они отправляются на расследование."
+
+# game/episode012a.rpy:1201
+translate russian ep012_club_e407b6db:
+
+    # "Pointing a sausage-like digit into my general direction, he signaled me to follow him into a small antechamber."
+    "Указав на меня пальцем, похожим на колбасу, он дал мне знак следовать за ним в небольшую прихожую."
+
+# game/episode012a.rpy:2310
+translate russian ep012_yve_sex_43ba36aa:
+
+    # "Yve bit back the pain and wrapped her legs around me."
+    "Ив сдержала боль и обхватила меня ногами."
+

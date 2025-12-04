@@ -7300,3 +7300,71 @@ translate russian strings:
     old "Creampie Siora"
     new "Кончить в Сиору"
 
+# TODO: Translation updated at 2025-09-04 12:12
+
+# game/episode012b.rpy:93
+translate russian episode012b_b46ebc15:
+
+    # bl "Yes, we should hurry, we might be able to catch them in time."
+    bl "Да, нам нужно поторопиться, возможно, мы успеем их догнать."
+
+# game/episode012b.rpy:238
+translate russian episode012b_ad48e794:
+
+    # c "Supposedly she was some princess, back when the Sovereignty hadn't yet demonstrated its superiority."
+    c "Предположительно, она была какой-то принцессой, когда Суверенитет еще не продемонстрировал свое превосходство."
+
+# game/episode012b.rpy:858
+translate russian ep012_interrogation_41901602:
+
+    # "I didn't see my father give the order, but that comment earned me a fist against the head, cracking my eye socket."
+    "Я не видел, как мой отец отдал приказ, но за этот комментарий я получил кулаком по голове, в результате чего у меня треснула глазница."
+
+# game/episode012b.rpy:1106
+translate russian ep012_execution_ebe0b8a9:
+
+    # "Hopefully my misdirections during the simulated interrogation were enough to give the crew a head start."
+    "Надеюсь, мои ложные указания во время имитации допроса были достаточными, чтобы дать экипажу фору."
+
+# game/episode012b.rpy:1136
+translate russian ep012_execution_a80e763e:
+
+    # "Did that mean they captured my friends?"
+    "Это означало, что они похитили моих друзей?"
+
+# game/episode012b.rpy:1201
+translate russian ep012_execution_f28f745a:
+
+    # "A searing pain coursed through my arms as the muscles strained against the pull."
+    "Жгучая боль пронзила мои руки, когда мышцы напряглись, сопротивляясь тяге."
+
+# game/episode012b.rpy:1339
+translate russian ep012_lilly_sex_64edb63a:
+
+    # "She sat upright again and I pulled my girl on my lap for another round of kissing."
+    "Она снова села прямо, и я притянул свою девушку к себе на колени, чтобы поцеловать ее еще раз."
+
+# game/episode012b.rpy:1367
+translate russian ep012_lilly_sex_6d7d07a4:
+
+    # "It took me a lot of self-restraint not to give a little thrust and enter her, but I decided against it as Lilly was trusting me to be in control."
+    "Мне потребовалось немало самообладания, чтобы не сделать небольшое движение и не войти в нее, но я решил не делать этого, поскольку Лилли доверяла мне и полагалась на то, что я все контролирую."
+
+# game/episode012b.rpy:1966
+translate russian ep012_voyeur_sex_b067852c:
+
+    # "The woman on the couch clearly reveled in the distress of the girls in front of her."
+    "Женщина на диване явно наслаждалась страданиями девушек, сидящих перед ней."
+
+# game/episode012b.rpy:2033
+translate russian ep012_tyuarene_sex_ecb38cd9:
+
+    # mad "My friend to your left is Siora, Tinesia to your right and I’m Madris."
+    mad "Моя подруга слева от тебя – Сиора, справа – Тинезия, а я – Мадрис."
+
+translate russian strings:
+
+    # game/episode012b.rpy:1668
+    old "Cover their faces"
+    new "Закрыть их лица"
+
