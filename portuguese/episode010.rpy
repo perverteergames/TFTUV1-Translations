@@ -11676,3 +11676,17 @@ translate portuguese ep010_raene_1ba67ae8:
     # "The calgounds ran fast, and Raene had a head start."
     "Os calgounds correram rápido, e Raene começou antes."
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+# game/episode010.rpy:81
+translate portuguese episode010_b1e9252e:
+
+    # bl "They seemed to have pissed off a local crime lord here and then vanished without a trace into the Heveliun Belt, a local asteroid field."
+    bl "Eles parecem ter irritado um chefão do crime local e desapareceram sem deixar vestígios no Cinturão de Heveliun, um campo de asteróides local."
+
+# game/episode010.rpy:3074
+translate portuguese ep010_vess_sex_ad74bdfa:
+
+    # ve "I’m not sure you realize how much I enjoyed our night on Almagest?"
+    ve "Não sei se você percebeu o quanto eu gostei da nossa noite no Almagest."
+

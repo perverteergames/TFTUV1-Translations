@@ -4836,3 +4836,11 @@ translate portuguese ep004_jade_sex_hard_36c63158:
     # "After plastering her face with semen, I allowed her to collapse on top of me."
     "Depois de encher a cara dela de semen, deixei ela cair em cima de mim."
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+# game/episode004_conversations.rpy:1430
+translate portuguese ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Depois de cobrir o rosto com sêmen, ela desabou em cima de mim com um largo sorriso."
+

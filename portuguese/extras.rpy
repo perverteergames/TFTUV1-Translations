@@ -7648,3 +7648,11 @@ translate portuguese extra_scene_26_d7898ba9:
     # "My fingers slowly slid through her pussy for the first time and I got a good measure of how wet she really was."
     "Meus dedos lentamente entraram na sua boceta pela primeira vez, e medi bem o quão molhada ela estava."
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+# game/extras.rpy:1989
+translate portuguese extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    "A comandante engoliu tudo e voltou sua atenção para mim."
+

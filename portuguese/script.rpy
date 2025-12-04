@@ -146,3 +146,31 @@ translate portuguese strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Pressione {i}\"Enter\"{/i} no teclado virtual para confirmar"
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+translate portuguese strings:
+
+    # game/script.rpy:116
+    old "Camran"
+    new "Camran"
+
+    # game/script.rpy:119
+    old "Cam"
+    new "Cam"
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "OBRIGADO"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Muito obrigado aos meus principais patrocinadores, vocês são demais!"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+
+    # game/script.rpy:564
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new "{=location_subheading}LOCALIZAÇÃO:{/=location_subheading}\n[location]"
+

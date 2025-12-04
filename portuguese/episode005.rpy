@@ -13536,3 +13536,11 @@ translate portuguese ep005_doarn_finger_03374062:
     # "This wasn't sensual masturbation, but rather a frantic finger fuck, a single-minded pursuit of climax."
     "Isso não foi uma masturbação sensual, foi mais uma frenética enfiada de dedos, com o único intuito de chegar no clímax."
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+# game/episode005.rpy:1712
+translate portuguese ep005_thim_c5f9a2ed:
+
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Eu pensei que você estivesse feliz com o título de oficial garantido que o aguardava após a formatura."
+

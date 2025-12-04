@@ -6168,3 +6168,47 @@ translate portuguese strings:
     old "Rhenkoy society is stricly hierarchical, divided in to commune-like living groups and governed by the Council of Nkoy."
     new "A sociedade Rhenkoy é estritamente hierárquica, divididas em grupos parecidos com comunidades, e governadas pelo Conselho de Nkoy."
 
+# TODO: Translation updated at 2025-09-04 11:50
+
+# game/episode004.rpy:417
+translate portuguese episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka "Espero que esta mensagem chegue até você, porque eles finalmente estão vindo atrás de mim."
+
+# game/episode004.rpy:418
+translate portuguese episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka "Não sei quem é, mas está quase a passar pelas portas de segurança."
+
+# game/episode004.rpy:419
+translate portuguese episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka "Talvez tenha algo a ver com você, ou talvez seja apenas o meu momento."
+
+# game/episode004.rpy:420
+translate portuguese episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka "Agora isso não importa mais."
+
+# game/episode004.rpy:421
+translate portuguese episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka "As mulheres guerreiras que você está procurando são as Acarhyn, produto de uma experiência genética ilícita."
+
+# game/episode004.rpy:422
+translate portuguese episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka "A localização do planeta natal deles é desconhecida, mas Ranimo Cetruvar provavelmente sabe."
+
+# game/episode004.rpy:423
+translate portuguese episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka "Nadya, você tem sido uma amiga leal, eu-"
+
