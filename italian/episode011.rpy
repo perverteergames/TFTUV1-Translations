@@ -6448,3 +6448,17 @@ translate italian strings:
     old "Announcer"
     new "Annunciatore"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode011.rpy:1636
+translate italian ep011_feast_orgy_a104c94d:
+
+    # woman2 "They’re both very big boys, aren’t they?"
+    woman2 "Sono entrambi ragazzi molto grandi, vero?"
+
+# game/episode011.rpy:1673
+translate italian ep011_feast_orgy_78c80ce2:
+
+    # woman2 "He’s a big boy, isn’t he?"
+    woman2 "È un ragazzone, vero?"
+

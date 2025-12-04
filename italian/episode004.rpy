@@ -6168,3 +6168,47 @@ translate italian strings:
     old "Woman"
     new "Donna"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode004.rpy:417
+translate italian episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka "Spero che questo messaggio ti arrivi, perché finalmente stanno venendo a prendermi."
+
+# game/episode004.rpy:418
+translate italian episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka "Non so chi sia, ma sta quasi attraversando i cancelli di sicurezza."
+
+# game/episode004.rpy:419
+translate italian episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka "Forse ha qualcosa a che fare con te, o forse è solo il mio momento."
+
+# game/episode004.rpy:420
+translate italian episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka "Ora non ha più importanza."
+
+# game/episode004.rpy:421
+translate italian episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka "Le donne guerriere che stai cercando sono le Acarhyn, frutto di un esperimento genetico illegale."
+
+# game/episode004.rpy:422
+translate italian episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka "La posizione del loro pianeta natale è sconosciuta, ma probabilmente Ranimo Cetruvar la conosce."
+
+# game/episode004.rpy:423
+translate italian episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka "Nadya, sei stata un'amica fedele, io-"
+

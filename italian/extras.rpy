@@ -7366,3 +7366,11 @@ translate italian extra_scene_26_d7898ba9:
 
     "Le mie dita scivolarono lentamente attraverso la sua figa per la prima volta e ho ricevuto una buona stima di quanto fosse davvero bagnata."
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/extras.rpy:1989
+translate italian extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    "Il comandante ingoiò tutto e riportò la sua attenzione su di me."
+

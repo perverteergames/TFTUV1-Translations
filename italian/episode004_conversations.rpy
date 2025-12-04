@@ -4808,3 +4808,11 @@ translate italian strings:
     old "Don’t apologize"
     new "Non scusarti"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode004_conversations.rpy:1430
+translate italian ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Dopo avermi ricoperto il viso di sperma, mi è crollata addosso con un ampio sorriso."
+

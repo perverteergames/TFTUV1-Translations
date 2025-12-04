@@ -13324,3 +13324,11 @@ translate italian ep005_jade_factory_talk_42d9e489:
     # c "Giving him just one bullet was more than a kindness."
     c "Dargli un solo proiettile è stata più che una gentilezza."
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode005.rpy:1712
+translate italian ep005_thim_c5f9a2ed:
+
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Pensavo fossi contento di quel titolo di ufficiale garantito che ti aspettava dopo la laurea."
+

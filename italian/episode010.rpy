@@ -11144,3 +11144,17 @@ translate italian ep010_hunt_c0bd0cb3:
     # "Though the laser rifle I carried seemed impressive, I was pretty sure it wouldn’t even make a dent in the bug’s carapace."
     "Sebbene il fucile laser che portavo con me sembrasse impressionante, ero abbastanza sicuro che non avrebbe nemmeno scalfito il carapace dell'insetto."
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode010.rpy:81
+translate italian episode010_b1e9252e:
+
+    # bl "They seemed to have pissed off a local crime lord here and then vanished without a trace into the Heveliun Belt, a local asteroid field."
+    bl "Sembra che abbiano fatto arrabbiare un boss della malavita locale e poi siano spariti senza lasciare traccia nella cintura di Heveliun, un campo di asteroidi locale."
+
+# game/episode010.rpy:3074
+translate italian ep010_vess_sex_ad74bdfa:
+
+    # ve "I’m not sure you realize how much I enjoyed our night on Almagest?"
+    ve "Non sono sicuro che tu ti renda conto di quanto mi sia piaciuta la nostra serata su Almagest."
+

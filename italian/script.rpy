@@ -142,3 +142,27 @@ translate italian strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Premere {i}\"Invio\"{/i} sulla tastiera a schermo per confermare."
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+translate italian strings:
+
+    # game/script.rpy:116
+    old "Camran"
+    new "Camran"
+
+    # game/script.rpy:119
+    old "Cam"
+    new "Cam"
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "GRAZIE"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Un grande grazie ai miei sostenitori di alto livello, siete fantastici!"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+
