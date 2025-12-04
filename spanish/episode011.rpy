@@ -6462,3 +6462,17 @@ translate spanish ep011_vess_talk_de30f6da:
     # ve "The way you cast everything aside to find Eva, it really struck me."
     ve "La forma en que dejaste todo de lado para encontrar a Eva, realmente me impactó."
 
+# TODO: Translation updated at 2025-09-04 12:23
+
+# game/episode011.rpy:1636
+translate spanish ep011_feast_orgy_a104c94d:
+
+    # woman2 "They’re both very big boys, aren’t they?"
+    woman2 "Los dos son chicos muy grandes, ¿no?"
+
+# game/episode011.rpy:1673
+translate spanish ep011_feast_orgy_78c80ce2:
+
+    # woman2 "He’s a big boy, isn’t he?"
+    woman2 "Es un chico grande, ¿verdad?"
+

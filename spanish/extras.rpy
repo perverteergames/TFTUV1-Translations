@@ -7468,3 +7468,11 @@ translate spanish strings:
     old "Siora"
     new "Siora"
 
+# TODO: Translation updated at 2025-09-04 12:23
+
+# game/extras.rpy:1989
+translate spanish extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    "La comandante se tragó todo y volvió a centrar su atención en mí."
+

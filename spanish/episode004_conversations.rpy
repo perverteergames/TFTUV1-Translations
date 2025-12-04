@@ -4808,3 +4808,11 @@ translate spanish strings:
     old "Don’t apologize"
     new "No te disculpes"
 
+# TODO: Translation updated at 2025-09-04 12:23
+
+# game/episode004_conversations.rpy:1430
+translate spanish ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Después de untarme la cara con semen, se desplomó sobre mí con una amplia sonrisa."
+

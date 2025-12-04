@@ -130,3 +130,31 @@ translate spanish strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Pulse {i}\"Introducir\"{/i} en el teclado en pantalla para confirmar"
 
+# TODO: Translation updated at 2025-09-04 12:23
+
+translate spanish strings:
+
+    # game/script.rpy:116
+    old "Camran"
+    new "Camran"
+
+    # game/script.rpy:119
+    old "Cam"
+    new "Cam"
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "GRACIAS"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Muchísimas gracias a mis patrocinadores de primer nivel, ¡sois geniales!"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(portugués){/i}, MyPrettyWolfy {i}(ruso){/i}, Freeman {i}(polaco){/i}, Frank Rosario {i}(italiano){/i}, Juan Manuel y Kabezon {i}(español){/i}, Donk. {i}(turco, darkeros.org){/i}"
+
+    # game/script.rpy:564
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new "{=location_subheading}UBICACIÓN:{/=location_subheading}\n[location]"
+

@@ -6155,3 +6155,47 @@ translate spanish strings:
     # game/episode004.rpy:1564
     old "Hannah is a translator in the employ of the Tubloshi and acted as a guide on their warship when [p_name] and Ziv brought the body of the warrior Kyl Tavort back home."
     new "Hannah es una traductora al servicio de los Tubloshi y actuó como guía en su barco de guerra cuando [p_name] y Ziv llevaron el cuerpo del guerrero Kyl Tavort de vuelta a casa."
+# TODO: Translation updated at 2025-09-04 12:23
+
+# game/episode004.rpy:417
+translate spanish episode004_0bd52634:
+
+    # ka "I hope this message gets to you, because they’re finally coming for me."
+    ka "Espero que recibas este mensaje, porque por fin vienen a por mí."
+
+# game/episode004.rpy:418
+translate spanish episode004_b6ce8f11:
+
+    # ka "I don’t know who it is, but they’re nearly through the security doors."
+    ka "No sé quién es, pero ya casi ha atravesado las puertas de seguridad."
+
+# game/episode004.rpy:419
+translate spanish episode004_00e8fd50:
+
+    # ka "Maybe it has something to do with you, or maybe it’s just my time."
+    ka "Quizás tenga algo que ver contigo, o quizás simplemente haya llegado mi momento."
+
+# game/episode004.rpy:420
+translate spanish episode004_6c563974:
+
+    # ka "It doesn’t matter now."
+    ka "Ahora ya no importa."
+
+# game/episode004.rpy:421
+translate spanish episode004_b6455126:
+
+    # ka "The warrior women you’re searching for are the Acarhyn, product of an illicit genetics experiment."
+    ka "Las mujeres guerreras que estás buscando son las Acarhyn, producto de un experimento genético ilícito."
+
+# game/episode004.rpy:422
+translate spanish episode004_d707f2f6:
+
+    # ka "The location of their home planet is unknown, but Ranimo Cetruvar probably knows."
+    ka "Se desconoce la ubicación de su planeta natal, pero Ranimo Cetruvar probablemente lo sepa."
+
+# game/episode004.rpy:423
+translate spanish episode004_b4e97370:
+
+    # ka "Nadya, you’ve been a loyal friend, I-"
+    ka "Nadya, has sido una amiga leal, yo-"
+
