@@ -1,7006 +1,6990 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode002.rpy:23
+
+
 translate traditional_chinese episode002_338eb9db:
 
-    # centered "{=chapter_heading}EPISODE 2{/=chapter_heading}"
-    centered ""
 
-# game/episode002.rpy:29
+    centered "{=chapter_heading}第2集{/=chapter_heading}"
+
+
 translate traditional_chinese episode002_0ecec7b2:
 
-    # c "How long until impact?"
-    c ""
 
-# game/episode002.rpy:30
+    c "距離被擊中還有多久？"
+
+
 translate traditional_chinese episode002_4a8732b0:
 
-    # ce "Less than two minutes."
-    ce ""
 
-# game/episode002.rpy:31
+    ce "不到兩分鐘。"
+
+
 translate traditional_chinese episode002_0a830946:
 
-    # c "Fuck!"
-    c ""
 
-# game/episode002.rpy:33
+    c "操！"
+
+
 translate traditional_chinese episode002_fab7838e:
 
-    # ki "Can't we outrun them?"
-    ki ""
 
-# game/episode002.rpy:35
+    ki "我們甩不掉它們嗎？"
+
+
 translate traditional_chinese episode002_2c9e0966:
 
-    # ce "Not at this speed."
-    ce ""
 
-# game/episode002.rpy:36
+    ce "以這個速度不行。"
+
+
 translate traditional_chinese episode002_ffbde6e6:
 
-    # ce "We could..."
-    ce ""
 
-# game/episode002.rpy:37
+    ce "或許我們可以..."
+
+
 translate traditional_chinese episode002_0cd56780:
 
-    # ce "No."
-    ce ""
 
-# game/episode002.rpy:38
+    ce "不行。"
+
+
 translate traditional_chinese episode002_43e1b3de:
 
-    # c "Say it!"
-    c ""
 
-# game/episode002.rpy:39
+    c "說啊！"
+
+
 translate traditional_chinese episode002_bdd9f007:
 
-    # ce "We could burst our Drive..."
-    ce ""
 
-# game/episode002.rpy:41
+    ce "我們可以讓驅動引擎過載..."
+
+
 translate traditional_chinese episode002_9368bf90:
 
-    # ki "That's suicide!"
-    ki ""
 
-# game/episode002.rpy:43
+    ki "這簡直是自殺！"
+
+
 translate traditional_chinese episode002_e4836f09:
 
-    # "Every Terran ship comes equipped with a so-called Sylas-Karzen drive, named after the two scientists who built the first prototype after many centuries of development."
-    ""
 
-# game/episode002.rpy:44
+    "所有人族飛船都配備了所謂的西拉斯-卡岑引擎，該名稱源於兩位歷經幾百年開發後造出首臺原型機的科學家。"
+
+
 translate traditional_chinese episode002_4a1912ba:
 
-    # "The Sylas-Karzen drive allowed mankind to finally travel faster than light, opening up the galaxy for exploration."
-    ""
 
-# game/episode002.rpy:45
+    "西拉斯-卡岑引擎讓人類終於能實現超光速航行，從而開啓了星系探索時代。"
+
+
 translate traditional_chinese episode002_a4b657a4:
 
-    # "The Ypotryll had powered down its S-K drive as soon as it reached the habitable zone of Alpha Centauri, to avoid high-speed collisions with the many stations in the system."
-    ""
 
-# game/episode002.rpy:46
+    "\"異龍\"號一抵半人馬座α星宜居帶就關閉了超光速引擎，以避免與該星系衆多空間站發生高速碰撞。"
+
+
 translate traditional_chinese episode002_970a0b84:
 
-    # "It also allowed us to escape the hangar bay on the Enfield."
-    ""
 
-# game/episode002.rpy:47
+    "也正是因爲這樣我們才能帶着\"恩菲爾德\"號從機庫艙逃離。"
+
+
 translate traditional_chinese episode002_8b4cf45c:
 
-    # "Céline's proposal was extremely risky. By burning up the entire fuel reserve of the S-K drive we would 'burst' away at tremendous speed towards an unknown destination."
-    ""
 
-# game/episode002.rpy:48
+    "瑟琳的提議極度危險：通過耗盡西拉斯-卡岑引擎的全部燃料儲備，我們將以驚人速度朝未知目的地\"爆衝\"。"
+
+
 translate traditional_chinese episode002_30058de1:
 
-    # "Bursting no longer constitutes linear travel at the speed of light, but is more akin to a hyperspace jump."
-    ""
 
-# game/episode002.rpy:49
+    "爆衝不再是光速線性航行，而更接近超空間跳躍。"
+
+
 translate traditional_chinese episode002_f7413027:
 
-    # "A random hyperspace jump in total darkness, that is."
-    ""
 
-# game/episode002.rpy:50
+    "還屬於兩眼一抹黑的隨機超空間跳躍。"
+
+
 translate traditional_chinese episode002_42846757:
 
-    # "There's no way of knowing how far a ship will travel when it bursts its drive."
-    ""
 
-# game/episode002.rpy:51
+    "飛船爆衝時究竟會跨越多遠的距離根本無法預測。"
+
+
 translate traditional_chinese episode002_a05c0def:
 
-    # "The chances of ending up somewhere in an uninhabited cluster without any fuel left are far too great."
-    ""
 
-# game/episode002.rpy:52
+    "極有可能最終滯留在荒蕪星團裏燃料全空。"
+
+
 translate traditional_chinese episode002_dbf41b03:
 
-    # "This is the main reason why almost every species in the known galaxy uses the relatively safe jump-gates for hyperspace travel."
-    ""
 
-# game/episode002.rpy:53
+    "這就是已知星系幾乎所有種族都採用相對安全的星門進行超空間旅行的主要原因。"
+
+
 translate traditional_chinese episode002_2500a942:
 
-    # "No sane captain would consider bursting their S-K drive, but we didn't have many options."
-    ""
 
-# game/episode002.rpy:67
+    "沒有哪個清醒的艦長會考慮引擎爆衝，但我們別無選擇。"
+
+
 translate traditional_chinese episode002_011079c4:
 
-    # c "Do it."
-    c ""
 
-# game/episode002.rpy:68
+    c "動手吧。"
+
+
 translate traditional_chinese episode002_97d3a62a:
 
-    # "Céline gritted her teeth and began punching in the sequence to overload the drive."
-    ""
 
-# game/episode002.rpy:70
+    "瑟琳咬緊牙關開始啓動過載引擎的程序。"
+
+
 translate traditional_chinese episode002_9a8b6e5a:
 
-    # ce "Thirty seconds to impact."
-    ce ""
 
-# game/episode002.rpy:71
+    ce "距離導彈到達還有三十秒。"
+
+
 translate traditional_chinese episode002_39f0230f:
 
-    # "A button lit up and began blinking an angry red."
-    ""
 
-# game/episode002.rpy:72
+    "一個按鈕亮起來並開始閃爍憤怒的紅色。"
+
+
 translate traditional_chinese episode002_0e76b0b8:
 
-    # ki "I love you all, guys."
-    ki ""
 
-# game/episode002.rpy:73
+    ki "我愛你們大家，夥計們。"
+
+
 translate traditional_chinese episode002_d9d7d2c9:
 
-    # ki "I..."
-    ki ""
 
-# game/episode002.rpy:74
+    ki "我..."
+
+
 translate traditional_chinese episode002_6a2975d9:
 
-    # "At that moment I smashed the button and the entire ship began to hum."
-    ""
 
-# game/episode002.rpy:76
+    "在那一刻，我猛按按鈕，整個船開始嗡鳴。"
+
+
 translate traditional_chinese episode002_6c8ce2b8:
 
-    # ce "Fifteen seconds to impact."
-    ce ""
 
-# game/episode002.rpy:77
+    ce "十五秒。"
+
+
 translate traditional_chinese episode002_4ad47179:
 
-    # "By that time we were shaking in our seats and the noise of the drive overload became almost too much to bear."
-    ""
 
-# game/episode002.rpy:79
+    "到那時我們在座位上直發抖，驅動器過載的噪音幾乎讓我們受不了。"
+
+
 translate traditional_chinese episode002_426117b2:
 
-    # ce "T-ten..."
-    ce ""
 
-# game/episode002.rpy:80
+    ce "十...十..."
+
+
 translate traditional_chinese episode002_cfeed21e:
 
-    # "The ship began to accelerate, accompanied by a heavy groan from the ship as the weight of an enormous amount of G's threatened to tear it apart."
-    ""
 
-# game/episode002.rpy:81
+    "飛船開始加速，伴隨着船身沉重的呻吟，巨大的加速度幾乎要將它撕裂。"
+
+
 translate traditional_chinese episode002_98f1ef8e:
 
-    # "We wouldn't have survived that amount of force if it weren't for the ship's shields and our genetically enhanced bodies."
-    ""
 
-# game/episode002.rpy:85
+    "沒有飛船的護盾和我們基因強化的身體，我們不可能承受那麼大的力量。"
+
+
 translate traditional_chinese episode002_d47be591:
 
-    # "A great booming sound started vibrating through the Enfield, overwhelming all of our senses."
-    ""
 
-# game/episode002.rpy:88
+    "一聲巨大的轟鳴聲開始在\"恩菲爾德\"號上震動，壓倒了我們所有的感官。"
+
+
 translate traditional_chinese episode002_3fa861a1:
 
-    # "In the corner of my eye I saw Céline slumping in her seat, as she lost consciousness."
-    ""
 
-# game/episode002.rpy:89
+    "我眼角瞥見瑟琳癱倒在座椅上，因爲她失去了意識。"
+
+
 translate traditional_chinese episode002_bfe728da:
 
-    # "The stars visible through the window outside became illuminated smears and the ship groaned as it was nearly ripped apart."
-    ""
 
-# game/episode002.rpy:90
+    "從窗外可見的星星變成了明亮的污跡，船呻吟着幾乎被撕裂。"
+
+
 translate traditional_chinese episode002_0674f921:
 
-    # "That's when the missiles hit."
-    ""
 
-# game/episode002.rpy:95
+    "就在那時導彈擊中我們了。"
+
+
 translate traditional_chinese episode002_aedb4de8:
 
-    # "Everything went black."
-    ""
 
-# game/episode002.rpy:100
+    "一切都變黑了。"
+
+
 translate traditional_chinese episode002_5bc8dc6c:
 
-    # "I was the first to regain consciousness."
-    ""
 
-# game/episode002.rpy:101
+    "我是第一個恢復意識的。"
+
+
 translate traditional_chinese episode002_5a4d5f75:
 
-    # "Céline still sat slumped in her seat and Lilly and Kit lay on the ground, but the ship showed seven lifeforms present."
-    ""
 
-# game/episode002.rpy:103
+    "瑟琳仍然癱坐在座椅上，莉莉和基特躺在地上，但船顯示有七個人形生命存在。"
+
+
 translate traditional_chinese episode002_9c863d5e:
 
-    # "Which struck me as odd, as there should be five..."
-    ""
 
-# game/episode002.rpy:107
+    "這讓我覺得奇怪，因爲應該只有五個..."
+
+
 translate traditional_chinese episode002_4e2c4db3:
 
-    # "Ignoring the life support systems, I checked on Céline and Kit first."
-    ""
 
-# game/episode002.rpy:109
+    "無視生命支持系統，我首先檢查了瑟琳和基特。"
+
+
 translate traditional_chinese episode002_5edaf6b1:
 
-    # "Kit was still out, so was Lilly, Céline stirred as soon as I touched her shoulder."
-    ""
 
-# game/episode002.rpy:112
+    "基特還在昏迷，莉莉也是，我一碰到瑟琳的肩膀，她就動了一下。"
+
+
 translate traditional_chinese episode002_1065fc35:
 
-    # "Ignoring the life support systems, I checked on Lilly and Kit first."
-    ""
 
-# game/episode002.rpy:114
+    "無視生命支持系統，我首先檢查了莉莉和基特。"
+
+
 translate traditional_chinese episode002_49960c64:
 
-    # "Both Lilly and Kit were still out, Céline stirred as soon as I touched her shoulder."
-    ""
 
-# game/episode002.rpy:117
+    "莉莉和基特都還在昏迷，我一碰到瑟琳的肩膀，她就動了一下。"
+
+
 translate traditional_chinese episode002_fc498305:
 
-    # c "Are you okay, Céline?"
-    c ""
 
-# game/episode002.rpy:118
+    c "你還好嗎，瑟琳？"
+
+
 translate traditional_chinese episode002_bdd3f574:
 
-    # ce "Ugh, my head."
-    ce ""
 
-# game/episode002.rpy:119
+    ce "啊，我的頭。"
+
+
 translate traditional_chinese episode002_8cdfc4d7:
 
-    # ce "I think I'm fine."
-    ce ""
 
-# game/episode002.rpy:120
+    ce "我想我沒事。"
+
+
 translate traditional_chinese episode002_92704e36:
 
-    # ce "How are the others?"
-    ce ""
 
-# game/episode002.rpy:121
+    ce "其他人怎麼樣了？"
+
+
 translate traditional_chinese episode002_058405c0:
 
-    # c "Still out."
-    c ""
 
-# game/episode002.rpy:122
+    c "還昏着呢。"
+
+
 translate traditional_chinese episode002_5252b68d:
 
-    # ce "Are Jade and Thim still back there?"
-    ce ""
 
-# game/episode002.rpy:123
+    ce "傑德和蒂姆還在後面嗎？"
+
+
 translate traditional_chinese episode002_ebe49852:
 
-    # c "Oh fuck, some of the cargo wasn't tied down when we jumped..."
-    c ""
 
-# game/episode002.rpy:124
+    c "哦操，我們跳躍時有些貨沒綁緊..."
+
+
 translate traditional_chinese episode002_5f18752d:
 
-    # c "I'll check on them."
-    c ""
 
-# game/episode002.rpy:127
+    c "我去看看他們。"
+
+
 translate traditional_chinese episode002_695da560:
 
-    # "Bracing for the worst I went into the small cargo bay of the ship to look for Jade and Thim."
-    ""
 
-# game/episode002.rpy:128
+    "做好最壞打算後，我走進飛船小貨艙找傑德和蒂姆。"
+
+
 translate traditional_chinese episode002_df6a5bfe:
 
-    # "It didn't take me long to find Thim."
-    ""
 
-# game/episode002.rpy:131
+    "沒多久就找到了蒂姆。"
+
+
 translate traditional_chinese episode002_b3861024:
 
-    # "Vess and Jade were huddled over Thim's body."
-    ""
 
-# game/episode002.rpy:132
+    "薇絲和傑德正蜷縮在蒂姆身上。"
+
+
 translate traditional_chinese episode002_a1746a1f:
 
-    # "The ship's systems had already told me he was alive, but he might have received further injuries when we performed the Burst."
-    ""
 
-# game/episode002.rpy:134
+    "飛船系統早顯示他活着，但我們執行爆衝時可能讓他傷上加傷。"
+
+
 translate traditional_chinese episode002_bba38801:
 
-    # c "Are you both okay?"
-    c ""
 
-# game/episode002.rpy:135
+    c "你們倆還好嗎？"
+
+
 translate traditional_chinese episode002_ea355832:
 
-    # j "Yes, Master [p_name]."
-    j ""
 
-# game/episode002.rpy:136
+    j "是的，主人[p_name]。"
+
+
 translate traditional_chinese episode002_863a114b:
 
-    # ve "I think so."
-    ve ""
 
-# game/episode002.rpy:137
+    ve "應該沒事。"
+
+
 translate traditional_chinese episode002_27800dbb:
 
-    # c "And Thim?"
-    c ""
 
-# game/episode002.rpy:138
+    c "那蒂姆呢？"
+
+
 translate traditional_chinese episode002_40bfdad6:
 
-    # j "He doesn't look any worse for wear than when we dragged him onto the ship."
-    j ""
 
-# game/episode002.rpy:139
+    j "他看起來和被拖上船時一樣慘。"
+
+
 translate traditional_chinese episode002_759a8cf7:
 
-    # ve "When the engines began to spin up we strapped ourselves to storage containers."
-    ve ""
 
-# game/episode002.rpy:140
+    ve "引擎啓動時我們把自己綁在貨柜上。"
+
+
 translate traditional_chinese episode002_b782adfb:
 
-    # c "Good thinking."
-    c ""
 
-# game/episode002.rpy:142
+    c "幹得漂亮。"
+
+
 translate traditional_chinese episode002_5c947442:
 
-    # j "What happened?"
-    j ""
 
-# game/episode002.rpy:143
+    j "怎麼回事？"
+
+
 translate traditional_chinese episode002_8ad7ba6b:
 
-    # c "We burst our Drive."
-    c ""
 
-# game/episode002.rpy:145
+    c "我們過載了引擎。"
+
+
 translate traditional_chinese episode002_c092c66c:
 
-    # ve "You did what?"
-    ve ""
 
-# game/episode002.rpy:146
+    ve "你幹了什麼？"
+
+
 translate traditional_chinese episode002_45bd9a4b:
 
-    # c "Long story."
-    c ""
 
-# game/episode002.rpy:147
+    c "說來話長。"
+
+
 translate traditional_chinese episode002_f725427c:
 
-    # c "Short version is that we were pursued by rockets, we overloaded our engine, jumped to an unknown location and now we seem to be safe."
-    c ""
 
-# game/episode002.rpy:148
+    c "簡言之就是：被導彈追、引擎過載、跳到未知坐標、現在暫時安全了。"
+
+
 translate traditional_chinese episode002_b93fcbf3:
 
-    # c "For the moment..."
-    c ""
 
-# game/episode002.rpy:149
+    c "暫時而已..."
+
+
 translate traditional_chinese episode002_f86ab9f2:
 
-    # ve "Unknown location?"
-    ve ""
 
-# game/episode002.rpy:150
+    ve "未知坐標？"
+
+
 translate traditional_chinese episode002_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode002.rpy:151
+    c "是的。"
+
+
 translate traditional_chinese episode002_9e3dd423:
 
-    # ve "So we could be lightyears away from Lanan?"
-    ve ""
 
-# game/episode002.rpy:152
+    ve "所以我們可能離拉南星有好多光年遠了？"
+
+
 translate traditional_chinese episode002_9c43086c:
 
-    # c "We would be dead otherwise and let's not jump to conclusions."
-    c ""
 
-# game/episode002.rpy:153
+    c "不然我們早死了，現在先別急着下結論。"
+
+
 translate traditional_chinese episode002_2ef05b88:
 
-    # c "Just wait here until I check on the others again."
-    c ""
 
-# game/episode002.rpy:155
+    c "在這兒等着，我再去檢查下其他人情況。"
+
+
 translate traditional_chinese episode002_16dd6b0e:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode002.rpy:156
+    j "遵命，主人。"
+
+
 translate traditional_chinese episode002_6ffe5a75:
 
-    # ve "If you say so..."
-    ve ""
 
-# game/episode002.rpy:158
+    ve "既然你這麼說..."
+
+
 translate traditional_chinese episode002_4597501c:
 
-    # ce "How are Thim and the girls doing?"
-    ce ""
 
-# game/episode002.rpy:159
+    ce "蒂姆和姑娘們怎麼樣了？"
+
+
 translate traditional_chinese episode002_f6f2318a:
 
-    # c "They're all fine."
-    c ""
 
-# game/episode002.rpy:161
+    c "都平安無事。"
+
+
 translate traditional_chinese episode002_c82c43fa:
 
-    # "I found Jade huddled over Thim's body."
-    ""
 
-# game/episode002.rpy:162
+    "我發現傑德正蜷在蒂姆身上。"
+
+
 translate traditional_chinese episode002_a1746a1f_1:
 
-    # "The ship's systems had already told me he was alive, but he might have received further injuries when we performed the Burst."
-    ""
 
-# game/episode002.rpy:163
+    "飛船系統早告訴我他還活着，但過載跳躍時他可能受了新傷。"
+
+
 translate traditional_chinese episode002_3fc15ae0:
 
-    # c "Are you okay?"
-    c ""
 
-# game/episode002.rpy:165
+    c "你還好嗎？"
+
+
 translate traditional_chinese episode002_ea355832_1:
 
-    # j "Yes, Master [p_name]."
-    j ""
 
-# game/episode002.rpy:166
+    j "我很好，[p_name]主人。"
+
+
 translate traditional_chinese episode002_27800dbb_1:
 
-    # c "And Thim?"
-    c ""
 
-# game/episode002.rpy:167
+    c "蒂姆呢？"
+
+
 translate traditional_chinese episode002_40bfdad6_1:
 
-    # j "He doesn't look any worse for wear than when we dragged him onto the ship."
-    j ""
 
-# game/episode002.rpy:168
+    j "看着和我們拖他上船時沒兩樣。"
+
+
 translate traditional_chinese episode002_399fd838:
 
-    # j "When the engines began to spin up I strapped us to storage containers."
-    j ""
 
-# game/episode002.rpy:169
+    j "引擎啓動時我把大夥綁在貨柜上了。"
+
+
 translate traditional_chinese episode002_b782adfb_1:
 
-    # c "Good thinking."
-    c ""
 
-# game/episode002.rpy:170
+    c "做得聰明。"
+
+
 translate traditional_chinese episode002_5c947442_1:
 
-    # j "What happened?"
-    j ""
 
-# game/episode002.rpy:171
+    j "發生什麼了？"
+
+
 translate traditional_chinese episode002_8ad7ba6b_1:
 
-    # c "We burst our Drive."
-    c ""
 
-# game/episode002.rpy:172
+    c "我們把引擎過載了。"
+
+
 translate traditional_chinese episode002_8a12fb1e:
 
-    # j "That's very risky, isn't it?"
-    j ""
 
-# game/episode002.rpy:173
+    j "這挺冒險的吧？"
+
+
 translate traditional_chinese episode002_d3ce675e:
 
-    # c "It sure is, but we would have died otherwise."
-    c ""
 
-# game/episode002.rpy:175
+    c "當然冒險，但不這樣就得死。"
+
+
 translate traditional_chinese episode002_391335a0:
 
-    # j "I heard Commander Szuzume on the radio, she really went through with it..."
-    j ""
 
-# game/episode002.rpy:176
+    j "我在無線電裏聽到蘇珠美指揮官的聲音，她真動手了..."
+
+
 translate traditional_chinese episode002_236ef698:
 
-    # c "She did..."
-    c ""
 
-# game/episode002.rpy:178
+    c "是啊..."
+
+
 translate traditional_chinese episode002_09188bdb:
 
-    # "At that moment I heard something shuffle at the back of some storage containers."
-    ""
 
-# game/episode002.rpy:179
+    "這時我聽見貨櫃堆後面傳來窸窣聲。"
+
+
 translate traditional_chinese episode002_46dd22e8:
 
-    # "As I sprinted towards them, I saw a female form hiding behind a crate."
-    ""
 
-# game/episode002.rpy:181
+    "衝過去時，看見板條箱後面躲着個女人的身影。"
+
+
 translate traditional_chinese episode002_2857504c:
 
-    # c "Vess?"
-    c ""
 
-# game/episode002.rpy:182
+    c "薇絲？"
+
+
 translate traditional_chinese episode002_e1d15105:
 
-    # ve "I'm sorry..."
-    ve ""
 
-# game/episode002.rpy:183
+    ve "我很抱歉..."
+
+
 translate traditional_chinese episode002_71da670e:
 
-    # c "What are you doing here?"
-    c ""
 
-# game/episode002.rpy:184
+    c "你在這幹什麼？"
+
+
 translate traditional_chinese episode002_36628151:
 
-    # ve "I followed you to the hangar bay and got on the ship during the consternation with that boy."
-    ve ""
 
-# game/episode002.rpy:186
+    ve "跟着你到機庫艙的，趁你和那男孩僵持時溜上船的。"
+
+
 translate traditional_chinese episode002_8929c4e6:
 
-    # ve "I need to find them, [p_name], my family is all I've got left."
-    ve ""
 
-# game/episode002.rpy:187
+    ve "我必須找到他們，[p_name]，家人是我僅剩的一切了。"
+
+
 translate traditional_chinese episode002_6f27798b:
 
-    # "The problems just kept piling on top of me..."
-    ""
 
-# game/episode002.rpy:188
+    "麻煩事簡直劈頭蓋臉地砸過來..."
+
+
 translate traditional_chinese episode002_5847996d:
 
-    # c "I still intend to go after those cunts, but you might have noticed that we ran into a lot of trouble when we left the Ypotryll."
-    c ""
 
-# game/episode002.rpy:189
+    c "我還是要找那些小逼崽子算賬，但你該注意我們從\"異龍\"號出來時惹上了相當多的麻煩。"
+
+
 translate traditional_chinese episode002_d68dcc6e:
 
-    # c "So I'm handing you over to my attendant for the time being."
-    c ""
 
-# game/episode002.rpy:190
+    c "所以暫時把你交給我的女僕吧。"
+
+
 translate traditional_chinese episode002_41ee44d3:
 
-    # c "We'll speak later."
-    c ""
 
-# game/episode002.rpy:191
+    c "晚點再說。"
+
+
 translate traditional_chinese episode002_d40fa8b3:
 
-    # ve "Okay..."
-    ve ""
 
-# game/episode002.rpy:193
+    ve "好吧..."
+
+
 translate traditional_chinese episode002_b881ffdb:
 
-    # c "Jade, this is Vess."
-    c ""
 
-# game/episode002.rpy:194
+    c "傑德，這是薇絲。"
+
+
 translate traditional_chinese episode002_ad45a96d:
 
-    # c "Until we figure out where we go from here I want you two to stay in this cargo hold and care for Thim here."
-    c ""
 
-# game/episode002.rpy:195
+    c "在我們確定後續計劃前，你們倆留在貨艙照顧蒂姆。"
+
+
 translate traditional_chinese episode002_4e386efd:
 
-    # c "There's an intercom near the door if he gives you trouble when he wakes up."
-    c ""
 
-# game/episode002.rpy:196
+    c "他醒後要是找麻煩，門邊有內部通話器。"
+
+
 translate traditional_chinese episode002_16dd6b0e_1:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode002.rpy:197
+    j "是，主人。"
+
+
 translate traditional_chinese episode002_ea5df400:
 
-    # "I left the girls with Thim, but made sure to lock the hatch to the cargo bay in case of any surprises."
-    ""
 
-# game/episode002.rpy:199
+    "我把兩個姑娘留在蒂姆身邊，但鎖死了貨艙艙門以防萬一。"
+
+
 translate traditional_chinese episode002_90fbf25d:
 
-    # ce "How are they doing?"
-    ce ""
 
-# game/episode002.rpy:200
+    ce "她們情況如何？"
+
+
 translate traditional_chinese episode002_c746f955:
 
-    # c "Jade's fine and Thim too, he's still unconscious, though."
-    c ""
 
-# game/episode002.rpy:201
+    c "傑德沒事，蒂姆也是——雖然他還沒醒。"
+
+
 translate traditional_chinese episode002_975fff4a:
 
-    # c "We seem to have gained another crew member though..."
-    c ""
 
-# game/episode002.rpy:202
+    c "不過我們好像多了個機組成員..."
+
+
 translate traditional_chinese episode002_39eb3a72:
 
-    # ce "What?!"
-    ce ""
 
-# game/episode002.rpy:203
+    ce "什麼？！"
+
+
 translate traditional_chinese episode002_b2c5fe84:
 
-    # c "One of the girls from the village followed me to the hangar bay and hid on the Enfield."
-    c ""
 
-# game/episode002.rpy:204
+    c "村落裏有個女孩跟蹤我到機庫艙，躲在\"恩菲爾德\"號上。"
+
+
 translate traditional_chinese episode002_063da66b:
 
-    # c "She wants to search for her family."
-    c ""
 
-# game/episode002.rpy:205
+    c "她想尋找家人。"
+
+
 translate traditional_chinese episode002_1b2ab757:
 
-    # ki "Fuck. Like things aren't complicated enough."
-    ki ""
 
-# game/episode002.rpy:208
+    ki "操。嫌現在還不夠亂是吧。"
+
+
 translate traditional_chinese episode002_f887b445:
 
-    # "When I turned towards Kit I caught the furious look on Lilly's face."
-    ""
 
-# game/episode002.rpy:209
+    "當我轉向基特時，瞥見莉莉臉上的暴怒神情。"
+
+
 translate traditional_chinese episode002_5fb0543a:
 
-    # "A contempt that I had never seen before."
-    ""
 
-# game/episode002.rpy:210
+    "那是我從來沒有見過的輕蔑。"
+
+
 translate traditional_chinese episode002_e5c7d988:
 
-    # l "You stupid fuck!"
-    l ""
 
-# game/episode002.rpy:211
+    l "你這個蠢貨！"
+
+
 translate traditional_chinese episode002_5fe09f3a:
 
-    # l "You selfish fucking bastard!"
-    l ""
 
-# game/episode002.rpy:213
+    l "你這個自私的狗娘養的！"
+
+
 translate traditional_chinese episode002_edcb6697:
 
-    # "She stormed at me, surprising Kit and Céline, and tried to hit me."
-    ""
 
-# game/episode002.rpy:214
+    "她朝我衝了過來，把基特和瑟琳嚇了一跳，然後試圖打我。"
+
+
 translate traditional_chinese episode002_64693b6c:
 
-    # "Her fists rained blows on my chest until the grief that was clearly eating at her finally overtook her."
-    ""
 
-# game/episode002.rpy:216
+    "她的拳頭如雨點般砸在我胸口上，直到那股明顯在吞噬她的悲痛完全淹沒了她。"
+
+
 translate traditional_chinese episode002_235ed8de:
 
-    # "Not sure what to do, I held her tight while sobs wracked her body."
-    ""
 
-# game/episode002.rpy:221
+    "不知道該怎麼辦，我就緊緊抱住她，任憑她身體因哭泣而顫抖。"
+
+
 translate traditional_chinese episode002_65aad098:
 
-    # c "I'm sorry, Lilly."
-    c ""
 
-# game/episode002.rpy:222
+    c "對不起，莉莉。"
+
+
 translate traditional_chinese episode002_f250951c:
 
-    # c "I didn't mean for this to happen."
-    c ""
 
-# game/episode002.rpy:223
+    c "我不是故意讓這事發生的。"
+
+
 translate traditional_chinese episode002_eb1a737f:
 
-    # c "All I wanted..."
-    c ""
 
-# game/episode002.rpy:224
+    c "我想要的只是..."
+
+
 translate traditional_chinese episode002_fa3b68a1:
 
-    # l "You wanted what?!"
-    l ""
 
-# game/episode002.rpy:228
+    l "你想要什麼？!"
+
+
 translate traditional_chinese episode002_75c6da07:
 
-    # l "Why don't you say something?!"
-    l ""
 
-# game/episode002.rpy:230
+    l "你爲什麼不吭聲？!"
+
+
 translate traditional_chinese episode002_69fd3d76:
 
-    # "It took a while for her to wrestle herself out of my arms, as if she didn't realize the person she hated held her close."
-    ""
 
-# game/episode002.rpy:231
+    "她掙扎了好一會兒才掙脫我的懷抱，好像沒意識到這個她恨的人正緊緊抱着她。"
+
+
 translate traditional_chinese episode002_6aa0f4c4:
 
-    # l "All you did was create a big fucking mess."
-    l ""
 
-# game/episode002.rpy:232
+    l "你只搞了一團操蛋的大亂子。"
+
+
 translate traditional_chinese episode002_626f6b7e:
 
-    # l "Like I said you would."
-    l ""
 
-# game/episode002.rpy:233
+    l "就像我說過的那樣。"
+
+
 translate traditional_chinese episode002_f4437861:
 
-    # l "We don't know where we are."
-    l ""
 
-# game/episode002.rpy:234
+    l "我們不知道自己在哪兒。"
+
+
 translate traditional_chinese episode002_70218f66:
 
-    # l "We're deserters now."
-    l ""
 
-# game/episode002.rpy:235
+    l "我們現在是叛逃者了。"
+
+
 translate traditional_chinese episode002_0b8f3f08:
 
-    # l "And the fucking ship is shot up beyond repair."
-    l ""
 
-# game/episode002.rpy:236
+    l "而該死的船被打得稀巴爛，根本沒法修。"
+
+
 translate traditional_chinese episode002_3e97b30a:
 
-    # c "Is that true?"
-    c ""
 
-# game/episode002.rpy:238
+    c "是真的嗎？"
+
+
 translate traditional_chinese episode002_18178499:
 
-    # ce "We took a hit from the detonation of the first rocket."
-    ce ""
 
-# game/episode002.rpy:239
+    ce "我們被第一枚火箭的爆炸給擊中了。"
+
+
 translate traditional_chinese episode002_63f731db:
 
-    # ce "Could be worse, but our main thrusters are fried."
-    ce ""
 
-# game/episode002.rpy:241
+    ce "可能更糟，但我們的主推進器炸飛了。"
+
+
 translate traditional_chinese episode002_4e1c3085:
 
-    # l "Tell him about the fuel, Cé."
-    l ""
 
-# game/episode002.rpy:243
+    l "瑟，告訴他燃料的事。"
+
+
 translate traditional_chinese episode002_a3733d41:
 
-    # ce "Yes, we have a small reserve left, but it's not going to take us far, especially with the thrusters being down."
-    ce ""
 
-# game/episode002.rpy:244
+    ce "是的，我們還剩一小點儲備燃料，但它帶不了我們多遠，特別是在推進器壞了的情況下。"
+
+
 translate traditional_chinese episode002_2af12d66:
 
-    # c "That's bad."
-    c ""
 
-# game/episode002.rpy:245
+    c "那太糟了。"
+
+
 translate traditional_chinese episode002_280562fc:
 
-    # c "Any inhabited planets in this system?"
-    c ""
 
-# game/episode002.rpy:246
+    c "這個星系裡有住人的星球嗎？"
+
+
 translate traditional_chinese episode002_6b3420e5:
 
-    # c "What system is this anyway?"
-    c ""
 
-# game/episode002.rpy:248
+    c "這到底是什麼星系啊？"
+
+
 translate traditional_chinese episode002_054c3c98:
 
-    # ce "Just one."
-    ce ""
 
-# game/episode002.rpy:249
+    ce "只有一個。"
+
+
 translate traditional_chinese episode002_7f0c696f:
 
-    # ce "We’re somewhere near Alpha Vulpeculae..."
-    ce ""
 
-# game/episode002.rpy:250
+    ce "我們就在狐狸座α星附近..."
+
+
 translate traditional_chinese episode002_a2e05f8b:
 
-    # ce "Planet’s called Vulpes Velox according to the computer."
-    ce ""
 
-# game/episode002.rpy:251
+    ce "電腦顯示這個星球叫迅狐星。"
+
+
 translate traditional_chinese episode002_177b39cd:
 
-    # c "That doesn’t sound like it’s controlled by the Sovereignty."
-    c ""
 
-# game/episode002.rpy:252
+    c "聽起來不像在\"至高權域\"控制範圍內。"
+
+
 translate traditional_chinese episode002_3d1cfa79:
 
-    # ce "It isn’t, it appears we’re way out of human space."
-    ce ""
 
-# game/episode002.rpy:253
+    ce "確實不歸他們管，我們恐怕飄出人類疆域了。"
+
+
 translate traditional_chinese episode002_91f4df5c:
 
-    # c "Can we get there, to Velox, I mean?"
-    c ""
 
-# game/episode002.rpy:254
+    c "能去那兒嗎？我是說迅狐星。"
+
+
 translate traditional_chinese episode002_4fea926d:
 
-    # ce "I think so."
-    ce ""
 
-# game/episode002.rpy:255
+    ce "應該可以。"
+
+
 translate traditional_chinese episode002_d0babd36:
 
-    # ce "Though landing is going to be a challenge."
-    ce ""
 
-# game/episode002.rpy:256
+    ce "不過着陸會是個挑戰。"
+
+
 translate traditional_chinese episode002_3d856067:
 
-    # c "Then that's our destination."
-    c ""
 
-# game/episode002.rpy:258
+    c "那就定那兒爲目的地。"
+
+
 translate traditional_chinese episode002_68d9785a:
 
-    # l "Just like that..."
-    l ""
 
-# game/episode002.rpy:259
+    l "就這麼定了..."
+
+
 translate traditional_chinese episode002_f6fcf1bd:
 
-    # l "What about saving Eva?"
-    l ""
 
-# game/episode002.rpy:260
+    l "那拯救伊娃呢？"
+
+
 translate traditional_chinese episode002_60856b53:
 
-    # l "Your big fucking plan to save everyone?!"
-    l ""
 
-# game/episode002.rpy:261
+    l "你他媽那個拯救所有人的宏圖大計呢？!"
+
+
 translate traditional_chinese episode002_1eec9ac3:
 
-    # l "Now we're just going to fucking float to the nearest planet and just see where we go from there?"
-    l ""
 
-# game/episode002.rpy:266
+    l "現在我們就他媽隨便找顆最近的星球飄過去，然後走一步看一步？"
+
+
 translate traditional_chinese episode002_c4c77b64:
 
-    # c "I get why you're angry, but that's exactly what we're going to do, because it's the only thing we can do right now."
-    c ""
 
-# game/episode002.rpy:268
+    c "我懂你爲什麼發火，但現在只能這麼辦，我們別無選擇。"
+
+
 translate traditional_chinese episode002_7a9d1b36:
 
-    # l "Not good enough, brother."
-    l ""
 
-# game/episode002.rpy:270
+    l "不夠好，兄弟。"
+
+
 translate traditional_chinese episode002_7420350f:
 
-    # l "Not good enough, [p_name_short]."
-    l ""
 
-# game/episode002.rpy:271
+    l "不夠好，[p_name_short]。"
+
+
 translate traditional_chinese episode002_b97ae096:
 
-    # l "Fuck it, I'm going to check on that bloody stowaway you've saddled us with."
-    l ""
 
-# game/episode002.rpy:273
+    l "管他的，我去看看你硬塞上船的那個混蛋偷渡客。"
+
+
 translate traditional_chinese episode002_f83d5f2d:
 
-    # "Lilly walked out, slamming the entry hatch behind her."
-    ""
 
-# game/episode002.rpy:275
+    "莉莉摔上入口艙門走了出去。"
+
+
 translate traditional_chinese episode002_be944b93:
 
-    # c "Fuck Lilly, lay off it."
-    c ""
 
-# game/episode002.rpy:276
+    c "操，莉莉，你他媽閉嘴。"
+
+
 translate traditional_chinese episode002_ec5a7431:
 
-    # c "It's the only thing we can do right now."
-    c ""
 
-# game/episode002.rpy:277
+    c "眼下我們只能這樣。"
+
+
 translate traditional_chinese episode002_e9e3fa3b:
 
-    # c "I suggest you accept the status quo for the time being or fuck off on the next transport you can catch on that nearby planet."
-    c ""
 
-# game/episode002.rpy:279
+    c "我建議你暫時接受現狀，要麼就滾蛋搭下班運輸船去附近星球。"
+
+
 translate traditional_chinese episode002_6b843a52:
 
-    # l "Fuck! You!"
-    l ""
 
-# game/episode002.rpy:281
+    l "操！你！"
+
+
 translate traditional_chinese episode002_336054db:
 
-    # "Lilly ran out of the cockpit, slamming the entry hatch behind her."
-    ""
 
-# game/episode002.rpy:283
+    "莉莉衝出駕駛艙，入口艙門在身後砰然關上。"
+
+
 translate traditional_chinese episode002_9ae04505:
 
-    # ki "She's really pissed."
-    ki ""
 
-# game/episode002.rpy:284
+    ki "她是真炸毛了。"
+
+
 translate traditional_chinese episode002_58cb1254:
 
-    # c "Yes, thank you, Captain Obvious."
-    c ""
 
-# game/episode002.rpy:286
+    c "是，謝謝你，明察秋毫的艦長。"
+
+
 translate traditional_chinese episode002_f00c0e40:
 
-    # c "Now, that planet."
-    c ""
 
-# game/episode002.rpy:287
+    c "現在，說說那顆行星。"
+
+
 translate traditional_chinese episode002_29d0e779:
 
-    # c "How long until we get there?"
-    c ""
 
-# game/episode002.rpy:288
+    c "還要多久才能到？"
+
+
 translate traditional_chinese episode002_bdd8ae1e:
 
-    # "Céline conjured up the necessary calculations using the ship's computer and after a few minutes we were crawling towards our destination using only our secondary thrusters."
-    ""
 
-# game/episode002.rpy:293
+    "瑟琳用飛船計算機完成必要運算後，我們啓動副推進器向目的地緩慢前進。"
+
+
 translate traditional_chinese episode002_670bc9b2:
 
-    # "After what seemed like an eternity, the Enfield finally pierced the atmosphere of the planet we were hoping to land on."
-    ""
 
-# game/episode002.rpy:294
+    "仿佛過了永恆那麼久，\"恩菲爾德\"號終於穿過目標星球的大氣層。"
+
+
 translate traditional_chinese episode002_fd299111:
 
-    # "The descent was rough, which might have had something to do with our inexperience piloting ships."
-    ""
 
-# game/episode002.rpy:295
+    "降落過程很顛簸，可能跟我們缺乏駕駛經驗有關。"
+
+
 translate traditional_chinese episode002_b1e3e5d7:
 
-    # "Though the planet was supposed to be inhabited, there was no guarantee that its residents were intelligent enough to either repair a ship or even have a meaningful conversation with us."
-    ""
 
-# game/episode002.rpy:297
+    "雖然這顆星球應該有居民，但未必具備修理飛船的智慧，甚至可能無法正常交流。"
+
+
 translate traditional_chinese episode002_3ab8d576:
 
-    # "Several settlements began to pop up on the ship’s nav computer."
-    ""
 
-# game/episode002.rpy:298
+    "導航計算機顯示幾處聚居點。"
+
+
 translate traditional_chinese episode002_adb4c4c0:
 
-    # c "Could you target one of the smaller settlements?"
-    c ""
 
-# game/episode002.rpy:299
+    c "能鎖定再小規模點的聚居點嗎？"
+
+
 translate traditional_chinese episode002_a6f3b82f:
 
-    # ce "Sure, but why not the larger towns?"
-    ce ""
 
-# game/episode002.rpy:300
+    ce "當然，但爲何不選大城鎮？"
+
+
 translate traditional_chinese episode002_e7c549b9:
 
-    # c "Landing this battered thing in a large port might attract a little too much unwanted attention."
-    c ""
 
-# game/episode002.rpy:301
+    c "把這破船停進大港口太惹眼。"
+
+
 translate traditional_chinese episode002_f71f4801:
 
-    # ce "I could probably set us down in the outskirts of this settlement, roughly a hundred people living there."
-    ce ""
 
-# game/episode002.rpy:302
+    ce "我可以在聚居點外圍降落，那裡約百人居住。"
+
+
 translate traditional_chinese episode002_c533646a:
 
-    # c "Sounds good to me."
-    c ""
 
-# game/episode002.rpy:303
+    c "我看行。"
+
+
 translate traditional_chinese episode002_addf3e0f:
 
-    # c "We’ll explore the surroundings on foot after we land."
-    c ""
 
-# game/episode002.rpy:305
+    c "着陸後步行探索周邊。"
+
+
 translate traditional_chinese episode002_03aece40:
 
-    # c "How are you feeling Kit?"
-    c ""
 
-# game/episode002.rpy:306
+    c "感覺如何基特？"
+
+
 translate traditional_chinese episode002_d01328e3:
 
-    # c "Up for a little walk?"
-    c ""
 
-# game/episode002.rpy:307
+    c "能走動走動嗎？"
+
+
 translate traditional_chinese episode002_44ef5eff:
 
-    # ki "I would, if it wasn’t for this damn wheelchair."
-    ki ""
 
-# game/episode002.rpy:308
+    ki "要不是這該死的輪椅..."
+
+
 translate traditional_chinese episode002_a58c0871:
 
-    # ce "I’d go with you, but I need to check the computer, get a sense of where we are."
-    ce ""
 
-# game/episode002.rpy:309
+    ce "我想同行，但得查電腦定位坐標。"
+
+
 translate traditional_chinese episode002_231710c0:
 
-    # ki "Guess that leaves Lilly..."
-    ki ""
 
-# game/episode002.rpy:310
+    ki "看來只剩莉莉..."
+
+
 translate traditional_chinese episode002_32921f21:
 
-    # ki "Or your attendant, maybe that girl..."
-    ki ""
 
-# game/episode002.rpy:311
+    ki "或者你的侍女，也許那姑娘..."
+
+
 translate traditional_chinese episode002_a83b7921:
 
-    # ki "Or Thim..."
-    ki ""
 
-# game/episode002.rpy:312
+    ki "再不然蒂姆..."
+
+
 translate traditional_chinese episode002_1f82bcc7:
 
-    # c "I’m not sure if I should ask Lilly..."
-    c ""
 
-# game/episode002.rpy:313
+    c "我不確定該不該找莉莉..."
+
+
 translate traditional_chinese episode002_b00d113d:
 
-    # c "And the other girls don’t have any formal training."
-    c ""
 
-# game/episode002.rpy:314
+    c "其他女孩沒受過專業訓練。"
+
+
 translate traditional_chinese episode002_4f80e7ff:
 
-    # ki "It’s either that or hiking with the Great Duke Von Skandersfelt..."
-    ki ""
 
-# game/episode002.rpy:318
+    ki "要麼帶上她們，要麼就陪大公馮·斯坎德斯菲爾特徒步..."
+
+
 translate traditional_chinese episode002_d391ece7:
 
-    # "The Enfield was a very small vessel, so finding Lilly didn’t pose too much of a problem."
-    ""
 
-# game/episode002.rpy:320
+    "\"恩菲爾德\"號是一艘很小的飛船，所以找莉莉不是個大問題。"
+
+
 translate traditional_chinese episode002_aea9c147:
 
-    # "I found her with the others in the cargo bay."
-    ""
 
-# game/episode002.rpy:321
+    "我在貨艙裏和其他人一起找到了她。"
+
+
 translate traditional_chinese episode002_14d5fd47:
 
-    # c "Lilly I..."
-    c ""
 
-# game/episode002.rpy:322
+    c "莉莉，我..."
+
+
 translate traditional_chinese episode002_3ab6fc95:
 
-    # l "No [p_name_short], not now."
-    l ""
 
-# game/episode002.rpy:323
+    l "不[p_name_short]，現在不行。"
+
+
 translate traditional_chinese episode002_433b1728:
 
-    # l "Please leave me alone."
-    l ""
 
-# game/episode002.rpy:325
+    l "請讓我一個人待會兒。"
+
+
 translate traditional_chinese episode002_5dcecfac:
 
-    # l "At least for a while."
-    l ""
 
-# game/episode002.rpy:327
+    l "至少一會兒。"
+
+
 translate traditional_chinese episode002_7a1e8d20:
 
-    # l "Preferably forever."
-    l ""
 
-# game/episode002.rpy:329
+    l "最好是永遠。"
+
+
 translate traditional_chinese episode002_a522225f:
 
-    # "So Thim went with me, something we both enjoyed so very much."
-    ""
 
-# game/episode002.rpy:330
+    "所以蒂姆跟我一起去了，我們倆都挺享受的。"
+
+
 translate traditional_chinese episode002_de7072c5:
 
-    # "At least he kept silent about the head injury he got from Jade..."
-    ""
 
-# game/episode002.rpy:333
+    "至少他對傑德給他造成的頭部傷保持沉默..."
+
+
 translate traditional_chinese episode002_6682fd72:
 
-    # c "Thim, are you feeling well enough to come with me?"
-    c ""
 
-# game/episode002.rpy:334
+    c "蒂姆，你現在感覺好到可以跟我一起來了嗎？"
+
+
 translate traditional_chinese episode002_6b0a1e04:
 
-    # t "Your attendant hit me on the fucking head with a wrench."
-    t ""
 
-# game/episode002.rpy:335
+    t "你的隨從用扳手狠狠地打了我的頭。"
+
+
 translate traditional_chinese episode002_16d49a1b:
 
-    # c "I noticed..."
-    c ""
 
-# game/episode002.rpy:336
+    c "我注意到了..."
+
+
 translate traditional_chinese episode002_9f29367b:
 
-    # c "We had to act quickly."
-    c ""
 
-# game/episode002.rpy:337
+    c "我們得快點行動。"
+
+
 translate traditional_chinese episode002_63994f9a:
 
-    # c "But are you feeling better now?"
-    c ""
 
-# game/episode002.rpy:341
+    c "但現在你感覺好些了嗎？"
+
+
 translate traditional_chinese episode002_dd050c18:
 
-    # t "I guess, why?"
-    t ""
 
-# game/episode002.rpy:343
+    t "我想是吧，爲什麼？"
+
+
 translate traditional_chinese episode002_4cd76835:
 
-    # t "Why?"
-    t ""
 
-# game/episode002.rpy:344
+    t "爲什麼？"
+
+
 translate traditional_chinese episode002_90c1a131:
 
-    # c "We’re going to land soon near a town and I want to check it out."
-    c ""
 
-# game/episode002.rpy:345
+    c "我們很快就會在鎮子附近降落，我想去看看。"
+
+
 translate traditional_chinese episode002_b2ca58c7:
 
-    # c "Get supplies and we need to do something about this ship."
-    c ""
 
-# game/episode002.rpy:347
+    c "搞點補給，我們還得處理一下這艘船。"
+
+
 translate traditional_chinese episode002_781dc2df:
 
-    # t "Do something about the ship, you mean sell it?"
-    t ""
 
-# game/episode002.rpy:348
+    t "處理這艘船，你的意思是賣了它？"
+
+
 translate traditional_chinese episode002_13251290:
 
-    # c "Maybe."
-    c ""
 
-# game/episode002.rpy:350
+    c "也許吧。"
+
+
 translate traditional_chinese episode002_4cd76835_1:
 
-    # t "Why?"
-    t ""
 
-# game/episode002.rpy:351
+    t "爲什麼？"
+
+
 translate traditional_chinese episode002_5030e954:
 
-    # c "Is that the only question you can ask?"
-    c ""
 
-# game/episode002.rpy:352
+    c "你就只會問這個嗎？"
+
+
 translate traditional_chinese episode002_7808d22d:
 
-    # c "I sure as hell don’t want to keep flying in a TGN-tagged ship, so we’ll have to figure something out."
-    c ""
 
-# game/episode002.rpy:353
+    c "我當然不想再呆在一艘人族星系艦隊的飛船裏了，所以我們得想點辦法。"
+
+
 translate traditional_chinese episode002_aaadb47b:
 
-    # c "I’ll let the others know what the plan is."
-    c ""
 
-# game/episode002.rpy:355
+    c "我會告訴其他人計劃是什麼。"
+
+
 translate traditional_chinese episode002_e32a532d:
 
-    # t "Okay, I’ll get ready."
-    t ""
 
-# game/episode002.rpy:357
+    t "行，我這就去準備。"
+
+
 translate traditional_chinese episode002_a60a89c8:
 
-    # t "Suit yourself."
-    t ""
 
-# game/episode002.rpy:360
+    t "隨便你。"
+
+
 translate traditional_chinese episode002_2466872c:
 
-    # "As I headed back to Céline, the ship started moving to the co-ordinates punched into the computer earlier."
-    ""
 
-# game/episode002.rpy:361
+    "當我返回瑟琳身邊時，飛船正朝稍早輸入電腦的坐標移動。"
+
+
 translate traditional_chinese episode002_60fb8e0a:
 
-    # c "Does this ship have a internal coms?"
-    c ""
 
-# game/episode002.rpy:362
+    c "這船有內部通訊系統嗎？"
+
+
 translate traditional_chinese episode002_8775b234:
 
-    # ce "Doesn’t every ship?"
-    ce ""
 
-# game/episode002.rpy:363
+    ce "哪艘船沒有啊？"
+
+
 translate traditional_chinese episode002_cd344810:
 
-    # c "I think so, most of the finer details of ship-fairing I learnt from books or when I was paying attention to the instructor droning on about it, which wasn’t often."
-    c ""
 
-# game/episode002.rpy:364
+    c "應該有吧，飛船駕駛的大多數細節我是從書裏學的，要麼就是聽教官絮叨時記的——雖然也沒認真聽過幾次。"
+
+
 translate traditional_chinese episode002_a6b9ff31:
 
-    # ce "Just talk in here, that should work."
-    ce ""
 
-# game/episode002.rpy:366
+    ce "直接在這兒說話就行，應該管用。"
+
+
 translate traditional_chinese episode002_1d7b2221:
 
-    # c "Listen up people."
-    c ""
 
-# game/episode002.rpy:367
+    c "大家聽好了。"
+
+
 translate traditional_chinese episode002_a99f676a:
 
-    # c "In a few moments we’ll touch down on Vulpes Velox, somewhere in the wilderness."
-    c ""
 
-# game/episode002.rpy:368
+    c "馬上我們就要降落在迅狐星某處荒野。"
+
+
 translate traditional_chinese episode002_d7cd4f43:
 
-    # c "There’s a town nearby and I intend to check it out on foot, together with Thim, the rest stays here to guard the ship."
-    c ""
 
-# game/episode002.rpy:375
+    c "附近有個小鎮，我打算帶蒂姆步行偵查，其餘人留守看船。"
+
+
 translate traditional_chinese episode002_60b8ffe2:
 
-    # "After we landed, Thim and I headed out."
-    ""
 
-# game/episode002.rpy:378
+    "着陸後，我和蒂姆立即出發。"
+
+
 translate traditional_chinese episode002_1678f201:
 
-    # t "Does this town have the resources we need?"
-    t ""
 
-# game/episode002.rpy:379
+    t "這鎮子有我們要的資源嗎？"
+
+
 translate traditional_chinese episode002_463c4600:
 
-    # c "I don’t know, hopefully there’s a workshop or something."
-    c ""
 
-# game/episode002.rpy:380
+    c "不清楚，但願能找到工場之類的。"
+
+
 translate traditional_chinese episode002_def84b0b:
 
-    # c "We might need to fly to the nearest spaceport anyway, but I don’t want our presence known to each and everyone out there just yet."
-    c ""
 
-# game/episode002.rpy:381
+    c "最後可能得飛去最近的太空港，但現在還不想搞得人盡皆知。"
+
+
 translate traditional_chinese episode002_9b6a8d49:
 
-    # c "We’re outside of human space, so the chances of the Sovereignty impounding our ship and throwing us in a jail cell are minimal, but the locals could be just as hostile."
-    c ""
 
-# game/episode002.rpy:384
+    c "雖然脫離人類疆域後，\"至高權域\"扣船抓人的風險低了，但本地人也未必友善。"
+
+
 translate traditional_chinese episode002_f3921d9e:
 
-    # t "There’s supposed to be a lot of hostility against the Sovereignty."
-    t ""
 
-# game/episode002.rpy:385
+    t "聽說這兒民衆多半敵視\"至高權域\"。"
+
+
 translate traditional_chinese episode002_b1fb61a1:
 
-    # c "Yeah and if that’s really true I think it’s a little unhealthy to fly a broken TGN gunship inside alien territory."
-    c ""
 
-# game/episode002.rpy:386
+    c "是啊，要真是這樣，開着人族星系艦隊的破艦船闖外星地盤——腦子多少有點進水。"
+
+
 translate traditional_chinese episode002_8847989f:
 
-    # t "Agreed."
-    t ""
 
-# game/episode002.rpy:388
+    t "同意。"
+
+
 translate traditional_chinese episode002_dc114ac0:
 
-    # t "Great..."
-    t ""
 
-# game/episode002.rpy:391
+    t "真是妙極..."
+
+
 translate traditional_chinese episode002_aeed6a20:
 
-    # "The surface of Vulpes Velox turned out to be just as dull as Lanan, but we weren’t really there to see the sights."
-    ""
 
-# game/episode002.rpy:392
+    "迅狐星地表和拉南星一樣荒涼，但反正我們又不是來觀光的。"
+
+
 translate traditional_chinese episode002_d4841461:
 
-    # "It didn’t take long for us to reach the settlement, which turned out to be a broad street flanked by some makeshift houses."
-    ""
 
-# game/episode002.rpy:406
+    "沒多久就望見一個聚居地，其實就是條寬闊街道，兩邊搭着簡易房。"
+
+
 translate traditional_chinese episode002_f2616419:
 
-    # "The place was almost deserted, but for a person sitting on a porch."
-    ""
 
-# game/episode002.rpy:408
+    "整片地兒空蕩蕩的，就門廊上坐着個人-"
+
+
 translate traditional_chinese episode002_0dc52d55:
 
-    # c "Let’s ask one of the locals for some directions."
-    c ""
 
-# game/episode002.rpy:409
+    c "找本地人問問路吧。"
+
+
 translate traditional_chinese episode002_75d92a51:
 
-    # t "I think that guy over there isn’t human.."
-    t ""
 
-# game/episode002.rpy:410
+    t "我想那邊那個傢伙不是人類.."
+
+
 translate traditional_chinese episode002_b83b9782:
 
-    # c "We’re in alien territory, that’s bound to happen."
-    c ""
 
-# game/episode002.rpy:412
+    c "我們身處外星領土，這種事肯定會發生的。"
+
+
 translate traditional_chinese episode002_9d6394b3:
 
-    # "Within the Sovereignty contact with other species is greatly discouraged, except for the interactions with Tw’ill attendants."
-    ""
 
-# game/episode002.rpy:413
+    "在\"至高權域\"內，與其他物種接觸是強烈勸阻的，除了與特維爾隨從互動。"
+
+
 translate traditional_chinese episode002_93d583e2:
 
-    # "Kit and I did have some experience with alien species, as the brothels of Alf Cen were somewhat indiscriminate when it came to hiring personnel."
-    ""
 
-# game/episode002.rpy:414
+    "基特和我確實有過與外星物種打交道的經驗，因爲半人馬座α星上的妓院在僱傭人員時不太講究。"
+
+
 translate traditional_chinese episode002_05bf4b6e:
 
-    # "Of course, trying to talk to a drugged-up whore is a little different from having a casual conversation with an unknown alien race."
-    ""
 
-# game/episode002.rpy:415
+    "當然，嘗試和一個嗑藥的妓女說話，與和一個未知的外星種族閒聊是有點不同的。"
+
+
 translate traditional_chinese episode002_b86b3a9a:
 
-    # "This type of ‘first contact’ was, in other words, kind of a big deal."
-    ""
 
-# game/episode002.rpy:416
+    "這種『首次接觸』，換句話說，是件大事。"
+
+
 translate traditional_chinese episode002_b5364204:
 
-    # "We were prepared though, our language implants supported hundreds of different languages."
-    ""
 
-# game/episode002.rpy:418
+    "不過我們是有準備的，我們的語言植入支持幾百種不同的語言。"
+
+
 translate traditional_chinese episode002_aa6964c0:
 
-    # c "Excuse me sir, after a long voyage, our ship needs some urgent repairs."
-    c ""
 
-# game/episode002.rpy:419
+    c "打擾一下先生，長途航行後，我們的飛船需要緊急修理。"
+
+
 translate traditional_chinese episode002_49e689f1:
 
-    # c "I was wondering if there’s a shipyard or workshop nearby."
-    c ""
 
-# game/episode002.rpy:422
+    c "我在想這附近有沒有船塢或修理工廠。"
+
+
 translate traditional_chinese episode002_e53c6398:
 
-    # man "Try Thyia."
-    man ""
 
-# game/episode002.rpy:423
+    man "試試找塞婭。"
+
+
 translate traditional_chinese episode002_8634fd39:
 
-    # "So yeah, that wasn’t very momentous..."
-    ""
 
-# game/episode002.rpy:425
+    "所以嘛，那並不是很重要..."
+
+
 translate traditional_chinese episode002_897c6956:
 
-    # "The location the guy pointed us to turned out to be a small workshop near a scrapyard."
-    ""
 
-# game/episode002.rpy:426
+    "那傢伙指向我們的位置，結果是一個廢料場附近的小工場。"
+
+
 translate traditional_chinese episode002_80a49ec0:
 
-    # "It was a far cry from the professional shipyards we knew from the Sovereignty, but maybe they were open to doing some illicit work on TGN property."
-    ""
 
-# game/episode002.rpy:428
+    "這與我們在『至高權域』所知的專業船塢差遠了，但或許他們願意在人族星系艦隊的財產上做些非法勾當。"
+
+
 translate traditional_chinese episode002_47ce8eca:
 
-    # "We pressed a buzzer and after a while the large door of the workshop slowly opened, revealing a woman waiting for us inside."
-    ""
 
-# game/episode002.rpy:429
+    "我們按了個門鈴，過了一會兒，工場的大門緩緩打開，露出一個在裡面等我們的女人。"
+
+
 translate traditional_chinese episode002_ebdf9a88:
 
-    # th "Hiya, boys."
-    th ""
 
-# game/episode002.rpy:442
+    th "嗨，小夥子們。"
+
+
 translate traditional_chinese episode002_b404f9c1:
 
-    # th "What brings you to this beautiful town?"
-    th ""
 
-# game/episode002.rpy:443
+    th "是什麼風把你們吹到這個美麗的小鎮？"
+
+
 translate traditional_chinese episode002_b7d0e749:
 
-    # th "Looking for work?"
-    th ""
 
-# game/episode002.rpy:445
+    th "找工作嗎？"
+
+
 translate traditional_chinese episode002_d9af2c33:
 
-    # c "We’ve just landed."
-    c ""
 
-# game/episode002.rpy:446
+    c "我們剛降落。"
+
+
 translate traditional_chinese episode002_4c137b38:
 
-    # c "And we’re looking for supplies and someone that can help us with our ship."
-    c ""
 
-# game/episode002.rpy:447
+    c "我們在找補給品和能幫忙修飛船的人。"
+
+
 translate traditional_chinese episode002_793b6d2d:
 
-    # th "I might be able to help you on both counts."
-    th ""
 
-# game/episode002.rpy:448
+    th "我或許兩方面都能幫上忙。"
+
+
 translate traditional_chinese episode002_b3256046:
 
-    # th "Define ‘help us with our ship’."
-    th ""
 
-# game/episode002.rpy:449
+    th "定義一下『幫忙修飛船』是什麼意思。"
+
+
 translate traditional_chinese episode002_07cedde5:
 
-    # th "Does it need repairing?"
-    th ""
 
-# game/episode002.rpy:450
+    th "它需要修理嗎？"
+
+
 translate traditional_chinese episode002_196917e2:
 
-    # c "Refuelling at the very least, we were in a hurry."
-    c ""
 
-# game/episode002.rpy:451
+    c "至少得加油，我們當時急着跑路。"
+
+
 translate traditional_chinese episode002_6062c53d:
 
-    # th "What kind of ship is she?"
-    th ""
 
-# game/episode002.rpy:452
+    th "她是哪種飛船？"
+
+
 translate traditional_chinese episode002_218b3ed7:
 
-    # c "A light fighter."
-    c ""
 
-# game/episode002.rpy:453
+    c "一架輕型戰鬥機。"
+
+
 translate traditional_chinese episode002_89dfbe75:
 
-    # th "A fighter?"
-    th ""
 
-# game/episode002.rpy:454
+    th "戰鬥機？"
+
+
 translate traditional_chinese episode002_c665c7a0:
 
-    # th "You plan on refuelling a lightly armored fighter, a ship that lacks any serious firepower, and go back out into the system?"
-    th ""
 
-# game/episode002.rpy:455
+    th "你們打算給一架輕型裝甲戰鬥機加油，這船幾乎沒有重火力，然後開回星系裡去？"
+
+
 translate traditional_chinese episode002_5e1d4eaa:
 
-    # c "We’re not sure..."
-    c ""
 
-# game/episode002.rpy:456
+    c "我們不確定..."
+
+
 translate traditional_chinese episode002_7437f4d5:
 
-    # th "You’re absolutely mad...{w} that’s suicide!"
-    th ""
 
-# game/episode002.rpy:458
+    th "你們瘋了吧...{w}那是自殺！"
+
+
 translate traditional_chinese episode002_f3bc360c:
 
-    # t "He is, just not officially diagnosed."
-    t ""
 
-# game/episode002.rpy:459
+    t "他是瘋了，只是沒正式診斷出來。"
+
+
 translate traditional_chinese episode002_2ea4cf40:
 
-    # c "Shut up, Thim."
-    c ""
 
-# game/episode002.rpy:461
+    c "閉嘴，蒂姆。"
+
+
 translate traditional_chinese episode002_3cb2ed1b:
 
-    # th "It’s a wonder you weren’t shot down by an enemy ship the instant you arrived here."
-    th ""
 
-# game/episode002.rpy:462
+    th "真是奇蹟，你們沒有一到這裡就被敵人的船擊落。"
+
+
 translate traditional_chinese episode002_037075f7:
 
-    # th "Something tells me this trip of yours wasn’t planned, or you’re monumentally stupid."
-    th ""
 
-# game/episode002.rpy:463
+    th "我有種感覺，這次旅行是臨時起意，或者你們蠢透了。"
+
+
 translate traditional_chinese episode002_9b1f4f83:
 
-    # th "I’m going with the first, but I’m not ruling out the second explanation yet."
-    th ""
 
-# game/episode002.rpy:464
+    th "我選第一個，但也可能是第二個原因。"
+
+
 translate traditional_chinese episode002_ae031e89:
 
-    # "Noticing we were losing what little credibility we had very fast, I decided to tell the woman at least part of the truth."
-    ""
 
-# game/episode002.rpy:465
+    "發覺我們少得可憐的可信度正在飛速流失，我決定告訴那女人至少部分真相。"
+
+
 translate traditional_chinese episode002_b62a8450:
 
-    # c "All right, we commandeered it."
-    c ""
 
-# game/episode002.rpy:467
+    c "好吧，它是我們強奪過來的。"
+
+
 translate traditional_chinese episode002_dd21af05:
 
-    # c "We’re mounting an expedition to rescue my sister, who was abducted, along with many others, during a training mission."
-    c ""
 
-# game/episode002.rpy:469
+    c "我們正組織一場搜救行動，去救我妹妹，她和其他人一起在訓練任務中被綁架了。"
+
+
 translate traditional_chinese episode002_c555709f:
 
-    # c "We’re mounting an expedition to rescue one of my best friends, who was abducted, along with many others, during a training mission."
-    c ""
 
-# game/episode002.rpy:470
+    c "我們正組織搜救行動救我最好的朋友之一，他和許多人一起在訓練任務中被綁架了。"
+
+
 translate traditional_chinese episode002_cf56cbd0:
 
-    # th "Training mission?"
-    th ""
 
-# game/episode002.rpy:471
+    th "訓練任務？"
+
+
 translate traditional_chinese episode002_c85e1815:
 
-    # th "What are you, mercenaries?"
-    th ""
 
-# game/episode002.rpy:472
+    th "你們算什麼，僱傭兵？"
+
+
 translate traditional_chinese episode002_f39e6f0e:
 
-    # c "We’re with the Terran Galactic Navy."
-    c ""
 
-# game/episode002.rpy:473
+    c "我們隸屬於人族星系艦隊。"
+
+
 translate traditional_chinese episode002_dbc639b6:
 
-    # t "At least we were..."
-    t ""
 
-# game/episode002.rpy:475
+    t "至少以前是..."
+
+
 translate traditional_chinese episode002_9790cadb:
 
-    # th "Get the fuck of out of here, this instant."
-    th ""
 
-# game/episode002.rpy:476
+    th "他媽給我滾出這裡，馬上。"
+
+
 translate traditional_chinese episode002_25be0c19:
 
-    # th "My shop isn’t available to Sovereignty-fucks."
-    th ""
 
-# game/episode002.rpy:477
+    th "我的店不接待\"至高權域\"的狗屎們。"
+
+
 translate traditional_chinese episode002_011b76ee:
 
-    # t "Nice going, [p_name]..."
-    t ""
 
-# game/episode002.rpy:478
+    t "幹得好，[p_name]..."
+
+
 translate traditional_chinese episode002_99293875:
 
-    # t "Hey lady, we deserted, all right?"
-    t ""
 
-# game/episode002.rpy:479
+    t "嘿，女士，我們已經叛逃了，行吧？"
+
+
 translate traditional_chinese episode002_55075e83:
 
-    # t "We’re not part of any fucking Navy any longer, our boy here made sure of that."
-    t ""
 
-# game/episode002.rpy:480
+    t "我們他媽不再是任何艦隊的一員了，這小夥子確保如此。"
+
+
 translate traditional_chinese episode002_e0cf9f80:
 
-    # c "Our superiors didn’t seem interested in rescuing anyone and we were headed back to the Naval Academy, leaving all those people to die."
-    c ""
 
-# game/episode002.rpy:483
+    c "我們的上司似乎對救人沒興趣，他讓我們返回艦隊學院，讓那些被抓走的人都死掉算了。"
+
+
 translate traditional_chinese episode002_94d1f57e:
 
-    # c "That’s when I decided to steal a ship and go look for Eva, my sister."
-    c ""
 
-# game/episode002.rpy:485
+    c "那就是我決定偷一艘船去尋找我的妹妹伊娃的時候。"
+
+
 translate traditional_chinese episode002_d166c9ef:
 
-    # c "That’s when I decided to steal a ship and go look for Eva, my friend."
-    c ""
 
-# game/episode002.rpy:486
+    c "那就是我決定偷一艘船去尋找我的朋友伊娃的時候。"
+
+
 translate traditional_chinese episode002_724961d7:
 
-    # c "When they noticed we were leaving, our command cruiser fired several missiles which we evaded by bursting our drive."
-    c ""
 
-# game/episode002.rpy:487
+    c "當他們注意到我們要離開時，我們的指揮艦發射了幾枚導彈，而我們靠過載引擎才躲開。"
+
+
 translate traditional_chinese episode002_c591d7d5:
 
-    # c "And we ended up here."
-    c ""
 
-# game/episode002.rpy:489
+    c "然後我們就落到了這兒。"
+
+
 translate traditional_chinese episode002_0ee8b1d7:
 
-    # th "It’s official, you’re monumentally stupid."
-    th ""
 
-# game/episode002.rpy:490
+    th "真的，你簡直是蠢得掉渣。"
+
+
 translate traditional_chinese episode002_a418c5e0:
 
-    # th "So the two of you came here in a TGN light fighter?"
-    th ""
 
-# game/episode002.rpy:491
+    th "所以你們倆是坐着一艘人族星系艦隊輕型戰機來的？"
+
+
 translate traditional_chinese episode002_e7028a37:
 
-    # c "Actually, there’s seven of us in total."
-    c ""
 
-# game/episode002.rpy:492
+    c "其實，我們總共有七個人。"
+
+
 translate traditional_chinese episode002_1e8ed0db:
 
-    # th "Seven? You’re taking the piss..."
-    th ""
 
-# game/episode002.rpy:493
+    th "七個？別胡扯了..."
+
+
 translate traditional_chinese episode002_8199b458:
 
-    # th "And you’re going to fly away in a light fighter with all those people on board?"
-    th ""
 
-# game/episode002.rpy:494
+    th "你還打算帶着所有人一起坐在輕型戰機裏飛走？"
+
+
 translate traditional_chinese episode002_b304aec0:
 
-    # c "We’re still weighing our options."
-    c ""
 
-# game/episode002.rpy:496
+    c "我們還在考慮各種辦法。"
+
+
 translate traditional_chinese episode002_06ed0584:
 
-    # th "Didn’t they teach you anything useful at the academy?"
-    th ""
 
-# game/episode002.rpy:497
+    th "難道他們在軍校沒教你們點有用的玩意兒？"
+
+
 translate traditional_chinese episode002_289bd2df:
 
-    # th "Fighters of that class can’t support that many passengers on extended flights."
-    th ""
 
-# game/episode002.rpy:498
+    th "那種級別的戰機在長途飛行時撐不了那麼多乘客。"
+
+
 translate traditional_chinese episode002_206622c1:
 
-    # th "You’re better off leaving the damn thing in whatever bog you landed it and boarding the next transport freighter out of here."
-    th ""
 
-# game/episode002.rpy:499
+    th "你們不如把那破玩意兒留在着陸地那種爛地方，自己搭下一趟運輸船離開這兒。"
+
+
 translate traditional_chinese episode002_ce3554a9:
 
-    # c "Leaving you with an abandoned TGN aircraft to sell to the highest bidder?"
-    c ""
 
-# game/episode002.rpy:501
+    c "這樣你就有一架廢棄的人族星系艦隊飛機可以賣給最高出價者？"
+
+
 translate traditional_chinese episode002_11aa03ef:
 
-    # th "I see you’re not that stupid, after all."
-    th ""
 
-# game/episode002.rpy:502
+    th "看來你終究沒那麼傻。"
+
+
 translate traditional_chinese episode002_e94286ca:
 
-    # th "All right, I’m willing to buy it from you."
-    th ""
 
-# game/episode002.rpy:503
+    th "好吧，我願意從你們那兒買下它。"
+
+
 translate traditional_chinese episode002_c9b64082:
 
-    # th "I know enough about these babies to be able to retrofit it and the TGN will be none the wiser for it."
-    th ""
 
-# game/episode002.rpy:504
+    th "我對這些寶貝了解得很，能把它改裝一番，人族星系艦隊永遠也不會知道。"
+
+
 translate traditional_chinese episode002_c0e64f58:
 
-    # c "Money is nice and all, but you just said so yourself: we need a bigger ship."
-    c ""
 
-# game/episode002.rpy:505
+    c "有錢當然很好，但你自己剛說了：我們需要艘更大的船。"
+
+
 translate traditional_chinese episode002_98bf349b:
 
-    # c "I saw one in your yard."
-    c ""
 
-# game/episode002.rpy:506
+    c "我在你的院子裡看到過一艘。"
+
+
 translate traditional_chinese episode002_754c51cf:
 
-    # c "How much ship does our top-of-the-bill military fighter buy us?"
-    c ""
 
-# game/episode002.rpy:508
+    c "我們頂尖的軍用戰機值多少？"
+
+
 translate traditional_chinese episode002_dce02834:
 
-    # th "Not much, considering the amount of work involved to hide the fact that it’s a stolen TGN bird."
-    th ""
 
-# game/episode002.rpy:509
+    th "沒多少，考慮到要掩蓋偷來的人族星系艦隊戰機，這事實得費老大勁。"
+
+
 translate traditional_chinese episode002_0d02f6de:
 
-    # c "I’m sure we can work something out."
-    c ""
 
-# game/episode002.rpy:511
+    c "我敢保證我們能想點辦法出來。"
+
+
 translate traditional_chinese episode002_5f356b9d:
 
-    # th "Are you now?"
-    th ""
 
-# game/episode002.rpy:512
+    th "是嗎？"
+
+
 translate traditional_chinese episode002_03f75cc4:
 
-    # th "Well, as a matter of fact, I might have a ship that’s perfect for you."
-    th ""
 
-# game/episode002.rpy:513
+    th "好吧，事實上，我可能正好有一艘完美適合你們的船。"
+
+
 translate traditional_chinese episode002_3dd65b84:
 
-    # th "It’s a trading ship, older model, but still perfectly capable of long distances."
-    th ""
 
-# game/episode002.rpy:514
+    th "是艘貿易船，老款了，但跑長途完全沒問題。"
+
+
 translate traditional_chinese episode002_e1d431fe:
 
-    # th "Now, that fighter might pay for half of it, but I have some cargo that needs to be delivered."
-    th ""
 
-# game/episode002.rpy:515
+    th "你那架戰鬥機頂多抵半價，不過我正好有批貨要運。"
+
+
 translate traditional_chinese episode002_778b503d:
 
-    # th "Here’s the deal, I’m going to buy that fighter from you, no further questions asked."
-    th ""
 
-# game/episode002.rpy:516
+    th "這麼着：我直接買下你的戰鬥機，絕不多問半句。"
+
+
 translate traditional_chinese episode002_7c212f56:
 
-    # th "But only if you agree to deliver that cargo for me, using the trading ship you may buy from me."
-    th ""
 
-# game/episode002.rpy:517
+    th "條件是你得用我的貿易船——當然你得先買下它——幫我運這批貨。"
+
+
 translate traditional_chinese episode002_9c5e87a5:
 
-    # th "After you’ve completed the cargo run, I’ll consider the payment done in full."
-    th ""
 
-# game/episode002.rpy:518
+    th "貨送到之後，我們就兩清了。"
+
+
 translate traditional_chinese episode002_4fd5e72b:
 
-    # c "What’s the catch?"
-    c ""
 
-# game/episode002.rpy:519
+    c "有什麼貓膩？"
+
+
 translate traditional_chinese episode002_cd31d91b:
 
-    # c "We’re not smuggling slaves or anything?"
-    c ""
 
-# game/episode002.rpy:520
+    c "該不會是走私奴隸什麼的吧？"
+
+
 translate traditional_chinese episode002_208deeb0:
 
-    # th "No, nothing like that."
-    th ""
 
-# game/episode002.rpy:521
+    th "不，沒那麼誇張。"
+
+
 translate traditional_chinese episode002_63fb0167:
 
-    # th "Though I urge you not to get caught by any of the authorities."
-    th ""
 
-# game/episode002.rpy:522
+    th "不過我強烈建議別被任何當局官方人員逮住。"
+
+
 translate traditional_chinese episode002_3c69d4c1:
 
-    # c "So illegal goods?"
-    c ""
 
-# game/episode002.rpy:523
+    c "所以是非法貨物？"
+
+
 translate traditional_chinese episode002_3a3403ab:
 
-    # t "Why are you trusting us with those, you just said we were crazy?"
-    t ""
 
-# game/episode002.rpy:525
+    t "剛說我們是瘋子，現在又敢把這種貨交給我們？"
+
+
 translate traditional_chinese episode002_a7ed8f9a:
 
-    # th "It’s better if you don’t know too much about the cargo."
-    th ""
 
-# game/episode002.rpy:526
+    th "你們對貨物知道得越少越好。"
+
+
 translate traditional_chinese episode002_61080dcd:
 
-    # th "I’ve been sitting on it for quite a while now and there’s nobody in the area who wants to do a transport run."
-    th ""
 
-# game/episode002.rpy:527
+    th "這批貨我壓手裡很久了，附近根本沒人敢接運輸活。"
+
+
 translate traditional_chinese episode002_63a58935:
 
-    # th "I guess they have their own interests to take care of."
-    th ""
 
-# game/episode002.rpy:528
+    th "估計都忙着處理自家買賣吧。"
+
+
 translate traditional_chinese episode002_d6e2055d:
 
-    # th "But the R’o tribe that contacted me is still waiting for it."
-    th ""
 
-# game/episode002.rpy:529
+    th "但聯繫我的拉歐部落還在等着收貨呢。"
+
+
 translate traditional_chinese episode002_01e19adc:
 
-    # c "What’s stopping us from just flying away with our new ship and keeping the cargo for ourselves?"
-    c ""
 
-# game/episode002.rpy:530
+    c "要是我們開着新船帶貨跑路呢？"
+
+
 translate traditional_chinese episode002_37533c55:
 
-    # th "Ah yes, I thought about that."
-    th ""
 
-# game/episode002.rpy:531
+    th "噢，我早料到了。"
+
+
 translate traditional_chinese episode002_e28caa51:
 
-    # th "One of you needs to stay behind with me until you return safe and sound."
-    th ""
 
-# game/episode002.rpy:532
+    th "你們得留個人質在這兒，等你們平安歸來。"
+
+
 translate traditional_chinese episode002_39fb8561:
 
-    # c "You’re asking for a bargaining chip?"
-    c ""
 
-# game/episode002.rpy:533
+    c "這是要討價還價的籌碼？"
+
+
 translate traditional_chinese episode002_95edfc15:
 
-    # t "A hostage?"
-    t ""
 
-# game/episode002.rpy:535
+    t "當人質？"
+
+
 translate traditional_chinese episode002_d8896572:
 
-    # th "It’s the cost of doing business."
-    th ""
 
-# game/episode002.rpy:536
+    th "做生意總得有點成本嘛。"
+
+
 translate traditional_chinese episode002_5a0ebc71:
 
-    # c "I’m not sure if that’s acceptable."
-    c ""
 
-# game/episode002.rpy:538
+    c "這條件我未必能接受。"
+
+
 translate traditional_chinese episode002_eff689fa:
 
-    # th "I’m not sure you have any choice."
-    th ""
 
-# game/episode002.rpy:539
+    th "我看你們沒得選。"
+
+
 translate traditional_chinese episode002_ff8dc0fd:
 
-    # c "There must be something else to sweeten the deal."
-    c ""
 
-# game/episode002.rpy:541
+    c "總得再給點甜頭吧。"
+
+
 translate traditional_chinese episode002_542bd8e5:
 
-    # th "Like what?"
-    th ""
 
-# game/episode002.rpy:546
+    th "比如說什麼？"
+
+
 translate traditional_chinese episode002_50fd277e:
 
-    # c "Let’s discuss that over a couple of drinks."
-    c ""
 
-# game/episode002.rpy:547
+    c "我們邊喝幾杯邊談吧。"
+
+
 translate traditional_chinese episode002_6229219d:
 
-    # c "You and I."
-    c ""
 
-# game/episode002.rpy:548
+    c "就你和我。"
+
+
 translate traditional_chinese episode002_24077457:
 
-    # c "Thim, why don’t you explore the town some more?"
-    c ""
 
-# game/episode002.rpy:549
+    c "蒂姆，你何不多逛逛鎮上呢？"
+
+
 translate traditional_chinese episode002_b9081ad9:
 
-    # t "What, why?"
-    t ""
 
-# game/episode002.rpy:550
+    t "什麼，爲什麼？"
+
+
 translate traditional_chinese episode002_660a9a17:
 
-    # t "Oh..."
-    t ""
 
-# game/episode002.rpy:551
+    t "哦..."
+
+
 translate traditional_chinese episode002_6a018bfd:
 
-    # "Disgruntled, Thim left Thyia’s workshop and I followed her further inside."
-    ""
 
-# game/episode002.rpy:553
+    "蒂姆不快地離開了塞婭的工場，而我跟着她繼續往裡走。"
+
+
 translate traditional_chinese episode002_6d45cbfe:
 
-    # th "So, what kind of sweetness did you have in mind, sugar?"
-    th ""
 
-# game/episode002.rpy:554
+    th "那麼，親愛的，你想要什麼樣的甜頭呢？"
+
+
 translate traditional_chinese episode002_79a00105:
 
-    # c "I don’t know yet."
-    c ""
 
-# game/episode002.rpy:555
+    c "我還不確定。"
+
+
 translate traditional_chinese episode002_5ef75add:
 
-    # c "Have you been living here long?"
-    c ""
 
-# game/episode002.rpy:556
+    c "你在這兒住很久了嗎？"
+
+
 translate traditional_chinese episode002_1811e396:
 
-    # th "A while."
-    th ""
 
-# game/episode002.rpy:557
+    th "有段時間了。"
+
+
 translate traditional_chinese episode002_b32de9c8:
 
-    # c "Must get lonely."
-    c ""
 
-# game/episode002.rpy:558
+    c "肯定很孤單吧。"
+
+
 translate traditional_chinese episode002_24f41416:
 
-    # th "Depends, there are a lot of aliens around."
-    th ""
 
-# game/episode002.rpy:559
+    th "看情況，周圍有很多外星人。"
+
+
 translate traditional_chinese episode002_aa94a935:
 
-    # c "I met one, didn’t seem that friendly."
-    c ""
 
-# game/episode002.rpy:560
+    c "我遇到一個，似乎不怎麼友好。"
+
+
 translate traditional_chinese episode002_238f9827:
 
-    # th "Well, maybe they grow on you after a while."
-    th ""
 
-# game/episode002.rpy:561
+    th "嗯，也許相處久了會慢慢喜歡。"
+
+
 translate traditional_chinese episode002_63ea9cf4:
 
-    # c "Sure..."
-    c ""
 
-# game/episode002.rpy:562
+    c "當然..."
+
+
 translate traditional_chinese episode002_ed59d6f2:
 
-    # c "You’re not from the Sovereignty?"
-    c ""
 
-# game/episode002.rpy:564
+    c "你不是從\"至高權域\"來的？"
+
+
 translate traditional_chinese episode002_caa4acfa:
 
-    # th "Fuck no, I was born free."
-    th ""
 
-# game/episode002.rpy:565
+    th "操，才不是，我生來就自由。"
+
+
 translate traditional_chinese episode002_7942ec1c:
 
-    # c "Free?"
-    c ""
 
-# game/episode002.rpy:566
+    c "自由？"
+
+
 translate traditional_chinese episode002_9779d09f:
 
-    # th "On a station somewhere, details are not important."
-    th ""
 
-# game/episode002.rpy:567
+    th "在某處的空間站上吧，細節不重要。"
+
+
 translate traditional_chinese episode002_9d21db53:
 
-    # th "I’ve had my share of experiences with the Sovereignty though and they’re a bunch of fascists."
-    th ""
 
-# game/episode002.rpy:571
+    th "不過我和\"至高權域\"打過不少交道，他們就是一幫法西斯分子。"
+
+
 translate traditional_chinese episode002_a39ca13f:
 
-    # c "Isn’t that a logical result of running such a vast empire?"
-    c ""
 
-# game/episode002.rpy:572
+    c "治理如此龐大的帝國，這不很正常嗎？"
+
+
 translate traditional_chinese episode002_77cd9842:
 
-    # th "No, it isn’t."
-    th ""
 
-# game/episode002.rpy:573
+    th "不，不正常。"
+
+
 translate traditional_chinese episode002_f0d20781:
 
-    # th "I take it you never met the Vrarr or the Paltrowians?"
-    th ""
 
-# game/episode002.rpy:574
+    th "我猜你從未見過維拉爾人或帕爾特羅維安人吧？"
+
+
 translate traditional_chinese episode002_acac61c0:
 
-    # c "Doesn’t ring a bell, though the Paltrowians do."
-    c ""
 
-# game/episode002.rpy:575
+    c "沒印象，雖然帕爾特羅維安人倒是記得。"
+
+
 translate traditional_chinese episode002_10804c07:
 
-    # c "But the Paltrowian girl I talked to wasn’t much into politics."
-    c ""
 
-# game/episode002.rpy:577
+    c "但我交談的那個帕爾特羅維安女孩對政治不太熱衷。"
+
+
 translate traditional_chinese episode002_3667e1d4:
 
-    # "Thyia stifled a groan of disapproval at my statement, but quickly hid her emotions under the careful facade of disinterest."
-    ""
 
-# game/episode002.rpy:578
+    "塞婭對我的陳述壓抑了一聲不贊同的呻吟，但很快在假裝不關心的外表下隱藏了她的情緒。"
+
+
 translate traditional_chinese episode002_f496d958:
 
-    # th "Yeah, I think I know where you spoke to her..."
-    th ""
 
-# game/episode002.rpy:580
+    th "是的，我想我知道你在哪裡跟她說話了..."
+
+
 translate traditional_chinese episode002_3d12d424:
 
-    # c "You’re not speaking to a true believer here."
-    c ""
 
-# game/episode002.rpy:581
+    c "你在這兒不是在跟一個真正的信徒說話。"
+
+
 translate traditional_chinese episode002_ceac204b:
 
-    # c "And I can’t speak for the rest, but I’m pretty sure there’s no love remaining for the Sovereignty after what transpired."
-    c ""
 
-# game/episode002.rpy:582
+    c "而且我不能代表別人，但我相當肯定在發生了那些事後，對\"至高權域\"沒有剩下什麼感情了。"
+
+
 translate traditional_chinese episode002_92bc6b3f:
 
-    # th "If you say so..."
-    th ""
 
-# game/episode002.rpy:584
+    th "如果你這麼說的話..."
+
+
 translate traditional_chinese episode002_e824ca8c:
 
-    # th "But weren’t you negotiating with me?"
-    th ""
 
-# game/episode002.rpy:585
+    th "但你不是在跟我談判嗎？"
+
+
 translate traditional_chinese episode002_e4059e13:
 
-    # th "All you've done so far is yapping about my life."
-    th ""
 
-# game/episode002.rpy:586
+    th "到目前爲止你做的都是喋喋不休地談我的生活。"
+
+
 translate traditional_chinese episode002_12935762:
 
-    # th "Interesting strategy, but a girl has gotta wonder..."
-    th ""
 
-# game/episode002.rpy:587
+    th "有趣的做法，但一個女孩總得想想..."
+
+
 translate traditional_chinese episode002_363797ed:
 
-    # c "What do you wonder?"
-    c ""
 
-# game/episode002.rpy:588
+    c "你想知道什麼？"
+
+
 translate traditional_chinese episode002_e3cfd9a4:
 
-    # th "What your angle is?"
-    th ""
 
-# game/episode002.rpy:593
+    th "你的目的是什麼？"
+
+
 translate traditional_chinese episode002_efa31f09:
 
-    # c "Well, you're an attractive woman for starters."
-    c ""
 
-# game/episode002.rpy:595
+    c "嗯，首先你是個有魅力的女人。"
+
+
 translate traditional_chinese episode002_65174748:
 
-    # th "Thank you."
-    th ""
 
-# game/episode002.rpy:596
+    th "謝謝你。"
+
+
 translate traditional_chinese episode002_1931e3ad:
 
-    # th "You’re not looking too bad yourself."
-    th ""
 
-# game/episode002.rpy:597
+    th "你自己看起來也不差。"
+
+
 translate traditional_chinese episode002_8d12f4cd:
 
-    # c "Glad you mention that."
-    c ""
 
-# game/episode002.rpy:601
+    c "很高興你提這個。"
+
+
 translate traditional_chinese episode002_c386d701:
 
-    # c "I thought..."
-    c ""
 
-# game/episode002.rpy:602
+    c "我以爲..."
+
+
 translate traditional_chinese episode002_0c079d91:
 
-    # th "You'd sweeten the deal, I know."
-    th ""
 
-# game/episode002.rpy:603
+    th "我知道你會讓交易更吸引人。"
+
+
 translate traditional_chinese episode002_6115377e:
 
-    # th "You were really sweet, but I don't mix business and pleasure."
-    th ""
 
-# game/episode002.rpy:604
+    th "你真的很好，但我不把生意和享樂混在一起。"
+
+
 translate traditional_chinese episode002_e007f469:
 
-    # th "Just deliver the cargo and I'll take that spaceship off your hands, leaving you with a perfect replacement."
-    th ""
 
-# game/episode002.rpy:605
+    th "只需運送貨物，我會把那艘太空船從你手裡接過去，給你一個完美的替代品。"
+
+
 translate traditional_chinese episode002_6e597474:
 
-    # "Yes, she played me...{w} at least the fucking was good..."
-    ""
 
-# game/episode002.rpy:608
+    "是的，她耍了我...{w} 至少那逼操的很爽..."
+
+
 translate traditional_chinese episode002_f03b37d7:
 
-    # c "Never mind, I’m going to discuss your proposal with the others."
-    c ""
 
-# game/episode002.rpy:609
+    c "別介意，我會跟其他人討論你的提議。"
+
+
 translate traditional_chinese episode002_3e656e7c:
 
-    # th "Suit yourself."
-    th ""
 
-# game/episode002.rpy:610
+    th "隨你便。"
+
+
 translate traditional_chinese episode002_18da8af2:
 
-    # th "Just hurry, because if you’re spotted and one of the locals decides to contact the TGN, I've never met you."
-    th ""
 
-# game/episode002.rpy:611
+    th "快點兒，因爲如果你被發現，而導致有個本地人決定聯繫人族星系艦隊，那麼我從不認識你。"
+
+
 translate traditional_chinese episode002_e228867e:
 
-    # th "No wait, I guess you should get the tour of the ship first, before you talk to your friends."
-    th ""
 
-# game/episode002.rpy:613
+    th "不，等等，我覺得你應該先參觀一下飛船，再去和你的朋友們聊聊。"
+
+
 translate traditional_chinese episode002_e78a7e86:
 
-    # th "I guess you should get the tour of the ship first, before you talk to your friends."
-    th ""
 
-# game/episode002.rpy:615
+    th "我覺得你應該先參觀一下飛船，再去和你的朋友們聊聊。"
+
+
 translate traditional_chinese episode002_f03b37d7_1:
 
-    # c "Never mind, I’m going to discuss your proposal with the others."
-    c ""
 
-# game/episode002.rpy:616
+    c "沒事，我去和其他人討論你的提議。"
+
+
 translate traditional_chinese episode002_3e656e7c_1:
 
-    # th "Suit yourself."
-    th ""
 
-# game/episode002.rpy:617
+    th "隨你便。"
+
+
 translate traditional_chinese episode002_18da8af2_1:
 
-    # th "Just hurry, because if you’re spotted and one of the locals decides to contact the TGN, I've never met you."
-    th ""
 
-# game/episode002.rpy:618
+    th "快點兒，因爲如果你被發現，而導致有個本地人決定聯繫人族星系艦隊，那麼我從不認識你。"
+
+
 translate traditional_chinese episode002_e228867e_1:
 
-    # th "No wait, I guess you should get the tour of the ship first, before you talk to your friends."
-    th ""
 
-# game/episode002.rpy:621
+    th "不，等等，我覺得你應該先參觀一下飛船，再去和你的朋友們聊聊。"
+
+
 translate traditional_chinese episode002_11a4496f:
 
-    # "The woman took us out into the scrapyard which was mostly filled with junk and one large spaceship."
-    ""
 
-# game/episode002.rpy:622
+    "那個女人把我們帶到了廢品場，那裡堆滿了垃圾和一艘大飛船。"
+
+
 translate traditional_chinese episode002_9e6fe862:
 
-    # "It was one of the ugliest ships I'd ever seen, possessing none of the aggressive sleekness Sovereignty ships commonly possess."
-    ""
 
-# game/episode002.rpy:623
+    "它是我見過最醜的船之一，完全沒有\"至高權域\"飛船常見的侵略性流線型美感。"
+
+
 translate traditional_chinese episode002_2ed7b037:
 
-    # "The cargo hauler was an old beast, obviously retrofitted with guns and extra armored plating."
-    ""
 
-# game/episode002.rpy:625
+    "這艘貨船是個老古董，明顯改裝過，裝了機炮和額外的裝甲板。"
+
+
 translate traditional_chinese episode002_e2a5cd70:
 
-    # th "Guys, meet the Iron Bastard."
-    th ""
 
-# game/episode002.rpy:626
+    th "夥計們，見見\"鋼鐵私生子\"號。"
+
+
 translate traditional_chinese episode002_3fea47d0:
 
-    # t "Seems like a very apt name."
-    t ""
 
-# game/episode002.rpy:627
+    t "這名字聽起來挺貼切的。"
+
+
 translate traditional_chinese episode002_b0f6974e:
 
-    # c "No shit..."
-    c ""
 
-# game/episode002.rpy:628
+    c "廢話..."
+
+
 translate traditional_chinese episode002_4a6330f6:
 
-    # th "Looks can be deceiving, boys."
-    th ""
 
-# game/episode002.rpy:629
+    th "外表是會騙人的，夥計們。"
+
+
 translate traditional_chinese episode002_1f2d6152:
 
-    # th "This baby can haul several tons of cargo, while defending herself in a fight."
-    th ""
 
-# game/episode002.rpy:630
+    th "這寶貝能拉幾噸貨，打架時還能自衛。"
+
+
 translate traditional_chinese episode002_f2fd0481:
 
-    # th "The previous owner also invested in extra armor."
-    th ""
 
-# game/episode002.rpy:631
+    th "前主人還投資了額外的裝甲。"
+
+
 translate traditional_chinese episode002_64387008:
 
-    # th "Some weird alloy, with traces of a couple of good old Earthly metals."
-    th ""
 
-# game/episode002.rpy:632
+    th "某種奇怪合金，帶點一些古老地球金屬的痕跡。"
+
+
 translate traditional_chinese episode002_0b6ccad1:
 
-    # c "Hence the name?"
-    c ""
 
-# game/episode002.rpy:633
+    c "所以名字就這麼來的？"
+
+
 translate traditional_chinese episode002_648f869b:
 
-    # th "The first part, for sure."
-    th ""
 
-# game/episode002.rpy:634
+    th "第一部分肯定是。"
+
+
 translate traditional_chinese episode002_c7b18c3a:
 
-    # th "The ship can hold up to ten crew members and maybe more, if you're willing to share bunk space."
-    th ""
 
-# game/episode002.rpy:635
+    th "這船能裝下十個機組成員，要是你願意分享牀位，說不定還能多塞幾個。"
+
+
 translate traditional_chinese episode002_08a498fc:
 
-    # c "Sounds real cosy."
-    c ""
 
-# game/episode002.rpy:636
+    c "聽起來真舒服。"
+
+
 translate traditional_chinese episode002_c2aab168:
 
-    # th "Let's take a look inside."
-    th ""
 
-# game/episode002.rpy:638
+    th "我們進去看看吧。"
+
+
 translate traditional_chinese episode002_dd7246a9:
 
-    # th "This is the bridge, weapons control is here too, but most of it is automated."
-    th ""
 
-# game/episode002.rpy:640
+    th "這是艦橋，武器控制也在這兒，不過大部分是自動的。"
+
+
 translate traditional_chinese episode002_449b3343:
 
-    # th "Crew quarters, there's a small kitchen further down the hallway."
-    th ""
 
-# game/episode002.rpy:641
+    th "機組人員區，再往下走點有個小廚房。"
+
+
 translate traditional_chinese episode002_84db1013:
 
-    # th "Most of this level is taken up by crew bunks."
-    th ""
 
-# game/episode002.rpy:642
+    th "機組鋪位佔掉了這一層的大部分空間。"
+
+
 translate traditional_chinese episode002_f3d8db37:
 
-    # th "There are a couple of private quarters, for the captain and any officers."
-    th ""
 
-# game/episode002.rpy:644
+    th "有幾間私人艙室，是給艦長和軍官用的。"
+
+
 translate traditional_chinese episode002_9d25d857:
 
-    # th "Same deal on the lower level, except for the fact that the engine room and cargo bay are also located here."
-    th ""
 
-# game/episode002.rpy:645
+    th "底層布局差不多，不過引擎室和貨艙也在這兒。"
+
+
 translate traditional_chinese episode002_361b3f3c:
 
-    # th "The Bastard comes equipped with a regular S-K drive."
-    th ""
 
-# game/episode002.rpy:646
+    th "\"私生子\"號配的是標準S-K引擎。"
+
+
 translate traditional_chinese episode002_65931be8:
 
-    # th "Nothing fancy, so I wouldn't recommend attempts to outrun pirates or do some stratospheric flight acrobatics on a regular basis."
-    th ""
 
-# game/episode002.rpy:648
+    th "不是什麼高級貨，所以我不建議你經常用它甩開海盜或者玩平流層飛行特技。"
+
+
 translate traditional_chinese episode002_45a5743d:
 
-    # th "The engine room also gives in-door access to the cargo bay."
-    th ""
 
-# game/episode002.rpy:649
+    th "引擎室還有直通貨艙的內部通道。"
+
+
 translate traditional_chinese episode002_777dfe19:
 
-    # th "Cargo is already loaded, you just need to deliver it on time, at the location I'll provide you."
-    th ""
 
-# game/episode002.rpy:650
+    th "貨都裝好了，你只要按時送到我指定的地點就行。"
+
+
 translate traditional_chinese episode002_312d12aa:
 
-    # th "There's a second bay in the belly of the ship, but it's mostly empty and looks the same as this one, but bigger."
-    th ""
 
-# game/episode002.rpy:651
+    th "船肚子裡還有個二號貨艙，基本是空的，布局和這個一樣但更大。"
+
+
 translate traditional_chinese episode002_3bc04efa:
 
-    # th "So that concludes the tour."
-    th ""
 
-# game/episode002.rpy:652
+    th "參觀到此結束。"
+
+
 translate traditional_chinese episode002_0ada088c:
 
-    # th "Any questions?"
-    th ""
 
-# game/episode002.rpy:653
+    th "有什麼問題？"
+
+
 translate traditional_chinese episode002_a55f7f6a:
 
-    # c "You're sure this thing flies?"
-    c ""
 
-# game/episode002.rpy:655
+    c "你確定這玩意兒真能飛？"
+
+
 translate traditional_chinese episode002_2d82601a:
 
-    # th "Not the question I was expecting, but yes, I'm sure."
-    th ""
 
-# game/episode002.rpy:656
+    th "這問題倒是出乎意料，不過沒錯，我確定。"
+
+
 translate traditional_chinese episode002_25323229:
 
-    # th "I know it looks old, like one of those cargo planes from the 21st century, but this is a perfectly serviceable ship."
-    th ""
 
-# game/episode002.rpy:657
+    th "我知道它看着舊，像二十一世紀的貨運飛機，但絕對是艘靠譜的好船。"
+
+
 translate traditional_chinese episode002_8fc66374:
 
-    # c "If you say so."
-    c ""
 
-# game/episode002.rpy:658
+    c "隨你怎麼說。"
+
+
 translate traditional_chinese episode002_ec09c175:
 
-    # th "I wouldn't be doing business in this shithole for this long if my word wasn't good."
-    th ""
 
-# game/episode002.rpy:659
+    th "要是我說話不算數，也不可能在這狗屁地方混這麼多年。"
+
+
 translate traditional_chinese episode002_1e7f5185:
 
-    # th "Now go get your friends and get that cargo to its destination."
-    th ""
 
-# game/episode002.rpy:673
+    th "現在去叫上你的夥計們，把貨送到目的地。"
+
+
 translate traditional_chinese episode002_5e529c8c:
 
-    # "We headed back and informed the others."
-    ""
 
-# game/episode002.rpy:674
+    "我們返回通知了其他人。"
+
+
 translate traditional_chinese episode002_86f36f9d:
 
-    # "Not everyone was as enthusiastic about the prospect of becoming cargo runners, but I managed to impress the necessity of the situation on all of them."
-    ""
 
-# game/episode002.rpy:675
+    "不是所有人都對當貨運跑腿這麼熱情，但我讓大家都明白了情況的必要性。"
+
+
 translate traditional_chinese episode002_011c53d8:
 
-    # "After collecting all of our belongings from the Enfield, we left a locator beacon for Thyia and headed out towards the settlement."
-    ""
 
-# game/episode002.rpy:677
+    "從\"恩菲爾德\"號取完全部家當後，我們給塞婭留了定位信標，朝聚居點出發。"
+
+
 translate traditional_chinese episode002_de32bcb3:
 
-    # ki "Wow, [p_name_short], what a piece of junk!"
-    ki ""
 
-# game/episode002.rpy:678
+    ki "哇，[p_name_short]，這堆破銅爛鐵！"
+
+
 translate traditional_chinese episode002_c79405d8:
 
-    # c "That's called vintage charm, my friend."
-    c ""
 
-# game/episode002.rpy:679
+    c "這叫復古魅力，朋友。"
+
+
 translate traditional_chinese episode002_a0869029:
 
-    # ki "If you say so..."
-    ki ""
 
-# game/episode002.rpy:681
+    ki "隨你怎麼說..."
+
+
 translate traditional_chinese episode002_ea5b80df:
 
-    # "We all entered the ship and began the process of choosing a bunk."
-    ""
 
-# game/episode002.rpy:682
+    "我們全體登船後開始分牀位。"
+
+
 translate traditional_chinese episode002_03b064c1:
 
-    # "For some reason both Lilly and I ended up with private quarters, while Céline and Kit shared a room."
-    ""
 
-# game/episode002.rpy:683
+    "不知怎麼搞的，最後我和莉莉住了單間，瑟琳和基特合住一間。"
+
+
 translate traditional_chinese episode002_d72be18b:
 
-    # "Thim put his stuff in another multi-bunk room and Vess joined him there, making sure to get the bed on the opposite side of the room."
-    ""
 
-# game/episode002.rpy:685
+    "蒂姆把他的東西放進另一個多鋪位的房間，薇絲也加入了他那裡，還確保自己睡在房間對面。"
+
+
 translate traditional_chinese episode002_9589ee39:
 
-    # "After everybody settled down, I called the whole crew to the bridge to tell them the plan I had cooked up in the meantime."
-    ""
 
-# game/episode002.rpy:686
+    "等大家都安頓下來後，我把全體機組成員叫到艦橋，告訴他們我在此期間想出來的計劃。"
+
+
 translate traditional_chinese episode002_df8586f3:
 
-    # c "This ship will be ours as soon as we do one thing."
-    c ""
 
-# game/episode002.rpy:687
+    c "只要我們做件事，這艘船就是我們的了。"
+
+
 translate traditional_chinese episode002_93056cca:
 
-    # l "The cargo run you mentioned."
-    l ""
 
-# game/episode002.rpy:688
+    l "你提到的那趟貨運跑腿。"
+
+
 translate traditional_chinese episode002_f9c698b6:
 
-    # c "Exactly."
-    c ""
 
-# game/episode002.rpy:689
+    c "一點兒沒錯。"
+
+
 translate traditional_chinese episode002_ba9bb503:
 
-    # c "After that delivery we're free to do as we please with this ship, as the Enfield covers the rest of the payment."
-    c ""
 
-# game/episode002.rpy:690
+    c "等交付完那批貨，我們就能隨便用這艘船幹想幹的事了，因爲恩菲爾德號會抵付剩下的款項。"
+
+
 translate traditional_chinese episode002_f4e8ebf6:
 
-    # c "Because Thyia doesn't trust us completely, I had to agree to one condition."
-    c ""
 
-# game/episode002.rpy:692
+    c "因爲塞婭不完全信任我們，我不得不答應了一個條件。"
+
+
 translate traditional_chinese episode002_3bf5968d:
 
-    # l "Here it comes..."
-    l ""
 
-# game/episode002.rpy:693
+    l "來了..."
+
+
 translate traditional_chinese episode002_cb9658a6:
 
-    # c "One of us has to stay behind as a guarantee."
-    c ""
 
-# game/episode002.rpy:694
+    c "我們中得有一個人留下來做擔保。"
+
+
 translate traditional_chinese episode002_99aab47c:
 
-    # l "A hostage, you mean."
-    l ""
 
-# game/episode002.rpy:695
+    l "你是說人質吧。"
+
+
 translate traditional_chinese episode002_e79b53f8:
 
-    # c "Not really..."
-    c ""
 
-# game/episode002.rpy:696
+    c "不算吧..."
+
+
 translate traditional_chinese episode002_4e635fdc:
 
-    # l "I'll do it."
-    l ""
 
-# game/episode002.rpy:697
+    l "我來吧。"
+
+
 translate traditional_chinese episode002_26eed77c:
 
-    # l "I'll stay behind."
-    l ""
 
-# game/episode002.rpy:698
+    l "我留下。"
+
+
 translate traditional_chinese episode002_719dced5:
 
-    # "I thought Lilly was a little too eager in her willingness to stay behind."
-    ""
 
-# game/episode002.rpy:699
+    "我覺得莉莉主動願意留下來的熱切勁兒有點過頭。"
+
+
 translate traditional_chinese episode002_84a3e89e:
 
-    # "Unfortunately, she picked up on my skepticism."
-    ""
 
-# game/episode002.rpy:701
+    "不幸的是，她察覺到了我的疑心。"
+
+
 translate traditional_chinese episode002_6b342fbf:
 
-    # l "What?"
-    l ""
 
-# game/episode002.rpy:702
+    l "什麼？"
+
+
 translate traditional_chinese episode002_a604e582:
 
-    # l "Are you afraid I'll run?"
-    l ""
 
-# game/episode002.rpy:703
+    l "你是怕我會跑掉嗎？"
+
+
 translate traditional_chinese episode002_a9f34c76:
 
-    # c "I don't know."
-    c ""
 
-# game/episode002.rpy:704
+    c "我不知道。"
+
+
 translate traditional_chinese episode002_2f9fc129:
 
-    # l "Where would I go, [p_name_short]?"
-    l ""
 
-# game/episode002.rpy:705
+    l "我能去哪兒，[p_name_short]？"
+
+
 translate traditional_chinese episode002_378ee153:
 
-    # l "We fucking burned all our bridges by running and I know there's no way back."
-    l ""
 
-# game/episode002.rpy:706
+    l "我們叛逃這種行爲已經把回去的路全斷了，我知道沒有回頭路。"
+
+
 translate traditional_chinese episode002_36317c86:
 
-    # l "So you don't have to be afraid I'll go hitchhike back home at the earliest opportunity."
-    l ""
 
-# game/episode002.rpy:707
+    l "所以你不用怕我會一有機會就跑回家。"
+
+
 translate traditional_chinese episode002_8866bd84:
 
-    # l "You've condemned us all to staying together."
-    l ""
 
-# game/episode002.rpy:708
+    l "你讓我們所有人都註定要待在一起了。"
+
+
 translate traditional_chinese episode002_9499934f:
 
-    # c "I..."
-    c ""
 
-# game/episode002.rpy:709
+    c "我..."
+
+
 translate traditional_chinese episode002_c76de804:
 
-    # c "So you'll stay behind?"
-    c ""
 
-# game/episode002.rpy:711
+    c "所以你就留下來？"
+
+
 translate traditional_chinese episode002_b3033db7:
 
-    # l "That's what I said, didn't I?"
-    l ""
 
-# game/episode002.rpy:712
+    l "我就是這麼說的，不是吧？"
+
+
 translate traditional_chinese episode002_e73215f5:
 
-    # l "Just get back as soon as possible."
-    l ""
 
-# game/episode002.rpy:714
+    l "趕緊儘快回來吧。"
+
+
 translate traditional_chinese episode002_d4c2579a:
 
-    # c "Yes, about that."
-    c ""
 
-# game/episode002.rpy:715
+    c "是的，關於那件事。"
+
+
 translate traditional_chinese episode002_92bc63ca:
 
-    # c "There's another thing I want to do as soon as possible, maybe even before delivering that cargo."
-    c ""
 
-# game/episode002.rpy:716
+    c "還有一件事我也想儘快去做，甚至可能在交付這批貨之前。"
+
+
 translate traditional_chinese episode002_20db811e:
 
-    # c "We have to find out who those women were that kidnapped Eva."
-    c ""
 
-# game/episode002.rpy:717
+    c "我們必須查明綁架伊娃的那些女人是誰。"
+
+
 translate traditional_chinese episode002_f2c4d086:
 
-    # c "Who are these aliens, do they have a homeworld, what's their angle in abducting random humans?"
-    c ""
 
-# game/episode002.rpy:718
+    c "這些外星人是誰？他們有母星嗎？綁架隨機人類有什麼意圖？"
+
+
 translate traditional_chinese episode002_75ce1246:
 
-    # c "So we need someone with experience in the field, someone who can help us further."
-    c ""
 
-# game/episode002.rpy:720
+    c "所以我們需要一個在該領域有經驗的人，一個能進一步幫助我們的人。"
+
+
 translate traditional_chinese episode002_a12f1355:
 
-    # l "Are you really thinking of asking her?!"
-    l ""
 
-# game/episode002.rpy:721
+    l "你真的在想問她嗎？!"
+
+
 translate traditional_chinese episode002_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode002.rpy:722
+    c "是的，我是。"
+
+
 translate traditional_chinese episode002_995d7ed8:
 
-    # l "We haven't seen her in ages, [p_name_short], maybe she hates our guts!"
-    l ""
 
-# game/episode002.rpy:723
+    l "我們好久沒見到她了，[p_name_short]，說不定她恨死我們了！"
+
+
 translate traditional_chinese episode002_8669cea3:
 
-    # c "I'm willing to try, at least we know where she lives."
-    c ""
 
-# game/episode002.rpy:725
+    c "我願意試試，至少我們知道她住在哪兒。"
+
+
 translate traditional_chinese episode002_41efc22e:
 
-    # ki "This is all really fascinating guys, but who are you talking about?"
-    ki ""
 
-# game/episode002.rpy:728
+    ki "這挺有意思的，夥計們，但你們在說誰啊？"
+
+
 translate traditional_chinese episode002_4c0155dd:
 
-    # l "[p_name_short] wants to visit our Aunt Nadya, she's a xenologist."
-    l ""
 
-# game/episode002.rpy:729
+    l "[p_name_short] 想去看望我們的娜迪亞阿姨，她是個外星生物學家。"
+
+
 translate traditional_chinese episode002_9f333ec5:
 
-    # c "Xenoanthropologist, to be exact."
-    c ""
 
-# game/episode002.rpy:730
+    c "準確來說，是外星人類學家。"
+
+
 translate traditional_chinese episode002_eb98cb4d:
 
-    # l "Right and she lived with us for several years, until she and her daughter suddenly left us."
-    l ""
 
-# game/episode002.rpy:731
+    l "沒錯，她和我們住了好幾年，直到她和她女兒突然離開我們。"
+
+
 translate traditional_chinese episode002_665cd29c:
 
-    # l "Mom and Dad had a falling out with her, is the official reason, but it could be anything."
-    l ""
 
-# game/episode002.rpy:733
+    l "父母親和她鬧翻了，這是官方原因，但可能什麼都有。"
+
+
 translate traditional_chinese episode002_1117c2a0:
 
-    # l "[p_name_short] wants to visit an old friend of the family, Nadya."
-    l ""
 
-# game/episode002.rpy:734
+    l "[p_name_short] 想去看望家庭的一個老朋友，娜迪亞。"
+
+
 translate traditional_chinese episode002_26a7a31d:
 
-    # c "She's a xenologist."
-    c ""
 
-# game/episode002.rpy:735
+    c "她是個外星生物學家。"
+
+
 translate traditional_chinese episode002_749279c1:
 
-    # l "Xenoanthropologist, to be exact."
-    l ""
 
-# game/episode002.rpy:736
+    l "準確來說，是外星人類學家。"
+
+
 translate traditional_chinese episode002_4ccdbe82:
 
-    # c "Right and she lived with us for several years..."
-    c ""
 
-# game/episode002.rpy:737
+    c "對，她和我們住了好幾年..."
+
+
 translate traditional_chinese episode002_aaa0dd70:
 
-    # l "And then she suddenly left, together with Aven."
-    l ""
 
-# game/episode002.rpy:738
+    l "然後她突然離開了，和艾文一起。"
+
+
 translate traditional_chinese episode002_683da896:
 
-    # l "Leaving us completely alone."
-    l ""
 
-# game/episode002.rpy:740
+    l "把我們完全孤獨的拋下。"
+
+
 translate traditional_chinese episode002_df5bb437:
 
-    # l "For all we know she doesn't want to have anything to do with us."
-    l ""
 
-# game/episode002.rpy:741
+    l "據我們所知，她一點也不想和我們沾邊。"
+
+
 translate traditional_chinese episode002_78ccc533:
 
-    # c "Or it could be the reunion of a lifetime, we just don't know."
-    c ""
 
-# game/episode002.rpy:743
+    c "或者可能是人生中的團圓，我們只是不知道。"
+
+
 translate traditional_chinese episode002_9852440f:
 
-    # ce "A xenologist does sound like someone who might be able to find out more about those warrior women."
-    ce ""
 
-# game/episode002.rpy:744
+    ce "一個外星人類學家聽起來確實像是能了解更多那些女戰士內幕的人。"
+
+
 translate traditional_chinese episode002_0f9f20fd:
 
-    # c "Exactly. She happens to be one of the best in her field."
-    c ""
 
-# game/episode002.rpy:745
+    c "沒錯。她碰巧是她這個領域裡最頂尖的人之一。"
+
+
 translate traditional_chinese episode002_c4b2d7ab:
 
-    # c "I know she teaches at a university and I want to visit her there, provided she isn't on some field trip."
-    c ""
 
-# game/episode002.rpy:746
+    c "我知道她在大學教書，我想去那兒拜訪她，只要她沒外出做什麼實地考察。"
+
+
 translate traditional_chinese episode002_b6aa5e0d:
 
-    # ki "So we're to deliver the cargo first and go to the university later?"
-    ki ""
 
-# game/episode002.rpy:747
+    ki "所以我們要先送貨，晚點再去大學？"
+
+
 translate traditional_chinese episode002_4c929f8e:
 
-    # c "I'm not sure, we might have some leeway on that delivery..."
-    c ""
 
-# game/episode002.rpy:748
+    c "我不太確定，我們可能在這次送貨上有點餘地..."
+
+
 translate traditional_chinese episode002_5019d9de:
 
-    # t "It didn't sound that way to me..."
-    t ""
 
-# game/episode002.rpy:753
+    t "聽起來可不像那樣..."
+
+
 translate traditional_chinese episode002_798a3585:
 
-    # c "Better deliver that cargo first and be done with it."
-    c ""
 
-# game/episode002.rpy:754
+    c "最好先送那批貨，做完事情。"
+
+
 translate traditional_chinese episode002_c3902aed:
 
-    # ki "Your decision."
-    ki ""
 
-# game/episode002.rpy:755
+    ki "你決定。"
+
+
 translate traditional_chinese episode002_1d736511:
 
-    # c "Let’s do that cargo run."
-    c ""
 
-# game/episode002.rpy:759
+    c "我們來跑這趟貨吧。"
+
+
 translate traditional_chinese episode002_54b9bb02:
 
-    # c "I’m afraid we’ll lose momentum if we don’t contact my aunt first."
-    c ""
 
-# game/episode002.rpy:761
+    c "恐怕如果不先聯繫我姑姑，我們會失去勢頭。"
+
+
 translate traditional_chinese episode002_695abf9b:
 
-    # c "I’m afraid we’ll lose momentum if we don’t contact Nadya first."
-    c ""
 
-# game/episode002.rpy:762
+    c "恐怕如果不先聯繫娜迪亞，我們會失去勢頭。"
+
+
 translate traditional_chinese episode002_c3902aed_1:
 
-    # ki "Your decision."
-    ki ""
 
-# game/episode002.rpy:763
+    ki "你決定。"
+
+
 translate traditional_chinese episode002_9275b0d4:
 
-    # c "Let’s go to the university."
-    c ""
 
-# game/episode002.rpy:765
+    c "我們去大學吧。"
+
+
 translate traditional_chinese episode002_23d75b2c:
 
-    # c "Start the engines, Céline!"
-    c ""
 
-# game/episode002.rpy:767
+    c "發動引擎，瑟琳！"
+
+
 translate traditional_chinese episode002_9ae2a31e:
 
-    # "Thyia had made sure the Iron Bastard was able to taxi out of the scrapyard."
-    ""
 
-# game/episode002.rpy:768
+    "塞婭確保\"鋼鐵私生子\"號能夠滑行離開廢料場。"
+
+
 translate traditional_chinese episode002_34ed5250:
 
-    # "As Vulpes Velox consisted mostly of desert, we had no trouble finding a clear spot to take off to the stars."
-    ""
 
-# game/episode002.rpy:799
+    "由於迅狐星主要由沙漠構成，我們輕易找到了個空地起飛去星空。"
+
+
 translate traditional_chinese episode002_8459c76d:
 
-    # "We immediately took off to find my aunt at the university on Ryūjin Prime."
-    ""
 
-# game/episode002.rpy:801
+    "我們立即起飛去龍神主星的大學找我姑姑。"
+
+
 translate traditional_chinese episode002_179835ae:
 
-    # "We immediately took off to find Nadya at the university on Ryūjin Prime."
-    ""
 
-# game/episode002.rpy:809
+    "我們立即起飛去龍神主星的大學找娜迪亞。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_feab8819:
 
-    # "Thyia's workshop looked largely unchanged, though I noticed the Enfield in the scrapyard, already half dismantled."
-    ""
 
-# game/episode002.rpy:811
+    "塞婭的工場基本沒變樣，不過我注意到廢料場裡的\"恩菲爾德\"號，已經被拆解了一半。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_45fb1dd6:
 
-    # "I found Thyia and Lilly inside, enjoying a cup of coffee together."
-    ""
 
-# game/episode002.rpy:812
+    "在裡面我找到塞婭和莉莉，一起享用一杯咖啡。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_15d0cd3f:
 
-    # th "Good, you're back."
-    th ""
 
-# game/episode002.rpy:813
+    th "好，你回來了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d12ba9bc:
 
-    # th "Any trouble unloading the cargo?"
-    th ""
 
-# game/episode002.rpy:814
+    th "卸貨有麻煩嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_302a9cef:
 
-    # c "A little, but nothing we couldn't handle."
-    c ""
 
-# game/episode002.rpy:815
+    c "有點小麻煩，但沒什麼我們處理不了的。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_81495893:
 
-    # c "Though we sure as hell earned our reward."
-    c ""
 
-# game/episode002.rpy:816
+    c "不過我們確實是拼了命才掙到這份報酬的。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e875745e:
 
-    # th "Of course."
-    th ""
 
-# game/episode002.rpy:818
+    th "當然。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_8f6be7d4:
 
-    # th "Just so you know, your sister has been a great help these past few days."
-    th ""
 
-# game/episode002.rpy:820
+    th "讓你知道，你的妹妹這些天幫了大忙。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_0429e4df:
 
-    # th "Just so you know, Lilly has been a great help these past few days."
-    th ""
 
-# game/episode002.rpy:822
+    th "讓你知道，莉莉這些天幫了大忙。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e9715352:
 
-    # l "I just helped you clean and stuff."
-    l ""
 
-# game/episode002.rpy:823
+    l "我只是幫你打掃了一下之類的。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_183969e3:
 
-    # th "Yeah, yeah, I finally had someone intelligent to talk to, that counts for a lot here in these parts."
-    th ""
 
-# game/episode002.rpy:824
+    th "是啦，是啦，我終於有個聰明人可以聊天了，在這個地方，這很值得。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_defa86e7:
 
-    # th "You may have noticed that I've already towed your previous ship in the yard."
-    th ""
 
-# game/episode002.rpy:825
+    th "你可能已經注意到，我把你之前的船拖到院子裡了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_11dae628:
 
-    # th "With the delivery of the cargo, the Iron Bastard is officially yours."
-    th ""
 
-# game/episode002.rpy:826
+    th "貨一交付，\"鋼鐵私生子\"號就正式歸你了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e856c7af:
 
-    # th "I'll change the ownership records right away, give me a sec."
-    th ""
 
-# game/episode002.rpy:828
+    th "我馬上改所有權記錄，給我一點時間。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_74b5d0ef:
 
-    # "Thyia sat behind her console to change the records, while I waited on the couch."
-    ""
 
-# game/episode002.rpy:829
+    "塞婭坐在她的控制臺後面改記錄，而我則在沙發上等着。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_0967ad03:
 
-    # "I had a good view of the town and noticed a couple of figures approaching the workshop."
-    ""
 
-# game/episode002.rpy:833
+    "我視野好，能看見整個鎮子，注意到有幾個人走近工場。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_ada6985d:
 
-    # "During our last visit, the town was deserted and the advancing group looked very determined, menacingly so."
-    ""
 
-# game/episode002.rpy:834
+    "我們上次來時，鎮子空蕩蕩的，那羣人向前走得很堅定，看起來很威脅。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_8fd1363c:
 
-    # c "Are you expecting company, Thyia?"
-    c ""
 
-# game/episode002.rpy:835
+    c "塞婭，你有客人要來嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_21cca1c3:
 
-    # th "No? Why?"
-    th ""
 
-# game/episode002.rpy:836
+    th "沒有？爲什麼？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_815a3db9:
 
-    # c "There's a group of guys about to enter the workshop."
-    c ""
 
-# game/episode002.rpy:837
+    c "有一羣人正要進工場。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_06ea524c:
 
-    # th "Are they armed?"
-    th ""
 
-# game/episode002.rpy:838
+    th "他們有武器嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_2f91f2c7:
 
-    # l "Looks like it."
-    l ""
 
-# game/episode002.rpy:840
+    l "看起來像有。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e269123d:
 
-    # th "Fuck!"
-    th ""
 
-# game/episode002.rpy:841
+    th "操！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_50e4aad7:
 
-    # c "Acquaintances of yours?"
-    c ""
 
-# game/episode002.rpy:842
+    c "你的熟人嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_93144da4:
 
-    # th "More like unwelcome guests."
-    th ""
 
-# game/episode002.rpy:845
+    th "更像是不受歡迎的客人。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d046b93b:
 
-    # gl "Helloooo...{w} anybody home???"
-    gl ""
 
-# game/episode002.rpy:846
+    gl "喂喂喂...{w} 有人在家嗎？？？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e3ed2578:
 
-    # th "You know I am, Glixken."
-    th ""
 
-# game/episode002.rpy:848
+    th "你知道我在，格裏克森。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_a7e7f666:
 
-    # gl "Okay, okay..."
-    gl ""
 
-# game/episode002.rpy:849
+    gl "好吧，好吧..."
+
+
 translate traditional_chinese ep002_cargo_run_positive_054b4fe5:
 
-    # gl "Enough with the niceties."
-    gl ""
 
-# game/episode002.rpy:851
+    gl "省了客套話吧。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_bdd0f58f:
 
-    # gl "We've come to collect."
-    gl ""
 
-# game/episode002.rpy:852
+    gl "我們來收債了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_4ccf33b2:
 
-    # th "You gave me another month, that was two weeks ago!"
-    th ""
 
-# game/episode002.rpy:853
+    th "你明明給了我一個月期限，那可是兩周前的事！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_eed60170:
 
-    # gl "Well yeah, I changed my mind."
-    gl ""
 
-# game/episode002.rpy:854
+    gl "嗯哼，老子改主意了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_f54d9a17:
 
-    # th "We had a deal!"
-    th ""
 
-# game/episode002.rpy:855
+    th "我們說好的！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_2d93c06b:
 
-    # gl "We did, you borrowed money from us and promised to pay it back after one year, with interest."
-    gl ""
 
-# game/episode002.rpy:856
+    gl "我們是說過，但你找我們借錢時保證一年後連本帶利還清。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_4ae34d9f:
 
-    # gl "We're now entering the third year and the loan still isn't paid in full."
-    gl ""
 
-# game/episode002.rpy:857
+    gl "現在都第三年了，貸款還沒結清呢。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_ead0a60f:
 
-    # gl "So I'd say I pretty much get to make up the fucking rules, don't you?"
-    gl ""
 
-# game/episode002.rpy:859
+    gl "所以老子他媽的愛立什麼規矩就立什麼，你有意見？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_0c3ce28c:
 
-    # "The atmosphere was tense as soon as that nasty alien and his friends entered the workshop, but Glixken's last words really ruined the mood..."
-    ""
 
-# game/episode002.rpy:860
+    "那個噁心的外星佬帶着嘍囉闖進工場時，氣氛就夠緊張了，格裏克森最後那句話更是徹底搞砸了氛圍..."
+
+
 translate traditional_chinese ep002_cargo_run_positive_b1e261d3:
 
-    # "The grins of the trigger-happy thugs brandishing their energy weapons also didn't inspire much confidence."
-    ""
 
-# game/episode002.rpy:861
+    "那羣舉着能量武器的暴徒笑得齜牙咧嘴，好鬥的模樣實在讓人沒法放心。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_c32f0532:
 
-    # "Lilly and I stood dumb-founded, obviously feeling the same dread."
-    ""
 
-# game/episode002.rpy:863
+    "我和莉莉呆立當場，顯然都感到了同樣的恐懼。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_5f9f5a27:
 
-    # gl "I want my money."
-    gl ""
 
-# game/episode002.rpy:864
+    gl "還錢。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_6dd02571:
 
-    # th "I can give you a cut, right now."
-    th ""
 
-# game/episode002.rpy:865
+    th "我可以先付一部分，現在就給。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_1e7448a4:
 
-    # gl "Not good enough."
-    gl ""
 
-# game/episode002.rpy:866
+    gl "不夠。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_71920d4a:
 
-    # th "Look Glixken, I don't have the full amount."
-    th ""
 
-# game/episode002.rpy:867
+    th "聽着格裏克森，我實在湊不齊全額。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_2f722d30:
 
-    # th "Business is tight and work is scarce."
-    th ""
 
-# game/episode002.rpy:868
+    th "生意難做，接不到活兒。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_c4783e06:
 
-    # gl "Don't give me your fucking excuses, cunt!"
-    gl ""
 
-# game/episode002.rpy:869
+    gl "少他媽給老子放屁，賤貨！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_69f26b6d:
 
-    # gl "Pay up!"
-    gl ""
 
-# game/episode002.rpy:870
+    gl "掏錢！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_1287ab15:
 
-    # gl "Or I could just cut your throat and take this workshop for myself, sell it off...{w} make some quick credits."
-    gl ""
 
-# game/episode002.rpy:871
+    gl "要不老子直接抹了你脖子，把這工場佔爲己有，轉手賣掉...{w} 賺點快錢。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_bd558018:
 
-    # th "Please Glixken! I need more time!"
-    th ""
 
-# game/episode002.rpy:872
+    th "求你了格裏克森！再寬限幾天！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_4a84b7db:
 
-    # th "I can get you the money."
-    th ""
 
-# game/episode002.rpy:874
+    th "我能搞到錢！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_3ddaf262:
 
-    # gl "Really now?"
-    gl ""
 
-# game/episode002.rpy:875
+    gl "當真？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_39e9583e:
 
-    # gl "Hear that boys?"
-    gl ""
 
-# game/episode002.rpy:876
+    gl "弟兄們聽見沒？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_38995835:
 
-    # gl "Well now, I'm not unreasonable."
-    gl ""
 
-# game/episode002.rpy:877
+    gl "行吧，我也不是不講道理。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d4bd3d8c:
 
-    # gl "We're going to see if there are any good whores to be fucked in this town and come back tomorrow."
-    gl ""
 
-# game/episode002.rpy:878
+    gl "我們現在要去鎮上找找有沒有夠味的妓女玩玩，明天再來。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_608b0513:
 
-    # gl "If you don't have the money by then, all of this will be mine, including your body."
-    gl ""
 
-# game/episode002.rpy:879
+    gl "要是到時候還拿不出錢，這裡所有東西都歸我——包括你的身體。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_bb0d424a:
 
-    # th "Yes, Glixken."
-    th ""
 
-# game/episode002.rpy:881
+    th "是的，格裏克森。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_fe0b4c13:
 
-    # "Thyia stood there with clenched fists, staring at the backs of the thugs leaving her workshop."
-    ""
 
-# game/episode002.rpy:882
+    "塞婭站在那裡，拳頭緊握，盯着離開她工場的那些暴徒們的背影。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_f12b5f75:
 
-    # "I had a sour taste in my mouth, this could have ended very badly."
-    ""
 
-# game/episode002.rpy:884
+    "我嘴裡有種酸澀味，這本來可能落得很慘的下場。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_ec7845c3:
 
-    # l "Are you okay?"
-    l ""
 
-# game/episode002.rpy:885
+    l "你還好嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_e7b5fdc8:
 
-    # th "No."
-    th ""
 
-# game/episode002.rpy:886
+    th "不。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_b56b1d29:
 
-    # l "What are you going to do?"
-    l ""
 
-# game/episode002.rpy:887
+    l "你打算怎麼辦？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d12fa3f5:
 
-    # th "Fuck."
-    th ""
 
-# game/episode002.rpy:888
+    th "操。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d292df30:
 
-    # th "I don't know."
-    th ""
 
-# game/episode002.rpy:889
+    th "我不知道。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_a06e4391:
 
-    # th "I think I need to run."
-    th ""
 
-# game/episode002.rpy:890
+    th "我想我需要跑路。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_ddd2e14d:
 
-    # c "Think so too, that Glixken didn't look like he was joking around."
-    c ""
 
-# game/episode002.rpy:891
+    c "我也這麼想，那個格裏克森看起來不像是開玩笑。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d8316d87:
 
-    # th "He's the worst of the worst, not very bright though, otherwise he would have left some guards."
-    th ""
 
-# game/episode002.rpy:892
+    th "他是惡棍中的惡棍，不過不是很聰明，否則他會留下幾個守衛。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_131dc305:
 
-    # c "Too sure of himself, I think."
-    c ""
 
-# game/episode002.rpy:893
+    c "他太自以爲是了，我想。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_65776880:
 
-    # th "Nevertheless, I never should have taken that loan."
-    th ""
 
-# game/episode002.rpy:894
+    th "儘管如此，我真不該借那筆貸款。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_39a6e8a3:
 
-    # th "Stupid, stupid, stupid."
-    th ""
 
-# game/episode002.rpy:896
+    th "蠢，蠢，蠢。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_9020c620:
 
-    # "Thyia frantically started gathering several of her personal belongings and destroying anything personal she couldn't take with her."
-    ""
 
-# game/episode002.rpy:897
+    "塞婭瘋狂地開始收拾她的幾件個人物品，並摧毀那些她帶不走的私人物品。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_0440f3f7:
 
-    # "Lilly helped her and tried to reassure the obviously frightened woman."
-    ""
 
-# game/episode002.rpy:898
+    "莉莉幫助她，並試圖安撫那位顯然受驚的女人。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_d26cc384:
 
-    # "When they were done, Thyia looked at me expectantly."
-    ""
 
-# game/episode002.rpy:900
+    "她們完事後，塞婭期待地看着我。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_abcde45b:
 
-    # th "I know you have room for a passenger on the Bastard and I can pay."
-    th ""
 
-# game/episode002.rpy:901
+    th "我知道你的\"私生子\"號上有乘客空間，而且我能付錢。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_15b1386e:
 
-    # c "You're going to pay with the money we just brought you?"
-    c ""
 
-# game/episode002.rpy:902
+    c "你要用我們剛帶給你的錢來付？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_c6c6dce3:
 
-    # th "So what?"
-    th ""
 
-# game/episode002.rpy:907
+    th "那又怎樣？"
+
+
 translate traditional_chinese ep002_cargo_run_positive_5375707c:
 
-    # c "Nothing, just appreciating the irony."
-    c ""
 
-# game/episode002.rpy:908
+    c "沒什麼，只是感嘆一下諷刺。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_20e40480:
 
-    # c "You're more than welcome on the Bastard."
-    c ""
 
-# game/episode002.rpy:910
+    c "歡迎你登上\"私生子\"號。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_2151ada1:
 
-    # l "Especially if it saves you from cunts like Glixken."
-    l ""
 
-# game/episode002.rpy:911
+    l "尤其是如果它能讓你避開格裏克森那樣的混蛋。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_89324495:
 
-    # th "Good, let's get moving then!"
-    th ""
 
-# game/episode002.rpy:913
+    th "好，那我們動身吧！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_947b6324:
 
-    # c "Sorry, but no, the crew is large enough as it is."
-    c ""
 
-# game/episode002.rpy:914
+    c "抱歉，但是不行，機組成員已經夠多了。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_22468f75:
 
-    # th "What, but I can pay?!"
-    th ""
 
-# game/episode002.rpy:916
+    th "什麼，但是我可以付錢？！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_7a42595f:
 
-    # l "Why do you always need to be such a fucking cunt, [p_name]?!"
-    l ""
 
-# game/episode002.rpy:917
+    l "爲什麼你總是要表現的像個混蛋一樣，[p_name]？！"
+
+
 translate traditional_chinese ep002_cargo_run_positive_2347174c:
 
-    # l "Of course she's coming with us."
-    l ""
 
-# game/episode002.rpy:918
+    l "當然她要跟我們一起來。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_15c69f1a:
 
-    # l "Thyia, I invite you to come with us and keep your money."
-    l ""
 
-# game/episode002.rpy:920
+    l "塞婭，我邀請你跟我們一起來，留着你的錢吧。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_3f13bc5f:
 
-    # th "Thank you Lilly and I'll pay for my passage."
-    th ""
 
-# game/episode002.rpy:922
+    th "謝謝你莉莉，我會付我自己的路費。"
+
+
 translate traditional_chinese ep002_cargo_run_positive_9fbbe17a:
 
-    # th "Your brother seems to value money over people, so..."
-    th ""
 
-# game/episode002.rpy:924
+    th "你哥哥似乎把錢看得比人還重，所以..."
+
+
 translate traditional_chinese ep002_cargo_run_positive_90177ee1:
 
-    # th "Your friend seems to value money over people, so..."
-    th ""
 
-# game/episode002.rpy:929
+    th "你朋友似乎把錢看得比人還重，所以..."
+
+
 translate traditional_chinese ep002_cargo_run_positive_8ac697e7:
 
-    # "Thyia settled for sleeping in the engine room, the hum of the machines was supposedly soothing her, or so she told us."
-    ""
 
-# game/episode002.rpy:945
+    "塞婭就只好在引擎室裏睡，機器的嗡嗡聲據說是安撫她，至少她是這麼告訴我們的。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_79d5683d:
 
-    # "When I arrived near Thyia's workshop I immediately sensed there was something amiss."
-    ""
 
-# game/episode002.rpy:947
+    "當我到達塞婭的工場附近時，我立刻感覺有不對勁。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_c8c92b87:
 
-    # "Entering the shop, I found Lilly and Thyia cornered by a group of thugs pointing guns at them."
-    ""
 
-# game/episode002.rpy:949
+    "走進店裡，我發現莉莉和塞婭被一羣惡棍用槍指着逼到角落裡。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_01f7d0f6:
 
-    # gl "And who the fuck is this?"
-    gl ""
 
-# game/episode002.rpy:950
+    gl "那他媽的是誰？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_294e24c2:
 
-    # l "[p_name], look out!"
-    l ""
 
-# game/episode002.rpy:951
+    l "[p_name], 小心！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_c53a750c:
 
-    # "I just stood there as the leader of the thugs turned to me."
-    ""
 
-# game/episode002.rpy:953
+    "我就站在那裡，這時惡棍的頭目轉身朝向我。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_2b5b423b:
 
-    # gl "Stay right where you are, boy, the girls and I have some business to discuss."
-    gl ""
 
-# game/episode002.rpy:954
+    gl "就給我站那兒別動，小子，我和姑娘們還有些事要商量。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_08558372:
 
-    # gl "Now, where were we...{w} right...{w} my money..."
-    gl ""
 
-# game/episode002.rpy:955
+    gl "現在，我們說到哪兒了...{w}對了...{w}我的錢..."
+
+
 translate traditional_chinese ep002_cargo_run_negative_cbb0c63c:
 
-    # th "I can give you a cut, Glixken, right now."
-    th ""
 
-# game/episode002.rpy:956
+    th "我現在就能給你一部分，格裏克森。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_918cc000:
 
-    # th "The one who just came inside carries it."
-    th ""
 
-# game/episode002.rpy:958
+    th "剛進來的那個人帶着它。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_1e7448a4:
 
-    # gl "Not good enough."
-    gl ""
 
-# game/episode002.rpy:959
+    gl "還不夠好。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_71920d4a:
 
-    # th "Look Glixken, I don't have the full amount."
-    th ""
 
-# game/episode002.rpy:960
+    th "聽着格裏克森，我沒有全額。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_2f722d30:
 
-    # th "Business is tight and work is scarce."
-    th ""
 
-# game/episode002.rpy:962
+    th "生意不景氣，活兒又少。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_c4783e06:
 
-    # gl "Don't give me your fucking excuses, cunt!"
-    gl ""
 
-# game/episode002.rpy:963
+    gl "別他媽給我找藉口，賤貨！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_69f26b6d:
 
-    # gl "Pay up!"
-    gl ""
 
-# game/episode002.rpy:964
+    gl "付錢！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_1287ab15:
 
-    # gl "Or I could just cut your throat and take this workshop for myself, sell it off...{w} make some quick credits."
-    gl ""
 
-# game/episode002.rpy:965
+    gl "要不然我就直接割了你喉嚨，把這工場佔爲己有，賣掉它...{w}賺點快錢。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_bd558018:
 
-    # th "Please Glixken! I need more time!"
-    th ""
 
-# game/episode002.rpy:966
+    th "求求你了，格裏克森！我需要更多時間！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_4a84b7db:
 
-    # th "I can get you the money."
-    th ""
 
-# game/episode002.rpy:968
+    th "我能給你錢。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_3ddaf262:
 
-    # gl "Really now?"
-    gl ""
 
-# game/episode002.rpy:969
+    gl "真的嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_39e9583e:
 
-    # gl "Hear that boys?"
-    gl ""
 
-# game/episode002.rpy:970
+    gl "聽見了嗎，夥計們？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_38995835:
 
-    # gl "Well now, I'm not unreasonable."
-    gl ""
 
-# game/episode002.rpy:971
+    gl "好吧，我可不是不講道理。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_d4bd3d8c:
 
-    # gl "We're going to see if there are any good whores to be fucked in this town and come back tomorrow."
-    gl ""
 
-# game/episode002.rpy:972
+    gl "我們要去看看這個鎮上有沒有好妓女可以操，明天再回來。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_ab2bbc35:
 
-    # gl "If you don't have the money by then, all of this will be mine, including your body and the little girl's too."
-    gl ""
 
-# game/episode002.rpy:973
+    gl "如果你到那時還沒錢，所有這些都會是我的，包括你的身體和這個小女孩的。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_bb0d424a:
 
-    # th "Yes, Glixken."
-    th ""
 
-# game/episode002.rpy:975
+    th "是，格裏克森。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_dbb10827:
 
-    # "Defeated, Thyia crawled further into her corner, taking a crying Lilly in her arms."
-    ""
 
-# game/episode002.rpy:976
+    "被打敗了，塞婭爬進角落裡更深處，把哭着的莉莉抱在懷裡。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_bb839283:
 
-    # "The only thing I could do was stare at the backs of the thugs leaving the workshop, a sour taste in my mouth."
-    ""
 
-# game/episode002.rpy:981
+    "我唯一能做的事就是盯着惡棍們離開工場的背影，嘴裡一股酸味。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_3fc15ae0:
 
-    # c "Are you okay?"
-    c ""
 
-# game/episode002.rpy:982
+    c "你沒事吧？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_e7b5fdc8:
 
-    # th "No."
-    th ""
 
-# game/episode002.rpy:984
+    th "沒有。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_922f708a:
 
-    # th "What the fuck took you so long?!"
-    th ""
 
-# game/episode002.rpy:985
+    th "他媽的你幹什麼去了這麼久？！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_ee09a72b:
 
-    # th "It was supposed to be a simple cargo run...{w} Two days tops."
-    th ""
 
-# game/episode002.rpy:986
+    th "原本應該是個簡單的貨運任務...{w}頂多兩天。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_db6e73bd:
 
-    # th "Instead you're gone for days!"
-    th ""
 
-# game/episode002.rpy:988
+    th "結果你走了好幾天！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_760598c9:
 
-    # l "I was worried sick."
-    l ""
 
-# game/episode002.rpy:989
+    l "我擔心死了。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_46262f3b:
 
-    # c "We got side-tracked..."
-    c ""
 
-# game/episode002.rpy:991
+    c "我們被分心了..."
+
+
 translate traditional_chinese ep002_cargo_run_negative_1c7a03a5:
 
-    # th "You what?!"
-    th ""
 
-# game/episode002.rpy:992
+    th "你什麼？！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_60a856e3:
 
-    # l "Unbelievable..."
-    l ""
 
-# game/episode002.rpy:993
+    l "難以置信..."
+
+
 translate traditional_chinese ep002_cargo_run_negative_6ae6b3b9:
 
-    # th "Do you know how dangerous Glixken and his crew are?!"
-    th ""
 
-# game/episode002.rpy:994
+    th "你知道格裏克森和他的流氓們有多危險嗎？！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_feed1e9b:
 
-    # c "I didn’t know I was on the clock, I agreed to do that cargo run."
-    c ""
 
-# game/episode002.rpy:995
+    c "我不知道我有時間限制，我同意去做那次貨運任務。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_b511dc12:
 
-    # c "You didn’t specify the time."
-    c ""
 
-# game/episode002.rpy:996
+    c "你沒指定時間。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_6385b03f:
 
-    # c "Who the fuck were those guys anyway?"
-    c ""
 
-# game/episode002.rpy:997
+    c "那些他媽的都是誰啊？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_22a0cb3a:
 
-    # th "Glixken and his crew."
-    th ""
 
-# game/episode002.rpy:998
+    th "格裏克森和他的流氓們。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_6c6411af:
 
-    # th "Nasty fucker, does a lot of debt collecting."
-    th ""
 
-# game/episode002.rpy:999
+    th "真是個狗娘養的，專門幹討債的勾當。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_09a7518f:
 
-    # th "I never should have taken that loan."
-    th ""
 
-# game/episode002.rpy:1000
+    th "我當初就不該借那筆貸款。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_e269123d:
 
-    # th "Fuck!"
-    th ""
 
-# game/episode002.rpy:1002
+    th "操！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_b56b1d29:
 
-    # l "What are you going to do?"
-    l ""
 
-# game/episode002.rpy:1003
+    l "你打算怎麼辦？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_d292df30:
 
-    # th "I don't know."
-    th ""
 
-# game/episode002.rpy:1004
+    th "我不知道。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_a06e4391:
 
-    # th "I think I need to run."
-    th ""
 
-# game/episode002.rpy:1005
+    th "我覺得得趕緊逃。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_ddd2e14d:
 
-    # c "Think so too, that Glixken didn't look like he was joking around."
-    c ""
 
-# game/episode002.rpy:1006
+    c "我也這麼想，那個格裏克森可不像在開玩笑的樣子。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_ec873ec6:
 
-    # c "He also didn't seem very bright, because he didn't leave any guards, that works in our advantage."
-    c ""
 
-# game/episode002.rpy:1007
+    c "這蠢貨倒也沒留守衛，反倒便宜了我們。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_eeb4d9ec:
 
-    # c "Gather your things, I think it's time to leave while those fuckers are still drunk on cheap pussy."
-    c ""
 
-# game/episode002.rpy:1009
+    c "收拾東西，趁那羣混蛋還醉倒在廉價妓女裏，我們該溜了。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_9020c620:
 
-    # "Thyia frantically started gathering several of her personal belongings and destroying anything personal she couldn't take with her."
-    ""
 
-# game/episode002.rpy:1010
+    "塞婭手忙腳亂地收拾私人物品，帶不走的全給砸了個稀巴爛。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_0440f3f7:
 
-    # "Lilly helped her and tried to reassure the obviously frightened woman."
-    ""
 
-# game/episode002.rpy:1011
+    "莉莉邊幫忙邊安撫這個驚慌失措的女人。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_d26cc384:
 
-    # "When they were done, Thyia looked at me expectantly."
-    ""
 
-# game/episode002.rpy:1013
+    "收拾停當後，塞婭眼巴巴望着我。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_abcde45b:
 
-    # th "I know you have room for a passenger on the Bastard and I can pay."
-    th ""
 
-# game/episode002.rpy:1014
+    th "我知道\"私生子\"號還能載人，我有錢付船費。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_15b1386e:
 
-    # c "You're going to pay with the money we just brought you?"
-    c ""
 
-# game/episode002.rpy:1015
+    c "用剛給你送來的錢付賬？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_c6c6dce3:
 
-    # th "So what?"
-    th ""
 
-# game/episode002.rpy:1020
+    th "不行嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_negative_5375707c:
 
-    # c "Nothing, just appreciating the irony."
-    c ""
 
-# game/episode002.rpy:1021
+    c "沒事，就是覺得挺諷刺。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_20e40480:
 
-    # c "You're more than welcome on the Bastard."
-    c ""
 
-# game/episode002.rpy:1023
+    c "\"私生子\"號永遠爲你敞開。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_2151ada1:
 
-    # l "Especially if it saves you from cunts like Glixken."
-    l ""
 
-# game/episode002.rpy:1024
+    l "尤其是能幫你逃離格裏克森這類雜碎的時候。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_89324495:
 
-    # th "Good, let's get moving then!"
-    th ""
 
-# game/episode002.rpy:1026
+    th "太好了，那我們快走吧！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_947b6324:
 
-    # c "Sorry, but no, the crew is large enough as it is."
-    c ""
 
-# game/episode002.rpy:1028
+    c "抱歉不行，機組成員夠多了。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_22468f75:
 
-    # th "What, but I can pay?!"
-    th ""
 
-# game/episode002.rpy:1029
+    th "什麼？我有錢付賬啊？！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_7a42595f:
 
-    # l "Why do you always need to be such a fucking cunt, [p_name]?!"
-    l ""
 
-# game/episode002.rpy:1030
+    l "爲什麼你總是要表現的像個混蛋一樣，[p_name]？！"
+
+
 translate traditional_chinese ep002_cargo_run_negative_2347174c:
 
-    # l "Of course she's coming with us."
-    l ""
 
-# game/episode002.rpy:1031
+    l "她當然跟我們走。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_15c69f1a:
 
-    # l "Thyia, I invite you to come with us and keep your money."
-    l ""
 
-# game/episode002.rpy:1033
+    l "塞婭，我邀請你同行，錢自己留着。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_3f13bc5f:
 
-    # th "Thank you Lilly and I'll pay for my passage."
-    th ""
 
-# game/episode002.rpy:1035
+    th "謝謝莉莉，我會付路費的。"
+
+
 translate traditional_chinese ep002_cargo_run_negative_9fbbe17a:
 
-    # th "Your brother seems to value money over people, so..."
-    th ""
 
-# game/episode002.rpy:1037
+    th "你哥哥似乎更看重錢而不是人，所以..."
+
+
 translate traditional_chinese ep002_cargo_run_negative_90177ee1:
 
-    # th "Your friend seems to value money over people, so..."
-    th ""
 
-# game/episode002.rpy:1042
+    th "你朋友似乎更看重錢而不是人，所以..."
+
+
 translate traditional_chinese ep002_cargo_run_negative_8ac697e7:
 
-    # "Thyia settled for sleeping in the engine room, the hum of the machines was supposedly soothing her, or so she told us."
-    ""
 
-# game/episode002.rpy:1056
+    "塞婭只好睡在引擎室，機器的嗡嗡聲據說讓她平靜，至少她是這麼告訴我們的。"
+
+
 translate traditional_chinese ep002_thyia_sex_c09739d7:
 
-    # "I didn’t hesitate and stepped towards her, grabbing her and kissing her full on the lips."
-    ""
 
-# game/episode002.rpy:1057
+    "我沒有猶豫，向她邁步，抓住她，深深地吻她的嘴脣。"
+
+
 translate traditional_chinese ep002_thyia_sex_6c88e038:
 
-    # th "Mmmm, easy now."
-    th ""
 
-# game/episode002.rpy:1058
+    th "嗯，現在輕鬆點。"
+
+
 translate traditional_chinese ep002_thyia_sex_6ce91800:
 
-    # "Something in her eyes made me grab her in my arms and before we knew it, we were kissing and I was fiddling with the clasps of her work clothes."
-    ""
 
-# game/episode002.rpy:1063
+    "她眼神中有些東西讓我把她拉進懷裡，不知不覺中，我們親吻起來，我開始解開她工作服的扣子。"
+
+
 translate traditional_chinese ep002_thyia_sex_52b7865a:
 
-    # "As her garments fell to the floor, more and more of her gorgeous body became visible."
-    ""
 
-# game/episode002.rpy:1064
+    "她的衣服落在地板上，她絕美的身體越來越多地顯露出來。"
+
+
 translate traditional_chinese ep002_thyia_sex_8de4c842:
 
-    # "She voiced no protest, so I continued kissing her, eventually making my way down to her breasts."
-    ""
 
-# game/episode002.rpy:1066
+    "她沒有抗議，所以我繼續吻她，最後移向她的乳房。"
+
+
 translate traditional_chinese ep002_thyia_sex_c33fd293:
 
-    # "Her nipples were already hard and when I took one of them in my mouth, Thyia let out a moan of delight."
-    ""
 
-# game/episode002.rpy:1067
+    "她的乳頭已經很硬了，當我含住其中一個時，塞婭發出了愉悅的呻吟。"
+
+
 translate traditional_chinese ep002_thyia_sex_20daec83:
 
-    # "Suckling them, elicited her first proactive response, as she pressed my head closer to her bosom."
-    ""
 
-# game/episode002.rpy:1069
+    "吮吸它們引發了她第一次主動的回應，她將我的頭更緊地壓向她的胸。"
+
+
 translate traditional_chinese ep002_thyia_sex_750dd0d9:
 
-    # "I let my tongue trail from her heaving breasts down to her navel."
-    ""
 
-# game/episode002.rpy:1070
+    "我讓舌頭從她起伏的乳房滑到肚臍。"
+
+
 translate traditional_chinese ep002_thyia_sex_673ed0d0:
 
-    # th "There’s a bed just right there."
-    th ""
 
-# game/episode002.rpy:1072
+    th "牀就在那兒。"
+
+
 translate traditional_chinese ep002_thyia_sex_0d327c60:
 
-    # "Wordlessly I pushed her on the bed and continued to kiss her, targeting her sex by pushing her legs apart and flicking my tongue over her moist labia."
-    ""
 
-# game/episode002.rpy:1073
+    "我無聲地將她推倒在牀上，繼續吻她，將她的雙腿分開，用舌頭舔舐她溼潤的陰脣，目標是她的私處。"
+
+
 translate traditional_chinese ep002_thyia_sex_4438cee3:
 
-    # "Her back arched as I concentrated on her pussy and treated her to the most intense pussy licking I was capable of."
-    ""
 
-# game/episode002.rpy:1074
+    "當我的關注集中在她陰部上，並用我能做到的最激烈的方式舔舐時，她的背拱了起來。"
+
+
 translate traditional_chinese ep002_thyia_sex_448748d2:
 
-    # th "Right there!"
-    th ""
 
-# game/episode002.rpy:1075
+    th "就是那兒！"
+
+
 translate traditional_chinese ep002_thyia_sex_d47a2fc9:
 
-    # th "Take me, [p_name]!"
-    th ""
 
-# game/episode002.rpy:1077
+    th "佔有我吧，[p_name]！"
+
+
 translate traditional_chinese ep002_thyia_sex_5e3abe4c:
 
-    # "I didn’t hesitate and pulled her closer towards my cock, sliding easily past her wet lips."
-    ""
 
-# game/episode002.rpy:1078
+    "我沒有猶豫，將她拉近我的陰莖，輕易地滑過她溼潤的脣。"
+
+
 translate traditional_chinese ep002_thyia_sex_8a7e681a:
 
-    # th "Yes, that’s right!"
-    th ""
 
-# game/episode002.rpy:1079
+    th "是的，就這樣！"
+
+
 translate traditional_chinese ep002_thyia_sex_62d71620:
 
-    # "The events of the past days flashed through my mind and I had a hard time concentrating on making love to Thyia."
-    ""
 
-# game/episode002.rpy:1080
+    "過去幾天的事件在我腦海裏閃現，我很難專注於和塞婭做愛。"
+
+
 translate traditional_chinese ep002_thyia_sex_34db37d2:
 
-    # "She appeared to notice and looked deeply into my eyes."
-    ""
 
-# game/episode002.rpy:1082
+    "她似乎注意到了，深深地望向我的眼睛。"
+
+
 translate traditional_chinese ep002_thyia_sex_cb5e6544:
 
-    # th "Don’t think. Fuck."
-    th ""
 
-# game/episode002.rpy:1084
+    th "別想了。操我。"
+
+
 translate traditional_chinese ep002_thyia_sex_92d2197e:
 
-    # "Her words helped me overcome my sudden absentmindedness and I doubled down on fucking her tight pussy."
-    ""
 
-# game/episode002.rpy:1085
+    "她的話幫我克服了突然的走神，我加倍地操她緊緻的陰部。"
+
+
 translate traditional_chinese ep002_thyia_sex_76c25b5f:
 
-    # "Thyia clearly started to enjoy herself, her moans and cries stimulating me to reward her with even more intense thrusts."
-    ""
 
-# game/episode002.rpy:1087
+    "塞婭清楚地開始享受自己，她的呻吟和哭聲刺激我更猛烈地抽插她。"
+
+
 translate traditional_chinese ep002_thyia_sex_0bcf6d11:
 
-    # th "Keep doing that...{w} Please keep doing that!!!"
-    th ""
 
-# game/episode002.rpy:1088
+    th "繼續那樣做...{w} 請繼續那樣做！！！"
+
+
 translate traditional_chinese ep002_thyia_sex_54a5c2b7:
 
-    # "That plea triggered an orgasm so violent I temporarily lost all presence of where I was."
-    ""
 
-# game/episode002.rpy:1094
+    "那個懇求引發了一陣如此劇烈的性高潮，我暫時忘記了自己在哪裡。"
+
+
 translate traditional_chinese ep002_thyia_sex_e4512fda:
 
-    # "I had no choice but to keep fucking her and my seed flowed inside of her with those last desperate thrusts."
-    ""
 
-# game/episode002.rpy:1097
+    "我別無選擇，只能繼續操她，精液隨着最後瘋狂的抽插流入了她體內。"
+
+
 translate traditional_chinese ep002_thyia_sex_98be50fc:
 
-    # "Thyia wore a satisfied smile on her face as I pulled out my cock, making way for a steady stream of cum from her convulsing vagina."
-    ""
 
-# game/episode002.rpy:1098
+    "當我抽出老二時，塞婭臉上帶着滿足的微笑，爲抽搐陰道中流出的穩定精液流開闢道路。"
+
+
 translate traditional_chinese ep002_thyia_sex_085277f0:
 
-    # "The sight of her creamy pussy nearly made me want to fuck her all over again."
-    ""
 
-# game/episode002.rpy:1102
+    "看着她奶油色的陰道，我差點想再操她一遍。"
+
+
 translate traditional_chinese ep002_thyia_sex_a3ce3ca8:
 
-    # "At the last moment, I pulled out and smothered her belly and breasts with my seed, looking at Thyia with a satisfied smile."
-    ""
 
-# game/episode002.rpy:1103
+    "在最後一刻，我抽出來，用我的精液覆蓋了她的肚子和胸部，滿意地笑着看塞婭。"
+
+
 translate traditional_chinese ep002_thyia_sex_a074b7cf:
 
-    # "The sight of her body nearly made me want to fuck her all over again."
-    ""
 
-# game/episode002.rpy:1107
+    "看着她身體的樣子，我差點想再操她一遍。"
+
+
 translate traditional_chinese ep002_thyia_sex_f89417eb:
 
-    # "At the last moment, I pulled out and couldn't resist covering her face."
-    ""
 
-# game/episode002.rpy:1108
+    "在最後一刻，我抽出來，忍不住覆蓋了她的臉。"
+
+
 translate traditional_chinese ep002_thyia_sex_3d5b3734:
 
-    # "Thyia's satisfied smile quickly flashed into a surprised scowl before turning into a lewd grin."
-    ""
 
-# game/episode002.rpy:1109
+    "塞婭的滿意微笑迅速閃過一個驚訝的怒容，然後變成了淫蕩的笑容。"
+
+
 translate traditional_chinese ep002_thyia_sex_ccfe6983:
 
-    # th "Ah, you're one of those guys?"
-    th ""
 
-# game/episode002.rpy:1110
+    th "啊，你是那種人中的一個嗎？"
+
+
 translate traditional_chinese ep002_thyia_sex_a007a8ab:
 
-    # c "I guess I am."
-    c ""
 
-# game/episode002.rpy:1111
+    c "我想我是。"
+
+
 translate traditional_chinese ep002_thyia_sex_a4f16d93:
 
-    # "Thyia clearly didn't mind all that cum on her face and licked eagerly at the corners of her mouth."
-    ""
 
-# game/episode002.rpy:1112
+    "塞婭顯然不介意臉上那些精液，熱切地舔着嘴角。"
+
+
 translate traditional_chinese ep002_thyia_sex_7f0fb7b8:
 
-    # "The sight nearly made me want to fuck her all over again."
-    ""
 
-# game/episode002.rpy:1114
+    "那個景象差點讓我想再操她一遍。"
+
+
 translate traditional_chinese ep002_thyia_sex_4b91104f:
 
-    # th "I'd love to chat, but I think you've got some work to do."
-    th ""
 
-# game/episode002.rpy:1115
+    th "我很想聊會天，但我覺得你有些工作要做。"
+
+
 translate traditional_chinese ep002_thyia_sex_25e9635c:
 
-    # c "Right..."
-    c ""
 
-# game/episode002.rpy:1124
+    c "是啊..."
+
+
 translate traditional_chinese ep002_cargo_run_3dd7d9b8:
 
-    # "After we punched in the coordinates we received from Thyia we were ready for anything."
-    ""
 
-# game/episode002.rpy:1126
+    "在我們輸入從塞婭收到的坐標後，我們準備好應對一切。"
+
+
 translate traditional_chinese ep002_cargo_run_4f95c2e4:
 
-    # "But the trip turned out to be uneventful, just a series of jump-gates."
-    ""
 
-# game/episode002.rpy:1127
+    "但旅行結果很平淡，只是一系列跳躍門。"
+
+
 translate traditional_chinese ep002_cargo_run_629e7ade:
 
-    # "The S-K drive worked, there were no space pirates, no shooting matches...{w} nothing."
-    ""
 
-# game/episode002.rpy:1129
+    "西拉斯-卡岑引擎工作了，沒有太空海盜，沒有槍戰...{w} 什麼都沒有。"
+
+
 translate traditional_chinese ep002_cargo_run_ea2a6752:
 
-    # "But the trip turned out to be uneventful, just a series of jump-gates, no space pirates, no shooting matches...{w} nothing."
-    ""
 
-# game/episode002.rpy:1141
+    "但旅行結果很平淡，只是一系列跳躍門，沒有太空海盜，沒有槍戰...{w} 什麼都沒有。"
+
+
 translate traditional_chinese ep002_cargo_run_48640bfd:
 
-    # "This was looking like the easy cargo run Thyia promised."
-    ""
 
-# game/episode002.rpy:1143
+    "這看起來像是塞婭承諾的簡單貨物運程。"
+
+
 translate traditional_chinese ep002_cargo_run_a84890c2:
 
-    # c "Okay, the crates should already be loaded on haulers, so it should be a matter of driving those to the center of the settlement."
-    c ""
 
-# game/episode002.rpy:1144
+    c "行，那些板條箱該已經裝上運輸車了，所以我們只要把它們開到定居點中心就行。"
+
+
 translate traditional_chinese ep002_cargo_run_8078fbea:
 
-    # c "After that, we collect the payment, return to Thyia and go our merry way."
-    c ""
 
-# game/episode002.rpy:1145
+    c "之後，我們收了款子，回到塞婭那，開始我們的歡樂之旅"
+
+
 translate traditional_chinese ep002_cargo_run_7d3bddb3:
 
-    # ki "Sounds good."
-    ki ""
 
-# game/episode002.rpy:1146
+    ki "聽着靠譜。"
+
+
 translate traditional_chinese ep002_cargo_run_5f67a182:
 
-    # t "Sounds too easy."
-    t ""
 
-# game/episode002.rpy:1147
+    t "感覺太輕鬆了。"
+
+
 translate traditional_chinese ep002_cargo_run_390fc11b:
 
-    # c "Thanks for that, Thim..."
-    c ""
 
-# game/episode002.rpy:1148
+    c "謝謝你的烏鴉嘴，蒂姆..."
+
+
 translate traditional_chinese ep002_cargo_run_c553991e:
 
-    # c "Anyway, the R'o tribe ahead is waiting for us."
-    c ""
 
-# game/episode002.rpy:1149
+    c "總之前面的拉歐人部落正等着我們。"
+
+
 translate traditional_chinese ep002_cargo_run_3dfad756:
 
-    # c "Let's get moving."
-    c ""
 
-# game/episode002.rpy:1151
+    c "開動吧。"
+
+
 translate traditional_chinese ep002_cargo_run_44d1776e:
 
-    # "The lush vegetation made movement a little difficult, but it was a nice change from the barren worlds we visited so far."
-    ""
 
-# game/episode002.rpy:1152
+    "茂密植被讓行進有點喫力，但比起之前跑的那些荒蕪星球可新鮮多了。"
+
+
 translate traditional_chinese ep002_cargo_run_4e71fcf4:
 
-    # "The alien jungle was teeming with wildlife and there were hundreds of different flowers I never knew existed."
-    ""
 
-# game/episode002.rpy:1153
+    "外星叢林裡全是野生動物，還有幾百種我壓根沒見過的奇花異草。"
+
+
 translate traditional_chinese ep002_cargo_run_7ff671c2:
 
-    # "When we arrived in the village, the elders were already waiting for us, they were a decidedly male bunch."
-    ""
 
-# game/episode002.rpy:1168
+    "進村時年紀大一些的在等候着，清一色全是男的。"
+
+
 translate traditional_chinese ep002_cargo_run_157b814d:
 
-    # c "Greetings, we've brought a shipment of the goods you require."
-    c ""
 
-# game/episode002.rpy:1169
+    c "恭賀，你們要的貨送到了。"
+
+
 translate traditional_chinese ep002_cargo_run_0bd81023:
 
-    # "Before one of the elders could speak, I saw their eyes grow extremely wide."
-    ""
 
-# game/episode002.rpy:1170
+    "有個年長者剛要開口，我看見他們眼睛突然瞪得溜圓。"
+
+
 translate traditional_chinese ep002_cargo_run_029be7ae:
 
-    # "I've come to learn that this is never a good sign, regardless of which type of alien you're dealing with."
-    ""
 
-# game/episode002.rpy:1173
+    "經驗告訴我這絕對不是什麼好兆頭——甭管遇上哪種外星人都一樣。"
+
+
 translate traditional_chinese ep002_cargo_run_40a74c86:
 
-    # man "Are those...{w} women..."
-    man ""
 
-# game/episode002.rpy:1177
+    man "那些該不會是...{w}雌性..."
+
+
 translate traditional_chinese ep002_cargo_run_13847d73:
 
-    # c "Yes, this here is Céline and Jade is over there."
-    c ""
 
-# game/episode002.rpy:1181
+    c "是的，這邊是瑟琳，那邊是傑德。"
+
+
 translate traditional_chinese ep002_cargo_run_9d81f4ab:
 
-    # c "No, those are just human males with different outward characteristics."
-    c ""
 
-# game/episode002.rpy:1183
+    c "不是，那就是不同外表特徵的人類男性。"
+
+
 translate traditional_chinese ep002_cargo_run_8a2ce1f5:
 
-    # man "Don't play me for a fool, those are women!"
-    man ""
 
-# game/episode002.rpy:1184
+    man "別把我當傻子，那就是雌性！"
+
+
 translate traditional_chinese ep002_cargo_run_f3fa6a44:
 
-    # man "The cargo is defiled!"
-    man ""
 
-# game/episode002.rpy:1185
+    man "這批貨被玷污了！"
+
+
 translate traditional_chinese ep002_cargo_run_2802b6dd:
 
-    # man "A woman's touch has ruined this shipment."
-    man ""
 
-# game/episode002.rpy:1186
+    man "雌性的碰觸毀了整批貨。"
+
+
 translate traditional_chinese ep002_cargo_run_d484d3fc:
 
-    # c "Is this some kind of obscure bargaining tactic?"
-    c ""
 
-# game/episode002.rpy:1187
+    c "這算什麼冷門砍價套路嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_6b623df3:
 
-    # man "Bargaining?"
-    man ""
 
-# game/episode002.rpy:1188
+    man "砍價？"
+
+
 translate traditional_chinese ep002_cargo_run_c3be64ab:
 
-    # man "No."
-    man ""
 
-# game/episode002.rpy:1189
+    man "不"
+
+
 translate traditional_chinese ep002_cargo_run_ee33cd6f:
 
-    # man "We R'o do not bargain."
-    man ""
 
-# game/episode002.rpy:1190
+    man "我們拉歐人從不討價還價。"
+
+
 translate traditional_chinese ep002_cargo_run_20c47fc2:
 
-    # man "We will pay you the full amount, as soon as this shipment is cleansed."
-    man ""
 
-# game/episode002.rpy:1191
+    man "等把這批污染貨淨化完成，我們立刻全額付款。"
+
+
 translate traditional_chinese ep002_cargo_run_b2b92bb8:
 
-    # c "Cleansed?"
-    c ""
 
-# game/episode002.rpy:1193
+    c "淨化完成？"
+
+
 translate traditional_chinese ep002_cargo_run_2111730f:
 
-    # man "You will do penance in the Pit of Despair."
-    man ""
 
-# game/episode002.rpy:1195
+    man "你將在\"絕望之淵\"苦修贖罪。"
+
+
 translate traditional_chinese ep002_cargo_run_47159a99:
 
-    # man "One of your male crew members will have to do penance in the Pit of Despair."
-    man ""
 
-# game/episode002.rpy:1197
+    man "你的男性機組人員中需有一人進入\"絕望之淵\"苦修。"
+
+
 translate traditional_chinese ep002_cargo_run_3382cc15:
 
-    # c "Pit of Despair..."
-    c ""
 
-# game/episode002.rpy:1198
+    c "\"絕望之淵\"..."
+
+
 translate traditional_chinese ep002_cargo_run_f279bd04:
 
-    # c "This penance ritual, is it dangerous?"
-    c ""
 
-# game/episode002.rpy:1199
+    c "這種贖罪儀式有危險嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_99b2048f:
 
-    # man "No, only for the faint of heart."
-    man ""
 
-# game/episode002.rpy:1201
+    man "不會，除非膽子太小。"
+
+
 translate traditional_chinese ep002_cargo_run_852a1984:
 
-    # "At that point we were completely surrounded by a band of angry-looking R'o warriors carrying spears and other pointy things."
-    ""
 
-# game/episode002.rpy:1202
+    "就在此時我們被一羣殺氣騰騰的拉歐戰士包圍，他們手持長矛和各種尖利武器。"
+
+
 translate traditional_chinese ep002_cargo_run_caf1f096:
 
-    # "Thyia didn't provide us with weapons, other than the guns mounted on our ship which was a little too far away."
-    ""
 
-# game/episode002.rpy:1203
+    "塞婭根本沒提供武器，除了戰艦上的機炮——可惜離我們太遠了"
+
+
 translate traditional_chinese ep002_cargo_run_5896c90f:
 
-    # "Royally fucked is what we were."
-    ""
 
-# game/episode002.rpy:1208
+    "我們徹底玩完了。"
+
+
 translate traditional_chinese ep002_cargo_run_7acb9ef1:
 
-    # c "I will bear the punishment of this misstep."
-    c ""
 
-# game/episode002.rpy:1211
+    c "本次過失的懲罰由我承擔。"
+
+
 translate traditional_chinese ep002_cargo_run_39cf742b:
 
-    # c "A captain shouldn't leave his crew, Thim will do the penance."
-    c ""
 
-# game/episode002.rpy:1213
+    c "艦長不該拋下船員，讓蒂姆去贖罪。"
+
+
 translate traditional_chinese ep002_cargo_run_f0b1d19e:
 
-    # t "What the fuck [p_name_short]?!"
-    t ""
 
-# game/episode002.rpy:1214
+    t "你他媽搞什麼[p_name_short]?!"
+
+
 translate traditional_chinese ep002_cargo_run_db2dd9f9:
 
-    # t "You're sending me to that pit?"
-    t ""
 
-# game/episode002.rpy:1216
+    t "你要把我送進那個坑洞？"
+
+
 translate traditional_chinese ep002_cargo_run_b81e7d92:
 
-    # c "I'm sure it won't be that bad."
-    c ""
 
-# game/episode002.rpy:1218
+    c "肯定不會太糟。"
+
+
 translate traditional_chinese ep002_cargo_run_84a01f93:
 
-    # t "Fuck you, you fucking piece of shit!"
-    t ""
 
-# game/episode002.rpy:1220
+    t "去你媽的狗雜種！"
+
+
 translate traditional_chinese ep002_cargo_run_4e94e532:
 
-    # man "Good, my men will escort you to the entrance of the Pit."
-    man ""
 
-# game/episode002.rpy:1221
+    man "很好，我的人會押你去\"絕望之淵\"洞口。"
+
+
 translate traditional_chinese ep002_cargo_run_68356c0e:
 
-    # man "They will stand guard until the night has passed and you emerge again."
-    man ""
 
-# game/episode002.rpy:1222
+    man "他們將徹夜把守，直到夜晚過去然後你重見天日。"
+
+
 translate traditional_chinese ep002_cargo_run_40e30159:
 
-    # man "Your debt will be paid."
-    man ""
 
-# game/episode002.rpy:1225
+    man "然後你的債務就此結清。"
+
+
 translate traditional_chinese ep002_cargo_run_634a160b:
 
-    # "The guards escorted Thim to the caves, leaving me to complete the business side of the transaction."
-    ""
 
-# game/episode002.rpy:1227
+    "守衛押着蒂姆前往洞穴，我則留下處理交易手續。"
+
+
 translate traditional_chinese ep002_cargo_run_eb3d3d6b:
 
-    # "We returned to the Bastard to get some sleep and wait for Thim to emerge from the cave again."
-    ""
 
-# game/episode002.rpy:1228
+    "我們回到\"私生子\"號休整，等待蒂姆出洞。"
+
+
 translate traditional_chinese ep002_cargo_run_3f33c616:
 
-    # "I'd be lying if I didn't feel a hint of guilt for throwing Thim before the wolves."
-    ""
 
-# game/episode002.rpy:1229
+    "若說把蒂姆丟去餵給一羣狼這事毫無愧疚，那是騙人的。"
+
+
 translate traditional_chinese ep002_cargo_run_5dc6d49a:
 
-    # "He might not die, but who knows what awaited him in those caves..."
-    ""
 
-# game/episode002.rpy:1230
+    "他或許死不了，但誰知道洞裡有什麼等着他..."
+
+
 translate traditional_chinese ep002_cargo_run_4042a3bc:
 
-    # "During breakfast the ship's computer indicated that there was someone at the entrance."
-    ""
 
-# game/episode002.rpy:1232
+    "早餐時艦載電腦顯示洞口有人。"
+
+
 translate traditional_chinese ep002_cargo_run_53cf4a3a:
 
-    # "It turned out to be Thim, accompanied by two grim-faced warriors."
-    ""
 
-# game/episode002.rpy:1233
+    "來者正是蒂姆，身後跟着兩名面色陰沉的武士。"
+
+
 translate traditional_chinese ep002_cargo_run_7410065f:
 
-    # c "Thim, did you..."
-    c ""
 
-# game/episode002.rpy:1234
+    c "蒂姆，你是不是..."
+
+
 translate traditional_chinese ep002_cargo_run_b3fa210b:
 
-    # t "Fuck you, [p_name]."
-    t ""
 
-# game/episode002.rpy:1235
+    t "去死吧，[p_name]。"
+
+
 translate traditional_chinese ep002_cargo_run_de73ab86:
 
-    # "Thim never spoke of what happened during his night in the Pit of Despair, especially not to me."
-    ""
 
-# game/episode002.rpy:1236
+    "蒂姆從未談論過在\"絕望之淵\"那晚發生的事情，尤其不對我說。"
+
+
 translate traditional_chinese ep002_cargo_run_41dec5f0:
 
-    # "Someone once described Thim's face to me when asked about that fateful night, a shit-faced grin was not the expression I expected..."
-    ""
 
-# game/episode002.rpy:1238
+    "有一次我在問起某人那個命運之夜的事，他描述了蒂姆的臉，一臉的苦笑是我沒想到的..."
+
+
 translate traditional_chinese ep002_cargo_run_19cba2bb:
 
-    # "The guards escorted me to the caves, leaving the others to complete the business side of the transaction."
-    ""
 
-# game/episode002.rpy:1240
+    "衛兵護送我到洞穴去，留下其他人完成交易的事務部分。"
+
+
 translate traditional_chinese ep002_cargo_run_2fb61806:
 
-    # "The cave wasn't very far from the R'o village and I was pushed rather unceremoniously inside the dark mound of the cave entrance."
-    ""
 
-# game/episode002.rpy:1241
+    "洞穴離拉歐人的村莊不遠，我被粗魯地推進了入口處的黑暗土堆裏。"
+
+
 translate traditional_chinese ep002_cargo_run_6626acb9:
 
-    # "I was about to ask questions to the guards, but they immediately launched into some incomprehensible, monotonous prayer, while barring the entrance."
-    ""
 
-# game/episode002.rpy:1243
+    "我正要對衛兵發問，但他們立刻開始念叨一些聽不懂的、單調的禱告，同時堵住了入口。"
+
+
 translate traditional_chinese ep002_cargo_run_122e4f58:
 
-    # "As there was no light I decided to head deeper into the cave, feeling my way by touching the walls, which were slick with moisture."
-    ""
 
-# game/episode002.rpy:1244
+    "既然沒有光線，我決定深入洞穴，摸着溼潤溼滑的牆壁摸索前行。"
+
+
 translate traditional_chinese ep002_cargo_run_956b778a:
 
-    # "After stumbling for a few meters I noticed the faint, orange flickering of torch light up ahead."
-    ""
 
-# game/episode002.rpy:1245
+    "磕磕絆絆走了幾米後，我注意到前方有微弱的、橙色的火炬光閃爍。"
+
+
 translate traditional_chinese ep002_cargo_run_23461062:
 
-    # "I walked further until I stood at the precipice of a large chamber where I knew in an instant I'd hit the jackpot."
-    ""
 
-# game/episode002.rpy:1248
+    "我繼續走，直到站在一個大洞室的邊緣，剎那間我知道我中頭彩了。"
+
+
 translate traditional_chinese ep002_cargo_run_201903c8:
 
-    # dee "Ah, a male."
-    dee ""
 
-# game/episode002.rpy:1249
+    dee "啊，是個男的。"
+
+
 translate traditional_chinese ep002_cargo_run_6e1c7572:
 
-    # dee "Have you come to do penance?"
-    dee ""
 
-# game/episode002.rpy:1250
+    dee "你是來懺悔的嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_f683d435:
 
-    # c "I have."
-    c ""
 
-# game/episode002.rpy:1251
+    c "是的。"
+
+
 translate traditional_chinese ep002_cargo_run_90182deb:
 
-    # dee "Come over here then and make yourself comfortable among us."
-    dee ""
 
-# game/episode002.rpy:1253
+    dee "那就過來吧，在我們中間安頓下來。"
+
+
 translate traditional_chinese ep002_cargo_run_baf45385:
 
-    # dee "My name is D'ee."
-    dee ""
 
-# game/episode002.rpy:1255
+    dee "我叫迪伊。"
+
+
 translate traditional_chinese ep002_cargo_run_7bc54ed3:
 
-    # c "Are there only women down here?"
-    c ""
 
-# game/episode002.rpy:1256
+    c "這裡只有女人嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_5f7daf08:
 
-    # dee "Mostly, the children and the older ones caring for them are further down below."
-    dee ""
 
-# game/episode002.rpy:1257
+    dee "大多數是女人，孩子們和照顧他們的老人都在下面更深的地方。"
+
+
 translate traditional_chinese ep002_cargo_run_85504fd7:
 
-    # c "But why?"
-    c ""
 
-# game/episode002.rpy:1258
+    c "但爲什麼？"
+
+
 translate traditional_chinese ep002_cargo_run_9c3ac183:
 
-    # dee "A decree of Our Holiness."
-    dee ""
 
-# game/episode002.rpy:1259
+    dee "是教宗的法令。"
+
+
 translate traditional_chinese ep002_cargo_run_47897f0b:
 
-    # c "Decree?"
-    c ""
 
-# game/episode002.rpy:1260
+    c "法令？"
+
+
 translate traditional_chinese ep002_cargo_run_c4f8271d:
 
-    # dee "A few years ago, our shaman started preaching from a gospel he said he'd received directly from the gods."
-    dee ""
 
-# game/episode002.rpy:1261
+    dee "幾年前，我們的薩滿開始宣講他自稱直接從神那裡得到的福音。"
+
+
 translate traditional_chinese ep002_cargo_run_64fd26a8:
 
-    # dee "They told him that women were impure and that males should dominate the earth."
-    dee ""
 
-# game/episode002.rpy:1262
+    dee "他們告訴他，女人不潔淨，男性應當統治大地。"
+
+
 translate traditional_chinese ep002_cargo_run_e53a6057:
 
-    # dee "His sermons weren't very successful until our old chieftain died and was replaced with his son, a true believer in the new religious doctrine."
-    dee ""
 
-# game/episode002.rpy:1264
+    dee "他的說教並不成功，直到我們的老酋長去世，由他兒子接任，新酋長是新宗教教義的真正信徒。"
+
+
 translate traditional_chinese ep002_cargo_run_23b44618:
 
-    # dee "So through a series of decisions by the new chieftain, we were becoming more and more marginalized."
-    dee ""
 
-# game/episode002.rpy:1265
+    dee "於是，新酋長通過一系列決定，讓我們越來越邊緣化了。"
+
+
 translate traditional_chinese ep002_cargo_run_901bd398:
 
-    # dee "Until one night, all the women were rounded up and taken to this cave here, where we've lived ever since."
-    dee ""
 
-# game/episode002.rpy:1266
+    dee "直到一天晚上，所有女人都被圍捕起來帶到這個洞穴裏，我們自此就一直住在這兒。"
+
+
 translate traditional_chinese ep002_cargo_run_095870a2:
 
-    # c "Damn..."
-    c ""
 
-# game/episode002.rpy:1267
+    c "靠..."
+
+
 translate traditional_chinese ep002_cargo_run_d8d2ad15:
 
-    # c "Surely this isn't sustainable in the long run, if there are no children being born?"
-    c ""
 
-# game/episode002.rpy:1269
+    c "長遠來看，這肯定不可持續吧，如果沒有孩子出生？"
+
+
 translate traditional_chinese ep002_cargo_run_68db55ea:
 
-    # dee "Sometimes one of the males is sent down to do penance."
-    dee ""
 
-# game/episode002.rpy:1270
+    dee "有時一個男人會被派下來做懺悔。"
+
+
 translate traditional_chinese ep002_cargo_run_87b1e66e:
 
-    # dee "We then do what we can to keep the tribe alive."
-    dee ""
 
-# game/episode002.rpy:1271
+    dee "然後我們盡力讓部落存續下來。"
+
+
 translate traditional_chinese ep002_cargo_run_2247a182:
 
-    # dee "The men have already come for any boys that have been born here and taken them topside when they're at a certain age."
-    dee ""
 
-# game/episode002.rpy:1273
+    dee "男人們已經把這裡出生的男孩都接走，並在他們一定年紀時帶到地面上。"
+
+
 translate traditional_chinese ep002_cargo_run_834856f2:
 
-    # dee "But it isn't sustainable, I agree."
-    dee ""
 
-# game/episode002.rpy:1278
+    dee "但這不可持續，我同意。"
+
+
 translate traditional_chinese ep002_cargo_run_0c6598eb:
 
-    # c "Is there anything I could do to help?"
-    c ""
 
-# game/episode002.rpy:1279
+    c "有什麼我能幫得上忙的嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_ae633fa2:
 
-    # c "Couldn't you escape?"
-    c ""
 
-# game/episode002.rpy:1281
+    c "你們不能逃跑嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_9a32175c:
 
-    # dee "We're with too many, it would take hours to empty the caves and the males would surely notice."
-    dee ""
 
-# game/episode002.rpy:1282
+    dee "我們人太多了，要把洞穴清空得花上幾個小時，男人們肯定會察覺的。"
+
+
 translate traditional_chinese ep002_cargo_run_7b39b4a3:
 
-    # dee "Our only hope would be to contact another tribe and tell them of our situation, I'm sure they would intervene to stop this madness."
-    dee ""
 
-# game/episode002.rpy:1283
+    dee "我們唯一的希望是聯繫另一個部落並告訴他們我們的處境，我確信他們會介入來停止這種瘋狂。"
+
+
 translate traditional_chinese ep002_cargo_run_98f70802:
 
-    # c "Do you have a tribe in mind?"
-    c ""
 
-# game/episode002.rpy:1284
+    c "你知道哪個部落可以聯繫嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_c60215a5:
 
-    # dee "Yes, my uncle is chieftain of another tribe, I could convince him."
-    dee ""
 
-# game/episode002.rpy:1285
+    dee "知道，我叔叔是另一個部落的首領，我可以說服他。"
+
+
 translate traditional_chinese ep002_cargo_run_3af0afd8:
 
-    # c "So you should escape, alert him."
-    c ""
 
-# game/episode002.rpy:1286
+    c "所以你該逃跑，警告他。"
+
+
 translate traditional_chinese ep002_cargo_run_4694859b:
 
-    # dee "Maybe...{w} But how?"
-    dee ""
 
-# game/episode002.rpy:1287
+    dee "可能吧...{w} 但怎麼逃？"
+
+
 translate traditional_chinese ep002_cargo_run_85334b83:
 
-    # c "Those guards will be coming for me tomorrow morning, right?"
-    c ""
 
-# game/episode002.rpy:1288
+    c "那些守衛明天早上會來找我，對吧？"
+
+
 translate traditional_chinese ep002_cargo_run_3de9977a:
 
-    # c "I'll create a diversion and you try to sneak out of the cave and flee to that uncle of yours."
-    c ""
 
-# game/episode002.rpy:1289
+    c "我會製造個分神舉動，你試着溜出洞穴，逃向你那位叔叔。"
+
+
 translate traditional_chinese ep002_cargo_run_f68e6b0b:
 
-    # dee "That sounds dangerous, but it might work."
-    dee ""
 
-# game/episode002.rpy:1290
+    dee "這聽起來危險，但或許能成。"
+
+
 translate traditional_chinese ep002_cargo_run_21bf152f:
 
-    # c "No harm in trying, right?"
-    c ""
 
-# game/episode002.rpy:1292
+    c "試一試也沒壞處，對吧？"
+
+
 translate traditional_chinese ep002_cargo_run_eeab7834:
 
-    # dee "We will be punished, for sure, but it might all be worth it."
-    dee ""
 
-# game/episode002.rpy:1294
+    dee "我們肯定會受罰，但這一切或許值得。"
+
+
 translate traditional_chinese ep002_cargo_run_1dcf92a0:
 
-    # "D'ee conferred with the other women to gauge the amount of support for the escape plan."
-    ""
 
-# game/episode002.rpy:1296
+    "迪伊和其他女人商量，評估對逃脫計劃的支持度。"
+
+
 translate traditional_chinese ep002_cargo_run_f9ab1e30:
 
-    # dee "A majority is in favor of the plan, I'm going to do it."
-    dee ""
 
-# game/episode002.rpy:1297
+    dee "大多數人都支持計劃，我打算行動了。"
+
+
 translate traditional_chinese ep002_cargo_run_00d03a6d:
 
-    # c "Great, I hope this will help you get out of this ridiculous situation."
-    c ""
 
-# game/episode002.rpy:1298
+    c "太棒了，我希望這能幫你擺脫這種荒謬處境。"
+
+
 translate traditional_chinese ep002_cargo_run_6ad8cb48:
 
-    # dee "Thank you, you're very kind."
-    dee ""
 
-# game/episode002.rpy:1299
+    dee "謝謝，你太善良了。"
+
+
 translate traditional_chinese ep002_cargo_run_3108371b:
 
-    # dee "We'd like to reward you for your selfless actions."
-    dee ""
 
-# game/episode002.rpy:1300
+    dee "我們想犒勞你無私的義舉。"
+
+
 translate traditional_chinese ep002_cargo_run_0298fafa:
 
-    # c "No need..."
-    c ""
 
-# game/episode002.rpy:1302
+    c "不用…"
+
+
 translate traditional_chinese ep002_cargo_run_290c1ae8:
 
-    # dee "Are you sure?"
-    dee ""
 
-# game/episode002.rpy:1303
+    dee "當真不用？"
+
+
 translate traditional_chinese ep002_cargo_run_3925d46c:
 
-    # dee "You seem sexually compatible with us...{w} we could all have...{w} a good time..."
-    dee ""
 
-# game/episode002.rpy:1308
+    dee "你似乎與我們性相契合…{w}我們可以共度…{w}銷魂時光…"
+
+
 translate traditional_chinese ep002_cargo_run_1a5a72eb:
 
-    # c "It would be an honor."
-    c ""
 
-# game/episode002.rpy:1313
+    c "那將是我的榮幸。"
+
+
 translate traditional_chinese ep002_cargo_run_11dabc9d:
 
-    # "As the entertaining part of the night had passed, it was time for me to do some play-acting and help D'ee escape."
-    ""
 
-# game/episode002.rpy:1315
+    "當夜晚的消遣環節已過，該是來演點戲幫助迪伊脫身的時候了。"
+
+
 translate traditional_chinese ep002_cargo_run_4699acd8:
 
-    # c "There's no need for that, I just want to help you."
-    c ""
 
-# game/episode002.rpy:1316
+    c "不必如此，我只想幫你們。"
+
+
 translate traditional_chinese ep002_cargo_run_93fd66b3:
 
-    # dee "That's a shame, but we understand and won't pressure you."
-    dee ""
 
-# game/episode002.rpy:1318
+    dee "真遺憾，但我們會尊重你，不強求。"
+
+
 translate traditional_chinese ep002_cargo_run_e2fb43ed:
 
-    # "Despite D'ee's promises I didn't sleep very well."
-    ""
 
-# game/episode002.rpy:1319
+    "縱有迪伊的承諾，我仍徹夜難眠。"
+
+
 translate traditional_chinese ep002_cargo_run_54b469da:
 
-    # "Every time I opened my eyes the hungry stares of the women were there and I could swear I felt soft hands touching my skin when I was asleep."
-    ""
 
-# game/episode002.rpy:1320
+    "每次睜眼都撞見女人們饑渴的目光，睡夢中猶覺縴手撫過肌膚。"
+
+
 translate traditional_chinese ep002_cargo_run_180436aa:
 
-    # "One of the women told us that morning had broken, so it was time for me do some play-acting."
-    ""
 
-# game/episode002.rpy:1323
+    "破曉時分某女子示警，該輪到我登場演戲了。"
+
+
 translate traditional_chinese ep002_cargo_run_8a25f175:
 
-    # "As soon as the guards came down, the women started to panic."
-    ""
 
-# game/episode002.rpy:1325
+    "衛兵剛進洞窟，女性們瞬時驚慌騷動。"
+
+
 translate traditional_chinese ep002_cargo_run_d1976fad:
 
-    # woman "He's not waking up!"
-    woman ""
 
-# game/episode002.rpy:1326
+    woman "他醒不過來了！"
+
+
 translate traditional_chinese ep002_cargo_run_7c0be1c2:
 
-    # woman "You have to do something."
-    woman ""
 
-# game/episode002.rpy:1327
+    woman "你們快想想辦法！"
+
+
 translate traditional_chinese ep002_cargo_run_5ef1139a:
 
-    # "Through my semi-closed eyes I made out two guards, the number that was stationed outside."
-    ""
 
-# game/episode002.rpy:1328
+    "我眯縫着眼瞥見兩個衛兵，正是洞外值守的那對。"
+
+
 translate traditional_chinese ep002_cargo_run_8ed397e2:
 
-    # "They approached me with caution as I began to shudder and convulse."
-    ""
 
-# game/episode002.rpy:1329
+    "當我開始渾身抽搐時，他們謹慎地靠近過來。"
+
+
 translate traditional_chinese ep002_cargo_run_5953b793:
 
-    # woman "Do something!"
-    woman ""
 
-# game/episode002.rpy:1333
+    woman "快救人啊！"
+
+
 translate traditional_chinese ep002_cargo_run_6ccc3f50:
 
-    # man "What can we do woman, we know nothing about humans?!"
-    man ""
 
-# game/episode002.rpy:1334
+    man "我們能怎麼辦，女人，我們又不懂人類！"
+
+
 translate traditional_chinese ep002_cargo_run_f56bb297:
 
-    # "I continued my poor impression of an epileptic seizure until I was sure D'ee had enough time to sneak out of the cave and opened my eyes dramatically."
-    ""
 
-# game/episode002.rpy:1336
+    "持續表演着劣質的癲癇發作，估摸迪伊已逃出山洞時，我猛然睜開雙眼。"
+
+
 translate traditional_chinese ep002_cargo_run_0402d7ab:
 
-    # c "YOU!"
-    c ""
 
-# game/episode002.rpy:1337
+    c "你們！"
+
+
 translate traditional_chinese ep002_cargo_run_31fd82c1:
 
-    # man "What?"
-    man ""
 
-# game/episode002.rpy:1338
+    man "怎麼？"
+
+
 translate traditional_chinese ep002_cargo_run_f97210b3:
 
-    # c "Oh...{w} Nothing, just a little fit."
-    c ""
 
-# game/episode002.rpy:1339
+    c "噢…{w}沒事，老毛病犯了。"
+
+
 translate traditional_chinese ep002_cargo_run_1583b381:
 
-    # c "I have those from time to time."
-    c ""
 
-# game/episode002.rpy:1341
+    c "我隔三差五就會這樣。"
+
+
 translate traditional_chinese ep002_cargo_run_1f2fefec:
 
-    # man "You're strange beings, human."
-    man ""
 
-# game/episode002.rpy:1342
+    man "真是種奇怪的生物，人類。"
+
+
 translate traditional_chinese ep002_cargo_run_8ace795f:
 
-    # c "I won't argue with that."
-    c ""
 
-# game/episode002.rpy:1343
+    c "確實是這樣。"
+
+
 translate traditional_chinese ep002_cargo_run_e11cd166:
 
-    # c "Am I free to leave now?"
-    c ""
 
-# game/episode002.rpy:1344
+    c "我現在可以走了嗎？"
+
+
 translate traditional_chinese ep002_cargo_run_9fbb8205:
 
-    # man "We're to escort you to your ship."
-    man ""
 
-# game/episode002.rpy:1345
+    man "我們奉命護送您回艦。"
+
+
 translate traditional_chinese ep002_cargo_run_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode002.rpy:1347
+    c "很好。"
+
+
 translate traditional_chinese ep002_cargo_run_8152b081:
 
-    # c "Thank you ladies, for the hospitality."
-    c ""
 
-# game/episode002.rpy:1348
+    c "感謝款待，女士們。"
+
+
 translate traditional_chinese ep002_cargo_run_f2896879:
 
-    # c "I hope you won't have to remain in these caves forever."
-    c ""
 
-# game/episode002.rpy:1349
+    c "但願你們不用永遠困在這些洞穴裏。"
+
+
 translate traditional_chinese ep002_cargo_run_732350d5:
 
-    # woman "Thank you [p_name], good luck on your journey."
-    woman ""
 
-# game/episode002.rpy:1350
+    woman "謝謝你[p_name]，祝旅途順利。"
+
+
 translate traditional_chinese ep002_cargo_run_d1d69dc1:
 
-    # "The guards clearly didn't have the patience for any more niceties and motioned me to follow them."
-    ""
 
-# game/episode002.rpy:1352
+    "守衛顯然沒耐心再客套，示意我跟着走。"
+
+
 translate traditional_chinese ep002_cargo_run_07d286ec:
 
-    # "They took me straight to the Iron Bastard and left me before the entrance door."
-    ""
 
-# game/episode002.rpy:1353
+    "他們把我徑直帶到\"鋼鐵私生子\"號，丟在艙門前。"
+
+
 translate traditional_chinese ep002_cargo_run_ac83f1c8:
 
-    # "Céline was the first to greet me and after sharing a few details with the crew we headed back to Vulpes Velox."
-    ""
 
-# game/episode002.rpy:1355
+    "瑟琳最先迎接我，和成員們簡短交流後，我們啓程返回迅狐星。"
+
+
 translate traditional_chinese ep002_cargo_run_d7c14a5c:
 
-    # c "I'm not sure if I can gift you new offspring..."
-    c ""
 
-# game/episode002.rpy:1357
+    c "我不確定能否賜你們新後代..."
+
+
 translate traditional_chinese ep002_cargo_run_3ba9fb26:
 
-    # dee "We're not asking you to, but we're really bored here too..."
-    dee ""
 
-# game/episode002.rpy:1358
+    dee "我們不是要求你一定要，但我們在這兒也憋得慌..."
+
+
 translate traditional_chinese ep002_cargo_run_0a0bd948:
 
-    # dee "You seem sexually compatible with us...{w} Would you..."
-    dee ""
 
-# game/episode002.rpy:1363
+    dee "你和我們生理上挺契合...{w}要不要..."
+
+
 translate traditional_chinese ep002_cargo_run_1a5a72eb_1:
 
-    # c "It would be an honor."
-    c ""
 
-# game/episode002.rpy:1368
+    c "榮幸之至。"
+
+
 translate traditional_chinese ep002_cargo_run_76102352:
 
-    # "As the entertaining part of the night had passed, it was time for me to get some sleep and wait for the guards to arrive again."
-    ""
 
-# game/episode002.rpy:1370
+    "夜晚的娛樂環節結束，我該睡會兒等守衛再來了。"
+
+
 translate traditional_chinese ep002_cargo_run_876b1660:
 
-    # c "Sorry, but I just want to get through the night and be on my way."
-    c ""
 
-# game/episode002.rpy:1371
+    c "抱歉，我只想熬過今晚然後趕路回去。"
+
+
 translate traditional_chinese ep002_cargo_run_c64a0913:
 
-    # dee "That's a shame, but we won't pressure you."
-    dee ""
 
-# game/episode002.rpy:1373
+    dee "真遺憾，但我們不勉強。"
+
+
 translate traditional_chinese ep002_cargo_run_e2fb43ed_1:
 
-    # "Despite D'ee's promises I didn't sleep very well."
-    ""
 
-# game/episode002.rpy:1374
+    "儘管迪伊保證過，我還是睡得不安穩。"
+
+
 translate traditional_chinese ep002_cargo_run_54b469da_1:
 
-    # "Every time I opened my eyes the hungry stares of the women were there and I could swear I felt soft hands touching my skin when I was asleep."
-    ""
 
-# game/episode002.rpy:1376
+    "每次睜眼都撞見她們饑渴的目光，而且發誓睡夢中感到柔手在撫摸我的皮膚。"
+
+
 translate traditional_chinese ep002_cargo_run_d1d2337f:
 
-    # "Two guards entered the cave and motioned me to follow them."
-    ""
 
-# game/episode002.rpy:1378
+    "兩名守衛進洞示意我跟上。"
+
+
 translate traditional_chinese ep002_cargo_run_07d286ec_1:
 
-    # "They took me straight to the Iron Bastard and left me before the entrance door."
-    ""
 
-# game/episode002.rpy:1379
+    "他們把我徑直帶到\"鋼鐵私生子\"號，丟在艙門前。"
+
+
 translate traditional_chinese ep002_cargo_run_ac83f1c8_1:
 
-    # "Céline was the first to greet me and after sharing a few details with the crew we headed back to Vulpes Velox."
-    ""
 
-# game/episode002.rpy:1410
+    "瑟琳最先迎接我，和成員們簡短交流後，我們啓程返回迅狐星"
+
+
 translate traditional_chinese ep002_ro_orgy_40347dfb:
 
-    # dee "Lie down with us then and relax..."
-    dee ""
 
-# game/episode002.rpy:1411
+    dee "那就躺下放鬆吧..."
+
+
 translate traditional_chinese ep002_ro_orgy_4189d165:
 
-    # "I did as I was told and immediately felt soft hands undressing me."
-    ""
 
-# game/episode002.rpy:1413
+    "我照做後，立即感到柔手在幫我寬衣。"
+
+
 translate traditional_chinese ep002_ro_orgy_aefe8f84:
 
-    # "The women worked quickly, but delicately and I just gaped at the writhing mass of naked bodies right inside my grasp."
-    ""
 
-# game/episode002.rpy:1419
+    "女人們幹得又快又輕柔，而我只是目瞪口呆地盯着就在我手中扭動的那堆赤裸身體。"
+
+
 translate traditional_chinese ep002_ro_orgy_cd941593:
 
-    # "D'ee pressed her cool lips on mine and we exchanged a kiss fueled by mutual longing and desire."
-    ""
 
-# game/episode002.rpy:1420
+    "迪伊把她涼涼的嘴脣壓在我的上面，我們交換了一個充滿相互渴望和欲望的吻。"
+
+
 translate traditional_chinese ep002_ro_orgy_5f7f9d64:
 
-    # dee "Just relax and let us fuck...{w} you..."
-    dee ""
 
-# game/episode002.rpy:1422
+    dee "就放鬆點，讓我們操...{w}你..."
+
+
 translate traditional_chinese ep002_ro_orgy_d4999132:
 
-    # "She presented her breasts, nipples erect, and I started licking and sucking them, eliciting moans from the alien woman."
-    ""
 
-# game/episode002.rpy:1423
+    "她獻出她的乳房，乳頭勃起着，我開始舔吸它們，引來了那個外星女人的呻吟。"
+
+
 translate traditional_chinese ep002_ro_orgy_812a5c2e:
 
-    # "My view was obscured by the beautiful ass of another woman, but I knew they'd freed my growing erection, because I felt the tell-tale sensation of tongue tips darting over the glans."
-    ""
 
-# game/episode002.rpy:1425
+    "我的視線被另一個女人的漂亮屁股擋住了，但我知道她們釋放了我正在脹大的勃起，因爲我明顯感覺到了舌尖在龜頭上掃來掃去。"
+
+
 translate traditional_chinese ep002_ro_orgy_7da5670c:
 
-    # "Uttering coherent speech was becoming harder and harder, so I resorted to encouraging grunts."
-    ""
 
-# game/episode002.rpy:1426
+    "說出連貫的話越來越困難了，所以我只能改用鼓勵的哼聲。"
+
+
 translate traditional_chinese ep002_ro_orgy_e3d9a63d:
 
-    # "My roar echoed throughout the cave as one of the women engulfed my dripping cock with her mouth and started sucking."
-    ""
 
-# game/episode002.rpy:1428
+    "我的吼聲響徹了整個洞穴，當其中一個女人用嘴吞下了我滴水的雞巴並開始吮吸的時候。"
+
+
 translate traditional_chinese ep002_ro_orgy_bffcaa12:
 
-    # "D'ee's breasts were wet from my attentions and she bowed down for another kiss."
-    ""
 
-# game/episode002.rpy:1429
+    "迪伊的乳房被我弄得溼漉漉的，她彎下腰請求另一個吻。"
+
+
 translate traditional_chinese ep002_ro_orgy_a5503968:
 
-    # dee "Have you ever tasted R'o pussy?"
-    dee ""
 
-# game/episode002.rpy:1430
+    dee "你嘗過拉歐人的陰部嗎？"
+
+
 translate traditional_chinese ep002_ro_orgy_ea2d4c28:
 
-    # c "N-never..."
-    c ""
 
-# game/episode002.rpy:1432
+    c "從-從來沒有..."
+
+
 translate traditional_chinese ep002_ro_orgy_37c3d0bf:
 
-    # "D'ee proceeded to lower herself on my face and I felt her sex press against my lips."
-    ""
 
-# game/episode002.rpy:1433
+    "迪伊繼續降低身子到我的臉上，我感覺她的陰部壓在我的嘴脣上。"
+
+
 translate traditional_chinese ep002_ro_orgy_c363a372:
 
-    # "I eagerly opened my mouth and stuck out my tongue to split her labia and ate her out."
-    ""
 
-# game/episode002.rpy:1435
+    "我急切地張開嘴，伸出舌頭分開她的陰脣，把她舔光。"
+
+
 translate traditional_chinese ep002_ro_orgy_17652869:
 
-    # "All the while, no less than three women were taking turns sucking my dick, making it very hard not to blast their faces with a fountain of cum."
-    ""
 
-# game/episode002.rpy:1436
+    "與此同時，至少三個女人輪流吮吸着我的雞巴，讓我很難不把一股精液噴泉射到她們臉上。"
+
+
 translate traditional_chinese ep002_ro_orgy_aa95aa1c:
 
-    # "R'o women got apparently very wet, because D'ee's juices started flowing freely over my face as I licked her ferociously."
-    ""
 
-# game/episode002.rpy:1438
+    "拉歐女人顯然很容易溼透，因爲當我狂舔她時，迪伊的汁液開始自由流到我臉上。"
+
+
 translate traditional_chinese ep002_ro_orgy_a1a48040:
 
-    # dee "Keep going like that!"
-    dee ""
 
-# game/episode002.rpy:1439
+    dee "繼續保持那樣！"
+
+
 translate traditional_chinese ep002_ro_orgy_1a87089b:
 
-    # dee "[p_name], oh [p_name]!"
-    dee ""
 
-# game/episode002.rpy:1441
+    dee "[p_name], 哦 [p_name]!"
+
+
 translate traditional_chinese ep002_ro_orgy_600b7501:
 
-    # "Alien as she was, I knew D'ee was close to orgasm, so I doubled my efforts."
-    ""
 
-# game/episode002.rpy:1442
+    "儘管她是外星人，但我知道迪伊快高潮了，所以我加倍努力。"
+
+
 translate traditional_chinese ep002_ro_orgy_8eb13946:
 
-    # "When she released, my face was flooded with her fragrant ejaculate and I continued to lick her until the flow stopped."
-    ""
 
-# game/episode002.rpy:1444
+    "當她釋放時，我的臉被她的香精淹沒了，我繼續舔她直到水流停止。"
+
+
 translate traditional_chinese ep002_ro_orgy_354665de:
 
-    # "The cave was filled with sounds of women moaning as I pleasured D'ee and the others pleasured themselves."
-    ""
 
-# game/episode002.rpy:1445
+    "洞穴裏充滿了女人呻吟的聲音，當我在取悅迪伊，而其他人在自慰時。"
+
+
 translate traditional_chinese ep002_ro_orgy_1ce6e9a0:
 
-    # "The women going down on my cock were playing with my balls and licking my taint, driving me absolutely crazy."
-    ""
 
-# game/episode002.rpy:1446
+    "那些在給我口交的女人正玩着我的睾丸，還舔着我的會陰，讓我簡直要瘋了。"
+
+
 translate traditional_chinese ep002_ro_orgy_4108d29e:
 
-    # "I couldn't stave off my orgasm any longer and let go of any remnant of bodily control."
-    ""
 
-# game/episode002.rpy:1448
+    "我再也無法抑制高潮了，連身體最後一點控制都徹底釋放了。"
+
+
 translate traditional_chinese ep002_ro_orgy_306ca561:
 
-    # "D'ee crept off my face, revealing my cock splashing semen over the faces of the three eager R'o women."
-    ""
 
-# game/episode002.rpy:1450
+    "迪伊從我臉上爬下，露出我的陰莖將精液噴在三個饑渴的拉歐女人的臉上。"
+
+
 translate traditional_chinese ep002_ro_orgy_19d21cb8:
 
-    # "They began to kiss each other and lap up my cum, savoring the taste, as soon as I was done ejaculating."
-    ""
 
-# game/episode002.rpy:1451
+    "我剛射完精，她們就互相親吻並舔舐我的精液，還回味着那味道。"
+
+
 translate traditional_chinese ep002_ro_orgy_da8e3e27:
 
-    # dee "Are you up for more?"
-    dee ""
 
-# game/episode002.rpy:1452
+    dee "你還要再來一輪嗎？"
+
+
 translate traditional_chinese ep002_ro_orgy_b6d7a311:
 
-    # c "Fuck yes!"
-    c ""
 
-# game/episode002.rpy:1453
+    c "操，當然要！"
+
+
 translate traditional_chinese ep002_ro_orgy_bdb424ed:
 
-    # "Having been up close with R'o pussy, I yearned to fuck one, preferably multiple, long and hard."
-    ""
 
-# game/episode002.rpy:1454
+    "親身體驗過拉歐人的小穴後，我渴望操一個，最好是多幾個，操得又長又用力。"
+
+
 translate traditional_chinese ep002_ro_orgy_630aed25:
 
-    # "It was quickly decided among the women that D'ee was granted the privilege of getting fucked first."
-    ""
 
-# game/episode002.rpy:1456
+    "女人們迅速決定了迪伊獲得被先操的特權。"
+
+
 translate traditional_chinese ep002_ro_orgy_b0b0323a:
 
-    # "She grabbed my dick resolutely and pushed it against her moist lips, relishing the feeling."
-    ""
 
-# game/episode002.rpy:1458
+    "她果斷地抓住我的雞巴，頂在她溼漉漉的陰脣上，享受着那種感覺。"
+
+
 translate traditional_chinese ep002_ro_orgy_82802d16:
 
-    # "The R'o woman then took my full length at once, her ass bouncing beautifully on impact."
-    ""
 
-# game/episode002.rpy:1459
+    "那位拉歐女人一下子全吞進去，她的屁股在撞擊下彈得真漂亮。"
+
+
 translate traditional_chinese ep002_ro_orgy_34a0707c:
 
-    # "D'ee obviously enjoyed the feeling of my hard cock penetrating her depths, because she smiled at me in delight and started to ride me."
-    ""
 
-# game/episode002.rpy:1460
+    "迪伊顯然享受我的硬雞巴插進她深處的感覺，因爲她開心地衝我笑，並開始騎我。"
+
+
 translate traditional_chinese ep002_ro_orgy_316a2a07:
 
-    # "I didn't think she could get any wetter, but pretty soon we were both covered in the nectar flowing from her pussy."
-    ""
 
-# game/episode002.rpy:1461
+    "我本以爲她不可能更溼了，但很快我倆都沾滿了從她小穴流出的蜜汁。"
+
+
 translate traditional_chinese ep002_ro_orgy_f12596a5:
 
-    # "Her natural lubricant allowed me to penetrate her deeply, something that gave D'ee immense pleasure."
-    ""
 
-# game/episode002.rpy:1463
+    "她的天然潤滑液讓我能深入插她，這讓迪伊爽翻了。"
+
+
 translate traditional_chinese ep002_ro_orgy_e5609fd3:
 
-    # "As I played with her full breasts and firm nipples she moaned long and hard, her voice echoing in the night."
-    ""
 
-# game/episode002.rpy:1464
+    "我揉捏着她飽滿的乳房和堅挺的乳頭時，她發出了冗長用力的呻吟，聲音在夜晚迴蕩。"
+
+
 translate traditional_chinese ep002_ro_orgy_4598dabf:
 
-    # dee "Aaaah!!!"
-    dee ""
 
-# game/episode002.rpy:1465
+    dee "啊啊啊！！！"
+
+
 translate traditional_chinese ep002_ro_orgy_005cc618:
 
-    # dee "Ooooh!!!"
-    dee ""
 
-# game/episode002.rpy:1470
+    dee "哦哦哦！！！"
+
+
 translate traditional_chinese ep002_ro_orgy_a1360267:
 
-    # man "It has begun."
-    man ""
 
-# game/episode002.rpy:1472
+    man "它開始了。"
+
+
 translate traditional_chinese ep002_ro_orgy_f4a56db4:
 
-    # man "Terrible..."
-    man ""
 
-# game/episode002.rpy:1475
+    man "糟糕了..."
+
+
 translate traditional_chinese ep002_ro_orgy_1a6d85a1:
 
-    # "D'ee shifted her body to allow me to plunge new-found depths inside her love tunnel."
-    ""
 
-# game/episode002.rpy:1476
+    "迪伊挪動身體，讓我能插進她愛穴中更深的新部位。"
+
+
 translate traditional_chinese ep002_ro_orgy_86acc8db:
 
-    # "The feeling aroused D'ee even more and her pussy juices became a steady flow, a puddle forming beneath our bodies."
-    ""
 
-# game/episode002.rpy:1477
+    "這種感覺讓迪伊更興奮了，她的小穴汁液源源流出，在我們身下積起一汪水。"
+
+
 translate traditional_chinese ep002_ro_orgy_d692a709:
 
-    # "The R'o woman began to tremble and convulse, her body overtaken by her orgasm."
-    ""
 
-# game/episode002.rpy:1479
+    "那位拉歐女人開始顫抖並抽搐，身體徹底被高潮佔據了。"
+
+
 translate traditional_chinese ep002_ro_orgy_14f41967:
 
-    # "The other women looked in awe as D'ee screamed at the top of her lungs, experiencing a climax so intense that she nearly lost control of her senses."
-    ""
 
-# game/episode002.rpy:1480
+    "其他女人敬畏地看着迪伊放聲尖叫，她高潮來得太猛差點失去知覺。"
+
+
 translate traditional_chinese ep002_ro_orgy_bd42eba8:
 
-    # "Incapacitated as D'ee was, I took over and continued to pound her wet hole, close to orgasming myself."
-    ""
 
-# game/episode002.rpy:1486
+    "趁着迪伊渾身癱軟，我接手動作繼續抽插她溼漉漉的蜜穴，自己也快射了。"
+
+
 translate traditional_chinese ep002_ro_orgy_b564b30f:
 
-    # "My cock belonged inside her and when the moment of release came I stayed firmly inside her cunt as the seed started flowing."
-    ""
 
-# game/episode002.rpy:1489
+    "我的肉莖就該埋在她體內，當釋放時刻來臨，我牢牢頂住她穴心開始灌入精種。"
+
+
 translate traditional_chinese ep002_ro_orgy_03b9d99e:
 
-    # "Having released my last volley of cum, I slipped out of D'ee's gash and a splash of her ejaculate, mixed with mine started to drip on the ground."
-    ""
 
-# game/episode002.rpy:1491
+    "噴完最後一波精液後我拔出肉棒，迪伊穴裏湧出的愛液混着我的精水濺落在地。"
+
+
 translate traditional_chinese ep002_ro_orgy_eaf66f90:
 
-    # "Wanting to make my mark on her, I opted for her beautifully toned belly and pulled out as soon as my seed started flowing."
-    ""
 
-# game/episode002.rpy:1494
+    "想在她身上留印記，我看中她線條優美的腹部，精液剛湧出就立即拔了出來。"
+
+
 translate traditional_chinese ep002_ro_orgy_08b173b5:
 
-    # "While releasing volleys of cum on her belly, D'ee's gash released a splash of her ejaculate, mixing it with mine."
-    ""
 
-# game/episode002.rpy:1496
+    "我往她肚子射精時，迪伊的蜜穴也噴出愛液，與我的精漿交融在一起。"
+
+
 translate traditional_chinese ep002_ro_orgy_69a151a7:
 
-    # "Thoroughly exhausted, I lay a while with D'ee in my arms, the other women looking a little jealous at us."
-    ""
 
-# game/episode002.rpy:1497
+    "精疲力盡的我摟着迪伊躺了會兒，其他女人羨慕嫉妒地盯着我們。"
+
+
 translate traditional_chinese ep002_ro_orgy_0aa20c1a:
 
-    # "After an hour of laying with D'ee, a murmur started, several women were conferring among themselves."
-    ""
 
-# game/episode002.rpy:1499
+    "和迪伊溫存一小時後，人羣響起竊竊私語，幾個女人正交頭接耳。"
+
+
 translate traditional_chinese ep002_ro_orgy_613a43ec:
 
-    # "From the corner of my eye I saw several women lining themselves up, getting on all fours, asses in the air."
-    ""
 
-# game/episode002.rpy:1500
+    "餘光瞥見幾個女人排成隊列趴跪着，屁股高高撅向空中。"
+
+
 translate traditional_chinese ep002_ro_orgy_4c4d7c29:
 
-    # "One R'o woman came up to D'ee and me and looked at us inquisitively."
-    ""
 
-# game/episode002.rpy:1503
+    "有位拉歐人女子走到我和迪伊面前，探究的目光打量着我們。"
+
+
 translate traditional_chinese ep002_ro_orgy_a8eeb6b6:
 
-    # woman "We know it's selfish, but we want you too, [p_name]..."
-    woman ""
 
-# game/episode002.rpy:1504
+    woman "我們知道這樣很貪心，但也想要你，[p_name]..."
+
+
 translate traditional_chinese ep002_ro_orgy_4cc9aca0:
 
-    # "Something about that display of asses and the way she phrased the question made me forget all exhaustion."
-    ""
 
-# game/episode002.rpy:1506
+    "這排撅起的屁股和她的問話方式，讓我瞬間忘記所有疲憊。"
+
+
 translate traditional_chinese ep002_ro_orgy_0afe0c63:
 
-    # "I got up and kissed the woman."
-    ""
 
-# game/episode002.rpy:1507
+    "我起身親吻了這個女人。"
+
+
 translate traditional_chinese ep002_ro_orgy_665a5cc3:
 
-    # c "I want you all too!"
-    c ""
 
-# game/episode002.rpy:1508
+    c "我也要幹遍你們！"
+
+
 translate traditional_chinese ep002_ro_orgy_c9fc12c6:
 
-    # "She smiled and positioned herself on all fours next to the other women."
-    ""
 
-# game/episode002.rpy:1510
+    "她嫣然一笑，挨着其他女人擺出四肢着地的姿勢。"
+
+
 translate traditional_chinese ep002_ro_orgy_6d07b8a7:
 
-    # "I grabbed one of the women's flanks and pushed my cock against her pussy."
-    ""
 
-# game/episode002.rpy:1511
+    "我抓起其中一女的腰胯，將怒張的肉棒抵上她濡溼的陰戶。"
+
+
 translate traditional_chinese ep002_ro_orgy_098753a4:
 
-    # "She moaned in encouragement, so I didn't hesitate and thrust my dick between the lips of her gash."
-    ""
 
-# game/episode002.rpy:1513
+    "她發出鼓勵的呻吟，我便毫不遲疑地把陽具捅進她兩片陰脣之間。"
+
+
 translate traditional_chinese ep002_ro_orgy_400f0246:
 
-    # "The woman wasn't as wet as D'ee, but the sublime, ribbed feel of her tunnel was just as good."
-    ""
 
-# game/episode002.rpy:1514
+    "這女人沒有迪伊那麼溼，但她的隧道那種絕妙的、凹凸有致的感覺同樣爽死了。"
+
+
 translate traditional_chinese ep002_ro_orgy_b56837b1:
 
-    # "Because I'd orgasmed twice already I'd gotten better at delaying my next orgasm, so I was able to treat her pussy right until it was time to go to her lovely neighbor."
-    ""
 
-# game/episode002.rpy:1516
+    "因爲我已經高潮過兩次，變得更擅長延遲下一次高潮，所以我就能好好伺候她的陰部，直到該去她可愛鄰居那兒的時候。"
+
+
 translate traditional_chinese ep002_ro_orgy_a83ee627:
 
-    # "Fucking women in series like that was a strange notion at first, but the myriad of feelings their pussies gave me, more than made up for the awkwardness."
-    ""
 
-# game/episode002.rpy:1518
+    "像這樣連續操女人，起初覺得挺怪的，但她們陰部給我的無數種感覺，爽得讓那點尷尬不值一提。"
+
+
 translate traditional_chinese ep002_ro_orgy_199cc267:
 
-    # "One of the women was even wetter than D'ee and I had a hard time keeping my cock inside her."
-    ""
 
-# game/episode002.rpy:1519
+    "其中有個女人比迪伊還溼，我差點兒都沒法把陰莖保持插在她裡面。"
+
+
 translate traditional_chinese ep002_ro_orgy_2a8d84ba:
 
-    # "By that time I was so horny, I smeared her ejaculate all over her body and mine, so our skin glistened beautifully in the torchlight."
-    ""
 
-# game/episode002.rpy:1521
+    "我慾火焚身，把她的愛液抹遍她的全身和我身上，我倆的皮膚在火炬光下亮晶晶地閃着美極了。"
+
+
 translate traditional_chinese ep002_ro_orgy_a64ce5af:
 
-    # "I felt I could fuck these glorious women for hours on end, even start at the beginning again, until I entered the last girl."
-    ""
 
-# game/episode002.rpy:1522
+    "我覺得能一口氣操這些美豔娘們兒好幾小時，甚至從頭再來一遍，直到進入最後一個妞兒。"
+
+
 translate traditional_chinese ep002_ro_orgy_2780722a:
 
-    # "She was the youngest woman in the row, with beautiful, perky breasts and a very sweet face."
-    ""
 
-# game/episode002.rpy:1524
+    "她是這排妞裏最年輕的，奶子又美又翹，臉蛋兒甜滋滋的。"
+
+
 translate traditional_chinese ep002_ro_orgy_fe651280:
 
-    # "D'ee came up to me and whispered something in my ear."
-    ""
 
-# game/episode002.rpy:1525
+    "迪伊走到我身邊，在我耳邊低聲說了句話。"
+
+
 translate traditional_chinese ep002_ro_orgy_99e59645:
 
-    # dee "Be gentle with her...{w} she's still a virgin..."
-    dee ""
 
-# game/episode002.rpy:1527
+    dee "對她溫柔點...{w} 她還是處女..."
+
+
 translate traditional_chinese ep002_ro_orgy_8bb134b5:
 
-    # woman "I'm ready for him, mother..."
-    woman ""
 
-# game/episode002.rpy:1528
+    woman "我爲他準備好了，媽媽..."
+
+
 translate traditional_chinese ep002_ro_orgy_1e1ce468:
 
-    # "Her sweet voice nearly made me lose it and I bent over to kiss her first, to shake the feeling of immediate release."
-    ""
 
-# game/episode002.rpy:1530
+    "她那甜美嗓音差點兒讓我立馬射了，我彎腰先親了她一口，壓下立刻噴發的衝動。"
+
+
 translate traditional_chinese ep002_ro_orgy_bb701a38:
 
-    # "My fingers trailed her small breasts, lingering at the nipples and she gasped in ecstasy."
-    ""
 
-# game/episode002.rpy:1531
+    "我的手指蹭過她小巧的奶子，在乳頭上磨蹭着，她爽得倒吸一口氣。"
+
+
 translate traditional_chinese ep002_ro_orgy_4c238042:
 
-    # c "You're very beautiful."
-    c ""
 
-# game/episode002.rpy:1532
+    c "你真美。"
+
+
 translate traditional_chinese ep002_ro_orgy_ebef9682:
 
-    # "The girl just giggled and wiggled slightly with her ass."
-    ""
 
-# game/episode002.rpy:1534
+    "女孩只是咯咯笑着，輕輕扭了下屁股。"
+
+
 translate traditional_chinese ep002_ro_orgy_96312d9e:
 
-    # "I took the hint and lay my erection between her ass cheeks."
-    ""
 
-# game/episode002.rpy:1535
+    "我懂意思了，把老二擱在她的屁溝間。"
+
+
 translate traditional_chinese ep002_ro_orgy_c6fed8df:
 
-    # "Trailing my finger over her spine I noticed that she was holding her breath, with my other hand I pushed my cock against her labia."
-    ""
 
-# game/episode002.rpy:1537
+    "手指沿着她的脊椎撫摸，我注意到她屏住呼吸，另一隻手順勢把老二頂向她的陰脣。"
+
+
 translate traditional_chinese ep002_ro_orgy_9ef9a654:
 
-    # "The girl gritted her teeth as my glans entered her pussy, but she was already so wet I didn't have any trouble sliding inside her."
-    ""
 
-# game/episode002.rpy:1538
+    "女孩咬着牙關，當我的龜頭插進她小穴，但她早溼透了，我輕而易舉就滑了進去。"
+
+
 translate traditional_chinese ep002_ro_orgy_898afbcb:
 
-    # "Her cherry was a treat, very tight and very moist."
-    ""
 
-# game/episode002.rpy:1539
+    "她的小穴超絕，又緊又溼，滋味妙不可言。"
+
+
 translate traditional_chinese ep002_ro_orgy_d64184df:
 
-    # "Already with my first thrusts I had her moaning with pleasure."
-    ""
 
-# game/episode002.rpy:1541
+    "最初的幾次抽插就讓她舒服得呻吟起來。"
+
+
 translate traditional_chinese ep002_ro_orgy_1039bde9:
 
-    # "I grabbed one of her firm breasts with one hand and grabbed the youthful flesh of her buttocks with the other and fucked her boldly."
-    ""
 
-# game/episode002.rpy:1542
+    "我一手抓着她堅實的乳房，另一手攥緊她臀部的青春嫩肉，大膽地操幹起來。"
+
+
 translate traditional_chinese ep002_ro_orgy_ecb1a522:
 
-    # "She was salivating as each thrust went deeper inside her hitherto unexplored vagina."
-    ""
 
-# game/episode002.rpy:1543
+    "每一次深入她未經探索的陰道時，她都淌着口水。"
+
+
 translate traditional_chinese ep002_ro_orgy_1b096069:
 
-    # "Her ejaculate was leaking in abundance on the floor and streaming along her muscular thighs."
-    ""
 
-# game/episode002.rpy:1545
+    "她的淫水在地板上漫溢開來，順着肌肉發達的大腿流淌。"
+
+
 translate traditional_chinese ep002_ro_orgy_d7b1ec0b:
 
-    # woman "Aaah! [p_name]!"
-    woman ""
 
-# game/episode002.rpy:1546
+    woman "啊啊！[p_name]！"
+
+
 translate traditional_chinese ep002_ro_orgy_36805f77:
 
-    # "I knew I had her close, so I fucked her a little faster, grabbing her ass and pulling her firmly onto my cock."
-    ""
 
-# game/episode002.rpy:1547
+    "我知道她快高潮了，於是加快抽插速度，抓着她的屁股用力按向我的肉棒。"
+
+
 translate traditional_chinese ep002_ro_orgy_b6a82556:
 
-    # "Her hooded eyes fluttered open as she was hit with the overpowering waves of her first vaginal orgasm."
-    ""
 
-# game/episode002.rpy:1549
+    "當首次陰道高潮的強烈浪潮擊中她時，她原本半閉的雙眼猛地睜開。"
+
+
 translate traditional_chinese ep002_ro_orgy_b98b7dd1:
 
-    # woman "[p_name]! I'm cumming!!!"
-    woman ""
 
-# game/episode002.rpy:1550
+    woman "[p_name]！我要去了！！！"
+
+
 translate traditional_chinese ep002_ro_orgy_780c20d6:
 
-    # "The sound of her sweet voice, edged with a little disbelief, combined with her constricting vagina, made me spent my seed."
-    ""
 
-# game/episode002.rpy:1555
+    "她甜美的嗓音帶着一絲不信，配合陰道陣陣緊縮，使我射出了精液。"
+
+
 translate traditional_chinese ep002_ro_orgy_ecc4ad1a:
 
-    # "Determined her deflowering should be a proper fuck, I remained inside her and let my semen flow freely."
-    ""
 
-# game/episode002.rpy:1558
+    "決心讓她的破處經歷足夠完整，我留在她體內任精液自由流淌。"
+
+
 translate traditional_chinese ep002_ro_orgy_afb12bb6:
 
-    # woman "Mmmm, it f-feels so w-warm!"
-    woman ""
 
-# game/episode002.rpy:1560
+    woman "嗯嗯，感-感覺好-好暖！"
+
+
 translate traditional_chinese ep002_ro_orgy_e5c17012:
 
-    # "We both collapsed to the floor, where I held the still-trembling girl tightly a smile on her face, pussy juice and seed dripping out of her on the floor."
-    ""
 
-# game/episode002.rpy:1562
+    "我們雙雙癱倒在地，我緊摟着仍在顫抖的女孩，她嘴角含笑，穴裏的汁液和精液滴落在地板上。"
+
+
 translate traditional_chinese ep002_ro_orgy_410f9158:
 
-    # "Determined to reward her body after such a thorough deflowering, I pulled my cock out and sprayed her back with a wealth of semen."
-    ""
 
-# game/episode002.rpy:1565
+    "爲犒賞她歷經徹底破身後的身體，我拔出肉棒將大量精液噴射在她背上。"
+
+
 translate traditional_chinese ep002_ro_orgy_35df4f71:
 
-    # woman "Mmmm, there's so much of it!"
-    woman ""
 
-# game/episode002.rpy:1567
+    woman "嗯嗯，有這麼多呢！"
+
+
 translate traditional_chinese ep002_ro_orgy_46df3ac7:
 
-    # "We both collapsed to the floor, where I held the still-trembling girl tightly a smile on her face, pussy juice dripping out of her on the floor."
-    ""
 
-# game/episode002.rpy:1568
+    "我們雙雙癱倒在地，我緊摟着仍在顫抖的女孩，她嘴角含笑，小穴湧出的汁液滴落在地板上。"
+
+
 translate traditional_chinese ep002_ro_orgy_33646bcf:
 
-    # "After a while, I heard D'ee's voice from afar."
-    ""
 
-# game/episode002.rpy:1569
+    "片刻後我聽見遠處傳來迪伊的聲音。"
+
+
 translate traditional_chinese ep002_ro_orgy_c474189d:
 
-    # "I was a little worried the women were up for more, because I was completely battered after so many hours of pleasure."
-    ""
 
-# game/episode002.rpy:1571
+    "我有點擔心女人們意猶未盡，畢竟縱慾數小時後我已筋疲力竭。"
+
+
 translate traditional_chinese ep002_ro_orgy_29946eef:
 
-    # dee "Morning is about to break."
-    dee ""
 
-# game/episode002.rpy:1572
+    dee "天快亮了。"
+
+
 translate traditional_chinese ep002_ro_orgy_7cd02804:
 
-    # dee "I speak for all the women, when I say thank you for the incredible night you've granted us."
-    dee ""
 
-# game/episode002.rpy:1573
+    dee "我代表所有女性感謝你賜予的這個美妙夜晚。"
+
+
 translate traditional_chinese ep002_ro_orgy_87191a77:
 
-    # c "I feel I should thank you!"
-    c ""
 
-# game/episode002.rpy:1574
+    c "該說謝謝的是我才對！"
+
+
 translate traditional_chinese ep002_ro_orgy_7f620ce6:
 
-    # dee "No need, we just took what we wanted..."
-    dee ""
 
-# game/episode002.rpy:1575
+    dee "沒必要，我們只是拿了想要的..."
+
+
 translate traditional_chinese ep002_ro_orgy_ced37d75:
 
-    # c "Trust me, it felt as good for me as it did for you."
-    c ""
 
-# game/episode002.rpy:1576
+    c "相信我，這對我和對你一樣愉快。"
+
+
 translate traditional_chinese ep002_ro_orgy_a1bf45c6:
 
-    # dee "Good, in that case it was an exchange as equals."
-    dee ""
 
-# game/episode002.rpy:1591
+    dee "很好，這樣的話，那是平等的交換。"
+
+
 translate traditional_chinese ep002_university_acc28a06:
 
-    # "Thyia didn't lie, the ship had a functioning S-K drive and after a series of tedious jump-gate crossings, we arrived as planned in orbit of Ryūjin Prime where Aunt Nadya was supposed to live and work."
-    ""
 
-# game/episode002.rpy:1593
+    "塞婭沒說謊，這艘船有一個可用的西拉斯-卡岑引擎，在經過一系列繁瑣的跳躍門穿越後，我們按計劃到達了龍神主星的軌道，娜迪亞阿姨本該在那裡生活和工作。"
+
+
 translate traditional_chinese ep002_university_960535ee:
 
-    # "Thyia didn't lie, the ship had a functioning S-K drive and after a series of tedious jump-gate crossings, we arrived as planned in orbit of Ryūjin Prime where Nadya was supposed to live and work."
-    ""
 
-# game/episode002.rpy:1596
+    "塞婭沒說謊，這艘船有一個可用的西拉斯-卡岑引擎，在經過一系列繁瑣的跳躍門穿越後，我們按計劃到達了龍神主星的軌道，娜迪亞本該在那裡生活和工作。"
+
+
 translate traditional_chinese ep002_university_130c40a6:
 
-    # "After a series of tedious jump-gate crossings, we arrived as planned in orbit of Ryūjin Prime where Aunt Nadya was supposed to live and work."
-    ""
 
-# game/episode002.rpy:1598
+    "在經過一系列繁瑣的跳躍門穿越後，我們按計劃到達了龍神主星的軌道，娜迪亞阿姨本該在那裡生活和工作。"
+
+
 translate traditional_chinese ep002_university_98671840:
 
-    # "After a series of tedious jump-gate crossings, we arrived as planned in orbit of Ryūjin Prime where Nadya was supposed to live and work."
-    ""
 
-# game/episode002.rpy:1600
+    "在經過一系列繁瑣的跳躍門穿越後，我們按計劃到達了龍神主星的軌道，娜迪亞本該在那裡生活和工作。"
+
+
 translate traditional_chinese ep002_university_1cd8a741:
 
-    # "As soon as we docked our ship's computer was bombarded with information about the planet."
-    ""
 
-# game/episode002.rpy:1601
+    "一停靠，我們船上的電腦就被關於這個星球的信息轟炸了。"
+
+
 translate traditional_chinese ep002_university_4722ce0a:
 
-    # "Ryūjin Prime was a planet consumed by a vast metropolis, everything else was just a barren wasteland where nobody dared to live."
-    ""
 
-# game/episode002.rpy:1628
+    "龍神主星是一個被一個巨大的大都會吞噬的星球，其他地方只是一片荒無人煙的荒地，沒人敢居住。"
+
+
 translate traditional_chinese ep002_university_d3fe2899:
 
-    # "Céline waded through all the offers about entertainment, ship repairs, jobs to find the address of the university."
-    ""
 
-# game/episode002.rpy:1630
+    "瑟琳費力地在所有關於娛樂、船隻維修、工作的廣告中，找到大學的地址。"
+
+
 translate traditional_chinese ep002_university_0e97fb5c:
 
-    # "I decided on a small party consisting of Céline and Vess to go look for my aunt and cousin."
-    ""
 
-# game/episode002.rpy:1632
+    "我決定選一個小分隊，包括瑟琳和薇絲，去尋找我的姨媽和表妹。"
+
+
 translate traditional_chinese ep002_university_30a5ebce:
 
-    # "I decided on a small party consisting of Céline and Vess to go look for Nadya and Aven."
-    ""
 
-# game/episode002.rpy:1634
+    "我決定選一個小分隊，包括瑟琳和薇絲，去尋找娜迪亞和艾文。"
+
+
 translate traditional_chinese ep002_university_00eba11e:
 
-    # ve "I'm glad you chose me to come with you."
-    ve ""
 
-# game/episode002.rpy:1635
+    ve "我很高興你選我跟你一起來。"
+
+
 translate traditional_chinese ep002_university_3eeae15d:
 
-    # ve "I felt so cooped up in the Enfield and now in the Bastard."
-    ve ""
 
-# game/episode002.rpy:1636
+    ve "我在\"恩菲爾德\"號上憋得慌，現在在\"私生子\"號上也一樣。"
+
+
 translate traditional_chinese ep002_university_adb9ba4e:
 
-    # c "I can understand that."
-    c ""
 
-# game/episode002.rpy:1637
+    c "我能理解。"
+
+
 translate traditional_chinese ep002_university_29d43502:
 
-    # c "Have you ever been off-planet?"
-    c ""
 
-# game/episode002.rpy:1638
+    c "你出過星球嗎？"
+
+
 translate traditional_chinese ep002_university_f0bfbc10:
 
-    # ve "No, I haven't, not since..."
-    ve ""
 
-# game/episode002.rpy:1639
+    ve "不，我沒有，自從..."
+
+
 translate traditional_chinese ep002_university_8f5baa82:
 
-    # c "Ryūjin is going to be an experience in that case."
-    c ""
 
-# game/episode002.rpy:1640
+    c "那龍神就會是個新體驗了。"
+
+
 translate traditional_chinese ep002_university_2a57d2c2:
 
-    # c "It's going to be crowded, loud and there'll be lots to see."
-    c ""
 
-# game/episode002.rpy:1641
+    c "那裡會很擁擠、嘈雜，還有很多可看的。"
+
+
 translate traditional_chinese ep002_university_89041c9b:
 
-    # c "Please stick with either Céline or me, because the streets might not be so kind to the lost."
-    c ""
 
-# game/episode002.rpy:1642
+    c "請緊跟着瑟琳或者我，因爲街道對迷路的可不那麼友善。"
+
+
 translate traditional_chinese ep002_university_822a3068:
 
-    # ve "Understood!"
-    ve ""
 
-# game/episode002.rpy:1643
+    ve "明白了！"
+
+
 translate traditional_chinese ep002_university_bebac6e1:
 
-    # ce "Ready to head out?"
-    ce ""
 
-# game/episode002.rpy:1644
+    ce "準備好出發了嗎？"
+
+
 translate traditional_chinese ep002_university_490aa09b:
 
-    # ce "I've loaded the coordinates on our communicators, it should be easy to find."
-    ce ""
 
-# game/episode002.rpy:1646
+    ce "我已經把坐標加載到我們的通訊器上了，應該很容易找到。"
+
+
 translate traditional_chinese ep002_university_07a3f2ed:
 
-    # "Even I wasn't fully prepared for the hectic experience that Ryūjin Prime was."
-    ""
 
-# game/episode002.rpy:1647
+    "連我都沒完全準備好面對龍神主星的混亂場面。"
+
+
 translate traditional_chinese ep002_university_0416231b:
 
-    # "The enormous flow of people, crisscrossing each other in some delicate ballet, really took some time getting used to."
-    ""
 
-# game/episode002.rpy:1648
+    "那人山人海，像跳芭蕾一樣互相穿梭，真得好一陣子才適應。"
+
+
 translate traditional_chinese ep002_university_ae994e0e:
 
-    # "Céline's locator signal provided us with the necessary directions and it didn't take us long to reach the campus of Ryūjin Prime University."
-    ""
 
-# game/episode002.rpy:1652
+    "瑟琳的定位信號給我們提供了必要的指引，沒花多久我們就到了\"龍神主星大學\"的校園。"
+
+
 translate traditional_chinese ep002_university_326b44ad:
 
-    # man "Good day sir, how may I be of service?"
-    man ""
 
-# game/episode002.rpy:1654
+    man "您好先生，需要幫忙嗎？"
+
+
 translate traditional_chinese ep002_university_349f8dea:
 
-    # c "We're looking for Professor Nadya Valenmann de Lonval."
-    c ""
 
-# game/episode002.rpy:1656
+    c "我們正在找娜迪亞·瓦倫曼·德·隆瓦爾教授。"
+
+
 translate traditional_chinese ep002_university_f647cc56:
 
-    # c "We're looking for Professor Nadya Grivans."
-    c ""
 
-# game/episode002.rpy:1657
+    c "我們正在找娜迪亞·格瑞萬斯教授。"
+
+
 translate traditional_chinese ep002_university_68f78acc:
 
-    # man "Residence 42-ZB."
-    man ""
 
-# game/episode002.rpy:1658
+    man "住所42-ZB。"
+
+
 translate traditional_chinese ep002_university_08a45edf:
 
-    # man "Shall I load the coordinates onto one of your devices?"
-    man ""
 
-# game/episode002.rpy:1659
+    man "要我把坐標加載到您的一個設備上嗎？"
+
+
 translate traditional_chinese ep002_university_d300588c:
 
-    # c "Yes please."
-    c ""
 
-# game/episode002.rpy:1661
+    c "好的。"
+
+
 translate traditional_chinese ep002_university_7f32fbcb:
 
-    # "Following the locator signal provided by the concierge bot, we left the common area of the campus, missing out on most of the sights and entered the residential zones."
-    ""
 
-# game/episode002.rpy:1662
+    "我們跟着門房機器人給的定位信號，離開了校園的公共區，錯過大部分風景，進了居民區。"
+
+
 translate traditional_chinese ep002_university_5a10eb84:
 
-    # c "This should be it."
-    c ""
 
-# game/episode002.rpy:1663
+    c "應該就是這兒了。"
+
+
 translate traditional_chinese ep002_university_097ae7f4:
 
-    # "I pushed the door buzzer and we waited."
-    ""
 
-# game/episode002.rpy:1664
+    "我按了門鈴，然後我們等着。"
+
+
 translate traditional_chinese ep002_university_4ed39258:
 
-    # "Nothing happened for several minutes."
-    ""
 
-# game/episode002.rpy:1665
+    "過了幾分鐘，什麼都沒有發生。"
+
+
 translate traditional_chinese ep002_university_6e43f153:
 
-    # "I was about to hit the buzzer again when the door finally opened."
-    ""
 
-# game/episode002.rpy:1668
+    "我正打算再按一次門鈴時，門終於開了。"
+
+
 translate traditional_chinese ep002_university_5fddb287:
 
-    # av "Hmm?"
-    av ""
 
-# game/episode002.rpy:1670
+    av "嗯？"
+
+
 translate traditional_chinese ep002_university_ed6e0076:
 
-    # c "Hi, we're looking for Professor Valenmann de Lonval."
-    c ""
 
-# game/episode002.rpy:1672
+    c "嗨，我們在找瓦倫曼·德·隆瓦爾教授。"
+
+
 translate traditional_chinese ep002_university_652842bb:
 
-    # c "Hi, we're looking for Professor Grivans."
-    c ""
 
-# game/episode002.rpy:1673
+    c "嗨，我們在找格瑞萬斯教授。"
+
+
 translate traditional_chinese ep002_university_c0692640:
 
-    # av "Are you her students?"
-    av ""
 
-# game/episode002.rpy:1674
+    av "你們是她的學生嗎？"
+
+
 translate traditional_chinese ep002_university_fa0265fd:
 
-    # c "No, we're not, we have a question for her."
-    c ""
 
-# game/episode002.rpy:1675
+    c "不，我們不是，我們有個問題要問她。"
+
+
 translate traditional_chinese ep002_university_436f4e05:
 
-    # av "She isn't here, try again later."
-    av ""
 
-# game/episode002.rpy:1676
+    av "她不在這兒，晚點再來吧。"
+
+
 translate traditional_chinese ep002_university_9f8e016b:
 
-    # c "Wait!"
-    c ""
 
-# game/episode002.rpy:1677
+    c "等等！"
+
+
 translate traditional_chinese ep002_university_a0688af6:
 
-    # c "I'm her nephew, it's really important that we speak to her."
-    c ""
 
-# game/episode002.rpy:1678
+    c "我是她侄子，我們真得有要緊事找她。"
+
+
 translate traditional_chinese ep002_university_502911d6:
 
-    # av "I told you she isn't here, but you're welcome to wait if you want to."
-    av ""
 
-# game/episode002.rpy:1679
+    av "說了她不在這，不過你們想等就等吧。"
+
+
 translate traditional_chinese ep002_university_ee6ec116:
 
-    # av "Coffee?"
-    av ""
 
-# game/episode002.rpy:1681
+    av "喝咖啡嗎？"
+
+
 translate traditional_chinese ep002_university_da7346f1:
 
-    # "After we shuffled into the small apartment, the terse woman got busy making coffee for us."
-    ""
 
-# game/episode002.rpy:1683
+    "我們擠進狹小公寓後，那寡言的女人就開始忙着給我們衝咖啡。"
+
+
 translate traditional_chinese ep002_university_190b12c2:
 
-    # "Something about her was familiar, she looked vaguely like a raven-haired mix between Eva and Lilly."
-    ""
 
-# game/episode002.rpy:1685
+    "她身上有種熟悉感，那烏黑頭髮隱約像是伊娃和莉莉的融合體。"
+
+
 translate traditional_chinese ep002_university_7c566aec:
 
-    # "Something about her was familiar, a distant memory, long forgotten."
-    ""
 
-# game/episode002.rpy:1686
+    "她身上有種熟悉感，那是段早被遺忘的遙遠回憶。"
+
+
 translate traditional_chinese ep002_university_242f57db:
 
-    # av "Here you go."
-    av ""
 
-# game/episode002.rpy:1687
+    av "給。"
+
+
 translate traditional_chinese ep002_university_feba4bc8:
 
-    # av "Nadya is teaching at the moment, she'll be back in a few hours."
-    av ""
 
-# game/episode002.rpy:1689
+    av "娜迪亞正在授課，幾小時後才回來。"
+
+
 translate traditional_chinese ep002_university_008eb679:
 
-    # av "I didn't get your names?"
-    av ""
 
-# game/episode002.rpy:1690
+    av "沒請教各位名字？"
+
+
 translate traditional_chinese ep002_university_60124662:
 
-    # c "[p_name]."
-    c ""
 
-# game/episode002.rpy:1691
+    c "[p_name]."
+
+
 translate traditional_chinese ep002_university_f3b48799:
 
-    # ce "Céline, pleased to meet you."
-    ce ""
 
-# game/episode002.rpy:1692
+    ce "瑟琳，幸會。"
+
+
 translate traditional_chinese ep002_university_2714166a:
 
-    # ve "I'm Vess."
-    ve ""
 
-# game/episode002.rpy:1694
+    ve "我是薇絲。"
+
+
 translate traditional_chinese ep002_university_6af847a0:
 
-    # av "I'm Aven, Nadya's daughter."
-    av ""
 
-# game/episode002.rpy:1696
+    av "我是艾文，娜迪亞的女兒。"
+
+
 translate traditional_chinese ep002_university_92314055:
 
-    # av "I'm Aven, a friend of Nadya's."
-    av ""
 
-# game/episode002.rpy:1700
+    av "我是艾文，娜迪亞的朋友。"
+
+
 translate traditional_chinese ep002_university_83e2c9ed:
 
-    # av "Hello cousin [p_name_short]..."
-    av ""
 
-# game/episode002.rpy:1702
+    av "表哥[p_name_short]你好..."
+
+
 translate traditional_chinese ep002_university_f990ff6a:
 
-    # av "Hello [p_name_short]..."
-    av ""
 
-# game/episode002.rpy:1703
+    av "你好[p_name_short]..."
+
+
 translate traditional_chinese ep002_university_348ab72f:
 
-    # c "Aven! It's been a while!"
-    c ""
 
-# game/episode002.rpy:1725
+    c "艾文！好久不見！"
+
+
 translate traditional_chinese ep002_university_8dc42f7a:
 
-    # av "You can sure say that."
-    av ""
 
-# game/episode002.rpy:1726
+    av "確實好久。"
+
+
 translate traditional_chinese ep002_university_b497127f:
 
-    # av "I think the last time we saw each other was when were both nine years old?"
-    av ""
 
-# game/episode002.rpy:1727
+    av "我們倆上次見面還是九歲的時候？"
+
+
 translate traditional_chinese ep002_university_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode002.rpy:1728
+    c "對。"
+
+
 translate traditional_chinese ep002_university_8b0fbf71:
 
-    # c "I mostly remember crying, because you were both gone one day."
-    c ""
 
-# game/episode002.rpy:1730
+    c "我就記得當時哭慘了，因爲你倆有天突然消失。"
+
+
 translate traditional_chinese ep002_university_b16648e5:
 
-    # av "Yeah, that was...{w} sudden..."
-    av ""
 
-# game/episode002.rpy:1731
+    av "嗯，那確實...{w}挺突然的..."
+
+
 translate traditional_chinese ep002_university_c72d321c:
 
-    # c "How have you been all these years?"
-    c ""
 
-# game/episode002.rpy:1733
+    c "這些年你過得怎樣？"
+
+
 translate traditional_chinese ep002_university_22a5cb4c:
 
-    # av "Good, Mom quickly established herself as a teacher here at the academy, eventually obtaining a professorship."
-    av ""
 
-# game/episode002.rpy:1735
+    av "挺好，媽媽很快就在學院這裡站穩腳跟當了老師，最後升成了教授。"
+
+
 translate traditional_chinese ep002_university_d9756e03:
 
-    # av "Good, Nadya quickly established herself as a teacher here at the academy, eventually obtaining a professorship."
-    av ""
 
-# game/episode002.rpy:1736
+    av "好，娜迪亞很快就在學院這裡站穩腳跟當了老師，最後升成了教授。"
+
+
 translate traditional_chinese ep002_university_18b2058c:
 
-    # av "So I was raised here mostly."
-    av ""
 
-# game/episode002.rpy:1737
+    av "所以我基本上是在這兒長大的。"
+
+
 translate traditional_chinese ep002_university_8b87ffe7:
 
-    # c "You're a xenologist too?"
-    c ""
 
-# game/episode002.rpy:1738
+    c "你也是研究外星生物的？"
+
+
 translate traditional_chinese ep002_university_70943d2d:
 
-    # av "Hah, not really."
-    av ""
 
-# game/episode002.rpy:1740
+    av "哈，也不完全是。"
+
+
 translate traditional_chinese ep002_university_7d9f5a4d:
 
-    # av "I know a little about it, because of Mom."
-    av ""
 
-# game/episode002.rpy:1742
+    av "我略懂一點兒，多虧了媽媽。"
+
+
 translate traditional_chinese ep002_university_f2a8e338:
 
-    # av "I know a little about it, because of Nadya."
-    av ""
 
-# game/episode002.rpy:1743
+    av "我略懂一點兒，多虧了娜迪亞。"
+
+
 translate traditional_chinese ep002_university_7f268c44:
 
-    # av "I accompany her on her travels, to keep her safe."
-    av ""
 
-# game/episode002.rpy:1744
+    av "我陪她旅行，保護她安全。"
+
+
 translate traditional_chinese ep002_university_1d1d3b97:
 
-    # ve "You're like...{w} her bodyguard?"
-    ve ""
 
-# game/episode002.rpy:1746
+    ve "你像是...{w}她的保鏢？"
+
+
 translate traditional_chinese ep002_university_acbf832d:
 
-    # av "Something like that."
-    av ""
 
-# game/episode002.rpy:1747
+    av "差不多吧。"
+
+
 translate traditional_chinese ep002_university_58f43a4d:
 
-    # av "I know how to handle myself in a fight, but I get to play the diplomat often too."
-    av ""
 
-# game/episode002.rpy:1749
+    av "我知道怎麼打架保護自己，但也常扮演外交官角色。"
+
+
 translate traditional_chinese ep002_university_626f4c28:
 
-    # av "Diplomacy is not one of my mother's strong suits."
-    av ""
 
-# game/episode002.rpy:1751
+    av "外交可不是我媽的強項。"
+
+
 translate traditional_chinese ep002_university_8bc0ab03:
 
-    # av "Diplomacy is not one of her strong suits."
-    av ""
 
-# game/episode002.rpy:1752
+    av "外交可不是她的強項。"
+
+
 translate traditional_chinese ep002_university_6c8a8e5f:
 
-    # c "I don't remember her as being impatient."
-    c ""
 
-# game/episode002.rpy:1753
+    c "我不記得她是個沒耐心的人。"
+
+
 translate traditional_chinese ep002_university_743af49a:
 
-    # av "She isn't, except when it comes to her work, she can be very demanding..."
-    av ""
 
-# game/episode002.rpy:1756
+    av "她不是，但一涉及工作就很苛刻..."
+
+
 translate traditional_chinese ep002_university_88eb9c0c:
 
-    # av "How are your sisters, [p_name]?"
-    av ""
 
-# game/episode002.rpy:1758
+    av "你的妹妹們怎麼樣了，[p_name]？"
+
+
 translate traditional_chinese ep002_university_9558a264:
 
-    # av "How are Lilly and Eva, [p_name]?"
-    av ""
 
-# game/episode002.rpy:1759
+    av "莉莉和伊娃怎麼樣了，[p_name]？"
+
+
 translate traditional_chinese ep002_university_36dda21d:
 
-    # c "Lilly is fine, she couldn't come along unfortunately."
-    c ""
 
-# game/episode002.rpy:1760
+    c "莉莉挺好，可惜她沒能來。"
+
+
 translate traditional_chinese ep002_university_a19d07b1:
 
-    # c "Eva is...{w} she..."
-    c ""
 
-# game/episode002.rpy:1762
+    c "伊娃...{w}她..."
+
+
 translate traditional_chinese ep002_university_47ecb9ce:
 
-    # av "Fuck...{w} She's all right, isn't she?"
-    av ""
 
-# game/episode002.rpy:1763
+    av "操...{w}她沒事吧，不是嗎？"
+
+
 translate traditional_chinese ep002_university_5aeb5f9a:
 
-    # c "We don't know."
-    c ""
 
-# game/episode002.rpy:1764
+    c "我們不知道。"
+
+
 translate traditional_chinese ep002_university_d0d62635:
 
-    # c "We were on a training mission and ran into an ambush, Eva got taken..."
-    c ""
 
-# game/episode002.rpy:1765
+    c "我們在執行訓練任務時中了埋伏，伊娃被擄走了..."
+
+
 translate traditional_chinese ep002_university_c8c112ec:
 
-    # av "Fuck."
-    av ""
 
-# game/episode002.rpy:1766
+    av "操。"
+
+
 translate traditional_chinese ep002_university_c4f701d3:
 
-    # av "By whom?"
-    av ""
 
-# game/episode002.rpy:1767
+    av "被誰？"
+
+
 translate traditional_chinese ep002_university_26180192:
 
-    # c "Unclear."
-    c ""
 
-# game/episode002.rpy:1769
+    c "不清楚。"
+
+
 translate traditional_chinese ep002_university_b0e5fc34:
 
-    # c "We hope Aunt Nadya can identify the creatures that took Eva from us."
-    c ""
 
-# game/episode002.rpy:1771
+    c "我們希望娜迪亞阿姨能識別出那些從我們身邊帶走了伊娃的生物。"
+
+
 translate traditional_chinese ep002_university_646b9c7a:
 
-    # c "We hope Nadya can identify the creatures that took Eva from us."
-    c ""
 
-# game/episode002.rpy:1772
+    c "我們希望娜迪亞能識別出那些從我們身邊帶走了伊娃的生物。"
+
+
 translate traditional_chinese ep002_university_ec6e8865:
 
-    # av "She just might, let's hope she comes back soon."
-    av ""
 
-# game/episode002.rpy:1774
+    av "她也許可以的，讓我們盼着她趕緊回來吧。"
+
+
 translate traditional_chinese ep002_university_2c74fb0c:
 
-    # "Aven poured us more coffee while we waited another two hours."
-    ""
 
-# game/episode002.rpy:1775
+    "艾文在我們再等兩個小時的時候，又給我們倒了點咖啡。"
+
+
 translate traditional_chinese ep002_university_304b99fc:
 
-    # "Finally, the door opened and a woman stood in the doorway looking directly at me."
-    ""
 
-# game/episode002.rpy:1776
+    "終於，門開了，一個女人站在門口直勾勾地盯着我。"
+
+
 translate traditional_chinese ep002_university_bbb8a88c:
 
-    # na "[p_name]?!"
-    na ""
 
-# game/episode002.rpy:1778
+    na "[p_name]?!"
+
+
 translate traditional_chinese ep002_university_f7b13da4:
 
-    # "Disregarding the girls in the room, Nadya ran towards me and took me in her arms."
-    ""
 
-# game/episode002.rpy:1779
+    "不顧房間裡的女孩們，娜迪亞朝我衝過來把我摟進了懷裡。"
+
+
 translate traditional_chinese ep002_university_6becd8c2:
 
-    # na "Is it really you?"
-    na ""
 
-# game/episode002.rpy:1781
+    na "真的是你嗎？"
+
+
 translate traditional_chinese ep002_university_8a3708e1:
 
-    # c "Yes, Aunt Nadya, it's me."
-    c ""
 
-# game/episode002.rpy:1783
+    c "是的，娜迪亞阿姨，是我。"
+
+
 translate traditional_chinese ep002_university_f4dd296a:
 
-    # c "Yes, Nadya, it's me."
-    c ""
 
-# game/episode002.rpy:1808
+    c "是的，娜迪亞，是我。"
+
+
 translate traditional_chinese ep002_university_1b4c4101:
 
-    # na "It's been so long."
-    na ""
 
-# game/episode002.rpy:1809
+    na "好久不見了。"
+
+
 translate traditional_chinese ep002_university_7e692a9a:
 
-    # na "Why did you decide to come and visit?"
-    na ""
 
-# game/episode002.rpy:1811
+    na "你怎麼想着來看我的？"
+
+
 translate traditional_chinese ep002_university_3f47cbdc:
 
-    # na "How are your sisters?"
-    na ""
 
-# game/episode002.rpy:1813
+    na "你的妹妹們還好嗎？"
+
+
 translate traditional_chinese ep002_university_400ff4c0:
 
-    # na "How are Lilly and Eva?"
-    na ""
 
-# game/episode002.rpy:1814
+    na "莉莉和伊娃怎麼樣了？"
+
+
 translate traditional_chinese ep002_university_d5f4c51d:
 
-    # na "Are you still at the academy?"
-    na ""
 
-# game/episode002.rpy:1815
+    na "你還待在學院嗎？"
+
+
 translate traditional_chinese ep002_university_4f6006d8:
 
-    # "I was a little unsure which question I should answer first, so I started telling her about Eva, her other questions would be answered soon enough."
-    ""
 
-# game/episode002.rpy:1817
+    "我有點拿不準該先回哪個問題，就開始跟她講伊娃的事，反正她其他問題很快也能搞清楚。"
+
+
 translate traditional_chinese ep002_university_fe3aa33b:
 
-    # na "Abducted...{w} Dreadful..."
-    na ""
 
-# game/episode002.rpy:1818
+    na "被綁架了...{w} 真可怕..."
+
+
 translate traditional_chinese ep002_university_bec6fc35:
 
-    # na "How's Lilly coping with all this?"
-    na ""
 
-# game/episode002.rpy:1820
+    na "莉莉是怎麼扛過這些的？"
+
+
 translate traditional_chinese ep002_university_d50b1d50:
 
-    # c "She's a strong girl, Aunt Nadya, you know that."
-    c ""
 
-# game/episode002.rpy:1822
+    c "她是個硬氣的姑娘，娜迪亞阿姨，你是知道的。"
+
+
 translate traditional_chinese ep002_university_8966a21d:
 
-    # c "She's a strong girl, Nadya, you know that."
-    c ""
 
-# game/episode002.rpy:1823
+    c "她是個硬氣的姑娘，娜迪亞，你是知道的。"
+
+
 translate traditional_chinese ep002_university_bab6d791:
 
-    # na "Yes, she was always feisty."
-    na ""
 
-# game/episode002.rpy:1824
+    na "沒錯，她以前就老是一副火爆脾氣。"
+
+
 translate traditional_chinese ep002_university_8bd054dd:
 
-    # c "That hasn't changed."
-    c ""
 
-# game/episode002.rpy:1825
+    c "這點倒沒變。"
+
+
 translate traditional_chinese ep002_university_82f90a43:
 
-    # na "Eva was always more cautious..."
-    na ""
 
-# game/episode002.rpy:1826
+    na "伊娃向來更小心些..."
+
+
 translate traditional_chinese ep002_university_31ca7440:
 
-    # na "What a terrible situation."
-    na ""
 
-# game/episode002.rpy:1827
+    na "多糟糕的情況啊。"
+
+
 translate traditional_chinese ep002_university_d5da1f12:
 
-    # c "We were hoping you could shed some light on the situation."
-    c ""
 
-# game/episode002.rpy:1828
+    c "我們本希望你能幫我們弄清楚情況。"
+
+
 translate traditional_chinese ep002_university_411b4a49:
 
-    # c "Maybe you've heard of a race of humanoid warrior women."
-    c ""
 
-# game/episode002.rpy:1830
+    c "或許你聽說過一種類人的女戰士種族。"
+
+
 translate traditional_chinese ep002_university_5317bf75:
 
-    # c "The ones we saw were really muscular and using very old weaponry, swords and stuff."
-    c ""
 
-# game/episode002.rpy:1831
+    c "我們看到那些傢伙真的很壯，還用着很古老的武器，刀劍之類的。"
+
+
 translate traditional_chinese ep002_university_870b2847:
 
-    # c "They looked just like human women, just more angular and very aggressive."
-    c ""
 
-# game/episode002.rpy:1832
+    c "她們看起來就像人類女人，只是更稜角分明，而且非常兇悍。"
+
+
 translate traditional_chinese ep002_university_31886efb:
 
-    # na "Never heard of anything like that, but maybe the university library has more on the topic."
-    na ""
 
-# game/episode002.rpy:1833
+    na "從來沒聽說過這種事，不過或許大學圖書館裡有更多關於這個的資料。"
+
+
 translate traditional_chinese ep002_university_3ac001ff:
 
-    # na "Why don't you head back to your ship while I research some things."
-    na ""
 
-# game/episode002.rpy:1834
+    na "你們何不回船上去，我查點東西。"
+
+
 translate traditional_chinese ep002_university_eeb9f131:
 
-    # na "As soon as I have news, I'll come find you in the docks."
-    na ""
 
-# game/episode002.rpy:1835
+    na "一有消息，我會到碼頭找你們。"
+
+
 translate traditional_chinese ep002_university_993ba4d9:
 
-    # c "Sounds good."
-    c ""
 
-# game/episode002.rpy:1836
+    c "聽起來不錯。"
+
+
 translate traditional_chinese ep002_university_71da3177:
 
-    # c "And thank you, I know this is coming totally out of the blue and..."
-    c ""
 
-# game/episode002.rpy:1839
+    c "而且謝謝你，我知道這事完全來得太突然了..."
+
+
 translate traditional_chinese ep002_university_fc24619b:
 
-    # na "Nonsense, you're family."
-    na ""
 
-# game/episode002.rpy:1840
+    na "不用，你們是家人。"
+
+
 translate traditional_chinese ep002_university_1e8da92b:
 
-    # na "Of course I'm going to help you, no matter what."
-    na ""
 
-# game/episode002.rpy:1842
+    na "我當然要幫你們啊，不管怎樣。"
+
+
 translate traditional_chinese ep002_university_c19a2be6:
 
-    # na "Nonsense, it's Eva we're talking about."
-    na ""
 
-# game/episode002.rpy:1843
+    na "不用，我們說的是伊娃。"
+
+
 translate traditional_chinese ep002_university_1e8da92b_1:
 
-    # na "Of course I'm going to help you, no matter what."
-    na ""
 
-# game/episode002.rpy:1845
+    na "我當然要幫你們啊，不管怎樣。"
+
+
 translate traditional_chinese ep002_university_e141218f:
 
-    # "We left the apartment and headed back to our ship where another round of waiting began."
-    ""
 
-# game/episode002.rpy:1846
+    "我們離開公寓，回船去，開始了另一輪的等待。"
+
+
 translate traditional_chinese ep002_university_1c1ccdbb:
 
-    # "Very late in the evening, after eating a quick dinner, we received a signal."
-    ""
 
-# game/episode002.rpy:1848
+    "到了深夜，匆忙喫過晚飯後，我們收到一個信號。"
+
+
 translate traditional_chinese ep002_university_0924cc7b:
 
-    # "Nadya was standing outside, together with Aven."
-    ""
 
-# game/episode002.rpy:1849
+    "娜迪亞站在外面，和艾文一起。"
+
+
 translate traditional_chinese ep002_university_fe7ceca3:
 
-    # c "Hi!"
-    c ""
 
-# game/episode002.rpy:1850
+    c "嗨！"
+
+
 translate traditional_chinese ep002_university_dc351b23:
 
-    # c "Did you find anything?"
-    c ""
 
-# game/episode002.rpy:1851
+    c "你找到什麼了嗎？"
+
+
 translate traditional_chinese ep002_university_974577d0:
 
-    # na "Unfortunately, no."
-    na ""
 
-# game/episode002.rpy:1852
+    na "很遺憾，沒有。"
+
+
 translate traditional_chinese ep002_university_98f0b750:
 
-    # na "But I have an idea who might help us further."
-    na ""
 
-# game/episode002.rpy:1853
+    na "但我有一個想法，誰可能進一步幫助我們。"
+
+
 translate traditional_chinese ep002_university_61c25334:
 
-    # na "Having researched the warrior women, I've come to the conclusion they might not be a different race."
-    na ""
 
-# game/episode002.rpy:1854
+    na "研究過那些女戰士後，我得出的結論是她們可能不是另一種族。"
+
+
 translate traditional_chinese ep002_university_b6de8461:
 
-    # na "They could be augmented humans, or something like that."
-    na ""
 
-# game/episode002.rpy:1855
+    na "她們可能是改造人，或者類似的東西。"
+
+
 translate traditional_chinese ep002_university_615151f4:
 
-    # c "Augmented humans?"
-    c ""
 
-# game/episode002.rpy:1856
+    c "改造人？"
+
+
 translate traditional_chinese ep002_university_08846040:
 
-    # c "That's illegal, right?"
-    c ""
 
-# game/episode002.rpy:1858
+    c "那是非法的，對吧？"
+
+
 translate traditional_chinese ep002_university_a5adcafd:
 
-    # na "Not everywhere..."
-    na ""
 
-# game/episode002.rpy:1859
+    na "不是在所有地方都非法..."
+
+
 translate traditional_chinese ep002_university_e07a0da1:
 
-    # na "There were several clandestine research programs dealing with experiments on humans."
-    na ""
 
-# game/episode002.rpy:1860
+    na "有幾個人類實驗的祕密研究項目。"
+
+
 translate traditional_chinese ep002_university_1d4ec986:
 
-    # na "Information is scarce, but that's where my source comes in."
-    na ""
 
-# game/episode002.rpy:1861
+    na "關於這些的信息很稀少，但這就是我的信息來源起作用的地方。"
+
+
 translate traditional_chinese ep002_university_819f9380:
 
-    # na "The guy I know is a little peculiar and he always insists on contact through me personally."
-    na ""
 
-# game/episode002.rpy:1862
+    na "我認識的那個傢伙有點古怪，他總是堅持通過我親自聯繫。"
+
+
 translate traditional_chinese ep002_university_38afecff:
 
-    # na "So Aven and me are coming with you, if that's all right."
-    na ""
 
-# game/episode002.rpy:1863
+    na "所以艾文和我會跟你一起走，如果沒問題的話。"
+
+
 translate traditional_chinese ep002_university_070619eb:
 
-    # c "That's fantastic!"
-    c ""
 
-# game/episode002.rpy:1864
+    c "太棒了！"
+
+
 translate traditional_chinese ep002_university_6a4778d5:
 
-    # na "I have some savings so I can pay for our upkeep for some time, but my university salary isn't much, so I'm not sure how long I can manage."
-    na ""
 
-# game/episode002.rpy:1865
+    na "我有一些積蓄，能支付我們一段時間的開銷，但我的大學薪水不高，所以我不確定能撐多久。"
+
+
 translate traditional_chinese ep002_university_a6f11a1b:
 
-    # c "We'll figure something out."
-    c ""
 
-# game/episode002.rpy:1867
+    c "我們會想辦法的。"
+
+
 translate traditional_chinese ep002_university_2e8d9144:
 
-    # na "That's the spirit!"
-    na ""
 
-# game/episode002.rpy:1868
+    na "這才像樣！"
+
+
 translate traditional_chinese ep002_university_52d20234:
 
-    # c "Aven, you're looking a little doubtful."
-    c ""
 
-# game/episode002.rpy:1869
+    c "艾文，你看起來有點懷疑。"
+
+
 translate traditional_chinese ep002_university_92a2aef4:
 
-    # av "No, it's fine."
-    av ""
 
-# game/episode002.rpy:1871
+    av "不，沒事。"
+
+
 translate traditional_chinese ep002_university_1ba3713c:
 
-    # av "I'm just a little overwhelmed by the suddenness of Mom's decision."
-    av ""
 
-# game/episode002.rpy:1873
+    av "我只是對媽媽的決定如此突然有點措手不及。"
+
+
 translate traditional_chinese ep002_university_30426208:
 
-    # av "I'm just a little overwhelmed by the suddenness of Nadya's decision."
-    av ""
 
-# game/episode002.rpy:1874
+    av "我只是對娜迪亞的決定如此突然有點措手不及。"
+
+
 translate traditional_chinese ep002_university_e81f0f1c:
 
-    # av "But I'm sticking with her, no matter what."
-    av ""
 
-# game/episode002.rpy:1875
+    av "但不管怎樣，我會跟着她。"
+
+
 translate traditional_chinese ep002_university_2716529d:
 
-    # c "In that case, welcome aboard!"
-    c ""
 
-# game/episode002.rpy:1895
+    c "那樣的話，歡迎加入！"
+
+
 translate traditional_chinese ep002_university_1d2ceb5d:
 
-    # "I called everyone to the cockpit to hear the plan for our next destination."
-    ""
 
-# game/episode002.rpy:1897
+    "我把大家叫到駕駛艙來聽我們去下一站的計劃。"
+
+
 translate traditional_chinese ep002_university_1f86ef86:
 
-    # c "So, Nadya has an idea who we should contact to get more information about those warrior women."
-    c ""
 
-# game/episode002.rpy:1898
+    c "所以，娜迪亞知道我們應該聯繫誰來獲取更多關於那些女戰士的信息。"
+
+
 translate traditional_chinese ep002_university_f37445e8:
 
-    # na "I do."
-    na ""
 
-# game/episode002.rpy:1900
+    na "我知道。"
+
+
 translate traditional_chinese ep002_university_d0d9c7d7:
 
-    # na "It’s my strong suspicion that the women aren’t alien at all, but rather augmented human beings."
-    na ""
 
-# game/episode002.rpy:1901
+    na "我強烈懷疑那些女性根本不是外星人，而是改造人。"
+
+
 translate traditional_chinese ep002_university_b68de3a8:
 
-    # na "Of course I could be wrong and you were ambushed by an undocumented race of humanoid women, but it seems unlikely."
-    na ""
 
-# game/episode002.rpy:1902
+    na "當然我可能錯了，而你是被一個沒記載的人形女性種族突襲了，但這似乎不太可能。"
+
+
 translate traditional_chinese ep002_university_0fdaef63:
 
-    # na "Several clandestine laboratories have existed over the years, experimenting on humans."
-    na ""
 
-# game/episode002.rpy:1904
+    na "多年來存在過幾個祕密實驗室，進行人類實驗。"
+
+
 translate traditional_chinese ep002_university_07510bcb:
 
-    # ce "That’s illegal, right?"
-    ce ""
 
-# game/episode002.rpy:1906
+    ce "那是非法的，對吧？"
+
+
 translate traditional_chinese ep002_university_f42e3ec4:
 
-    # na "Experimenting on any sentient life form is illegal."
-    na ""
 
-# game/episode002.rpy:1907
+    na "對任何有感知的生命體進行實驗都是非法的。"
+
+
 translate traditional_chinese ep002_university_0e651ee4:
 
-    # na "But that hasn’t stopped people from doing it, the Sovereignty included."
-    na ""
 
-# game/episode002.rpy:1908
+    na "但這沒能阻止人們繼續幹這事，包括\"至高權域\"在內。"
+
+
 translate traditional_chinese ep002_university_e318fad3:
 
-    # na "Most of those experiments never leave the lab or are hunted down and destroyed very quickly."
-    na ""
 
-# game/episode002.rpy:1909
+    na "那些實驗體大多永困於實驗室內，要不就是被迅速獵殺銷毀。"
+
+
 translate traditional_chinese ep002_university_9bd5c1fb:
 
-    # ki "To keep things under wraps."
-    ki ""
 
-# game/episode002.rpy:1910
+    ki "爲的就是祕而不宣。"
+
+
 translate traditional_chinese ep002_university_f2ad077b:
 
-    # na "Exactly."
-    na ""
 
-# game/episode002.rpy:1911
+    na "正是如此。"
+
+
 translate traditional_chinese ep002_university_f88d0d68:
 
-    # na "If those women are the result of experimentation, it seems that they have somehow successfully escaped that fate."
-    na ""
 
-# game/episode002.rpy:1912
+    na "要是那些女人是實驗產物，那她們倒是成功逃過了這種命運。"
+
+
 translate traditional_chinese ep002_university_37b37d75:
 
-    # na "Research into these kinds of experimentation programs is virtually non-existent in academic circles."
-    na ""
 
-# game/episode002.rpy:1914
+    na "學術圈裡對這類實驗項目的研究幾乎絕跡。"
+
+
 translate traditional_chinese ep002_university_4e5a4202:
 
-    # c "Why?"
-    c ""
 
-# game/episode002.rpy:1915
+    c "爲什麼？"
+
+
 translate traditional_chinese ep002_university_aea6a7ba:
 
-    # na "Because you quickly deal with rumors, hearsay and outright conspiracy theories."
-    na ""
 
-# game/episode002.rpy:1916
+    na "因爲你得忙着應付謠言、小道消息和赤裸裸的陰謀論調。"
+
+
 translate traditional_chinese ep002_university_111e486e:
 
-    # na "And if you hit upon the truth, it could become very dangerous as the parties involved in the experimentation might take an interest in your research."
-    na ""
 
-# game/episode002.rpy:1917
+    na "而且要是真摸到線索，那些實驗幕後黑手可就要盯上你了——這處境相當危險。"
+
+
 translate traditional_chinese ep002_university_eead6f9c:
 
-    # c "So you have to be either very daring or mad to research those topics?"
-    c ""
 
-# game/episode002.rpy:1918
+    c "所以研究這些課題不是膽大包天就是徹底瘋魔？"
+
+
 translate traditional_chinese ep002_university_f2ad077b_1:
 
-    # na "Exactly."
-    na ""
 
-# game/episode002.rpy:1919
+    na "一點沒錯。"
+
+
 translate traditional_chinese ep002_university_60fe6972:
 
-    # na "And Karan Hreir is both."
-    na ""
 
-# game/episode002.rpy:1920
+    na "而卡蘭·瑞爾兩者兼備。"
+
+
 translate traditional_chinese ep002_university_0533194e:
 
-    # na "He’s the one we’re going to visit."
-    na ""
 
-# game/episode002.rpy:1921
+    na "我們要拜訪的就是這人。"
+
+
 translate traditional_chinese ep002_university_9c1800f5:
 
-    # na "The journey isn’t going to be easy, because his home is located inside an asteroid field and the man is notoriously paranoid."
-    na ""
 
-# game/episode002.rpy:1923
+    na "這段路可不好走，他的家藏在隕石帶裏，而且這傢伙是出了名的疑神疑鬼。"
+
+
 translate traditional_chinese ep002_university_dc114ac0:
 
-    # t "Great..."
-    t ""
 
-# game/episode002.rpy:1924
+    t "真棒..."
+
+
 translate traditional_chinese ep002_university_88c12dcd:
 
-    # c "Well, at least we were warned beforehand."
-    c ""
 
-# game/episode002.rpy:1925
+    c "唉，起碼事先收到警告了。"
+
+
 translate traditional_chinese ep002_university_64219878:
 
-    # c "I’m sure Mr. Hreir will listen to reason."
-    c ""
 
-# game/episode002.rpy:1926
+    c "相信瑞爾先生肯定會講道理。"
+
+
 translate traditional_chinese ep002_university_3555e716:
 
-    # na "I sure hope so."
-    na ""
 
-# game/episode002.rpy:1931
+    na "但願如此。"
+
+
 translate traditional_chinese ep002_university_c821b424:
 
-    # "We set course to the asteroid field, ready to meet Karan Hreir."
-    ""
 
-# game/episode002.rpy:1935
+    "我們調整航向進入隕石帶，準備會一會卡蘭·瑞爾。"
+
+
 translate traditional_chinese ep002_university_7e050544:
 
-    # "As we made the final jump to our location, the ship suddenly shuddered and alarms started to go off."
-    ""
 
-# game/episode002.rpy:1937
+    "就在最後躍遷抵達時，船體猛然震顫，警報開始咆哮。"
+
+
 translate traditional_chinese ep002_university_1e4317d5:
 
-    # c "What is happening?"
-    c ""
 
-# game/episode002.rpy:1938
+    c "怎麼回事？"
+
+
 translate traditional_chinese ep002_university_2ffe4626:
 
-    # ce "We were hit by something!"
-    ce ""
 
-# game/episode002.rpy:1939
+    ce "我們被什麼東西擊中了！"
+
+
 translate traditional_chinese ep002_university_11ffacb6:
 
-    # ce "Asteroid!"
-    ce ""
 
-# game/episode002.rpy:1940
+    ce "是隕石！"
+
+
 translate traditional_chinese ep002_university_ae6ad815:
 
-    # c "Damage?"
-    c ""
 
-# game/episode002.rpy:1941
+    c "損傷情況？"
+
+
 translate traditional_chinese ep002_university_73e08734:
 
-    # ce "Minimal, our armor took most of the beating."
-    ce ""
 
-# game/episode002.rpy:1942
+    ce "輕微得很，我們的裝甲承受了大半衝擊。"
+
+
 translate traditional_chinese ep002_university_9cb65e2d:
 
-    # ce "But there’s a whole field of those buggers right in front of us."
-    ce ""
 
-# game/episode002.rpy:1944
+    ce "但那些該死的東西在我們面前形成了一整片區域。"
+
+
 translate traditional_chinese ep002_university_a52ed583:
 
-    # "Céline then pulled up the image of the asteroid field and we were all shocked by the whirling mass of rocks before us."
-    ""
 
-# game/episode002.rpy:1945
+    "然後瑟琳拉出小行星帶的影像，我們都被眼前旋轉的石頭堆嚇壞了。"
+
+
 translate traditional_chinese ep002_university_2da09992:
 
-    # c "How the fuck are we going to navigate in that?"
-    c ""
 
-# game/episode002.rpy:1946
+    c "該死的我們怎麼在那裡面航行？"
+
+
 translate traditional_chinese ep002_university_0bb21d73:
 
-    # ki "Dumb luck?"
-    ki ""
+
+    ki "純靠運氣？"
 
 translate traditional_chinese strings:
 
-    # game/episode002.rpy:26
+
     old "Unknown, TGN Ypotryll in pursuit of TGN Enfield"
-    new ""
+    new "未知，人族星系艦隊\"異龍\"號在追擊人族星系艦隊\"恩菲爾德\"號"
 
-    # game/episode002.rpy:56
+
     old "Technology"
-    new ""
+    new "科技"
 
-    # game/episode002.rpy:56
+
     old "The Sylas-Karzen drive"
-    new ""
+    new "西拉斯-卡岑引擎"
 
-    # game/episode002.rpy:56
+
     old "Enables Faster Than Light Travel, allowing mankind to explore and conquer the stars. The development of the Sylas-Karzen drive by Professor Hermann Sylas and Dr. Josephine Karzen is the result of several centuries of research, primarily based on the theories of Burkhard Heim and Miguel Alcubierre."
-    new ""
+    new "啓用超光速旅行，讓人類探索並徵服星辰。由赫爾曼·西拉斯教授和約瑟芬·卡岑博士開發的西拉斯-卡岑引擎是數百年研究的成果，主要基於Burkhard Heim和Miguel Alcubierre的理論。"
 
-    # game/episode002.rpy:56
+
     old "'Bursting' a drive allows for hyperspace travel, but without a clear destination and is deemed extremely dangerous."
-    new ""
+    new "'爆破'引擎可進行超空間航行，但目標不明且極其危險。"
 
-    # game/episode002.rpy:98
+
     old "Unknown, drifting"
-    new ""
+    new "未知，漂流中"
 
-    # game/episode002.rpy:218
+
     old "Comfort her"
-    new ""
+    new "安慰她"
 
-    # game/episode002.rpy:218
+
     old "Stay silent"
-    new ""
+    new "保持沉默"
 
-    # game/episode002.rpy:263
+
     old "Be understanding"
-    new ""
+    new "表示理解"
 
-    # game/episode002.rpy:263
+
     old "Get angry"
-    new ""
+    new "發脾氣"
 
-    # game/episode002.rpy:291
+
     old "Vulpes Velox, near Alpha Vulpeculae, Orbit"
-    new ""
+    new "迅狐星，靠近狐狸座α星，軌道"
 
-    # game/episode002.rpy:316
+
     old "Ask Lilly"
-    new ""
+    new "問莉莉"
 
-    # game/episode002.rpy:316
+
     old "Ask Thim"
-    new ""
+    new "問蒂姆"
 
-    # game/episode002.rpy:373
+
     old "Vulpes Velox, near Alpha Vulpeculae, Surface"
-    new ""
+    new "迅狐星，靠近狐狸座α星，表面"
 
-    # game/episode002.rpy:395
-    old "Vulpes Velox"
-    new ""
 
-    # game/episode002.rpy:395
     old "Location: Somewhere near Alpha Vulpeculae"
-    new ""
+    new "位置：狐狸座α星附近某處"
 
-    # game/episode002.rpy:395
+
     old "The first planet visited by [p_name] and friends after their escape from the TGN Ypotryll."
-    new ""
+    new "[p_name]和他的朋友們逃離人族星系艦隊\"異龍\"號後首次訪問的行星。"
 
-    # game/episode002.rpy:395
+
     old "Most of the world is covered by desert, though there are several larger settlements. Thyia's workshop is located in one of the smaller towns on Vulpes Velox."
-    new ""
+    new "世界大部分是沙漠覆蓋，雖然有幾個大聚居點。塞婭的工場位於迅狐星上一個小鎮中。"
 
-    # game/episode002.rpy:432
-    old "Thyia"
-    new ""
 
-    # game/episode002.rpy:432
     old "Thyia is a salvager and engineer working out of her workshop on Vulpes Velox."
-    new ""
+    new "塞婭是一名打撈者和工程師，在迅狐星上她的工場工作。"
 
-    # game/episode002.rpy:543
+
     old "Propose to talk some more"
-    new ""
+    new "提議再聊會兒"
 
-    # game/episode002.rpy:543
+
     old "Never mind"
-    new ""
+    new "算了"
 
-    # game/episode002.rpy:569
+
     old "Contest"
-    new ""
+    new "質疑"
 
-    # game/episode002.rpy:569
+
     old "Agree"
-    new ""
+    new "同意"
 
-    # game/episode002.rpy:590
+
     old "Propose sex"
-    new ""
+    new "提出性要求"
 
-    # game/episode002.rpy:662
-    old "Iron Bastard"
-    new ""
 
-    # game/episode002.rpy:662
     old "An aging cargo hauler outfitted with extra armored plating and guns by a string of owners. Part of the name stems from the alloy used in the armored plating, containing metals from Earth."
-    new ""
+    new "這艘老舊貨船經過多任船主改造，加裝了額外裝甲板和武器。其名稱部分源於裝甲採用的合金，其中含有來自地球的金屬成分。"
 
-    # game/episode002.rpy:662
+
     old "The Iron Bastard is offered as a replacement for the TGN Enfield by Thyia after [p_name] and friends have escaped from the TGN Ypotryll."
-    new ""
+    new "當[p_name]一行人從人族星系艦隊的\"異龍\"號逃脫後，塞婭用\"鋼鐵私生子\"號替代了人族星系艦隊的\"恩菲爾德\"號。"
 
-    # game/episode002.rpy:750
+
     old "Deliver cargo first"
-    new ""
+    new "先運送貨物"
 
-    # game/episode002.rpy:750
+
     old "Go to university first"
-    new ""
+    new "先去大學"
 
-    # game/episode002.rpy:772
+
     old "Unknown, En route to Nyiruan 12-Beta"
-    new ""
+    new "未知，正前往尼如安12號β星途中"
 
-    # game/episode002.rpy:774
+
     old "Unknown, En route to Ryūjin Prime"
-    new ""
+    new "未知，正前往龍神主星途中"
 
-    # game/episode002.rpy:784
+
     old "Vulpes Velox, Thyia's Workshop"
-    new ""
+    new "迅狐星，塞婭的工場"
 
-    # game/episode002.rpy:904
+
     old "Accept her"
-    new ""
+    new "接受她"
 
-    # game/episode002.rpy:904
+
     old "Refuse her"
-    new ""
+    new "拒絕她"
 
-    # game/episode002.rpy:932
+
     old "Thyia is a salvager and engineer originally working out of her workshop on Vulpes Velox. She was born outside the Sovereignty on a space station and values her independence."
-    new ""
+    new "塞婭原是名在迅狐星經營工場的廢品商兼工程師。她出生在\"至高權域\"外太空站，極其珍視自己的獨立性。"
 
-    # game/episode002.rpy:932
+
     old "After a run-in with Glixken and his crew, she's forced to flee and join the crew on the Iron Bastard."
-    new ""
+    new "在遭遇格裏克森及其機組成員後，她被迫逃亡並加入了\"鋼鐵私生子\"號的船組。"
 
-    # game/episode002.rpy:1090
+
     old "Body"
-    new ""
+    new "身體"
 
-    # game/episode002.rpy:1090
+
     old "Facial"
-    new ""
+    new "臉部"
 
-    # game/episode002.rpy:1122
+
     old "Nyiruan 12-Beta, Approach"
-    new ""
+    new "尼如安12號β星，接近軌道"
 
-    # game/episode002.rpy:1132
-    old "Nyiruan 12-Beta"
-    new ""
 
-    # game/episode002.rpy:1132
     old "Homeworld of the R'o, a tribal species of humanoids. The planet has a moderate climate and is very green and fertile, allowing for the lifestyle the R'o tribes still practice - farming, hunting and gathering."
-    new ""
+    new "作爲類人生物的拉歐人母星。該星球氣候溫和，植被茂盛土壤肥沃，至今延續着拉歐部落的生活方式——農耕、狩獵與採集。"
 
-    # game/episode002.rpy:1156
+
     old "R'o"
-    new ""
+    new "拉歐人"
 
-    # game/episode002.rpy:1156
-    old "The R’o are a tribal race without much interest in outer space. A few of them can be encountered on space stations, as can be expected. Most of the R’o live and die on their home planet, Nyiruan 12-Beta, after a hard life of farming or hunting and gathering."
-    new ""
 
-    # game/episode002.rpy:1156
+    old "The R』o are a tribal race without much interest in outer space. A few of them can be encountered on space stations, as can be expected. Most of the R』o live and die on their home planet, Nyiruan 12-Beta, after a hard life of farming or hunting and gathering."
+    new "拉歐人是缺乏星際探索興趣的部落種族。偶有族人在太空站出沒，但絕大多數拉歐人在母星尼如安12號β星度過，終其艱難的一生勞作於農耕或採集狩獵。"
+
+
     old "[p_name] and crew encounter a tribe of R'o during their cargo delivery run on Nyiruan."
-    new ""
+    new "[p_name] 與機組成員在尼如安星運送貨物時遭遇了拉歐人部落。"
 
-    # game/episode002.rpy:1175
+
     old "Truth"
-    new ""
+    new "說實話"
 
-    # game/episode002.rpy:1175
+
     old "Lie"
-    new ""
+    new "說謊"
 
-    # game/episode002.rpy:1206
+
     old "Go yourself"
-    new ""
+    new "自己去吧"
 
-    # game/episode002.rpy:1206
+
     old "Let Thim go"
-    new ""
+    new "讓蒂姆去"
 
-    # game/episode002.rpy:1275
+
     old "Offer to help them"
-    new ""
+    new "提出幫助他們"
 
-    # game/episode002.rpy:1275
+
     old "Do nothing"
-    new ""
+    new "什麼都不做"
 
-    # game/episode002.rpy:1305
+
     old "Have sex with them"
-    new ""
+    new "和他們做愛"
 
-    # game/episode002.rpy:1305
+
     old "Decline the offer"
-    new ""
+    new "拒絕提議"
 
-    # game/episode002.rpy:1382
+
     old "R'o woman encountered by [p_name] in the Pit of Despair when he does penance."
-    new ""
+    new "拉歐女人被[p_name]在\"絕望之淵\"中做懺悔時遇到。"
 
-    # game/episode002.rpy:1387
+
     old "With the help of [p_name] she escapes the Pit in order for her to contact her uncle and possibly save the tribe from the male-centric ideology that's slowly destroying it."
-    new ""
+    new "在[p_name]的幫助下，爲了能聯繫叔叔，她逃出了\"絕望之淵\"，或許還能將部落從正逐漸摧毀它的重男輕女意識形態中拯救出來。"
 
-    # game/episode002.rpy:1389
+
     old "D'ee"
-    new ""
+    new "迪伊"
 
-    # game/episode002.rpy:1587
+
     old "Ryūjin Prime, Docks"
-    new ""
+    new "龍神主星，碼頭區"
 
-    # game/episode002.rpy:1605
-    old "Ryūjin Prime"
-    new ""
 
-    # game/episode002.rpy:1605
     old "Location: Cat’s Eye Nebula"
-    new ""
+    new "坐標：貓眼星雲"
 
-    # game/episode002.rpy:1605
+
     old "The majority of Ryūjin Prime is covered in a large metropolis, while the rest of the planet is virtually uninhabitable. The weather is artificially controlled and the climate is therefore very moderate, unless that control slips and the heavy rains start to fall."
-    new ""
+    new "龍神主星大部分區域被一個巨型都市覆蓋，該星球其餘地區幾乎無法居住。天氣由人工控制，因此氣候相當溫和——除非控制系統失靈，屆時將大雨傾盆。"
 
-    # game/episode002.rpy:1605
+
     old "The most important feature of Ryūjin Prime is the university, home to an incredible amount of aliens, all devoted to the pursuit of science."
-    new ""
+    new "龍神主星最重要的特點是大學，是數量驚人的外星人的家園，他們都致力於追求科學"
 
-    # game/episode002.rpy:1605
+
     old "Ryūjin Prime is also the home of [p_name]'s aunt and cousin after they left Tuolovi."
-    new ""
+    new "自從離開託洛維星之後，[p_name]的姨媽和表妹也落戶龍神主星了。"
 
-    # game/episode002.rpy:1617
+
     old "Ryūjin Prime is also the home of Professor Nadya Grivans after she left Tuolovi."
-    new ""
+    new "娜迪亞·格瑞萬斯教授離開託洛維星後，同樣在龍神主星安了家。"
 
-    # game/episode002.rpy:1707
+
     old "Raven-haired cousin of [p_name] and the daughter of Nadya. A skilled fighter and diplomat, Aven often accompanies her mother on scientific expeditions."
-    new ""
+    new "[p_name]的烏髮表妹，娜迪亞的親女兒。艾文戰鬥技巧精湛又善於外交，經常陪媽媽一起搞科考。"
 
-    # game/episode002.rpy:1718
+
     old "Childhood friend of [p_name]. Was taken away from Tuolovi by Nadya as a child. A skilled fighter and diplomat, Aven often accompanies Nadya on scientific expeditions."
-    new ""
+    new "[p_name]的童年玩伴。幼時被娜迪亞帶離託洛維星。作爲熟練的戰士與外交家，艾文常跟隨娜迪亞參與科學考察。"
 
-    # game/episode002.rpy:1787
-    old "Nadya"
-    new ""
 
-    # game/episode002.rpy:1787
     old "Mother of Aven and sister to Agust. After her sudden departure from Tuolovi she settled as a professor in Xenoanthropology at the university on Ryūjin Prime, where she lives with her daughter."
-    new ""
+    new "艾文的母親，阿古斯特的妹妹。突然離開託洛維星後，她在龍神主星的大學擔任外星人類學教授，並與女兒同住於此。"
 
-    # game/episode002.rpy:1797
+
     old "Family friend who left Tuolovi together with Aven under mysterious circumstances. After her unwilling departure from Tuolovi she settled as a professor in Xenoanthropology at the university on Ryūjin Prime, where she lives with Aven."
-    new ""
+    new "在神祕情況下與艾文一起離開託洛維星的家庭友人。在她不情願地離開託洛維星後，她在龍神主星的大學裡擔任外星人類學教授，並在那裡與艾文生活在一起。"
 
-    # game/episode002.rpy:1933
+
     old "Hreir Asteroid Base, Approach"
-    new ""
+    new "瑞爾小行星基地, 接近"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:23
+
+translate traditional_chinese strings:
+
+    # game/episode002.rpy:1169
+    old "The R’o are a tribal race without much interest in outer space. A few of them can be encountered on space stations, as can be expected. Most of the R’o live and die on their home planet, Nyiruan 12-Beta, after a hard life of farming or hunting and gathering."
+    new "拉歐人是缺乏星際探索興趣的部落種族。偶有族人在太空站出沒，但絕大多數拉歐人在母星尼如安12號β星度過，終其艱難的一生勞作於農耕或採集狩獵。"
 

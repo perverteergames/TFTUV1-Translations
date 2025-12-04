@@ -1,8164 +1,8144 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode008.rpy:52
+
+
 translate traditional_chinese episode008_0272f9ac:
 
-    # centered "{=chapter_heading}EPISODE 8{/=chapter_heading}"
-    centered ""
 
-# game/episode008.rpy:56
+    centered "{=chapter_heading}第8集{/=chapter_heading}"
+
+
 translate traditional_chinese episode008_db4df0a5:
 
-    # "Céline’s voice stirred me."
-    ""
 
-# game/episode008.rpy:58
+    "瑟琳的聲音驚醒了我。"
+
+
 translate traditional_chinese episode008_a4dfc018:
 
-    # "I nearly jumped from the bed fearing she’d caught me with my naked cousin lying in my arms."
-    ""
 
-# game/episode008.rpy:60
+    "我差點從牀上跳起來，怕她逮到我抱着赤裸的表妹在懷裡。"
+
+
 translate traditional_chinese episode008_8c5afba2:
 
-    # "I nearly jumped from the bed fearing she’d caught me with a naked girl lying in my arms."
-    ""
 
-# game/episode008.rpy:61
+    "我差點從牀上跳起來，怕她逮到我抱着一個赤裸的女孩在懷裡。"
+
+
 translate traditional_chinese episode008_aac1ba44:
 
-    # "Of course Céline was still on the bridge speaking via the ship’s comms."
-    ""
 
-# game/episode008.rpy:63
+    "當然瑟琳還在艦橋上，通過船的通話系統說話。"
+
+
 translate traditional_chinese episode008_309dfd99:
 
-    # "At the same time it hit me that I would have some explaining to do about my romantic entanglements to both Aven and Céline."
-    ""
 
-# game/episode008.rpy:64
+    "同時，我突然意識到我得向艾文和瑟琳解釋我的戀情糾纏。"
+
+
 translate traditional_chinese episode008_28c8a84f:
 
-    # "But I didn’t want to ruin the night Aven and I had just shared."
-    ""
 
-# game/episode008.rpy:65
+    "但我不想毀了艾文和我剛剛共享的這個夜晚。"
+
+
 translate traditional_chinese episode008_81b6a583:
 
-    # ce "[p_name] to bridge."
-    ce ""
 
-# game/episode008.rpy:67
+    ce "[p_name] 請到艦橋。"
+
+
 translate traditional_chinese episode008_c5100812:
 
-    # "I was about to rise when Aven lifted her head."
-    ""
 
-# game/episode008.rpy:68
+    "我正要起身時，艾文抬起了頭。"
+
+
 translate traditional_chinese episode008_b5a23179:
 
-    # av "Mmmm, stay?"
-    av ""
 
-# game/episode008.rpy:69
+    av "唔唔，留下？"
+
+
 translate traditional_chinese episode008_5bfca07f:
 
-    # c "I need to get to the bridge, it’s probably something important."
-    c ""
 
-# game/episode008.rpy:70
+    c "我得去艦橋上，可能有什麼重要的事。"
+
+
 translate traditional_chinese episode008_5cdf32b9:
 
-    # av "I know..."
-    av ""
 
-# game/episode008.rpy:71
+    av "我知道..."
+
+
 translate traditional_chinese episode008_1be38555:
 
-    # av "Go then, I’ll slip out a little later."
-    av ""
 
-# game/episode008.rpy:74
+    av "那去吧，我稍後溜出來。"
+
+
 translate traditional_chinese episode008_81b6a583_1:
 
-    # ce "[p_name] to bridge."
-    ce ""
 
-# game/episode008.rpy:75
+    ce "[p_name] 請到艦橋。"
+
+
 translate traditional_chinese episode008_db4df0a5_1:
 
-    # "Céline’s voice stirred me."
-    ""
 
-# game/episode008.rpy:76
+    "瑟琳的聲音驚醒了我。"
+
+
 translate traditional_chinese episode008_b9abfb65:
 
-    # "I was with her before she could repeat her message over the comms."
-    ""
 
-# game/episode008.rpy:81
+    "在她通過通話重複消息之前，我已經和她在一起了。"
+
+
 translate traditional_chinese episode008_551df8f1:
 
-    # c "Have we arrived?"
-    c ""
 
-# game/episode008.rpy:83
+    c "我們到了嗎？"
+
+
 translate traditional_chinese episode008_451ee1ad:
 
-    # ce "Nearly there."
-    ce ""
 
-# game/episode008.rpy:84
+    ce "快到了。"
+
+
 translate traditional_chinese episode008_7afc53b0:
 
-    # c "You just wanted me here in case we get toasted by all that radiation?"
-    c ""
 
-# game/episode008.rpy:85
+    c "你只是想讓我在這兒以防我們被那些輻射烤焦？"
+
+
 translate traditional_chinese episode008_02924998:
 
-    # ce "Something like that."
-    ce ""
 
-# game/episode008.rpy:87
+    ce "差不多類似那樣的事。"
+
+
 translate traditional_chinese episode008_5a123a95:
 
-    # "Céline disengaged the S-K drive and stared at the monitors in front of her intently."
-    ""
 
-# game/episode008.rpy:88
+    "瑟琳斷開了西拉斯-卡岑引擎，專注地盯着面前的顯示器。"
+
+
 translate traditional_chinese episode008_dbe691fe:
 
-    # c "Are we dead?"
-    c ""
 
-# game/episode008.rpy:90
+    c "我們死了嗎？"
+
+
 translate traditional_chinese episode008_a60de23b:
 
-    # ce "No, but we’re where we should be."
-    ce ""
 
-# game/episode008.rpy:91
+    ce "沒，但我們到了該到的地方。"
+
+
 translate traditional_chinese episode008_3df9bc9c:
 
-    # ce "Our scanners are picking up an anomaly."
-    ce ""
 
-# game/episode008.rpy:92
+    ce "我們的掃描器在偵測到一個異常。"
+
+
 translate traditional_chinese episode008_5c28efc3:
 
-    # c "The microquasar?"
-    c ""
 
-# game/episode008.rpy:93
+    c "微類星體？"
+
+
 translate traditional_chinese episode008_90a37fc4:
 
-    # ce "I don’t think so."
-    ce ""
 
-# game/episode008.rpy:94
+    ce "我不這麼認爲。"
+
+
 translate traditional_chinese episode008_548d9d7c:
 
-    # ce "It’s something though, but I need more readings."
-    ce ""
 
-# game/episode008.rpy:95
+    ce "這倒是點什麼東西，但還需要更多讀數。"
+
+
 translate traditional_chinese episode008_ab63fdbe:
 
-    # ce "I’ll let you know once I’ve found out more."
-    ce ""
 
-# game/episode008.rpy:96
+    ce "我一了解更多就告訴你。"
+
+
 translate traditional_chinese episode008_a30b8613:
 
-    # c "Right, catch you later."
-    c ""
 
-# game/episode008.rpy:98
+    c "好的，回頭見。"
+
+
 translate traditional_chinese episode008_f0a8486a:
 
-    # "When I left the bridge Jade contacted me."
-    ""
 
-# game/episode008.rpy:101
+    "當我離開艦橋時，傑德聯繫了我。"
+
+
 translate traditional_chinese episode008_222ddc8e:
 
-    # "She was at the workbench in the engine room."
-    ""
 
-# game/episode008.rpy:102
+    "她在引擎房的工作檯那裡。"
+
+
 translate traditional_chinese episode008_c8b615ef:
 
-    # c "Is Thyia not with you?"
-    c ""
 
-# game/episode008.rpy:104
+    c "塞婭沒跟你在一起嗎？"
+
+
 translate traditional_chinese episode008_68fd0f73:
 
-    # j "No, she’s spending time with Lilly I believe."
-    j ""
 
-# game/episode008.rpy:105
+    j "不，我相信她正和莉莉一起打發時間。"
+
+
 translate traditional_chinese episode008_16c52370:
 
-    # c "What did you need me for?"
-    c ""
 
-# game/episode008.rpy:108
+    c "你需要我幹什麼？"
+
+
 translate traditional_chinese episode008_fd998250:
 
-    # "She was still in the infirmary, convalescing from her foot wound."
-    ""
 
-# game/episode008.rpy:111
+    "她還在醫務室裏，康復她的腳傷。"
+
+
 translate traditional_chinese episode008_c968cdd6:
 
-    # c "How’s the patient, doctor?"
-    c ""
 
-# game/episode008.rpy:113
+    c "病人怎麼樣了，醫生？"
+
+
 translate traditional_chinese episode008_2f2289c5:
 
-    # t "Stubborn and willful."
-    t ""
 
-# game/episode008.rpy:114
+    t "固執又任性。"
+
+
 translate traditional_chinese episode008_2fba4dd6:
 
-    # t "She wanted to get out of bed and walk to the bridge."
-    t ""
 
-# game/episode008.rpy:115
+    t "她想下牀，走到艦橋去。"
+
+
 translate traditional_chinese episode008_2b11a527:
 
-    # t "At which point I had to remind her of the bullet wound in her foot."
-    t ""
 
-# game/episode008.rpy:117
+    t "在那時我不得不提醒她她腳上的槍傷。"
+
+
 translate traditional_chinese episode008_b6f0e83f:
 
-    # j "Is that you, master?"
-    j ""
 
-# game/episode008.rpy:119
+    j "是你嗎，主人？"
+
+
 translate traditional_chinese episode008_059cbd5c:
 
-    # j "Thim, you really need to learn about doctor-patient confidentiality."
-    j ""
 
-# game/episode008.rpy:120
+    j "蒂姆，你真的需要學學醫患保密原則。"
+
+
 translate traditional_chinese episode008_42ceab42:
 
-    # c "I’ll go check up on the patient."
-    c ""
 
-# game/episode008.rpy:121
+    c "我去看看病人。"
+
+
 translate traditional_chinese episode008_e538c43b:
 
-    # c "I hear you’re not exactly a model patient?"
-    c ""
 
-# game/episode008.rpy:123
+    c "我聽說你可不是個模範病人？"
+
+
 translate traditional_chinese episode008_4c46ea2c:
 
-    # j "I guess I haven’t been, but lying here doing nothing is just terrible."
-    j ""
 
-# game/episode008.rpy:124
+    j "我想我不是，但躺在這兒無所事事真難受。"
+
+
 translate traditional_chinese episode008_21474721:
 
-    # j "But I found a project to work on."
-    j ""
 
-# game/episode008.rpy:127
+    j "但我找了個項目來做。"
+
+
 translate traditional_chinese episode008_34f0a009:
 
-    # c "How are you holding up?"
-    c ""
 
-# game/episode008.rpy:128
+    c "你還好吧？"
+
+
 translate traditional_chinese episode008_c6960a19:
 
-    # j "I’m feeling fine."
-    j ""
 
-# game/episode008.rpy:129
+    j "我感覺不錯。"
+
+
 translate traditional_chinese episode008_a6b15356:
 
-    # j "I’ll be up and running in no time."
-    j ""
 
-# game/episode008.rpy:130
+    j "我很快就能站起來並奔跑。"
+
+
 translate traditional_chinese episode008_c86e4f2e:
 
-    # c "Be sure to take enough rest."
-    c ""
 
-# game/episode008.rpy:131
+    c "保證好好休息。"
+
+
 translate traditional_chinese episode008_33a3a5ef:
 
-    # c "You messaged me?"
-    c ""
 
-# game/episode008.rpy:133
+    c "你發消息給我了？"
+
+
 translate traditional_chinese episode008_715a74f0:
 
-    # j "I’ve been messing around with Cetruvar’s tablet, looking at some of the encrypted files."
-    j ""
 
-# game/episode008.rpy:134
+    j "我一直在擺弄塞特魯瓦的平板，查看一些加密文件。"
+
+
 translate traditional_chinese episode008_c165739d:
 
-    # c "And?{w} Have you found more on the Acarhyn?"
-    c ""
 
-# game/episode008.rpy:135
+    c "還有呢？{w} 你有找到更多關於阿卡海茵人的東西嗎？"
+
+
 translate traditional_chinese episode008_bc1c1e98:
 
-    # j "Sadly, no, nothing more on them."
-    j ""
 
-# game/episode008.rpy:136
+    j "唉，沒有，關於他們沒什麼更多的東西了。"
+
+
 translate traditional_chinese episode008_75db6e3a:
 
-    # j "But I’ve found something else, security footage."
-    j ""
 
-# game/episode008.rpy:137
+    j "但我找到了別的東西，監控錄像。"
+
+
 translate traditional_chinese episode008_6e6ce20e:
 
-    # c "Oh?"
-    c ""
 
-# game/episode008.rpy:138
+    c "哦？"
+
+
 translate traditional_chinese episode008_c6576e41:
 
-    # j "Apparently Cetruvar had some of the feeds forwarded to his tablet, probably convenient."
-    j ""
 
-# game/episode008.rpy:139
+    j "顯然塞特魯瓦把一些錄像傳到了他的平板上，可能圖方便吧。"
+
+
 translate traditional_chinese episode008_ee01a883:
 
-    # j "One of them was of the cell they stashed that woman in, the one that apparently killed herself?"
-    j ""
 
-# game/episode008.rpy:140
+    j "其中一個是他們囚禁的那個女人的牢房的錄像，就是那個好像自殺了的那個？"
+
+
 translate traditional_chinese episode008_07763f22:
 
-    # j "She mostly sits there for the duration of the video and does some exercises, but I found two interesting things."
-    j ""
 
-# game/episode008.rpy:145
+    j "她大部分時間坐在那兒，視頻期間還做點運動，但我發現兩個有趣的事情。"
+
+
 translate traditional_chinese episode008_c188b146:
 
-    # j "Shall I show them to you?"
-    j ""
 
-# game/episode008.rpy:146
+    j "要讓我給你看看嗎？"
+
+
 translate traditional_chinese episode008_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode008.rpy:147
+    c "當然。"
+
+
 translate traditional_chinese episode008_5688374b:
 
-    # j "There’s one snippet just before evening falls and one where the video feed has been cut out, so there’s only audio."
-    j ""
 
-# game/episode008.rpy:159
+    j "有一段是在傍晚之前，另一段錄像被切斷了，所以只有音頻。"
+
+
 translate traditional_chinese ep008_footage_ca72bc28:
 
-    # "Jade showed me a video of the woman pacing around her cell."
-    ""
 
-# game/episode008.rpy:160
+    "傑德給我看了一段那女人在牢房裡踱步的視頻。"
+
+
 translate traditional_chinese ep008_footage_c93888d5:
 
-    # c "So she’s pacing?"
-    c ""
 
-# game/episode008.rpy:161
+    c "所以她在踱步？"
+
+
 translate traditional_chinese ep008_footage_06c9d523:
 
-    # c "Wait, is she muttering something?"
-    c ""
 
-# game/episode008.rpy:162
+    c "等等，她在嘀咕什麼嗎？"
+
+
 translate traditional_chinese ep008_footage_e9c7a1b3:
 
-    # j "She is."
-    j ""
 
-# game/episode008.rpy:163
+    j "是的。"
+
+
 translate traditional_chinese ep008_footage_2fdf298b:
 
-    # c "Can you enhance the audio?"
-    c ""
 
-# game/episode008.rpy:164
+    c "你能增強一下音頻嗎？"
+
+
 translate traditional_chinese ep008_footage_f2adb859:
 
-    # j "I tried, it’s not perfect, but you can get the gist."
-    j ""
 
-# game/episode008.rpy:165
+    j "我試了，不太完美，但你能聽個大概。"
+
+
 translate traditional_chinese ep008_footage_8717dd63:
 
-    # j "It sounds like a bunch of nonsense to me, a prayer or something."
-    j ""
 
-# game/episode008.rpy:166
+    j "聽着像一堆胡話，像禱告還是什麼的。"
+
+
 translate traditional_chinese ep008_footage_8bd36584:
 
-    # j "She keeps repeating it too."
-    j ""
 
-# game/episode008.rpy:171
+    j "她還一直重複這話。"
+
+
 translate traditional_chinese ep008_footage_8d0e63d0:
 
-    # woman "In the dying light of triple suns..."
-    woman ""
 
-# game/episode008.rpy:172
+    woman "在三個太陽的餘暉中..."
+
+
 translate traditional_chinese ep008_footage_025d5c08:
 
-    # woman "I hum a binary tune..."
-    woman ""
 
-# game/episode008.rpy:173
+    woman "我哼着二重曲調..."
+
+
 translate traditional_chinese ep008_footage_bbd78157:
 
-    # woman "My ears shatter as the great bear roars..."
-    woman ""
 
-# game/episode008.rpy:174
+    woman "當大熊咆哮時，我的耳朵碎裂..."
+
+
 translate traditional_chinese ep008_footage_a1e04297:
 
-    # woman "And my feet touch dust and bone..."
-    woman ""
 
-# game/episode008.rpy:175
+    woman "而我的雙足踏碎塵土與骸骨..."
+
+
 translate traditional_chinese ep008_footage_bbcebef7:
 
-    # woman "As I walk across a field of ancient hubris and conceit..."
-    woman ""
 
-# game/episode008.rpy:176
+    woman "當我行過這片古早的傲慢與狂妄之地..."
+
+
 translate traditional_chinese ep008_footage_c0bae210:
 
-    # woman "In the abyss of birds..."
-    woman ""
 
-# game/episode008.rpy:177
+    woman "在飛鳥的深淵裡..."
+
+
 translate traditional_chinese ep008_footage_eba2e19c:
 
-    # woman "When the augur strikes the anvil of ingress..."
-    woman ""
 
-# game/episode008.rpy:182
+    woman "當預言者敲擊入界的鐵砧..."
+
+
 translate traditional_chinese ep008_footage_c39c6dd6:
 
-    # woman "Hippolyta births the singularity..."
-    woman ""
 
-# game/episode008.rpy:183
+    woman "希波呂忒誕下奇點..."
+
+
 translate traditional_chinese ep008_footage_5baf5663:
 
-    # woman "While chaos rides a metal warhorse..."
-    woman ""
 
-# game/episode008.rpy:184
+    woman "當混亂騎着金屬戰馬..."
+
+
 translate traditional_chinese ep008_footage_d80d619c:
 
-    # woman "My desiccated mouth tastes of ashes..."
-    woman ""
 
-# game/episode008.rpy:185
+    woman "我乾涸的脣齒嘗盡灰燼..."
+
+
 translate traditional_chinese ep008_footage_ef85c5de:
 
-    # woman "My aberrative mind shatters..."
-    woman ""
 
-# game/episode008.rpy:190
+    woman "我畸變的意識支離破碎..."
+
+
 translate traditional_chinese ep008_footage_8862e58e:
 
-    # woman "As I abscind and coalesce..."
-    woman ""
 
-# game/episode008.rpy:191
+    woman "於撕裂又熔合的瞬間..."
+
+
 translate traditional_chinese ep008_footage_79f64ba1:
 
-    # woman "In the throes of supreme vicissitude..."
-    woman ""
 
-# game/episode008.rpy:192
+    woman "在至高更迭的劇痛中..."
+
+
 translate traditional_chinese ep008_footage_a5093220:
 
-    # woman "I awaken, forever torn..."
-    woman ""
 
-# game/episode008.rpy:193
+    woman "我猛然甦醒，永世割裂..."
+
+
 translate traditional_chinese ep008_footage_b95aec5f:
 
-    # woman "Between Tartarus and Cucaniensis."
-    woman ""
 
-# game/episode008.rpy:194
+    woman "在塔爾塔羅斯與庫卡尼恩西斯之間"
+
+
 translate traditional_chinese ep008_footage_0b84f6e7:
 
-    # c "Well, it sure is weird."
-    c ""
 
-# game/episode008.rpy:195
+    c "唔，這也太怪了吧。"
+
+
 translate traditional_chinese ep008_footage_dfa46fe1:
 
-    # c "Does it sound like something religious to you?"
-    c ""
 
-# game/episode008.rpy:200
+    c "你聽着像宗教玩意兒嗎？"
+
+
 translate traditional_chinese ep008_footage_728a94b9:
 
-    # j "I’m not sure, my knowledge of human religions is a little hazy, to be honest."
-    j ""
 
-# game/episode008.rpy:201
+    j "說真的，我對人類宗教的了解有點模糊。"
+
+
 translate traditional_chinese ep008_footage_fb6579d6:
 
-    # c "Show this to Nadya and Aven, but to no one else."
-    c ""
 
-# game/episode008.rpy:202
+    c "只準給娜迪亞和艾文看，別讓其他人知道。"
+
+
 translate traditional_chinese ep008_footage_88af4dc5:
 
-    # j "Right, I will."
-    j ""
 
-# game/episode008.rpy:210
+    j "明白，我會的。"
+
+
 translate traditional_chinese ep008_footage_97097e20:
 
-    # "The woman stared out over the ocean until night had fallen."
-    ""
 
-# game/episode008.rpy:211
+    "女人凝望着海面，直到夜色吞沒餘暉。"
+
+
 translate traditional_chinese ep008_footage_21814d58:
 
-    # "When she sat on her bed there was a sound of a door opening."
-    ""
 
-# game/episode008.rpy:212
+    "當她坐回牀沿時，傳來門扉開啓的聲響。"
+
+
 translate traditional_chinese ep008_footage_fd8b5e6c:
 
-    # "At that moment the video feed was cut, only voices could be heard."
-    ""
 
-# game/episode008.rpy:217
+    "此時畫面戛然而止，唯餘沙沙的對話聲。"
+
+
 translate traditional_chinese ep008_footage_a3c08105:
 
-    # woman "You’ve come."
-    woman ""
 
-# game/episode008.rpy:218
+    woman "你來了。"
+
+
 translate traditional_chinese ep008_footage_de7bce3a:
 
-    # "The other person in the room either didn’t speak or their speech was inaudible."
-    ""
 
-# game/episode008.rpy:219
+    "房內另一人要麼沉默不語，要麼聲若蚊吶。"
+
+
 translate traditional_chinese ep008_footage_24d35207:
 
-    # woman "For my failure I’m supposed to end my life, there’s no escape."
-    woman ""
 
-# game/episode008.rpy:220
+    woman "任務失敗就該自我了斷，逃不掉的。"
+
+
 translate traditional_chinese ep008_footage_78ed0734:
 
-    # woman "I’ve accepted this."
-    woman ""
 
-# game/episode008.rpy:221
+    woman "我認命了。"
+
+
 translate traditional_chinese ep008_footage_4d6f0f31:
 
-    # woman "Tell our master it has been an honor to serve."
-    woman ""
 
-# game/episode008.rpy:222
+    woman "告訴我們的主人，能爲他服務真是榮幸之至。"
+
+
 translate traditional_chinese ep008_footage_fa9cf724:
 
-    # "Again the sound of a door, followed by a resigned sigh from the woman."
-    ""
 
-# game/episode008.rpy:223
+    "又一次門聲，緊接着是女人無奈的嘆息聲。"
+
+
 translate traditional_chinese ep008_footage_514dba4b:
 
-    # "Then the unmistakable sound of steel piercing flesh, heavy grunting."
-    ""
 
-# game/episode008.rpy:224
+    "然後是不會聽錯的鋼鐵刺穿肉體的聲音，伴隨着沉重的悶哼。"
+
+
 translate traditional_chinese ep008_footage_52728f8c:
 
-    # "A body dropping to the floor, followed by soft gurgling."
-    ""
 
-# game/episode008.rpy:225
+    "一具身體倒在地板上，隨後是輕柔的咕嘟聲。"
+
+
 translate traditional_chinese ep008_footage_8bc0b51c:
 
-    # c "Someone slipped her a weapon."
-    c ""
 
-# game/episode008.rpy:226
+    c "有人偷偷塞給她一把武器。"
+
+
 translate traditional_chinese ep008_footage_8e02655f:
 
-    # c "One of the guards?"
-    c ""
 
-# game/episode008.rpy:231
+    c "其中一個守衛嗎？"
+
+
 translate traditional_chinese ep008_footage_6be0ff0e:
 
-    # j "I’m not sure."
-    j ""
 
-# game/episode008.rpy:232
+    j "我不確定。"
+
+
 translate traditional_chinese ep008_footage_3979c0a6:
 
-    # j "As far as I can discern the other person in the room doesn’t speak to the prisoner."
-    j ""
 
-# game/episode008.rpy:233
+    j "據我所知，房間裡的另一個人沒有對囚犯說話。"
+
+
 translate traditional_chinese ep008_footage_fc41786c:
 
-    # j "But I think she’s handed a knife before the other person leaves. "
-    j ""
 
-# game/episode008.rpy:234
+    j "但我想在那人離開前，她就被遞了一把刀。 "
+
+
 translate traditional_chinese ep008_footage_5d09ee84:
 
-    # j "The video of the feed never comes back."
-    j ""
 
-# game/episode008.rpy:235
+    j "視頻畫面再也沒有恢復。"
+
+
 translate traditional_chinese ep008_footage_cb16f6b7:
 
-    # c "Disturbing."
-    c ""
 
-# game/episode008.rpy:237
+    c "真讓人不安。"
+
+
 translate traditional_chinese ep008_footage_df32140e:
 
-    # c "I don’t think anyone else needs to see that night footage at the moment, but Aven or Nadya could provide some insight on the prayer."
-    c ""
 
-# game/episode008.rpy:239
+    c "我認爲現在沒人需要看那段夜間錄像，但艾文或娜迪亞或許能就祈禱提供一些見解。"
+
+
 translate traditional_chinese ep008_footage_cc97d063:
 
-    # c "Céline is analyzing the system we want to breach."
-    c ""
 
-# game/episode008.rpy:240
+    c "瑟琳正在分析我們想要入侵的那個系統。"
+
+
 translate traditional_chinese ep008_footage_49e060ea:
 
-    # c "It doesn’t seem to be an instant-death kind of deal."
-    c ""
 
-# game/episode008.rpy:242
+    c "它似乎不是那種一觸即死的類型。"
+
+
 translate traditional_chinese ep008_footage_be165e4f:
 
-    # j "I’ll join her shortly, see if I can help her."
-    j ""
 
-# game/episode008.rpy:243
+    j "我馬上就去找她，看看能不能幫上忙。"
+
+
 translate traditional_chinese ep008_footage_993ba4d9:
 
-    # c "Sounds good."
-    c ""
 
-# game/episode008.rpy:245
+    c "聽起來不錯。"
+
+
 translate traditional_chinese ep008_footage_9ed83b73:
 
-    # c "Get well soon, Jade."
-    c ""
 
-# game/episode008.rpy:248
+    c "早日康復，傑德。"
+
+
 translate traditional_chinese ep008_footage_dc22cad3:
 
-    # j "I will master."
-    j ""
 
-# game/episode008.rpy:250
+    j "我會的，主人。"
+
+
 translate traditional_chinese ep008_footage_c2cbbb51:
 
-    # j "Thanks."
-    j ""
 
-# game/episode008.rpy:257
+    j "謝謝。"
+
+
 translate traditional_chinese ep008_footage_28dd2874:
 
-    # "Eventually, Céline pinged me and asked if I would rejoin her on the bridge."
-    ""
 
-# game/episode008.rpy:258
+    "最終，瑟琳聯絡我問能不能重新到艦橋上找她。"
+
+
 translate traditional_chinese ep008_footage_ffce97b4:
 
-    # c "Do you know what's inside that nebula?"
-    c ""
 
-# game/episode008.rpy:260
+    c "你知道那片星雲裏有什麼嗎？"
+
+
 translate traditional_chinese ep008_footage_29cee4f0:
 
-    # ce "Yes, I'm pretty sure it's a single planet orbiting a yellow dwarf."
-    ce ""
 
-# game/episode008.rpy:261
+    ce "知道，我相當肯定是一顆圍繞着黃矮星運行的行星。"
+
+
 translate traditional_chinese ep008_footage_a8b98eb9:
 
-    # ce "Many of the readings just don't make sense."
-    ce ""
 
-# game/episode008.rpy:262
+    ce "許多讀數很難解釋。"
+
+
 translate traditional_chinese ep008_footage_8ef7a511:
 
-    # ce "A cursory look would make you believe it truly is the irradiated mess it appears to be."
-    ce ""
 
-# game/episode008.rpy:263
+    ce "粗略一看會讓你相信它確實就像表面上那樣是片受到輻射的混亂區域。"
+
+
 translate traditional_chinese ep008_footage_28910be1:
 
-    # ce "But there's a pattern to the distortions."
-    ce ""
 
-# game/episode008.rpy:264
+    ce "但這些扭曲是有規律的。"
+
+
 translate traditional_chinese ep008_footage_b594cbe5:
 
-    # c "Like someone or something is actively manipulating the readings?"
-    c ""
 
-# game/episode008.rpy:265
+    c "就好像有什麼人或什麼東西在主動操縱那些讀數？"
+
+
 translate traditional_chinese ep008_footage_f2f7cb2d:
 
-    # ce "That seems likely."
-    ce ""
 
-# game/episode008.rpy:266
+    ce "看來是那麼回事。"
+
+
 translate traditional_chinese ep008_footage_e57d0aee:
 
-    # ce "I sent out a probe and it came back clean."
-    ce ""
 
-# game/episode008.rpy:267
+    ce "我派了個探測器出去，它返回時什麼問題也沒有。"
+
+
 translate traditional_chinese ep008_footage_0bd19479:
 
-    # ce "There's no radiation in that nebula, or at least not a lethal amount."
-    ce ""
 
-# game/episode008.rpy:268
+    ce "那個星雲裏沒有輻射，至少沒有致命劑量。"
+
+
 translate traditional_chinese ep008_footage_a36081d9:
 
-    # ce "So I started cross-referencing all of the data I had and I'm pretty sure there's a small planet in the center of that gas cloud."
-    ce ""
 
-# game/episode008.rpy:269
+    ce "所以我開始交叉比對所有數據，我敢打賭那片氣體雲中央有顆小行星。"
+
+
 translate traditional_chinese ep008_footage_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode008.rpy:270
+    c "很好。"
+
+
 translate traditional_chinese ep008_footage_058d2687:
 
-    # c "I'll call the others."
-    c ""
 
-# game/episode008.rpy:271
+    c "我去叫其他人。"
+
+
 translate traditional_chinese ep008_footage_cab6f41a:
 
-    # c "Time to see that planet for ourselves."
-    c ""
 
-# game/episode008.rpy:273
+    c "該我們自己去看看那顆行星了。"
+
+
 translate traditional_chinese ep008_footage_53ec897c:
 
-    # "Aven, Kit and Nadya joined us on the bridge and Céline brought them up to speed."
-    ""
 
-# game/episode008.rpy:274
+    "艾文、基特和娜迪亞來艦橋會合，瑟琳給他們更新了情況。"
+
+
 translate traditional_chinese ep008_footage_4ee95238:
 
-    # "Nadya wanted to check the readouts from the probe multiple times before she signed off on entering the nebula."
-    ""
 
-# game/episode008.rpy:275
+    "娜迪亞想在批准進入星雲前，把探測器讀數反反覆覆檢查好幾遍先。"
+
+
 translate traditional_chinese ep008_footage_3e33226e:
 
-    # "Her findings, which corresponded with Céline's, seemed to put Aven's mind at ease."
-    ""
 
-# game/episode008.rpy:276
+    "她的發現和瑟琳的一致，似乎讓艾文放下心來了。"
+
+
 translate traditional_chinese ep008_footage_a5185f44:
 
-    # c "Céline, would you please be so kind as to fly us swiftly into the Horrific Nebula of Certain Death?"
-    c ""
 
-# game/episode008.rpy:278
+    c "瑟琳，請你行行好趕緊把我們開進那個恐怖的必死星雲去吧？"
+
+
 translate traditional_chinese ep008_footage_f0dd5f26:
 
-    # ce "Aye, aye, sir!"
-    ce ""
 
-# game/episode008.rpy:280
+    ce "遵命，長官！"
+
+
 translate traditional_chinese ep008_footage_07a5082a:
 
-    # na "Let's abstain from the gallows humor before we actually reach our destination."
-    na ""
 
-# game/episode008.rpy:281
+    na "在我們真正到達目的地之前，別玩那些黑色幽默了。"
+
+
 translate traditional_chinese ep008_footage_b5a7e606:
 
-    # c "That does kind of defeat the purpose, doesn't it?"
-    c ""
 
-# game/episode008.rpy:283
+    c "那可就有點沒意思了，對吧？"
+
+
 translate traditional_chinese ep008_footage_fab5d9fb:
 
-    # "Despite the reassuring test results about the true nature of the gas cloud, I was more than apprehensive."
-    ""
 
-# game/episode008.rpy:284
+    "儘管測試結果說氣體雲的本質很安全，可我心裡還是七上八下的。"
+
+
 translate traditional_chinese ep008_footage_94093eeb:
 
-    # "The readings of the ship's instruments became increasingly erratic as we neared our point of entry into the nebula."
-    ""
 
-# game/episode008.rpy:285
+    "當我們靠近星雲入口點，飛船儀表讀數就越來越抽風。"
+
+
 translate traditional_chinese ep008_footage_1e6c76be:
 
-    # "Several warnings told us we were subjected to extremely high doses of lethal radiation at that moment."
-    ""
 
-# game/episode008.rpy:286
+    "警報還接二連三說我們當時正被致命的高輻射狂轟濫炸。"
+
+
 translate traditional_chinese ep008_footage_b85aad11:
 
-    # "After the tenth death spike registered by our systems failed to kill us I became more confident of our gamble."
-    ""
 
-# game/episode008.rpy:287
+    "在我們的系統記錄的第十次死亡高峯未能殺死我們之後，我對我們的賭博變得更有信心了。"
+
+
 translate traditional_chinese ep008_footage_320dec67:
 
-    # "We were now completely inside the nebula, honing in on the location of the only planet in the system."
-    ""
 
-# game/episode008.rpy:288
+    "這會兒我們完全扎進星雲裏了，正對着系統裏唯一行星的位置摸過去。"
+
+
 translate traditional_chinese ep008_footage_0f60cbd2:
 
-    # "All of a sudden, all the death warnings were gone from the ship's console and we cleared the nebula."
-    ""
 
-# game/episode008.rpy:290
+    "突然之間，艦橋控制臺所有死亡警告全沒了，我們總算衝出了星雲。"
+
+
 translate traditional_chinese ep008_footage_3d8f9431:
 
-    # ce "There it is."
-    ce ""
 
-# game/episode008.rpy:291
+    ce "就在那兒。"
+
+
 translate traditional_chinese ep008_footage_31437019:
 
-    # c "Thank fuck it's not a failed star leaking into a black hole."
-    c ""
 
-# game/episode008.rpy:292
+    c "謝天謝地它不是什麼破恆星漏向黑洞的玩意兒。"
+
+
 translate traditional_chinese ep008_footage_40d28d14:
 
-    # ce "Just a boring little star and a boring little planet."
-    ce ""
 
-# game/episode008.rpy:294
+    ce "不過是一顆無聊的小恆星和一顆無聊的小行星。"
+
+
 translate traditional_chinese ep008_footage_5efabda0:
 
-    # av "I wouldn't be so sure about that, looks can be deceiving."
-    av ""
 
-# game/episode008.rpy:295
+    av "我可不會那麼肯定，外表可能會騙人。"
+
+
 translate traditional_chinese ep008_footage_d9b641da:
 
-    # c "Only one way to find out."
-    c ""
 
-# game/episode008.rpy:296
+    c "只有一個辦法才能搞清楚。"
+
+
 translate traditional_chinese ep008_footage_7a8486c1:
 
-    # "We approached the planet at brisk speed."
-    ""
 
-# game/episode008.rpy:297
+    "我們以輕快的速度接近了那顆行星。"
+
+
 translate traditional_chinese ep008_footage_8f874ac0:
 
-    # "As far as we could tell there was currently no one roaming local space, nor orbiting the planet."
-    ""
 
-# game/episode008.rpy:298
+    "據我們觀察，目前沒有人在本地空間閒逛，也沒圍着行星軌道轉。"
+
+
 translate traditional_chinese ep008_footage_2c7b67b0:
 
-    # av "It sure is very quiet."
-    av ""
 
-# game/episode008.rpy:299
+    av "真是靜得要命。"
+
+
 translate traditional_chinese ep008_footage_951c4dd6:
 
-    # c "You expected a welcome party?"
-    c ""
 
-# game/episode008.rpy:300
+    c "你還指望有歡迎派對啊？"
+
+
 translate traditional_chinese ep008_footage_1ab8e6f9:
 
-    # av "I really didn't know what to expect."
-    av ""
 
-# game/episode008.rpy:301
+    av "我根本不知道會怎麼樣。"
+
+
 translate traditional_chinese ep008_footage_98b32ad1:
 
-    # c "Well, maybe our welcome party is still planetside."
-    c ""
 
-# game/episode008.rpy:302
+    c "嗯，說不定歡迎團還在行星表面等着呢。"
+
+
 translate traditional_chinese ep008_footage_821d21fe:
 
-    # c "Let's break orbit."
-    c ""
 
-# game/episode008.rpy:303
+    c "我們撤出軌道吧。"
+
+
 translate traditional_chinese ep008_footage_ca55033f:
 
-    # "On my mark we began our descent."
-    ""
 
-# game/episode008.rpy:305
+    "聽我口令，我們開始下降。"
+
+
 translate traditional_chinese ep008_footage_6006d803:
 
-    # "As soon as we cleared the cloud deck of the planet we were able to see an immense forest stretching for miles."
-    ""
 
-# game/episode008.rpy:306
+    "剛穿出行星的雲層，我們就看到一片綿延好幾英裏的浩瀚森林。"
+
+
 translate traditional_chinese ep008_footage_50213420:
 
-    # "The Bastard's scanners were already collecting data."
-    ""
 
-# game/episode008.rpy:308
+    "\"私生子\"號的掃描儀已經在採集數據了。"
+
+
 translate traditional_chinese ep008_footage_4f9c48b8:
 
-    # na "According to our readings, this planet seems to be inhabited."
-    na ""
 
-# game/episode008.rpy:309
+    na "根據讀數，這個行星似乎有居民。"
+
+
 translate traditional_chinese ep008_footage_f3b793bb:
 
-    # c "Anything to the contrary would be a big disappointment up to this point."
-    c ""
 
-# game/episode008.rpy:311
+    c "要是沒有，到現在可太叫人失望了。"
+
+
 translate traditional_chinese ep008_footage_63d0977e:
 
-    # ce "There are several mountain ranges in the vicinity."
-    ce ""
 
-# game/episode008.rpy:312
+    ce "附近有幾座山脈。"
+
+
 translate traditional_chinese ep008_footage_8232d740:
 
-    # ce "Also, some large unidentified structures."
-    ce ""
 
-# game/episode008.rpy:313
+    ce "還有些大型未識別結構。"
+
+
 translate traditional_chinese ep008_footage_2abc6f8c:
 
-    # c "It might be worth getting a close look at those."
-    c ""
 
-# game/episode008.rpy:314
+    c "也許值得過去近距離瞧瞧。"
+
+
 translate traditional_chinese ep008_footage_568e085c:
 
-    # "Our ship sped across the outstretched jungle until the very large anomalies were in visual range."
-    ""
 
-# game/episode008.rpy:316
+    "我們的飛船疾馳過延展的叢林，直到那些龐然大物映入視野。"
+
+
 translate traditional_chinese ep008_footage_6617d50c:
 
-    # av "Those are the engines from a capital ship, aren't they?"
-    av ""
 
-# game/episode008.rpy:317
+    av "那些是大型戰艦的引擎，不是嗎？"
+
+
 translate traditional_chinese ep008_footage_00d11b49:
 
-    # c "Yes..."
-    c ""
 
-# game/episode008.rpy:318
+    c "沒錯..."
+
+
 translate traditional_chinese ep008_footage_2ad48e92:
 
-    # av "And that's the hull from a command carrier."
-    av ""
 
-# game/episode008.rpy:319
+    av "那是個指揮母艦的船體。"
+
+
 translate traditional_chinese ep008_footage_fabe4767:
 
-    # c "Maybe..."
-    c ""
 
-# game/episode008.rpy:320
+    c "說不定..."
+
+
 translate traditional_chinese ep008_footage_c891e20e:
 
-    # av "Is this some sort of ship graveyard?"
-    av ""
 
-# game/episode008.rpy:322
+    av "這難道是某種飛船墳場？"
+
+
 translate traditional_chinese ep008_footage_d8ce5cbc:
 
-    # "The ship's siren shocked us into alertness."
-    ""
 
-# game/episode008.rpy:323
+    "船的警笛聲把我們驚醒了。"
+
+
 translate traditional_chinese ep008_footage_ceb36b1d:
 
-    # ce "Missiles approaching!"
-    ce ""
 
-# game/episode008.rpy:324
+    ce "導彈來襲！"
+
+
 translate traditional_chinese ep008_footage_d59cdef9:
 
-    # c "From where?"
-    c ""
 
-# game/episode008.rpy:325
+    c "從哪兒來的？"
+
+
 translate traditional_chinese ep008_footage_fc23e010:
 
-    # ce "Not sure, the mountains, maybe?"
-    ce ""
 
-# game/episode008.rpy:326
+    ce "不清楚，可能是山裏？"
+
+
 translate traditional_chinese ep008_footage_f1f3ae5b:
 
-    # ce "Fuck!"
-    ce ""
 
-# game/episode008.rpy:328
+    ce "操！"
+
+
 translate traditional_chinese ep008_footage_21bf3c17:
 
-    # "Céline jerked the ship around in an attempt to evade the sudden onslaught of missiles."
-    ""
 
-# game/episode008.rpy:329
+    "瑟琳猛地轉向飛船試圖躲避突如其來的導彈襲擊。"
+
+
 translate traditional_chinese ep008_footage_23b4dddb:
 
-    # "The Bastard lurched and bucked, pulling through the first wave of projectiles relatively unscathed."
-    ""
 
-# game/episode008.rpy:330
+    "\"私生子\"號顛簸搖晃着，相對完好地躲過了第一波彈雨。"
+
+
 translate traditional_chinese ep008_footage_9aaddd16:
 
-    # "However, immediately after we cleared the initial assault, another volley followed."
-    ""
 
-# game/episode008.rpy:331
+    "可剛躲過襲擊，另一波接踵而至。"
+
+
 translate traditional_chinese ep008_footage_dce6237a:
 
-    # "Céline desperately tried to dodge the attack again, but failed."
-    ""
 
-# game/episode008.rpy:333
+    "瑟琳拼了命想再次躲閃攻擊，但失敗了。"
+
+
 translate traditional_chinese ep008_footage_1d9a154b:
 
-    # "The ship groaned and shuddered and explosions could be heard as several missiles hit the hull."
-    ""
 
-# game/episode008.rpy:334
+    "船體呻吟搖晃着，隨着導彈擊中船殼傳來爆炸聲。"
+
+
 translate traditional_chinese ep008_footage_1d08435d:
 
-    # "A chorus of alarms now drowned out much of the other sounds."
-    ""
 
-# game/episode008.rpy:335
+    "警報聲響成一片蓋過了大部分其它聲音。"
+
+
 translate traditional_chinese ep008_footage_929a846b:
 
-    # "The ship tilted suddenly, despite Céline's efforts to keep her steady."
-    ""
 
-# game/episode008.rpy:337
+    "儘管瑟琳努力穩住，飛船還是猛歪向一邊。"
+
+
 translate traditional_chinese ep008_footage_2d7902e4:
 
-    # "With a sickening speed the ship lurched towards the green canopy of the jungle beneath us."
-    ""
 
-# game/episode008.rpy:338
+    "船以令人作嘔的速度衝向我們下方的綠色叢林樹冠。"
+
+
 translate traditional_chinese ep008_footage_cd1b6f1c:
 
-    # "Multiple fires were being reported on the ship's monitors."
-    ""
 
-# game/episode008.rpy:340
+    "艦上顯示屏上報出多處起火。"
+
+
 translate traditional_chinese ep008_footage_e0e5e4b4:
 
-    # ce "We've lost control over the starboard thrusters."
-    ce ""
 
-# game/episode008.rpy:341
+    ce "右舷推進器失控了。"
+
+
 translate traditional_chinese ep008_footage_2600820e:
 
-    # c "Then get us on the ground in one piece."
-    c ""
 
-# game/episode008.rpy:342
+    c "那就想辦法讓我們平安着陸吧。"
+
+
 translate traditional_chinese ep008_footage_35807794:
 
-    # "I'm sure we all shared the panic palpable in Céline's voice."
-    ""
 
-# game/episode008.rpy:343
+    "我敢說我們都聽出了瑟琳聲音裏那股實打實的恐慌。"
+
+
 translate traditional_chinese ep008_footage_d43f6058:
 
-    # "There was nothing else we could do but brace ourselves for the inevitable."
-    ""
 
-# game/episode008.rpy:344
+    "我們別無他法只能硬着頭皮迎接不可避免的衝擊。"
+
+
 translate traditional_chinese ep008_footage_f58e2eb9:
 
-    # "Trying to make due with whatever control she had over the ship, Céline tried to decelerate and prepare for a crash landing."
-    ""
 
-# game/episode008.rpy:346
+    "瑟琳盡己所能操控着飛船，試圖減速爲迫降做準備。"
+
+
 translate traditional_chinese ep008_footage_2a071c43:
 
-    # "Glass broke when we hit the highest trees in the jungle and thick branches lashed at the ships hull."
-    ""
 
-# game/episode008.rpy:347
+    "撞上叢林最高的大樹時玻璃譁啦破碎，粗枝猛烈抽打着船殼。"
+
+
 translate traditional_chinese ep008_footage_bead9fd3:
 
-    # "The whole Bastard was shaking massively and groaning as if she was torn asunder."
-    ""
 
-# game/episode008.rpy:349
+    "整艘\"私生子\"號劇烈搖晃呻吟仿佛要被撕成兩半。"
+
+
 translate traditional_chinese ep008_footage_21006712:
 
-    # "Everything was dark all of a sudden as we plunged deeper into the jungle and the ship's electronics gave out."
-    ""
 
-# game/episode008.rpy:350
+    "隨着我們一頭栽進叢林深處，飛船電子設備驟然失靈，瞬間一片漆黑。"
+
+
 translate traditional_chinese ep008_footage_43ecee3e:
 
-    # "Combined with our speed, the ship was strong enough to plow through several trees and clear a path."
-    ""
 
-# game/episode008.rpy:352
+    "船憑着那股衝勁硬生生劈開了幾棵大樹，清出一條道。"
+
+
 translate traditional_chinese ep008_footage_ae693a68:
 
-    # "Moments after we dropped out of the sky, we hit the ground with a terrible crash."
-    ""
 
-# game/episode008.rpy:353
+    "從空中掉下來沒幾秒，我們就伴着可怕的巨響撞上了地面。"
+
+
 translate traditional_chinese ep008_footage_2e5a6784:
 
-    # "The nose of our ship burrowed itself into the wet soil of the wilderness."
-    ""
 
-# game/episode008.rpy:354
+    "飛船船首深深扎進荒野潮溼的泥土中。"
+
+
 translate traditional_chinese ep008_footage_60ed459c:
 
-    # "After several miles we finally came to an abrupt standstill."
-    ""
 
-# game/episode008.rpy:355
+    "滑行數英裏後，我們終於猛然停止。"
+
+
 translate traditional_chinese ep008_footage_c904289c:
 
-    # "The ear-splitting noise gradually subsided, replaced by the sounds of groaning metal and fires roaring to life."
-    ""
 
-# game/episode008.rpy:357
+    "震耳欲聾的巨響逐漸消退，取而代之的是金屬呻吟聲與火焰騰起的咆哮。"
+
+
 translate traditional_chinese ep008_footage_712c1633:
 
-    # "I forced myself out of the captain's chair and staggered around on the bridge."
-    ""
 
-# game/episode008.rpy:358
+    "我掙扎着爬出艦長椅，跌跌撞撞地在艦橋走動。"
+
+
 translate traditional_chinese ep008_footage_1bf6613b:
 
-    # "Amazingly, everyone seemed to be conscious and unharmed."
-    ""
 
-# game/episode008.rpy:359
+    "不可思議的是，大家似乎都意識清醒且毫髮無損。"
+
+
 translate traditional_chinese ep008_footage_f5476dc3:
 
-    # c "We need to get out of here."
-    c ""
 
-# game/episode008.rpy:360
+    c "我們必須離開這兒。"
+
+
 translate traditional_chinese ep008_footage_89fbda77:
 
-    # c "I'll get the others."
-    c ""
 
-# game/episode008.rpy:362
+    c "我去找其他人。"
+
+
 translate traditional_chinese ep008_footage_1c9eac1c:
 
-    # "I made my way to the ship's quarters and encountered most of the crew on my way."
-    ""
 
-# game/episode008.rpy:363
+    "前往船員艙途中，我遇到了大部分成員。"
+
+
 translate traditional_chinese ep008_footage_5884b834:
 
-    # "Our involuntary landing had torn deep gashes into the hull, even exposing one of the corridors to the outside air."
-    ""
 
-# game/episode008.rpy:365
+    "這次迫降在船體撕開深深的裂縫，甚至有條走廊直接暴露在外界空氣中。"
+
+
 translate traditional_chinese ep008_footage_9afc4531:
 
-    # "I paused, sensing something."
-    ""
 
-# game/episode008.rpy:366
+    "我突然停頓，察覺到異常。"
+
+
 translate traditional_chinese ep008_footage_33ccf88b:
 
-    # "It was as if the ground thrummed."
-    ""
 
-# game/episode008.rpy:368
+    "大地仿佛在震顫嗡鳴。"
+
+
 translate traditional_chinese ep008_footage_66472636:
 
-    # "Trees shook and fell to the ground as a very large mech stomped into view."
-    ""
 
-# game/episode008.rpy:369
+    "伴隨樹木搖晃倒塌，一臺巨型機甲踏入了視野。"
+
+
 translate traditional_chinese ep008_footage_89841a3a:
 
-    # "A large searchlight shone over the ruined Bastard."
-    ""
 
-# game/episode008.rpy:370
+    "巨型探照燈掃過殘破的\"私生子\"號。"
+
+
 translate traditional_chinese ep008_footage_36a8885f:
 
-    # "I ducked away too late and several large guns were trained at me."
-    ""
 
-# game/episode008.rpy:371
+    "我閃避不及，數管巨炮已然瞄準了我。"
+
+
 translate traditional_chinese ep008_footage_48c50bea:
 
-    # "The dull thumps on the ground could still be felt and I knew there were more mechs approaching."
-    ""
 
-# game/episode008.rpy:372
+    "地面持續傳來沉悶的震動，我知道更多機甲正在逼近。"
+
+
 translate traditional_chinese ep008_footage_bb65f426:
 
-    # "I stared at the mech's cockpit, waiting to be gunned down or for something else to happen."
-    ""
 
-# game/episode008.rpy:374
+    "我死死盯着機甲駕駛艙，等待子彈降臨或其他變故。"
+
+
 translate traditional_chinese ep008_footage_1c37417d:
 
-    # "Luckily, the person in the mech chose the latter option as a voice crackled through a loudspeaker."
-    ""
 
-# game/episode008.rpy:377
+    "幸運的是，機甲裏的人選擇了後者——擴音器突然爆出刺耳的嗓音。"
+
+
 translate traditional_chinese ep008_footage_7d51f1f8:
 
-    # woman "Surrender yourself and be spared."
-    woman ""
 
-# game/episode008.rpy:378
+    woman "投降不殺。"
+
+
 translate traditional_chinese ep008_footage_8059b80a:
 
-    # "With our ship in ruins and facing a bunch of colossal mechs, I didn't really know whether they expected us to do something else than surrendering."
-    ""
 
-# game/episode008.rpy:379
+    "飛船已成廢墟，面對這羣巨型機甲，我實在不知他們是否期待我們做出投降以外的舉動。"
+
+
 translate traditional_chinese ep008_footage_fab2d438:
 
-    # "But it was nice of them to offer us the illusion of choice."
-    ""
 
-# game/episode008.rpy:380
+    "但提供選擇的假象這點他們做得還不錯。"
+
+
 translate traditional_chinese ep008_footage_fe3acc96:
 
-    # "Regardless, I don't think any member of the crew begrudged me when I shouted my reply at the mechanical beast in front of me."
-    ""
 
-# game/episode008.rpy:381
+    "無論如何，當我朝眼前的機械巨獸吼出回應時，機組裡沒人對此心懷芥蒂。"
+
+
 translate traditional_chinese ep008_footage_53bcb50f:
 
-    # c "We surrender."
-    c ""
 
-# game/episode008.rpy:383
+    c "我們投降。"
+
+
 translate traditional_chinese ep008_footage_56d2b487:
 
-    # "Several mechs had now come into view, towering over the crash site."
-    ""
 
-# game/episode008.rpy:385
+    "此刻又有數臺機甲顯現，如山峯般俯視着墜機現場。"
+
+
 translate traditional_chinese ep008_footage_f4058f18:
 
-    # "In reply to my words, the cockpit hatch of the mech opened to reveal a woman."
-    ""
 
-# game/episode008.rpy:386
+    "作爲回應，機甲駕駛艙蓋開啓，露出裡面的女子。"
+
+
 translate traditional_chinese ep008_footage_b9e9d1e5:
 
-    # "Her garb looked instantly familiar and I knew we had found the Acarhyn."
-    ""
 
-# game/episode008.rpy:388
+    "她的服裝立刻看起來熟悉，我知道我們找到了阿卡海茵人。"
+
+
 translate traditional_chinese ep008_footage_48a11f85:
 
-    # woman "Bring out all of the crew. "
-    woman ""
 
-# game/episode008.rpy:389
+    woman "帶出所有艦員。 "
+
+
 translate traditional_chinese ep008_footage_41106b7a:
 
-    # woman "A salvage team will arrive shortly to treat any wounded and escort you back to the Citadel."
-    woman ""
 
-# game/episode008.rpy:391
+    woman "一個打撈隊很快就會到達，治療任何傷員，並護送你們回到\"城堡\"。"
+
+
 translate traditional_chinese ep008_footage_383b6bb8:
 
-    # "A group of warrior women arrived in a ground car after a few minutes."
-    ""
 
-# game/episode008.rpy:392
+    "一隊女戰士幾分鐘後乘坐地面車到達。"
+
+
 translate traditional_chinese ep008_footage_b23bb15c:
 
-    # "By then, the crew of the Bastard had abandoned ship and was waiting to be taken in."
-    ""
 
-# game/episode008.rpy:393
+    "那時，\"私生子\"號的機組成員已經棄船，正在等待被收容。"
+
+
 translate traditional_chinese ep008_footage_6618d485:
 
-    # "The darkness and smoke made it difficult to assess the damage to the ship, but I knew it was extensive."
-    ""
 
-# game/episode008.rpy:394
+    "黑暗和煙霧讓評估船隻損傷變得困難，但我知道損傷很嚴重。"
+
+
 translate traditional_chinese ep008_footage_c88e7458:
 
-    # "That aerial assault and subsequent crash landing might very well have been the Bastard's death sentence."
-    ""
 
-# game/episode008.rpy:395
+    "那次空襲和隨後的硬着陸可能就是\"私生子\"號的死刑宣告。"
+
+
 translate traditional_chinese ep008_footage_e3398c82:
 
-    # "We didn't have much time to dwell on it, because the women herded us into the armored ground car and we were swept away from the crash site."
-    ""
 
-# game/episode008.rpy:397
+    "我們沒多少時間思考，因爲那些女人把我們趕進地面裝甲車，我們被快速帶離墜機點。"
+
+
 translate traditional_chinese ep008_footage_563a93e8:
 
-    # "My only encounter with the Acarhyn had been on Lanan, so I only knew them as sword-wielding warriors wearing antiquated armor."
-    ""
 
-# game/episode008.rpy:398
+    "我與阿卡海茵人的唯一遭遇在拉南星，所以我只知道他們是揮舞劍的戰士，穿着老式盔甲。"
+
+
 translate traditional_chinese ep008_footage_2acdebba:
 
-    # "The level of technology on display here, including the mechs and anti-aircraft weapons, didn't mesh with my earlier estimation of their technical sophistication."
-    ""
 
-# game/episode008.rpy:400
+    "這裡展示的技術水平，包括機甲和防空武器，與我之前對它們技術複雜度的估計不符。"
+
+
 translate traditional_chinese ep008_footage_c71cbb59:
 
-    # "The journey by ground car took us nearly an hour."
-    ""
 
-# game/episode008.rpy:401
+    "乘坐地面車的旅程花了我們將近一個小時。"
+
+
 translate traditional_chinese ep008_footage_07bb7f84:
 
-    # "There were no windows in the car, so we had no idea where they were taking us."
-    ""
 
-# game/episode008.rpy:403
+    "車裡沒有窗戶，所以我們不知道他們要帶我們去哪裡。"
+
+
 translate traditional_chinese ep008_footage_aa70956a:
 
-    # "Nobody spoke, as we were still too numb from the crash we'd just endured."
-    ""
 
-# game/episode008.rpy:404
+    "沒有人說話，因爲我們剛從墜機中恢復過來，還很麻木。"
+
+
 translate traditional_chinese ep008_footage_35ba911b:
 
-    # "The two Acarhyn watching us likely also factored into that decision."
-    ""
 
-# game/episode008.rpy:405
+    "那兩個看着我們的阿卡海茵人很可能也影響了這個決定。"
+
+
 translate traditional_chinese ep008_footage_6130da21:
 
-    # "My ears popped and I had some trouble breathing for some time, a tell-tale sign we were gaining altitude."
-    ""
 
-# game/episode008.rpy:406
+    "我的耳朵感到爆音，並且一段時間呼吸困難，這是一個明顯跡象表明我們在升高中。"
+
+
 translate traditional_chinese ep008_footage_d32c8600:
 
-    # "We were very probably driving in some mountainous area."
-    ""
 
-# game/episode008.rpy:407
+    "我們很可能在某個山區行駛。"
+
+
 translate traditional_chinese ep008_footage_46687c55:
 
-    # "Abruptly we stopped."
-    ""
 
-# game/episode008.rpy:408
+    "突然我們停下來了。"
+
+
 translate traditional_chinese ep008_footage_89ca43d8:
 
-    # "Both Acarhyn motioned us to leave the ground car and to follow them."
-    ""
 
-# game/episode008.rpy:410
+    "兩個阿卡海茵人都示意我們離開地面車並跟隨他們。"
+
+
 translate traditional_chinese ep008_footage_c01f4ffa:
 
-    # "I squinted at the sunlight and took in the scenery surrounding me."
-    ""
 
-# game/episode008.rpy:411
+    "我眯着眼看陽光，並觀察了周圍的景色。"
+
+
 translate traditional_chinese ep008_footage_dccef9bd:
 
-    # "We were indeed on some mountain range, in front of something that looked like a very large medieval castle."
-    ""
 
-# game/episode008.rpy:412
+    "我們確實在某個山脈，面對着一個看起來非常巨大的中世紀\"城堡\"。"
+
+
 translate traditional_chinese ep008_footage_62835b57:
 
-    # "I was half-expecting some knight on horseback to come trotting through the gate, but somehow the very modern looking gun turrets on top of the towers spoiled that notion."
-    ""
 
-# game/episode008.rpy:414
+    "我本來還有點期待會看到個騎馬的騎士小跑着穿過大門，但塔頂上那些特別現代的炮塔不知怎的就把這念頭給破壞了。"
+
+
 translate traditional_chinese ep008_footage_57bf01aa:
 
-    # "We were forced to march single-file down a flight of stone stairs beneath the castle."
-    ""
 
-# game/episode008.rpy:418
+    "我們被迫排成一列沿着城堡下面的一段石階往下走。"
+
+
 translate traditional_chinese ep008_footage_f69fd913:
 
-    # "The medieval castle also appeared to have a medieval dungeon."
-    ""
 
-# game/episode008.rpy:420
+    "這個中世紀城堡似乎還帶了個中世紀的地牢。"
+
+
 translate traditional_chinese ep008_footage_9ae6c1fb:
 
-    # "Again, the rustic look was marred by a wealth of cameras and electronic security measures."
-    ""
 
-# game/episode008.rpy:421
+    "又一次，這種鄉土外觀被一堆攝像頭和電子安保設備給糟蹋了。"
+
+
 translate traditional_chinese ep008_footage_0d4a080f:
 
-    # "We passed several cells until the Acarhyn told us to stand against the wall."
-    ""
 
-# game/episode008.rpy:423
+    "我們經過幾個牢房後，阿卡海茵人就叫我們靠牆站着。"
+
+
 translate traditional_chinese ep008_footage_6eb648da:
 
-    # "The women were swiftly separated from the men and Kit, Thim and I were then pushed inside a jail cell."
-    ""
 
-# game/episode008.rpy:424
+    "女人們很快被和男人們分開，然後基特、蒂姆和我被推搡着塞進一個牢房裡。"
+
+
 translate traditional_chinese ep008_footage_df4701d7:
 
-    # "The door closed with a heavy thud and locked itself automatically."
-    ""
 
-# game/episode008.rpy:426
+    "門砰的一聲重重關上，然後自動被鎖死了。"
+
+
 translate traditional_chinese ep008_footage_8c190c61:
 
-    # "My eyes were still adjusting to the sparse light when an unfamiliar voice startled us."
-    ""
 
-# game/episode008.rpy:430
+    "我眼睛還在適應這點兒微光時，一個陌生的聲音突然嚇了我們一跳。"
+
+
 translate traditional_chinese ep008_footage_ddc05b03:
 
-    # man "New blood?"
-    man ""
 
-# game/episode008.rpy:431
+    man "又有新人？"
+
+
 translate traditional_chinese ep008_footage_ea3c77af:
 
-    # c "I guess you could say that."
-    c ""
 
-# game/episode008.rpy:432
+    c "我猜可以這麼說吧。"
+
+
 translate traditional_chinese ep008_footage_fe6e1648:
 
-    # "A man was sitting against the wall."
-    ""
 
-# game/episode008.rpy:433
+    "一個男人正靠牆坐着。"
+
+
 translate traditional_chinese ep008_footage_3fbea91f:
 
-    # "He wasn't wearing much, just a simple dirty smock."
-    ""
 
-# game/episode008.rpy:434
+    "他沒穿多少衣服，就一件簡單髒兮兮的罩袍。"
+
+
 translate traditional_chinese ep008_footage_30a82e39:
 
-    # c "You've been here a while, I take it?"
-    c ""
 
-# game/episode008.rpy:435
+    c "你在這兒待了有段日子了吧，我猜？"
+
+
 translate traditional_chinese ep008_footage_bf34cc93:
 
-    # man "I have."
-    man ""
 
-# game/episode008.rpy:436
+    man "是啊。"
+
+
 translate traditional_chinese ep008_footage_b5d7a172:
 
-    # t "Do they treat you well?"
-    t ""
 
-# game/episode008.rpy:438
+    t "他們待你好嗎？"
+
+
 translate traditional_chinese ep008_footage_c35ad8ea:
 
-    # man "Why, are you afraid they might hurt you?"
-    man ""
 
-# game/episode008.rpy:439
+    man "怎麼了，你怕他們可能傷着你？"
+
+
 translate traditional_chinese ep008_footage_bf588d47:
 
-    # t "We just don't know what they intend to do with us."
-    t ""
 
-# game/episode008.rpy:440
+    t "我們只是不知道他們想拿我們幹什麼。"
+
+
 translate traditional_chinese ep008_footage_674b77c4:
 
-    # man "Well, I reckon there'll be an auction at some point..."
-    man ""
 
-# game/episode008.rpy:441
+    man "嗯，我估計什麼時候會搞個拍賣會..."
+
+
 translate traditional_chinese ep008_footage_275146e6:
 
-    # ki "An auction?"
-    ki ""
 
-# game/episode008.rpy:443
+    ki "拍賣會？"
+
+
 translate traditional_chinese ep008_footage_34914e1b:
 
-    # man "Yes, though it's been a while."
-    man ""
 
-# game/episode008.rpy:444
+    man "對，不過有好一陣沒辦了。"
+
+
 translate traditional_chinese ep008_footage_49f49ee1:
 
-    # man "The new queen doesn't like it apparently."
-    man ""
 
-# game/episode008.rpy:445
+    man "新女王顯然不喜歡這事。"
+
+
 translate traditional_chinese ep008_footage_5e2bced1:
 
-    # c "She doesn't like what exactly?"
-    c ""
 
-# game/episode008.rpy:446
+    c "她到底不喜歡什麼？"
+
+
 translate traditional_chinese ep008_footage_591f2f9a:
 
-    # man "The slave auctions, of course."
-    man ""
 
-# game/episode008.rpy:447
+    man "當然是奴隸拍賣會。"
+
+
 translate traditional_chinese ep008_footage_b183181a:
 
-    # man "Tell me boys, do you like to fuck?"
-    man ""
 
-# game/episode008.rpy:448
+    man "告訴我，小子們，你們喜歡操逼嗎？"
+
+
 translate traditional_chinese ep008_footage_461ec9db:
 
-    # man "Because that's what you'll do, a lot, once you're sold to one of the Acarhyn."
-    man ""
 
-# game/episode008.rpy:449
+    man "因爲這正是你將來要做的，而且很多，一旦你被賣給某個阿卡海茵人。"
+
+
 translate traditional_chinese ep008_footage_92c5862d:
 
-    # c "We'll be sold as sex slaves?"
-    c ""
 
-# game/episode008.rpy:451
+    c "我們會當性奴被賣掉？"
+
+
 translate traditional_chinese ep008_footage_539b5f95:
 
-    # man "That's the gist of it, yes."
-    man ""
 
-# game/episode008.rpy:452
+    man "就是這麼回事，沒錯。"
+
+
 translate traditional_chinese ep008_footage_5632b20e:
 
-    # man "You're lucky if you can get one of them pregnant, because you'll have a few months of free time."
-    man ""
 
-# game/episode008.rpy:453
+    man "要是能讓她們懷上，你就走運了，因爲接下來幾個月都能閒着了。"
+
+
 translate traditional_chinese ep008_footage_8609eb95:
 
-    # t "They need human males to breed with them..."
-    t ""
 
-# game/episode008.rpy:454
+    t "她們需要人類男性來配種..."
+
+
 translate traditional_chinese ep008_footage_76d025b1:
 
-    # man "Well, as far as I know the Acarhyn are some human offshoot, created in a lab."
-    man ""
 
-# game/episode008.rpy:455
+    man "據我所知阿卡海茵人是實驗室搞出來的人類分支。"
+
+
 translate traditional_chinese ep008_footage_abdb0ab6:
 
-    # man "And they only conceive daughters, so you see the problem."
-    man ""
 
-# game/episode008.rpy:456
+    man "而且她們只能懷女兒，你懂問題在哪兒了吧。"
+
+
 translate traditional_chinese ep008_footage_bdaec634:
 
-    # man "So, once in a while they raid some human settlement somewhere and take prisoners."
-    man ""
 
-# game/episode008.rpy:457
+    man "所以她們時不時會突襲人類定居點抓俘虜。"
+
+
 translate traditional_chinese ep008_footage_75338bc3:
 
-    # man "Back here, the kidnapped females become servants and the males become a valuable trading commodity."
-    man ""
 
-# game/episode008.rpy:458
+    man "在這兒，被抓的女性當僕人，男性就成了搶手的交易品。"
+
+
 translate traditional_chinese ep008_footage_592eb683:
 
-    # c "I feel valued already..."
-    c ""
 
-# game/episode008.rpy:459
+    c "我已經感覺到身價暴漲..."
+
+
 translate traditional_chinese ep008_footage_48428c75:
 
-    # ki "Is there a way out?"
-    ki ""
 
-# game/episode008.rpy:461
+    ki "有辦法逃走嗎？"
+
+
 translate traditional_chinese ep008_footage_b1da8950:
 
-    # man "Hah, you'd be better off just accepting your fate."
-    man ""
 
-# game/episode008.rpy:462
+    man "哈，認命比較實在。"
+
+
 translate traditional_chinese ep008_footage_f1d683f3:
 
-    # man "I mean, you get clothed, fed, a roof over your head and you get to fuck a hard-bodied supermodel warrior once in a while."
-    man ""
 
-# game/episode008.rpy:464
+    man "想想看，有喫有穿有住處，還能偶爾操個硬邦邦的超模身材戰士。"
+
+
 translate traditional_chinese ep008_footage_df632225:
 
-    # man "Or you could do the stupid thing and try to run, like I did."
-    man ""
 
-# game/episode008.rpy:465
+    man "當然你也可以犯蠢嘗試逃跑，像我這樣。"
+
+
 translate traditional_chinese ep008_footage_d7a651fb:
 
-    # man "And now I'm here, getting sold again to another Acarhyn."
-    man ""
 
-# game/episode008.rpy:466
+    man "結果現在又在這裡等着賣給新主顧了。"
+
+
 translate traditional_chinese ep008_footage_35bf5429:
 
-    # t "You tried to escape?"
-    t ""
 
-# game/episode008.rpy:468
+    t "你試過逃跑？"
+
+
 translate traditional_chinese ep008_footage_768139b1:
 
-    # man "Twice."
-    man ""
 
-# game/episode008.rpy:469
+    man "兩次。"
+
+
 translate traditional_chinese ep008_footage_2195fe3d:
 
-    # man "Last time I got caught with the ship that would take me away from this planet in sight."
-    man ""
 
-# game/episode008.rpy:470
+    man "上次被抓時，接我逃離這星球的飛船都看得見了。"
+
+
 translate traditional_chinese ep008_footage_d7bd615a:
 
-    # man "Luckily, the Acarhyn don't punish the men that try to escape."
-    man ""
 
-# game/episode008.rpy:471
+    man "幸好阿卡海茵人不懲罰逃跑的男人。"
+
+
 translate traditional_chinese ep008_footage_092ac437:
 
-    # man "They seem to value willful men, so I reckon I'll fetch an even higher price on the market this time."
-    man ""
 
-# game/episode008.rpy:472
+    man "她們好像更中意有血性的，估計這次能賣個更高價。"
+
+
 translate traditional_chinese ep008_footage_d5fa237e:
 
-    # man "So it's back to fucking some highly placed Acarhyn all day."
-    man ""
 
-# game/episode008.rpy:473
+    man "所以又得回去整天操那些高階阿卡海茵人。"
+
+
 translate traditional_chinese ep008_footage_51c1c04b:
 
-    # man "It starts to lose its initial appeal after a while, but it beats sitting around in this cell, that's for sure."
-    man ""
 
-# game/episode008.rpy:474
+    man "幹久了就沒當初那麼帶勁了，但總比蹲牢房強，這倒是真的。"
+
+
 translate traditional_chinese ep008_footage_40313320:
 
-    # ki "Where are you from?"
-    ki ""
 
-# game/episode008.rpy:476
+    ki "你從哪來的？"
+
+
 translate traditional_chinese ep008_footage_7673940d:
 
-    # man "Does it matter?"
-    man ""
 
-# game/episode008.rpy:478
+    man "重要嗎？"
+
+
 translate traditional_chinese ep008_footage_cb79d5b7:
 
-    # man "Some small backwater system in the Satrapian Cluster."
-    man ""
 
-# game/episode008.rpy:479
+    man "薩特拉賓星系羣中某個偏遠的落後小星系。"
+
+
 translate traditional_chinese ep008_footage_2fb0f015:
 
-    # c "Do you know any people who were taken here from Lanan P-10?"
-    c ""
 
-# game/episode008.rpy:481
+    c "你認識從拉南P-10星被抓來這兒的人嗎？"
+
+
 translate traditional_chinese ep008_footage_e41cf187:
 
-    # man "That name sounds familiar."
-    man ""
 
-# game/episode008.rpy:482
+    man "那個名字聽起來很耳熟。"
+
+
 translate traditional_chinese ep008_footage_80fb503d:
 
-    # man "I know they took back a large group of people months ago."
-    man ""
 
-# game/episode008.rpy:483
+    man "我知道他們幾個月前抓回來一大羣人。"
+
+
 translate traditional_chinese ep008_footage_0c9cd43d:
 
-    # c "I'm looking for someone, a girl who was taken."
-    c ""
 
-# game/episode008.rpy:485
+    c "我在找個人，一個被抓走的女孩。"
+
+
 translate traditional_chinese ep008_footage_46aafcb5:
 
-    # man "Good luck with that."
-    man ""
 
-# game/episode008.rpy:487
+    man "祝你好運吧。"
+
+
 translate traditional_chinese ep008_footage_4ad737a9:
 
-    # man "She's probably working as a servant somewhere in an Acarhyn household, sweeping floors and cooking dinner."
-    man ""
 
-# game/episode008.rpy:489
+    man "她可能在某個阿卡海茵人的家裡當僕人，掃掃地板、做做飯之類的。"
+
+
 translate traditional_chinese ep008_footage_765177ff:
 
-    # man "And as you're all going to spend the rest of your lives playing breeding bulls to your Acarhyn overlords, there's zero chance you'll find her."
-    man ""
 
-# game/episode008.rpy:491
+    man "反正你們這些人都得一輩子當阿卡海茵領主的種牛，根本別想找到她。"
+
+
 translate traditional_chinese ep008_footage_af2ea426:
 
-    # "I didn't have the stomach for any more downbeat talk from our fellow prisoner, so I sat down in a corner and stared into the distance."
-    ""
 
-# game/episode008.rpy:492
+    "我已經聽夠了我們獄友的喪氣話，就坐到角落裡發呆了。"
+
+
 translate traditional_chinese ep008_footage_27da92e6:
 
-    # "Thim and Kit grilled the man further on their supposed new life as Acarhyn property."
-    ""
 
-# game/episode008.rpy:494
+    "蒂姆和基特繼續追問那個男人，關於他們作爲阿卡海茵人財產的新生活。"
+
+
 translate traditional_chinese ep008_footage_b91424a9:
 
-    # "I must have fallen asleep, because the noise of the cell door opening startled me awake."
-    ""
 
-# game/episode008.rpy:495
+    "我肯定是睡着了，因爲牢門開門的噪音把我驚醒了。"
+
+
 translate traditional_chinese ep008_footage_8e8e21f0:
 
-    # "Kit and Thim were still asleep, as was our cellmate."
-    ""
 
-# game/episode008.rpy:496
+    "基特和蒂姆還在睡，我們的獄友也一樣。"
+
+
 translate traditional_chinese ep008_footage_397e5d57:
 
-    # "A familiar face entered the cell, the woman from Lanan."
-    ""
 
-# game/episode008.rpy:499
+    "牢房裡進來個熟人，就是那個從拉南星來的女人。"
+
+
 translate traditional_chinese ep008_footage_2238ecf8:
 
-    # rah "You.{w} Come with me."
-    rah ""
 
-# game/episode008.rpy:503
+    rah "你{w}跟我走。"
+
+
 translate traditional_chinese ep008_footage_0a21f095:
 
-    # "The only thing that kept me from attacking her was that gigantic sword she was carrying."
-    ""
 
-# game/episode008.rpy:504
+    "我能忍住沒衝上去揍她，全是因爲她扛着那把巨劍。"
+
+
 translate traditional_chinese ep008_footage_944f11ca:
 
-    # "The terror and impotent rage I felt back on Lanan all came flooding back in."
-    ""
 
-# game/episode008.rpy:505
+    "我在拉南星時那種恐懼又無能爲力的怒火全湧回來了。"
+
+
 translate traditional_chinese ep008_footage_9a371526:
 
-    # c "You miserable bitch, what did you do to my friends?!"
-    c ""
 
-# game/episode008.rpy:507
+    c "你這個可惡的婊子，對我的朋友幹了什麼?!"
+
+
 translate traditional_chinese ep008_footage_9f73b7bb:
 
-    # rah "They’re in a similar cell as you are and unharmed."
-    rah ""
 
-# game/episode008.rpy:509
+    rah "他們跟你關在差不多的牢房裡，沒缺胳膊少腿。"
+
+
 translate traditional_chinese ep008_footage_13ce6634:
 
-    # rah "Please contain yourself, or I’ll be forced to restrain you."
-    rah ""
 
-# game/episode008.rpy:510
+    rah "請你克制點，不然我只好把你按住了。"
+
+
 translate traditional_chinese ep008_footage_bb41d28f:
 
-    # rah "Now, come with me."
-    rah ""
 
-# game/episode008.rpy:511
+    rah "現在，跟我走。"
+
+
 translate traditional_chinese ep008_footage_6e17035a:
 
-    # "Grudgingly, I followed the woman out the jail cell."
-    ""
 
-# game/episode008.rpy:513
+    "我不情不願地跟着那女人出了牢房。"
+
+
 translate traditional_chinese ep008_footage_a72b1dae:
 
-    # "I didn't feel like I had much of a choice, considering I didn't carry one of those gigantic swords around."
-    ""
 
-# game/episode008.rpy:514
+    "我覺得自己沒什麼選擇餘地，誰叫我沒帶把巨劍在身上呢。"
+
+
 translate traditional_chinese ep008_footage_2482c503:
 
-    # "The terror and impotent rage I felt back on Lanan all came flooding back in and I felt powerless once more."
-    ""
 
-# game/episode008.rpy:517
+    "我在拉南星時那種恐懼又無能爲力的怒火全湧回來了，我又一次覺得自己弱爆了。"
+
+
 translate traditional_chinese ep008_footage_3198214d:
 
-    # "The woman and two other Acarhyn escorted me up a flight of stairs."
-    ""
 
-# game/episode008.rpy:518
+    "那個女人和另外兩個阿卡海茵人押着我上了一段樓梯。"
+
+
 translate traditional_chinese ep008_footage_738b0f92:
 
-    # "Sunlight touched the roughly hewn stone of the ground floor corridors, making it feel decidedly less oppressive than the dungeon we just left behind."
-    ""
 
-# game/episode008.rpy:520
+    "陽光碰到了底層走廊裏粗糙切割的石頭，讓它感覺遠沒我們剛離開的地牢那麼壓抑。"
+
+
 translate traditional_chinese ep008_footage_e08cdf4c:
 
-    # "After crossing several iron gates, I was brought before a large throne inside a large room, lit by crystal pedestals."
-    ""
 
-# game/episode008.rpy:521
+    "在穿過幾扇鐵門後，我被帶到一個大房間裡的大寶座前，那裡用水晶基座照着光。"
+
+
 translate traditional_chinese ep008_footage_6e4e5b1f:
 
-    # rah "Kneel."
-    rah ""
 
-# game/episode008.rpy:522
+    rah "跪下。"
+
+
 translate traditional_chinese ep008_footage_af967116:
 
-    # "I was too bewildered to immediately comply with her command, so the two women pushed me to the floor."
-    ""
 
-# game/episode008.rpy:524
+    "我太蒙了，沒能立馬照她命令辦，所以那兩個女人把我推到地上。"
+
+
 translate traditional_chinese ep008_footage_f4077493:
 
-    # "Their commander took up position beside the throne."
-    ""
 
-# game/episode008.rpy:525
+    "他們的指揮官站到了寶座旁邊。"
+
+
 translate traditional_chinese ep008_footage_d82740f4:
 
-    # "And then nothing happened for a long time."
-    ""
 
-# game/episode008.rpy:526
+    "然後好半天什麼都沒發生。"
+
+
 translate traditional_chinese ep008_footage_a4642df2:
 
-    # "The stone floor was rather uncomfortable and the two armed women looming behind me didn't help much either."
-    ""
 
-# game/episode008.rpy:527
+    "石頭地板真是夠難受的，我身後杵着兩個拿武器的女人也沒幫上什麼忙。"
+
+
 translate traditional_chinese ep008_footage_10ac5e7c:
 
-    # "I was studying the floating glowing crystals on the pedestals when I heard footsteps."
-    ""
 
-# game/episode008.rpy:528
+    "我正看着基座上那些飄着發亮的水晶，就聽見了腳步聲。"
+
+
 translate traditional_chinese ep008_footage_ccf6789d:
 
-    # "Several women entered."
-    ""
 
-# game/episode008.rpy:530
+    "幾個女人走了進來。"
+
+
 translate traditional_chinese ep008_footage_9f1163f3:
 
-    # rah "Behold, Her Highness, The Virgin Queen."
-    rah ""
 
-# game/episode008.rpy:532
+    rah "看啊，陛下，\"處女之王\"。"
+
+
 translate traditional_chinese ep008_footage_d7b76fc2:
 
-    # "A girl, dressed in an elaborate gown with a large bejeweled collar strode towards the throne."
-    ""
 
-# game/episode008.rpy:534
+    "一個姑娘，穿着花裏胡哨的禮服、帶着鑲滿珠寶的大領子，朝寶座大步走了過去。"
+
+
 translate traditional_chinese ep008_footage_3247c547:
 
-    # "As soon as I recognized her I wanted to jump up and embrace her, but one of the women firmly pinned me down."
-    ""
 
-# game/episode008.rpy:536
+    "我一眼認出她就想蹦起來抱她，結果其中一個女人死死把我按住了。"
+
+
 translate traditional_chinese ep008_footage_56f1c53d:
 
-    # rah "Do not dare to disrespect the Virgin Queen!"
-    rah ""
 
-# game/episode008.rpy:537
+    rah "不許膽敢對\"處女之王\"不敬！"
+
+
 translate traditional_chinese ep008_footage_b20ab119:
 
-    # c "Eva!"
-    c ""
 
-# game/episode008.rpy:539
+    c "伊娃！"
+
+
 translate traditional_chinese ep008_footage_1163be8f:
 
-    # "My exclamation earned me several angry glares, but Eva just looked at me impassively as she sat down on the throne."
-    ""
 
-# game/episode008.rpy:541
+    "我這聲叫喚招來好幾道兇巴巴的眼神，但伊娃坐到寶座上時只冷冷看了我一眼。"
+
+
 translate traditional_chinese ep008_footage_4870a173:
 
-    # e "We have recently learned of your arrival and subsequent imprisonment."
-    e ""
 
-# game/episode008.rpy:542
+    e "我們最近才聽說你來了又給關起來了。"
+
+
 translate traditional_chinese ep008_footage_b80c7287:
 
-    # "Eva's voice was edged with an authority I'd never heard from her before."
-    ""
 
-# game/episode008.rpy:543
+    "伊娃的聲音帶着股我從沒聽過的權威味兒。"
+
+
 translate traditional_chinese ep008_footage_b333a3ae:
 
-    # e "It pleases us to offer you our hospitality until the day when your vessel has been repaired and is fit for travel again."
-    e ""
 
-# game/episode008.rpy:544
+    e "我們很高興招待你們，直到你的船修好，可以再次航行。"
+
+
 translate traditional_chinese ep008_footage_edc38019:
 
-    # e "We hope this gesture of goodwill will allay any ill feelings towards your initial treatment which was based on an oversight for which the people responsible express their heartfelt remorse."
-    e ""
 
-# game/episode008.rpy:546
+    e "我們希望這一善意的姿態將減輕對你最初收到的對待的任何惡意，這種對待是基於疏忽，對此，負責人表示衷心的悔恨。"
+
+
 translate traditional_chinese ep008_footage_552b87f2:
 
-    # "Any hope of talking to my sister was dashed by her standing up from the throne and leaving the room abruptly."
-    ""
 
-# game/episode008.rpy:548
+    "任何想和我妹妹說話的念頭都黃了，因爲她突然從寶座站起來、閃人走了。"
+
+
 translate traditional_chinese ep008_footage_a96853c3:
 
-    # "Any hope of talking to Eva was dashed by her standing up from the throne and leaving the room abruptly."
-    ""
 
-# game/episode008.rpy:550
+    "任何想和伊娃說話的念頭都黃了，因爲她突然從寶座站起來、閃人走了。"
+
+
 translate traditional_chinese ep008_footage_36e08fe4:
 
-    # rah "Her Majesty has spoken."
-    rah ""
 
-# game/episode008.rpy:551
+    rah "女王陛下發過話了。"
+
+
 translate traditional_chinese ep008_footage_503c0c83:
 
-    # rah "Stand up and follow me."
-    rah ""
 
-# game/episode008.rpy:570
+    rah "站起來跟我來。"
+
+
 translate traditional_chinese ep008_footage_162b191c:
 
-    # "Without an escort this time, the Acarhyn took me through a series of corridors and halted in front of a door."
-    ""
 
-# game/episode008.rpy:572
+    "這次沒有護衛陪同，這名阿卡海茵人帶我穿過幾條走廊，在一扇門前停了下來。"
+
+
 translate traditional_chinese ep008_footage_2cd8998a:
 
-    # rah "These will be your quarters for the duration of your stay here in the Citadel."
-    rah ""
 
-# game/episode008.rpy:573
+    rah "這裡將是你在城堡逗留期間的住所。"
+
+
 translate traditional_chinese ep008_footage_3c9a6c54:
 
-    # rah "Meals will be served in the main hall."
-    rah ""
 
-# game/episode008.rpy:574
+    rah "用餐請前往主廳。"
+
+
 translate traditional_chinese ep008_footage_f764a4e4:
 
-    # rah "You're allowed the use of our communal baths and any expenses you make will be compensated by the Crown."
-    rah ""
 
-# game/episode008.rpy:575
+    rah "你可以使用公共浴場，所有開銷將由王室承擔。"
+
+
 translate traditional_chinese ep008_footage_1c1e11bd:
 
-    # rah "Your friends will be assigned similar quarters shortly."
-    rah ""
 
-# game/episode008.rpy:576
+    rah "你的同伴很快也會分配到類似住所。"
+
+
 translate traditional_chinese ep008_footage_2b3b1720:
 
-    # rah "Any possessions from your ship will be transferred to you in due time."
-    rah ""
 
-# game/episode008.rpy:577
+    rah "你們飛船上的私人物品將在適當時機轉交給你。"
+
+
 translate traditional_chinese ep008_footage_36bb0b7d:
 
-    # c "Thanks, I guess?"
-    c ""
 
-# game/episode008.rpy:578
+    c "謝謝你，也許？"
+
+
 translate traditional_chinese ep008_footage_7b180cdc:
 
-    # c "What about our ship?"
-    c ""
 
-# game/episode008.rpy:579
+    c "我們的飛船呢？"
+
+
 translate traditional_chinese ep008_footage_fa47eee5:
 
-    # rah "The Queen has decreed your vessel to be repaired at the Aegisthus Shipyards."
-    rah ""
 
-# game/episode008.rpy:580
+    rah "女王已下令將你們的飛船送往埃癸斯託斯造船廠修理。"
+
+
 translate traditional_chinese ep008_footage_a0574016:
 
-    # rah "The damage to the ship is extensive, but she seems to be salvageable, according to our engineers."
-    rah ""
 
-# game/episode008.rpy:581
+    rah "船體受損嚴重，但工程師認爲可以修復。"
+
+
 translate traditional_chinese ep008_footage_01e4cb7f:
 
-    # c "When will I see her again?"
-    c ""
 
-# game/episode008.rpy:583
+    c "什麼時候能再見到她？"
+
+
 translate traditional_chinese ep008_footage_f9b1bdcc:
 
-    # rah "Who?"
-    rah ""
 
-# game/episode008.rpy:584
+    rah "誰？"
+
+
 translate traditional_chinese ep008_footage_102625e6:
 
-    # c "Eva."
-    c ""
 
-# game/episode008.rpy:586
+    c "伊娃。"
+
+
 translate traditional_chinese ep008_footage_b355601d:
 
-    # rah "You may petition for an audience with the Virgin Queen."
-    rah ""
 
-# game/episode008.rpy:587
+    rah "你可以發起請願，覲見\"處女之王\"。"
+
+
 translate traditional_chinese ep008_footage_a827a2f3:
 
-    # rah "I'll let you get settled here."
-    rah ""
 
-# game/episode008.rpy:589
+    rah "你就先在這兒安頓下吧。"
+
+
 translate traditional_chinese ep008_footage_d1f7f7d4:
 
-    # "Ignoring any attempts at me to continue the conversation, the woman left me in front of the door."
-    ""
 
-# game/episode008.rpy:590
+    "那女人無視我再攀談的意圖，把我留在門口徑自離去。"
+
+
 translate traditional_chinese ep008_footage_92e313f4:
 
-    # "The door responded to my touch and revealed a sparsely furnished bedroom."
-    ""
 
-# game/episode008.rpy:592
+    "房門感應到觸摸應聲開啓，露出陳設簡陋的臥室。"
+
+
 translate traditional_chinese ep008_footage_0ed46b37:
 
-    # "I tried the bed and it sure felt better than the cold stone floor I'd spent the night on."
-    ""
 
-# game/episode008.rpy:593
+    "我試了試牀鋪，確實比昨晚睡的冷石板舒服多了。"
+
+
 translate traditional_chinese ep008_footage_f48a418d:
 
-    # "I closed my eyes and slept for an hour."
-    ""
 
-# game/episode008.rpy:599
+    "我合眼睡了一小時。"
+
+
 translate traditional_chinese ep008_footage_c5229c43:
 
-    # "After I woke up, I decided to find my friends who should have been assigned quarters by now."
-    ""
 
-# game/episode008.rpy:669
+    "醒來後我決定去找同伴們，現在他們應該也分到房間了。"
+
+
 translate traditional_chinese ep008_citadel_conversations_db64454a:
 
-    # "Night had fallen and the halls were mostly empty."
-    ""
 
-# game/episode008.rpy:670
+    "夜幕低垂，走廊裏空蕩無人。"
+
+
 translate traditional_chinese ep008_citadel_conversations_b45b5089:
 
-    # "I decided to find my quarters and sleep for a couple of hours."
-    ""
 
-# game/episode008.rpy:672
+    "我決定先回房睡幾小時。"
+
+
 translate traditional_chinese ep008_citadel_conversations_4a0f9634:
 
-    # "When I was about to undress and go to sleep someone knocked on my door."
-    ""
 
-# game/episode008.rpy:674
+    "正要寬衣就寢時，突然響起敲門聲。"
+
+
 translate traditional_chinese ep008_citadel_conversations_22793c6a:
 
-    # "One of the guards wearing a light colored suit of armor stood in the hallway."
-    ""
 
-# game/episode008.rpy:676
+    "門外站着穿淺色盔甲套裝的衛兵。"
+
+
 translate traditional_chinese ep008_citadel_conversations_694e2383:
 
-    # woman "The Queen would like to see you in her chambers."
-    woman ""
 
-# game/episode008.rpy:677
+    woman "女王想在她的房間裡見你。"
+
+
 translate traditional_chinese ep008_citadel_conversations_9559169b:
 
-    # woman "Follow me."
-    woman ""
 
-# game/episode008.rpy:678
+    woman "跟我來。"
+
+
 translate traditional_chinese ep008_citadel_conversations_8d222738:
 
-    # "My heart suddenly hammered in my chest."
-    ""
 
-# game/episode008.rpy:680
+    "我的心突然在我胸口怦怦直跳。"
+
+
 translate traditional_chinese ep008_citadel_conversations_f9591236:
 
-    # "I was about to see my sister again."
-    ""
 
-# game/episode008.rpy:682
+    "我又要見到我妹妹了。"
+
+
 translate traditional_chinese ep008_citadel_conversations_cce68fb5:
 
-    # "I was about to see my friend again."
-    ""
 
-# game/episode008.rpy:683
+    "我又要見到我的朋友了。"
+
+
 translate traditional_chinese ep008_citadel_conversations_9fbc12f7:
 
-    # "Speak to her again, without restrictions."
-    ""
 
-# game/episode008.rpy:685
+    "可以跟她再談談，沒有任何限制。"
+
+
 translate traditional_chinese ep008_citadel_conversations_006098bf:
 
-    # "Enheartened, I walked behind the guard who led me to the Queen’s Chambers."
-    ""
 
-# game/episode008.rpy:693
+    "受到鼓舞，我跟在帶我去女王房間的守衛身後走着。"
+
+
 translate traditional_chinese ep008_lilly_talk_32cdb590:
 
-    # l "What took you so long?"
-    l ""
 
-# game/episode008.rpy:694
+    l "你怎麼這麼慢？"
+
+
 translate traditional_chinese ep008_lilly_talk_f3d65d4f:
 
-    # l "Is it true?!{w} Did you meet her?"
-    l ""
 
-# game/episode008.rpy:695
+    l "是真的嗎?!{w}你見到她了嗎？"
+
+
 translate traditional_chinese ep008_lilly_talk_f57a0e29:
 
-    # c "Yes, I met her."
-    c ""
 
-# game/episode008.rpy:696
+    c "是的，我見到她了。"
+
+
 translate traditional_chinese ep008_lilly_talk_edaaf73f:
 
-    # l "Well, how did she seem?"
-    l ""
 
-# game/episode008.rpy:697
+    l "嗯，她看起來怎麼樣？"
+
+
 translate traditional_chinese ep008_lilly_talk_d2729183:
 
-    # l "Have they treated her well?"
-    l ""
 
-# game/episode008.rpy:698
+    l "他們對她好嗎？"
+
+
 translate traditional_chinese ep008_lilly_talk_8db9cb06:
 
-    # c "Hard to say, but as far as I could tell, they haven't done anything bad to her."
-    c ""
 
-# game/episode008.rpy:699
+    c "很難說，但據我所知，他們沒對她做過任何壞事。"
+
+
 translate traditional_chinese ep008_lilly_talk_1ec76180:
 
-    # c "The opposite probably, because they revere her as a queen."
-    c ""
 
-# game/episode008.rpy:701
+    c "可能相反，因爲他們敬她如女王。"
+
+
 translate traditional_chinese ep008_lilly_talk_cbc99720:
 
-    # l "A queen...{w} Eva?"
-    l ""
 
-# game/episode008.rpy:702
+    l "女王...{w} 伊娃？"
+
+
 translate traditional_chinese ep008_lilly_talk_cfe2ded5:
 
-    # c "Yes, it appears she's the Virgin Queen mentioned in the data we retrieved from Cetruvar."
-    c ""
 
-# game/episode008.rpy:704
+    c "是的，看起來她就是我們從塞特魯瓦那裡弄到的數據裏提到的\"處女之王\"。"
+
+
 translate traditional_chinese ep008_lilly_talk_510d02a6:
 
-    # l "But what did she tell you?"
-    l ""
 
-# game/episode008.rpy:705
+    l "但她跟你說了什麼？"
+
+
 translate traditional_chinese ep008_lilly_talk_ae29296b:
 
-    # l "Was she happy to see you?"
-    l ""
 
-# game/episode008.rpy:706
+    l "她見到你開心嗎？"
+
+
 translate traditional_chinese ep008_lilly_talk_1f99dda2:
 
-    # c "She apologized and offered us shelter."
-    c ""
 
-# game/episode008.rpy:707
+    c "她道了歉並給我們提供了庇護。"
+
+
 translate traditional_chinese ep008_lilly_talk_1f5482fc:
 
-    # c "Other than that I'm not sure she recognized me."
-    c ""
 
-# game/episode008.rpy:709
+    c "除此之外，我不確定她認出了我。"
+
+
 translate traditional_chinese ep008_lilly_talk_241c42e4:
 
-    # l "Of course she did, she must have!"
-    l ""
 
-# game/episode008.rpy:710
+    l "她當然認出來了，她肯定認出來了！"
+
+
 translate traditional_chinese ep008_lilly_talk_2cd5f19c:
 
-    # l "Why else would she pull us out of that dungeon?"
-    l ""
 
-# game/episode008.rpy:711
+    l "不然她爲什麼把我們帶出那個地牢？"
+
+
 translate traditional_chinese ep008_lilly_talk_c9e33894:
 
-    # c "That's true, and she was playing the role of queen, of course."
-    c ""
 
-# game/episode008.rpy:712
+    c "沒錯，她當然在扮演女王角色。"
+
+
 translate traditional_chinese ep008_lilly_talk_46484121:
 
-    # c "I'm really hoping we get a private moment with her."
-    c ""
 
-# game/episode008.rpy:714
+    c "我真希望能和她單獨相處一會兒。"
+
+
 translate traditional_chinese ep008_lilly_talk_9b2c2f99:
 
-    # l "Do you know how we can reach her?"
-    l ""
 
-# game/episode008.rpy:715
+    l "你知道我們怎麼能聯繫上她嗎？"
+
+
 translate traditional_chinese ep008_lilly_talk_4938d109:
 
-    # c "A formal petition..."
-    c ""
 
-# game/episode008.rpy:716
+    c "一份正式請願書..."
+
+
 translate traditional_chinese ep008_lilly_talk_c2685e99:
 
-    # c "Maybe we should wait until she contacts us somehow."
-    c ""
 
-# game/episode008.rpy:717
+    c "也許我們該等她先聯繫我們吧。"
+
+
 translate traditional_chinese ep008_lilly_talk_4e1fd1d4:
 
-    # l "Maybe, but just petition anyway."
-    l ""
 
-# game/episode008.rpy:718
+    l "可能吧，但反正請願就是了。"
+
+
 translate traditional_chinese ep008_lilly_talk_4e8c7062:
 
-    # c "Of course."
-    c ""
 
-# game/episode008.rpy:720
+    c "當然。"
+
+
 translate traditional_chinese ep008_lilly_talk_7d10447d:
 
-    # l "Oh [p_name_short], I'm so happy that she's still alive and unharmed!"
-    l ""
 
-# game/episode008.rpy:721
+    l "哦 [p_name_short]，我好開心她居然還活着，還毫髮無損！"
+
+
 translate traditional_chinese ep008_lilly_talk_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode008.rpy:722
+    c "我也是。"
+
+
 translate traditional_chinese ep008_lilly_talk_26102e4b:
 
-    # l "I never thought we'd find her."
-    l ""
 
-# game/episode008.rpy:723
+    l "我從沒想過我們能找到她。"
+
+
 translate traditional_chinese ep008_lilly_talk_ad36470d:
 
-    # l "I'm sorry I doubted you."
-    l ""
 
-# game/episode008.rpy:730
+    l "抱歉我懷疑你了。"
+
+
 translate traditional_chinese ep008_nadya_talk_380e31ea:
 
-    # "Aunt Nadya was sitting at a table talking avidly with one of the Acarhyn."
-    ""
 
-# game/episode008.rpy:732
+    "娜迪亞阿姨坐在一張桌子旁，正興致勃勃地和一位阿卡海茵人聊天。"
+
+
 translate traditional_chinese ep008_nadya_talk_ceb537b6:
 
-    # "Nadya was sitting at a table talking avidly with one of the Acarhyn."
-    ""
 
-# game/episode008.rpy:734
+    "娜迪亞坐在一張桌子旁，正興致勃勃地和一位阿卡海茵人聊天。"
+
+
 translate traditional_chinese ep008_nadya_talk_2f051f6b:
 
-    # na "I'd be happy to join you."
-    na ""
 
-# game/episode008.rpy:735
+    na "我很樂意加入你們。"
+
+
 translate traditional_chinese ep008_nadya_talk_aefefb7d:
 
-    # cae "That would be such an honor, we'll let you know as soon as an expedition will be mounted."
-    cae ""
 
-# game/episode008.rpy:737
+    cae "那可是莫大的榮幸，等探險隊組好了我們立馬通知你。"
+
+
 translate traditional_chinese ep008_nadya_talk_a6a569d6:
 
-    # "The woman nodded at me as she stood up and left the dining hall."
-    ""
 
-# game/episode008.rpy:739
+    "那個女人對我點了點頭，起身離開食堂。"
+
+
 translate traditional_chinese ep008_nadya_talk_a0cbb841:
 
-    # c "Making friends?"
-    c ""
 
-# game/episode008.rpy:740
+    c "在交朋友？"
+
+
 translate traditional_chinese ep008_nadya_talk_788c2bbc:
 
-    # na "It's just amazing."
-    na ""
 
-# game/episode008.rpy:742
+    na "簡直太棒了。"
+
+
 translate traditional_chinese ep008_nadya_talk_80edcd71:
 
-    # na "Caese told me about this rare species of bird native to the jungle."
-    na ""
 
-# game/episode008.rpy:743
+    na "凱瑟跟我說了一種只生存在本地叢林裡的珍稀鳥類。"
+
+
 translate traditional_chinese ep008_nadya_talk_bd4a608d:
 
-    # na "They're going to mount an expedition especially for me."
-    na ""
 
-# game/episode008.rpy:744
+    na "他們要專門爲我組織一次探險。"
+
+
 translate traditional_chinese ep008_nadya_talk_51187968:
 
-    # c "How did you convince them to do that?"
-    c ""
 
-# game/episode008.rpy:746
+    c "你怎麼說服他們這麼幹的？"
+
+
 translate traditional_chinese ep008_nadya_talk_9cb56c83:
 
-    # na "Oh no, it's not like that."
-    na ""
 
-# game/episode008.rpy:747
+    na "哦不，真不是那樣。"
+
+
 translate traditional_chinese ep008_nadya_talk_37c010be:
 
-    # na "Caese actually knows some of my work on the subject."
-    na ""
 
-# game/episode008.rpy:748
+    na "凱瑟居然知道我在這方面的研究。"
+
+
 translate traditional_chinese ep008_nadya_talk_dfcb1235:
 
-    # c "Ah, you have a fan?"
-    c ""
 
-# game/episode008.rpy:750
+    c "啊，你有粉絲了？"
+
+
 translate traditional_chinese ep008_nadya_talk_11912d51:
 
-    # na "Well...{w} She just shares my fascination."
-    na ""
 
-# game/episode008.rpy:751
+    na "嗯...{w} 她只是跟我一樣着迷罷了。"
+
+
 translate traditional_chinese ep008_nadya_talk_f1c22e73:
 
-    # c "It seemed like a little more than that, awestruck might be a better word."
-    c ""
 
-# game/episode008.rpy:753
+    c "感覺那比着迷還多一點，說敬畏可能更貼切。"
+
+
 translate traditional_chinese ep008_nadya_talk_e4d28330:
 
-    # na "Okay, okay, she might have been a little impressed by my work."
-    na ""
 
-# game/episode008.rpy:769
+    na "好的好的，她可能對我的工作有點印象深刻。"
+
+
 translate traditional_chinese ep008_nadya_talk_1062fa1c:
 
-    # na "But enough about that, you have seen Eva, haven't you?"
-    na ""
 
-# game/episode008.rpy:771
+    na "但別說這個了，你見過伊娃了吧？"
+
+
 translate traditional_chinese ep008_nadya_talk_71b2ea82:
 
-    # na "Is she all right?"
-    na ""
 
-# game/episode008.rpy:772
+    na "她沒事吧？"
+
+
 translate traditional_chinese ep008_nadya_talk_63eaaa4d:
 
-    # c "She seems to be."
-    c ""
 
-# game/episode008.rpy:773
+    c "看起來是的。"
+
+
 translate traditional_chinese ep008_nadya_talk_3b02c7c3:
 
-    # c "Eva is the queen of the Acarhyn, it seems."
-    c ""
 
-# game/episode008.rpy:775
+    c "伊娃似乎是阿卡海茵人的女王。"
+
+
 translate traditional_chinese ep008_nadya_talk_fcdb4250:
 
-    # na "Yes, she seems to be quite revered by the Acarhyn."
-    na ""
 
-# game/episode008.rpy:776
+    na "是的，她似乎被阿卡海茵人相當敬畏。"
+
+
 translate traditional_chinese ep008_nadya_talk_76e56640:
 
-    # na "Caese talked about her with great respect."
-    na ""
 
-# game/episode008.rpy:777
+    na "凱瑟談論她時非常尊敬。"
+
+
 translate traditional_chinese ep008_nadya_talk_09cbd879:
 
-    # c "I really want to talk to her personally, to learn about what has happened since she was taken on Lanan."
-    c ""
 
-# game/episode008.rpy:778
+    c "我真的很想親自和她談談，了解一下自從她被帶到拉南星以來發生了什麼。"
+
+
 translate traditional_chinese ep008_nadya_talk_8fcc2d6b:
 
-    # na "I'm sure we'll get to talk to her in private at some point."
-    na ""
 
-# game/episode008.rpy:779
+    na "我肯定我們會在某個時候私下裡和她談話。"
+
+
 translate traditional_chinese ep008_nadya_talk_4a855774:
 
-    # na "But it might require some patience on our part, I'm sure Eva is held back by all the decorum."
-    na ""
 
-# game/episode008.rpy:780
+    na "但這可能需要我們一些耐心，我肯定伊娃被所有禮節束縛了。"
+
+
 translate traditional_chinese ep008_nadya_talk_4f7c2a96:
 
-    # c "I think so, yes."
-    c ""
 
-# game/episode008.rpy:782
+    c "我也這麼想，是的。"
+
+
 translate traditional_chinese ep008_nadya_talk_4d7099ca:
 
-    # na "I can't wait to see her either."
-    na ""
 
-# game/episode008.rpy:783
+    na "我也等不及見到她了。"
+
+
 translate traditional_chinese ep008_nadya_talk_d31a4c66:
 
-    # na "It's been such a long time."
-    na ""
 
-# game/episode008.rpy:784
+    na "已經太久了。"
+
+
 translate traditional_chinese ep008_nadya_talk_1a016606:
 
-    # na "Reuniting with both you and Lilly has been such a boon and now the same seems to be in reach for Eva."
-    na ""
 
-# game/episode008.rpy:785
+    na "能和你還有莉莉重逢真是件幸事，現在伊娃似乎也一樣在可及範圍內了。"
+
+
 translate traditional_chinese ep008_nadya_talk_676278b1:
 
-    # c "Well, if we get to speak to her again and not as the Virgin Queen..."
-    c ""
 
-# game/episode008.rpy:787
+    c "嗯，如果我們能再次和她交談，而不是作爲\"處女之王\"的話..."
+
+
 translate traditional_chinese ep008_nadya_talk_1bd5e565:
 
-    # na "I know, but let's be hopeful."
-    na ""
 
-# game/episode008.rpy:788
+    na "我知道，但讓我們抱有希望吧。"
+
+
 translate traditional_chinese ep008_nadya_talk_8dcb52c3:
 
-    # na "We've started this long journey together and we may be here for a while, but I'm confident everything will be made right again."
-    na ""
 
-# game/episode008.rpy:789
+    na "我們已經一起開始了這段漫長旅程，我們可能會在這裡呆一陣子，但我有信心一切都會再次恢復正常。"
+
+
 translate traditional_chinese ep008_nadya_talk_7783a784:
 
-    # c "I hope so too."
-    c ""
 
-# game/episode008.rpy:790
+    c "我也希望如此。"
+
+
 translate traditional_chinese ep008_nadya_talk_8d39ef90:
 
-    # c "At least a long stay here on Erigone gives you the opportunity to go bird-hunting."
-    c ""
 
-# game/episode008.rpy:792
+    c "至少在這裡在厄裏戈涅星長期停留，給了你機會去獵鳥。"
+
+
 translate traditional_chinese ep008_nadya_talk_1551bbe8:
 
-    # na "Oh sorry, I didn't come across as selfish, did I?"
-    na ""
 
-# game/episode008.rpy:793
+    na "哦對不起，我是不是顯得自私了？"
+
+
 translate traditional_chinese ep008_nadya_talk_0a83038e:
 
-    # na "It's just that this is such an opportunity and we have a lot of spare time all of a sudden and..."
-    na ""
 
-# game/episode008.rpy:797
+    na "這只不過是個大好機會，我們突然有很多空閒時間而且..."
+
+
 translate traditional_chinese ep008_nadya_talk_df0c4e94:
 
-    # c "Don't worry about it, Aunt Nadya."
-    c ""
 
-# game/episode008.rpy:799
+    c "別擔心，娜迪亞阿姨。"
+
+
 translate traditional_chinese ep008_nadya_talk_82b2526e:
 
-    # c "Don't worry about it, Nadya."
-    c ""
 
-# game/episode008.rpy:800
+    c "別擔心，娜迪亞。"
+
+
 translate traditional_chinese ep008_nadya_talk_de6a43c5:
 
-    # c "Those birds must be something really special."
-    c ""
 
-# game/episode008.rpy:802
+    c "那些鳥一定是相當特別的東西。"
+
+
 translate traditional_chinese ep008_nadya_talk_4cc54527:
 
-    # na "I'm sure you think me very silly once you lay eyes on them."
-    na ""
 
-# game/episode008.rpy:803
+    na "我敢說你一看到它們就會覺得我是個傻瓜。"
+
+
 translate traditional_chinese ep008_nadya_talk_55205674:
 
-    # c "Do they look that unassuming?"
-    c ""
 
-# game/episode008.rpy:805
+    c "它們看起來就那麼不起眼嗎？"
+
+
 translate traditional_chinese ep008_nadya_talk_f211f0b3:
 
-    # na "Well, yes, but their physiology [p_name], it's so amazing!"
-    na ""
 
-# game/episode008.rpy:806
+    na "嗯，是的，但它們的生理結構[p_name]，簡直太神奇了！"
+
+
 translate traditional_chinese ep008_nadya_talk_d6d74e68:
 
-    # c "I really love it when you get carried away like that."
-    c ""
 
-# game/episode008.rpy:808
+    c "我真的很喜歡你那樣忘乎所以的樣子。"
+
+
 translate traditional_chinese ep008_nadya_talk_0afcc9e1:
 
-    # na "Oh...{w} uh..."
-    na ""
 
-# game/episode008.rpy:809
+    na "哦...{w}呃..."
+
+
 translate traditional_chinese ep008_nadya_talk_8cca8863:
 
-    # c "No really, your enthusiasm is infectious."
-    c ""
 
-# game/episode008.rpy:811
+    c "不，真的，你的熱情很有感染力。"
+
+
 translate traditional_chinese ep008_nadya_talk_4c71d833:
 
-    # na "Thank you."
-    na ""
 
-# game/episode008.rpy:812
+    na "謝謝。"
+
+
 translate traditional_chinese ep008_nadya_talk_af26ba8f:
 
-    # na "Would you like to come on the expedition?"
-    na ""
 
-# game/episode008.rpy:816
+    na "你想參加這次探險嗎？"
+
+
 translate traditional_chinese ep008_nadya_talk_0cdd524e:
 
-    # c "Of course, I'd be happy to."
-    c ""
 
-# game/episode008.rpy:817
+    c "當然，我很樂意。"
+
+
 translate traditional_chinese ep008_nadya_talk_9b737d5c:
 
-    # na "Great, I'll let you know as soon as Caese contacts me."
-    na ""
 
-# game/episode008.rpy:819
+    na "太好了，凱瑟一聯繫我我就馬上告訴你。"
+
+
 translate traditional_chinese ep008_nadya_talk_480be107:
 
-    # c "I can't, I'm afraid."
-    c ""
 
-# game/episode008.rpy:821
+    c "恐怕我不能去。"
+
+
 translate traditional_chinese ep008_nadya_talk_13fee19e:
 
-    # na "No worries, it's going to be a lot of traipsing through the jungle anyway."
-    na ""
 
-# game/episode008.rpy:822
+    na "沒事，反正要在叢林裡跋涉很久。"
+
+
 translate traditional_chinese ep008_nadya_talk_f8d9a7a2:
 
-    # c "I thought as much."
-    c ""
 
-# game/episode008.rpy:823
+    c "我猜也是。"
+
+
 translate traditional_chinese ep008_nadya_talk_c0e7789a:
 
-    # c "Well, I hope you find those birds at some point anyway."
-    c ""
 
-# game/episode008.rpy:824
+    c "好吧，總之我希望你最終能找到那些鳥。"
+
+
 translate traditional_chinese ep008_nadya_talk_307c7e54:
 
-    # na "Yes, me too, here's to hoping Caese contacts me soon."
-    na ""
 
-# game/episode008.rpy:827
+    na "是啊，我也是，希望凱瑟快點聯繫我。"
+
+
 translate traditional_chinese ep008_nadya_talk_42521a57:
 
-    # c "You seem to get easily carried away by stuff like this."
-    c ""
 
-# game/episode008.rpy:828
+    c "你好像很容易爲這種事就忘乎所以。"
+
+
 translate traditional_chinese ep008_nadya_talk_d7bc5bbf:
 
-    # c "I must admit that it disappoints me a little."
-    c ""
 
-# game/episode008.rpy:830
+    c "我得承認，這讓我有點失望。"
+
+
 translate traditional_chinese ep008_nadya_talk_dd661bc6:
 
-    # na "I'm sorry, [p_name_short], I really don't want you to think I'm insensitive."
-    na ""
 
-# game/episode008.rpy:831
+    na "對不起，[p_name_short]，我真的不想讓你覺得我冷漠。"
+
+
 translate traditional_chinese ep008_nadya_talk_21995df8:
 
-    # na "I'm so glad we'll finally be able to meet her and that she seems healthy and unharmed, really I am."
-    na ""
 
-# game/episode008.rpy:832
+    na "我真的很高興我們終於能見到她了，而且她看起來健康無恙，真的。"
+
+
 translate traditional_chinese ep008_nadya_talk_e897fbb0:
 
-    # c "Thank you."
-    c ""
 
-# game/episode008.rpy:833
+    c "謝謝。"
+
+
 translate traditional_chinese ep008_nadya_talk_5b1d39cb:
 
-    # c "Well, I hope you find those birds at some point."
-    c ""
 
-# game/episode008.rpy:834
+    c "好吧，我希望你找到那些鳥。"
+
+
 translate traditional_chinese ep008_nadya_talk_13a45a43:
 
-    # na "I do too."
-    na ""
 
-# game/episode008.rpy:843
+    na "我也希望。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_8270c097:
 
-    # "Aven's quarters were notably more spacious than mine, something I'd noticed when visiting Lilly earlier."
-    ""
 
-# game/episode008.rpy:845
+    "艾文的住處明顯比我的寬敞，這一點我在早先拜訪莉莉時就注意到了。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_97f68d1b:
 
-    # "Aven's quarters were notably more spacious than mine."
-    ""
 
-# game/episode008.rpy:846
+    "艾文的住處明顯比我的寬敞。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_72810e4a:
 
-    # c "How come you have a balcony?"
-    c ""
 
-# game/episode008.rpy:848
+    c "你怎麼會有一個陽臺？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_aceb8ff2:
 
-    # av "You don't?"
-    av ""
 
-# game/episode008.rpy:849
+    av "你沒有嗎？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_4c66c6aa:
 
-    # c "I've been assigned a bed and a chest to put my stuff in, that's it."
-    c ""
 
-# game/episode008.rpy:850
+    c "我只分到了一張牀和一個箱子來放東西，就這樣。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_54995f47:
 
-    # av "Might have something to do with me being a woman."
-    av ""
 
-# game/episode008.rpy:851
+    av "可能和我是個女的有關。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_9aa5e126:
 
-    # c "And being a part of the new royal family."
-    c ""
 
-# game/episode008.rpy:853
+    c "還有是新王室的一部分。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_e4655106:
 
-    # av "So it's true, Eva is their leader?"
-    av ""
 
-# game/episode008.rpy:854
+    av "所以是真的，伊娃是他們的領導？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_e8d6159b:
 
-    # c "The Virgin Queen, yes."
-    c ""
 
-# game/episode008.rpy:855
+    c "\"處女之王\"，沒錯。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_0c27bd0e:
 
-    # av "You spoke to her?"
-    av ""
 
-# game/episode008.rpy:856
+    av "你跟她說上話了？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_162e4e96:
 
-    # c "She mostly spoke at me and I cried out her name once, quite dramatically, and then the audience was over."
-    c ""
 
-# game/episode008.rpy:857
+    c "大多是她在衝我說，我喊了一次她的名字，相當戲劇化，然後接見就結束了。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_9aca0d5d:
 
-    # c "I'm hoping to get a second chance and speak to her privately."
-    c ""
 
-# game/episode008.rpy:859
+    c "我希望能有第二次機會，私下跟她談談。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_11e3494d:
 
-    # av "I hope you do."
-    av ""
 
-# game/episode008.rpy:860
+    av "我希望你能。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_ddd5087e:
 
-    # av "In the meantime, the sleeping arrangements don't seem too bad."
-    av ""
 
-# game/episode008.rpy:861
+    av "與此同時，住宿安排似乎不太差。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_f7370fca:
 
-    # c "They're also repairing our ship in one of their shipyards."
-    c ""
 
-# game/episode008.rpy:863
+    c "他們還在他們的一個造船廠修理我們的船。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_fef4c913:
 
-    # av "Really?{w} That's good news."
-    av ""
 
-# game/episode008.rpy:864
+    av "真的嗎？{w} 好消息。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_61f27c37:
 
-    # av "So I guess we'll have to be patient."
-    av ""
 
-# game/episode008.rpy:865
+    av "所以我猜我們得耐心點。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_cf2a6a99:
 
-    # c "I guess so."
-    c ""
 
-# game/episode008.rpy:868
+    c "我想是吧。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_9c22b37c:
 
-    # av "Why don't you join me on the balcony?"
-    av ""
 
-# game/episode008.rpy:869
+    av "不如你跟我一起到陽臺上來？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_2bd8cee6:
 
-    # av "There's booze."
-    av ""
 
-# game/episode008.rpy:870
+    av "有酒。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_29403d57:
 
-    # c "Wait, you have booze as well?"
-    c ""
 
-# game/episode008.rpy:871
+    c "等等，你也有酒？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_334f56aa:
 
-    # c "What an outrage!"
-    c ""
 
-# game/episode008.rpy:872
+    c "太氣人了！"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_58d97a3f:
 
-    # av "Yup, a fully stocked liquor cabinet."
-    av ""
 
-# game/episode008.rpy:873
+    av "沒錯，一個存貨滿滿的酒櫃。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_831ac49a:
 
-    # av "And the jungle air sure is lovely tonight."
-    av ""
 
-# game/episode008.rpy:875
+    av "而且今晚叢林空氣真是美妙。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_40442947:
 
-    # "Aven was right about the air out on the balcony, but I enjoyed it even more because she was so close to me."
-    ""
 
-# game/episode008.rpy:876
+    "艾文對陽臺上空氣的描述是對的，但我更享受因爲她就貼我很近。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_82292242:
 
-    # "The rustling of leaves mingled with the occasional rallying cries of unknown jungle-dwelling animals."
-    ""
 
-# game/episode008.rpy:877
+    "樹葉的沙沙聲混雜着偶爾叢林未知動物的嘶鳴。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_a295d08d:
 
-    # "Because the Citadel was high upon the mountain, a vast expanse of stars could be seen above the canopy."
-    ""
 
-# game/episode008.rpy:879
+    "由於城堡高踞山頂，頂上可見廣袤星空。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_5b25d9ba:
 
-    # av "So...{w} The question is, will you return to your tiny bedroom tonight?"
-    av ""
 
-# game/episode008.rpy:880
+    av "所以...{w}問題在於，你今晚會回自己那個小房間嗎？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_529a1961:
 
-    # c "You know you're making it very hard for me to go back."
-    c ""
 
-# game/episode008.rpy:881
+    c "你知道你這樣讓我很難回去。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_7c1b3d84:
 
-    # av "Am I?"
-    av ""
 
-# game/episode008.rpy:882
+    av "是嗎？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_d1c83dc8:
 
-    # av "It's because of the booze, isn't it?"
-    av ""
 
-# game/episode008.rpy:883
+    av "是因爲酒，對吧？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_191f0856:
 
-    # c "Mostly, yes."
-    c ""
 
-# game/episode008.rpy:884
+    c "很大程度上是吧。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_c1410388:
 
-    # c "Though the fact that you're wearing nothing but that hot lingerie plays a small part as well."
-    c ""
 
-# game/episode008.rpy:886
+    c "不過你只穿着那件性感內衣的樣子也起了點作用。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_c2483e12:
 
-    # av "Does it now?"
-    av ""
 
-# game/episode008.rpy:887
+    av "哦，這樣啊？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_8a46d0e3:
 
-    # c "Uh-huh."
-    c ""
 
-# game/episode008.rpy:888
+    c "嗯哼。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_4c17f3e8:
 
-    # av "So you'd be very unhappy when I lose the bra and panties?"
-    av ""
 
-# game/episode008.rpy:889
+    av "所以要是我脫掉胸罩和內褲，你會很不開心？"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_c847a4e7:
 
-    # c "I can't say that I would, funnily enough."
-    c ""
 
-# game/episode008.rpy:890
+    c "說真的，倒也不會。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_5128da05:
 
-    # av "Oh?{w} You know, maybe we should go inside."
-    av ""
 
-# game/episode008.rpy:891
+    av "哦？{w}你知道麼，我們該進屋了。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_57f021b3:
 
-    # c "Maybe we should."
-    c ""
 
-# game/episode008.rpy:893
+    c "確實該進去了。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_773a053c:
 
-    # "While we were walking through the glass doors, Aven was already unfastening the clasp of her bra."
-    ""
 
-# game/episode008.rpy:895
+    "穿過玻璃門時，艾文已經在解胸罩搭扣。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_426011a2:
 
-    # "She cast me a smouldering look as the garment fell to the floor."
-    ""
 
-# game/episode008.rpy:896
+    "內衣滑落時她朝我拋來曖昧的注視。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_7550931e:
 
-    # "The sexual energy almost crackled and I somehow knew that tonight we weren't going to hold back."
-    ""
 
-# game/episode008.rpy:898
+    "空氣中幾乎噼啪作響的性張力讓我預感到今晚我們將毫無保留。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_be2a5b8e:
 
-    # "With one step I swept her up in an embrace."
-    ""
 
-# game/episode008.rpy:899
+    "我一步上前將她攬入懷中。"
+
+
 translate traditional_chinese ep008_aven_erigone_talk_f718e2c3:
 
-    # av "Make love to me, [p_name]."
-    av ""
 
-# game/episode008.rpy:905
+    av "好好愛我吧，[p_name]。"
+
+
 translate traditional_chinese ep008_celine_talk_9f0be00a:
 
-    # "Céline was looking out over the Citadel courtyard and enjoying the warm sun."
-    ""
 
-# game/episode008.rpy:906
+    "瑟琳正眺望着城堡庭院，享受溫暖陽光。"
+
+
 translate traditional_chinese ep008_celine_talk_29ae44aa:
 
-    # "She smiled as I approached and motioned me to sit down next to her."
-    ""
 
-# game/episode008.rpy:908
+    "見我走近便展露笑顏，示意我坐到她身邊。"
+
+
 translate traditional_chinese ep008_celine_talk_afee68ee:
 
-    # ce "How’s Eva?"
-    ce ""
 
-# game/episode008.rpy:909
+    ce "伊娃還好嗎？"
+
+
 translate traditional_chinese ep008_celine_talk_8c9bada2:
 
-    # ce "Is she still the same?"
-    ce ""
 
-# game/episode008.rpy:910
+    ce "還是老樣子？"
+
+
 translate traditional_chinese ep008_celine_talk_ea039d09:
 
-    # c "It’s really hard to say."
-    c ""
 
-# game/episode008.rpy:911
+    c "真不好說。"
+
+
 translate traditional_chinese ep008_celine_talk_d70eef9d:
 
-    # c "She played the queen when I met her."
-    c ""
 
-# game/episode008.rpy:912
+    c "我見她時她還在扮演女王。"
+
+
 translate traditional_chinese ep008_celine_talk_199c6a0e:
 
-    # c "I’m not sure if it was feigned for the benefit of the Acarhyn surrounding her, or if she’s really, you know, their queen."
-    c ""
 
-# game/episode008.rpy:914
+    c "我真不確定她是不是因爲周圍阿卡海茵人的緣故在演戲，或者說她真的，你懂的，成了他們的女王。"
+
+
 translate traditional_chinese ep008_celine_talk_cbeb7cd3:
 
-    # ce "This is all so weird."
-    ce ""
 
-# game/episode008.rpy:915
+    ce "這一切都太詭異了。"
+
+
 translate traditional_chinese ep008_celine_talk_4011bb05:
 
-    # c "No argument there."
-    c ""
 
-# game/episode008.rpy:916
+    c "同意。"
+
+
 translate traditional_chinese ep008_celine_talk_facd4b5d:
 
-    # ce "I really hope we get to meet the real Eva again."
-    ce ""
 
-# game/episode008.rpy:917
+    ce "我真希望還能見到真正的伊娃。"
+
+
 translate traditional_chinese ep008_celine_talk_50441a88:
 
-    # c "So do I."
-    c ""
 
-# game/episode008.rpy:918
+    c "我也這麼想。"
+
+
 translate traditional_chinese ep008_celine_talk_8f31456d:
 
-    # c "I feel I just need to see her for one private moment."
-    c ""
 
-# game/episode008.rpy:919
+    c "我就覺得只要能私下見她一面就好。"
+
+
 translate traditional_chinese ep008_celine_talk_5ac78cfa:
 
-    # c "I’m sure the old Eva is right there beneath the surface."
-    c ""
 
-# game/episode008.rpy:921
+    c "我確信從前的伊娃就藏在現在這副外表底下。"
+
+
 translate traditional_chinese ep008_celine_talk_2e4e49a7:
 
-    # ce "I really hope you’re right."
-    ce ""
 
-# game/episode008.rpy:922
+    ce "真希望你說得對。"
+
+
 translate traditional_chinese ep008_celine_talk_34f0a009:
 
-    # c "How are you holding up?"
-    c ""
 
-# game/episode008.rpy:924
+    c "你還好嗎？"
+
+
 translate traditional_chinese ep008_celine_talk_7e3d9131:
 
-    # ce "My head is still spinning from that crash landing."
-    ce ""
 
-# game/episode008.rpy:925
+    ce "墜毀着陸搞得我現在還頭暈眼花。"
+
+
 translate traditional_chinese ep008_celine_talk_a72b5e80:
 
-    # c "I’m very glad we’re still in one piece."
-    c ""
 
-# game/episode008.rpy:926
+    c "能保住性命真是萬幸。"
+
+
 translate traditional_chinese ep008_celine_talk_62aa5d26:
 
-    # c "Although the same can’t be said of the Bastard."
-    c ""
 
-# game/episode008.rpy:927
+    c "不過\"私生子\"號可就沒這運氣了。"
+
+
 translate traditional_chinese ep008_celine_talk_d240c365:
 
-    # ce "No, unfortunately not."
-    ce ""
 
-# game/episode008.rpy:929
+    ce "是啊，太可惜了。"
+
+
 translate traditional_chinese ep008_celine_talk_e76e1a72:
 
-    # ce "Though there’s at least one benefit of being friends with the queen of these parts."
-    ce ""
 
-# game/episode008.rpy:930
+    ce "但跟這片地界的女王交朋友至少有個好處。"
+
+
 translate traditional_chinese ep008_celine_talk_fa329c77:
 
-    # c "Yeah, the repairs to the ship should already be underway."
-    c ""
 
-# game/episode008.rpy:931
+    c "嗯，飛船維修應該已經在進行了。"
+
+
 translate traditional_chinese ep008_celine_talk_2aece7a4:
 
-    # ce "Thyia has already been pestering their engineers."
-    ce ""
 
-# game/episode008.rpy:932
+    ce "塞婭早就在催他們的工程師了。"
+
+
 translate traditional_chinese ep008_celine_talk_bc52007c:
 
-    # c "Good, I hope they can get her space-worthy again."
-    c ""
 
-# game/episode008.rpy:934
+    c "太好了，希望能儘快恢復航行能力。"
+
+
 translate traditional_chinese ep008_celine_talk_f309483e:
 
-    # ce "The Acarhyn seem to be quite capable mechanics, so I’m not worried."
-    ce ""
 
-# game/episode008.rpy:935
+    ce "阿卡海茵人看起來挺擅長機械，所以我不擔心。"
+
+
 translate traditional_chinese ep008_celine_talk_1cad2b15:
 
-    # ce "Maybe they’ll improve some parts of the ship."
-    ce ""
 
-# game/episode008.rpy:936
+    ce "說不定他們還能給飛船做些升級呢。"
+
+
 translate traditional_chinese ep008_celine_talk_c9c3a25c:
 
-    # c "We’re not on a budget, so I’ll tell Thyia to install a jacuzzi on the bridge."
-    c ""
 
-# game/episode008.rpy:938
+    c "反正現在預算充足，我讓塞婭在艦橋加個按摩浴缸好了。"
+
+
 translate traditional_chinese ep008_celine_talk_ff9c4555:
 
-    # ce "Cozy, yet so impractical."
-    ce ""
 
-# game/episode008.rpy:939
+    ce "雖舒適，但不實用。"
+
+
 translate traditional_chinese ep008_celine_talk_fe548fca:
 
-    # c "One can dream."
-    c ""
 
-# game/episode008.rpy:941
+    c "讓我做做夢行嗎。"
+
+
 translate traditional_chinese ep008_celine_talk_6f6afbca:
 
-    # ce "Still, it’s fucked up we’re now relying on the people who got us into this mess in the first place."
-    ce ""
 
-# game/episode008.rpy:942
+    ce "可我們居然得靠當初害我們墜機的這幫人脫困，真他媽操蛋。"
+
+
 translate traditional_chinese ep008_celine_talk_2f955304:
 
-    # c "I get what you’re saying, though I feel we have little choice."
-    c ""
 
-# game/episode008.rpy:943
+    c "我懂你的意思，但我們別無選擇。"
+
+
 translate traditional_chinese ep008_celine_talk_dd8f0dac:
 
-    # ce "We don’t, but it’s still grating."
-    ce ""
 
-# game/episode008.rpy:944
+    ce "我們確實沒有，但這還是很煩人。"
+
+
 translate traditional_chinese ep008_celine_talk_73c166f3:
 
-    # ce "I know Kit is secretly having a hard time dealing with being surrounded by the women who nearly killed him."
-    ce ""
 
-# game/episode008.rpy:946
+    ce "我知道基特私下很難面對被那些幾乎殺死他的女人包圍着。"
+
+
 translate traditional_chinese ep008_celine_talk_5f8fe851:
 
-    # c "I know, we talked about it."
-    c ""
 
-# game/episode008.rpy:948
+    c "我知道，我們談過這事了。"
+
+
 translate traditional_chinese ep008_celine_talk_cab61fba:
 
-    # ce "Was that the reason for the midnight rampage you two were on?"
-    ce ""
 
-# game/episode008.rpy:949
+    ce "那是你們倆半夜瘋鬧的原因嗎？"
+
+
 translate traditional_chinese ep008_celine_talk_23554806:
 
-    # c "You know about that?"
-    c ""
 
-# game/episode008.rpy:951
+    c "你知道那事？"
+
+
 translate traditional_chinese ep008_celine_talk_c3d5126b:
 
-    # ce "Considering the noise you were making, who doesn’t?"
-    ce ""
 
-# game/episode008.rpy:953
+    ce "考慮到你們那動靜，誰能不知道？"
+
+
 translate traditional_chinese ep008_celine_talk_0c265b8a:
 
-    # c "Fuck, I didn’t realize, I’ll go talk to him soon."
-    c ""
 
-# game/episode008.rpy:955
+    c "靠，我沒意識到，我馬上去找他談談。"
+
+
 translate traditional_chinese ep008_celine_talk_b503cd69:
 
-    # ce "Please do."
-    ce ""
 
-# game/episode008.rpy:960
+    ce "請務必。"
+
+
 translate traditional_chinese ep008_jade_talk_459b0206:
 
-    # j "Mistress Eva is alive?"
-    j ""
 
-# game/episode008.rpy:961
+    j "伊娃小姐還活着？"
+
+
 translate traditional_chinese ep008_jade_talk_0a09d539:
 
-    # c "She is."
-    c ""
 
-# game/episode008.rpy:963
+    c "是的。"
+
+
 translate traditional_chinese ep008_jade_talk_9c3b1779:
 
-    # j "I'm so glad to hear that."
-    j ""
 
-# game/episode008.rpy:964
+    j "真高興聽到這消息。"
+
+
 translate traditional_chinese ep008_jade_talk_4e92ac2c:
 
-    # j "How did she look?"
-    j ""
 
-# game/episode008.rpy:965
+    j "她看起來怎麼樣？"
+
+
 translate traditional_chinese ep008_jade_talk_2bb5dec6:
 
-    # c "Regal is the word I think."
-    c ""
 
-# game/episode008.rpy:967
+    c "我覺得可以用'莊嚴'這詞兒。"
+
+
 translate traditional_chinese ep008_jade_talk_5afc1716:
 
-    # j "Regal?"
-    j ""
 
-# game/episode008.rpy:968
+    j "'莊嚴'？"
+
+
 translate traditional_chinese ep008_jade_talk_a4836701:
 
-    # c "Yes, Eva appears to have become the Queen of the Acarhyn."
-    c ""
 
-# game/episode008.rpy:970
+    c "是的，伊娃似乎成了阿卡海茵人的女王。"
+
+
 translate traditional_chinese ep008_jade_talk_689726ab:
 
-    # j "The Virgin Queen..."
-    j ""
 
-# game/episode008.rpy:971
+    j "\"處女之王\"..."
+
+
 translate traditional_chinese ep008_jade_talk_f9c698b6:
 
-    # c "Exactly."
-    c ""
 
-# game/episode008.rpy:973
+    c "正是。"
+
+
 translate traditional_chinese ep008_jade_talk_08f1c9d2:
 
-    # j "I wonder how that happened."
-    j ""
 
-# game/episode008.rpy:974
+    j "我好奇那是如何發生的。"
+
+
 translate traditional_chinese ep008_jade_talk_a4f959f9:
 
-    # c "I intend to find out."
-    c ""
 
-# game/episode008.rpy:980
+    c "我打算查個明白。"
+
+
 translate traditional_chinese ep008_jade_talk_d56aa1d1:
 
-    # c "How’s your injury?"
-    c ""
 
-# game/episode008.rpy:982
+    c "你的傷怎麼樣了？"
+
+
 translate traditional_chinese ep008_jade_talk_61dd070e:
 
-    # j "A lot better!"
-    j ""
 
-# game/episode008.rpy:983
+    j "好多了！"
+
+
 translate traditional_chinese ep008_jade_talk_684b67d2:
 
-    # j "The Acarhyn treated my wound while we were held prison."
-    j ""
 
-# game/episode008.rpy:984
+    j "阿卡海茵人在我們被囚禁時治療了我的傷口。"
+
+
 translate traditional_chinese ep008_jade_talk_0201334f:
 
-    # j "The restorative balm they used must have accelerated the healing process."
-    j ""
 
-# game/episode008.rpy:985
+    j "他們用的恢復藥膏一定加速了癒合過程。"
+
+
 translate traditional_chinese ep008_jade_talk_f9c73246:
 
-    # c "I’m glad to see you up and about."
-    c ""
 
-# game/episode008.rpy:986
+    c "真高興看到你能下牀走動了。"
+
+
 translate traditional_chinese ep008_jade_talk_7af1c29f:
 
-    # c "Just be wary of the Acarhyn’s kindness, it might come at a price."
-    c ""
 
-# game/episode008.rpy:989
+    c "對阿卡海茵人的好意當心點，它可能有代價。"
+
+
 translate traditional_chinese ep008_jade_talk_06805c98:
 
-    # c "Seems you can perform your duties again?"
-    c ""
 
-# game/episode008.rpy:990
+    c "你好像又能履行職責了？"
+
+
 translate traditional_chinese ep008_jade_talk_8e999e21:
 
-    # j "I can, master."
-    j ""
 
-# game/episode008.rpy:991
+    j "我能，主人。"
+
+
 translate traditional_chinese ep008_jade_talk_684b67d2_1:
 
-    # j "The Acarhyn treated my wound while we were held prison."
-    j ""
 
-# game/episode008.rpy:992
+    j "在我們被關監獄時，阿卡海茵人治療了我的傷口。"
+
+
 translate traditional_chinese ep008_jade_talk_0201334f_1:
 
-    # j "The restorative balm they used must have accelerated the healing process."
-    j ""
 
-# game/episode008.rpy:993
+    j "他們用的康復膏一定加速了癒合過程。"
+
+
 translate traditional_chinese ep008_jade_talk_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode008.rpy:994
+    c "好。"
+
+
 translate traditional_chinese ep008_jade_talk_d6694e82:
 
-    # c "Just don’t rely on the Acarhyn’s kindness too much, it might come at a price."
-    c ""
 
-# game/episode008.rpy:996
+    c "不要太依賴阿卡海茵人的好意，它可能有代價。"
+
+
 translate traditional_chinese ep008_jade_talk_0b247f0f:
 
-    # j "Are we still prisoners?"
-    j ""
 
-# game/episode008.rpy:997
+    j "我們還是囚犯嗎？"
+
+
 translate traditional_chinese ep008_jade_talk_5c4f507e:
 
-    # c "No, we're not."
-    c ""
 
-# game/episode008.rpy:998
+    c "不，我們不是。"
+
+
 translate traditional_chinese ep008_jade_talk_9fc3d9c8:
 
-    # c "We've been given permission to roam the castle grounds and use any of the facilities."
-    c ""
 
-# game/episode008.rpy:999
+    c "我們被允許在城堡場地隨意走動，使用任何設施。"
+
+
 translate traditional_chinese ep008_jade_talk_64bc119c:
 
-    # j "There's supposed to be a bath."
-    j ""
 
-# game/episode008.rpy:1000
+    j "應該有浴室吧。"
+
+
 translate traditional_chinese ep008_jade_talk_56809824:
 
-    # c "There is."
-    c ""
 
-# game/episode008.rpy:1001
+    c "有的。"
+
+
 translate traditional_chinese ep008_jade_talk_91bd8b0c:
 
-    # j "I think I'm going to make use of it shortly."
-    j ""
 
-# game/episode008.rpy:1002
+    j "我想我馬上就得去用一下。"
+
+
 translate traditional_chinese ep008_jade_talk_c358a5aa:
 
-    # c "Enjoy yourself."
-    c ""
 
-# game/episode008.rpy:1008
+    c "自便吧。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_f93002f0:
 
-    # ki "Fuck me, your sister is a queen?!"
-    ki ""
 
-# game/episode008.rpy:1010
+    ki "操，你妹妹是女王？！"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_bf5a0fdd:
 
-    # ki "Fuck me, our friend is a queen?!"
-    ki ""
 
-# game/episode008.rpy:1011
+    ki "操，我們的朋友是女王？！"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_8107df59:
 
-    # c "It sure seems like it."
-    c ""
 
-# game/episode008.rpy:1012
+    c "看起來確實是這樣。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_863c6b77:
 
-    # ki "That’s just so weird."
-    ki ""
 
-# game/episode008.rpy:1014
+    ki "那太奇怪了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_d3c39fd3:
 
-    # ki "They took her from Lanan to become their queen?"
-    ki ""
 
-# game/episode008.rpy:1015
+    ki "他們從拉南星帶走她，來當她們的女王？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_4b2c715a:
 
-    # c "Maybe not her specifically, but something must have happened after she was kidnapped."
-    c ""
 
-# game/episode008.rpy:1016
+    c "也許不是特別指定她，但被綁架後一定發生了什麼事。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_b4df5929:
 
-    # c "Maybe they mistook her for someone else?"
-    c ""
 
-# game/episode008.rpy:1018
+    c "也許他們把她認錯人了？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_bb195ef3:
 
-    # ki "Could be."
-    ki ""
 
-# game/episode008.rpy:1019
+    ki "有可能。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_c7b55381:
 
-    # ki "I tried to ask around, but most of the Acarhyn don't seem to be in the mood for small talk."
-    ki ""
 
-# game/episode008.rpy:1020
+    ki "我試着四處問問，但大多數阿卡海茵人似乎沒心情閒聊。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_cea38145:
 
-    # ki "It’s also a little weird, because us and Thim seem to be the only men in the palace."
-    ki ""
 
-# game/episode008.rpy:1021
+    ki "也有點怪，因爲似乎只有我們和蒂姆在宮殿裡是男的。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_734948ba:
 
-    # c "Now that you mention it, I haven’t seen any other men, apart from the prisoner down below."
-    c ""
 
-# game/episode008.rpy:1022
+    c "既然你提到這個，我除了下面的囚犯之外還沒見過任何其他男人。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_1e4ab572:
 
-    # ki "Apparently most of the men live in the countryside."
-    ki ""
 
-# game/episode008.rpy:1023
+    ki "顯然大部分男人都住在鄉下。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_9c0db932:
 
-    # ki "From the few conversations I managed to strike up, it seems that the guy in the dungeon didn’t lie about men being sold as sex slaves."
-    ki ""
 
-# game/episode008.rpy:1024
+    ki "從我設法進行的幾次談話來看，地牢裡的那個人似乎沒說謊，關於男人被當性奴拍賣的事。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_db033543:
 
-    # ki "They don’t call them slaves of course, just like Jade is your ‘attendant’..."
-    ki ""
 
-# game/episode008.rpy:1025
+    ki "他們當然不叫他們奴隸，就像傑德是你的『侍從』一樣..."
+
+
 translate traditional_chinese ep008_kit_erigone_talk_b9d96a8b:
 
-    # c "You’re worried we’ll get auctioned off as well?"
-    c ""
 
-# game/episode008.rpy:1026
+    c "你擔心我們也會被拍賣掉？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_dd98d953:
 
-    # ki "Nah, I think we’re protected because of our connection with Eva."
-    ki ""
 
-# game/episode008.rpy:1027
+    ki "不，我覺得我們因爲有和伊娃的關係被保護着。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_2d5b6d7f:
 
-    # ki "Also, it’s been a long time since there was an auction."
-    ki ""
 
-# game/episode008.rpy:1028
+    ki "而且，拍賣會已經很久沒舉行了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_414b109e:
 
-    # c "Well, I’m sure you’d fetch a high price."
-    c ""
 
-# game/episode008.rpy:1030
+    c "嗯，我敢肯定你能拍出高價。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_7ca264d5:
 
-    # ki "Naturally, I’d be the star stud in the Acarhyn fuck stable."
-    ki ""
 
-# game/episode008.rpy:1031
+    ki "自然，我會是阿卡海茵種馬棚裏的明星種馬。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_0016e667:
 
-    # c "Thanks, now I have to live with that mental image."
-    c ""
 
-# game/episode008.rpy:1033
+    c "謝謝，現在我腦子裡得一直想着那個畫面了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_3c95bdc6:
 
-    # ki "You’re very welcome."
-    ki ""
 
-# game/episode008.rpy:1034
+    ki "不客氣。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_e645abad:
 
-    # c "But you’re chatting up the Acarhyn?"
-    c ""
 
-# game/episode008.rpy:1035
+    c "但你在和阿卡海茵人搭訕？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_add46328:
 
-    # c "I thought you’d hate them for what they did to you."
-    c ""
 
-# game/episode008.rpy:1037
+    c "我還以爲你會因爲他們對你做的事而恨他們。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_efbebfc5:
 
-    # ki "Make no mistake, I do hate them."
-    ki ""
 
-# game/episode008.rpy:1038
+    ki "別誤會，我確實恨他們。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_67589f53:
 
-    # ki "And I’d happily blow this whole palace up if I had the chance."
-    ki ""
 
-# game/episode008.rpy:1039
+    ki "而且如果我有機會，會很高興把這整個宮殿炸了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_2e1e1351:
 
-    # ki "But what are we going to do against these overwhelming odds?"
-    ki ""
 
-# game/episode008.rpy:1040
+    ki "但我們能怎麼對抗這些壓倒性的力量？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_d781541e:
 
-    # c "I get your point."
-    c ""
 
-# game/episode008.rpy:1042
+    c "我懂你的意思。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_d1a36539:
 
-    # ki "I’d say we learn as much as possible from them while they’re still semi-friendly."
-    ki ""
 
-# game/episode008.rpy:1043
+    ki "我說我們就趁着他們還半友好，從他們那裡儘量多學點東西。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_47bd57a7:
 
-    # ki "A little bit of extra knowledge is always helpful."
-    ki ""
 
-# game/episode008.rpy:1045
+    ki "多一點點知識總是有用的。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_9bccd011:
 
-    # ki "But if I ever met the one who stabbed me in the gut, I don’t know what I’d do."
-    ki ""
 
-# game/episode008.rpy:1050
+    ki "但如果我碰到那個捅我肚子的人，我不知道我會做什麼。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_defb7a54:
 
-    # c "So about that...{w} I met her."
-    c ""
 
-# game/episode008.rpy:1051
+    c "所以，關於那件事...{w} 我碰到她了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_51864bf0:
 
-    # ki "Fuck."
-    ki ""
 
-# game/episode008.rpy:1052
+    ki "操。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_c958c87a:
 
-    # c "I didn’t know whether to tell you."
-    c ""
 
-# game/episode008.rpy:1053
+    c "我不知道該不該告訴你。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_7c7f8500:
 
-    # c "She’s one of the guards that took us prisoner."
-    c ""
 
-# game/episode008.rpy:1055
+    c "她是俘虜我們的其中一個守衛。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_96a14dbc:
 
-    # ki "Really?{w} I don’t remember her."
-    ki ""
 
-# game/episode008.rpy:1056
+    ki "真的嗎？{w} 我不記得她了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_35aaabed:
 
-    # ki "Everything about Lanan is such a blur."
-    ki ""
 
-# game/episode008.rpy:1057
+    ki "關於拉南星的一切都很模糊。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_a8a35f25:
 
-    # ki "What did you do when you realized it was her?"
-    ki ""
 
-# game/episode008.rpy:1059
+    ki "當你意識到是她時，你做了什麼？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_ef11479a:
 
-    # c "I nearly choked the life out of her."
-    c ""
 
-# game/episode008.rpy:1061
+    c "我差點兒把她勒死。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_1e40f59e:
 
-    # ki "Serves her right!"
-    ki ""
 
-# game/episode008.rpy:1063
+    ki "她活該！"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_94651238:
 
-    # c "To be honest, I didn’t do anything."
-    c ""
 
-# game/episode008.rpy:1065
+    c "說實話，我什麼都沒做。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_d4efacee:
 
-    # ki "Yeah I don’t know what I would have done."
-    ki ""
 
-# game/episode008.rpy:1066
+    ki "是啊，我也不知道我本會做什麼。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_78781b7f:
 
-    # ki "Fuck, I think I’m going to get drunk on this terrible beer they’re serving."
-    ki ""
 
-# game/episode008.rpy:1067
+    ki "操，我覺得我要喝他們端上來的這個可怕的啤酒喝個醉。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_38ff1035:
 
-    # c "I’ll join you."
-    c ""
 
-# game/episode008.rpy:1068
+    c "我陪你一起。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_a4642c16:
 
-    # ki "Thanks."
-    ki ""
 
-# game/episode008.rpy:1070
+    ki "謝謝。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_a8c2dc39:
 
-    # "Kit and I got heavily drunk that night and remained in the dining hall after everyone had deserted the place."
-    ""
 
-# game/episode008.rpy:1071
+    "基特和我在那晚喝得爛醉，在所有人都離開後，我們留在用餐室裏。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_39c36190:
 
-    # "I’m sure the Acarhyn were very annoyed by the bawdy songs and tall tales we sounded out loudly for everyone to hear."
-    ""
 
-# game/episode008.rpy:1072
+    "我敢肯定阿卡海茵人非常惱火我們大聲唱出的粗俗歌曲和吹的滿天飛的牛逼，所有人都聽到了。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_c2189cde:
 
-    # "We staggered back to our quarters, only to emerge with a throbbing hangover next morning."
-    ""
 
-# game/episode008.rpy:1075
+    "我們踉踉蹌蹌地回到宿舍，第二天早上頭痛欲裂地出現。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_81e5078e:
 
-    # c "Choke the life out of her?"
-    c ""
 
-# game/episode008.rpy:1077
+    c "把她勒死？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_9e0e5fae:
 
-    # ki "Maybe..."
-    ki ""
 
-# game/episode008.rpy:1079
+    ki "也許..."
+
+
 translate traditional_chinese ep008_kit_erigone_talk_51864bf0_1:
 
-    # ki "Fuck."
-    ki ""
 
-# game/episode008.rpy:1080
+    ki "操。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_81dacbb4:
 
-    # ki "That’s a dark place to go to."
-    ki ""
 
-# game/episode008.rpy:1081
+    ki "那個念頭很黑暗。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_73fe45b4:
 
-    # ki "I think I’m just going to enjoy this terrible beer they’re serving."
-    ki ""
 
-# game/episode008.rpy:1082
+    ki "我覺得我就享受一下他們端上來的這個可怕的啤酒吧。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_8d5feb69:
 
-    # c "In that case, enjoy!"
-    c ""
 
-# game/episode008.rpy:1084
+    c "那樣的話，享受吧！"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_81e5078e_1:
 
-    # c "Choke the life out of her?"
-    c ""
 
-# game/episode008.rpy:1086
+    c "把她勒死？"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_9e0e5fae_1:
 
-    # ki "Maybe..."
-    ki ""
 
-# game/episode008.rpy:1088
+    ki "也許..."
+
+
 translate traditional_chinese ep008_kit_erigone_talk_51864bf0_2:
 
-    # ki "Fuck."
-    ki ""
 
-# game/episode008.rpy:1089
+    ki "操。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_81dacbb4_1:
 
-    # ki "That’s a dark place to go to."
-    ki ""
 
-# game/episode008.rpy:1090
+    ki "那個想法很陰暗。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_73fe45b4_1:
 
-    # ki "I think I’m just going to enjoy this terrible beer they’re serving."
-    ki ""
 
-# game/episode008.rpy:1091
+    ki "我覺得我就享受一下他們端上來的這個可怕的啤酒吧。"
+
+
 translate traditional_chinese ep008_kit_erigone_talk_8d5feb69_1:
 
-    # c "In that case, enjoy!"
-    c ""
 
-# game/episode008.rpy:1096
+    c "那樣的話，享受吧！"
+
+
 translate traditional_chinese ep008_ziv_talk_1a8b4274:
 
-    # c "Enjoying the view?"
-    c ""
 
-# game/episode008.rpy:1098
+    c "風景好看嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_a7060748:
 
-    # zi "It has a strange kind of beauty to it."
-    zi ""
 
-# game/episode008.rpy:1099
+    zi "它有種奇怪的美。"
+
+
 translate traditional_chinese ep008_ziv_talk_4e1d87ac:
 
-    # c "All of the spaceship wreckage really complements the vastness of the jungle."
-    c ""
 
-# game/episode008.rpy:1100
+    c "所有的太空船殘骸真的襯託了叢林的浩瀚。"
+
+
 translate traditional_chinese ep008_ziv_talk_f3287f8b:
 
-    # zi "Something like that."
-    zi ""
 
-# game/episode008.rpy:1101
+    zi "類似這樣吧。"
+
+
 translate traditional_chinese ep008_ziv_talk_b764455d:
 
-    # zi "It sure is a strange place."
-    zi ""
 
-# game/episode008.rpy:1102
+    zi "這確實是個怪地方。"
+
+
 translate traditional_chinese ep008_ziv_talk_0c507343:
 
-    # zi "You'd think a culture like this would never be able to sustain itself and yet they have done marvellously well by the looks of it."
-    zi ""
 
-# game/episode008.rpy:1103
+    zi "你可能會覺得這樣的文化根本無法自給自足，但看樣子他們做得非常棒。"
+
+
 translate traditional_chinese ep008_ziv_talk_df5bda69:
 
-    # c "I think their genetics gave them an advantage."
-    c ""
 
-# game/episode008.rpy:1104
+    c "我認爲他們的基因給了他們優勢。"
+
+
 translate traditional_chinese ep008_ziv_talk_1162de13:
 
-    # zi "Probably."
-    zi ""
 
-# game/episode008.rpy:1105
+    zi "可能吧。"
+
+
 translate traditional_chinese ep008_ziv_talk_0c975df4:
 
-    # zi "But the level of engineering sophistication combined with their obsession for martial culture is really peculiar."
-    zi ""
 
-# game/episode008.rpy:1107
+    zi "但他們對武道文化的癡迷與高超的工程技術相結合在一起，確實很特別。"
+
+
 translate traditional_chinese ep008_ziv_talk_b9a1b4bf:
 
-    # "Ziv looked out over the treetops and sighed."
-    ""
 
-# game/episode008.rpy:1109
+    "基芙望着樹頂，嘆了口氣。"
+
+
 translate traditional_chinese ep008_ziv_talk_ca5995c9:
 
-    # zi "I've been meaning to talk to you."
-    zi ""
 
-# game/episode008.rpy:1110
+    zi "我一直想跟你談談。"
+
+
 translate traditional_chinese ep008_ziv_talk_167c4bfd:
 
-    # c "You have?"
-    c ""
 
-# game/episode008.rpy:1111
+    c "是嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_a8fde752:
 
-    # zi "Yes, but of course all kinds of events intervened."
-    zi ""
 
-# game/episode008.rpy:1114
+    zi "是的，但當然各種事情都插進來了。"
+
+
 translate traditional_chinese ep008_ziv_talk_dd76e439:
 
-    # zi "I just wanted to say that you surprise me, [p_name]."
-    zi ""
 
-# game/episode008.rpy:1115
+    zi "我只是想說，你讓我驚訝，[p_name]。"
+
+
 translate traditional_chinese ep008_ziv_talk_36bb0b7d:
 
-    # c "Thanks, I guess?"
-    c ""
 
-# game/episode008.rpy:1116
+    c "謝謝，我猜？"
+
+
 translate traditional_chinese ep008_ziv_talk_148d33d7:
 
-    # zi "Oh, I don't mean it in a negative way."
-    zi ""
 
-# game/episode008.rpy:1117
+    zi "哦，我沒有惡意。"
+
+
 translate traditional_chinese ep008_ziv_talk_d2b2eee7:
 
-    # zi "I just want you to know that I really appreciate the way you've treated Raene so far."
-    zi ""
 
-# game/episode008.rpy:1118
+    zi "我只是想讓你知道，我很感激你到目前爲止對待蕾妮的方式。"
+
+
 translate traditional_chinese ep008_ziv_talk_93705ca4:
 
-    # zi "She's been bravely undergoing the treatment, but I've seen her grow more confident since we've joined the crew."
-    zi ""
 
-# game/episode008.rpy:1119
+    zi "她一直在勇敢地接受治療，但自從我們加入艦員後，我看到她變得更自信了。"
+
+
 translate traditional_chinese ep008_ziv_talk_8d7e2095:
 
-    # zi "And I think you had some part in building her confidence."
-    zi ""
 
-# game/episode008.rpy:1120
+    zi "而且我認爲你在建立她的自信方面發揮了作用。"
+
+
 translate traditional_chinese ep008_ziv_talk_073868c9:
 
-    # c "After all she's suffered through, I think she deserves some happiness and a life of her own."
-    c ""
 
-# game/episode008.rpy:1122
+    c "畢竟她經歷了那麼多，我覺得她應該得到些幸福和自己的人生。"
+
+
 translate traditional_chinese ep008_ziv_talk_f79996b0:
 
-    # zi "Exactly."
-    zi ""
 
-# game/episode008.rpy:1123
+    zi "正是如此。"
+
+
 translate traditional_chinese ep008_ziv_talk_35c229ed:
 
-    # zi "I'm glad I'm able to at least contribute some small part to that, but it's good to see others doing the same."
-    zi ""
 
-# game/episode008.rpy:1124
+    zi "我很高興我至少能貢獻點微小的部分，但看到別人也這麼做，感覺很好。"
+
+
 translate traditional_chinese ep008_ziv_talk_ce771cac:
 
-    # zi "A kind word, a shoulder to lean on, all those things, however small, are very important."
-    zi ""
 
-# game/episode008.rpy:1126
+    zi "一句善意的話，一個可以依靠的肩膀，所有這些事，不管多小，都很重要。"
+
+
 translate traditional_chinese ep008_ziv_talk_f60f36dc:
 
-    # "Ziv smiled at me and looked out over the jungle again."
-    ""
 
-# game/episode008.rpy:1128
+    "基芙對我笑了笑，又望向叢林。"
+
+
 translate traditional_chinese ep008_ziv_talk_36be154c:
 
-    # zi "It seems we'll be here on Erigone for the time being."
-    zi ""
 
-# game/episode008.rpy:1129
+    zi "看來我們暫時會待在厄裏戈涅星上。"
+
+
 translate traditional_chinese ep008_ziv_talk_058dd7b5:
 
-    # c "Yes, I think so."
-    c ""
 
-# game/episode008.rpy:1132
+    c "是的，我也這麼想。"
+
+
 translate traditional_chinese ep008_ziv_talk_ad2a2db1:
 
-    # zi "You don't particularly like us, do you?"
-    zi ""
 
-# game/episode008.rpy:1133
+    zi "你不是特別喜歡我們，對嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_409fd0ea:
 
-    # c "Who, the Rhenkoy?"
-    c ""
 
-# game/episode008.rpy:1134
+    c "誰，倫科伊族嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_5f7eb617:
 
-    # zi "Well, I was thinking more of Raene and me."
-    zi ""
 
-# game/episode008.rpy:1135
+    zi "嗯，我更多是指蕾妮和我。"
+
+
 translate traditional_chinese ep008_ziv_talk_4bcb453b:
 
-    # c "Oh."
-    c ""
 
-# game/episode008.rpy:1139
+    c "哦。"
+
+
 translate traditional_chinese ep008_ziv_talk_b8d3bbfb:
 
-    # c "Well, in all honesty, I don't think we're going to be the best of friends."
-    c ""
 
-# game/episode008.rpy:1140
+    c "好吧，老實說，我覺得我們不會成爲最好的朋友。"
+
+
 translate traditional_chinese ep008_ziv_talk_f7262b98:
 
-    # c "That doesn't mean you can't be part of the crew though."
-    c ""
 
-# game/episode008.rpy:1141
+    c "但這不意味着你不能成爲隊友。"
+
+
 translate traditional_chinese ep008_ziv_talk_a874fedc:
 
-    # zi "Thank you for your honesty."
-    zi ""
 
-# game/episode008.rpy:1142
+    zi "謝謝你這麼坦白。"
+
+
 translate traditional_chinese ep008_ziv_talk_a49a09fb:
 
-    # zi "I feel the same way."
-    zi ""
 
-# game/episode008.rpy:1146
+    zi "我也有同感。"
+
+
 translate traditional_chinese ep008_ziv_talk_99b43550:
 
-    # zi "Though I think the way you've treated Raene is just appalling."
-    zi ""
 
-# game/episode008.rpy:1147
+    zi "但我覺得你對蕾妮的方式簡直是惡劣。"
+
+
 translate traditional_chinese ep008_ziv_talk_2236486e:
 
-    # c "You're entitled to that opinion, but I hope you're not offended when I say that I just don't care."
-    c ""
 
-# game/episode008.rpy:1148
+    c "你有權那樣想，但希望我說我不在乎的時候，你沒被冒犯。"
+
+
 translate traditional_chinese ep008_ziv_talk_b65085a3:
 
-    # zi "I thought as much."
-    zi ""
 
-# game/episode008.rpy:1149
+    zi "我就知道會這樣。"
+
+
 translate traditional_chinese ep008_ziv_talk_5fb733bf:
 
-    # zi "Yes, I think you're very right, we're never going to be the best of friends."
-    zi ""
 
-# game/episode008.rpy:1150
+    zi "是的，我覺得你說得很對，我們永遠不會成爲最好的朋友。"
+
+
 translate traditional_chinese ep008_ziv_talk_2a946413:
 
-    # zi "Well, we won't be in your way then."
-    zi ""
 
-# game/episode008.rpy:1152
+    zi "那麼好吧，我們不會擋你的路。"
+
+
 translate traditional_chinese ep008_ziv_talk_d4a045bc:
 
-    # "Ziv sighed and looked out over the jungle again, effectively ignoring me."
-    ""
 
-# game/episode008.rpy:1155
+    "基芙嘆了口氣，又望向叢林，實際上無視了我。"
+
+
 translate traditional_chinese ep008_ziv_talk_3e3e71f7:
 
-    # c "I have zero problems with both of you."
-    c ""
 
-# game/episode008.rpy:1156
+    c "我對你們兩個一點意見都沒有。"
+
+
 translate traditional_chinese ep008_ziv_talk_75a38518:
 
-    # zi "That surprises me."
-    zi ""
 
-# game/episode008.rpy:1157
+    zi "這讓我驚訝。"
+
+
 translate traditional_chinese ep008_ziv_talk_be8b7287:
 
-    # c "How so?"
-    c ""
 
-# game/episode008.rpy:1161
+    c "怎麼說呢？"
+
+
 translate traditional_chinese ep008_ziv_talk_dbd47efd:
 
-    # zi "Your behavior towards Raene has been strange at best."
-    zi ""
 
-# game/episode008.rpy:1162
+    zi "你對蕾妮的行爲，充其量算是古怪。"
+
+
 translate traditional_chinese ep008_ziv_talk_540dad56:
 
-    # zi "Not very mindful of her feelings."
-    zi ""
 
-# game/episode008.rpy:1163
+    zi "不太在意她的感受。"
+
+
 translate traditional_chinese ep008_ziv_talk_33691a3b:
 
-    # c "Raene is a complete cipher to me."
-    c ""
 
-# game/episode008.rpy:1164
+    c "蕾妮對我來說完全是個謎。"
+
+
 translate traditional_chinese ep008_ziv_talk_c85faf74:
 
-    # c "All those layers of shyness..."
-    c ""
 
-# game/episode008.rpy:1165
+    c "那些層層疊疊的害羞..."
+
+
 translate traditional_chinese ep008_ziv_talk_64575e07:
 
-    # zi "It frustrates you?"
-    zi ""
 
-# game/episode008.rpy:1166
+    zi "這讓你沮喪嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_6f02ee18:
 
-    # c "It does."
-    c ""
 
-# game/episode008.rpy:1168
+    c "是啊。"
+
+
 translate traditional_chinese ep008_ziv_talk_76dd35b0:
 
-    # zi "I don't know if Raene will ever lose her shy nature and she certainly doesn't need to."
-    zi ""
 
-# game/episode008.rpy:1169
+    zi "我不知道蕾妮是否會丟掉她害羞的天性，而且她根本不需要改。"
+
+
 translate traditional_chinese ep008_ziv_talk_23abfa41:
 
-    # zi "So the question is, will you be able to live with that?"
-    zi ""
 
-# game/episode008.rpy:1170
+    zi "所以問題是，你能接受這點嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_f2b7182b:
 
-    # c "Of course..."
-    c ""
 
-# game/episode008.rpy:1173
+    c "當然…"
+
+
 translate traditional_chinese ep008_ziv_talk_45dde339:
 
-    # zi "From the way you’ve dealt with me, it’s clear you don’t particularly care if you hurt someone’s feelings."
-    zi ""
 
-# game/episode008.rpy:1174
+    zi "從你對待我的方式來看，顯然你不怎麼在意是否會傷害別人的感情。"
+
+
 translate traditional_chinese ep008_ziv_talk_9931018b:
 
-    # c "Maybe, but it’s how I deal with everyone."
-    c ""
 
-# game/episode008.rpy:1176
+    c "也許吧，但那是我和每個人打交道的方式。"
+
+
 translate traditional_chinese ep008_ziv_talk_8fde6122:
 
-    # zi "Maybe..."
-    zi ""
 
-# game/episode008.rpy:1179
+    zi "可能吧…"
+
+
 translate traditional_chinese ep008_ziv_talk_a34bcaec:
 
-    # zi "It's hard to put into words, but you seem less aloof with the other members of the crew."
-    zi ""
 
-# game/episode008.rpy:1183
+    zi "很難用詞兒形容，但你對其他機組成員似乎沒那麼冷淡。"
+
+
 translate traditional_chinese ep008_ziv_talk_e395e681:
 
-    # zi "Do you have any problems with me?"
-    zi ""
 
-# game/episode008.rpy:1184
+    zi "你對我不滿嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_1201fdd0:
 
-    # zi "Some species can't deal with the nature of our dual sexuality or even with Raene being a trans girl."
-    zi ""
 
-# game/episode008.rpy:1189
+    zi "有些物種沒法接受我們的雙重性取向，甚至連蕾妮是個跨性別者這點都受不了。"
+
+
 translate traditional_chinese ep008_ziv_talk_f14970c8:
 
-    # c "I have no particular opinion on that to be honest."
-    c ""
 
-# game/episode008.rpy:1191
+    c "老實說，我對此沒什麼特別想法。"
+
+
 translate traditional_chinese ep008_ziv_talk_1bf87e20:
 
-    # zi "I see."
-    zi ""
 
-# game/episode008.rpy:1192
+    zi "我明白了。"
+
+
 translate traditional_chinese ep008_ziv_talk_f1f95795:
 
-    # zi "Well, nevertheless, I hope there won't be any friction between us."
-    zi ""
 
-# game/episode008.rpy:1193
+    zi "好吧，不過我還是希望我們倆之間不會有摩擦。"
+
+
 translate traditional_chinese ep008_ziv_talk_f5992b86:
 
-    # c "I'm sure there won't be."
-    c ""
 
-# game/episode008.rpy:1194
+    c "我保證不會有的。"
+
+
 translate traditional_chinese ep008_ziv_talk_f67843f2:
 
-    # zi "If you say so."
-    zi ""
 
-# game/episode008.rpy:1196
+    zi "既然你這麼說。"
+
+
 translate traditional_chinese ep008_ziv_talk_8df42288:
 
-    # "Feeling there wasn't much else to say, I left Ziv as she stared out over the jungle again."
-    ""
 
-# game/episode008.rpy:1200
+    "感到沒什麼可說的了，我就離開了基芙，她又在那兒盯着叢林外邊兒。"
+
+
 translate traditional_chinese ep008_ziv_talk_00abd475:
 
-    # c "I don't have any problems at all with either your sexuality or Raene's gender."
-    c ""
 
-# game/episode008.rpy:1201
+    c "我對你的性取向或蕾妮的性別一點意見都沒有。"
+
+
 translate traditional_chinese ep008_ziv_talk_26f74914:
 
-    # c "It's simply who you are, nothing more."
-    c ""
 
-# game/episode008.rpy:1203
+    c "僅僅是關於你是誰，僅此而已。"
+
+
 translate traditional_chinese ep008_ziv_talk_269f4d7e:
 
-    # zi "I'm glad you feel that way."
-    zi ""
 
-# game/episode008.rpy:1205
+    zi "很高興你這麼覺得。"
+
+
 translate traditional_chinese ep008_ziv_talk_4e2c3761:
 
-    # c "Well, I must admit that your sexuality is something very foreign."
-    c ""
 
-# game/episode008.rpy:1206
+    c "好吧，我得承認你的性取向對我來說挺陌生的。"
+
+
 translate traditional_chinese ep008_ziv_talk_3204593f:
 
-    # c "Raene's gender is also hard to wrap my mind around."
-    c ""
 
-# game/episode008.rpy:1208
+    c "蕾妮的性別也挺難讓我整明白的。"
+
+
 translate traditional_chinese ep008_ziv_talk_1bf87e20_1:
 
-    # zi "I see."
-    zi ""
 
-# game/episode008.rpy:1209
+    zi "懂了。"
+
+
 translate traditional_chinese ep008_ziv_talk_3ad1d5ed:
 
-    # zi "Well, in that case I hope your inability to cope with either of our genders won't cause any friction between us."
-    zi ""
 
-# game/episode008.rpy:1210
+    zi "那既然這樣，我希望你適應不了我倆的性別不會在我們倆之間惹出什麼摩擦來。"
+
+
 translate traditional_chinese ep008_ziv_talk_edd39fb7:
 
-    # c "I'm sure it won't."
-    c ""
 
-# game/episode008.rpy:1211
+    c "我相信不會的。"
+
+
 translate traditional_chinese ep008_ziv_talk_f67843f2_1:
 
-    # zi "If you say so."
-    zi ""
 
-# game/episode008.rpy:1213
+    zi "你這麼說的話。"
+
+
 translate traditional_chinese ep008_ziv_talk_8df42288_1:
 
-    # "Feeling there wasn't much else to say, I left Ziv as she stared out over the jungle again."
-    ""
 
-# game/episode008.rpy:1217
+    "感覺沒什麼可說的了，我離開了基芙，她又凝視着叢林。"
+
+
 translate traditional_chinese ep008_ziv_talk_e084274d:
 
-    # c "Well, in all honesty, I don't think me and Raene are going to be the best of friends."
-    c ""
 
-# game/episode008.rpy:1218
+    c "老實說，我覺得我和蕾妮不會成爲最好的朋友。"
+
+
 translate traditional_chinese ep008_ziv_talk_3236e4ed:
 
-    # c "We're too different."
-    c ""
 
-# game/episode008.rpy:1220
+    c "我們太不一樣了。"
+
+
 translate traditional_chinese ep008_ziv_talk_b0e4047d:
 
-    # zi "In what way?"
-    zi ""
 
-# game/episode008.rpy:1221
+    zi "怎麼個不一樣法？"
+
+
 translate traditional_chinese ep008_ziv_talk_33691a3b_1:
 
-    # c "Raene is a complete cipher to me."
-    c ""
 
-# game/episode008.rpy:1222
+    c "蕾妮對我來說完全是個謎。"
+
+
 translate traditional_chinese ep008_ziv_talk_c85faf74_1:
 
-    # c "All those layers of shyness..."
-    c ""
 
-# game/episode008.rpy:1223
+    c "那些層層疊疊的害羞..."
+
+
 translate traditional_chinese ep008_ziv_talk_64575e07_1:
 
-    # zi "It frustrates you?"
-    zi ""
 
-# game/episode008.rpy:1224
+    zi "讓你很沮喪嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_6f02ee18_1:
 
-    # c "It does."
-    c ""
 
-# game/episode008.rpy:1226
+    c "是的。"
+
+
 translate traditional_chinese ep008_ziv_talk_76dd35b0_1:
 
-    # zi "I don't know if Raene will ever lose her shy nature and she certainly doesn't need to."
-    zi ""
 
-# game/episode008.rpy:1227
+    zi "我不知道蕾妮會不會丟掉她害羞的天性，她也確實沒必要那樣。"
+
+
 translate traditional_chinese ep008_ziv_talk_23abfa41_1:
 
-    # zi "So the question is, will you be able to live with that?"
-    zi ""
 
-# game/episode008.rpy:1228
+    zi "所以問題是，你能夠接受嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_11871e29:
 
-    # c "Of course...{w} I just think we won't be friends."
-    c ""
 
-# game/episode008.rpy:1229
+    c "當然...{w}我只是覺得我們不會成爲朋友。"
+
+
 translate traditional_chinese ep008_ziv_talk_74d6b7df:
 
-    # c "Nothing wrong with that, right?"
-    c ""
 
-# game/episode008.rpy:1230
+    c "這沒什麼不對，對吧？"
+
+
 translate traditional_chinese ep008_ziv_talk_f97caaf8:
 
-    # zi "I guess not."
-    zi ""
 
-# game/episode008.rpy:1232
+    zi "我想是吧。"
+
+
 translate traditional_chinese ep008_ziv_talk_52d77878:
 
-    # zi "Nevertheless, I hope there won't be any friction between us."
-    zi ""
 
-# game/episode008.rpy:1233
+    zi "儘管如此，我希望我們之間不會有摩擦。"
+
+
 translate traditional_chinese ep008_ziv_talk_f5992b86_1:
 
-    # c "I'm sure there won't be."
-    c ""
 
-# game/episode008.rpy:1235
+    c "我相信不會的。"
+
+
 translate traditional_chinese ep008_ziv_talk_f67843f2_2:
 
-    # zi "If you say so."
-    zi ""
 
-# game/episode008.rpy:1237
+    zi "你這麼說的話。"
+
+
 translate traditional_chinese ep008_ziv_talk_8df42288_2:
 
-    # "Feeling there wasn't much else to say, I left Ziv as she stared out over the jungle again."
-    ""
 
-# game/episode008.rpy:1243
+    "感覺沒什麼可說的了，我離開了基芙，她又凝視着叢林。"
+
+
 translate traditional_chinese ep008_ziv_talk_aba93f5a:
 
-    # c "Though I must admit I'm sorry we haven't spent more time getting to know each other."
-    c ""
 
-# game/episode008.rpy:1244
+    c "雖然我得承認，很遺憾我們沒有花更多時間彼此了解。"
+
+
 translate traditional_chinese ep008_ziv_talk_dd98f122:
 
-    # c "There always seems to be a new crisis to deal with."
-    c ""
 
-# game/episode008.rpy:1245
+    c "似乎總是有新的危機要處理。"
+
+
 translate traditional_chinese ep008_ziv_talk_f7798889:
 
-    # zi "You can say that again."
-    zi ""
 
-# game/episode008.rpy:1248
+    zi "說得太對了。"
+
+
 translate traditional_chinese ep008_ziv_talk_5750f1ee:
 
-    # zi "Though we'll be here on Erigone for the time being, it seems."
-    zi ""
 
-# game/episode008.rpy:1249
+    zi "雖然我們暫時會留在這裡，在厄裏戈涅星上。"
+
+
 translate traditional_chinese ep008_ziv_talk_22c4e669:
 
-    # c "Yes I think so."
-    c ""
 
-# game/episode008.rpy:1250
+    c "是的，我想是的。"
+
+
 translate traditional_chinese ep008_ziv_talk_a61c1346:
 
-    # c "So, considering we have all this free time on our hands, let’s do something together in the coming days."
-    c ""
 
-# game/episode008.rpy:1252
+    c "所以，考慮到我們手頭有這麼多空閒時間，在接下來的日子裡一起做點什麼吧。"
+
+
 translate traditional_chinese ep008_ziv_talk_9d788b09:
 
-    # zi "I’d like that."
-    zi ""
 
-# game/episode008.rpy:1253
+    zi "我很樂意。"
+
+
 translate traditional_chinese ep008_ziv_talk_97e3f5ce:
 
-    # c "Good, maybe we could explore that jungle together."
-    c ""
 
-# game/episode008.rpy:1254
+    c "好啊，或許我們可以一起去探索那片叢林。"
+
+
 translate traditional_chinese ep008_ziv_talk_3fd7e5cc:
 
-    # c "See you around, Ziv."
-    c ""
 
-# game/episode008.rpy:1255
+    c "回頭見，基芙。"
+
+
 translate traditional_chinese ep008_ziv_talk_3ad4f0ff:
 
-    # zi "You too, [p_name]."
-    zi ""
 
-# game/episode008.rpy:1257
+    zi "你也保重，[p_name]。"
+
+
 translate traditional_chinese ep008_ziv_talk_7d4a0f94:
 
-    # c "Was there anything else you wanted to talk about?"
-    c ""
 
-# game/episode008.rpy:1259
+    c "你還有其他什麼事想聊的嗎？"
+
+
 translate traditional_chinese ep008_ziv_talk_30cc9ca9:
 
-    # zi "No, not really."
-    zi ""
 
-# game/episode008.rpy:1260
+    zi "不，其實沒有。"
+
+
 translate traditional_chinese ep008_ziv_talk_e82262cd:
 
-    # zi "Thank you for taking the time though."
-    zi ""
 
-# game/episode008.rpy:1261
+    zi "不過還是謝謝你抽時間。"
+
+
 translate traditional_chinese ep008_ziv_talk_567f4d9c:
 
-    # c "No worries."
-    c ""
 
-# game/episode008.rpy:1263
+    c "沒事。"
+
+
 translate traditional_chinese ep008_ziv_talk_8df42288_3:
 
-    # "Feeling there wasn't much else to say, I left Ziv as she stared out over the jungle again."
-    ""
 
-# game/episode008.rpy:1268
+    "感覺沒什麼可說的了，我離開了基芙，她又望向叢林。"
+
+
 translate traditional_chinese ep008_raene_talk_14682ba3:
 
-    # "I found Raene sitting alone in the spacious dining hall of the castle."
-    ""
 
-# game/episode008.rpy:1270
+    "我發現蕾妮獨自坐在城堡寬敞的餐廳裏。"
+
+
 translate traditional_chinese ep008_raene_talk_e8970369:
 
-    # ra "Hey [p_name_short]!"
-    ra ""
 
-# game/episode008.rpy:1271
+    ra "嘿，[p_name_short]！"
+
+
 translate traditional_chinese ep008_raene_talk_8da9be01:
 
-    # c "Hey there, you sound positively cheerful."
-    c ""
 
-# game/episode008.rpy:1273
+    c "嗨，你聽起來挺開心的嘛。"
+
+
 translate traditional_chinese ep008_raene_talk_c44d7f41:
 
-    # ra "Am I?"
-    ra ""
 
-# game/episode008.rpy:1274
+    ra "有嗎？"
+
+
 translate traditional_chinese ep008_raene_talk_9458ac9e:
 
-    # c "Yes, you look the part too."
-    c ""
 
-# game/episode008.rpy:1276
+    c "是啊，你看起來也是那樣。"
+
+
 translate traditional_chinese ep008_raene_talk_0c834e99:
 
-    # ra "I went into the shower just now..."
-    ra ""
 
-# game/episode008.rpy:1277
+    ra "我剛才去洗澡了…"
+
+
 translate traditional_chinese ep008_raene_talk_bb65063c:
 
-    # ra "..."
-    ra ""
 
-# game/episode008.rpy:1279
+    ra "..."
+
+
 translate traditional_chinese ep008_raene_talk_3ad7ab02:
 
-    # ra "Sorry, but I'm sure you don't want to hear about this..."
-    ra ""
 
-# game/episode008.rpy:1280
+    ra "抱歉，但我知道你不想聽這個…"
+
+
 translate traditional_chinese ep008_raene_talk_4163266e:
 
-    # c "I'm sure I do want to."
-    c ""
 
-# game/episode008.rpy:1282
+    c "不，我肯定想。"
+
+
 translate traditional_chinese ep008_raene_talk_9e43b34f:
 
-    # ra "Really?"
-    ra ""
 
-# game/episode008.rpy:1283
+    ra "真的嗎？"
+
+
 translate traditional_chinese ep008_raene_talk_168fcf40:
 
-    # c "Raene...{w} How many times do I need to repeat it?"
-    c ""
 
-# game/episode008.rpy:1285
+    c "蕾妮…{w} 我需要重複多少次才行？"
+
+
 translate traditional_chinese ep008_raene_talk_720c64a0:
 
-    # ra "Alright, I hear you."
-    ra ""
 
-# game/episode008.rpy:1286
+    ra "好吧，我聽見了。"
+
+
 translate traditional_chinese ep008_raene_talk_76181f74:
 
-    # ra "So I went into the shower and looked at my reflection."
-    ra ""
 
-# game/episode008.rpy:1287
+    ra "所以我進了淋浴間，看着鏡子裡的自己。"
+
+
 translate traditional_chinese ep008_raene_talk_02e7190d:
 
-    # ra "And for the first time I really saw a part myself shining through, my true self."
-    ra ""
 
-# game/episode008.rpy:1289
+    ra "這是第一次我真正看到一部分自己閃耀出來，真實的自我。"
+
+
 translate traditional_chinese ep008_raene_talk_0abff871:
 
-    # ra "Pfff, it sounds so pretentious when I say it out loud."
-    ra ""
 
-# game/episode008.rpy:1290
+    ra "噗，這話說出來聽上去可真裝逼。"
+
+
 translate traditional_chinese ep008_raene_talk_a470ded2:
 
-    # c "No, it doesn't."
-    c ""
 
-# game/episode008.rpy:1292
+    c "不，它並沒有。"
+
+
 translate traditional_chinese ep008_raene_talk_0682a5cd:
 
-    # ra "I knew the injections Ziv has been giving me were working."
-    ra ""
 
-# game/episode008.rpy:1293
+    ra "我知道基芙給我的注射在起作用。"
+
+
 translate traditional_chinese ep008_raene_talk_fcb96dbe:
 
-    # ra "Slowly, but still."
-    ra ""
 
-# game/episode008.rpy:1294
+    ra "雖然慢，但還是有效。"
+
+
 translate traditional_chinese ep008_raene_talk_3f740158:
 
-    # ra "First I noticed that my body lost some of its angular lines."
-    ra ""
 
-# game/episode008.rpy:1295
+    ra "首先，我注意到我的身體失去了一些稜角。"
+
+
 translate traditional_chinese ep008_raene_talk_47ff3e1f:
 
-    # ra "And then nothing else happened, or so it seemed."
-    ra ""
 
-# game/episode008.rpy:1296
+    ra "然後就沒有別的事了，或者說看起來是這樣。"
+
+
 translate traditional_chinese ep008_raene_talk_6faea00a:
 
-    # ra "The changes are still small, but my bust is finally starting to develop."
-    ra ""
 
-# game/episode008.rpy:1298
+    ra "變化雖然小，但我的胸圍終於開始發育了。"
+
+
 translate traditional_chinese ep008_raene_talk_aff42005:
 
-    # ra "It's really going to work out like I hoped."
-    ra ""
 
-# game/episode008.rpy:1299
+    ra "這真的會像我期望的那樣有效。"
+
+
 translate traditional_chinese ep008_raene_talk_794ed08d:
 
-    # c "I'm happy for you, Raene."
-    c ""
 
-# game/episode008.rpy:1300
+    c "我爲你高興，蕾妮。"
+
+
 translate traditional_chinese ep008_raene_talk_c50334ca:
 
-    # c "You deserve this and more."
-    c ""
 
-# game/episode008.rpy:1302
+    c "你值得這個，甚至更多。"
+
+
 translate traditional_chinese ep008_raene_talk_df57d82f:
 
-    # ra "Thank you!"
-    ra ""
 
-# game/episode008.rpy:1306
+    ra "謝謝你！"
+
+
 translate traditional_chinese ep008_raene_talk_41f75ed8:
 
-    # c "We should celebrate."
-    c ""
 
-# game/episode008.rpy:1307
+    c "我們應該慶祝一下。"
+
+
 translate traditional_chinese ep008_raene_talk_c7b0b621:
 
-    # c "There are baths here in the castle and we're welcome to use them."
-    c ""
 
-# game/episode008.rpy:1309
+    c "城堡這裡有浴室，我們可以去用。"
+
+
 translate traditional_chinese ep008_raene_talk_39173f3d:
 
-    # ra "You're asking me to go to the baths with you."
-    ra ""
 
-# game/episode008.rpy:1310
+    ra "你是在邀請我和你一起去洗澡。"
+
+
 translate traditional_chinese ep008_raene_talk_b63d6bf3:
 
-    # c "I am."
-    c ""
 
-# game/episode008.rpy:1311
+    c "是的。"
+
+
 translate traditional_chinese ep008_raene_talk_4f1a490e:
 
-    # c "There's a steam bath and they even do massages."
-    c ""
 
-# game/episode008.rpy:1313
+    c "那裡有桑拿浴，他們還做按摩。"
+
+
 translate traditional_chinese ep008_raene_talk_f991c2db:
 
-    # ra "But everyone will see me..."
-    ra ""
 
-# game/episode008.rpy:1314
+    ra "但每個人都會看到我..."
+
+
 translate traditional_chinese ep008_raene_talk_f0d4e8c2:
 
-    # c "That's kind of the point."
-    c ""
 
-# game/episode008.rpy:1316
+    c "這就像是重點。"
+
+
 translate traditional_chinese ep008_raene_talk_bbdc0cb8:
 
-    # ra "Okay, but I don't have any swimwear."
-    ra ""
 
-# game/episode008.rpy:1317
+    ra "好吧，但我沒有泳衣。"
+
+
 translate traditional_chinese ep008_raene_talk_59b6e114:
 
-    # c "I'm going to take care of that, don't worry."
-    c ""
 
-# game/episode008.rpy:1318
+    c "我來處理這個，別擔心。"
+
+
 translate traditional_chinese ep008_raene_talk_da6cfb51:
 
-    # c "So, do we have a date?"
-    c ""
 
-# game/episode008.rpy:1320
+    c "所以，這能算個約會嗎？"
+
+
 translate traditional_chinese ep008_raene_talk_708a261a:
 
-    # ra "I think so...{w} yes...{w} we do!"
-    ra ""
 
-# game/episode008.rpy:1321
+    ra "我想是吧...{w} 對...{w} 算吧！"
+
+
 translate traditional_chinese ep008_raene_talk_f5d0647a:
 
-    # "Raene was both happy and a little confused when I left her."
-    ""
 
-# game/episode008.rpy:1323
+    "當我離開蕾妮時，她既高興又有點困惑。"
+
+
 translate traditional_chinese ep008_raene_talk_72ea0885:
 
-    # "I went straight to the courtyard of the castle where several market stalls and tents were pitched."
-    ""
 
-# game/episode008.rpy:1325
+    "我徑直走到城堡的院子裡，那裡搭了幾個市場攤位和帳篷。"
+
+
 translate traditional_chinese ep008_raene_talk_9fc85b8d:
 
-    # "One of the stalls was owned by a tailor, specializing in the utilitarian brand of fashion most Acarhyn seemed to fancy."
-    ""
 
-# game/episode008.rpy:1327
+    "其中一家攤位是裁縫的，專營實用主義風格的時尚，大多數阿卡海茵人似乎都喜歡。"
+
+
 translate traditional_chinese ep008_raene_talk_dbcfff24:
 
-    # "With some effort, I was able to convince the woman to create a set of delicate swimwear for me."
-    ""
 
-# game/episode008.rpy:1328
+    "費了點兒勁，我成功說服了那女人給我做一套精緻的泳衣。"
+
+
 translate traditional_chinese ep008_raene_talk_9461c86b:
 
-    # "The garments would be finished in two days and I just hoped I'd guessed Raene's measurements correctly."
-    ""
 
-# game/episode008.rpy:1330
+    "衣服會在兩天後完工，我只希望猜對了蕾妮的尺寸。"
+
+
 translate traditional_chinese ep008_raene_talk_1aac838d:
 
-    # c "Take care, Raene."
-    c ""
 
-# game/episode008.rpy:1332
+    c "保重，蕾妮。"
+
+
 translate traditional_chinese ep008_raene_talk_3618e8bb:
 
-    # ra "You too, [p_name]."
-    ra ""
 
-# game/episode008.rpy:1337
+    ra "你也保重，[p_name]。"
+
+
 translate traditional_chinese ep008_raene_baths_449c9ddb:
 
-    # "The tailor messaged me one day early to tell me she'd completed my order."
-    ""
 
-# game/episode008.rpy:1338
+    "裁縫提前一天發消息告訴我她做完我的訂單了。"
+
+
 translate traditional_chinese ep008_raene_baths_847b6421:
 
-    # "After collecting the wrapped package at the market, I decided to surprise Raene."
-    ""
 
-# game/episode008.rpy:1340
+    "在市場取了包裝好的包裹後，我決定給蕾妮一個驚喜。"
+
+
 translate traditional_chinese ep008_raene_baths_c35ebe96:
 
-    # ra "Oh, hey [p_name_short]!"
-    ra ""
 
-# game/episode008.rpy:1341
+    ra "哦，嘿 [p_name_short]！"
+
+
 translate traditional_chinese ep008_raene_baths_8cf62c7f:
 
-    # c "Hey Raene, are you ready to go?"
-    c ""
 
-# game/episode008.rpy:1343
+    c "嘿蕾妮，你準備好了嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_07a0a064:
 
-    # ra "Ready?"
-    ra ""
 
-# game/episode008.rpy:1344
+    ra "準備好了？"
+
+
 translate traditional_chinese ep008_raene_baths_0795e39a:
 
-    # c "Don't tell me you've forgotten our visit to the baths."
-    c ""
 
-# game/episode008.rpy:1346
+    c "別告訴我你忘了我們要去浴池的事。"
+
+
 translate traditional_chinese ep008_raene_baths_47d18411:
 
-    # ra "Oh...{w} no...{w} but I don't have any clothes."
-    ra ""
 
-# game/episode008.rpy:1347
+    ra "哦...{w} 不...{w} 但我沒衣服穿啊。"
+
+
 translate traditional_chinese ep008_raene_baths_665ea080:
 
-    # c "I told you I'd take care of that."
-    c ""
 
-# game/episode008.rpy:1348
+    c "我說過我會搞定的。"
+
+
 translate traditional_chinese ep008_raene_baths_7cdc3eb6:
 
-    # c "Here you go."
-    c ""
 
-# game/episode008.rpy:1350
+    c "給。"
+
+
 translate traditional_chinese ep008_raene_baths_5582558c:
 
-    # ra "Thank you."
-    ra ""
 
-# game/episode008.rpy:1352
+    ra "謝謝。"
+
+
 translate traditional_chinese ep008_raene_baths_9ec62e4c:
 
-    # "I could tell Raene was very much on edge and I sincerely hoped she would appreciate my gift."
-    ""
 
-# game/episode008.rpy:1353
+    "我能感覺到蕾妮緊張得要命，真心希望她會喜歡我這份禮。"
+
+
 translate traditional_chinese ep008_raene_baths_cdd6f1d1:
 
-    # "Instead of tearing through the wrap, she very carefully unwrapped the paper, prolonging the tension both of us felt."
-    ""
 
-# game/episode008.rpy:1355
+    "她沒撕開包裝，而是小心翼翼地解開紙，拉長了我倆都有的緊繃感。"
+
+
 translate traditional_chinese ep008_raene_baths_8cd3e462:
 
-    # "When she finally held the bikini, her face became a flurry of emotions, alternating between shock and delight."
-    ""
 
-# game/episode008.rpy:1357
+    "當她終於拿起比基尼時，臉上表情變來變去，一會兒震驚一會兒高興。"
+
+
 translate traditional_chinese ep008_raene_baths_e7bb0e55:
 
-    # ra "It's such a beautiful gift, [p_name]."
-    ra ""
 
-# game/episode008.rpy:1359
+    ra "真是個漂亮禮物，[p_name]。"
+
+
 translate traditional_chinese ep008_raene_baths_40d17604:
 
-    # ra "But I really can't wear this."
-    ra ""
 
-# game/episode008.rpy:1360
+    ra "但我真不能穿這個。"
+
+
 translate traditional_chinese ep008_raene_baths_4540773d:
 
-    # c "You're welcome, of course, but why can't you wear it?"
-    c ""
 
-# game/episode008.rpy:1362
+    c "別客氣啦，不過爲什麼不能穿？"
+
+
 translate traditional_chinese ep008_raene_baths_cfd13ecc:
 
-    # ra "People might see me."
-    ra ""
 
-# game/episode008.rpy:1363
+    ra "別人可能會看見我的。"
+
+
 translate traditional_chinese ep008_raene_baths_f0d4e8c2:
 
-    # c "That's kind of the point."
-    c ""
 
-# game/episode008.rpy:1364
+    c "那正好是重點。"
+
+
 translate traditional_chinese ep008_raene_baths_c072ccd7:
 
-    # c "You told me you were so happy with all the changes that were happening."
-    c ""
 
-# game/episode008.rpy:1365
+    c "你不是說對所有這些變化開心得很嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_cd620f2b:
 
-    # c "So I asked the tailor at the market to create something that would accentuate the shape your body is slowly taking on."
-    c ""
 
-# game/episode008.rpy:1366
+    c "所以我就讓市場那裁縫做了點能突出你身子慢慢成形的曲線的東西。"
+
+
 translate traditional_chinese ep008_raene_baths_6bc21d22:
 
-    # c "I hope it fits you."
-    c ""
 
-# game/episode008.rpy:1368
+    c "希望它合你身。"
+
+
 translate traditional_chinese ep008_raene_baths_8b7cfc57:
 
-    # ra "Maybe I could try it on here in my room."
-    ra ""
 
-# game/episode008.rpy:1369
+    ra "也許我可以在自己房間裡試試。"
+
+
 translate traditional_chinese ep008_raene_baths_5ff47c79:
 
-    # c "Whatever makes you feel comfortable."
-    c ""
 
-# game/episode008.rpy:1370
+    c "只要你舒服就行。"
+
+
 translate traditional_chinese ep008_raene_baths_3a7c36ff:
 
-    # c "Should I leave?"
-    c ""
 
-# game/episode008.rpy:1372
+    c "我該離開嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_9204496d:
 
-    # ra "No, stay, I do want you to see it."
-    ra ""
 
-# game/episode008.rpy:1374
+    ra "不，留下吧，我確實想讓你看看。"
+
+
 translate traditional_chinese ep008_raene_baths_0130d89e:
 
-    # ra "I sounded too ungrateful just now, didn't I?"
-    ra ""
 
-# game/episode008.rpy:1375
+    ra "我剛剛聽着太不識好歹了，是吧？"
+
+
 translate traditional_chinese ep008_raene_baths_55460a63:
 
-    # c "Raene...{w} Why aren't you already changing clothes in the next room?"
-    c ""
 
-# game/episode008.rpy:1377
+    c "蕾妮...{w} 你幹嘛還不去隔壁房間換衣服？"
+
+
 translate traditional_chinese ep008_raene_baths_5e8e3562:
 
-    # ra "Right.{w} Right.{w} I shouldn't fret so much. I-"
-    ra ""
 
-# game/episode008.rpy:1378
+    ra "對。{w}對。{w}我不該這麼緊張。我-"
+
+
 translate traditional_chinese ep008_raene_baths_b336c58c:
 
-    # c "Raene!"
-    c ""
 
-# game/episode008.rpy:1380
+    c "蕾妮！"
+
+
 translate traditional_chinese ep008_raene_baths_fff55631:
 
-    # ra "I'm going!{w} I'm going!"
-    ra ""
 
-# game/episode008.rpy:1381
+    ra "我這就去！{w}我這就去！"
+
+
 translate traditional_chinese ep008_raene_baths_5f13e4d5:
 
-    # "She smiled as she stepped out of the room to get changed."
-    ""
 
-# game/episode008.rpy:1382
+    "她微笑着走出房間換衣服去了。"
+
+
 translate traditional_chinese ep008_raene_baths_ec84c4b4:
 
-    # "A few minutes later she returned."
-    ""
 
-# game/episode008.rpy:1387
+    "幾分鐘後她回來了。"
+
+
 translate traditional_chinese ep008_raene_baths_5a7aee5c:
 
-    # "To my relief, the bikini bottom and top both fit perfectly."
-    ""
 
-# game/episode008.rpy:1388
+    "讓我鬆口氣的是，比基尼下裝和上裝都合身極了。"
+
+
 translate traditional_chinese ep008_raene_baths_5d5299cc:
 
-    # "The seamstress had done a great job based on my description."
-    ""
 
-# game/episode008.rpy:1389
+    "那個縫紉師根據我的描述做得棒極了。"
+
+
 translate traditional_chinese ep008_raene_baths_96b7f101:
 
-    # "Never before had Raene shown so much skin to me, always favoring the tight-fitting stiff harness that didn't do much to grace her figure."
-    ""
 
-# game/episode008.rpy:1390
+    "蕾妮從來沒向我露過這麼多肉，總愛穿那件緊巴巴僵硬的束身衣，一點都不襯她身材。"
+
+
 translate traditional_chinese ep008_raene_baths_e0ce88cd:
 
-    # "Still, I could see the many small changes the treatment had wrought upon her body."
-    ""
 
-# game/episode008.rpy:1391
+    "不過，我還是看出治療給她身子帶出的好些小變化。"
+
+
 translate traditional_chinese ep008_raene_baths_8d5c6805:
 
-    # "The lines of her face had softened, as had her shoulders."
-    ""
 
-# game/episode008.rpy:1392
+    "她臉部的線條變柔和了，肩膀也是。"
+
+
 translate traditional_chinese ep008_raene_baths_e7ad0db8:
 
-    # "Her hips were rounding out, changing her poise ever so slightly."
-    ""
 
-# game/episode008.rpy:1393
+    "她的屁股正變圓潤，微微改了她的體態。"
+
+
 translate traditional_chinese ep008_raene_baths_9f11a2a2:
 
-    # "Raene cast me a very shy smile and looked as if she'd dart out to the side room again at any moment."
-    ""
 
-# game/episode008.rpy:1395
+    "蕾妮朝我露了個超靦腆的笑，看着像隨時又要跑回隔壁房間。"
+
+
 translate traditional_chinese ep008_raene_baths_60796c16:
 
-    # ra "So, what do you think?"
-    ra ""
 
-# game/episode008.rpy:1396
+    ra "那，你覺得怎麼樣？"
+
+
 translate traditional_chinese ep008_raene_baths_c65feb35:
 
-    # c "I think you look absolutely perfect."
-    c ""
 
-# game/episode008.rpy:1397
+    c "我覺得你看着絕對完美。"
+
+
 translate traditional_chinese ep008_raene_baths_2e441769:
 
-    # ra "You do?"
-    ra ""
 
-# game/episode008.rpy:1399
+    ra "真的嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_8b0b6432:
 
-    # ra "You don't have to be kind, just tell me the truth."
-    ra ""
 
-# game/episode008.rpy:1400
+    ra "你不用說好聽的，就告訴我實話。"
+
+
 translate traditional_chinese ep008_raene_baths_31298eab:
 
-    # c "Raene...{w} I just did."
-    c ""
 
-# game/episode008.rpy:1401
+    c "蕾妮...{w} 我剛剛就說過了。"
+
+
 translate traditional_chinese ep008_raene_baths_fcd41ad2:
 
-    # c "So, how about a swim?"
-    c ""
 
-# game/episode008.rpy:1402
+    c "那麼，去遊泳怎麼樣？"
+
+
 translate traditional_chinese ep008_raene_baths_e81f85d8:
 
-    # "I could tell she was torn between assent and declining my invitation."
-    ""
 
-# game/episode008.rpy:1403
+    "我能看出她在猶豫是同意還是拒絕我的邀請。"
+
+
 translate traditional_chinese ep008_raene_baths_69172d6e:
 
-    # c "We'll bring towels and if it all becomes too uncomfortable you drape yourself in one of them and we'll leave."
-    c ""
 
-# game/episode008.rpy:1405
+    c "我們會帶上毛巾，如果感覺太不舒服，你就披上一條，然後我們就走。"
+
+
 translate traditional_chinese ep008_raene_baths_2d2d3861:
 
-    # ra "Okay."
-    ra ""
 
-# game/episode008.rpy:1406
+    ra "好的。"
+
+
 translate traditional_chinese ep008_raene_baths_ebe96166:
 
-    # c "Okay?"
-    c ""
 
-# game/episode008.rpy:1408
+    c "行嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_9af9e625:
 
-    # ra "Yes, let's do it."
-    ra ""
 
-# game/episode008.rpy:1409
+    ra "好，我們去吧。"
+
+
 translate traditional_chinese ep008_raene_baths_cba8b12e:
 
-    # "Raene quickly changed again in the side room and we found our way through the many corridors of the Citadel."
-    ""
 
-# game/episode008.rpy:1411
+    "蕾妮迅速在旁邊的房間換了衣服，我們穿過城堡的許多走廊。"
+
+
 translate traditional_chinese ep008_raene_baths_6a8f50d9:
 
-    # "The baths were empty, much to Raene's relief."
-    ""
 
-# game/episode008.rpy:1412
+    "浴室空無一人，這讓蕾妮鬆了一大口氣。"
+
+
 translate traditional_chinese ep008_raene_baths_6b861903:
 
-    # "At the far end of the room there were two privacy screens which allowed us to change into our swimwear."
-    ""
 
-# game/episode008.rpy:1414
+    "在房間遠端有兩面隱私屏風，讓我們能換上泳衣。"
+
+
 translate traditional_chinese ep008_raene_baths_422a3ef3:
 
-    # "I was already testing the temperature of the water when Raene emerged from behind the screen."
-    ""
 
-# game/episode008.rpy:1416
+    "蕾妮從屏風後出來時，我已經在試水溫了。"
+
+
 translate traditional_chinese ep008_raene_baths_008351fd:
 
-    # ra "Is the water cold?"
-    ra ""
 
-# game/episode008.rpy:1417
+    ra "水冷嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_e8505f7b:
 
-    # c "I don't think so, but there's only one way to find out."
-    c ""
 
-# game/episode008.rpy:1418
+    c "我不覺得冷，但只有試了才知道。"
+
+
 translate traditional_chinese ep008_raene_baths_7f8b9a5c:
 
-    # "I slipped into the water, which turned out to be comfortably warm."
-    ""
 
-# game/episode008.rpy:1419
+    "我溜進水裡，發現水溫舒服地溫暖。"
+
+
 translate traditional_chinese ep008_raene_baths_acfb3ab0:
 
-    # "Raene followed me soon after."
-    ""
 
-# game/episode008.rpy:1421
+    "蕾妮很快也跟着我下來了。"
+
+
 translate traditional_chinese ep008_raene_baths_e90a7b53:
 
-    # ra "Ooh, it's actually very nice and warm."
-    ra ""
 
-# game/episode008.rpy:1423
+    ra "哦，其實挺舒服挺暖和的。"
+
+
 translate traditional_chinese ep008_raene_baths_8eec4413:
 
-    # "Raene floated next to me and closed her eyes, luxuriating in the comfortable warmth of the water."
-    ""
 
-# game/episode008.rpy:1424
+    "蕾妮在我身邊漂浮着閉起眼睛，享受着水舒適的溫熱。"
+
+
 translate traditional_chinese ep008_raene_baths_a3837700:
 
-    # "I did the same, enjoying the moment in silence, except for the occasional splash caused by a moving limb."
-    ""
 
-# game/episode008.rpy:1426
+    "我也這樣，除了偶爾揮動手腳濺起的水花聲，就靜靜享受那一刻。"
+
+
 translate traditional_chinese ep008_raene_baths_feda0ca5:
 
-    # ra "I'd almost forgotten how wholesome a bath can feel."
-    ra ""
 
-# game/episode008.rpy:1427
+    ra "我幾乎忘了洗澡能這麼舒暢。"
+
+
 translate traditional_chinese ep008_raene_baths_0b042f14:
 
-    # ra "I always relished the thought of coming back to a steaming tub after going on a horse-ride on Verdigris."
-    ra ""
 
-# game/episode008.rpy:1428
+    ra "在銅綠星騎完馬後，我總愛想象回到熱氣騰騰的浴桶裏。"
+
+
 translate traditional_chinese ep008_raene_baths_05e39ab4:
 
-    # c "You did that a lot, horseriding?"
-    c ""
 
-# game/episode008.rpy:1430
+    c "你經常騎馬嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_595bd635:
 
-    # ra "I did."
-    ra ""
 
-# game/episode008.rpy:1431
+    ra "對，我經常騎。"
+
+
 translate traditional_chinese ep008_raene_baths_5ac1aae0:
 
-    # ra "It was one of the few possibilities where I could escape home, more or less."
-    ra ""
 
-# game/episode008.rpy:1432
+    ra "那是我少有的能逃離家裡的機會，或多或少吧。"
+
+
 translate traditional_chinese ep008_raene_baths_02629df5:
 
-    # c "Must have felt free, didn't it?"
-    c ""
 
-# game/episode008.rpy:1433
+    c "肯定感覺自由自在了吧？"
+
+
 translate traditional_chinese ep008_raene_baths_452c8885:
 
-    # ra "It sure did."
-    ra ""
 
-# game/episode008.rpy:1434
+    ra "確實如此。"
+
+
 translate traditional_chinese ep008_raene_baths_d7a02354:
 
-    # c "Were they real horses, by the way?"
-    c ""
 
-# game/episode008.rpy:1436
+    c "順便問下，它們是真馬嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_605ecbfd:
 
-    # ra "No, high quality artificial ones."
-    ra ""
 
-# game/episode008.rpy:1437
+    ra "不，是高級人造的。"
+
+
 translate traditional_chinese ep008_raene_baths_5f629cd4:
 
-    # ra "I mean the Church is filthy rich, but not that rich."
-    ra ""
 
-# game/episode008.rpy:1438
+    ra "我的意思是，教會確實富得流油，但還沒到那種程度。"
+
+
 translate traditional_chinese ep008_raene_baths_696560a5:
 
-    # c "Maybe the original pilgrims took a few real animals with them on one of the Migrations."
-    c ""
 
-# game/episode008.rpy:1439
+    c "或許最早的朝聖者在大遷徙時帶了些真動物上船。"
+
+
 translate traditional_chinese ep008_raene_baths_36e4ee95:
 
-    # ra "I wish."
-    ra ""
 
-# game/episode008.rpy:1441
+    ra "我倒希望如此。"
+
+
 translate traditional_chinese ep008_raene_baths_e24edb5f:
 
-    # ra "Are you able to ride?"
-    ra ""
 
-# game/episode008.rpy:1442
+    ra "你會騎馬嗎？"
+
+
 translate traditional_chinese ep008_raene_baths_38144bbf:
 
-    # c "I've had some lessons, so I'd probably wouldn't embarrass myself too much."
-    c ""
 
-# game/episode008.rpy:1443
+    c "我學過幾課，應該不至於太出醜。"
+
+
 translate traditional_chinese ep008_raene_baths_924b9309:
 
-    # ra "Maybe I can help you brush up on your skills here on Erigone."
-    ra ""
 
-# game/episode008.rpy:1444
+    ra "也許我能在厄裏戈涅星幫你溫習騎術。"
+
+
 translate traditional_chinese ep008_raene_baths_89e8d775:
 
-    # c "The Acarhyn breed horses?"
-    c ""
 
-# game/episode008.rpy:1446
+    c "阿卡海茵人養馬？"
+
+
 translate traditional_chinese ep008_raene_baths_0ef1b35a:
 
-    # ra "I think I saw stables bordering the courtyard."
-    ra ""
 
-# game/episode008.rpy:1447
+    ra "記得看見庭院邊上有馬廄。"
+
+
 translate traditional_chinese ep008_raene_baths_11b73efe:
 
-    # c "It makes sense actually, considering their devotion to the whole Medieval thing."
-    c ""
 
-# game/episode008.rpy:1449
+    c "其實很合理，畢竟他們癡迷中世紀那套。"
+
+
 translate traditional_chinese ep008_raene_baths_9af1f0cf:
 
-    # ra "Right, I had a few books on Medieval knights back on Verdigris."
-    ra ""
 
-# game/episode008.rpy:1450
+    ra "沒錯，我在銅綠星還收藏過幾本中世紀騎士的書。"
+
+
 translate traditional_chinese ep008_raene_baths_147d1065:
 
-    # c "Well, as long as we don't get mixed up in some weird jousting tournament, I'd be willing to check out those stables together with you."
-    c ""
 
-# game/episode008.rpy:1452
+    c "只要不捲入什麼奇怪的騎士比武大會，我倒是願意陪你去馬廄瞧瞧。"
+
+
 translate traditional_chinese ep008_raene_baths_929c863a:
 
-    # ra "I'd like that."
-    ra ""
 
-# game/episode008.rpy:1454
+    ra "樂意之至。"
+
+
 translate traditional_chinese ep008_raene_baths_22fd1cbd:
 
-    # "Two women entered the baths and the tenseness that came over Raene was instantly visible."
-    ""
 
-# game/episode008.rpy:1455
+    "兩名女子踏入浴池，蕾妮瞬間繃緊了身子。"
+
+
 translate traditional_chinese ep008_raene_baths_c7d9b4a3:
 
-    # c "Good day ladies, the water is lovely."
-    c ""
 
-# game/episode008.rpy:1458
+    c "日安女士們，水溫正合適——"
+
+
 translate traditional_chinese ep008_raene_baths_f382ad5a:
 
-    # woman "We’re eager to join you."
-    woman ""
 
-# game/episode008.rpy:1459
+    woman "我們迫不及待想加入呢。"
+
+
 translate traditional_chinese ep008_raene_baths_57abe242:
 
-    # "My attempt to act casual and defuse the situation didn't work."
-    ""
 
-# game/episode008.rpy:1461
+    "我試圖緩解氣氛的閒談毫無作用。"
+
+
 translate traditional_chinese ep008_raene_baths_bbaaa029:
 
-    # "Raene watched the women enter the water with a fearful look in her eyes."
-    ""
 
-# game/episode008.rpy:1462
+    "蕾妮眼神恐懼地注視着女人入水。"
+
+
 translate traditional_chinese ep008_raene_baths_c1a4988d:
 
-    # c "There's nothing to worry about, Raene."
-    c ""
 
-# game/episode008.rpy:1463
+    c "沒什麼好怕的，蕾妮。"
+
+
 translate traditional_chinese ep008_raene_baths_ee804cc2:
 
-    # "Raene was already inching towards the steps of the pool."
-    ""
 
-# game/episode008.rpy:1465
+    "蕾妮已小步挪向池邊臺階。"
+
+
 translate traditional_chinese ep008_raene_baths_a994392d:
 
-    # "As soon as the women splashed around in the water she exited the bath and darted towards the safety of the privacy screens."
-    ""
 
-# game/episode008.rpy:1467
+    "當女人們潑水嬉戲時，她立刻衝出浴池，直奔屏風後的安全區。"
+
+
 translate traditional_chinese ep008_raene_baths_ea9e913f:
 
-    # woman "Is your girlfriend okay?"
-    woman ""
 
-# game/episode008.rpy:1468
+    woman "你女友沒事吧？"
+
+
 translate traditional_chinese ep008_raene_baths_3c4e237a:
 
-    # c "I'll go check on her."
-    c ""
 
-# game/episode008.rpy:1470
+    c "我去看看她。"
+
+
 translate traditional_chinese ep008_raene_baths_a03e0709:
 
-    # "Raene was already putting on her clothes when I reached her."
-    ""
 
-# game/episode008.rpy:1471
+    "我找到她時，蕾妮已經在穿衣服了。"
+
+
 translate traditional_chinese ep008_raene_baths_976357d4:
 
-    # ra "It's been lovely, it really has been, but I really need to get back to my quarters."
-    ra ""
 
-# game/episode008.rpy:1472
+    ra "這很愉快，真的很愉快，但我真的需要回我的房間了。"
+
+
 translate traditional_chinese ep008_raene_baths_f174f446:
 
-    # ra "Thank you for the company and for the gift."
-    ra ""
 
-# game/episode008.rpy:1474
+    ra "謝謝你的陪伴和禮物。"
+
+
 translate traditional_chinese ep008_raene_baths_4e0977b6:
 
-    # "Before I could get a word in edgewise, she was already heading for the exit."
-    ""
 
-# game/episode008.rpy:1475
+    "我還沒來得及插嘴，她已經朝出口走了。"
+
+
 translate traditional_chinese ep008_raene_baths_ff8f1ae6:
 
-    # "I didn't want to cause a scene and upset Raene even further by calling out to her."
-    ""
 
-# game/episode008.rpy:1477
+    "我不想引起注意，也不想在喊她時讓蕾妮更加不安。"
+
+
 translate traditional_chinese ep008_raene_baths_7bd8cc03:
 
-    # "Just as Raene was leaving the baths, she passed Jade."
-    ""
 
-# game/episode008.rpy:1478
+    "正當蕾妮離開浴場時，她路過了傑德。"
+
+
 translate traditional_chinese ep008_raene_baths_3a738228:
 
-    # j "Hey Raene."
-    j ""
 
-# game/episode008.rpy:1479
+    j "嘿，蕾妮。"
+
+
 translate traditional_chinese ep008_raene_baths_6d9915ab:
 
-    # ra "Hey."
-    ra ""
 
-# game/episode008.rpy:1481
+    ra "嘿。"
+
+
 translate traditional_chinese ep008_raene_baths_19a69e8c:
 
-    # "A little puzzled, Jade walked towards me, largely ignoring the naked Acarhyn in the pool."
-    ""
 
-# game/episode008.rpy:1484
+    "有點困惑地，傑德朝我走來，很大程度上忽略了池中赤裸的阿卡海茵人。"
+
+
 translate traditional_chinese ep008_raene_baths_f1234fdc:
 
-    # j "Is she okay, master?"
-    j ""
 
-# game/episode008.rpy:1486
+    j "她沒事吧，主人？"
+
+
 translate traditional_chinese ep008_raene_baths_adb9b010:
 
-    # j "Is she okay, [p_name_short]?"
-    j ""
 
-# game/episode008.rpy:1487
+    j "她沒事吧，[p_name_short]？"
+
+
 translate traditional_chinese ep008_raene_baths_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode008.rpy:1488
+    c "我想是的。"
+
+
 translate traditional_chinese ep008_raene_baths_49e37c3c:
 
-    # c "The women just startled her, I guess."
-    c ""
 
-# game/episode008.rpy:1490
+    c "我覺得，那些女人只是嚇到她了。"
+
+
 translate traditional_chinese ep008_raene_baths_d54983eb:
 
-    # j "Because they were playing with each other's breasts?"
-    j ""
 
-# game/episode008.rpy:1491
+    j "因爲她們在玩彼此的乳房？"
+
+
 translate traditional_chinese ep008_raene_baths_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode008.rpy:1492
+    c "什麼？"
+
+
 translate traditional_chinese ep008_raene_baths_87767372:
 
-    # c "Oh...{w} No, that's new."
-    c ""
 
-# game/episode008.rpy:1494
+    c "哦...{w} 不，那是新情況。"
+
+
 translate traditional_chinese ep008_raene_baths_f13d6484:
 
-    # "The women obviously thought they were now alone, or didn't care that anyone saw them."
-    ""
 
-# game/episode008.rpy:1495
+    "那些女人顯然認爲現在只有她們自己了，或者不介意有人看到她們。"
+
+
 translate traditional_chinese ep008_raene_baths_8e1bfbaf:
 
-    # "One of the Acarhyn was sucking on the hard nipples of the other woman leaning on the edge of the pool."
-    ""
 
-# game/episode008.rpy:1497
+    "一個阿卡海茵人在吮吸着靠着池邊的另一個女人的硬乳頭。"
+
+
 translate traditional_chinese ep008_raene_baths_d1f01524:
 
-    # j "Do you want to leave them to it, or enjoy the show?"
-    j ""
 
-# game/episode008.rpy:1500
+    j "你想讓她們繼續嗎，還是欣賞表演？"
+
+
 translate traditional_chinese ep008_raene_baths_def0d717:
 
-    # c "It would be rude to interrupt them..."
-    c ""
 
-# game/episode008.rpy:1501
+    c "打斷她們會有點不禮貌..."
+
+
 translate traditional_chinese ep008_raene_baths_b5813c3d:
 
-    # j "Very."
-    j ""
 
-# game/episode008.rpy:1504
+    j "非常不禮貌。"
+
+
 translate traditional_chinese ep008_raene_baths_c0b6ebee:
 
-    # c "Better leave, this could lead to problems."
-    c ""
 
-# game/episode008.rpy:1505
+    c "我們還是離開吧，不然可能引起麻煩。"
+
+
 translate traditional_chinese ep008_raene_baths_5e4ace8e:
 
-    # j "Of course."
-    j ""
 
-# game/episode008.rpy:1507
+    j "當然。"
+
+
 translate traditional_chinese ep008_raene_baths_990114ad:
 
-    # "The women didn’t even notice us and continued their lovemaking when we walked past them towards the exit."
-    ""
 
-# game/episode008.rpy:1511
+    "當我們路過她們向出口走去時，那些女人根本沒注意到我們，繼續做愛。"
+
+
 translate traditional_chinese ep008_j_baths_cea19cdd:
 
-    # "Jade had asked me to join her in the communal baths she had visited regularly since our arrival at the Citadel."
-    ""
 
-# game/episode008.rpy:1512
+    "傑德邀請我和她一起去公共浴池洗澡，自從我們到了城堡後她就經常去那裡。"
+
+
 translate traditional_chinese ep008_j_baths_e58ffcd6:
 
-    # "Curious about what drew her to the place, I ventured to the baths."
-    ""
 
-# game/episode008.rpy:1514
+    "我很好奇她爲何喜歡去那兒，就冒險去了浴池看看。"
+
+
 translate traditional_chinese ep008_j_baths_e4ce5736:
 
-    # "I must admit the two naked women frolicking around in the baths startled me a little."
-    ""
 
-# game/episode008.rpy:1515
+    "我得承認池子裡光着身子嬉戲的兩個女人讓我稍微嚇了一跳。"
+
+
 translate traditional_chinese ep008_j_baths_33c045d8:
 
-    # "Intrigued, I made my way to the changing area at the far end of the room. "
-    ""
 
-# game/episode008.rpy:1517
+    "出於好奇，我走向房間另一頭的更衣區。 "
+
+
 translate traditional_chinese ep008_j_baths_2c8e5fee:
 
-    # "Jade entered the pool a short while after I arrived and glanced at the women while walking towards me."
-    ""
 
-# game/episode008.rpy:1519
+    "傑德在我到後不久就進了池子，一邊朝我走來一邊瞄了那些女人一眼。"
+
+
 translate traditional_chinese ep008_j_baths_7c004f4d:
 
-    # j "It seems we have some company."
-    j ""
 
-# game/episode008.rpy:1520
+    j "看來我們有伴兒了。"
+
+
 translate traditional_chinese ep008_j_baths_55732973:
 
-    # c "We do."
-    c ""
 
-# game/episode008.rpy:1522
+    c "確實有。"
+
+
 translate traditional_chinese ep008_j_baths_a2e1c7ee:
 
-    # j "Have they been playing with each other's breasts all the time you were here?"
-    j ""
 
-# game/episode008.rpy:1523
+    j "你待在這兒時她們一直在互相玩奶子嗎？"
+
+
 translate traditional_chinese ep008_j_baths_297d93f3:
 
-    # c "What?"
-    c ""
 
-# game/episode008.rpy:1524
+    c "什麼？"
+
+
 translate traditional_chinese ep008_j_baths_87767372:
 
-    # c "Oh...{w} No, that's new."
-    c ""
 
-# game/episode008.rpy:1526
+    c "哦...{w} 不，那是新情況。"
+
+
 translate traditional_chinese ep008_j_baths_f13d6484:
 
-    # "The women obviously thought they were now alone, or didn't care that anyone saw them."
-    ""
 
-# game/episode008.rpy:1527
+    "那些女人顯然以爲只剩她們了，或根本不在乎別人看見。"
+
+
 translate traditional_chinese ep008_j_baths_8e1bfbaf:
 
-    # "One of the Acarhyn was sucking on the hard nipples of the other woman leaning on the edge of the pool."
-    ""
 
-# game/episode008.rpy:1529
+    "一個阿卡海茵人正吸着另一個倚在池邊的女人的硬乳頭。"
+
+
 translate traditional_chinese ep008_j_baths_d1f01524:
 
-    # j "Do you want to leave them to it, or enjoy the show?"
-    j ""
 
-# game/episode008.rpy:1532
+    j "你想讓她們繼續，還是看場戲？"
+
+
 translate traditional_chinese ep008_j_baths_def0d717:
 
-    # c "It would be rude to interrupt them..."
-    c ""
 
-# game/episode008.rpy:1533
+    c "打斷她們會有點太不禮貌..."
+
+
 translate traditional_chinese ep008_j_baths_b5813c3d:
 
-    # j "Very."
-    j ""
 
-# game/episode008.rpy:1536
+    j "很不禮貌。"
+
+
 translate traditional_chinese ep008_j_baths_c0b6ebee:
 
-    # c "Better leave, this could lead to problems."
-    c ""
 
-# game/episode008.rpy:1537
+    c "我們最好離開，否則可能惹麻煩。"
+
+
 translate traditional_chinese ep008_j_baths_5e4ace8e:
 
-    # j "Of course."
-    j ""
 
-# game/episode008.rpy:1539
+    j "當然。"
+
+
 translate traditional_chinese ep008_j_baths_990114ad:
 
-    # "The women didn’t even notice us and continued their lovemaking when we walked past them towards the exit."
-    ""
 
-# game/episode008.rpy:1549
+    "我們路過她們朝出口走時，她們根本沒注意到我們，繼續在親熱。"
+
+
 translate traditional_chinese ep008_av_sex_3a6d7f5d:
 
-    # "Aven slipped out of her panties and made herself comfortable on the bed, while I busied myself with getting out of my clothes as fast as possible."
-    ""
 
-# game/episode008.rpy:1551
+    "艾文滑出內褲躺在牀上擺舒服姿勢，而我忙着儘快扒掉衣服。"
+
+
 translate traditional_chinese ep008_av_sex_6cd1710c:
 
-    # "My cock was already hardening when I looked at my beautiful cousin, waiting for me to share her bed."
-    ""
 
-# game/episode008.rpy:1553
+    "看到漂亮表妹等我共享牀鋪時，我的雞巴已經硬起來了。"
+
+
 translate traditional_chinese ep008_av_sex_a3d34f67:
 
-    # "My cock was already hardening when I looked at my beautiful girlfriend, waiting for me to share her bed."
-    ""
 
-# game/episode008.rpy:1555
+    "看到漂亮女友等我共享牀鋪時，我的雞巴已經硬起來了。"
+
+
 translate traditional_chinese ep008_av_sex_bcba7ba8:
 
-    # "She shivered as my lips caressed her breastbone, my fingers tiptoeing over her thighs towards her groin."
-    ""
 
-# game/episode008.rpy:1556
+    "我嘴脣輕撫她胸骨時她一陣顫抖，我手指間輕觸着大腿朝她小穴摸去。"
+
+
 translate traditional_chinese ep008_av_sex_8c86f163:
 
-    # "With a heavy sigh, Aven opened her legs further."
-    ""
 
-# game/episode008.rpy:1558
+    "艾文重重嘆了口氣，把腿張得更開些。"
+
+
 translate traditional_chinese ep008_av_sex_89772ff9:
 
-    # "Her pussy glistened wet and I felt her moisture cling to my fingertips as I pressed them against her pussy."
-    ""
 
-# game/episode008.rpy:1559
+    "她小穴溼漉漉發亮，我按壓時感到溼氣粘在我的指尖上。"
+
+
 translate traditional_chinese ep008_av_sex_34d6f3b0:
 
-    # av "Oh [p_name_short]!"
-    av ""
 
-# game/episode008.rpy:1561
+    av "噢[p_name_short]！"
+
+
 translate traditional_chinese ep008_av_sex_884b98b9:
 
-    # "With some effort, Aven pulled my face towards hers and she looked at me longingly."
-    ""
 
-# game/episode008.rpy:1565
+    "艾文稍用力將我的臉扳向她，眼裡盛滿渴求地凝視着我。"
+
+
 translate traditional_chinese ep008_av_sex_78b085b0:
 
-    # av "Could we...{w} Just skip all that?"
-    av ""
 
-# game/episode008.rpy:1566
+    av "要不我們...{w}乾脆跳過那些步驟？"
+
+
 translate traditional_chinese ep008_av_sex_2fa44048:
 
-    # av "I just really want you inside of me."
-    av ""
 
-# game/episode008.rpy:1567
+    av "我現在就想要你進到我的身體裡面。"
+
+
 translate traditional_chinese ep008_av_sex_8b7bceab:
 
-    # "I could tell she was a little embarrassed by her own request, but it turned my arousal up several notches."
-    ""
 
-# game/episode008.rpy:1569
+    "看得出她對自己的請求有點難爲情，但這反而更讓我興奮了幾個檔次。"
+
+
 translate traditional_chinese ep008_av_sex_e302e9af:
 
-    # "Grinning, I grabbed her legs and pulled her towards me."
-    ""
 
-# game/episode008.rpy:1570
+    "我咧嘴笑着捉住她的大腿根，一把將她拽向自己。"
+
+
 translate traditional_chinese ep008_av_sex_c7bb5600:
 
-    # "She let out a surprised cry and giggled as my cock slapped against her abdomen."
-    ""
 
-# game/episode008.rpy:1572
+    "她發出一聲驚訝的驚呼，咯咯笑起來，因爲我的肉棒啪地打在她的小腹上。"
+
+
 translate traditional_chinese ep008_av_sex_1f5d318f:
 
-    # av "I’m ready!"
-    av ""
 
-# game/episode008.rpy:1573
+    av "我準備好啦！"
+
+
 translate traditional_chinese ep008_av_sex_1fef8bf8:
 
-    # "Her obvious nervousness made her vulnerable and adorable at the same time."
-    ""
 
-# game/episode008.rpy:1574
+    "她顯而易見的緊張讓她既脆弱又惹人憐愛。"
+
+
 translate traditional_chinese ep008_av_sex_90514b8f:
 
-    # "I suddenly knew I’d have to be gentle with her."
-    ""
 
-# game/episode008.rpy:1576
+    "我突然意識到必須溫柔對待她。"
+
+
 translate traditional_chinese ep008_av_sex_8d35ea60:
 
-    # "Her lower lips parted when I pressed the tip of my cock against her entrance."
-    ""
 
-# game/episode008.rpy:1577
+    "當我將龜頭頂住她入口時，她的陰脣微微分開。"
+
+
 translate traditional_chinese ep008_av_sex_e09663f7:
 
-    # "Very slowly I entered her."
-    ""
 
-# game/episode008.rpy:1579
+    "我極其緩慢地進入她體內。"
+
+
 translate traditional_chinese ep008_av_sex_f3ae711d:
 
-    # "Aven’s expression was pained at first, her eyes closed and her fists clenched."
-    ""
 
-# game/episode008.rpy:1580
+    "艾文起初表情痛苦，雙眼緊閉，拳頭緊握。"
+
+
 translate traditional_chinese ep008_av_sex_7e3e1458:
 
-    # "Her tight pussy felt amazing, but I hesitated at inserting the last few inches of my girth."
-    ""
 
-# game/episode008.rpy:1581
+    "她的小穴緊緻得令人着迷，但我猶豫着是否要插入最後幾寸的粗大陽具。"
+
+
 translate traditional_chinese ep008_av_sex_d1513085:
 
-    # av "Don’t stop, please don’t stop now!"
-    av ""
 
-# game/episode008.rpy:1583
+    av "不要停，請不要停下來！"
+
+
 translate traditional_chinese ep008_av_sex_f0522e08:
 
-    # "When I made the final push and Aven’s eyes fluttered open and a smile suddenly graced her face."
-    ""
 
-# game/episode008.rpy:1584
+    "當我最後推進時，艾文的眼睛顫動睜開，一個微笑突然浮現在她臉上。"
+
+
 translate traditional_chinese ep008_av_sex_8f2511e4:
 
-    # av "Oh, that’s it!"
-    av ""
 
-# game/episode008.rpy:1585
+    av "哦，就是這樣！"
+
+
 translate traditional_chinese ep008_av_sex_6eb83884:
 
-    # av "That feels so good."
-    av ""
 
-# game/episode008.rpy:1586
+    av "那感覺太好了。"
+
+
 translate traditional_chinese ep008_av_sex_fb7c7ae9:
 
-    # av "Make love to me, [p_name_short]!"
-    av ""
 
-# game/episode008.rpy:1588
+    av "和我做愛吧，[p_name_short]！"
+
+
 translate traditional_chinese ep008_av_sex_0a02032d:
 
-    # "She folded her legs across my lower back, locking me into our intimate embrace."
-    ""
 
-# game/episode008.rpy:1589
+    "她將雙腿盤在我下背部，將我鎖進我們親密的擁抱中。"
+
+
 translate traditional_chinese ep008_av_sex_aeb0b8ea:
 
-    # "I began to move, very slowly at first."
-    ""
 
-# game/episode008.rpy:1590
+    "我開始移動，最初非常緩慢。"
+
+
 translate traditional_chinese ep008_av_sex_7cc2e112:
 
-    # "My cock was drenched in her moisture by now and made my passage through her ribbed tunnel extra pleasurable."
-    ""
 
-# game/episode008.rpy:1592
+    "我的陰莖已經浸溼在她的水分中，這使我穿過她那帶肋狀的隧道時格外愉快。"
+
+
 translate traditional_chinese ep008_av_sex_a545e919:
 
-    # av "You’re so deep inside me!"
-    av ""
 
-# game/episode008.rpy:1593
+    av "你在裡面好深啊！"
+
+
 translate traditional_chinese ep008_av_sex_f8ebf4fc:
 
-    # av "Keep going, please don’t stop now."
-    av ""
 
-# game/episode008.rpy:1594
+    av "繼續吧，求你了，現在別停。"
+
+
 translate traditional_chinese ep008_av_sex_133280ae:
 
-    # "Her comments encouraged me to pick up the pace a little."
-    ""
 
-# game/episode008.rpy:1595
+    "她的評論促使我加快了一點點步伐。"
+
+
 translate traditional_chinese ep008_av_sex_1a7d1541:
 
-    # "She held me tight as I plunged in and out of her wet slit with increasing intensity."
-    ""
 
-# game/episode008.rpy:1597
+    "她緊緊抱着我，而我則以越來越強的力度在她的溼潤陰部中進進出出。"
+
+
 translate traditional_chinese ep008_av_sex_b365a944:
 
-    # av "Keep fucking me like that."
-    av ""
 
-# game/episode008.rpy:1598
+    av "繼續那樣幹我。"
+
+
 translate traditional_chinese ep008_av_sex_63b933fd:
 
-    # av "Your cock feels so good."
-    av ""
 
-# game/episode008.rpy:1600
+    av "你的雞巴太舒服了。"
+
+
 translate traditional_chinese ep008_av_sex_dd370902:
 
-    # "By now we were fucking so fiercely that Aven had to draw up her legs even further."
-    ""
 
-# game/episode008.rpy:1601
+    "此時我們操得太猛了，艾文不得不把腿抬高得更多。"
+
+
 translate traditional_chinese ep008_av_sex_533fcd56:
 
-    # "My balls slapped against her cunt when my cock buried itself deeply inside her vagina."
-    ""
 
-# game/episode008.rpy:1603
+    "我的卵蛋拍打着她的屄，而我的雞巴深埋在她的陰道裏。"
+
+
 translate traditional_chinese ep008_av_sex_36293691:
 
-    # "Her breathing was ragged as I worked her up into a carnal frenzy."
-    ""
 
-# game/episode008.rpy:1604
+    "她的呼吸變得急促，而我讓她進入肉慾的狂亂之中。"
+
+
 translate traditional_chinese ep008_av_sex_e3e3a5a7:
 
-    # "My shaft, covered in her juices, stabbed her pussy in quick succession causing Aven to cry out in rapture."
-    ""
 
-# game/episode008.rpy:1605
+    "我的雞巴，沾滿了她的汁液，迅速地刺入她的小穴，讓艾文在狂喜中尖叫。"
+
+
 translate traditional_chinese ep008_av_sex_84f6a8f3:
 
-    # av "I...{w} I...{w} I..."
-    av ""
 
-# game/episode008.rpy:1607
+    av "我...{w} 我...{w} 我..."
+
+
 translate traditional_chinese ep008_av_sex_dc6433c2:
 
-    # "Before she could even form the words of a sentence, Aven orgasmed massively."
-    ""
 
-# game/episode008.rpy:1608
+    "在她甚至沒能說出一句完整的話前，艾文就劇烈高潮了。"
+
+
 translate traditional_chinese ep008_av_sex_d668831d:
 
-    # "Her body shook and thrashed beneath me and her fingers raked fitfully through my hair."
-    ""
 
-# game/episode008.rpy:1609
+    "她的身體在我身下顫抖和猛烈搖擺，她的手指慌亂地抓過我的頭髮。"
+
+
 translate traditional_chinese ep008_av_sex_ce029c21:
 
-    # "When her climax subsided into small tremors and less violent convulsions, she was finally able to whisper."
-    ""
 
-# game/episode008.rpy:1610
+    "當她的高潮平息成小小的顫抖和不太劇烈的抽搐時，她終於能低聲說話了。"
+
+
 translate traditional_chinese ep008_av_sex_7888c9ff:
 
-    # av "I love you."
-    av ""
 
-# game/episode008.rpy:1612
+    av "我愛你。"
+
+
 translate traditional_chinese ep008_av_sex_689be638:
 
-    # "I kissed her in response."
-    ""
 
-# game/episode008.rpy:1613
+    "我回吻了她。"
+
+
 translate traditional_chinese ep008_av_sex_2ad7ec1c:
 
-    # "We embraced tightly and my cock slipped out of her warm pussy, but I didn’t mind because my lips on hers was all that mattered."
-    ""
 
-# game/episode008.rpy:1615
+    "我們緊緊擁抱，而我的雞巴從她溫暖的屄裏滑出，但我不介意，因爲我的嘴脣貼着她的嘴脣就是最重要的。"
+
+
 translate traditional_chinese ep008_av_sex_a4e11fb3:
 
-    # "Aven turned on her side with me behind her."
-    ""
 
-# game/episode008.rpy:1616
+    "艾文側過身來，我則在後面。"
+
+
 translate traditional_chinese ep008_av_sex_5a8caea6:
 
-    # "As she opened her legs again I prepared to enter her cunt from behind."
-    ""
 
-# game/episode008.rpy:1617
+    "當她再次張開雙腿，我準備從後面進入她的屄。"
+
+
 translate traditional_chinese ep008_av_sex_6692082b:
 
-    # "Her soft ass was pressing against my abdomen and I cupped her face in my hands."
-    ""
 
-# game/episode008.rpy:1619
+    "她柔軟的屁股壓在我的腹部上，我用手捧住了她的臉。"
+
+
 translate traditional_chinese ep008_av_sex_3e8a2759:
 
-    # "She let out a long moan when my cock slid inside of her."
-    ""
 
-# game/episode008.rpy:1620
+    "當我的雞巴滑進她裡面時，她發出長長的呻吟。"
+
+
 translate traditional_chinese ep008_av_sex_edfc132e:
 
-    # av "Don’t hold back now."
-    av ""
 
-# game/episode008.rpy:1621
+    av "現在別壓抑自己。"
+
+
 translate traditional_chinese ep008_av_sex_a27ba8c3:
 
-    # av "I want to feel all of you!"
-    av ""
 
-# game/episode008.rpy:1623
+    av "我要感受你的全部！"
+
+
 translate traditional_chinese ep008_av_sex_9ed42a53:
 
-    # "The final stretch didn’t take long, I was already near my climax when I’d entered her again."
-    ""
 
-# game/episode008.rpy:1625
+    "最後階段沒有太久，我在再進入她時就已經臨近高潮了。"
+
+
 translate traditional_chinese ep008_av_sex_6d6181fe:
 
-    # av "Keep going, just like that!{w} Oh!{w} Just like that!"
-    av ""
 
-# game/episode008.rpy:1630
+    av "繼續，就像那樣！{w} 哦！{w} 就像那樣！"
+
+
 translate traditional_chinese ep008_av_sex_749194ac:
 
-    # av "Please [p_name_short], I don’t want you to pull out!"
-    av ""
 
-# game/episode008.rpy:1631
+    av "拜託[p_name_short]，我不希望你拔出來！"
+
+
 translate traditional_chinese ep008_av_sex_778fc992:
 
-    # av "Just cum inside me."
-    av ""
 
-# game/episode008.rpy:1633
+    av "就射在裡面。"
+
+
 translate traditional_chinese ep008_av_sex_5abb40ab:
 
-    # "I fulfilled her wish right after when a wealth of cum pulsed inside her vagina."
-    ""
 
-# game/episode008.rpy:1636
+    "我隨後便滿足她心願，大股精液在她陰道內脈動着。"
+
+
 translate traditional_chinese ep008_av_sex_bd72b4a7:
 
-    # "Semen oozed out of her wet pussy as soon as my cock slipped out of her, spurting some stray droplets of cum on her body."
-    ""
 
-# game/episode008.rpy:1639
+    "陰莖剛從她溼漉漉的小穴抽離，白濁就滲了出來，幾滴精液濺到她身上。"
+
+
 translate traditional_chinese ep008_av_sex_ffc37e8f:
 
-    # av "Please [p_name_short], I want it all over my body!"
-    av ""
 
-# game/episode008.rpy:1642
+    av "求你了[p_name_short]，我要渾身都沾滿你的精液！"
+
+
 translate traditional_chinese ep008_av_sex_dff52029:
 
-    # "I fulfilled her wish right after when I pulled out and sprayed a wealth of cum on her belly and lower chest."
-    ""
 
-# game/episode008.rpy:1644
+    "我隨後便滿足她心願，拔出陰莖在她小腹和胸下噴灑出大量精液。"
+
+
 translate traditional_chinese ep008_av_sex_6b09765d:
 
-    # "Completely spent, I held her in my arms as we both drifted away in a sweet postcoital sleep."
-    ""
 
-# game/episode008.rpy:1657
+    "耗盡力氣後，我摟着她沉入甜美的交歡後睡眠。"
+
+
 translate traditional_chinese ep008_jade_sex_5a6678d4:
 
-    # "Jade looked intently at the women on the other side of the room."
-    ""
 
-# game/episode008.rpy:1658
+    "傑德凝神盯着房間另一側的女人們。"
+
+
 translate traditional_chinese ep008_jade_sex_48f8804d:
 
-    # "One of them had left the water and kissed her friend."
-    ""
 
-# game/episode008.rpy:1659
+    "其中一人離開水池親吻着她的女友。"
+
+
 translate traditional_chinese ep008_jade_sex_728140df:
 
-    # "Their moans echoed throughout the pool chamber."
-    ""
 
-# game/episode008.rpy:1661
+    "她們的交歡聲響徹整個泳廳。"
+
+
 translate traditional_chinese ep008_jade_sex_4358b006:
 
-    # "The woman with the facial tattoos lifted herself half out of the water to receive the violent kisses of her partner."
-    ""
 
-# game/episode008.rpy:1662
+    "紋面女子半身探出水面，承受着伴侶暴風雨般的親吻。"
+
+
 translate traditional_chinese ep008_jade_sex_d7559086:
 
-    # "While we both spied on the women, Jade had inched closer towards me and pressed her hand against my pants."
-    ""
 
-# game/episode008.rpy:1663
+    "正當我們窺視時，傑德悄悄貼過來，把手按在我褲襠上。"
+
+
 translate traditional_chinese ep008_jade_sex_8b6a3dd6:
 
-    # "She was already topless and her panties also fell to the floor pretty quickly."
-    ""
 
-# game/episode008.rpy:1665
+    "她本就赤裸上身，內褲也很快滑落在地。"
+
+
 translate traditional_chinese ep008_jade_sex_a7695966:
 
-    # j "You really are enjoying the show!"
-    j ""
 
-# game/episode008.rpy:1667
+    j "你可真享受表演啊！"
+
+
 translate traditional_chinese ep008_jade_sex_2309a2cf:
 
-    # "The short-haired woman now lay on the side of the pool with the other girl between her legs."
-    ""
 
-# game/episode008.rpy:1668
+    "短髮女子此時仰臥在池邊，另一女孩跪在她雙腿間。"
+
+
 translate traditional_chinese ep008_jade_sex_f420ca5a:
 
-    # "Jade rubbed my cock through the fabric of my pants at the same rhythm as the girl’s pussy was being licked."
-    ""
 
-# game/episode008.rpy:1669
+    "隨着池中女孩被舔弄小穴的節奏，傑德隔着褲子摩擦我的陽具。"
+
+
 translate traditional_chinese ep008_jade_sex_2407efb6:
 
-    # "She quickly undressed me and went down on her knees."
-    ""
 
-# game/episode008.rpy:1671
+    "她飛快扒光我衣服跪下來。"
+
+
 translate traditional_chinese ep008_jade_sex_b3d06620:
 
-    # "Her lips enveloped my cock and she started to suck."
-    ""
 
-# game/episode008.rpy:1672
+    "雙脣裹住我的陰莖便開始吮吸。"
+
+
 translate traditional_chinese ep008_jade_sex_788a690b:
 
-    # "While Jade was working on my cock, I could still see what the women in the pool were up to."
-    ""
 
-# game/episode008.rpy:1674
+    "傑德伺候我時，仍能看見泳池裡那些女人的動靜。"
+
+
 translate traditional_chinese ep008_jade_sex_c4787b01:
 
-    # "The short-haired girl was on her knees, offering her ass to the tattooed woman, who hungrily licked the moist lips pushed into her face."
-    ""
 
-# game/episode008.rpy:1676
+    "短髮女孩跪趴着，將臀部獻給面紋女子，對方如饑似渴地舔舐貼到眼前的溼滑脣瓣。"
+
+
 translate traditional_chinese ep008_jade_sex_5724a804:
 
-    # "Jade and I were trying to be silent, but the women had no such qualms and moaned loudly."
-    ""
 
-# game/episode008.rpy:1678
+    "我和傑德儘量保持安靜，但那幾個女人卻毫無顧忌大聲呻吟着。"
+
+
 translate traditional_chinese ep008_jade_sex_217f9748:
 
-    # "I’m sure that if they weren’t so preoccupied, they would have heard Jade behind the privacy screen, gagging softly on my cock as it hit the back of her throat."
-    ""
 
-# game/episode008.rpy:1679
+    "我確信要不是她們那麼忙，她們會聽到屏風後面的傑德，因爲她被我的雞巴頂到喉嚨後面而微微作嘔。"
+
+
 translate traditional_chinese ep008_jade_sex_5307f558:
 
-    # "Jade had made a beautiful mess of her face and my cock, strings of her saliva clinging to my cock and her lips."
-    ""
 
-# game/episode008.rpy:1681
+    "傑德把她的臉和我的雞巴搞得一團糟，她的唾液絲粘在我的雞巴和她的嘴脣上。"
+
+
 translate traditional_chinese ep008_jade_sex_5793cd63:
 
-    # "I made her stand upright and hooked a leg under my arm."
-    ""
 
-# game/episode008.rpy:1682
+    "我讓她站直，並把一條腿鉤在我胳膊下。"
+
+
 translate traditional_chinese ep008_jade_sex_d2722661:
 
-    # "Cradling her ass cheeks, I slid my wet cock inside her equally wet pussy."
-    ""
 
-# game/episode008.rpy:1683
+    "託着她的屁股瓣，我把溼漉漉的雞巴滑進她同樣溼漉漉的騷穴裏。"
+
+
 translate traditional_chinese ep008_jade_sex_f3ca376f:
 
-    # j "Oh yes!"
-    j ""
 
-# game/episode008.rpy:1685
+    j "噢，是的！"
+
+
 translate traditional_chinese ep008_jade_sex_47f55f71:
 
-    # "Jade quickly stifled any further outcries and instead whispered inside my ear."
-    ""
 
-# game/episode008.rpy:1687
+    "傑德迅速壓住所有喊叫，反而在我耳邊低語。"
+
+
 translate traditional_chinese ep008_jade_sex_2696e9b1:
 
-    # j "Please fuck me hard, master."
-    j ""
 
-# game/episode008.rpy:1689
+    j "主人，請狠狠地操我。"
+
+
 translate traditional_chinese ep008_jade_sex_475bb103:
 
-    # j "Please fuck me hard, [p_name_short]."
-    j ""
 
-# game/episode008.rpy:1690
+    j "請狠狠地操我，[p_name_short]。"
+
+
 translate traditional_chinese ep008_jade_sex_fd851b41:
 
-    # j "I want all of it inside me."
-    j ""
 
-# game/episode008.rpy:1691
+    j "我要它全都進我裡面。"
+
+
 translate traditional_chinese ep008_jade_sex_4ff75232:
 
-    # j "Take me.{w} Take me hard."
-    j ""
 
-# game/episode008.rpy:1693
+    j "要我。{w}狠狠地要我。"
+
+
 translate traditional_chinese ep008_jade_sex_7b09f92b:
 
-    # "I lost track of the women as Jade’s pussy put me under a spell of pure lust."
-    ""
 
-# game/episode008.rpy:1694
+    "由於傑德的騷穴讓我沉迷於純欲魔咒中，我忘了那些女人的蹤影。"
+
+
 translate traditional_chinese ep008_jade_sex_a07e7e6a:
 
-    # "In that moment, nothing else but my hard cock penetrating her tight warm slit existed."
-    ""
 
-# game/episode008.rpy:1695
+    "在那一刻，只有我堅硬的雞巴插進她緊緻溫暖的小穴存在。"
+
+
 translate traditional_chinese ep008_jade_sex_0e06946e:
 
-    # "Jade gasped for air every time my dick hit her deep and she clenched her teeth to avoid crying out in pleasure."
-    ""
 
-# game/episode008.rpy:1697
+    "每次我的屌插到她深處，傑德就會喘氣，她咬緊牙齒避免因快感而喊叫。"
+
+
 translate traditional_chinese ep008_jade_sex_e59f6096:
 
-    # "When I came back to my senses somewhat, I noticed that the women were still entangled in the same way."
-    ""
 
-# game/episode008.rpy:1698
+    "當我稍稍回過神來時，我發現那些女人仍然以同樣方式纏在一起。"
+
+
 translate traditional_chinese ep008_jade_sex_2adb8932:
 
-    # "The short-haired woman was writhing on the floor, a slave to the stimulation of her friend’s tongue."
-    ""
 
-# game/episode008.rpy:1700
+    "短髮女人在地板上扭動，淪爲朋友舌頭刺激的奴隸。"
+
+
 translate traditional_chinese ep008_jade_sex_eacd38c4:
 
-    # "She drooled on the tile floor and opened her mouth to let out a long and husky cry of pleasure."
-    ""
 
-# game/episode008.rpy:1701
+    "她在地板磚上流口水，張開嘴巴發出一聲長久沙啞的歡愉叫聲。"
+
+
 translate traditional_chinese ep008_jade_sex_d54b4b5b:
 
-    # "The girl started to shudder and nearly slid back into the pool, but her friend kept her firmly in place, her face still pressed against her convulsing pussy."
-    ""
 
-# game/episode008.rpy:1703
+    "女孩開始顫抖，幾乎滑回池子裡，但她的朋友牢牢按住她，臉還貼着她抽動的騷穴。"
+
+
 translate traditional_chinese ep008_jade_sex_340e362e:
 
-    # "I pressed Jade against the privacy screen and entered her cunt from behind."
-    ""
 
-# game/episode008.rpy:1705
+    "我把傑德壓在屏風上，從後面插進她的屄。"
+
+
 translate traditional_chinese ep008_jade_sex_c5e727af:
 
-    # j "Fuck me master, fuck me hard, please!"
-    j ""
 
-# game/episode008.rpy:1707
+    j "主人操我，請狠狠地操我！"
+
+
 translate traditional_chinese ep008_jade_sex_59c8e902:
 
-    # "Grabbing her flanks I pressed her against me in order to root my cock even deeper inside her cunt."
-    ""
 
-# game/episode008.rpy:1708
+    "抓住她的側腰，我把她壓向我，好讓我的雞巴更深地扎進她屄裏。"
+
+
 translate traditional_chinese ep008_jade_sex_e29f6a44:
 
-    # "I’d lost interest in the women in the pool, who were still making love."
-    ""
 
-# game/episode008.rpy:1710
+    "我對池子裡的女人沒了興趣，她們還在做愛。"
+
+
 translate traditional_chinese ep008_jade_sex_f3c941f1:
 
-    # "All my attention was on Jade, on possessing her body completely."
-    ""
 
-# game/episode008.rpy:1711
+    "我全神貫注在傑德身上，完全佔有她的身體。"
+
+
 translate traditional_chinese ep008_jade_sex_c55e9a4e:
 
-    # "The privacy screen nearly toppled over because of the violence of my thrusts."
-    ""
 
-# game/episode008.rpy:1712
+    "由於我抽插的猛烈，隱私屏風差點倒下來。"
+
+
 translate traditional_chinese ep008_jade_sex_35ebaba9:
 
-    # "I knew I was close."
-    ""
 
-# game/episode008.rpy:1714
+    "我知道我快要射了。"
+
+
 translate traditional_chinese ep008_jade_sex_2eef9679:
 
-    # "Jade noticed my struggle and she started whispering in my ear again."
-    ""
 
-# game/episode008.rpy:1719
+    "傑德注意到我的掙扎，她又開始在我耳邊低語。"
+
+
 translate traditional_chinese ep008_jade_sex_0fe82028:
 
-    # j "Please don’t pull out."
-    j ""
 
-# game/episode008.rpy:1720
+    j "求你別拔出來。"
+
+
 translate traditional_chinese ep008_jade_sex_85ce05c0:
 
-    # j "I want all of your cum inside me."
-    j ""
 
-# game/episode008.rpy:1721
+    j "我想要你的全部精液都射在我裡面。"
+
+
 translate traditional_chinese ep008_jade_sex_2379a42a:
 
-    # j "Please!{w} Please!"
-    j ""
 
-# game/episode008.rpy:1723
+    j "求你了！{w} 求你了！"
+
+
 translate traditional_chinese ep008_jade_sex_f2266f5e:
 
-    # "With a heavy grunt I blasted her vagina full of warm cum."
-    ""
 
-# game/episode008.rpy:1726
+    "伴隨着沉重的呻吟，我把她的陰道射滿了溫熱的精液。"
+
+
 translate traditional_chinese ep008_jade_sex_4fbdd7a9:
 
-    # "When my cock slipped from her gash, a flood of semen started dripping out of her, coating her thighs."
-    ""
 
-# game/episode008.rpy:1729
+    "當我那話兒從她的裂口滑出時，一股精液開始從她體內流出，沾滿了她的大腿。"
+
+
 translate traditional_chinese ep008_jade_sex_af2574d6:
 
-    # j "Please, cover me in your cum."
-    j ""
 
-# game/episode008.rpy:1730
+    j "求你，用你的精液覆蓋我全身。"
+
+
 translate traditional_chinese ep008_jade_sex_ef6b2e2a:
 
-    # j "I want all of it on my body."
-    j ""
 
-# game/episode008.rpy:1731
+    j "我想要它都流在我身上。"
+
+
 translate traditional_chinese ep008_jade_sex_2379a42a_1:
 
-    # j "Please!{w} Please!"
-    j ""
 
-# game/episode008.rpy:1734
+    j "求你了！{w} 求你了！"
+
+
 translate traditional_chinese ep008_jade_sex_e7700508:
 
-    # "With a heavy grunt I sprayed her back with strands of warm cum, nearly hitting her shoulder blades."
-    ""
 
-# game/episode008.rpy:1737
+    "伴隨着沉重的呻吟，我用一串串溫熱的精液噴在她背上，幾乎濺到她的肩胛骨。"
+
+
 translate traditional_chinese ep008_jade_sex_61a6fc77:
 
-    # j "Please, paste my face with your cum."
-    j ""
 
-# game/episode008.rpy:1738
+    j "求你，用你的精液糊我的臉。"
+
+
 translate traditional_chinese ep008_jade_sex_e2e73d3f:
 
-    # j "I want to taste it."
-    j ""
 
-# game/episode008.rpy:1739
+    j "我想嘗嘗它。"
+
+
 translate traditional_chinese ep008_jade_sex_2379a42a_2:
 
-    # j "Please!{w} Please!"
-    j ""
 
-# game/episode008.rpy:1740
+    j "求你了！{w} 求你了！"
+
+
 translate traditional_chinese ep008_jade_sex_4fc9decf:
 
-    # "She went back on her knees and took my twitching cock."
-    ""
 
-# game/episode008.rpy:1743
+    "她又跪下來，握着我那抽搐的陰莖。"
+
+
 translate traditional_chinese ep008_jade_sex_96574baa:
 
-    # "I sprayed her face with warm cum and coated her hands."
-    ""
 
-# game/episode008.rpy:1744
+    "我把溫熱的精液噴在她臉上，弄髒了她的雙手。"
+
+
 translate traditional_chinese ep008_jade_sex_60c76408:
 
-    # "Jade licked her fingers in appreciation."
-    ""
 
-# game/episode008.rpy:1746
+    "傑德感激地舔了舔手指。"
+
+
 translate traditional_chinese ep008_jade_sex_fe1ee6b4:
 
-    # j "Thank you, this has been the best visit to the baths yet."
-    j ""
 
-# game/episode008.rpy:1747
+    j "謝謝，這是至今爲止最棒的一次洗浴。"
+
+
 translate traditional_chinese ep008_jade_sex_38196670:
 
-    # "We put on our clothing and emerged from behind the privacy screen."
-    ""
 
-# game/episode008.rpy:1749
+    "我們穿上衣服，從隱私屏風後面走出來。"
+
+
 translate traditional_chinese ep008_jade_sex_4532ee0f:
 
-    # "The women didn’t notice us immediately, but when they did they both looked at us defiantly."
-    ""
 
-# game/episode008.rpy:1750
+    "那些女人沒有立刻注意到我們，但當她們注意到時，都用挑釁的眼神看着我們。"
+
+
 translate traditional_chinese ep008_jade_sex_fefedc6e:
 
-    # "Both Jade and I just smiled knowingly and walked out of the bath chamber."
-    ""
 
-# game/episode008.rpy:1756
+    "我和傑德只是心照不宣地笑了笑，然後走出了洗浴室。"
+
+
 translate traditional_chinese ep008_commander_1a2d19b7:
 
-    # "I was about to leave the dining hall when the commander of the Acarhyn caught my eye."
-    ""
 
-# game/episode008.rpy:1757
+    "我正要離開餐廳時，阿卡海茵人的指揮官引起了我的注意。"
+
+
 translate traditional_chinese ep008_commander_e96b04b8:
 
-    # "She waved me over to her table."
-    ""
 
-# game/episode008.rpy:1759
+    "她揮手叫我到她桌子邊兒。"
+
+
 translate traditional_chinese ep008_commander_f8fb7677:
 
-    # rah "[p_name]."
-    rah ""
 
-# game/episode008.rpy:1760
+    rah "[p_name]。"
+
+
 translate traditional_chinese ep008_commander_60833435:
 
-    # c "Commander."
-    c ""
 
-# game/episode008.rpy:1761
+    c "指揮官。"
+
+
 translate traditional_chinese ep008_commander_c522b5e6:
 
-    # rah "Please no need for formalities, call me Rahia."
-    rah ""
 
-# game/episode008.rpy:1776
+    rah "沒必要那么正式，叫我拉希婭吧。"
+
+
 translate traditional_chinese ep008_commander_8acdf005:
 
-    # rah "I was curious to know how you and your friends are settling in."
-    rah ""
 
-# game/episode008.rpy:1777
+    rah "我挺好奇想知道你和朋友們安頓得怎麼樣了。"
+
+
 translate traditional_chinese ep008_commander_5333c448:
 
-    # rah "If there’s anything lacking, please let me know."
-    rah ""
 
-# game/episode008.rpy:1778
+    rah "要缺什麼東西，就告訴我一聲兒。"
+
+
 translate traditional_chinese ep008_commander_3ff97992:
 
-    # rah "Your imprisonment was a mistake we’d like to put behind us."
-    rah ""
 
-# game/episode008.rpy:1779
+    rah "關押你們是個錯誤，我們想讓這個事情翻篇兒。"
+
+
 translate traditional_chinese ep008_commander_33c55bb0:
 
-    # "I was a little startled by her friendly tone and I wondered how much her queen had a hand in that."
-    ""
 
-# game/episode008.rpy:1780
+    "她那友好的口氣讓我有點喫驚，我猜這有多少是因爲女王插了手。"
+
+
 translate traditional_chinese ep008_commander_fd5e71e6:
 
-    # c "Considering you nearly blasted us to pieces when we broke atmosphere, we’re doing quite well."
-    c ""
 
-# game/episode008.rpy:1781
+    c "考慮到你們在我們突破大氣層時差點把我們炸成渣渣，我們現在還算非常好的。"
+
+
 translate traditional_chinese ep008_commander_a965a121:
 
-    # c "The fact that our ship is being repaired is reassuring, but my guess is that this is mostly on behest of the Queen."
-    c ""
 
-# game/episode008.rpy:1783
+    c "我們的船在修，這讓人放心了點，不過我猜這大多是因爲女王的命令。"
+
+
 translate traditional_chinese ep008_commander_1891bda4:
 
-    # rah "She gave the order, yes."
-    rah ""
 
-# game/episode008.rpy:1784
+    rah "是她下的命令，沒錯。"
+
+
 translate traditional_chinese ep008_commander_f8d9a7a2:
 
-    # c "I thought as much."
-    c ""
 
-# game/episode008.rpy:1785
+    c "我就知道。"
+
+
 translate traditional_chinese ep008_commander_d05f0fad:
 
-    # rah "One of your crew mates is coordinating the repairs, I believe."
-    rah ""
 
-# game/episode008.rpy:1786
+    rah "我認爲，是你的一位機組成員在協調修理活兒吧。"
+
+
 translate traditional_chinese ep008_commander_ce3f7aa7:
 
-    # c "That would be Thyia."
-    c ""
 
-# game/episode008.rpy:1787
+    c "那應該是塞婭。"
+
+
 translate traditional_chinese ep008_commander_934a2a9a:
 
-    # c "And I think she’s just as much keeping an eye out for any trickery on your part, as she is overseeing the work."
-    c ""
 
-# game/episode008.rpy:1788
+    c "我覺得她在監督活兒的同時，也盯着看你們會不會耍花樣。"
+
+
 translate traditional_chinese ep008_commander_2764192f:
 
-    # rah "You don’t like us very much, do you, [p_name]?"
-    rah ""
 
-# game/episode008.rpy:1789
+    rah "你不怎麼喜歡我們吧，對吧，[p_name]？"
+
+
 translate traditional_chinese ep008_commander_fafa0da3:
 
-    # c "Are you fucking surprised?!"
-    c ""
 
-# game/episode008.rpy:1791
+    c "你他媽的很驚訝嗎？！"
+
+
 translate traditional_chinese ep008_commander_03c6a042:
 
-    # c "You invaded a foreign moon, killed scores of people, kidnapped my sister and nearly killed my best friend."
-    c ""
 
-# game/episode008.rpy:1793
+    c "你們入侵一個外星球衛星，殺了大把人，綁架我妹妹，還差點弄死我最好的朋友。"
+
+
 translate traditional_chinese ep008_commander_eb1784ea:
 
-    # c "You invaded a foreign moon, killed scores of people, kidnapped my childhood friend and nearly killed my best friend."
-    c ""
 
-# game/episode008.rpy:1794
+    c "你們入侵一個外星球衛星，殺了大把人，綁架我童年朋友，還差點弄死我最好的朋友。"
+
+
 translate traditional_chinese ep008_commander_4ee5eab4:
 
-    # c "So yeah, I don’t like you very much."
-    c ""
 
-# game/episode008.rpy:1795
+    c "所以呢，沒錯，我是不怎麼喜歡你。"
+
+
 translate traditional_chinese ep008_commander_bd24e7ea:
 
-    # rah "I understand."
-    rah ""
 
-# game/episode008.rpy:1796
+    rah "我理解。"
+
+
 translate traditional_chinese ep008_commander_8e97dced:
 
-    # rah "I will not apologize for our actions however."
-    rah ""
 
-# game/episode008.rpy:1797
+    rah "但我不打算爲我們的行動道歉。"
+
+
 translate traditional_chinese ep008_commander_201f9275:
 
-    # rah "But know we did not rejoice in the things we had to do."
-    rah ""
 
-# game/episode008.rpy:1798
+    rah "可你得知道，這是必須要做的事，我們並沒有覺得有什麼樂趣可言。"
+
+
 translate traditional_chinese ep008_commander_877ba14a:
 
-    # rah "I do hope we can work on a mutual understanding."
-    rah ""
 
-# game/episode008.rpy:1800
+    rah "我真希望我們能相互理解。"
+
+
 translate traditional_chinese ep008_commander_52f466d7:
 
-    # c "Unlikely."
-    c ""
 
-# game/episode008.rpy:1802
+    c "不太可能。"
+
+
 translate traditional_chinese ep008_commander_fabe4767:
 
-    # c "Maybe..."
-    c ""
 
-# game/episode008.rpy:1803
+    c "也許..."
+
+
 translate traditional_chinese ep008_commander_b11726c4:
 
-    # c "Well, I’m going to leave you to your duties."
-    c ""
 
-# game/episode008.rpy:1805
+    c "好吧，我就不打擾你執行公務了。"
+
+
 translate traditional_chinese ep008_commander_5b41c781:
 
-    # rah "Please, [p_name], there are some things I’d like to discuss in private."
-    rah ""
 
-# game/episode008.rpy:1806
+    rah "拜託，[p_name]，有些事我想私下談談。"
+
+
 translate traditional_chinese ep008_commander_4c4c28a9:
 
-    # rah "Maybe we can share a drink in my quarters."
-    rah ""
 
-# game/episode008.rpy:1807
+    rah "或許我們可以去我房間喝一杯。"
+
+
 translate traditional_chinese ep008_commander_e2a4b362:
 
-    # "Now that request really shook me."
-    ""
 
-# game/episode008.rpy:1808
+    "這個請求確實讓我震驚。"
+
+
 translate traditional_chinese ep008_commander_ff1fa1fd:
 
-    # "I had a feeling what that private discussion might lead to..."
-    ""
 
-# game/episode008.rpy:1809
+    "我隱約感覺到那場私下談話可能導向什麼..."
+
+
 translate traditional_chinese ep008_commander_e9f5268b:
 
-    # "But did I want to pass up a chance of maybe knowing more of Eva’s situation?"
-    ""
 
-# game/episode008.rpy:1813
+    "但難道我要放棄可能了解伊娃近況的機會麼？"
+
+
 translate traditional_chinese ep008_commander_58077ce5:
 
-    # c "That would be a pleasure."
-    c ""
 
-# game/episode008.rpy:1814
+    c "榮幸之至。"
+
+
 translate traditional_chinese ep008_commander_2727332d:
 
-    # rah "Good, follow me."
-    rah ""
 
-# game/episode008.rpy:1816
+    rah "很好，跟我來。"
+
+
 translate traditional_chinese ep008_commander_c6946d78:
 
-    # "I followed Rahia through the corridors to an area where I hadn’t been before."
-    ""
 
-# game/episode008.rpy:1817
+    "我跟隨拉希婭穿過走廊來到從未踏足的區域。"
+
+
 translate traditional_chinese ep008_commander_5661246f:
 
-    # "The door opened to a large room, adorned with martial decorations."
-    ""
 
-# game/episode008.rpy:1819
+    "房門敞開，展示出布滿戰鬥裝飾的寬闊房間。"
+
+
 translate traditional_chinese ep008_commander_56dc8166:
 
-    # "Rahia talked while she poured us two drinks."
-    ""
 
-# game/episode008.rpy:1821
+    "拉希婭倒酒時說道："
+
+
 translate traditional_chinese ep008_commander_81e7bb89:
 
-    # rah "I’m going to be straightforward with you."
-    rah ""
 
-# game/episode008.rpy:1822
+    rah "我就直說了。"
+
+
 translate traditional_chinese ep008_commander_08f7cdf0:
 
-    # rah "You intrigue me, [p_name]."
-    rah ""
 
-# game/episode008.rpy:1823
+    rah "你讓我很感興趣，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_ba5000f1:
 
-    # rah "Back on Lanan P-10, you appeared to be just another hapless kid, way in over his head."
-    rah ""
 
-# game/episode008.rpy:1824
+    rah "在拉南P-10星時，你看着就像個不知所措的倒黴孩子。"
+
+
 translate traditional_chinese ep008_commander_e337390f:
 
-    # rah "But then you went on a mad quest through the galaxy to find our Queen."
-    rah ""
 
-# game/episode008.rpy:1826
+    rah "結果你竟爲尋找女王展開穿越星系的瘋狂旅程。"
+
+
 translate traditional_chinese ep008_commander_76af664c:
 
-    # rah "And I reckon the man who stands before me today is someone very different from the boy on Lanan."
-    rah ""
 
-# game/episode008.rpy:1827
+    rah "而且我確信現在站在我面前的男人，與拉南星那個男孩判若兩人。"
+
+
 translate traditional_chinese ep008_commander_652f6c7e:
 
-    # c "I’m not sure."
-    c ""
 
-# game/episode008.rpy:1828
+    c "我不確定。"
+
+
 translate traditional_chinese ep008_commander_8d8024b6:
 
-    # c "Why were you on Lanan anyway?"
-    c ""
 
-# game/episode008.rpy:1830
+    c "你當初爲什麼去拉南星？"
+
+
 translate traditional_chinese ep008_commander_cc68efcb:
 
-    # rah "Because it was foretold."
-    rah ""
 
-# game/episode008.rpy:1831
+    rah "因爲預言指示。"
+
+
 translate traditional_chinese ep008_commander_e3ab8f2b:
 
-    # c "Foretold?"
-    c ""
 
-# game/episode008.rpy:1832
+    c "預言？"
+
+
 translate traditional_chinese ep008_commander_d975c97d:
 
-    # rah "Our ancient writings predicted a major event on Lanan P-10."
-    rah ""
 
-# game/episode008.rpy:1833
+    rah "古老典籍預言過拉南P-10星將發生重大事件。"
+
+
 translate traditional_chinese ep008_commander_0d05b68d:
 
-    # rah "The writings were correct."
-    rah ""
 
-# game/episode008.rpy:1834
+    rah "典籍的預言是正確的。"
+
+
 translate traditional_chinese ep008_commander_cc23c98d:
 
-    # c "You acted on prophecy?"
-    c ""
 
-# game/episode008.rpy:1836
+    c "你是照着預言行動的嗎？"
+
+
 translate traditional_chinese ep008_commander_36620fe7:
 
-    # rah "Yes, we did.{w} You sound surprised?"
-    rah ""
 
-# game/episode008.rpy:1837
+    rah "是的。{w} 你聽起來很驚訝？"
+
+
 translate traditional_chinese ep008_commander_ec642fb7:
 
-    # c "It’s a little unexpected."
-    c ""
 
-# game/episode008.rpy:1838
+    c "有點出乎意料。"
+
+
 translate traditional_chinese ep008_commander_3810bf76:
 
-    # c "I thought you were raiders, or an invasion force."
-    c ""
 
-# game/episode008.rpy:1840
+    c "我以爲你們是掠奪者，或是入侵部隊。"
+
+
 translate traditional_chinese ep008_commander_be88f2cd:
 
-    # rah "Yes, I see why you’d think that."
-    rah ""
 
-# game/episode008.rpy:1841
+    rah "嗯，我理解你爲什麼那麼想。"
+
+
 translate traditional_chinese ep008_commander_3a8b894d:
 
-    # c "What did the prophecy tell you?"
-    c ""
 
-# game/episode008.rpy:1842
+    c "預言告訴了你什麼？"
+
+
 translate traditional_chinese ep008_commander_d2268308:
 
-    # rah "I can’t divulge that."
-    rah ""
 
-# game/episode008.rpy:1843
+    rah "我不能泄露這個。"
+
+
 translate traditional_chinese ep008_commander_8bad739c:
 
-    # c "Can’t, or won’t?"
-    c ""
 
-# game/episode008.rpy:1844
+    c "不能，還是不願？"
+
+
 translate traditional_chinese ep008_commander_706f48c3:
 
-    # rah "It is deemed forbidden knowledge by the priestesses."
-    rah ""
 
-# game/episode008.rpy:1845
+    rah "這對女祭司們來說是禁止的知識。"
+
+
 translate traditional_chinese ep008_commander_440f8ff8:
 
-    # c "I don’t think I’ve actually met one of your priestesses."
-    c ""
 
-# game/episode008.rpy:1847
+    c "我想我其實還沒見過你們的女祭司中的一位。"
+
+
 translate traditional_chinese ep008_commander_751a51cf:
 
-    # rah "Oh, but I’m sure you will."
-    rah ""
 
-# game/episode008.rpy:1848
+    rah "哦，但我肯定你會的。"
+
+
 translate traditional_chinese ep008_commander_afc23439:
 
-    # rah "Ever since the prophecies turned out to be true for once, Erylin has been insufferable."
-    rah ""
 
-# game/episode008.rpy:1849
+    rah "自從預言終於成真了一次，艾瑞琳就變得讓人忍無可忍了。"
+
+
 translate traditional_chinese ep008_commander_ef3c89d8:
 
-    # c "Erylin?"
-    c ""
 
-# game/episode008.rpy:1850
+    c "艾瑞琳？"
+
+
 translate traditional_chinese ep008_commander_dc5ce51c:
 
-    # rah "She’s the head priestess and one of the Queen’s advisers."
-    rah ""
 
-# game/episode008.rpy:1851
+    rah "她是首席女祭司，還是女王的顧問之一。"
+
+
 translate traditional_chinese ep008_commander_d4c4afee:
 
-    # rah "It used to be that the warrior caste was the most important, but things have changed."
-    rah ""
 
-# game/episode008.rpy:1852
+    rah "過去戰士團最重要，但情況已經變了。"
+
+
 translate traditional_chinese ep008_commander_cab78fa6:
 
-    # rah "People generally ignored the ravings of the priestesses, until Lanan P-10 changed everything."
-    rah ""
 
-# game/episode008.rpy:1853
+    rah "人們通常不理睬女祭司們的胡言亂語，直到拉南P-10星改變了一切。"
+
+
 translate traditional_chinese ep008_commander_50740666:
 
-    # rah "Normally there are a great many of them in the Citadel, sticking their noses in everything."
-    rah ""
 
-# game/episode008.rpy:1855
+    rah "通常城堡裏有好多女祭司，什麼事都要插一手。"
+
+
 translate traditional_chinese ep008_commander_9460a355:
 
-    # rah "I believe Erylin went on some vision quest in the jungle with her entourage and will return in a few days."
-    rah ""
 
-# game/episode008.rpy:1856
+    rah "我相信艾瑞琳帶着她的隨從去叢林做了些靈預追尋，幾天後就會回來。"
+
+
 translate traditional_chinese ep008_commander_bcfd147c:
 
-    # c "Right, I’m sure I’ll be delighted I can make her acquaintance."
-    c ""
 
-# game/episode008.rpy:1857
+    c "好吧，我相信我會很高興能認識她。"
+
+
 translate traditional_chinese ep008_commander_53104026:
 
-    # c "But when can I see Eva, your Queen?"
-    c ""
 
-# game/episode008.rpy:1859
+    c "但我什麼時候才能見到伊娃，你們的女王？"
+
+
 translate traditional_chinese ep008_commander_918c8e9c:
 
-    # rah "I’m afraid that’s also very much in the hands of Erylin."
-    rah ""
 
-# game/episode008.rpy:1860
+    rah "恐怕那也完全在艾瑞琳的掌控之中。"
+
+
 translate traditional_chinese ep008_commander_6403d89e:
 
-    # rah "She controls the Queen’s Guard now, instead of us."
-    rah ""
 
-# game/episode008.rpy:1861
+    rah "她現在控制着女王的守衛，而不是我們。"
+
+
 translate traditional_chinese ep008_commander_7c0c8a44:
 
-    # rah "You can formally petition our Queen, of course."
-    rah ""
 
-# game/episode008.rpy:1862
+    rah "你當然可以正式向我們女王請願。"
+
+
 translate traditional_chinese ep008_commander_543432d3:
 
-    # c "So you’ve told me."
-    c ""
 
-# game/episode008.rpy:1863
+    c "你這樣告訴過我。"
+
+
 translate traditional_chinese ep008_commander_4bd2dff2:
 
-    # rah "I’m sorry I can’t be of more help."
-    rah ""
 
-# game/episode008.rpy:1876
+    rah "抱歉我也幫不上什麼忙了。"
+
+
 translate traditional_chinese ep008_commander_b3809d51:
 
-    # rah "That wasn’t the reason I asked you to come to my quarters anyway."
-    rah ""
 
-# game/episode008.rpy:1877
+    rah "反正那也不是我叫你來我房間的原因。"
+
+
 translate traditional_chinese ep008_commander_75575fb5:
 
-    # rah "I know you have a warrior’s heart."
-    rah ""
 
-# game/episode008.rpy:1879
+    rah "我知道你骨子裡流着戰士的血。"
+
+
 translate traditional_chinese ep008_commander_1a3ca3c9:
 
-    # rah "A warrior’s heart is rare among the men we normally obtain."
-    rah ""
 
-# game/episode008.rpy:1880
+    rah "戰士之心在我們慣常'招來'的男人中可不多見。"
+
+
 translate traditional_chinese ep008_commander_c7c7edf3:
 
-    # c "Kidnap, you mean?"
-    c ""
 
-# game/episode008.rpy:1882
+    c "綁架，你是說？"
+
+
 translate traditional_chinese ep008_commander_b228804c:
 
-    # rah "It would be an honor to share my bed with you."
-    rah ""
 
-# game/episode008.rpy:1883
+    rah "能與你同牀是我的榮幸。"
+
+
 translate traditional_chinese ep008_commander_7e97a5b8:
 
-    # "I needed a minute to process what she was offering me, but when Rahia started to remove her armor, the confusion ended."
-    ""
 
-# game/episode008.rpy:1888
+    "我花了一分鐘才搞懂她的意思，可拉希婭一動手脫甲冑，我立馬就明白過來了。"
+
+
 translate traditional_chinese ep008_commander_1ac28307:
 
-    # c "I accept, of course."
-    c ""
 
-# game/episode008.rpy:1895
+    c "我當然接受。"
+
+
 translate traditional_chinese ep008_commander_ff9cfbe2:
 
-    # c "I’m sorry, but I must decline."
-    c ""
 
-# game/episode008.rpy:1897
+    c "抱歉，但我必須拒絕。"
+
+
 translate traditional_chinese ep008_commander_50cdb958:
 
-    # rah "Suit yourself."
-    rah ""
 
-# game/episode008.rpy:1898
+    rah "隨你便。"
+
+
 translate traditional_chinese ep008_commander_89a6b2c9:
 
-    # "I’m sure she didn’t like my answer, but I felt relieved when I was on my way back again to my quarters."
-    ""
 
-# game/episode008.rpy:1901
+    "我知道她不滿意我的回答，但重新踏回住處路上，我反倒鬆了口氣。"
+
+
 translate traditional_chinese ep008_commander_4a2a657a:
 
-    # c "Just fuck off, will you?"
-    c ""
 
-# game/episode008.rpy:1903
+    c "滾開，好嗎？"
+
+
 translate traditional_chinese ep008_commander_15003cd3:
 
-    # rah "I should have you publicly flogged, you know that?!"
-    rah ""
 
-# game/episode008.rpy:1904
+    rah "我可以叫人當衆抽你鞭子，知道嗎？！"
+
+
 translate traditional_chinese ep008_commander_293686e4:
 
-    # c "And you’re quick to show your true colors."
-    c ""
 
-# game/episode008.rpy:1905
+    c "而且你一下子就暴露真面目了。"
+
+
 translate traditional_chinese ep008_commander_13f5302a:
 
-    # c "I repeat, fuck off."
-    c ""
 
-# game/episode008.rpy:1907
+    c "我再重複一遍，滾開。"
+
+
 translate traditional_chinese ep008_commander_bd596cd7:
 
-    # "I abandoned the commander as she slammed her fist down on the table in anger."
-    ""
 
-# game/episode008.rpy:1910
+    "趁指揮官氣得用拳頭砸桌子，我腳底抹油溜了。"
+
+
 translate traditional_chinese ep008_commander_0dc59c1a:
 
-    # c "I’m still getting my bearings around here."
-    c ""
 
-# game/episode008.rpy:1911
+    c "我對這兒的環境還在熟悉中。"
+
+
 translate traditional_chinese ep008_commander_44157d95:
 
-    # c "And I’m very tired, so I hope you don’t mind if I decline."
-    c ""
 
-# game/episode008.rpy:1913
+    c "而且我累得很，所以別介意我拒絕吧。"
+
+
 translate traditional_chinese ep008_commander_da234967:
 
-    # rah "Not at all, maybe another time."
-    rah ""
 
-# game/episode008.rpy:1927
+    rah "沒事，也許換個時間吧。"
+
+
 translate traditional_chinese ep008_commander_sex_58453694:
 
-    # "The woman had shed her armor in record time, a feat that would probably be impossible with true Medieval armor."
-    ""
 
-# game/episode008.rpy:1929
+    "這女人眨眼間就卸了甲，這要是真的中世紀盔甲，怕是辦不到。"
+
+
 translate traditional_chinese ep008_commander_sex_efe7703e:
 
-    # "I didn't really have time to ponder the issue, because I was too busy looking at her muscular body."
-    ""
 
-# game/episode008.rpy:1930
+    "我根本沒空細琢磨這事，眼睛只顧盯着她那身腱子肉。"
+
+
 translate traditional_chinese ep008_commander_sex_c480ae23:
 
-    # "Her abdomen almost seemed to be made out of chiseled granite, powerful muscles rippling underneath her skin."
-    ""
 
-# game/episode008.rpy:1931
+    "她那肚子硬得跟鑿出來的花崗巖似的，塊塊肌肉在皮底下直顫。"
+
+
 translate traditional_chinese ep008_commander_sex_1525bb7a:
 
-    # "Rahia's large breasts had the same statuesque quality."
-    ""
 
-# game/episode008.rpy:1932
+    "拉希婭那對大奶子也一樣帶着雕像般的質感。"
+
+
 translate traditional_chinese ep008_commander_sex_4a5773d8:
 
-    # "She knelt on the bed, showing off her powerful thighs and looked at me expectingly."
-    ""
 
-# game/episode008.rpy:1933
+    "她往牀上一跪，顯擺着粗壯大腿，滿眼期待地看着我。"
+
+
 translate traditional_chinese ep008_commander_sex_238ec7fa:
 
-    # rah "How will you have me?"
-    rah ""
 
-# game/episode008.rpy:1935
+    rah "你想怎麼要我？"
+
+
 translate traditional_chinese ep008_commander_sex_2eff3847:
 
-    # "The woman crept on the bed and unashamedly showed her ass to me."
-    ""
 
-# game/episode008.rpy:1936
+    "那個女人爬上牀，毫無羞恥地把她的屁股展示給我看。"
+
+
 translate traditional_chinese ep008_commander_sex_ad158ea4:
 
-    # "Every fiber in her being exuded power and control."
-    ""
 
-# game/episode008.rpy:1937
+    "她身體的每一根纖維都散發着力量和支配。"
+
+
 translate traditional_chinese ep008_commander_sex_40ca578c:
 
-    # "I longed to make her mine and walked around the bed to face her."
-    ""
 
-# game/episode008.rpy:1939
+    "我渴望佔有她，於是走到牀的另一邊面對她。"
+
+
 translate traditional_chinese ep008_commander_sex_1bf1bf0c:
 
-    # rah "Tell me."
-    rah ""
 
-# game/episode008.rpy:1940
+    rah "告訴我。"
+
+
 translate traditional_chinese ep008_commander_sex_92a15f38:
 
-    # c "I'm going to make you crazy with my tongue first."
-    c ""
 
-# game/episode008.rpy:1941
+    c "我先要用我的舌頭讓你發瘋。"
+
+
 translate traditional_chinese ep008_commander_sex_e5e4ada2:
 
-    # c "Make you lose all control, until you're ready to get fucked."
-    c ""
 
-# game/episode008.rpy:1942
+    c "讓你徹底失去所有控制，直到你準備好被幹。"
+
+
 translate traditional_chinese ep008_commander_sex_aa9244a8:
 
-    # rah "Such bravado."
-    rah ""
 
-# game/episode008.rpy:1943
+    rah "真是大言不慚。"
+
+
 translate traditional_chinese ep008_commander_sex_79080a67:
 
-    # rah "I’d like to see you make good on that claim."
-    rah ""
 
-# game/episode008.rpy:1945
+    rah "我倒要看看你怎麼兌現那個說法。"
+
+
 translate traditional_chinese ep008_commander_sex_91e3fc37:
 
-    # "I moved behind Rahia, grabbed her by her sides and brought her cunt to my mouth."
-    ""
 
-# game/episode008.rpy:1946
+    "我移到拉希婭身後，抓住她兩側，把她的陰戶帶到我的嘴邊。"
+
+
 translate traditional_chinese ep008_commander_sex_5eb3a37e:
 
-    # "My hands on her well-muscled buttocks kept her in place as my tongue pressed against her pussy."
-    ""
 
-# game/episode008.rpy:1947
+    "我的手放在她肌肉結實的屁股上固定住她，同時我的舌頭抵住她的陰部。"
+
+
 translate traditional_chinese ep008_commander_sex_0a85de06:
 
-    # "I parted her labia and licked the entire length of her gash slowly."
-    ""
 
-# game/episode008.rpy:1948
+    "我分開她的陰脣，慢慢舔舐她整個裂縫。"
+
+
 translate traditional_chinese ep008_commander_sex_780f50d2:
 
-    # "When I reached her taint I moved back towards her clitoris."
-    ""
 
-# game/episode008.rpy:1949
+    "當我到達她的會陰時，我移回她的陰蒂。"
+
+
 translate traditional_chinese ep008_commander_sex_ef76d8fb:
 
-    # "Rahia started rocking back and forth and made encouraging noises."
-    ""
 
-# game/episode008.rpy:1951
+    "拉希婭開始前後搖晃，發出鼓勵的聲音。"
+
+
 translate traditional_chinese ep008_commander_sex_bfd1ce77:
 
-    # rah "Is that all you’ve got?"
-    rah ""
 
-# game/episode008.rpy:1952
+    rah "你就這點本事？"
+
+
 translate traditional_chinese ep008_commander_sex_136841ee:
 
-    # "Despite her dismissive words, I noticed the tenseness that edged them."
-    ""
 
-# game/episode008.rpy:1953
+    "儘管她語氣輕蔑，但我注意到其中夾雜的緊張。"
+
+
 translate traditional_chinese ep008_commander_sex_fa00b47e:
 
-    # "I kept going at her slit, but picked up the pace."
-    ""
 
-# game/episode008.rpy:1954
+    "我繼續舔弄她的裂縫，但加快了速度。"
+
+
 translate traditional_chinese ep008_commander_sex_e189bd13:
 
-    # "My tongue moved rapidly from side to side, swirling around her clit."
-    ""
 
-# game/episode008.rpy:1955
+    "我的舌頭迅速左右移動，圍繞着她的陰蒂打轉。"
+
+
 translate traditional_chinese ep008_commander_sex_fd17d8c4:
 
-    # "When I tasted the first droplets of her juices, I knew I was on the right path."
-    ""
 
-# game/episode008.rpy:1956
+    "當我嘗到她最初的汁液時，我知道我做對了。"
+
+
 translate traditional_chinese ep008_commander_sex_b6df5432:
 
-    # "Rahia didn’t make any derisive comments for a while, but breathed heavily instead."
-    ""
 
-# game/episode008.rpy:1961
+    "拉希婭有一會兒沒再說嘲諷的話，而是轉爲沉重地呼吸。"
+
+
 translate traditional_chinese ep008_commander_sex_21f455ca:
 
-    # "I decided to surprise her."
-    ""
 
-# game/episode008.rpy:1963
+    "我決定給她一個驚喜。"
+
+
 translate traditional_chinese ep008_commander_sex_7c0ed17a:
 
-    # "In one motion, starting from her swollen clit, I made my way upwards."
-    ""
 
-# game/episode008.rpy:1964
+    "在一個動作中，從她腫脹的陰蒂開始，我向上移動。"
+
+
 translate traditional_chinese ep008_commander_sex_2812b78d:
 
-    # "I surprised her by pressing the tip of my tongue inside her anus and stimulating her there as well."
-    ""
 
-# game/episode008.rpy:1965
+    "我把舌尖按進她的肛門並在那裡刺激她，這讓她喫了一驚。"
+
+
 translate traditional_chinese ep008_commander_sex_89b436c6:
 
-    # rah "Oh fuck, what are you doing?!"
-    rah ""
 
-# game/episode008.rpy:1966
+    rah "哦，操，你在做什麼？！"
+
+
 translate traditional_chinese ep008_commander_sex_be7f6d3d:
 
-    # rah "Oooooh, you dirty boy!"
-    rah ""
 
-# game/episode008.rpy:1967
+    rah "喔喔喔，你這個髒小子！"
+
+
 translate traditional_chinese ep008_commander_sex_e0af5d58:
 
-    # "When my tongue came back to stimulate her clitoris again, her slit was coated in her juices."
-    ""
 
-# game/episode008.rpy:1968
+    "當我的舌頭回來再次刺激她的陰蒂時，她的陰戶已裹滿她的汁液。"
+
+
 translate traditional_chinese ep008_commander_sex_da375edc:
 
-    # c "I think you’re ready for my cock now, aren’t you?"
-    c ""
 
-# game/episode008.rpy:1970
+    c "我想你現在準備好接受我的雞巴了，不是嗎？"
+
+
 translate traditional_chinese ep008_commander_sex_da375edc_1:
 
-    # c "I think you’re ready for my cock now, aren’t you?"
-    c ""
 
-# game/episode008.rpy:1973
+    c "我想你現在準備好接受我的雞巴了，不是嗎？"
+
+
 translate traditional_chinese ep008_commander_sex_00ac168f:
 
-    # "Rahia was too proud to say anything, but I wanted an answer."
-    ""
 
-# game/episode008.rpy:1974
+    "拉希婭太驕傲了不肯說話，但我要一個答案。"
+
+
 translate traditional_chinese ep008_commander_sex_222f9eb0:
 
-    # c "Or we could just stop here and part ways."
-    c ""
 
-# game/episode008.rpy:1975
+    c "或者我們就此停止然後離開彼此。"
+
+
 translate traditional_chinese ep008_commander_sex_650bdbfd:
 
-    # rah "We both know you aren’t going to do that."
-    rah ""
 
-# game/episode008.rpy:1976
+    rah "我們都知道你不會那樣做的。"
+
+
 translate traditional_chinese ep008_commander_sex_7307c9e6:
 
-    # c "I might, just to make a point."
-    c ""
 
-# game/episode008.rpy:1977
+    c "我可能會那樣做，就爲了表明我自己。"
+
+
 translate traditional_chinese ep008_commander_sex_45dfc88d:
 
-    # c "I can be very petty, you know."
-    c ""
 
-# game/episode008.rpy:1978
+    c "你知道，我可能會很小氣的。"
+
+
 translate traditional_chinese ep008_commander_sex_736e0396:
 
-    # c "Just answer the question."
-    c ""
 
-# game/episode008.rpy:1979
+    c "回答問題。"
+
+
 translate traditional_chinese ep008_commander_sex_16d98d61:
 
-    # c "Are you ready to take my dick?"
-    c ""
 
-# game/episode008.rpy:1980
+    c "你準備好接受我的雞巴了嗎？"
+
+
 translate traditional_chinese ep008_commander_sex_8717eadc:
 
-    # rah "Yes, yes I am."
-    rah ""
 
-# game/episode008.rpy:1981
+    rah "是的，是的我準備好了。"
+
+
 translate traditional_chinese ep008_commander_sex_366f87df:
 
-    # rah "Please give me your thick hard cock."
-    rah ""
 
-# game/episode008.rpy:1983
+    rah "請把你的粗硬雞巴給我。"
+
+
 translate traditional_chinese ep008_commander_sex_5ca60e97:
 
-    # "I stood up behind her and pulled her towards me."
-    ""
 
-# game/episode008.rpy:1984
+    "我在她身後站起來，把她拉向我。"
+
+
 translate traditional_chinese ep008_commander_sex_1c31f1d8:
 
-    # "This wasn’t the time to be subtle, so I pushed the tip against Rahia’s opening and entered her."
-    ""
 
-# game/episode008.rpy:1985
+    "這不是委婉的時候了，所以我把龜頭抵住拉希婭的洞口插了進去。"
+
+
 translate traditional_chinese ep008_commander_sex_0de51d9a:
 
-    # "The gasp she let out satisfied me more than I dared to admit."
-    ""
 
-# game/episode008.rpy:1987
+    "她發出的喘息聲讓我滿足得不敢承認。"
+
+
 translate traditional_chinese ep008_commander_sex_f4611816:
 
-    # "I didn’t give her time to catch her breath and started to fuck her without mercy."
-    ""
 
-# game/episode008.rpy:1988
+    "我沒有給她喘息的機會，就開始無情地操她。"
+
+
 translate traditional_chinese ep008_commander_sex_324ac6aa:
 
-    # "At first she endured it silently, but when my cock hit her deeper inside her vagina with each thrust, low moans erupted from the muscular woman."
-    ""
 
-# game/episode008.rpy:1990
+    "起初她默默忍耐，但當我的雞巴每次插入都更深地擊中她的陰道深處時，這位肌肉女的呻吟聲爆發了出來。"
+
+
 translate traditional_chinese ep008_commander_sex_01b7f7ab:
 
-    # rah "Harder! Fuck me harder with that large cock!"
-    rah ""
 
-# game/episode008.rpy:1991
+    rah "用力點！用那根大雞巴更狠地操我！"
+
+
 translate traditional_chinese ep008_commander_sex_d9feacbf:
 
-    # "Her muscles rippled beneath her skin while she took my dick without reluctance."
-    ""
 
-# game/episode008.rpy:1992
+    "她毫不猶豫地接受我的雞巴時，皮膚下的肌肉起伏着。"
+
+
 translate traditional_chinese ep008_commander_sex_b89525c5:
 
-    # rah "Fuck me like a slut, [p_name]."
-    rah ""
 
-# game/episode008.rpy:1993
+    rah "像個蕩婦一樣操我，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_sex_ccd5017e:
 
-    # c "Show me what kind of slut you are, Rahia."
-    c ""
 
-# game/episode008.rpy:1995
+    c "展示給我看你是什麼樣子的蕩婦，拉希婭。"
+
+
 translate traditional_chinese ep008_commander_sex_2ab9a420:
 
-    # "I slid on the bed and pulled Rahia on top of me."
-    ""
 
-# game/episode008.rpy:1996
+    "我在牀上滑過去，把拉希婭拉到我身上。"
+
+
 translate traditional_chinese ep008_commander_sex_a4332f37:
 
-    # "She squatted on top of me and guided my wet cock inside her fuckhole."
-    ""
 
-# game/episode008.rpy:1998
+    "她蹲在我身上，引導我溼漉漉的雞巴進入她的騷穴。"
+
+
 translate traditional_chinese ep008_commander_sex_dea43099:
 
-    # "Straining the muscles of her legs and thighs, she rode me reverse cowgirl."
-    ""
 
-# game/episode008.rpy:1999
+    "她繃緊腿和大腿的肌肉，反着騎在我身上。"
+
+
 translate traditional_chinese ep008_commander_sex_9250b225:
 
-    # rah "I can feel your cock so deep inside me, [p_name]!"
-    rah ""
 
-# game/episode008.rpy:2001
+    rah "我能感覺到你的雞巴在我裡面插得這麼深，[p_name]！"
+
+
 translate traditional_chinese ep008_commander_sex_5274d2e3:
 
-    # "Although the position we were in allowed her more control, I managed to take some of it from her by holding her middle and attacking her cunt with vicious short thrusts."
-    ""
 
-# game/episode008.rpy:2003
+    "雖然我們的姿勢讓她更有控制權，但我設法抱着她的腰，用兇狠的短插動來攻擊她的屄，奪回了一些掌控。"
+
+
 translate traditional_chinese ep008_commander_sex_5d7ddac3:
 
-    # rah "Make my pussy yours, [p_name]!"
-    rah ""
 
-# game/episode008.rpy:2004
+    rah "讓我的屄成爲你的，[p_name]！"
+
+
 translate traditional_chinese ep008_commander_sex_901b2413:
 
-    # rah "Harder! Harder! Oooh!"
-    rah ""
 
-# game/episode008.rpy:2006
+    rah "用力！用力！嗷！"
+
+
 translate traditional_chinese ep008_commander_sex_ad3d3529:
 
-    # "The door had opened, something I hadn't noticed until after two Acarhyn stood before the bed I was fucking Rahia on."
-    ""
 
-# game/episode008.rpy:2011
+    "門開了，我一直沒注意到，直到兩個阿卡海茵人站在我操拉希婭的牀邊。"
+
+
 translate traditional_chinese ep008_commander_sex_e1707004:
 
-    # woman "You summoned us, Commander."
-    woman ""
 
-# game/episode008.rpy:2012
+    woman "你叫我們，指揮官。"
+
+
 translate traditional_chinese ep008_commander_sex_d7fda5ec:
 
-    # woman2 "Is he treating you well, Commander?"
-    woman2 ""
 
-# game/episode008.rpy:2013
+    woman2 "他伺候得你好嗎，指揮官？"
+
+
 translate traditional_chinese ep008_commander_sex_3160da69:
 
-    # rah "Oh fuck yes. Come join us."
-    rah ""
 
-# game/episode008.rpy:2014
+    rah "操，是的。來加入我們吧。"
+
+
 translate traditional_chinese ep008_commander_sex_6519a619:
 
-    # woman "Certainly, Commander."
-    woman ""
 
-# game/episode008.rpy:2015
+    woman "當然，指揮官。"
+
+
 translate traditional_chinese ep008_commander_sex_e965c975:
 
-    # "I was too busy fucking Rahia to understand the implications of what just happened."
-    ""
 
-# game/episode008.rpy:2017
+    "我正忙着操拉希婭，無暇理解剛才發生的事情的含義。"
+
+
 translate traditional_chinese ep008_commander_sex_a4c66903:
 
-    # "Only when the two women undressed themselves did I realize I’d have to pleasure three women all of a sudden."
-    ""
 
-# game/episode008.rpy:2018
+    "只有當那兩個女人脫光衣服時，我才突然意識到我得取悅三個女人了。"
+
+
 translate traditional_chinese ep008_commander_sex_a89ae288:
 
-    # "One of them looked vaguely familiar."
-    ""
 
-# game/episode008.rpy:2019
+    "其中一個看起來有點眼熟。"
+
+
 translate traditional_chinese ep008_commander_sex_0e95a643:
 
-    # "When she turned towards us I knew her as one of the guards who took us prisoner back in the jungle."
-    ""
 
-# game/episode008.rpy:2020
+    "當她轉向我們時，我認出她是之前在叢林中抓住我們的守衛之一。"
+
+
 translate traditional_chinese ep008_commander_sex_d3c1ee76:
 
-    # "But then it hit me, she was the one that had nearly killed Kit back on Lanan!"
-    ""
 
-# game/episode008.rpy:2022
+    "但接着我意識到，她就是在拉南星上差點殺了基特的那個人！"
+
+
 translate traditional_chinese ep008_commander_sex_ec4a52fb:
 
-    # woman2 "He sure has a nice cock, doesn’t he?"
-    woman2 ""
 
-# game/episode008.rpy:2023
+    woman2 "他確實有個好雞巴，不是嗎？"
+
+
 translate traditional_chinese ep008_commander_sex_2be3afa6:
 
-    # woman "Yes, I can’t wait to taste it."
-    woman ""
 
-# game/episode008.rpy:2024
+    woman "是的，我等不及要嘗嘗了。"
+
+
 translate traditional_chinese ep008_commander_sex_83f95c23:
 
-    # rah "Frisa, Athryn, join us."
-    rah ""
 
-# game/episode008.rpy:2032
+    rah "弗瑞薩，阿思琳，加入我們。"
+
+
 translate traditional_chinese ep008_commander_sex_d1918d63:
 
-    # "Having abandoned the dildo, both women approached the bed."
-    ""
 
-# game/episode008.rpy:2033
+    "扔掉了假陽具後，兩個女人都走向了牀。"
+
+
 translate traditional_chinese ep008_commander_sex_5244c8a6:
 
-    # "Frisa walked a little unsteady and her eyes still burned with lust."
-    ""
 
-# game/episode008.rpy:2034
+    "弗瑞薩走路有點不穩，她的眼睛還燃燒着情慾。"
+
+
 translate traditional_chinese ep008_commander_sex_b113834a:
 
-    # "Athryn wore a provocative smile and radiated a sexual hunger equaled by the older woman flanking her."
-    ""
 
-# game/episode008.rpy:2038
+    "阿思琳臉上掛着挑逗的微笑，散發着一種和她旁邊那位年長女人一樣的性饑渴。"
+
+
 translate traditional_chinese ep008_commander_sex_b4a83fc2:
 
-    # "It took me everything to not throw Rahia off the bed and attack the fair skinned girl."
-    ""
 
-# game/episode008.rpy:2039
+    "我花費了很大力氣壓制自己，才忍住沒把拉希婭推下牀去並攻擊那個皮膚白皙的女孩。"
+
+
 translate traditional_chinese ep008_commander_sex_10eeebdc:
 
-    # "Instead I thought of something else."
-    ""
 
-# game/episode008.rpy:2040
+    "相反，我想到了其他的東西。"
+
+
 translate traditional_chinese ep008_commander_sex_12964b91:
 
-    # "If Athryn was so eager to get fucked, I’d show her..."
-    ""
 
-# game/episode008.rpy:2048
+    "如果阿思琳這麼急着想被操，我會讓她見識..."
+
+
 translate traditional_chinese ep008_commander_group_sex_30393f0c:
 
-    # "I made Athryn lie down on the bed and pushed open her legs."
-    ""
 
-# game/episode008.rpy:2049
+    "我讓阿思琳躺在牀上，推開了她的腿。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5ae42303:
 
-    # rah "Athryn, you’re going to enjoy this."
-    rah ""
 
-# game/episode008.rpy:2050
+    rah "阿思琳，你會享受這個的。"
+
+
 translate traditional_chinese ep008_commander_group_sex_ecc2d148:
 
-    # woman2 "I’m sure I will."
-    woman2 ""
 
-# game/episode008.rpy:2055
+    woman2 "我肯定我會的。"
+
+
 translate traditional_chinese ep008_commander_group_sex_32b274e5:
 
-    # c "Don’t be too sure of that."
-    c ""
 
-# game/episode008.rpy:2057
+    c "別那麼肯定。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a04d30cc:
 
-    # woman2 "What?!"
-    woman2 ""
 
-# game/episode008.rpy:2059
+    woman2 "什麼？！"
+
+
 translate traditional_chinese ep008_commander_group_sex_8f4440ab:
 
-    # "I didn’t really think about what I did next and quickly put my hands around her throat and squeezed."
-    ""
 
-# game/episode008.rpy:2060
+    "我沒太想接下來要幹什麼，只是飛快地把雙手掐上她的喉嚨，緊緊攥住。"
+
+
 translate traditional_chinese ep008_commander_group_sex_c1a5fd30:
 
-    # "Frisa gasped and started to come to the girl’s defence, but Rahia held her back."
-    ""
 
-# game/episode008.rpy:2061
+    "弗瑞薩倒抽一口氣，正要衝上去護住那女孩，但拉希婭把她拉住了。"
+
+
 translate traditional_chinese ep008_commander_group_sex_207f7ebf:
 
-    # c "You fucking tried to kill my friend!"
-    c ""
 
-# game/episode008.rpy:2063
+    c "你他媽想殺我朋友！"
+
+
 translate traditional_chinese ep008_commander_group_sex_f5d73c67:
 
-    # "Athryn clawed at my arms in a futile attempt to pry my hands from her throat."
-    ""
 
-# game/episode008.rpy:2064
+    "阿思琳徒勞地抓撓我的手臂，想掰開我掐住她喉嚨的手。"
+
+
 translate traditional_chinese ep008_commander_group_sex_204fe34c:
 
-    # "The other two women could have killed me by now, defending Athryn, but they just looked at us both."
-    ""
 
-# game/episode008.rpy:2065
+    "另外那兩個女人要是護着阿思琳，早該弄死我了，可她們就眼睜睜看着我們倆。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7ad7a010:
 
-    # "Rahia wore a curious expression."
-    ""
 
-# game/episode008.rpy:2067
+    "拉希婭一臉好奇的表情。"
+
+
 translate traditional_chinese ep008_commander_group_sex_ae1f2410:
 
-    # c "You ran a sword through my friend, just because he tried to run after my sister!"
-    c ""
 
-# game/episode008.rpy:2069
+    c "你拿劍捅穿了我朋友，就因爲他想追回我妹妹！"
+
+
 translate traditional_chinese ep008_commander_group_sex_f9e02e8e:
 
-    # c "You ran a sword through my friend, just because he tried to run after Eva!"
-    c ""
 
-# game/episode008.rpy:2071
+    c "你拿劍捅穿了我朋友，就因爲他想追回伊娃！"
+
+
 translate traditional_chinese ep008_commander_group_sex_ff87ee0d:
 
-    # woman2 "I...{w} I..."
-    woman2 ""
 
-# game/episode008.rpy:2072
+    woman2 "我...{w}我..."
+
+
 translate traditional_chinese ep008_commander_group_sex_4d553235:
 
-    # "Athryn was struggling for air and thrashing her legs."
-    ""
 
-# game/episode008.rpy:2074
+    "阿思琳拼命掙扎着喘氣，雙腿亂踢亂蹬。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a14f512d:
 
-    # rah "I think you owe [p_name] an apology, Athryn."
-    rah ""
 
-# game/episode008.rpy:2075
+    rah "我想你該向[p_name]道歉，阿思琳。"
+
+
 translate traditional_chinese ep008_commander_group_sex_586bc7ea:
 
-    # c "You owe Kit an apology."
-    c ""
 
-# game/episode008.rpy:2077
+    c "你該向基特道歉。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5eeec4e5:
 
-    # woman2 "I...{w} I’m...{w} s...{w} sorry!"
-    woman2 ""
 
-# game/episode008.rpy:2078
+    woman2 "我...{w}我...{w}對...{w}不起！"
+
+
 translate traditional_chinese ep008_commander_group_sex_4227c9ae:
 
-    # "I could tell the girl was nearly losing consciousness and released my grip on hear throat."
-    ""
 
-# game/episode008.rpy:2079
+    "我能看出那姑娘快撐不住了，這才鬆開掐着她喉嚨的手。"
+
+
 translate traditional_chinese ep008_commander_group_sex_4f0610b0:
 
-    # "She violently gasped for air, regaining herself with fits and starts."
-    ""
 
-# game/episode008.rpy:2081
+    "她猛吸了一大口氣，斷斷續續地緩過勁來。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b12d1d4c:
 
-    # "When she was able to speak again, she looked me directly in the eyes."
-    ""
 
-# game/episode008.rpy:2082
+    "等她能出聲了，她直勾勾盯着我眼睛。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e31f03e8:
 
-    # woman2 "I’m truly very sorry for what happened."
-    woman2 ""
 
-# game/episode008.rpy:2083
+    woman2 "我對那事真的非常抱歉。"
+
+
 translate traditional_chinese ep008_commander_group_sex_2aa1df3b:
 
-    # "Her voice was shaky and hoarse, but the sentiment she managed to convey seemed sincere."
-    ""
 
-# game/episode008.rpy:2084
+    "她聲音發抖嘶啞，但那股子真心實意算是傳出來了。"
+
+
 translate traditional_chinese ep008_commander_group_sex_70bee6de:
 
-    # woman2 "Please use me in any way you deem fit."
-    woman2 ""
 
-# game/episode008.rpy:2086
+    woman2 "請隨便怎麼用我都行。"
+
+
 translate traditional_chinese ep008_commander_group_sex_befb0938:
 
-    # rah "Show her what you’re made of, [p_name]."
-    rah ""
 
-# game/episode008.rpy:2087
+    rah "讓她見識下你的厲害，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_group_sex_44ad1659:
 
-    # "Somehow the violence had riled up the women even more."
-    ""
 
-# game/episode008.rpy:2089
+    "不知爲何暴力反而讓女人們更加亢奮。"
+
+
 translate traditional_chinese ep008_commander_group_sex_0542fef9:
 
-    # "It was unfortunate the women outnumbered me and were skilled in martial combat, otherwise I’d made Athryn pay for what she did right then and there."
-    ""
 
-# game/episode008.rpy:2090
+    "可惜她們人數佔優又精通格鬥，否則我當場就要阿思琳付出代價。"
+
+
 translate traditional_chinese ep008_commander_group_sex_6fa49be3:
 
-    # "Instead, I focused my aggression and resolved to make her pussy pay the price for what she’d done."
-    ""
 
-# game/episode008.rpy:2092
+    "於是我將怒火集中在蜜穴上，決心讓她用這裡償還罪孽。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e7646b47:
 
-    # "I forced one leg towards her body and held her arms downward."
-    ""
 
-# game/episode008.rpy:2094
+    "我強行將她的腿壓向身體，雙臂往下死死按住。"
+
+
 translate traditional_chinese ep008_commander_group_sex_02decf11:
 
-    # "Pinning her, I slid my cock inside her tight slit."
-    ""
 
-# game/episode008.rpy:2095
+    "制住她的瞬間，肉棒擠進緊窄縫隙。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e408156e:
 
-    # woman2 "Oh fuck!{w} Fuck!{w} He’s so big!"
-    woman2 ""
 
-# game/episode008.rpy:2097
+    woman2 "噢操！{w} 操！{w} 他好大！"
+
+
 translate traditional_chinese ep008_commander_group_sex_cf62f019:
 
-    # "Frisa crouched beside the girl’s head and kissed her flushed cheeks."
-    ""
 
-# game/episode008.rpy:2098
+    "弗瑞薩蹲在女孩頭側，親吻她泛紅的臉頰。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b5e50233:
 
-    # woman "You can take him, just relax."
-    woman ""
 
-# game/episode008.rpy:2099
+    woman "你承受得住他，放鬆些。"
+
+
 translate traditional_chinese ep008_commander_group_sex_4db9fdb7:
 
-    # woman "You’re nice and wet, just enjoy his thick hard cock inside you."
-    woman ""
 
-# game/episode008.rpy:2100
+    woman "你下面又溼又滑，儘管享受這根粗硬肉棒。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9aa589a0:
 
-    # woman2 "I am!{w} Oh!{w} He feels so good inside of me."
-    woman2 ""
 
-# game/episode008.rpy:2101
+    woman2 "嗯！{w} 噢！{w} 他插得好舒服..."
+
+
 translate traditional_chinese ep008_commander_group_sex_f5ca3029:
 
-    # "Rahia was smiling and fingering her cunt as she watched me fuck Athryn."
-    ""
 
-# game/episode008.rpy:2102
+    "拉希婭邊看我操阿思琳，邊微笑着摳弄自己下身。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7bf4cabe:
 
-    # rah "Don’t hold back, [p_name], she’s dripping wet and eager."
-    rah ""
 
-# game/episode008.rpy:2103
+    rah "別憋着，[p_name]，她下面溼透了正饞着呢。"
+
+
 translate traditional_chinese ep008_commander_group_sex_af527c32:
 
-    # "I decided to follow her advice and buried my cock deep inside the pale girl’s cunt."
-    ""
 
-# game/episode008.rpy:2104
+    "我採納建議，將肉棒深深埋進蒼白少女的肉縫。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5cc10d3f:
 
-    # "She rolled her eyes backwards and for an instant I was afraid she might lose consciousness."
-    ""
 
-# game/episode008.rpy:2106
+    "她猛地翻起白眼，我差點以爲她要昏過去。"
+
+
 translate traditional_chinese ep008_commander_group_sex_30320a93:
 
-    # "Instead she moaned deeply and released a flood of her own juices."
-    ""
 
-# game/episode008.rpy:2107
+    "她卻發出深長呻吟，花徑裏湧出大股蜜液。"
+
+
 translate traditional_chinese ep008_commander_group_sex_8f7d94a1:
 
-    # woman2 "F-f-fuck!"
-    woman2 ""
 
-# game/episode008.rpy:2108
+    woman2 "操操操！"
+
+
 translate traditional_chinese ep008_commander_group_sex_e7bb7db3:
 
-    # "Still holding her down, I fucked her with abandon."
-    ""
 
-# game/episode008.rpy:2109
+    "繼續壓制着她，我毫無節制地狂抽猛插。"
+
+
 translate traditional_chinese ep008_commander_group_sex_4607574c:
 
-    # "Her ass lifted from the bed with each thrust and her small breasts bounced violently."
-    ""
 
-# game/episode008.rpy:2110
+    "每次撞擊都讓她屁股懸離牀鋪，嬌小乳房劇烈晃動。"
+
+
 translate traditional_chinese ep008_commander_group_sex_96296975:
 
-    # woman2 "Don’t stop, don’t stop!"
-    woman2 ""
 
-# game/episode008.rpy:2111
+    woman2 "別停，千萬別停！"
+
+
 translate traditional_chinese ep008_commander_group_sex_f3375280:
 
-    # "Her nails dug into one of my arms as she took my cock deep inside her tight cunt."
-    ""
 
-# game/episode008.rpy:2113
+    "當她將粗壯肉棒吞入緊緻小穴時，指甲深深摳進我手臂。"
+
+
 translate traditional_chinese ep008_commander_group_sex_bb1c4fe7:
 
-    # "Rahia was fingering both her pussy and asshole, her fingers coming back drenched wet with her pussy juices."
-    ""
 
-# game/episode008.rpy:2114
+    "拉希婭同時摳弄着穴口和後庭，抽出的手指沾滿亮晶晶的淫水。"
+
+
 translate traditional_chinese ep008_commander_group_sex_fe06d10c:
 
-    # rah "That’s it, [p_name]."
-    rah ""
 
-# game/episode008.rpy:2115
+    rah "對對，就這樣幹她，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b5db13bb:
 
-    # rah "Do you like what he’s doing to you, Athryn?"
-    rah ""
 
-# game/episode008.rpy:2117
+    rah "喜歡他這麼擺布你嗎，阿思琳？"
+
+
 translate traditional_chinese ep008_commander_group_sex_bde7ed3c:
 
-    # woman2 "I love it!{w} I love it!"
-    woman2 ""
 
-# game/episode008.rpy:2118
+    woman2 "我愛死了！{w} 我愛死了！"
+
+
 translate traditional_chinese ep008_commander_group_sex_6a4d269d:
 
-    # rah "Why don’t you fuck her like the slut she truly is?"
-    rah ""
 
-# game/episode008.rpy:2119
+    rah "你爲什麼不操她，就像她是個婊子那樣？"
+
+
 translate traditional_chinese ep008_commander_group_sex_f7b504e9:
 
-    # woman "Yes, fuck her like a little bitch!"
-    woman ""
 
-# game/episode008.rpy:2120
+    woman "是的，像個小母狗一樣操她！"
+
+
 translate traditional_chinese ep008_commander_group_sex_b1621a76:
 
-    # "I had an idea what both women meant, so I pulled out of her."
-    ""
 
-# game/episode008.rpy:2122
+    "我知道那兩個女人是什麼意思，所以我從她裡面拔了出來。"
+
+
 translate traditional_chinese ep008_commander_group_sex_1f68b051:
 
-    # "Athryn looked a little frustrated at first, but obeyed when Rahia made her squat on top of the older woman."
-    ""
 
-# game/episode008.rpy:2123
+    "阿思琳起初看起來有點沮喪，但拉希婭命令她蹲在那個年長女人身上時她服從了。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a734eee9:
 
-    # "The older woman pawed greedily at my cock and lapped up the pussy juice that covered my shaft as I rubbed my cock all over her face."
-    ""
 
-# game/episode008.rpy:2125
+    "那個年長女人貪婪地摸我的雞巴，舔着覆蓋我雞巴上的屄汁，同時我把雞巴摩擦在她的臉上。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5aec5d0f:
 
-    # rah "Frisa is cleaning that cock for you, Athryn, you made such a mess."
-    rah ""
 
-# game/episode008.rpy:2126
+    rah "弗瑞薩在替你清理那個雞巴，阿思琳，你搞得一團糟。"
+
+
 translate traditional_chinese ep008_commander_group_sex_3be2d59f:
 
-    # woman2 "I just want him inside me again, please!"
-    woman2 ""
 
-# game/episode008.rpy:2128
+    woman2 "我只是希望他在我裡面再來一次，求你了！"
+
+
 translate traditional_chinese ep008_commander_group_sex_5d056f23:
 
-    # "The commander treated Athryn to some passionate tongue kissing as I prepared to penetrate the girl again."
-    ""
 
-# game/episode008.rpy:2129
+    "指揮官拉希婭和阿思琳熱烈舌吻，同時我準備再次插入那個女孩。"
+
+
 translate traditional_chinese ep008_commander_group_sex_28743084:
 
-    # "Frisa kept licking my shaft, but raised her head to lick the pale girl’s pussy as well."
-    ""
 
-# game/episode008.rpy:2131
+    "弗瑞薩繼續舔着我的雞巴，但抬起頭也舔了舔那個蒼白女孩的屄。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e7db6691:
 
-    # "I slid inside her."
-    ""
 
-# game/episode008.rpy:2132
+    "我滑進了她裡面。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9b4ad8c9:
 
-    # woman2 "Oh yes, that’s it!"
-    woman2 ""
 
-# game/episode008.rpy:2133
+    woman2 "哦是的，就是這樣！"
+
+
 translate traditional_chinese ep008_commander_group_sex_87c889d9:
 
-    # woman2 "Make me feel good, please!"
-    woman2 ""
 
-# game/episode008.rpy:2135
+    woman2 "讓我爽，求你了！"
+
+
 translate traditional_chinese ep008_commander_group_sex_fa6076e2:
 
-    # "Rahia had turned her attention to Frisa’s pussy which was already getting fingered by her other friend."
-    ""
 
-# game/episode008.rpy:2136
+    "拉希婭把注意力轉向了弗瑞薩的屄，它已經被她的另一個朋友用手指在操。"
+
+
 translate traditional_chinese ep008_commander_group_sex_fbc3aab6:
 
-    # "Frisa was getting her cunt licked and Athryn’s pussy got the same attention while filled with my throbbing cock."
-    ""
 
-# game/episode008.rpy:2137
+    "弗瑞薩的屄在被舔着，而阿思琳的屄也同樣被照顧着，同時我跳動的雞巴充滿在裡面。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a6bd443e:
 
-    # "Athryn’s soft round ass bounced up and down as I fucked her with increasing speed."
-    ""
 
-# game/episode008.rpy:2139
+    "阿思琳柔軟的圓臀上下彈跳，同時我以越來越快的速度操她。"
+
+
 translate traditional_chinese ep008_commander_group_sex_c0224d7c:
 
-    # rah "Do you love that big cock inside of you, Athryn?"
-    rah ""
 
-# game/episode008.rpy:2140
+    rah "你喜歡那個大雞巴在你裡面嗎，阿思琳？"
+
+
 translate traditional_chinese ep008_commander_group_sex_c3095403:
 
-    # woman2 "I love it!{w} It feels so good!{w} Fuck me harder!"
-    woman2 ""
 
-# game/episode008.rpy:2141
+    woman2 "我愛它！{w} 感覺太好了！{w} 更用力操我！"
+
+
 translate traditional_chinese ep008_commander_group_sex_e8868037:
 
-    # woman2 "I want to feel that big cock all inside me."
-    woman2 ""
 
-# game/episode008.rpy:2143
+    woman2 "我希望感覺到那個大雞巴完全在我裡面。"
+
+
 translate traditional_chinese ep008_commander_group_sex_88a7db3e:
 
-    # rah "Not so greedy, girl, I think Frisa wants to have fun with [p_name] too."
-    rah ""
 
-# game/episode008.rpy:2144
+    rah "別那麼貪心，女孩，我想弗瑞薩也想和[p_name]玩。"
+
+
 translate traditional_chinese ep008_commander_group_sex_fc5bd876:
 
-    # rah "Swap places."
-    rah ""
 
-# game/episode008.rpy:2152
+    rah "換位置。"
+
+
 translate traditional_chinese ep008_commander_group_sex_57e811dd:
 
-    # "Despite her loud longing moans, Athryn complied with her commander’s order."
-    ""
 
-# game/episode008.rpy:2153
+    "儘管她大聲渴望地呻吟，阿思琳還是服從了她指揮官的命令。"
+
+
 translate traditional_chinese ep008_commander_group_sex_181f37ff:
 
-    # "She was now at the bottom and already licking Frisa’s wet slit."
-    ""
 
-# game/episode008.rpy:2155
+    "她現在在下面，已經開始舔弗瑞薩的溼縫。"
+
+
 translate traditional_chinese ep008_commander_group_sex_3ea06e0d:
 
-    # "I wanted to fuck the older woman first."
-    ""
 
-# game/episode008.rpy:2156
+    "我想先操那個年長女人。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7bdfbd6e:
 
-    # "When Frisa knew I had selected her, she got on all fours."
-    ""
 
-# game/episode008.rpy:2157
+    "當弗瑞薩知道我選擇了她時，她四腳着地爬了下來。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7c168860:
 
-    # "Rahia stood beside us, playing with her breasts and rubbing her cunt."
-    ""
 
-# game/episode008.rpy:2158
+    "拉希婭站在我們旁邊，玩弄着她的乳房和摩擦着她的屄。"
+
+
 translate traditional_chinese ep008_commander_group_sex_22973490:
 
-    # rah "She’s so ready for you, [p_name]."
-    rah ""
 
-# game/episode008.rpy:2159
+    rah "她已經迫不及待被你上了，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_group_sex_4aaf3ea3:
 
-    # "Despite being a serving girl, Frisa was almost as muscular as Rahia."
-    ""
 
-# game/episode008.rpy:2160
+    "儘管她只是一個侍女，但弗瑞薩幾乎和拉希婭一樣肌肉發達。"
+
+
 translate traditional_chinese ep008_commander_group_sex_49c80f94:
 
-    # "When I held her sides, I could feel the muscles straining in anticipation of the dicking she was about to receive."
-    ""
 
-# game/episode008.rpy:2162
+    "當我抓住她的腰部時，我能感覺到肌肉在繃緊，期待着即將到來的操弄。"
+
+
 translate traditional_chinese ep008_commander_group_sex_342b6223:
 
-    # "Because of the attention Athryn was giving the woman’s cunt, I entered her ribbed tunnel with relative ease."
-    ""
 
-# game/episode008.rpy:2163
+    "由於阿思琳在那女人的屄上下過的功夫，我進入她那褶皺隧道時相對輕鬆。"
+
+
 translate traditional_chinese ep008_commander_group_sex_fcd3d775:
 
-    # woman "Mmmm, yes.{w} Keep licking my puss, Athryn."
-    woman ""
 
-# game/episode008.rpy:2164
+    woman "嗯嗯，是的。{w} 繼續舔我的屄，阿思琳。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9e2a604f:
 
-    # "The pale girl kept her tongue busy between the older woman’s legs, while I penetrated Frisa balls deep."
-    ""
 
-# game/episode008.rpy:2165
+    "那個白膚女孩的舌頭在年長女人的雙腿間忙個不停，而我則深深插入弗瑞薩的陰道深處。"
+
+
 translate traditional_chinese ep008_commander_group_sex_48b8304b:
 
-    # woman "Fuck me!"
-    woman ""
 
-# game/episode008.rpy:2166
+    woman "操我！"
+
+
 translate traditional_chinese ep008_commander_group_sex_ce523b61:
 
-    # "I didn’t hesitate and did just that."
-    ""
 
-# game/episode008.rpy:2167
+    "我沒有猶豫，就那麼做了。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e8832206:
 
-    # "My balls smacked against Athryn’s face as I pounded the woman on top of her without mercy."
-    ""
 
-# game/episode008.rpy:2168
+    "當我無情地操頂在上面的女人時，我的蛋蛋撞擊着阿思琳的臉。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5afb4c76:
 
-    # woman "Oh yes, yes, keep fucking that pussy!"
-    woman ""
 
-# game/episode008.rpy:2169
+    woman "哦是的，是的，繼續操那個屄！"
+
+
 translate traditional_chinese ep008_commander_group_sex_966493bc:
 
-    # "Juice was streaming down her thighs as Frisa was stimulated from both ends."
-    ""
 
-# game/episode008.rpy:2170
+    "當弗瑞薩被雙端刺激時，汁液順着她的大腿流下。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9899f6f9:
 
-    # "I heard Rahia moan next to me."
-    ""
 
-# game/episode008.rpy:2172
+    "我聽到拉希婭在身邊呻吟。"
+
+
 translate traditional_chinese ep008_commander_group_sex_1cfc726c:
 
-    # rah "Why don’t you surprise her?"
-    rah ""
 
-# game/episode008.rpy:2173
+    rah "你爲什麼不給她個驚喜？"
+
+
 translate traditional_chinese ep008_commander_group_sex_7ed78d8e:
 
-    # "I had an idea what she meant..."
-    ""
 
-# game/episode008.rpy:2178
+    "我明白了她的意思..."
+
+
 translate traditional_chinese ep008_commander_group_sex_7dc9572a:
 
-    # "I slipped out of Frisa’s dripping cunt."
-    ""
 
-# game/episode008.rpy:2180
+    "我從弗瑞薩溼漉漉的屄裏滑了出來。"
+
+
 translate traditional_chinese ep008_commander_group_sex_6480ee91:
 
-    # "Holding my cock, I teased her first by sliding the tip across her wet slit."
-    ""
 
-# game/episode008.rpy:2181
+    "拿着我的雞巴，我先用龜頭在她溼潤的陰縫上蹭來蹭去挑逗她。"
+
+
 translate traditional_chinese ep008_commander_group_sex_f0599280:
 
-    # woman "Mmmm, put it back in please!"
-    woman ""
 
-# game/episode008.rpy:2182
+    woman "嗯嗯，求求你把它插回進來！"
+
+
 translate traditional_chinese ep008_commander_group_sex_d74c17cf:
 
-    # "She was about to speak when I pushed the head of my dick against the folds of her anus."
-    ""
 
-# game/episode008.rpy:2183
+    "她正想說話時，我把雞巴頭抵在了她肛門的褶皺上。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7f3a4f40:
 
-    # "I didn’t wait for her reaction and stuffed my cock inside her asshole."
-    ""
 
-# game/episode008.rpy:2185
+    "我不等她反應，就把雞巴塞進了她的屁眼裡。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b7ba6d40:
 
-    # woman "Aaah!"
-    woman ""
 
-# game/episode008.rpy:2186
+    woman "啊啊！"
+
+
 translate traditional_chinese ep008_commander_group_sex_f91885d7:
 
-    # rah "Take it, Frisa, you can do it."
-    rah ""
 
-# game/episode008.rpy:2187
+    rah "接受它，弗瑞薩，你能行的。"
+
+
 translate traditional_chinese ep008_commander_group_sex_51b6e809:
 
-    # rah "Take that long hard cock inside your ass."
-    rah ""
 
-# game/episode008.rpy:2188
+    rah "把那根長長硬硬的雞巴放進你的屁股裏。"
+
+
 translate traditional_chinese ep008_commander_group_sex_f0ddfac6:
 
-    # "Frisa gritted her teeth while the entire length of my veined shaft disappeared inside her taut asshole."
-    ""
 
-# game/episode008.rpy:2189
+    "弗瑞薩咬緊牙關，我青筋暴起的陰莖整根沒入她緊繃的肛門深處。"
+
+
 translate traditional_chinese ep008_commander_group_sex_91ae2746:
 
-    # woman "Oh fuck! It’s so big."
-    woman ""
 
-# game/episode008.rpy:2190
+    woman "操！太大了。"
+
+
 translate traditional_chinese ep008_commander_group_sex_0d872b67:
 
-    # rah "Now fuck her."
-    rah ""
 
-# game/episode008.rpy:2192
+    rah "現在幹她。"
+
+
 translate traditional_chinese ep008_commander_group_sex_303ff6d9:
 
-    # "The first few thrusts I encountered some resistance, but then Frisa was used to my girth."
-    ""
 
-# game/episode008.rpy:2193
+    "最初幾次抽插遇到些阻力，但弗瑞薩很快適應了我的尺寸。"
+
+
 translate traditional_chinese ep008_commander_group_sex_14531415:
 
-    # "I slapped her ass as I sodomized her and she yelped in response."
-    ""
 
-# game/episode008.rpy:2194
+    "我拍打她的屁股抽插肛門，她發出尖叫。"
+
+
 translate traditional_chinese ep008_commander_group_sex_57c76115:
 
-    # woman "Don’t stop fucking my ass, you feel so good inside me!"
-    woman ""
 
-# game/episode008.rpy:2196
+    woman "別停！繼續操我的屁股，你在我裡面感覺太棒了！"
+
+
 translate traditional_chinese ep008_commander_group_sex_0a8dbdf1:
 
-    # "However, I didn’t want to leave Frisa’s dripping cunt."
-    ""
 
-# game/episode008.rpy:2198
+    "但我不想離開弗瑞薩溼漉漉的陰道。"
+
+
 translate traditional_chinese ep008_commander_group_sex_82bab853:
 
-    # "So I burrowed even deeper inside her vagina, making short violent thrusts that took her breath away."
-    ""
 
-# game/episode008.rpy:2199
+    "於是我更深地頂進她陰道，短促粗暴地抽插讓她喘不過氣。"
+
+
 translate traditional_chinese ep008_commander_group_sex_dd9cdbc9:
 
-    # woman "Don’t stop fucking me, you feel so good inside me!"
-    woman ""
 
-# game/episode008.rpy:2202
+    woman "別停！繼續操我，你在我裡面感覺太棒了！"
+
+
 translate traditional_chinese ep008_commander_group_sex_575081ed:
 
-    # rah "You've treated her very well."
-    rah ""
 
-# game/episode008.rpy:2203
+    rah "你把她伺候得很舒服。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9a2bbb30:
 
-    # rah "Now swap places."
-    rah ""
 
-# game/episode008.rpy:2206
+    rah "現在換位。"
+
+
 translate traditional_chinese ep008_commander_group_sex_8e5360e6:
 
-    # "Fucking the women was starting to wear me out and I felt close to blowing my load."
-    ""
 
-# game/episode008.rpy:2210
+    "連續幹這些女人讓我體力透支，精關快要失守。"
+
+
 translate traditional_chinese ep008_commander_group_sex_0228f425:
 
-    # "Frisa’s asshole was so tight and stimulating me in all the right ways."
-    ""
 
-# game/episode008.rpy:2211
+    "弗瑞薩的肛門緊緻得要命，用絕妙方式刺激着我。"
+
+
 translate traditional_chinese ep008_commander_group_sex_6755829b:
 
-    # "Grabbing hold of her tightly, I rode her hard and fast."
-    ""
 
-# game/episode008.rpy:2214
+    "我緊緊鉗住她腰胯，又快又狠地操弄。"
+
+
 translate traditional_chinese ep008_commander_group_sex_df4251d7:
 
-    # "She moaned like an animal as I filled her ass to the brim with warm cum."
-    ""
 
-# game/episode008.rpy:2216
+    "當滾燙精液灌滿她後庭時，她發出野獸般的呻吟。"
+
+
 translate traditional_chinese ep008_commander_group_sex_e705e896:
 
-    # "As my seed started dripping from her anus, Athryn opened her mouth and greedily drank the stream that dribbled down."
-    ""
 
-# game/episode008.rpy:2220
+    "精液從她肛門滲出時，阿思琳張嘴貪婪地舔舐流下的精液。"
+
+
 translate traditional_chinese ep008_commander_group_sex_ae1550f9:
 
-    # "Despite how wonderful Frisa felt, I decided Rahia deserved my seed."
-    ""
 
-# game/episode008.rpy:2221
+    "雖然弗瑞薩感覺很棒，但我認定拉希婭才配得上我的精液。"
+
+
 translate traditional_chinese ep008_commander_group_sex_21b17d4e:
 
-    # "I pulled out of the older woman and pulled Rahia towards me."
-    ""
 
-# game/episode008.rpy:2223
+    "我從熟女體內退出，把拉希婭拽到身前。"
+
+
 translate traditional_chinese ep008_commander_group_sex_c6f8de38:
 
-    # "Despite how wonderful Athryn felt, I decided Rahia deserved my seed."
-    ""
 
-# game/episode008.rpy:2224
+    "雖然阿思琳感覺很棒，但我認定拉希婭才配得上我的精液。"
+
+
 translate traditional_chinese ep008_commander_group_sex_cc196fae:
 
-    # "I pulled out of the younger girl and pulled Rahia towards me."
-    ""
 
-# game/episode008.rpy:2226
+    "我從少女體內退出，把拉希婭拽到身前。"
+
+
 translate traditional_chinese ep008_commander_group_sex_08f9ecbd:
 
-    # "After entering her I managed one or two thrusts before filling her pussy to the brim with warm cum."
-    ""
 
-# game/episode008.rpy:2229
+    "插入後沒抽插幾下，滾燙精液就灌滿了她的陰道。"
+
+
 translate traditional_chinese ep008_commander_group_sex_815cfa61:
 
-    # "When I pulled out of her, Frisa and Athryn went between their commander’s legs to lap up the seed that was now oozing out of her slit."
-    ""
 
-# game/episode008.rpy:2232
+    "當我退出時，弗瑞薩和阿思琳跪在指揮官腿間舔舐她蜜縫滲出的精液。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a2c2eddd:
 
-    # "Athryn’s tight little pussy gave me such a wonderful feeling, I decided I’d finish inside her."
-    ""
 
-# game/episode008.rpy:2233
+    "阿思琳緊緻小穴帶來極致快感，我決定在她體內射精。"
+
+
 translate traditional_chinese ep008_commander_group_sex_6755829b_1:
 
-    # "Grabbing hold of her tightly, I rode her hard and fast."
-    ""
 
-# game/episode008.rpy:2236
+    "緊緊抓住她，我快速地用力騎她。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b4e0ecd4:
 
-    # "She moaned like an animal as I filled her pussy to the brim with warm cum."
-    ""
 
-# game/episode008.rpy:2238
+    "她像野獸般呻吟，當我把溫暖的精液灌滿她的小穴。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7a2e9c5a:
 
-    # "As my seed started dripping from her slit, Frisa opened her mouth and greedily drank the stream that dribbled down."
-    ""
 
-# game/episode008.rpy:2242
+    "當我的精液開始從她的縫隙中滴下時，弗瑞薩張開嘴貪婪地吞下流下的溪流。"
+
+
 translate traditional_chinese ep008_commander_group_sex_7a693fb1:
 
-    # "Despite the wonderful feeling her ass gave me, I wanted to finish inside Frisa’s pussy."
-    ""
 
-# game/episode008.rpy:2244
+    "儘管她的屁股給了我美妙的感覺，我還是想在弗瑞薩的小穴裏射精。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b173835e:
 
-    # "Frisa’s cunt gave me such a wonderful feeling, I decided I’d finish inside her."
-    ""
 
-# game/episode008.rpy:2245
+    "弗瑞薩的穴給了我如此美妙的感覺，我決定在她裡面射精。"
+
+
 translate traditional_chinese ep008_commander_group_sex_6755829b_2:
 
-    # "Grabbing hold of her tightly, I rode her hard and fast."
-    ""
 
-# game/episode008.rpy:2248
+    "緊緊抓住她，我快速地用力騎她。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b4e0ecd4_1:
 
-    # "She moaned like an animal as I filled her pussy to the brim with warm cum."
-    ""
 
-# game/episode008.rpy:2250
+    "她像野獸般呻吟，當我把溫暖的精液灌滿她的小穴。"
+
+
 translate traditional_chinese ep008_commander_group_sex_8a76a11d:
 
-    # "As my seed started dripping from her slit, Athryn opened her mouth and greedily drank the stream that dribbled down."
-    ""
 
-# game/episode008.rpy:2253
+    "當我的精液開始從她的縫隙中滴下時，阿思琳張開嘴貪婪地吞下流下的溪流。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a8940535:
 
-    # "Rahia noticed my mounting climax and slipped onto the bed."
-    ""
 
-# game/episode008.rpy:2254
+    "拉希婭注意到我即將高潮，便溜上牀。"
+
+
 translate traditional_chinese ep008_commander_group_sex_d6ff81ea:
 
-    # rah "He’s ready, girls."
-    rah ""
 
-# game/episode008.rpy:2255
+    rah "他準備好了，姑娘們。"
+
+
 translate traditional_chinese ep008_commander_group_sex_f0018f2d:
 
-    # rah "Spray your cum all over us, [p_name]."
-    rah ""
 
-# game/episode008.rpy:2258
+    rah "把你的精液噴遍我們全身，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_group_sex_1f37ebf9:
 
-    # "The girls got into position and I managed to shoot my warm seed over Frisa’s ass and the other girl’s chests."
-    ""
 
-# game/episode008.rpy:2261
+    "姑娘們站好位置，我成功地把溫暖的精液射在弗瑞薩的屁股和其他姑娘的胸上。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a8940535_1:
 
-    # "Rahia noticed my mounting climax and slipped onto the bed."
-    ""
 
-# game/episode008.rpy:2262
+    "拉希婭注意到我即將高潮，便溜上牀。"
+
+
 translate traditional_chinese ep008_commander_group_sex_d6ff81ea_1:
 
-    # rah "He’s ready, girls."
-    rah ""
 
-# game/episode008.rpy:2263
+    rah "他準備好了，姑娘們。"
+
+
 translate traditional_chinese ep008_commander_group_sex_0a198577:
 
-    # rah "Spray your cum all over our faces, [p_name]."
-    rah ""
 
-# game/episode008.rpy:2266
+    rah "把你的精液噴遍我們臉上，[p_name]。"
+
+
 translate traditional_chinese ep008_commander_group_sex_b65aa2cc:
 
-    # "The girls got into position and I managed to blast my warm seed over their faces and chests."
-    ""
 
-# game/episode008.rpy:2268
+    "姑娘們站好位置，我成功地把溫暖的精液爆射在她們臉上和胸上。"
+
+
 translate traditional_chinese ep008_commander_group_sex_5e3d86c9:
 
-    # "The Acarhyn cleaned themselves and sat close to each other on the bed."
-    ""
 
-# game/episode008.rpy:2269
+    "阿卡海茵人清理了自己，緊挨着坐在牀上。"
+
+
 translate traditional_chinese ep008_commander_group_sex_658ff96a:
 
-    # rah "As I said, a warrior’s heart."
-    rah ""
 
-# game/episode008.rpy:2270
+    rah "就像我說的，戰士之心。"
+
+
 translate traditional_chinese ep008_commander_group_sex_9669d3f0:
 
-    # rah "You have well and truly fucked us."
-    rah ""
 
-# game/episode008.rpy:2271
+    rah "你狠狠地操了我們一頓。"
+
+
 translate traditional_chinese ep008_commander_group_sex_d718e7dc:
 
-    # woman "If you ever want to visit us..."
-    woman ""
 
-# game/episode008.rpy:2272
+    woman "如果你想來看我們..."
+
+
 translate traditional_chinese ep008_commander_group_sex_48380608:
 
-    # woman2 "Just let us know."
-    woman2 ""
 
-# game/episode008.rpy:2273
+    woman2 "就告訴我們一聲。"
+
+
 translate traditional_chinese ep008_commander_group_sex_a57fb7cf:
 
-    # "I gathered my things and slipped out of the commander’s bed chamber."
-    ""
+
+    "我收拾好東西，悄悄溜出指揮官的臥室。"
 
 translate traditional_chinese strings:
 
-    # game/episode008.rpy:152
+
     old "Watch evening snippet"
-    new ""
+    new "觀看晚間片段"
 
-    # game/episode008.rpy:152
+
     old "Watch night snippet"
-    new ""
+    new "觀看夜晚片段"
 
-    # game/episode008.rpy:500
+
     old "Yell at her"
-    new ""
+    new "對她吼叫"
 
-    # game/episode008.rpy:500
+
     old "Remain silent"
-    new ""
+    new "保持沉默"
 
-    # game/episode008.rpy:555
+
     old "Eva Valenmann de Lonval, sister of Lilly and [p_name]. Kidnapped on a training mission on Lanan P-10 by a group of warrior women called the Acarhyn."
-    new ""
+    new "伊娃·瓦倫曼·德·隆瓦爾，莉莉和[p_name]的妹妹。在拉南P-10星的訓練任務中被一羣名爲阿卡海茵人的女戰士綁架。"
 
-    # game/episode008.rpy:555
+
     old "Eva now apparently rules over the Acarhyn as their Virgin Queen."
-    new ""
+    new "伊娃現在顯然以\"處女之王\"的身份統治着阿卡海茵人。"
 
-    # game/episode008.rpy:562
+
     old "Eva Arderne, childhood friend of [p_name]. Kidnapped on a training mission on Lanan P-10 by a group of warrior women called the Acarhyn."
-    new ""
+    new "伊娃·阿德恩，[p_name]的青梅竹馬。在拉南P-10星的訓練任務中被一羣名爲阿卡海茵人的女戰士綁架。"
 
-    # game/episode008.rpy:601
+
     old "Visit Ziv"
-    new ""
+    new "拜訪基芙"
 
-    # game/episode008.rpy:758
-    old "Caese"
-    new ""
 
-    # game/episode008.rpy:758
     old "A young Acarhyn scientist, infatuated with Nadya."
-    new ""
+    new "年輕的阿卡海茵科學家，迷戀着娜迪亞。"
 
-    # game/episode008.rpy:794
+
     old "Don't worry"
-    new ""
+    new "別擔心"
 
-    # game/episode008.rpy:794
+
     old "Rebuke her"
-    new ""
+    new "斥責她"
 
-    # game/episode008.rpy:977
+
     old "Ask about her injury"
-    new ""
+    new "詢問她的傷勢"
 
-    # game/episode008.rpy:977
+
     old "Note lack of injury"
-    new ""
+    new "注意並無傷勢"
 
-    # game/episode008.rpy:1047
+
     old "Tell him about Athryn"
-    new ""
+    new "告訴他阿思琳的事"
 
-    # game/episode008.rpy:1047
+
     old "Don’t tell him"
-    new ""
+    new "不告訴他"
 
-    # game/episode008.rpy:1136
+
     old "Deny"
-    new ""
+    new "否認"
 
-    # game/episode008.rpy:1186
+
     old "Don't mind"
-    new ""
+    new "不介意"
 
-    # game/episode008.rpy:1186
+
     old "Don't like it"
-    new ""
+    new "不喜歡這樣"
 
-    # game/episode008.rpy:1186
+
     old "Don't like Raene"
-    new ""
+    new "不喜歡蕾妮"
 
-    # game/episode008.rpy:1240
+
     old "Tell Ziv you like her"
-    new ""
+    new "告訴基芙你喜歡她"
 
-    # game/episode008.rpy:1303
+
     old "Invite her to the baths"
-    new ""
+    new "邀請她去浴場"
 
-    # game/episode008.rpy:1498
+
     old "Stay in the baths"
-    new ""
+    new "留在浴場"
 
-    # game/episode008.rpy:1498
+
     old "Leave the baths"
-    new ""
+    new "離開浴場"
 
-    # game/episode008.rpy:1765
-    old "Rahia"
-    new ""
 
-    # game/episode008.rpy:1765
     old "The commander of the warrior caste of the Acarhyn. She led the attack on Lanan P-10 during which Eva was kidnapped."
-    new ""
+    new "阿卡海茵戰士團的指揮官。她領導了突襲拉南P-10星的行動，伊娃在此次行動中被綁架。"
 
-    # game/episode008.rpy:1810
+
     old "Come with her"
-    new ""
+    new "跟她走"
 
-    # game/episode008.rpy:1810
+
     old "Rudely decline"
-    new ""
+    new "粗魯拒絕"
 
-    # game/episode008.rpy:1810
+
     old "Politely decline"
-    new ""
+    new "委婉拒絕"
 
-    # game/episode008.rpy:1866
-    old "Erylin"
-    new ""
 
-    # game/episode008.rpy:1866
     old "Leader of the priest caste of the Acarhyn. Has become a powerful political player at the Acarhyn court after the prophecy about the Virgin Queen leading the Acarhyn to Lanan P-10 seemingly turned out to be true."
-    new ""
+    new "阿卡海茵祭司團領袖。在關於\"處女之王\"將引領阿卡海茵人前往拉南P-10星的預言似乎應驗後，她已成爲阿卡海茵宮廷的重要政治人物。"
 
-    # game/episode008.rpy:1958
+
     old "Lick her anus"
-    new ""
+    new "舔她的肛門"
 
-    # game/episode008.rpy:2041
+
     old "Fuck Athryn"
-    new ""
+    new "操阿思琳"
 
-    # game/episode008.rpy:2041
+
     old "Fuck Frisa"
-    new ""
+    new "操弗瑞薩"
 
-    # game/episode008.rpy:2052
+
     old "Choke her"
-    new ""
+    new "掐住她脖子"
 
-    # game/episode008.rpy:2208
+
     old "Anal Creampie"
-    new ""
+    new "肛門內射"
 
-    # game/episode008.rpy:2208
+
     old "Creampie Rahia"
-    new ""
+    new "在拉希婭體內射精"
 
-    # game/episode008.rpy:2208
+
     old "Creampie Athryn"
-    new ""
+    new "在阿思琳體內射精"
 
-    # game/episode008.rpy:2208
+
     old "Creampie Frisa"
-    new ""
+    new "在弗瑞薩體內射精"
 
-    # game/episode008.rpy:2208
+
     old "Bodies"
-    new ""
+    new "胴體"
 
-    # game/episode008.rpy:2278
-    old "Athryn"
-    new ""
 
-    # game/episode008.rpy:2278
     old "An Acarhyn warrior who was present at the attack on Lanan P-10. She stabbed Kit while he was trying to run after Eva as she was being dragged away."
-    new ""
+    new "參與襲擊拉南P-10星的阿卡海茵戰士。當基特試圖追趕被拖走的伊娃時，她刺傷了他。"
 
-    # game/episode008.rpy:2278
+
     old "Athryn was later encountered in the Acarhyn Citadel as one of the commander's lovers."
-    new ""
+    new "後於阿卡海茵\"城堡\"再遇阿思琳，當時她是指揮官的情人之一。"
 
-    # game/episode008.rpy:2290
-    old "Frisa"
-    new ""
 
-    # game/episode008.rpy:2290
     old "An Acarhyn servant and one of the commander's lovers."
-    new ""
-
+    new "阿卡海茵僕從，指揮官的情人之一。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

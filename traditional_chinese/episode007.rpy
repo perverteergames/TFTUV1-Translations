@@ -1,9510 +1,9506 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode007.rpy:35
+
+
 translate traditional_chinese episode007_cbf80bf9:
 
-    # centered "{=chapter_heading}EPISODE 7{/=chapter_heading}"
-    centered ""
 
-# game/episode007.rpy:46
+    centered "{=chapter_heading}第7集{/=chapter_heading}"
+
+
 translate traditional_chinese episode007_ac886fe2:
 
-    # woman "Oh fuck!{w} Oh yes!{w} Fuck me harder!"
-    woman ""
 
-# game/episode007.rpy:48
+    woman "操太爽了！{w}太棒了！{w}再用力些操我！"
+
+
 translate traditional_chinese episode007_4f5ac457:
 
-    # woman "Give me that big hard cock!"
-    woman ""
 
-# game/episode007.rpy:49
+    woman "把你那根硬梆梆的大雞巴給我！"
+
+
 translate traditional_chinese episode007_81ddfaf6:
 
-    # woman "Oh baby!"
-    woman ""
 
-# game/episode007.rpy:51
+    woman "寶貝啊！"
+
+
 translate traditional_chinese episode007_0f85d23c:
 
-    # man "Boss?"
-    man ""
 
-# game/episode007.rpy:52
+    man "頭兒？"
+
+
 translate traditional_chinese episode007_06355da6:
 
-    # gl "Can't you see I'm busy giving the lady the treat of a lifetime?"
-    gl ""
 
-# game/episode007.rpy:53
+    gl "沒見老子正忙着給這娘們終身難忘的快活嗎？"
+
+
 translate traditional_chinese episode007_c066186d:
 
-    # man "There's a woman standing in the doorway."
-    man ""
 
-# game/episode007.rpy:55
+    man "門口站着個女人。"
+
+
 translate traditional_chinese episode007_4f5874a2:
 
-    # bl "Glixken, I presume?"
-    bl ""
 
-# game/episode007.rpy:57
+    bl "格裏克森，對吧？"
+
+
 translate traditional_chinese episode007_bb2e9883:
 
-    # gl "Well hello, did you come to join the fun?"
-    gl ""
 
-# game/episode007.rpy:59
+    gl "喲嗬，想來一起快活？"
+
+
 translate traditional_chinese episode007_2469e57c:
 
-    # bl "How tempting, but no."
-    bl ""
 
-# game/episode007.rpy:60
+    bl "真誘人，不過免了。"
+
+
 translate traditional_chinese episode007_e4f90cfb:
 
-    # bl "I'm here because we share an interest."
-    bl ""
 
-# game/episode007.rpy:62
+    bl "我來是因爲我們興趣一致。"
+
+
 translate traditional_chinese episode007_a6015b61:
 
-    # gl "The thing that's interesting me is sitting on my cock at the moment."
-    gl ""
 
-# game/episode007.rpy:64
+    gl "現在最吸引老子興趣的玩意兒正坐在我的雞巴上。"
+
+
 translate traditional_chinese episode007_37987727:
 
-    # bl "I was under the impression you were smart as mercenaries go, but you seem to be only thinking with your dick."
-    bl ""
 
-# game/episode007.rpy:66
+    bl "本以爲僱傭兵裏你算聰明的，看來你滿腦子只剩雞巴。"
+
+
 translate traditional_chinese episode007_1b0c6814:
 
-    # man "This cunt is fucking annoying boss, let's just shut that little mouth of hers and rape and kill her."
-    man ""
 
-# game/episode007.rpy:67
+    man "這臭婊子真他媽煩人，頭兒，不如堵住她的小嘴先奸後殺"
+
+
 translate traditional_chinese episode007_19c83bb8:
 
-    # man "What do you s-"
-    man ""
 
-# game/episode007.rpy:69
+    man "你說什——"
+
+
 translate traditional_chinese episode007_b150db32:
 
-    # man "Aaarghh!"
-    man ""
 
-# game/episode007.rpy:71
+    man "啊呃啊！"
+
+
 translate traditional_chinese episode007_c0d8f079:
 
-    # bl "I'm sorry, but I just can't stand rude behavior."
-    bl ""
 
-# game/episode007.rpy:72
+    bl "抱歉，我最看不慣沒教養的東西"
+
+
 translate traditional_chinese episode007_e1dceae0:
 
-    # gl "He had it coming."
-    gl ""
 
-# game/episode007.rpy:74
+    gl "他自找的"
+
+
 translate traditional_chinese episode007_d191ecee:
 
-    # gl "Why don't you fuck off and come back later, Candy?"
-    gl ""
 
-# game/episode007.rpy:75
+    gl "你不如滾蛋,晚點再來如何？甜心？"
+
+
 translate traditional_chinese episode007_253d8f9a:
 
-    # woman "I sure will, Glixken."
-    woman ""
 
-# game/episode007.rpy:77
+    woman "這就走，格裏克森"
+
+
 translate traditional_chinese episode007_dea68c7b:
 
-    # gl "Now what do you want with me, lady?"
-    gl ""
 
-# game/episode007.rpy:79
+    gl "這位女士有何貴幹？"
+
+
 translate traditional_chinese episode007_e7f467cd:
 
-    # bl "Kvi suits me just fine."
-    bl ""
 
-# game/episode007.rpy:82
+    bl "叫我克薇就行"
+
+
 translate traditional_chinese episode007_ac3ddfc0:
 
-    # gl "What brings you to this dusty shithole, Kvi?"
-    gl ""
 
-# game/episode007.rpy:84
+    gl "什麼風把你吹來這灰塵漫天的屎坑，克薇？"
+
+
 translate traditional_chinese episode007_72c0adaf:
 
-    # bl "I recently travelled to Ryūjin Prime, you may have heard of it?"
-    bl ""
 
-# game/episode007.rpy:85
+    bl "最近去了龍神主星，聽說過麼？"
+
+
 translate traditional_chinese episode007_1ee2310a:
 
-    # gl "I do, bunch of scientists playing school together."
-    gl ""
 
-# game/episode007.rpy:86
+    gl "當然知道，就是一羣科學家玩過家家嘛。"
+
+
 translate traditional_chinese episode007_c7817f03:
 
-    # bl "A good while back a ship docked there containing a number of people I really want to meet."
-    bl ""
 
-# game/episode007.rpy:88
+    bl "前陣子有艘船在那兒靠岸，載着幾個我特別想會會的人。"
+
+
 translate traditional_chinese episode007_64f2c7f3:
 
-    # gl "What's that got to do with me?"
-    gl ""
 
-# game/episode007.rpy:90
+    gl "關我屁事？"
+
+
 translate traditional_chinese episode007_95178b73:
 
-    # bl "I traced the ship's flight manifest back to this dusty shit hole, as you so aptly called it just now."
-    bl ""
 
-# game/episode007.rpy:91
+    bl "我查了飛船航行記錄，最後追到這個灰塵漫天的屎坑——這詞兒你剛才說得挺貼切。"
+
+
 translate traditional_chinese episode007_4c6e80ee:
 
-    # bl "According to some helpful locals, there's only one place around here where this ship could come from, a place called Thyia's workshop."
-    bl ""
 
-# game/episode007.rpy:92
+    bl "據本地熱心街坊透露，這方圓百裏只有一處能造這種船，就是那個叫塞婭工坊的破地方。"
+
+
 translate traditional_chinese episode007_58c33962:
 
-    # bl "Now I know your name is not Thyia and the girl who graced your cock moments before isn't either."
-    bl ""
 
-# game/episode007.rpy:93
+    bl "我知道你名字不叫塞婭，剛才給你雞巴服務的丫頭也不是。"
+
+
 translate traditional_chinese episode007_9e9be69e:
 
-    # bl "So my question is, where's Thyia?"
-    bl ""
 
-# game/episode007.rpy:95
+    bl "所以我的問題是：塞婭在哪裡？"
+
+
 translate traditional_chinese episode007_f852ff03:
 
-    # gl "Is Thyia the one you're hoping to find?"
-    gl ""
 
-# game/episode007.rpy:97
+    gl "你要找的就是塞婭？"
+
+
 translate traditional_chinese episode007_dac8bbf8:
 
-    # bl "Why do you sound so eager, all of a sudden?"
-    bl ""
 
-# game/episode007.rpy:99
+    bl "怎麼你突然聽起來來勁兒了？"
+
+
 translate traditional_chinese episode007_c75c60f2:
 
-    # gl "Because that bitch ran away from me."
-    gl ""
 
-# game/episode007.rpy:100
+    gl "因爲那婊子從我手裡溜了。"
+
+
 translate traditional_chinese episode007_738de47c:
 
-    # gl "She owes me a great deal of money."
-    gl ""
 
-# game/episode007.rpy:102
+    gl "她欠了我一屁股債。"
+
+
 translate traditional_chinese episode007_520004e1:
 
-    # bl "I see."
-    bl ""
 
-# game/episode007.rpy:103
+    bl "懂了。"
+
+
 translate traditional_chinese episode007_8c363f0b:
 
-    # bl "And the reason why you haven't gone after her is...?"
-    bl ""
 
-# game/episode007.rpy:105
+    bl "那你怎麼沒去追債...？"
+
+
 translate traditional_chinese episode007_82c0b566:
 
-    # gl "I don't have a clue where she went."
-    gl ""
 
-# game/episode007.rpy:106
+    gl "老子壓根不知道她跑哪去了。"
+
+
 translate traditional_chinese episode007_2374c4a8:
 
-    # gl "She left her workshop in a hurry, so I figured it was mine as a partial payment for everything she owes me."
-    gl ""
 
-# game/episode007.rpy:107
+    gl "她從她的工場離開得很急，我琢磨着就當抵債收下了。"
+
+
 translate traditional_chinese episode007_85c9e9a0:
 
-    # gl "It's next to fucking worthless though, nobody's interested in any of the useless scrap lying about."
-    gl ""
 
-# game/episode007.rpy:109
+    gl "結果他媽一文不值，滿地破爛根本沒人要。"
+
+
 translate traditional_chinese episode007_255b48fb:
 
-    # bl "Not even the ship that's gathering dust in the yard?"
-    bl ""
 
-# game/episode007.rpy:111
+    bl "連院子裡喫灰的那艘船也賣不掉？"
+
+
 translate traditional_chinese episode007_e342f46d:
 
-    # gl "Hunk of junk."
-    gl ""
 
-# game/episode007.rpy:113
+    gl "廢銅爛鐵罷了。"
+
+
 translate traditional_chinese episode007_a02d26bd:
 
-    # bl "That's a Sovereignty warship you're talking about!"
-    bl ""
 
-# game/episode007.rpy:114
+    bl "那可是\"至高權域\"的戰艦！"
+
+
 translate traditional_chinese episode007_18ba0276:
 
-    # gl "So?"
-    gl ""
 
-# game/episode007.rpy:116
+    gl "所以呢？"
+
+
 translate traditional_chinese episode007_707f91a3:
 
-    # bl "Never mind."
-    bl ""
 
-# game/episode007.rpy:117
+    bl "算了。"
+
+
 translate traditional_chinese episode007_5ddae266:
 
-    # bl "Did Thyia leave with someone?"
-    bl ""
 
-# game/episode007.rpy:119
+    bl "塞婭是跟人走的？"
+
+
 translate traditional_chinese episode007_d0014668:
 
-    # gl "Probably that fucking boy and the redheaded piece of ass."
-    gl ""
 
-# game/episode007.rpy:121
+    gl "八成是跟那個小雜種還有紅髮騷貨。"
+
+
 translate traditional_chinese episode007_06353ccd:
 
-    # bl "These two?"
-    bl ""
 
-# game/episode007.rpy:123
+    bl "這倆人？"
+
+
 translate traditional_chinese episode007_72db2e10:
 
-    # gl "Yes, that's them."
-    gl ""
 
-# game/episode007.rpy:125
+    gl "對，就那倆。"
+
+
 translate traditional_chinese episode007_e6dd8f92:
 
-    # gl "Girl had some nice tits on her."
-    gl ""
 
-# game/episode007.rpy:127
+    gl "那妞的胸真有料。"
+
+
 translate traditional_chinese episode007_22c4fe3a:
 
-    # bl "Must you be so vulgar?"
-    bl ""
 
-# game/episode007.rpy:128
+    bl "說話非得這麼粗俗？"
+
+
 translate traditional_chinese episode007_c39e85d9:
 
-    # gl "You're the one who interrupted my fun with Candy..."
-    gl ""
 
-# game/episode007.rpy:130
+    gl "是你先打斷我和我的甜心親熱的..."
+
+
 translate traditional_chinese episode007_a4acbb3b:
 
-    # bl "Poor boy."
-    bl ""
 
-# game/episode007.rpy:131
+    bl "可憐的孩子。"
+
+
 translate traditional_chinese episode007_9040c729:
 
-    # bl "Are you interested in getting that payment from Thyia?"
-    bl ""
 
-# game/episode007.rpy:133
+    bl "你們想找塞婭拿報酬是吧？"
+
+
 translate traditional_chinese episode007_0825a139:
 
-    # gl "I am."
-    gl ""
 
-# game/episode007.rpy:135
+    gl "對。"
+
+
 translate traditional_chinese episode007_9a448b7b:
 
-    # bl "Good, because I think our interests overlap."
-    bl ""
 
-# game/episode007.rpy:136
+    bl "很好，看來我們利益一致。"
+
+
 translate traditional_chinese episode007_55bb685f:
 
-    # bl "I'd like to hire you and your boys."
-    bl ""
 
-# game/episode007.rpy:137
+    bl "我想僱你和你的弟兄們。"
+
+
 translate traditional_chinese episode007_0b019481:
 
-    # gl "Keep talking."
-    gl ""
 
-# game/episode007.rpy:138
+    gl "說來聽聽。"
+
+
 translate traditional_chinese episode007_ae3c675f:
 
-    # bl "You're going to help me find that boy, his redheaded companion and anyone else he's traveling with."
-    bl ""
 
-# game/episode007.rpy:139
+    bl "幫我找到那小子、他紅髮相好，還有同行的所有人。"
+
+
 translate traditional_chinese episode007_89c61a99:
 
-    # bl "In turn, you'll get paid and Thyia handed over to you once I'm done with her."
-    bl ""
 
-# game/episode007.rpy:140
+    bl "作爲回報，你們拿酬勞，等我用完塞婭就交給你們。"
+
+
 translate traditional_chinese episode007_167fe94e:
 
-    # bl "Do we have a deal?"
-    bl ""
 
-# game/episode007.rpy:142
+    bl "能成交嗎？"
+
+
 translate traditional_chinese episode007_9179f270:
 
-    # gl "We do."
-    gl ""
 
-# game/episode007.rpy:144
+    gl "成交。"
+
+
 translate traditional_chinese episode007_12382e0e:
 
-    # bl "Good."
-    bl ""
 
-# game/episode007.rpy:145
+    bl "很好。"
+
+
 translate traditional_chinese episode007_80a4aa2b:
 
-    # bl "My ship is located two miles from here, I'll send you the coordinates."
-    bl ""
 
-# game/episode007.rpy:146
+    bl "我的船停在兩英裏外，我會發你坐標。"
+
+
 translate traditional_chinese episode007_c5ebe274:
 
-    # bl "Meet me in two hours with your crew, I gather you'd like to say goodbye to Candy first..."
-    bl ""
 
-# game/episode007.rpy:148
+    bl "兩小時後帶你的人找我，我想你得先和甜心告別了..."
+
+
 translate traditional_chinese episode007_39ce3ec6:
 
-    # gl "Yes, I still want to give her something to remember me by."
-    gl ""
 
-# game/episode007.rpy:149
+    gl "沒錯，得給她留點念想。"
+
+
 translate traditional_chinese episode007_d1aa5d23:
 
-    # gl "Pleasure doing business, Kvi."
-    gl ""
 
-# game/episode007.rpy:151
+    gl "合作愉快，克薇。"
+
+
 translate traditional_chinese episode007_0b8147ba:
 
-    # bl "Likewise."
-    bl ""
 
-# game/episode007.rpy:152
+    bl "彼此彼此。"
+
+
 translate traditional_chinese episode007_b5c4d73f:
 
-    # bl "Don't be late, I want to be back on the trail as soon as possible."
-    bl ""
 
-# game/episode007.rpy:160
+    bl "別遲到，我得儘快追查。"
+
+
 translate traditional_chinese episode007_3e6da6a8:
 
-    # "We were still in transit when Céline knocked on my door."
-    ""
 
-# game/episode007.rpy:163
+    "瑟琳敲我門時飛船還在躍遷。"
+
+
 translate traditional_chinese episode007_4851defe:
 
-    # c "Hey there, did you feel a little lonely?"
-    c ""
 
-# game/episode007.rpy:164
+    c "嘿，是不是寂寞啦？"
+
+
 translate traditional_chinese episode007_0c1da6b1:
 
-    # ce "I am a little, but that's not why I'm here."
-    ce ""
 
-# game/episode007.rpy:165
+    ce "有點，但不是爲這個來的。"
+
+
 translate traditional_chinese episode007_a30c2502:
 
-    # c "Shame, but what's on your mind?"
-    c ""
 
-# game/episode007.rpy:167
+    c "可惜，但你在想什麼？"
+
+
 translate traditional_chinese episode007_e4f97873:
 
-    # c "Hey Céline."
-    c ""
 
-# game/episode007.rpy:168
+    c "嘿，瑟琳。"
+
+
 translate traditional_chinese episode007_79725c07:
 
-    # ce "Hey, do you have a minute?"
-    ce ""
 
-# game/episode007.rpy:169
+    ce "嘿，你有空嗎？"
+
+
 translate traditional_chinese episode007_59c20226:
 
-    # c "Go ahead."
-    c ""
 
-# game/episode007.rpy:171
+    c "說吧。"
+
+
 translate traditional_chinese episode007_9cad55a2:
 
-    # ce "Jade and I just completed a full diagnostic of our systems."
-    ce ""
 
-# game/episode007.rpy:172
+    ce "我和傑德剛剛完成了一個對我們系統的全面診斷。"
+
+
 translate traditional_chinese episode007_a185d9c4:
 
-    # c "Seems like a sensible thing to do after being docked for so long at that research station."
-    c ""
 
-# game/episode007.rpy:173
+    c "在停在那個研究站這麼久後，這似乎是該做的一件事。"
+
+
 translate traditional_chinese episode007_a1d31067:
 
-    # c "Did they plant any tracking software?"
-    c ""
 
-# game/episode007.rpy:174
+    c "他們有沒有安裝任何跟蹤軟件？"
+
+
 translate traditional_chinese episode007_c1d12582:
 
-    # ce "Not that we're aware of."
-    ce ""
 
-# game/episode007.rpy:176
+    ce "沒這回事。"
+
+
 translate traditional_chinese episode007_0682b249:
 
-    # ce "There's something else though."
-    ce ""
 
-# game/episode007.rpy:177
+    ce "但還有別的事。"
+
+
 translate traditional_chinese episode007_021a41dd:
 
-    # c "I really don't like the sound of that."
-    c ""
 
-# game/episode007.rpy:178
+    c "聽起來不太妙。"
+
+
 translate traditional_chinese episode007_22a2f0d5:
 
-    # ce "Someone has been sending messages to an unknown recipient."
-    ce ""
 
-# game/episode007.rpy:179
+    ce "有人一直在給一個未知收件人發送消息。"
+
+
 translate traditional_chinese episode007_51681bd5:
 
-    # c "What kind of messages?"
-    c ""
 
-# game/episode007.rpy:181
+    c "什麼樣的消息？"
+
+
 translate traditional_chinese episode007_a8a1a95d:
 
-    # ce "We don't know, because the original messages have been deleted and they tried to cover their tracks."
-    ce ""
 
-# game/episode007.rpy:182
+    ce "我們不知道，因爲原始消息已經被刪除了，他們還試圖掩蓋痕跡。"
+
+
 translate traditional_chinese episode007_0f7f9b12:
 
-    # ce "Three messages were sent out to an unknown location."
-    ce ""
 
-# game/episode007.rpy:183
+    ce "三條消息被發送到一個未知地點。"
+
+
 translate traditional_chinese episode007_766ac3a9:
 
-    # ce "The first one was sent while we were on Verdant Station, the second we're not sure of."
-    ce ""
 
-# game/episode007.rpy:184
+    ce "第一條是在我們停在\"翠綠\"空間站時發送的，第二條我們不確定。"
+
+
 translate traditional_chinese episode007_68301da4:
 
-    # c "And the third?"
-    c ""
 
-# game/episode007.rpy:186
+    c "第三條呢？"
+
+
 translate traditional_chinese episode007_cfd65657:
 
-    # ce "In the hours after we escaped from the research station."
-    ce ""
 
-# game/episode007.rpy:187
+    ce "在我們從研究站逃出來後的幾個小時內。"
+
+
 translate traditional_chinese episode007_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode007.rpy:189
+    c "操。"
+
+
 translate traditional_chinese episode007_ad95bac4:
 
-    # ce "It might be nothing, but we thought you should know."
-    ce ""
 
-# game/episode007.rpy:190
+    ce "可能沒什麼大不了的，但我們覺得你應該知道。"
+
+
 translate traditional_chinese episode007_c2241bec:
 
-    # c "We don't know the contents of those messages, but I'm pretty sure it's not nothing."
-    c ""
 
-# game/episode007.rpy:191
+    c "我們不知道那些消息的內容，但我相當肯定那不是「沒什麼大不了的」。"
+
+
 translate traditional_chinese episode007_fb00e839:
 
-    # c "Someone has been contacting a third party, probably feeding them information on our whereabouts."
-    c ""
 
-# game/episode007.rpy:193
+    c "有人一直在聯繫第三方，可能給他們提供我們的行蹤信息。"
+
+
 translate traditional_chinese episode007_e51cedcf:
 
-    # ce "But who?"
-    ce ""
 
-# game/episode007.rpy:194
+    ce "但會是誰呢？"
+
+
 translate traditional_chinese episode007_a4f959f9:
 
-    # c "I intend to find out."
-    c ""
 
-# game/episode007.rpy:195
+    c "我打算查出來。"
+
+
 translate traditional_chinese episode007_2d89cece:
 
-    # c "Is Jade somehow monitoring these illegal broadcasts?"
-    c ""
 
-# game/episode007.rpy:197
+    c "傑德有沒有在監控這些異常的信號傳遞？"
+
+
 translate traditional_chinese episode007_3af0e4ad:
 
-    # ce "I believe she is."
-    ce ""
 
-# game/episode007.rpy:198
+    ce "我確信她有。"
+
+
 translate traditional_chinese episode007_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode007.rpy:199
+    c "很好。"
+
+
 translate traditional_chinese episode007_ab17a107:
 
-    # c "We're the only three that know about this, right?"
-    c ""
 
-# game/episode007.rpy:200
+    c "目前知情的只有我們三人，對吧？"
+
+
 translate traditional_chinese episode007_c998b0d0:
 
-    # ce "We are."
-    ce ""
 
-# game/episode007.rpy:201
+    ce "是的。"
+
+
 translate traditional_chinese episode007_77d926e7:
 
-    # c "Please tell Jade to keep this to herself."
-    c ""
 
-# game/episode007.rpy:203
+    c "讓傑德千萬保密。"
+
+
 translate traditional_chinese episode007_1605c824:
 
-    # ce "I will."
-    ce ""
 
-# game/episode007.rpy:204
+    ce "明白。"
+
+
 translate traditional_chinese episode007_814473b3:
 
-    # "Troubled by Céline's investigation, I turned to our immediate problem, getting into Cetruvar's mansion."
-    ""
 
-# game/episode007.rpy:206
+    "瑟琳的調查令我困擾，但眼下當務之急是潛入塞特魯瓦的宅邸。"
+
+
 translate traditional_chinese episode007_58282c2d:
 
-    # "I wandered past the mess and saw Thyia sitting there."
-    ""
 
-# game/episode007.rpy:207
+    "我穿過凌亂的艙室時，看見塞婭坐在那兒。"
+
+
 translate traditional_chinese episode007_70ad65a5:
 
-    # c "Hey, got a minute?"
-    c ""
 
-# game/episode007.rpy:208
+    c "嘿，有空聊聊嗎？"
+
+
 translate traditional_chinese episode007_e875745e:
 
-    # th "Of course."
-    th ""
 
-# game/episode007.rpy:209
+    th "當然。"
+
+
 translate traditional_chinese episode007_f12a88db:
 
-    # c "Enjoying ConVitæ's hospitality for those six months, sure fucked up our plans."
-    c ""
 
-# game/episode007.rpy:211
+    c "這半年來的享受\"康維泰\"的款待，真他媽打亂了全盤計劃。"
+
+
 translate traditional_chinese episode007_b6db50d0:
 
-    # th "You can say that again."
-    th ""
 
-# game/episode007.rpy:212
+    th "說得太對了。"
+
+
 translate traditional_chinese episode007_aa7ef27f:
 
-    # th "Still, we're headed there, what are you planning on doing once we arrive?"
-    th ""
 
-# game/episode007.rpy:213
+    th "不過既然要去，你打算到了之後怎麼行動？"
+
+
 translate traditional_chinese episode007_5448e4db:
 
-    # c "I haven't got a clue, to be honest."
-    c ""
 
-# game/episode007.rpy:214
+    c "老實說，毫無頭緒。"
+
+
 translate traditional_chinese episode007_492c1d27:
 
-    # c "Put on those nice clothes and knock on the front door?"
-    c ""
 
-# game/episode007.rpy:215
+    c "換上體面禮服去敲正門？"
+
+
 translate traditional_chinese episode007_b2c0303a:
 
-    # c "The invitations Vitriv made for us are useless."
-    c ""
 
-# game/episode007.rpy:217
+    c "維特裏夫造的邀請函全廢了。"
+
+
 translate traditional_chinese episode007_861441b7:
 
-    # th "Yeah, I'm pretty sure selling the idea of getting into this month's party on invitations from half a year ago is impossible even for you."
-    th ""
 
-# game/episode007.rpy:218
+    th "半年前的邀請函混進本月派對——就算是你也不可能兜售這種鬼話吧。"
+
+
 translate traditional_chinese episode007_a1f0da02:
 
-    # c "Yeah..."
-    c ""
 
-# game/episode007.rpy:219
+    c "是啊..."
+
+
 translate traditional_chinese episode007_26a8f1e2:
 
-    # c "Though there's still the identities Vitriv created for us."
-    c ""
 
-# game/episode007.rpy:220
+    c "但維特裏夫僞造的身份還在。"
+
+
 translate traditional_chinese episode007_82a81bcf:
 
-    # c "How good are they?"
-    c ""
 
-# game/episode007.rpy:221
+    c "那些身份夠好嗎？"
+
+
 translate traditional_chinese episode007_94bc987e:
 
-    # c "Will they hold if they do a background check?"
-    c ""
 
-# game/episode007.rpy:223
+    c "經得起背景調查？"
+
+
 translate traditional_chinese episode007_b60be73b:
 
-    # th "Vitriv is very good at what he does, so yes, I think those identities are solid."
-    th ""
 
-# game/episode007.rpy:224
+    th "維特裏夫手藝精湛，僞造身份絕對牢靠。"
+
+
 translate traditional_chinese episode007_f9d30170:
 
-    # th "We're a bunch of socialites looking for some fun."
-    th ""
 
-# game/episode007.rpy:225
+    th "我們的人設是找樂子的社交名流。"
+
+
 translate traditional_chinese episode007_da1648ac:
 
-    # th "Rich enough to attend parties like this, but not filthy rich as to attract unwanted attention."
-    th ""
 
-# game/episode007.rpy:227
+    th "足夠闊氣參加宴會，又不會富得流油惹人注目。"
+
+
 translate traditional_chinese episode007_1180c3bb:
 
-    # th "Why, do you have an idea?"
-    th ""
 
-# game/episode007.rpy:228
+    th "怎麼，你有主意了？"
+
+
 translate traditional_chinese episode007_e4cd5240:
 
-    # c "More or less."
-    c ""
 
-# game/episode007.rpy:229
+    c "差不多吧。"
+
+
 translate traditional_chinese episode007_2ce1cc31:
 
-    # c "Do you have the layout of Cetruvar's mansion?"
-    c ""
 
-# game/episode007.rpy:231
+    c "你有塞特魯瓦宅邸的布局圖嗎？"
+
+
 translate traditional_chinese episode007_1c62db38:
 
-    # th "Yes, I've obtained the plans back on Barranthis."
-    th ""
 
-# game/episode007.rpy:232
+    th "是的，我在巴蘭西斯星上就搞到了圖紙。"
+
+
 translate traditional_chinese episode007_3f947546:
 
-    # th "Not easy to come by."
-    th ""
 
-# game/episode007.rpy:233
+    th "可不容易弄到手。"
+
+
 translate traditional_chinese episode007_49de9143:
 
-    # c "There's no way we're getting into that party with our months-old invitations."
-    c ""
 
-# game/episode007.rpy:234
+    c "我們不可能用那幾個月前的邀請函混進那個派對的。"
+
+
 translate traditional_chinese episode007_23e25069:
 
-    # c "So we forget about the front door and find another way in."
-    c ""
 
-# game/episode007.rpy:236
+    c "那就別管前門了，另找條路子進去吧。"
+
+
 translate traditional_chinese episode007_380c5040:
 
-    # th "You do realize that mansion is built to withstand any outside infiltration?"
-    th ""
 
-# game/episode007.rpy:237
+    th "你知道那座豪宅是可以抵禦任何外部滲透的吧？"
+
+
 translate traditional_chinese episode007_7a393ff9:
 
-    # th "The guy is paranoid about security."
-    th ""
 
-# game/episode007.rpy:238
+    th "那傢伙對安保太過神經質了。"
+
+
 translate traditional_chinese episode007_18b1a63f:
 
-    # c "There must be a way."
-    c ""
 
-# game/episode007.rpy:239
+    c "肯定有辦法的。"
+
+
 translate traditional_chinese episode007_5c55c403:
 
-    # th "[p_name_short], that house is sticking out of a cliff overlooking the sea."
-    th ""
 
-# game/episode007.rpy:240
+    th "[p_name_short], 那房子就掛懸崖上，還俯瞰着大海。"
+
+
 translate traditional_chinese episode007_2ceaaeae:
 
-    # c "So we rappel from that cliff onto the top floor, hide our gear and mingle with the regular guests."
-    c ""
 
-# game/episode007.rpy:242
+    c "那我們就從懸崖速降到頂樓，藏好傢夥再混進普通賓客裏。"
+
+
 translate traditional_chinese episode007_0ab29b80:
 
-    # th "That's insane, what about all the guards?"
-    th ""
 
-# game/episode007.rpy:243
+    th "太瘋狂了，那麼多警衛怎麼辦？"
+
+
 translate traditional_chinese episode007_26f40186:
 
-    # c "We need a diversion."
-    c ""
 
-# game/episode007.rpy:244
+    c "我們得弄個聲東擊西的把戲。"
+
+
 translate traditional_chinese episode007_cd89879d:
 
-    # c "What about a ship landing unannounced, filled with a bunch of socialites looking to party."
-    c ""
 
-# game/episode007.rpy:245
+    c "要不讓一艘船不打招呼就降落，裝滿了想開派對的社交名流唄。"
+
+
 translate traditional_chinese episode007_edd7e965:
 
-    # c "As soon as they start kicking a big fuss over their outdated invitations, keeping security busy, we climb down from that cliff and blend in."
-    c ""
 
-# game/episode007.rpy:247
+    c "等他們爲過期的邀請函鬧翻了天，把安保搞得團團轉，我們就從懸崖爬下來混進去。"
+
+
 translate traditional_chinese episode007_e0d0ecc2:
 
-    # th "Crazy."
-    th ""
 
-# game/episode007.rpy:248
+    th "瘋狂。"
+
+
 translate traditional_chinese episode007_57ec8726:
 
-    # c "But doable, right?"
-    c ""
 
-# game/episode007.rpy:250
+    c "但可行，是吧？"
+
+
 translate traditional_chinese episode007_e2c8978b:
 
-    # th "Maybe..."
-    th ""
 
-# game/episode007.rpy:251
+    th "也許吧..."
+
+
 translate traditional_chinese episode007_d6b76d85:
 
-    # th "We have the required gear on board."
-    th ""
 
-# game/episode007.rpy:252
+    th "我們船上有必需裝備。"
+
+
 translate traditional_chinese episode007_289708ec:
 
-    # c "Good, it should be enough for a small team."
-    c ""
 
-# game/episode007.rpy:253
+    c "好嘞，夠一小隊人用了。"
+
+
 translate traditional_chinese episode007_7424b10f:
 
-    # c "Kit probably, now that he's out of that wheelchair, and because he sees any rock formation as a personal challenge."
-    c ""
 
-# game/episode007.rpy:254
+    c "基特算一個吧，他從輪椅解脫了，再說他喜歡把攀巖當成挑戰。"
+
+
 translate traditional_chinese episode007_6edcd6cd:
 
-    # c "You, Aven and me makes four."
-    c ""
 
-# game/episode007.rpy:255
+    c "你、艾文和我，正好四個。"
+
+
 translate traditional_chinese episode007_54dc9546:
 
-    # c "That leaves the rest to create as much of a stir as possible and get the attention of any security."
-    c ""
 
-# game/episode007.rpy:257
+    c "剩下的人就負責搞出最大動靜，吸引所有安保注意。"
+
+
 translate traditional_chinese episode007_7585f21e:
 
-    # th "Fuck, I'm really not looking forward to dangling from a rocky cliff, to be honest."
-    th ""
 
-# game/episode007.rpy:258
+    th "媽的，老實說，真他媽不想吊在懸崖上晃悠。"
+
+
 translate traditional_chinese episode007_10881298:
 
-    # th "The descent is quite treacherous, so it's going to be a challenge even without any guards looking for intruders."
-    th ""
 
-# game/episode007.rpy:259
+    th "那坡道陡得很，就算沒人搜查入侵者，也夠挑戰了。"
+
+
 translate traditional_chinese episode007_131a378a:
 
-    # c "Right, but we have to take this shot."
-    c ""
 
-# game/episode007.rpy:260
+    c "對，但這個機會必須嘗試一下。"
+
+
 translate traditional_chinese episode007_d292501b:
 
-    # c "If I'm reading those plans correctly, we should be able to land here."
-    c ""
 
-# game/episode007.rpy:262
+    c "要是我沒看錯藍圖，我們應該能在這兒降落。"
+
+
 translate traditional_chinese episode007_fd09cb1b:
 
-    # th "Yes, that should be possible."
-    th ""
 
-# game/episode007.rpy:263
+    th "嗯，應該可行。"
+
+
 translate traditional_chinese episode007_12315d10:
 
-    # th "That gets you access to the lower floors of the mansion."
-    th ""
 
-# game/episode007.rpy:264
+    th "這樣就能溜進宅邸底層。"
+
+
 translate traditional_chinese episode007_961cf08a:
 
-    # th "The party is likely held on the lowest floor, where the swimming pool is."
-    th ""
 
-# game/episode007.rpy:265
+    th "泳池在最底層，派對多半在那兒辦。"
+
+
 translate traditional_chinese episode007_4accda74:
 
-    # th "The first floor is also open to the public, but other than that the mansion is private."
-    th ""
 
-# game/episode007.rpy:266
+    th "一樓倒是開放區域，其他樓層全屬私宅。"
+
+
 translate traditional_chinese episode007_a6abf800:
 
-    # th "There are a couple of elevators which will probably take you upstairs, but those are likely to be heavily guarded."
-    th ""
 
-# game/episode007.rpy:268
+    th "有幾部升降梯通樓上，估計重兵把守。"
+
+
 translate traditional_chinese episode007_5c466ac8:
 
-    # th "Once you're inside you need to improvise."
-    th ""
 
-# game/episode007.rpy:269
+    th "進去後得隨機應變。"
+
+
 translate traditional_chinese episode007_c8315362:
 
-    # th "Getting inside is tricky, but leaving the compound is a whole other matter entirely..."
-    th ""
 
-# game/episode007.rpy:270
+    th "溜進去還算簡單，但想撤出可另當別論..."
+
+
 translate traditional_chinese episode007_cae2b447:
 
-    # c "I know, but there's no other option."
-    c ""
 
-# game/episode007.rpy:271
+    c "明白，但別無選擇。"
+
+
 translate traditional_chinese episode007_ede19bf3:
 
-    # c "If we aren't busted during the party, we should be able to just leave with the other guests once they all go back home."
-    c ""
 
-# game/episode007.rpy:273
+    c "要是在派對上沒露餡，等賓客散場時混出去就行。"
+
+
 translate traditional_chinese episode007_83284676:
 
-    # th "Risky."
-    th ""
 
-# game/episode007.rpy:274
+    th "太冒險。"
+
+
 translate traditional_chinese episode007_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode007.rpy:275
+    c "我知道。"
+
+
 translate traditional_chinese episode007_41d8b439:
 
-    # c "Could you leave these plans with me, I'm going to study them a little more."
-    c ""
 
-# game/episode007.rpy:277
+    c "把藍圖留給我，我再仔細琢磨一下？"
+
+
 translate traditional_chinese episode007_aee6bcfe:
 
-    # th "Of course, I'll bring the others up to speed."
-    th ""
 
-# game/episode007.rpy:283
+    th "行，我去通知其他人。"
+
+
 translate traditional_chinese episode007_0926a89e:
 
-    # "We broke atmosphere several hours later."
-    ""
 
-# game/episode007.rpy:284
+    "幾小時後我們突入大氣層。"
+
+
 translate traditional_chinese episode007_f7c17cff:
 
-    # "Céline had plotted a course that would bring us near the cliff where the mansion was situated."
-    ""
 
-# game/episode007.rpy:285
+    "瑟琳規劃的航線直撲宅邸所在的峭壁。"
+
+
 translate traditional_chinese episode007_3c401605:
 
-    # "We had no illusions we weren't already spotted by the orbital ward drones that were undoubtedly patrolling the planet's perimeter."
-    ""
 
-# game/episode007.rpy:287
+    "軌道警衛無人機肯定早發現了——這星球外圍不可能沒巡邏隊。"
+
+
 translate traditional_chinese episode007_e32af614:
 
-    # "Hopefully our little detour and subsequent dumping of four passengers, before officially landing at the mansion, would go unnoticed."
-    ""
 
-# game/episode007.rpy:289
+    "但願在正式降落前，我們繞道空投四個人的事不會被察覺。"
+
+
 translate traditional_chinese episode007_5714cbcb:
 
-    # "Kit, Aven, Thyia and me were suited up and ready to make the jump."
-    ""
 
-# game/episode007.rpy:290
+    "基特、艾文、塞婭和我整裝待發。"
+
+
 translate traditional_chinese episode007_516fcd00:
 
-    # "The rest of the crew were all dressed up, ready to play a bunch of clueless socialites trying to gain access to one of Cetruvar's renowned private parties."
-    ""
 
-# game/episode007.rpy:291
+    "其他機組成員扮成社交名流，準備裝傻混進塞特魯瓦的頂級私人派對。"
+
+
 translate traditional_chinese episode007_5b1ae7e5:
 
-    # "We had stashed our change of clothes inside our backpacks, ready to be put on as soon as we dropped inside the mansion grounds."
-    ""
 
-# game/episode007.rpy:292
+    "我們早把換備換的衣物藏進背包了，就等落到大宅院裡立馬換上。"
+
+
 translate traditional_chinese episode007_64407562:
 
-    # ce "Five minutes until drop-off."
-    ce ""
 
-# game/episode007.rpy:293
+    ce "五分鐘後降落。"
+
+
 translate traditional_chinese episode007_6580c6b1:
 
-    # ce "You better get ready."
-    ce ""
 
-# game/episode007.rpy:295
+    ce "你趕緊準備好。"
+
+
 translate traditional_chinese episode007_c1de72b2:
 
-    # "We headed towards the cargo bay and waited until Céline would open the doors and give the go-ahead."
-    ""
 
-# game/episode007.rpy:296
+    "我們朝貨艙走去，等着瑟琳開門發信號。"
+
+
 translate traditional_chinese episode007_77f18e05:
 
-    # "Céline had assured us that she would be able to fly as low as possible towards the cliff's surface in order for us to jump down."
-    ""
 
-# game/episode007.rpy:297
+    "瑟琳向我們保證說，她會儘可能貼近崖面飛行，好讓我們跳下去。"
+
+
 translate traditional_chinese episode007_e312d938:
 
-    # ce "Be careful, there's quite a lot of wind outside."
-    ce ""
 
-# game/episode007.rpy:298
+    ce "小心點，外面風挺大的。"
+
+
 translate traditional_chinese episode007_3b2180f3:
 
-    # ce "Ready?"
-    ce ""
 
-# game/episode007.rpy:300
+    ce "準備好了？"
+
+
 translate traditional_chinese episode007_cf63047b:
 
-    # "She didn't wait for an answer and opened the cargo bay doors."
-    ""
 
-# game/episode007.rpy:301
+    "她沒等回答就開了貨艙門。"
+
+
 translate traditional_chinese episode007_31b9c06c:
 
-    # "A violent gust of wind nearly swept us off our feet, but we were able to make our way to the exit."
-    ""
 
-# game/episode007.rpy:302
+    "一陣狂風差點把我們颳倒，但總算挪到了出口。"
+
+
 translate traditional_chinese episode007_d63ba3a9:
 
-    # "The ship hovered closely above the rocky surface and Céline did a pretty good job of holding her steady."
-    ""
 
-# game/episode007.rpy:304
+    "船緊貼着巖石表面懸停，瑟琳穩穩把控着她，做得很棒。"
+
+
 translate traditional_chinese episode007_70503103:
 
-    # "Her warning about the wind was no exaggeration, as soon as we exited the Bastard, it tore at us with a savage ferocity."
-    ""
 
-# game/episode007.rpy:306
+    "她警告風大絕非誇張，我們剛一走出\"私生子\"號，狂風就兇猛地撕扯着我們。"
+
+
 translate traditional_chinese episode007_15e685f3:
 
-    # "Kit was the first to jump, his fall cushioned by the technique we all trained for."
-    ""
 
-# game/episode007.rpy:307
+    "基特是第一個跳下的，落地的技巧我們全練過，不錯的緩衝。"
+
+
 translate traditional_chinese episode007_e7a10e95:
 
-    # "We all made it down in one piece."
-    ""
 
-# game/episode007.rpy:309
+    "我們全都有驚無險落下來了。"
+
+
 translate traditional_chinese episode007_4ff6e1e4:
 
-    # "The Bastard's cargo bay door closed and she accelerated towards a higher altitude."
-    ""
 
-# game/episode007.rpy:310
+    "\"私生子\"號的貨艙門關上，她加速爬升了。"
+
+
 translate traditional_chinese episode007_f940dcac:
 
-    # "At that point we were alone."
-    ""
 
-# game/episode007.rpy:312
+    "這下就剩我們自己了。"
+
+
 translate traditional_chinese episode007_a27a69f9:
 
-    # "Not wasting any time we hammered our climbing spikes into the rock and looped sturdy cables through them."
-    ""
 
-# game/episode007.rpy:313
+    "沒耽誤時間，我們立馬把登山釘錘進巖石，掛上結實繩索。"
+
+
 translate traditional_chinese episode007_ce27790d:
 
-    # "We saw the Bastard make the necessary manoeuvres to start its descent towards the mansion's landing pad down below."
-    ""
 
-# game/episode007.rpy:315
+    "我們看着\"私生子\"號做着必要機動，開始降向下面大宅的停機坪。"
+
+
 translate traditional_chinese episode007_b06b95ed:
 
-    # "Kit was the first to rappel down and did so with visible glee."
-    ""
 
-# game/episode007.rpy:316
+    "基特第一個速降下去，一臉興奮。"
+
+
 translate traditional_chinese episode007_c84cf67a:
 
-    # "He wore the same expression during all those suicidal field trips we undertook - at his request - to various Sovereignty natural landmarks, when we were younger."
-    ""
 
-# game/episode007.rpy:318
+    "他就那副表情，以前那些玩命式的實地考察時也是——是他求着去的——去\"至高權域\"的自然景點，那時我們還小。"
+
+
 translate traditional_chinese episode007_6292aa02:
 
-    # th "Remind me, why are we doing it this way again?"
-    th ""
 
-# game/episode007.rpy:319
+    th "提醒我一下，爲什麼我們又要這樣做這種事？"
+
+
 translate traditional_chinese episode007_14b566f1:
 
-    # c "Lots of reasons that seemed good at the time."
-    c ""
 
-# game/episode007.rpy:320
+    c "很多理由在當時看起來都很好。"
+
+
 translate traditional_chinese episode007_da0aebfa:
 
-    # c "Just don't look down."
-    c ""
 
-# game/episode007.rpy:321
+    c "別往下看就行了。"
+
+
 translate traditional_chinese episode007_72822904:
 
-    # th "I already did."
-    th ""
 
-# game/episode007.rpy:322
+    th "我已經看了。"
+
+
 translate traditional_chinese episode007_fe9efa64:
 
-    # th "Why did that motherfucker need to build his mansion half inside a miles-high cliff?"
-    th ""
 
-# game/episode007.rpy:323
+    th "那傻屌爲什麼非得建豪宅在萬丈懸崖裡面？"
+
+
 translate traditional_chinese episode007_733952f8:
 
-    # c "Let's ask him once we get inside."
-    c ""
 
-# game/episode007.rpy:324
+    c "等我們進去以後再問問他吧。"
+
+
 translate traditional_chinese episode007_815b5bcc:
 
-    # th "Let's."
-    th ""
 
-# game/episode007.rpy:326
+    th "好的。"
+
+
 translate traditional_chinese episode007_eaf43eaf:
 
-    # "We neared one of the rooftops of the mansion complex."
-    ""
 
-# game/episode007.rpy:327
+    "我們靠近了府邸建築羣的其中一座屋頂。"
+
+
 translate traditional_chinese episode007_24abc0d7:
 
-    # "The Bastard had landed on the landing pad and we could see guards streaming towards the ship."
-    ""
 
-# game/episode007.rpy:328
+    "\"私生子\"號已降落在停機坪上，我們看見警衛正湧向那艘飛船。"
+
+
 translate traditional_chinese episode007_c51ac60a:
 
-    # "It looked as if most of the compound's security was busy pointing guns at the Bastard's entrance hatch, giving us a small window to enter the grounds unseen."
-    ""
 
-# game/episode007.rpy:330
+    "看起來園區大部分安保力量都忙着用槍指着\"私生子\"號的入口艙門，正好給我們創造了潛入庭院的短暫機會。"
+
+
 translate traditional_chinese episode007_5999c124:
 
-    # "Kit hit the roof first and immediately unfastened his rappelling harness."
-    ""
 
-# game/episode007.rpy:331
+    "基特率先落在屋頂，立刻解開了速降繩索。"
+
+
 translate traditional_chinese episode007_5e9d4d59:
 
-    # "Aven was next and did the same."
-    ""
 
-# game/episode007.rpy:333
+    "艾文緊隨其後也解開了裝備。"
+
+
 translate traditional_chinese episode007_84488868:
 
-    # "Thyia and I touched down almost simultaneously."
-    ""
 
-# game/episode007.rpy:335
+    "塞婭和我幾乎同時着陸。"
+
+
 translate traditional_chinese episode007_ef2d2865:
 
-    # "We hid the harnesses before hastily changing into our party outfits."
-    ""
 
-# game/episode007.rpy:336
+    "我們藏好吊具，匆忙換上宴會禮服。"
+
+
 translate traditional_chinese episode007_1fcd1383:
 
-    # "The Bastard wasn't visible from our vantage point, so there was no way of telling if they were still entertaining the compound's guard detail."
-    ""
 
-# game/episode007.rpy:337
+    "從我們的角度看不到\"私生子\"號，所以無從得知警衛是否還在糾纏於它。"
+
+
 translate traditional_chinese episode007_3312aa42:
 
-    # "The lack of gunshots so far was a promising sign."
-    ""
 
-# game/episode007.rpy:338
+    "目前沒有槍聲傳來，這是個好兆頭。"
+
+
 translate traditional_chinese episode007_c6017591:
 
-    # "We would be able to descend from the roof onto a balcony via a ladder."
-    ""
 
-# game/episode007.rpy:343
+    "我們可以通過梯子從屋頂下到陽臺。"
+
+
 translate traditional_chinese episode007_58cc5083:
 
-    # "Below us, crowding around a large swimming pool, most of the guests were gathered."
-    ""
 
-# game/episode007.rpy:344
+    "下方的賓客大多聚集在大型泳池的周圍。"
+
+
 translate traditional_chinese episode007_5093a049:
 
-    # "Some were swimming naked in the pool, mingling freely with the guests that still wore their clothes."
-    ""
 
-# game/episode007.rpy:345
+    "有些人在池中裸泳，穿着衣服的賓客也隨意加入其中。"
+
+
 translate traditional_chinese episode007_8bc5f27e:
 
-    # "The atmosphere seemed very loose, this wasn't some stuck up cocktail party."
-    ""
 
-# game/episode007.rpy:347
+    "氣氛相當隨性，這可不是什麼拘謹的雞尾酒會。"
+
+
 translate traditional_chinese episode007_9da21f34:
 
-    # c "Ready to mingle?"
-    c ""
 
-# game/episode007.rpy:349
+    c "準備好社交了嗎？"
+
+
 translate traditional_chinese episode007_616109db:
 
-    # av "No...{w} But we kinda have to, don't we?"
-    av ""
 
-# game/episode007.rpy:350
+    av "不...{w} 但不得不這樣，對吧？"
+
+
 translate traditional_chinese episode007_07400ed3:
 
-    # c "If we're to find more information on Eva, yes."
-    c ""
 
-# game/episode007.rpy:351
+    c "如果想查找更多關於伊娃的線索，是的。"
+
+
 translate traditional_chinese episode007_d36fffff:
 
-    # c "Cetruvar should have files on the Acarhyn, so we need to get into his personal quarters."
-    c ""
 
-# game/episode007.rpy:353
+    c "塞特魯瓦肯定存着阿卡海茵人的資料，我們必須進入他的私人區域。"
+
+
 translate traditional_chinese episode007_1218a053:
 
-    # ki "That's not going to be easy."
-    ki ""
 
-# game/episode007.rpy:354
+    ki "這可不容易。"
+
+
 translate traditional_chinese episode007_7cbe9f54:
 
-    # c "No, it isn't."
-    c ""
 
-# game/episode007.rpy:355
+    c "確實不容易。"
+
+
 translate traditional_chinese episode007_f50ddf08:
 
-    # c "But the night is still young, anything can happen."
-    c ""
 
-# game/episode007.rpy:357
+    c "不過夜還長着呢，什麼都有可能發生。"
+
+
 translate traditional_chinese episode007_f17cd85a:
 
-    # th "Shall we split up and meet here again later?"
-    th ""
 
-# game/episode007.rpy:359
+    th "我們分頭行動晚點再碰頭？"
+
+
 translate traditional_chinese episode007_942e8e42:
 
-    # av "Sounds like a plan."
-    av ""
 
-# game/episode007.rpy:361
+    av "好主意。"
+
+
 translate traditional_chinese episode007_e4947504:
 
-    # "I offered my arm to Thyia and together we took the elevator down to lower level."
-    ""
 
-# game/episode007.rpy:363
+    "我向塞婭伸出胳膊，我們一起乘電梯下樓。"
+
+
 translate traditional_chinese episode007_d4212a39:
 
-    # "Aven and Kit went into the opposite direction."
-    ""
 
-# game/episode007.rpy:364
+    "艾文和基特向相反的方向走去。"
+
+
 translate traditional_chinese episode007_b35e6849:
 
-    # "Soon we were surrounded by strangers."
-    ""
 
-# game/episode007.rpy:366
+    "很快我們被陌生人包圍了。"
+
+
 translate traditional_chinese episode007_947086fa:
 
-    # "Luckily our outfits were a match with those worn by the other guests, so we didn't stand out."
-    ""
 
-# game/episode007.rpy:368
+    "幸運的是我們的衣服和其他客人穿的相配，所以沒引起注意。"
+
+
 translate traditional_chinese episode007_f0f8345d:
 
-    # "I noticed that the guards were slowly trickling back, taking up positions throughout the compound."
-    ""
 
-# game/episode007.rpy:369
+    "我注意到守衛們慢慢回流，在院子裡各處佔據位置。"
+
+
 translate traditional_chinese episode007_30ee2e1c:
 
-    # "They were very unobtrusive, but there sure was a lot of muscle around for a mere garden party."
-    ""
 
-# game/episode007.rpy:370
+    "他們很不起眼，但僅僅是個花園派對周圍就有很多肌肉男。"
+
+
 translate traditional_chinese episode007_ea13ac5d:
 
-    # "Cetruvar probably felt a little insecure."
-    ""
 
-# game/episode007.rpy:372
+    "塞特魯瓦可能覺得有點不安。"
+
+
 translate traditional_chinese episode007_a7b398bb:
 
-    # "Speaking of Cetruvar, neither I nor Thyia had spotted our host yet."
-    ""
 
-# game/episode007.rpy:373
+    "說到塞特魯瓦，我和塞婭都沒發現主人呢。"
+
+
 translate traditional_chinese episode007_7ae531f5:
 
-    # "We were both in need of a drink, so we went looking for a waiter."
-    ""
 
-# game/episode007.rpy:375
+    "我倆都想喝一杯，於是去找服務員。"
+
+
 translate traditional_chinese episode007_d46a762c:
 
-    # c "I thought this would be a very formal thing, but judging from the amount of bikinis and swimsuits I was wrong."
-    c ""
 
-# game/episode007.rpy:376
+    c "我原以爲這會非常正式，但看了比基尼和泳衣的數量，我錯了。"
+
+
 translate traditional_chinese episode007_428306a3:
 
-    # th "Some of them are probably hired as decoration, but these parties are renowned because of all the socialites showing off their latest body sculpts."
-    th ""
 
-# game/episode007.rpy:377
+    th "其中一些人可能是僱來當裝飾的，但這些派對以社交名媛們炫耀最新身材塑形而聞名。"
+
+
 translate traditional_chinese episode007_b0f6974e:
 
-    # c "No shit..."
-    c ""
 
-# game/episode007.rpy:379
+    c "不是吧..."
+
+
 translate traditional_chinese episode007_245eac3a:
 
-    # th "That's not the only thing these events are famous for."
-    th ""
 
-# game/episode007.rpy:380
+    th "這些活動不只爲此出名。"
+
+
 translate traditional_chinese episode007_aa5cf913:
 
-    # th "Just wait until the entertainment starts."
-    th ""
 
-# game/episode007.rpy:381
+    th "等娛樂開始你就知道了。"
+
+
 translate traditional_chinese episode007_9116ea04:
 
-    # c "I reckon the entertainment doesn't have anything to do with playing happy music on a pair of bongos or fire juggling?"
-    c ""
 
-# game/episode007.rpy:382
+    c "我猜娛樂項目跟用手鼓演奏歡快音樂或耍火無關？"
+
+
 translate traditional_chinese episode007_014642ac:
 
-    # th "No, but you'll see."
-    th ""
 
-# game/episode007.rpy:383
+    th "不，但你會看到的。"
+
+
 translate traditional_chinese episode007_efc4445e:
 
-    # c "Can't wait."
-    c ""
 
-# game/episode007.rpy:385
+    c "等不及了。"
+
+
 translate traditional_chinese episode007_2e6a5bf4:
 
-    # "I snatched a pair of drinks from a tray held by a passing server and handed one glass to Thyia."
-    ""
 
-# game/episode007.rpy:386
+    "我從經過的服務員託盤上拿了兩杯酒，遞給塞婭一杯。"
+
+
 translate traditional_chinese episode007_d0b715f8:
 
-    # c "Do you think our host will show himself?"
-    c ""
 
-# game/episode007.rpy:388
+    c "你覺得主人會出現嗎？"
+
+
 translate traditional_chinese episode007_2c34d477:
 
-    # th "I think so, he was present on all other occasions."
-    th ""
 
-# game/episode007.rpy:389
+    th "我想會的，之前所有場合他都在。"
+
+
 translate traditional_chinese episode007_70d6c3cb:
 
-    # th "There are two levels above us."
-    th ""
 
-# game/episode007.rpy:390
+    th "我們上面還有兩層。"
+
+
 translate traditional_chinese episode007_bb21c76a:
 
-    # th "One is publicly accessible, but there's another floor above it."
-    th ""
 
-# game/episode007.rpy:392
+    th "一層公開可進，但上面還有一層。"
+
+
 translate traditional_chinese episode007_f0a1920c:
 
-    # th "According to the information I have, there's an elevator to that floor."
-    th ""
 
-# game/episode007.rpy:393
+    th "根據我掌握的信息，那裡有電梯通往那層。"
+
+
 translate traditional_chinese episode007_40606538:
 
-    # c "Heavily guarded, probably?"
-    c ""
 
-# game/episode007.rpy:394
+    c "守衛森嚴，可能吧？"
+
+
 translate traditional_chinese episode007_9e857221:
 
-    # th "Probably."
-    th ""
 
-# game/episode007.rpy:396
+    th "很可能。"
+
+
 translate traditional_chinese episode007_941c9f0d:
 
-    # th "Cetruvar doesn't fuck around."
-    th ""
 
-# game/episode007.rpy:397
+    th "塞特魯瓦可不會胡搞。"
+
+
 translate traditional_chinese episode007_9592c65a:
 
-    # th "Though it surprises me we could pull off that stunt with the Iron Bastard so close to the mansion."
-    th ""
 
-# game/episode007.rpy:398
+    th "不過\"鋼鐵私生子\"號離宅邸那麼近我們還能得手，這倒讓我喫驚。"
+
+
 translate traditional_chinese episode007_b17b4e76:
 
-    # c "Well, for all we know the rest of the crew is lying face down on the ground at gunpoint while the guards search for us."
-    c ""
 
-# game/episode007.rpy:400
+    c "嗯，說不定我們其他成員正臉朝下趴在地上被槍指着，守衛們則在搜捕我們呢。"
+
+
 translate traditional_chinese episode007_42eb924c:
 
-    # th "Could be, though I haven't heard any commotion so far."
-    th ""
 
-# game/episode007.rpy:401
+    th "有可能，不過目前我還沒聽到任何騷動。"
+
+
 translate traditional_chinese episode007_8b3aa7a3:
 
-    # c "So far, so good."
-    c ""
 
-# game/episode007.rpy:402
+    c "目前爲止一切順利。"
+
+
 translate traditional_chinese episode007_6e98d1f9:
 
-    # c "Look, Aven and Kit are walking towards us."
-    c ""
 
-# game/episode007.rpy:403
+    c "看，艾文和基特朝我們走過來了。"
+
+
 translate traditional_chinese episode007_80919c3a:
 
-    # c "Enjoying the party?"
-    c ""
 
-# game/episode007.rpy:405
+    c "派對玩得開心嗎？"
+
+
 translate traditional_chinese episode007_2eff7eea:
 
-    # ki "Very much, I was about to take one of those lovely ladies up for an offer to join her in the swimming pool, but Aven wouldn't let me."
-    ki ""
 
-# game/episode007.rpy:407
+    ki "開心得很，我剛要帶其中一個可愛姑娘上樓，答應陪她去遊泳池玩玩，可艾文死活不讓。"
+
+
 translate traditional_chinese episode007_93086bb3:
 
-    # av "I'm sorry I ruined your chance to eternal happiness with that girl, but you really have to stop thinking with your dick, Kit."
-    av ""
 
-# game/episode007.rpy:408
+    av "真的很抱歉破壞了你和那位姑娘共赴永恆幸福的機會，但你真的該改掉用下半身思考的毛病了，基特。"
+
+
 translate traditional_chinese episode007_ff2eef49:
 
-    # c "Ouch."
-    c ""
 
-# game/episode007.rpy:410
+    c "嗷。"
+
+
 translate traditional_chinese episode007_37248dc4:
 
-    # av "Apart from checking out the pool, we went upstairs."
-    av ""
 
-# game/episode007.rpy:411
+    av "檢查完泳池，我們還上了樓。"
+
+
 translate traditional_chinese episode007_3ca93da1:
 
-    # av "It's crowded up there."
-    av ""
 
-# game/episode007.rpy:412
+    av "上面人擠人。"
+
+
 translate traditional_chinese episode007_4f500329:
 
-    # av "Two elevators, one guarded more heavily than the other."
-    av ""
 
-# game/episode007.rpy:413
+    av "兩臺電梯，其中一臺的守衛比另一臺森嚴得多。"
+
+
 translate traditional_chinese episode007_8219447f:
 
-    # av "I get a sense that people are waiting for our host to arrive to really kick off the party."
-    av ""
 
-# game/episode007.rpy:414
+    av "我感覺大家正在等待主人到場正式揭開派對序幕。"
+
+
 translate traditional_chinese episode007_e370e6e4:
 
-    # c "We'd better wait, in that case."
-    c ""
 
-# game/episode007.rpy:415
+    c "那樣的話我們最好再等等。"
+
+
 translate traditional_chinese episode007_211d7242:
 
-    # c "No word about the rest of our crew?"
-    c ""
 
-# game/episode007.rpy:417
+    c "沒有其他隊友的消息嗎？"
+
+
 translate traditional_chinese episode007_dd550396:
 
-    # ki "Nothing, though people are talking about it."
-    ki ""
 
-# game/episode007.rpy:418
+    ki "沒有，不過大家都在議論這事。"
+
+
 translate traditional_chinese episode007_1b2071cd:
 
-    # ki "There's some speculation about the ship containing special guests, because it landed on Cetruvar's private landing pad."
-    ki ""
 
-# game/episode007.rpy:419
+    ki "有人在猜那艘船載着特別嘉賓，因爲它停在塞特魯瓦的私人停機坪上。"
+
+
 translate traditional_chinese episode007_2f35c87a:
 
-    # c "Oh fuck."
-    c ""
 
-# game/episode007.rpy:420
+    c "操。"
+
+
 translate traditional_chinese episode007_fc960483:
 
-    # c "Let's hope Lilly and the others can pull off that confused socialite routine convincingly..."
-    c ""
 
-# game/episode007.rpy:421
+    c "只能祈禱莉莉他們能成功扮演好睏惑的上流人士了..."
+
+
 translate traditional_chinese episode007_674218ec:
 
-    # c "I'm going to check out those elevators for myself, are you coming Thyia?"
-    c ""
 
-# game/episode007.rpy:423
+    c "我打算親自去查看那些電梯，你要來嗎塞婭？"
+
+
 translate traditional_chinese episode007_62458cc3:
 
-    # th "Sure thing."
-    th ""
 
-# game/episode007.rpy:425
+    th "當然。"
+
+
 translate traditional_chinese episode007_17b76bdc:
 
-    # "The elevators turned out to be the only places where the mansion's guards were most visibly on display."
-    ""
 
-# game/episode007.rpy:427
+    "結果發現電梯是整座宅邸裏守衛部署最顯眼的位置。"
+
+
 translate traditional_chinese episode007_0509d4cd:
 
-    # "The party guests mostly avoided the immediate surrounding area, crowding other parts of the mansion instead."
-    ""
 
-# game/episode007.rpy:428
+    "派對客人們大多避開了鄰近區域，反而擠在莊園的其他地方。"
+
+
 translate traditional_chinese episode007_b18ee17c:
 
-    # "When the doors of the elevator opened, most heads turned to look at who would emerge."
-    ""
 
-# game/episode007.rpy:430
+    "電梯門打開時，大多數人都轉過頭來看誰會出來。"
+
+
 translate traditional_chinese episode007_df109787:
 
-    # "It turned out to be several familiar faces..."
-    ""
 
-# game/episode007.rpy:432
+    "原來是幾張熟悉的面孔..."
+
+
 translate traditional_chinese episode007_41e2febb:
 
-    # th "Fuck, that wasn't the plan!"
-    th ""
 
-# game/episode007.rpy:436
+    th "操，這不是所計劃好的！"
+
+
 translate traditional_chinese episode007_c5d09f60:
 
-    # cet "I bid you all a heartfelt welcome to my humble abode."
-    cet ""
 
-# game/episode007.rpy:437
+    cet "我衷心歡迎大家光臨寒舍。"
+
+
 translate traditional_chinese episode007_eeda6222:
 
-    # cet "Some wayward guests found themselves on my landing pad, as some of you might have noticed."
-    cet ""
 
-# game/episode007.rpy:438
+    cet "一些迷路的客人發現自己在我的着陸坪上，就像你們中有些人可能已經注意到的。"
+
+
 translate traditional_chinese episode007_39f41e00:
 
-    # cet "The more, the merrier, I say!"
-    cet ""
 
-# game/episode007.rpy:439
+    cet "人越多越好，我說！"
+
+
 translate traditional_chinese episode007_917107be:
 
-    # cet "Enjoy the drinks and other refreshments."
-    cet ""
 
-# game/episode007.rpy:440
+    cet "享受飲品和其他點心吧。"
+
+
 translate traditional_chinese episode007_e3017efb:
 
-    # cet "And let's not forget the entertainment we have in store for you."
-    cet ""
 
-# game/episode007.rpy:441
+    cet "而且別忘了我們爲你們準備的娛樂活動。"
+
+
 translate traditional_chinese episode007_d26ac57a:
 
-    # cet "Tonight we party!"
-    cet ""
 
-# game/episode007.rpy:444
+    cet "今晚我們開派對！"
+
+
 translate traditional_chinese episode007_28bf8af4:
 
-    # "The man in front of the elevator, who was obviously Ranimo Cetruvar, was greeted with numerous cheers before the music and conversation overtook everything."
-    ""
 
-# game/episode007.rpy:445
+    "電梯前的那個男人，顯然是拉尼莫·塞特魯瓦，在音樂和對話淹沒一切之前，被衆多歡呼聲迎接。"
+
+
 translate traditional_chinese episode007_d6134f96:
 
-    # "Our friends gradually left the orbit of Cetruvar who started to make his way through the crowd."
-    ""
 
-# game/episode007.rpy:447
+    "我們的朋友逐漸離開了塞特魯瓦的軌道，他開始在人羣中走動。"
+
+
 translate traditional_chinese episode007_8575f54e:
 
-    # "That left Lilly, who, to my distinct horror, walked arm in arm with our host."
-    ""
 
-# game/episode007.rpy:449
+    "只剩下莉莉，她和這位主人手挽着手走了，這讓我特別害怕。"
+
+
 translate traditional_chinese episode007_ad775935:
 
-    # "That left Lilly, who walked arm in arm with our host."
-    ""
 
-# game/episode007.rpy:450
+    "只剩下莉莉，她和這位主人手挽着手走了。"
+
+
 translate traditional_chinese episode007_2012e203:
 
-    # c "Why is Lilly hanging on that man's arm?"
-    c ""
 
-# game/episode007.rpy:452
+    c "爲什麼莉莉挽着那個男人的胳膊？"
+
+
 translate traditional_chinese episode007_7d80db54:
 
-    # th "Beats me."
-    th ""
 
-# game/episode007.rpy:453
+    th "我哪知道。"
+
+
 translate traditional_chinese episode007_42aefb98:
 
-    # c "What a pompous clown, by the way."
-    c ""
 
-# game/episode007.rpy:454
+    c "順便說一句，真是個自大的小丑。"
+
+
 translate traditional_chinese episode007_baacb623:
 
-    # th "He has a certain way with words, that much is true."
-    th ""
 
-# game/episode007.rpy:455
+    th "他很會說，這點是真的。"
+
+
 translate traditional_chinese episode007_3aecaadf:
 
-    # c "Why did they all come down with Cetruvar?"
-    c ""
 
-# game/episode007.rpy:457
+    c "爲什麼他們都跟着塞特魯瓦下來了？"
+
+
 translate traditional_chinese episode007_11380344:
 
-    # th "I don't know, but one of our friends might have the answers."
-    th ""
 
-# game/episode007.rpy:458
+    th "我不知道，但我們中的一個朋友可能有答案。"
+
+
 translate traditional_chinese episode007_b12a7a79:
 
-    # th "Unless you want to say hello to our gracious host already."
-    th ""
 
-# game/episode007.rpy:460
+    th "除非你已經想跟我們慷慨的主人打招呼了。"
+
+
 translate traditional_chinese episode007_7d17bbf6:
 
-    # c "I might accidentally punch him in the face with a broken wine glass, so better not."
-    c ""
 
-# game/episode007.rpy:462
+    c "我可能會不小心用破碎的酒杯打在他臉上，所以最好不要。"
+
+
 translate traditional_chinese episode007_8f151fa4:
 
-    # c "I might accidentally punch him in the face to wipe that smug grin from it, so better not."
-    c ""
 
-# game/episode007.rpy:464
+    c "我可能會不小心打在他臉上，來擦掉他那得意的笑容，所以最好不要。"
+
+
 translate traditional_chinese episode007_4be60cce:
 
-    # th "Testy, are we?"
-    th ""
 
-# game/episode007.rpy:465
+    th "火氣挺大，嗯？"
+
+
 translate traditional_chinese episode007_587563d4:
 
-    # c "Quite."
-    c ""
 
-# game/episode007.rpy:466
+    c "是啊。"
+
+
 translate traditional_chinese episode007_20e451db:
 
-    # c "Let's go find the others."
-    c ""
 
-# game/episode007.rpy:468
+    c "我們去找其他人吧。"
+
+
 translate traditional_chinese episode007_f6e8b54d:
 
-    # "We found Nadya and Jade on the balcony, trying to remain inconspicuous while scanning the crowd below for familiar faces."
-    ""
 
-# game/episode007.rpy:470
+    "我們在陽臺上找到了娜迪亞和傑德，她們試圖不引人注目，同時掃視下方的人羣尋找熟悉的面孔。"
+
+
 translate traditional_chinese episode007_abc69957:
 
-    # c "Fancy meeting you here."
-    c ""
 
-# game/episode007.rpy:471
+    c "沒想到在這兒碰見你。"
+
+
 translate traditional_chinese episode007_d07301e4:
 
-    # na "Oh [p_name_short]!"
-    na ""
 
-# game/episode007.rpy:472
+    na "哦[p_name_short]！"
+
+
 translate traditional_chinese episode007_71da670e:
 
-    # c "What are you doing here?"
-    c ""
 
-# game/episode007.rpy:474
+    c "你在這兒幹什麼？"
+
+
 translate traditional_chinese episode007_a419e37c:
 
-    # na "As soon as we landed the ship was surrounded by guards."
-    na ""
 
-# game/episode007.rpy:475
+    na "我們一着陸，飛船就被守衛包圍了。"
+
+
 translate traditional_chinese episode007_569d09f2:
 
-    # na "We did our best impression of being hapless debutantes, which seemed to be working."
-    na ""
 
-# game/episode007.rpy:477
+    na "我們盡力假裝成無助的初進社交圈的女孩，這招似乎奏效了。"
+
+
 translate traditional_chinese episode007_90253ef2:
 
-    # na "They demanded our invitations and began to study them a little too keenly."
-    na ""
 
-# game/episode007.rpy:478
+    na "他們要求查看我們的邀請函，並開始過分仔細地研究它們。"
+
+
 translate traditional_chinese episode007_bcb34861:
 
-    # na "Then he appeared, Cetruvar, I mean."
-    na ""
 
-# game/episode007.rpy:480
+    na "然後他出現了，塞特魯瓦，我是說。"
+
+
 translate traditional_chinese episode007_7febe7d7:
 
-    # na "He welcomed us personally and threw away those invitations."
-    na ""
 
-# game/episode007.rpy:481
+    na "他親自歡迎了我們，並扔掉了那些邀請函。"
+
+
 translate traditional_chinese episode007_5ab8aea8:
 
-    # na "We didn't need them, he said, and asked us to accompany him for his grand entrance."
-    na ""
 
-# game/episode007.rpy:482
+    na "'你們不需要邀請函了，'他說，並要求我們陪他進行他的盛大入場儀式。"
+
+
 translate traditional_chinese episode007_25a29931:
 
-    # na "He took a keen interest in Lilly, asked her to share a drink with him."
-    na ""
 
-# game/episode007.rpy:483
+    na "他對莉莉格外感興趣，邀請她和他分享一杯飲料。"
+
+
 translate traditional_chinese episode007_beb11523:
 
-    # c "And she obliged him?"
-    c ""
 
-# game/episode007.rpy:485
+    c "她答應了？"
+
+
 translate traditional_chinese episode007_5505b525:
 
-    # na "I think she felt she didn't have a choice."
-    na ""
 
-# game/episode007.rpy:487
+    na "我想她覺得她沒得選擇。"
+
+
 translate traditional_chinese episode007_af1acb8d:
 
-    # ki "What about Céline, I didn't see her with you?"
-    ki ""
 
-# game/episode007.rpy:489
+    ki "瑟琳怎麼樣，我沒看到她跟你一起？"
+
+
 translate traditional_chinese episode007_b28b2354:
 
-    # na "She chose to stay with the ship, to keep out any curious guards."
-    na ""
 
-# game/episode007.rpy:490
+    na "她選擇留在飛船上，以防任何好奇的守衛進入。"
+
+
 translate traditional_chinese episode007_d0efb809:
 
-    # c "So she's all alone on the Bastard?"
-    c ""
 
-# game/episode007.rpy:492
+    c "所以她獨自在\"私生子\"號上？"
+
+
 translate traditional_chinese episode007_115682bb:
 
-    # na "No, Raene, Ziv, Vess and Thim stayed behind too."
-    na ""
 
-# game/episode007.rpy:494
+    na "不，蕾妮、基芙、薇絲和蒂姆也留下來了。"
+
+
 translate traditional_chinese episode007_d8c59078:
 
-    # av "Well, this makes our exit more complicated."
-    av ""
 
-# game/episode007.rpy:495
+    av "嗯，這讓我們的撤離變得更加複雜了。"
+
+
 translate traditional_chinese episode007_b7203187:
 
-    # c "It sure does."
-    c ""
 
-# game/episode007.rpy:496
+    c "確實如此。"
+
+
 translate traditional_chinese episode007_99976b4a:
 
-    # c "Kit, Jade and Aven, could you find the others?"
-    c ""
 
-# game/episode007.rpy:497
+    c "基特、傑德和艾文，你們能去找其他人嗎？"
+
+
 translate traditional_chinese episode007_11578771:
 
-    # c "Thyia, Nadya and I are going to try and rescue Lilly from the clutches of our host."
-    c ""
 
-# game/episode007.rpy:499
+    c "塞婭、娜迪亞和我要嘗試從我們主人的魔爪中救出莉莉。"
+
+
 translate traditional_chinese episode007_8428e111:
 
-    # ki "Right, no problem."
-    ki ""
 
-# game/episode007.rpy:500
+    ki "好的，沒問題。"
+
+
 translate traditional_chinese episode007_b4d1bd6f:
 
-    # ki "It seems that the entertainment is about to kick off though."
-    ki ""
 
-# game/episode007.rpy:501
+    ki "看起來娛樂節目馬上就要開始了。"
+
+
 translate traditional_chinese episode007_5786f7a1:
 
-    # c "We'll have an easier time wading through the audience in that case."
-    c ""
 
-# game/episode007.rpy:503
+    c "那樣的話，我們在人羣中穿梭會更輕鬆一些。"
+
+
 translate traditional_chinese episode007_f7a832dd:
 
-    # th "I overheard a couple of people mentioning a Yalvai hatching ceremony, whatever that is."
-    th ""
 
-# game/episode007.rpy:505
+    th "我聽到幾個人在說什麼亞爾瓦族孵化儀式，管他是什麼東西。"
+
+
 translate traditional_chinese episode007_98eae4b8:
 
-    # na "A Yalvai hatching ceremony?"
-    na ""
 
-# game/episode007.rpy:506
+    na "亞爾瓦族孵化儀式？"
+
+
 translate traditional_chinese episode007_7c711db4:
 
-    # na "Are you sure that's what you heard?"
-    na ""
 
-# game/episode007.rpy:508
+    na "你確定你沒聽錯？"
+
+
 translate traditional_chinese episode007_0d3bcbd8:
 
-    # th "Yes, I'm quite sure."
-    th ""
 
-# game/episode007.rpy:510
+    th "是的，我很肯定。"
+
+
 translate traditional_chinese episode007_f46c9755:
 
-    # na "I didn't know the party would be like this..."
-    na ""
 
-# game/episode007.rpy:511
+    na "我沒想到聚會會是這樣子的..."
+
+
 translate traditional_chinese episode007_efe0e8c3:
 
-    # c "Like what?"
-    c ""
 
-# game/episode007.rpy:513
+    c "什麼樣？"
+
+
 translate traditional_chinese episode007_4088b827:
 
-    # th "As I already told [p_name_short], Cetruvar's parties are kinda notorious for this type of thing."
-    th ""
 
-# game/episode007.rpy:514
+    th "就像我已經告訴過[p_name_short]，塞特魯瓦的派對因爲這類事情有點臭名昭著。"
+
+
 translate traditional_chinese episode007_6f6f512b:
 
-    # th "There are stories about orgies and weird sexual kinks on display."
-    th ""
 
-# game/episode007.rpy:515
+    th "有傳言說這裡有淫亂派對和各種古怪的性癖展示。"
+
+
 translate traditional_chinese episode007_1ac0c083:
 
-    # th "Today shouldn't be any different."
-    th ""
 
-# game/episode007.rpy:516
+    th "今天應該也不會有什麼不同。"
+
+
 translate traditional_chinese episode007_b66e967b:
 
-    # c "What has that got to do with a hatching ceremony?"
-    c ""
 
-# game/episode007.rpy:518
+    c "這跟孵化儀式有什麼關係？"
+
+
 translate traditional_chinese episode007_85cbf3e3:
 
-    # na "Yalvai are a parasitic species who reproduce by infecting a male host in order to lay eggs inside a female."
-    na ""
 
-# game/episode007.rpy:519
+    na "亞爾瓦族是一種寄生生物，他們通過感染雄性宿主來在雌性體內產卵。"
+
+
 translate traditional_chinese episode007_4cffdda2:
 
-    # na "The parasite changes the male physiology, especially the penis."
-    na ""
 
-# game/episode007.rpy:520
+    na "這種寄生蟲會改變雄性的生理機能，尤其是陰莖。"
+
+
 translate traditional_chinese episode007_bfcd214b:
 
-    # na "When the male mates with a female, his sperm alters the female's ovaries and fertilizes multiple eggs at once which in turn mutate into Yalvai eggs."
-    na ""
 
-# game/episode007.rpy:521
+    na "當雄性與雌性交配時，他的精子會改變雌性的卵巢，一次性讓多個卵子受精，然後這些卵子會變異成亞爾瓦族的卵。"
+
+
 translate traditional_chinese episode007_2e35ff8d:
 
-    # na "The female then gives birth to the eggs."
-    na ""
 
-# game/episode007.rpy:522
+    na "然後雌性就會產下這些卵。"
+
+
 translate traditional_chinese episode007_b6436166:
 
-    # c "That sounds gross and clever at the same time."
-    c ""
 
-# game/episode007.rpy:524
+    c "聽起來既噁心又巧妙。"
+
+
 translate traditional_chinese episode007_1e92f3af:
 
-    # na "It's a convoluted reproduction strategy, but it has worked out quite well for the Yalvai."
-    na ""
 
-# game/episode007.rpy:525
+    na "這是一種複雜的繁殖策略，但對亞爾瓦族來說效果挺好。"
+
+
 translate traditional_chinese episode007_6079666c:
 
-    # na "The male's physique is greatly enhanced, as is the penis."
-    na ""
 
-# game/episode007.rpy:526
+    na "雄性的體型會大幅增強，陰莖也是如此。"
+
+
 translate traditional_chinese episode007_e78cae24:
 
-    # na "For the women, the act of conceiving the eggs is said to be many times more pleasurable than an orgasm."
-    na ""
 
-# game/episode007.rpy:527
+    na "對於女性來說，據說孕育這些卵的過程比高潮還要爽好幾倍。"
+
+
 translate traditional_chinese episode007_34235114:
 
-    # c "Right.{w} And all this is going to happen here?"
-    c ""
 
-# game/episode007.rpy:529
+    c "好吧。{w}這一切都要在這裡發生嗎？"
+
+
 translate traditional_chinese episode007_23717796:
 
-    # th "It seems so and that's why I'm out of here."
-    th ""
 
-# game/episode007.rpy:547
+    th "看起來是的，這就是爲什麼我要離開這裡。"
+
+
 translate traditional_chinese episode007_4af9550a:
 
-    # c "You're not leaving, aunt Nadya?"
-    c ""
 
-# game/episode007.rpy:549
+    c "你不會走吧，娜迪亞阿姨？"
+
+
 translate traditional_chinese episode007_72d3f50a:
 
-    # c "You're not leaving, Nadya?"
-    c ""
 
-# game/episode007.rpy:551
+    c "你不會走吧，娜迪亞？"
+
+
 translate traditional_chinese episode007_422cd979:
 
-    # na "I've never seen a Yalvai hatching myself, so I'd like to stay and watch."
-    na ""
 
-# game/episode007.rpy:552
+    na "我從未親眼見過亞爾瓦族孵化，所以我想留下來看看。"
+
+
 translate traditional_chinese episode007_ac7fd059:
 
-    # c "Right, for scientific purposes..."
-    c ""
 
-# game/episode007.rpy:553
+    c "對，爲了科學目的..."
+
+
 translate traditional_chinese episode007_f2ad077b:
 
-    # na "Exactly."
-    na ""
 
-# game/episode007.rpy:554
+    na "正是。"
+
+
 translate traditional_chinese episode007_c7948a86:
 
-    # c "I was joking."
-    c ""
 
-# game/episode007.rpy:556
+    c "我在開玩笑。"
+
+
 translate traditional_chinese episode007_ebad5241:
 
-    # na "I wasn't, the lifecycle of the Yalvai is fascinating."
-    na ""
 
-# game/episode007.rpy:557
+    na "我可沒開玩笑，亞爾瓦族的生命周期太有趣了。"
+
+
 translate traditional_chinese episode007_0973155d:
 
-    # na "It's one of the few species where the gestation of the eggs takes minimal time."
-    na ""
 
-# game/episode007.rpy:558
+    na "它是少數幾個卵孕育所需時間極短的物種之一。"
+
+
 translate traditional_chinese episode007_8af5767f:
 
-    # na "From the moment the eggs are conceived inside the female it takes mere minutes to birth them."
-    na ""
 
-# game/episode007.rpy:562
+    na "從雌性體內卵子受精那一刻起，只需幾分鐘就能誕下它們。"
+
+
 translate traditional_chinese episode007_5686cc79:
 
-    # "Most of the people lost interest soon after and the room was soon abuzz with conversation."
-    ""
 
-# game/episode007.rpy:567
+    "之後大多數人很快失去興趣，屋子裡很快就充滿談話聲。"
+
+
 translate traditional_chinese episode007_eaf433d0:
 
-    # na "That was fascinating."
-    na ""
 
-# game/episode007.rpy:568
+    na "那太迷人了。"
+
+
 translate traditional_chinese episode007_fe0cc5aa:
 
-    # c "That's one way of looking at it."
-    c ""
 
-# game/episode007.rpy:570
+    c "那也算是一種看法。"
+
+
 translate traditional_chinese episode007_b856d736:
 
-    # na "Oh...{w} Yes...{w} Quite."
-    na ""
 
-# game/episode007.rpy:571
+    na "哦...{w} 是的...{w} 相當。"
+
+
 translate traditional_chinese episode007_bdfb8bdf:
 
-    # na "But the transformations wrought by that parasite are tremendous, it's almost unbelievable."
-    na ""
 
-# game/episode007.rpy:572
+    na "但那寄生蟲造成的轉變是驚人的，簡直難以置信。"
+
+
 translate traditional_chinese episode007_1d430ad5:
 
-    # c "I'll gladly take your word for it."
-    c ""
 
-# game/episode007.rpy:574
+    c "我很樂意相信你的話。"
+
+
 translate traditional_chinese episode007_ee3a8d6d:
 
-    # na "Yes, I get what you're saying."
-    na ""
 
-# game/episode007.rpy:576
+    na "是的，我明白你的意思。"
+
+
 translate traditional_chinese episode007_90c43d12:
 
-    # na "I don't know what possesses these people to willingly infect themselves with the Yalvai."
-    na ""
 
-# game/episode007.rpy:577
+    na "我真不明白是什麼驅使這些人主動感染亞爾瓦族。"
+
+
 translate traditional_chinese episode007_8c9337cd:
 
-    # na "The pleasure must be so addictive somehow."
-    na ""
 
-# game/episode007.rpy:578
+    na "那種快感肯定非常上癮。"
+
+
 translate traditional_chinese episode007_5b6998f6:
 
-    # c "Let's go find Lilly."
-    c ""
 
-# game/episode007.rpy:579
+    c "我們去找莉莉吧。"
+
+
 translate traditional_chinese episode007_9d76ee47:
 
-    # na "Yes, that's a good idea."
-    na ""
 
-# game/episode007.rpy:584
+    na "好的，這是個好主意。"
+
+
 translate traditional_chinese episode007_5b6998f6_1:
 
-    # c "Let's go find Lilly."
-    c ""
 
-# game/episode007.rpy:586
+    c "我們去找莉莉吧。"
+
+
 translate traditional_chinese episode007_35f645e3:
 
-    # na "Right, that might be a better idea."
-    na ""
 
-# game/episode007.rpy:587
+    na "對，那可能是個更好的主意。"
+
+
 translate traditional_chinese episode007_a2270bdc:
 
-    # "We left the balcony as a mountain of a man entered the room adjacent."
-    ""
 
-# game/episode007.rpy:588
+    "我們離開陽臺時，一個身材魁梧如山的男人走進了旁邊的房間。"
+
+
 translate traditional_chinese episode007_62942f25:
 
-    # "I had an idea what would happen and I didn't intend to stay and watch."
-    ""
 
-# game/episode007.rpy:591
+    "我猜到會發生什麼，不想留下來看。"
+
+
 translate traditional_chinese episode007_955d1d88:
 
-    # "Most of the guests had been lured by the ovarian entertainment one level above."
-    ""
 
-# game/episode007.rpy:593
+    "大多數賓客都被上一層樓的卵巢娛樂活動吸引走了。"
+
+
 translate traditional_chinese episode007_1e5acc4f:
 
-    # "The level with the pool was almost deserted, save for two people looking out over the vast ocean."
-    ""
 
-# game/episode007.rpy:595
+    "帶泳池的那一層幾乎空無一人，只剩下兩個人眺望遼闊的海洋。"
+
+
 translate traditional_chinese episode007_33f931ca:
 
-    # "I didn't fail to spot the two bodyguards hovering unobtrusively near the couple."
-    ""
 
-# game/episode007.rpy:596
+    "我並沒有忽略那兩個在情侶附近不動聲色徘徊的保鏢。"
+
+
 translate traditional_chinese episode007_fae029e7:
 
-    # "The way the man had casually draped his arm around Lilly's waist filled me with sudden rage."
-    ""
 
-# game/episode007.rpy:598
+    "那個男人隨意摟住莉莉腰肢的樣子讓我突然怒火中燒。"
+
+
 translate traditional_chinese episode007_84456590:
 
-    # "Nadya restrained me by pulling my arm."
-    ""
 
-# game/episode007.rpy:599
+    "娜迪亞拽住我的胳膊制止了我。"
+
+
 translate traditional_chinese episode007_167f9535:
 
-    # na "Better not attract attention to yourself."
-    na ""
 
-# game/episode007.rpy:600
+    na "最好別把注意力引到自己身上。"
+
+
 translate traditional_chinese episode007_d37414f2:
 
-    # na "Let's walk up to them casually, shall we."
-    na ""
 
-# game/episode007.rpy:601
+    na "我們裝得隨意點走過去吧，行不？"
+
+
 translate traditional_chinese episode007_ac3c19b3:
 
-    # "I said nothing, but silently thanked Nadya for preventing me from doing anything rash."
-    ""
 
-# game/episode007.rpy:603
+    "我默不作聲，暗地裡感謝娜迪亞阻止我幹出莽撞事。"
+
+
 translate traditional_chinese episode007_d0af18f6:
 
-    # "Cetruvar was pointing out something far away."
-    ""
 
-# game/episode007.rpy:604
+    "塞特魯瓦正指着遠處某個東西。"
+
+
 translate traditional_chinese episode007_6cf02927:
 
-    # "Probably some sea animal that was supposed to impress Lilly."
-    ""
 
-# game/episode007.rpy:605
+    "估計是什麼想博莉莉歡心的海洋生物吧。"
+
+
 translate traditional_chinese episode007_85e33139:
 
-    # "The bodyguards quickly stepped in when we tried to cross the distance towards their boss."
-    ""
 
-# game/episode007.rpy:611
+    "當我們試圖靠近他們老闆時，保鏢立即上前阻攔。"
+
+
 translate traditional_chinese episode007_71777606:
 
-    # woman "I'm sorry, but Mister Cetruvar wishes to be left alone."
-    woman ""
 
-# game/episode007.rpy:613
+    woman "抱歉，塞特魯瓦先生希望獨處。"
+
+
 translate traditional_chinese episode007_0a84ef1d:
 
-    # "I was about to make my reply when Cetruvar walked in the opposite direction towards the elevator."
-    ""
 
-# game/episode007.rpy:614
+    "我正要回話，塞特魯瓦卻轉身朝電梯走去。"
+
+
 translate traditional_chinese episode007_cc6c8b55:
 
-    # "Both he and Lilly never looked at us, seemingly absorbed in conversation."
-    ""
 
-# game/episode007.rpy:616
+    "他和莉莉全程沒看我們，似乎聊得忘乎所以。"
+
+
 translate traditional_chinese episode007_8674e886:
 
-    # "Both body guards trailed them, while making clear we weren't supposed to follow them."
-    ""
 
-# game/episode007.rpy:617
+    "兩個保鏢跟着他們撤退，同時用眼神警告我們別跟上去。"
+
+
 translate traditional_chinese episode007_8057c7f9:
 
-    # c "Why the fuck is she cozying up to him like that, going up to his private apartment?!"
-    c ""
 
-# game/episode007.rpy:619
+    c "該死的她爲什麼這樣親近他，還跟着去他私人公寓？！"
+
+
 translate traditional_chinese episode007_b2e86cff:
 
-    # na "Maybe she felt like she didn't have a choice?"
-    na ""
 
-# game/episode007.rpy:620
+    na "也許她覺得沒得選？"
+
+
 translate traditional_chinese episode007_fabe4767:
 
-    # c "Maybe..."
-    c ""
 
-# game/episode007.rpy:622
+    c "也許吧⋯⋯"
+
+
 translate traditional_chinese episode007_17dab516:
 
-    # "Kit and Jade came down towards us."
-    ""
 
-# game/episode007.rpy:624
+    "基特和傑德從樓上朝我們走來。"
+
+
 translate traditional_chinese episode007_894f9068:
 
-    # ki "That party is getting a little wild."
-    ki ""
 
-# game/episode007.rpy:626
+    ki "那派對開始有點野了。"
+
+
 translate traditional_chinese episode007_5a3ed7b0:
 
-    # j "I think the correct term would be 'orgy'."
-    j ""
 
-# game/episode007.rpy:628
+    j "要我說準確點該叫'羣交'。"
+
+
 translate traditional_chinese episode007_c55d1dfd:
 
-    # ki "Thyia and Aven are still on the other floor."
-    ki ""
 
-# game/episode007.rpy:629
+    ki "塞婭和艾文還在樓上那層待着。"
+
+
 translate traditional_chinese episode007_2a69f576:
 
-    # ki "But it's looking hopeless at the moment."
-    ki ""
 
-# game/episode007.rpy:630
+    ki "但目前看來沒什麼指望了。"
+
+
 translate traditional_chinese episode007_e5c8b8b0:
 
-    # c "Lilly has just gone upstairs with Cetruvar."
-    c ""
 
-# game/episode007.rpy:632
+    c "莉莉剛剛和塞特魯瓦上樓去了。"
+
+
 translate traditional_chinese episode007_cf48fee1:
 
-    # ki "Why would she do that?"
-    ki ""
 
-# game/episode007.rpy:633
+    ki "她怎麼會做這種事？"
+
+
 translate traditional_chinese episode007_8966baa1:
 
-    # c "Beats me."
-    c ""
 
-# game/episode007.rpy:634
+    c "鬼知道。"
+
+
 translate traditional_chinese episode007_8ba9bb12:
 
-    # c "Fuck.{w} We really need a distraction."
-    c ""
 
-# game/episode007.rpy:638
+    c "媽的.{w} 我們真的需要一個幹擾。"
+
+
 translate traditional_chinese episode007_58cfcb17:
 
-    # "Someone instantly answered my prayers."
-    ""
 
-# game/episode007.rpy:639
+    "有人立刻回應了我的祈禱。"
+
+
 translate traditional_chinese episode007_b11b62df:
 
-    # "Glass shattered and people starting shouting in fear."
-    ""
 
-# game/episode007.rpy:641
+    "玻璃碎了，人們開始驚恐地喊叫。"
+
+
 translate traditional_chinese episode007_8987c6e0:
 
-    # ki "A distraction you said?"
-    ki ""
 
-# game/episode007.rpy:642
+    ki "要幹擾是嗎？"
+
+
 translate traditional_chinese episode007_2badd2bb:
 
-    # c "Quick."
-    c ""
 
-# game/episode007.rpy:644
+    c "快。"
+
+
 translate traditional_chinese episode007_a1546fa9:
 
-    # c "Jade, Nadya, go find Aven and Thyia."
-    c ""
 
-# game/episode007.rpy:645
+    c "傑德、娜迪亞，去找艾文和塞婭。"
+
+
 translate traditional_chinese episode007_7771da9c:
 
-    # c "Kit and I will ride that elevator up."
-    c ""
 
-# game/episode007.rpy:646
+    c "基特和我會乘那電梯上去。"
+
+
 translate traditional_chinese episode007_07b17f84:
 
-    # ki "That leg holster has been bothering me all night, but I'm glad we brought some firepower."
-    ki ""
 
-# game/episode007.rpy:647
+    ki "腿上的槍套整晚都擱着我不舒服，但很高興我們帶了火力。"
+
+
 translate traditional_chinese episode007_9a8e0905:
 
-    # c "Let's just hope we won't have to use it."
-    c ""
 
-# game/episode007.rpy:649
+    c "希望我們不必用它。"
+
+
 translate traditional_chinese episode007_dfa6ab06:
 
-    # "We ran towards the elevator as the panic started to spread on the upper floor."
-    ""
 
-# game/episode007.rpy:650
+    "我們朝電梯跑去，恐慌開始在上層蔓延。"
+
+
 translate traditional_chinese episode007_f441da08:
 
-    # "The distressed shouting now mixed with intermittent gunfire and it almost seemed as if some kind of assault was going on."
-    ""
 
-# game/episode007.rpy:652
+    "痛苦的喊聲現在混着斷續的槍聲，幾乎像有某種襲擊在發生。"
+
+
 translate traditional_chinese episode007_fe6aa36c:
 
-    # "We crossed the upper floor towards the private elevator."
-    ""
 
-# game/episode007.rpy:654
+    "我們穿過上層朝專用電梯走去。"
+
+
 translate traditional_chinese episode007_26f0ca4b:
 
-    # "My heart nearly sank when I saw the elevator's controls, a numeric keypad."
-    ""
 
-# game/episode007.rpy:655
+    "看到電梯控制的數字鍵盤時，我心差點沉了。"
+
+
 translate traditional_chinese episode007_431033e3:
 
-    # "The doors opened however without any kind of special key code."
-    ""
 
-# game/episode007.rpy:656
+    "但門開了，無需特殊密碼。"
+
+
 translate traditional_chinese episode007_9385ffda:
 
-    # "I punched the button that would take us to Cetruvar's private level."
-    ""
 
-# game/episode007.rpy:658
+    "我按了按鈕，那會帶我們去塞特魯瓦的私人樓層。"
+
+
 translate traditional_chinese episode007_4f954938:
 
-    # "The elevator car zipped upwards and a serene ding announced that we'd arrived at the requested floor."
-    ""
 
-# game/episode007.rpy:660
+    "電梯廂向上疾馳，一個寧靜的叮聲宣布我們到達了指定樓層。"
+
+
 translate traditional_chinese episode007_892ead63:
 
-    # "When the doors slid open we saw a floor covered in glass, the wind roaring through two broken window panes."
-    ""
 
-# game/episode007.rpy:662
+    "門滑開時我們看到一地玻璃，風呼嘯着穿過兩個破碎的窗戶。"
+
+
 translate traditional_chinese episode007_21c9a065:
 
-    # "Lilly tried to hide in a corner at the far end of the room."
-    ""
 
-# game/episode007.rpy:664
+    "莉莉試圖躲在房間遠端的角落裡。"
+
+
 translate traditional_chinese episode007_f1e5bfe3:
 
-    # "Cetruvar's bodyguards were out of commission, one lay slumped against the wall, a red smear indicating the place where her body had hit the wall."
-    ""
 
-# game/episode007.rpy:666
+    "塞特魯瓦的保鏢失去行動能力了，一個斜靠在牆上，一道紅痕指示了她身體撞牆的位置。"
+
+
 translate traditional_chinese episode007_7958c6a3:
 
-    # "The other one had fallen near her boss, who was cowering on the floor, a silenced gun pointed at his head."
-    ""
 
-# game/episode007.rpy:668
+    "另一個倒在她老闆附近，他蜷縮在地板上，一把消音槍指着他的頭。"
+
+
 translate traditional_chinese episode007_68c15ab5:
 
-    # "The gun was aimed by one of the two purple-clad women who looked like coiled vipers, about to jump their prey."
-    ""
 
-# game/episode007.rpy:669
+    "那把槍是由那兩個紫衣女子中的一人瞄着的，她們像盤繞的毒蛇，準備撲向獵物。"
+
+
 translate traditional_chinese episode007_842bfd28:
 
-    # "In addition to the guns, both women also wielded curved swords which had probably killed both bodyguards."
-    ""
 
-# game/episode007.rpy:671
+    "除了槍，兩個女子還揮舞着彎劍，可能是這玩意兒殺死了那兩個保鏢。"
+
+
 translate traditional_chinese episode007_b2bea2c8:
 
-    # "The sound of the wind was so loud, the sword-wielding women probably hadn't heard the elevator arrive."
-    ""
 
-# game/episode007.rpy:672
+    "風聲那麼大，持劍女子可能沒聽到電梯到達。"
+
+
 translate traditional_chinese episode007_41fab87e:
 
-    # "I nodded at Kit and we rushed forward with our weapons drawn."
-    ""
 
-# game/episode007.rpy:674
+    "我向基特點頭，我們一起衝上去，武器拔出。"
+
+
 translate traditional_chinese episode007_36ab8d45:
 
-    # "The sound of glass crushing under our shoes made one of the women turn around slightly."
-    ""
 
-# game/episode007.rpy:676
+    "玻璃在我們鞋底碎裂的聲音讓其中一名女子微微側身。"
+
+
 translate traditional_chinese episode007_ed56964d:
 
-    # "Kit grabbed a vase from a side table and threw it with perfect aim at one woman while firing a few rounds at the other."
-    ""
 
-# game/episode007.rpy:677
+    "基特從邊桌抓起花瓶砸向其中一人，同時朝另一人連開數槍。"
+
+
 translate traditional_chinese episode007_1100c8ac:
 
-    # "The vase hit her square in the back of her head and she collapsed to the ground."
-    ""
 
-# game/episode007.rpy:678
+    "花瓶正中她後腦勺，她當場癱倒在地。"
+
+
 translate traditional_chinese episode007_d18c2885:
 
-    # "However, his aim was off and he failed to hit the other attacker."
-    ""
 
-# game/episode007.rpy:680
+    "然而他失手了，子彈沒打中另一個襲擊者。"
+
+
 translate traditional_chinese episode007_96a1e0bf:
 
-    # "Distracted, the other woman was too late to fully turn herself towards me and by that time I had already fired several bullets inside her chest."
-    ""
 
-# game/episode007.rpy:682
+    "那女人分神遲了半拍，沒來得及完全轉向我，我早已把幾顆子彈送進她胸膛。"
+
+
 translate traditional_chinese episode007_c07e5c9c:
 
-    # "The urge to go to Lilly and comfort her was enormous, but I had Cetruvar to worry about first."
-    ""
 
-# game/episode007.rpy:683
+    "衝去安慰莉莉的衝動洶湧而來，但我得先處理塞特魯瓦的事。"
+
+
 translate traditional_chinese episode007_347d6c19:
 
-    # "He had shown real fear at those women, but confronted with only Kit and me he reverted to his suave self, even while lying on the floor."
-    ""
 
-# game/episode007.rpy:685
+    "他剛剛對那些女人表現出了真正的恐懼，但現在面對的只有基特和我，他又恢復了溫文爾雅的樣子，即使躺在地板上也是如此。"
+
+
 translate traditional_chinese episode007_332839ca:
 
-    # cet "What are you two doing here?"
-    cet ""
 
-# game/episode007.rpy:686
+    cet "二位不請自來有何貴幹？"
+
+
 translate traditional_chinese episode007_de09697a:
 
-    # c "Really, that's the first question you ask after being assaulted by two women crashing through your windows?"
-    c ""
 
-# game/episode007.rpy:687
+    c "不是吧？剛被破窗而入的女人襲擊，你第一句話就問這個？"
+
+
 translate traditional_chinese episode007_2fbdaaf7:
 
-    # c "Now, if you don't mind, I'd like to see if the lady you're with is alright."
-    c ""
 
-# game/episode007.rpy:689
+    c "現在，如果你不介意的話，我想看看和你在一起的那位女士是否還好。"
+
+
 translate traditional_chinese episode007_c95a0f13:
 
-    # c "Kit, can you make sure the unconscious woman stays that way?"
-    c ""
 
-# game/episode007.rpy:690
+    c "基特，確保那暈倒的女人別醒過來。"
+
+
 translate traditional_chinese episode007_cd3ce9b0:
 
-    # ki "On it."
-    ki ""
 
-# game/episode007.rpy:692
+    ki "交給我。"
+
+
 translate traditional_chinese episode007_efd5fd73:
 
-    # "Ranimo stood up and brushed off his clothes, curiously regarding everything that happened next."
-    ""
 
-# game/episode007.rpy:694
+    "拉尼莫起身撣了撣衣服，饒有興致地觀望後續發展。"
+
+
 translate traditional_chinese episode007_052f388c:
 
-    # "Lilly still trembled and looked very afraid."
-    ""
 
-# game/episode007.rpy:695
+    "莉莉仍瑟瑟發抖，滿面驚惶。"
+
+
 translate traditional_chinese episode007_65e32b2c:
 
-    # c "Are you all right?"
-    c ""
 
-# game/episode007.rpy:696
+    c "你還好嗎？"
+
+
 translate traditional_chinese episode007_0d79597b:
 
-    # l "I-I think so."
-    l ""
 
-# game/episode007.rpy:697
+    l "我-我想是吧。"
+
+
 translate traditional_chinese episode007_87084087:
 
-    # "I wanted to say more, but I couldn't dare it with that damned Cetruvar in the room."
-    ""
 
-# game/episode007.rpy:699
+    "我本想多說幾句，可屋裡杵着該死的塞特魯瓦，終究我還是沒說出來。"
+
+
 translate traditional_chinese episode007_9cc787d5:
 
-    # "Our gracious host looked in horror as Kit ripped up a, no doubt expensive, curtain he'd found somewhere to bind the woman's arms and legs."
-    ""
 
-# game/episode007.rpy:700
+    "主人倒抽冷氣，眼睜睜看着基特不知哪扯下的昂貴窗簾，把那女人手腳捆成糉子。"
+
+
 translate traditional_chinese episode007_9c338760:
 
-    # "Once the woman was restrained, Cetruvar looked at us expectantly."
-    ""
 
-# game/episode007.rpy:702
+    "等那女人徹底被制住，塞特魯瓦擺出等候解釋的姿態。"
+
+
 translate traditional_chinese episode007_0ea71f67:
 
-    # cet "You haven't answered my question."
-    cet ""
 
-# game/episode007.rpy:703
+    cet "你們還沒回答我的問題。"
+
+
 translate traditional_chinese episode007_332839ca_1:
 
-    # cet "What are you two doing here?"
-    cet ""
 
-# game/episode007.rpy:707
+    cet "二位擅闖此地究竟所爲何來？"
+
+
 translate traditional_chinese episode007_470eb47a:
 
-    # c "We heard the commotion and decided to check it out, make sure no one was in danger."
-    c ""
 
-# game/episode007.rpy:709
+    c "聽到騷動過來看看，免得有人遇險。"
+
+
 translate traditional_chinese episode007_133b5863:
 
-    # c "Especially my sister you seem to be entertaining this evening."
-    c ""
 
-# game/episode007.rpy:711
+    c "尤其是我妹妹——今晚貌似正由你款待呢。"
+
+
 translate traditional_chinese episode007_9ae0285f:
 
-    # c "Especially my best friend you seem to be entertaining this evening."
-    c ""
 
-# game/episode007.rpy:713
+    c "尤其是我至交——今晚貌似正由你款待呢。"
+
+
 translate traditional_chinese episode007_21a1bf16:
 
-    # cet "How refreshingly honest, Mister Valenmann de Lonval."
-    cet ""
 
-# game/episode007.rpy:715
+    cet "多麼令人耳目一新的坦率，瓦倫曼·德·隆瓦爾先生。"
+
+
 translate traditional_chinese episode007_470eb47a_1:
 
-    # c "We heard the commotion and decided to check it out, make sure no one was in danger."
-    c ""
 
-# game/episode007.rpy:716
+    c "我們聽到騷動就決定檢查一下，確保沒人有危險。"
+
+
 translate traditional_chinese episode007_dbe203b4:
 
-    # c "I reckon this area is supposed to be off-limits?"
-    c ""
 
-# game/episode007.rpy:717
+    c "我認爲這個區域應該是禁入的吧？"
+
+
 translate traditional_chinese episode007_2309ccb8:
 
-    # c "You seem to be entertaining just one lady here."
-    c ""
 
-# game/episode007.rpy:719
+    c "看起來你在這兒只招待了一位女士。"
+
+
 translate traditional_chinese episode007_0ec0a532:
 
-    # cet "Oh, let's drop the pretense, Mister Valenmann de Lonval."
-    cet ""
 
-# game/episode007.rpy:721
+    cet "哦，我們放下僞裝吧，瓦倫曼·德·隆瓦爾先生。"
+
+
 translate traditional_chinese episode007_3beb6e74:
 
-    # cet "Yes, I know who you are."
-    cet ""
 
-# game/episode007.rpy:723
+    cet "是的，我知道你是誰。"
+
+
 translate traditional_chinese episode007_1e331007:
 
-    # cet "I know the pretty redhead here is your sister."
-    cet ""
 
-# game/episode007.rpy:725
+    cet "我知道這兒的漂亮紅髮女孩是你妹妹。"
+
+
 translate traditional_chinese episode007_8c9ef9fb:
 
-    # cet "I know the pretty redhead here is your friend."
-    cet ""
 
-# game/episode007.rpy:727
+    cet "我知道這兒的漂亮紅髮女孩是你朋友。"
+
+
 translate traditional_chinese episode007_97da9159:
 
-    # cet "And your sidekick, who so expertly incapacitated one of my opponents with a priceless vase, is none other than Kit Szuzume."
-    cet ""
 
-# game/episode007.rpy:728
+    cet "而你那個助手，用一個無價花瓶那麼專業地幹掉了我一個對手，無非就是基特·蘇珠美。"
+
+
 translate traditional_chinese episode007_42c30443:
 
-    # cet "I hope the rest of your crew has enjoyed the evening so far."
-    cet ""
 
-# game/episode007.rpy:729
+    cet "我希望你其他機組成員今晚玩得盡興。"
+
+
 translate traditional_chinese episode007_fc8504a0:
 
-    # cet "There were some unknown faces among them, but I reckon I'll know their identities soon enough."
-    cet ""
 
-# game/episode007.rpy:731
+    cet "其中有些生面孔，但我估摸我很快就能查清他們的底細。"
+
+
 translate traditional_chinese episode007_0a5c4408:
 
-    # cet "Please have a seat."
-    cet ""
 
-# game/episode007.rpy:732
+    cet "請坐。"
+
+
 translate traditional_chinese episode007_a6f5a03a:
 
-    # c "I prefer to stand, thank you very much."
-    c ""
 
-# game/episode007.rpy:734
+    c "我更願意站着，多謝了。"
+
+
 translate traditional_chinese episode007_0587ed26:
 
-    # "At that moment the elevator doors opened again and two fresh bodyguards entered the room."
-    ""
 
-# game/episode007.rpy:737
+    "就在那時電梯門又開了，兩個新來的保鏢走進房間。"
+
+
 translate traditional_chinese episode007_234a0116:
 
-    # man "Everything in order, boss?"
-    man ""
 
-# game/episode007.rpy:738
+    man "一切正常吧，老闆？"
+
+
 translate traditional_chinese episode007_2b293bd0:
 
-    # cet "Yes."
-    cet ""
 
-# game/episode007.rpy:739
+    cet "是的。"
+
+
 translate traditional_chinese episode007_8e356be3:
 
-    # cet "See to it that the restrained woman is taken to a cell."
-    cet ""
 
-# game/episode007.rpy:741
+    cet "確保把那個被綁的女人關進牢房。"
+
+
 translate traditional_chinese episode007_3f012d4b:
 
-    # cet "And Mister Valenmann de Lonval, I'm afraid I wasn't really asking a question."
-    cet ""
 
-# game/episode007.rpy:742
+    cet "而瓦倫曼·德·隆瓦爾先生，我剛才可沒在提問。"
+
+
 translate traditional_chinese episode007_8b552d51:
 
-    # cet "Put down your weapons and sit down."
-    cet ""
 
-# game/episode007.rpy:744
+    cet "放下你們的武器坐下。"
+
+
 translate traditional_chinese episode007_83bc3d07:
 
-    # "As the other side currently held the upper hand, I decided it would be better to oblige the fucker."
-    ""
 
-# game/episode007.rpy:745
+    "既然對方現在佔了上風，我就覺得最好還是先遵照這個混蛋說的做。"
+
+
 translate traditional_chinese episode007_924198d5:
 
-    # "Once we sat down, one of the bodyguards took the unconscious body away."
-    ""
 
-# game/episode007.rpy:747
+    "我們一坐下，一個保鏢就把那個昏迷的人拖走了。"
+
+
 translate traditional_chinese episode007_de70eda2:
 
-    # cet "I must say I rather enjoyed your grand entrance."
-    cet ""
 
-# game/episode007.rpy:748
+    cet "我得說我挺享受你這大陣仗的入場。"
+
+
 translate traditional_chinese episode007_84f04308:
 
-    # cet "Though getting in here with outdated invitations was a long shot, you must have known that."
-    cet ""
 
-# game/episode007.rpy:749
+    cet "雖然用過期邀請函混進來機會渺茫，這事你一定很清楚。"
+
+
 translate traditional_chinese episode007_9aa7a3a2:
 
-    # c "I did."
-    c ""
 
-# game/episode007.rpy:750
+    c "我知道。"
+
+
 translate traditional_chinese episode007_15b1bed4:
 
-    # cet "But you did it anyway."
-    cet ""
 
-# game/episode007.rpy:752
+    cet "可你還是做了。"
+
+
 translate traditional_chinese episode007_62d5646f:
 
-    # cet "You even scaled that cliff, I'm impressed."
-    cet ""
 
-# game/episode007.rpy:754
+    cet "你居然爬上了那座懸崖，我挺佩服的。"
+
+
 translate traditional_chinese episode007_f49ef5ad:
 
-    # cet "And a little annoyed you actually pulled it off."
-    cet ""
 
-# game/episode007.rpy:756
+    cet "也有點不爽你真能辦到了。"
+
+
 translate traditional_chinese episode007_ac01e703:
 
-    # cet "I must thank you for pointing out that hole in my security, I'm still not quite sure how to plug it."
-    cet ""
 
-# game/episode007.rpy:757
+    cet "我得感謝你指出的我安保漏洞，到現在我還不太確定該怎麼彌補呢。"
+
+
 translate traditional_chinese episode007_089cc6c6:
 
-    # c "You're very welcome..."
-    c ""
 
-# game/episode007.rpy:759
+    c "不客氣啦..."
+
+
 translate traditional_chinese episode007_27b0506d:
 
-    # cet "But it seems you saved my life just now and for that I'm truly thankful."
-    cet ""
 
-# game/episode007.rpy:760
+    cet "但你好象剛才救了我的命，爲此我真心感謝。"
+
+
 translate traditional_chinese episode007_6163fb4a:
 
-    # cet "I'd offer you all a drink, but it seems that the intruders just obliterated my offering of spirits."
-    cet ""
 
-# game/episode007.rpy:762
+    cet "我本想請大家喝一杯，可闖入者把酒瓶子都打爛了。"
+
+
 translate traditional_chinese episode007_a45dda0c:
 
-    # cet "So, Mister Valenmann de Lonval, you're here for your lost sister, I take it?"
-    cet ""
 
-# game/episode007.rpy:764
+    cet "所以說，瓦倫曼·德·隆瓦爾先生，你是爲你失蹤的妹妹來的吧？"
+
+
 translate traditional_chinese episode007_44cda932:
 
-    # cet "So, Mister Valenmann de Lonval, you're here for your lost friend, I take it?"
-    cet ""
 
-# game/episode007.rpy:765
+    cet "所以說，瓦倫曼·德·隆瓦爾先生，你是爲你失蹤的朋友來的吧？"
+
+
 translate traditional_chinese episode007_df83e67b:
 
-    # c "You seem to know a lot of things."
-    c ""
 
-# game/episode007.rpy:767
+    c "你倒是知道不少事嘛。"
+
+
 translate traditional_chinese episode007_9d0f1b41:
 
-    # cet "It has been my job for a long time now."
-    cet ""
 
-# game/episode007.rpy:770
+    cet "這都算我的老本行了。"
+
+
 translate traditional_chinese episode007_5719ffa3:
 
-    # cet "You want the location of the home planet of your sister's kidnappers."
-    cet ""
 
-# game/episode007.rpy:772
+    cet "你想知道綁架你妹妹的那幫人的母星位置。"
+
+
 translate traditional_chinese episode007_b62e09a1:
 
-    # cet "You want the location of the home planet of your friend's kidnappers."
-    cet ""
 
-# game/episode007.rpy:773
+    cet "你想知道綁架你朋友的那幫人的母星位置。"
+
+
 translate traditional_chinese episode007_9d9fb6df:
 
-    # c "I do."
-    c ""
 
-# game/episode007.rpy:774
+    c "是的。"
+
+
 translate traditional_chinese episode007_b6e8c43e:
 
-    # cet "What makes you think I know anything about her?"
-    cet ""
 
-# game/episode007.rpy:775
+    cet "你憑什麼以爲我認識她？"
+
+
 translate traditional_chinese episode007_d6e7b2c0:
 
-    # c "Because you're in the business to know."
-    c ""
 
-# game/episode007.rpy:777
+    c "因爲這就是你的工作。"
+
+
 translate traditional_chinese episode007_d99c2b0c:
 
-    # cet "Right you are."
-    cet ""
 
-# game/episode007.rpy:779
+    cet "你說得對。"
+
+
 translate traditional_chinese episode007_1d8794c3:
 
-    # cet "And I do know something about the whereabouts of your sister."
-    cet ""
 
-# game/episode007.rpy:781
+    cet "我還真知道你妹妹的下落呢。"
+
+
 translate traditional_chinese episode007_a9da5fcb:
 
-    # cet "And I do know something about the whereabouts of your friend."
-    cet ""
 
-# game/episode007.rpy:782
+    cet "我還真知道你朋友的下落呢。"
+
+
 translate traditional_chinese episode007_4fd576f8:
 
-    # cet "In fact, I was planning on selling it to you."
-    cet ""
 
-# game/episode007.rpy:783
+    cet "說白了，我本打算賣給你的。"
+
+
 translate traditional_chinese episode007_29a673b0:
 
-    # c "How magnanimous of you."
-    c ""
 
-# game/episode007.rpy:785
+    c "你真大度啊。"
+
+
 translate traditional_chinese episode007_425bc81b:
 
-    # cet "As soon as the guests have left and the worst of the mess has been cleaned up, I'll provide you with all the details."
-    cet ""
 
-# game/episode007.rpy:786
+    cet "等客人們一走，亂七八糟的收拾個大概，我就把詳細告訴你。"
+
+
 translate traditional_chinese episode007_2753af74:
 
-    # cet "Consider it payment for saving my life."
-    cet ""
 
-# game/episode007.rpy:787
+    cet "就當是救我一命的報酬好了。"
+
+
 translate traditional_chinese episode007_25cab9cb:
 
-    # cet "You and your crew will stay in the guest quarters of the mansion."
-    cet ""
 
-# game/episode007.rpy:788
+    cet "你和你的機組成員就住在大宅的客房裡頭吧。"
+
+
 translate traditional_chinese episode007_55c122f1:
 
-    # "Sensing that this invitation was just as non-obligatory as his earlier request to sit down, I accepted Cetruvar's offer."
-    ""
 
-# game/episode007.rpy:789
+    "我覺得這個邀請和他剛才請我坐下一樣，是沒有必要的，所以我接受了塞特魯瓦的邀請。"
+
+
 translate traditional_chinese episode007_364aab1b:
 
-    # c "We'd be honored, of course."
-    c ""
 
-# game/episode007.rpy:791
+    c "我們會感到很榮幸，當然。"
+
+
 translate traditional_chinese episode007_baa692a5:
 
-    # cet "Excellent, I'll order everything to be prepared for your stay."
-    cet ""
 
-# game/episode007.rpy:792
+    cet "太好了，我會吩咐一切爲你們住宿準備好。"
+
+
 translate traditional_chinese episode007_dd20ffbf:
 
-    # c "Thanks."
-    c ""
 
-# game/episode007.rpy:793
+    c "謝謝。"
+
+
 translate traditional_chinese episode007_9c6f53ab:
 
-    # c "Great party, by the way..."
-    c ""
 
-# game/episode007.rpy:795
+    c "順便說一下，派對很棒..."
+
+
 translate traditional_chinese episode007_c8e5153f:
 
-    # "Cetruvar only grinned, but I could see there was absolutely no humor behind his eyes."
-    ""
 
-# game/episode007.rpy:800
+    "塞特魯瓦只是咧嘴一笑，但我能看出他眼神裏毫無幽默感。"
+
+
 translate traditional_chinese episode007_c2a328f5:
 
-    # "We stayed in Cetruvar's private apartments until his security staff gave the all clear."
-    ""
 
-# game/episode007.rpy:802
+    "我們待在塞特魯瓦的私人公寓，直到他的安保人員宣布一切安全。"
+
+
 translate traditional_chinese episode007_6cf962c1:
 
-    # "All the other guests had left the premises and the crew of the Bastard was brought up to speed on the latest developments."
-    ""
 
-# game/episode007.rpy:803
+    "所有其他客人都已離開現場，\"私生子\"號的機組成員也了解了最新情況。"
+
+
 translate traditional_chinese episode007_37261bff:
 
-    # "The prospect of spending the night under the roof of Ranimo Cetruvar filled nearly everyone with apprehension."
-    ""
 
-# game/episode007.rpy:804
+    "在拉尼莫·塞特魯瓦家過夜這個前景讓幾乎所有人都感到擔憂。"
+
+
 translate traditional_chinese episode007_8d8d550f:
 
-    # "My guess would be that most of us would sleep very lightly, ready for anything."
-    ""
 
-# game/episode007.rpy:806
+    "我猜我們大多數人都會睡得很淺，做好隨時應對的準備。"
+
+
 translate traditional_chinese episode007_8fa40ac3:
 
-    # "We were assigned small guest rooms accessible via a long corridor in a separate part of the mansion."
-    ""
 
-# game/episode007.rpy:807
+    "我們被分配了小客房，通過一條長廊進入，在府邸的一個獨立區域。"
+
+
 translate traditional_chinese episode007_423ec4e1:
 
-    # "This area of the complex seemed to be actually built half inside the cliff."
-    ""
 
-# game/episode007.rpy:809
+    "建築的這部分似乎真的有一半是建在懸崖裡面。"
+
+
 translate traditional_chinese episode007_dc219897:
 
-    # "I was served a meal in my room, but I didn’t feel particularly hungry."
-    ""
 
-# game/episode007.rpy:810
+    "有人在我房間給我送來了食物，但我不是特別餓。"
+
+
 translate traditional_chinese episode007_cbdef467:
 
-    # "Also, Cetruvar might have ordered the food to be laced with drugs and I’d had my fill of that during our forced enjoyment of ConVitæ’s special brand of hospitality."
-    ""
 
-# game/episode007.rpy:811
+    "而且，塞特魯瓦可能命令在食物裏加了藥，在我們被迫享受\"康維泰\"的特殊款待時，我已經受夠了"
+
+
 translate traditional_chinese episode007_79c0338f:
 
-    # "As nobody had forbidden it, I decided to check on some of the others."
-    ""
 
-# game/episode007.rpy:834
+    "既然沒人禁止，我就決定去看看其他幾個人。"
+
+
 translate traditional_chinese ep007_conversations_8ea51570:
 
-    # "I decided to go back to my room and think on how to get out of this situation."
-    ""
 
-# game/episode007.rpy:835
+    "我決定回自己房間想想怎麼擺脫這個處境。"
+
+
 translate traditional_chinese ep007_conversations_eb21fa4f:
 
-    # "Cetruvar was likely to turn us over to whichever party offered the most."
-    ""
 
-# game/episode007.rpy:836
+    "塞特魯瓦很可能會把我們交給出價最高的那個派系。"
+
+
 translate traditional_chinese ep007_conversations_ff9307e1:
 
-    # "His generous offer of sharing information was probably a stalling tactic."
-    ""
 
-# game/episode007.rpy:837
+    "他提出共享信息的大方提議，很可能是一種拖延策略。"
+
+
 translate traditional_chinese ep007_conversations_956205a5:
 
-    # "We really needed an edge."
-    ""
 
-# game/episode007.rpy:839
+    "我們真的需要一個優勢。"
+
+
 translate traditional_chinese ep007_conversations_8d91ae29:
 
-    # "Lost in thought, I bumped into Thim in the hallway."
-    ""
 
-# game/episode007.rpy:840
+    "我走神了，在走廊裏撞上了蒂姆。"
+
+
 translate traditional_chinese ep007_conversations_e0cb3248:
 
-    # c "Looking for the can?"
-    c ""
 
-# game/episode007.rpy:842
+    c "找廁所？"
+
+
 translate traditional_chinese ep007_conversations_1bd5571c:
 
-    # t "Yeah, no."
-    t ""
 
-# game/episode007.rpy:843
+    t "是啊，不是。"
+
+
 translate traditional_chinese ep007_conversations_6feaf5da:
 
-    # t "I thought I heard something."
-    t ""
 
-# game/episode007.rpy:844
+    t "我以爲我聽到了什麼聲音。"
+
+
 translate traditional_chinese ep007_conversations_e73ced3e:
 
-    # c "You do know we’re under guard and that there are constant patrols?"
-    c ""
 
-# game/episode007.rpy:846
+    c "你應該知道我們被監視着，而且還有持續巡邏吧？"
+
+
 translate traditional_chinese ep007_conversations_2d04c748:
 
-    # t "Wow, thanks, [p_name], I really didn’t think of that."
-    t ""
 
-# game/episode007.rpy:847
+    t "哇，多謝提醒[p_name]，我還真沒想到這茬。"
+
+
 translate traditional_chinese ep007_conversations_6d3f0a4a:
 
-    # c "What would you do without me, right?"
-    c ""
 
-# game/episode007.rpy:848
+    c "沒我在你可怎麼辦呢？"
+
+
 translate traditional_chinese ep007_conversations_a5ca0766:
 
-    # t "Exactly..."
-    t ""
 
-# game/episode007.rpy:849
+    t "可不是嘛..."
+
+
 translate traditional_chinese ep007_conversations_57d16295:
 
-    # t "Now if you don’t mind, I’d like to get some sleep."
-    t ""
 
-# game/episode007.rpy:851
+    t "現在要是沒事的話，我想去睡覺了。"
+
+
 translate traditional_chinese ep007_conversations_c8c7871a:
 
-    # "Thim disappeared inside his room and I was about to do the same when I heard another door slide open."
-    ""
 
-# game/episode007.rpy:858
+    "蒂姆閃身進了房間，我正要跟着進去時，聽見另一扇門滑開的聲響。"
+
+
 translate traditional_chinese ep007_conversations_1b2a663a:
 
-    # "Moments after I got back to my quarters there was a knock on the door."
-    ""
 
-# game/episode007.rpy:860
+    "我剛回到住處就聽見敲門聲。"
+
+
 translate traditional_chinese ep007_conversations_5e30025f:
 
-    # "Thyia was waiting for me in the hallway."
-    ""
 
-# game/episode007.rpy:861
+    "塞婭在走廊裏等着我。"
+
+
 translate traditional_chinese ep007_conversations_1784a74f:
 
-    # th "What took you so long?"
-    th ""
 
-# game/episode007.rpy:862
+    th "怎麼磨蹭這麼久？"
+
+
 translate traditional_chinese ep007_conversations_f8e35beb:
 
-    # c "I didn’t know we were to meet."
-    c ""
 
-# game/episode007.rpy:864
+    c "我不知道我們還有約。"
+
+
 translate traditional_chinese ep007_conversations_7772b4a0:
 
-    # th "Fine, we need to meet."
-    th ""
 
-# game/episode007.rpy:865
+    th "好吧，我們現在需要見一下。"
+
+
 translate traditional_chinese ep007_conversations_ce3cdd38:
 
-    # c "This is probably something that we can’t discuss in my room?"
-    c ""
 
-# game/episode007.rpy:866
+    c "我猜不方便在我屋裡談？"
+
+
 translate traditional_chinese ep007_conversations_b95a802b:
 
-    # th "No, there’s probably someone listening in."
-    th ""
 
-# game/episode007.rpy:867
+    th "對，很可能有人竊聽。"
+
+
 translate traditional_chinese ep007_conversations_0f0fbb19:
 
-    # th "There’s a balcony where the guards go for a smoke."
-    th ""
 
-# game/episode007.rpy:868
+    th "有一個供守衛抽煙的陽臺在走廊盡頭。"
+
+
 translate traditional_chinese ep007_conversations_bede0668:
 
-    # c "Let’s go for a smoke then."
-    c ""
 
-# game/episode007.rpy:870
+    c "那我們也去'抽根煙'。"
+
+
 translate traditional_chinese ep007_conversations_76768905:
 
-    # "The balcony was on the far end of the guest quarters, overlooking the vast ocean that seemed to cover the entirety of Almagest."
-    ""
 
-# game/episode007.rpy:871
+    "陽臺位於客人區最遠端，俯瞰着仿佛覆蓋整個文典星的廣袤海洋。"
+
+
 translate traditional_chinese ep007_conversations_59fabd12:
 
-    # c "So, what did you want to tell me?"
-    c ""
 
-# game/episode007.rpy:873
+    c "所以，你要跟我說什麼？"
+
+
 translate traditional_chinese ep007_conversations_39c86d74:
 
-    # th "Cetruvar is going to sell us out."
-    th ""
 
-# game/episode007.rpy:874
+    th "塞特魯瓦會出賣我們的。"
+
+
 translate traditional_chinese ep007_conversations_a24efc14:
 
-    # c "Yes, probably."
-    c ""
 
-# game/episode007.rpy:875
+    c "嗯，很有可能。"
+
+
 translate traditional_chinese ep007_conversations_a027bcdc:
 
-    # c "I think he’s thinking on who will pay the most."
-    c ""
 
-# game/episode007.rpy:876
+    c "我猜他在盤算誰能出最高價。"
+
+
 translate traditional_chinese ep007_conversations_2c0570c9:
 
-    # c "Contemplating his options to maximize his financial returns, so to speak."
-    c ""
 
-# game/episode007.rpy:878
+    c "說白了就是在權衡選項，想最大化經濟收益。"
+
+
 translate traditional_chinese ep007_conversations_d1921103:
 
-    # th "Right."
-    th ""
 
-# game/episode007.rpy:880
+    th "是的。"
+
+
 translate traditional_chinese ep007_conversations_e01a9f25:
 
-    # th "Do you have a plan to get us out of here?"
-    th ""
 
-# game/episode007.rpy:881
+    th "有辦法帶我們脫身嗎？"
+
+
 translate traditional_chinese ep007_conversations_1276af08:
 
-    # c "I’ve been talking to Aven and I was planning on talking to you about it."
-    c ""
 
-# game/episode007.rpy:882
+    c "我找艾文聊過，正想跟你商量這事。"
+
+
 translate traditional_chinese ep007_conversations_afaa3f88:
 
-    # c "The trouble is, there’s too many guards and too much surveillance."
-    c ""
 
-# game/episode007.rpy:883
+    c "麻煩在於守衛太多，監控也太密集。"
+
+
 translate traditional_chinese ep007_conversations_18027fc6:
 
-    # c "And I don’t want to leave here without knowing where Eva is."
-    c ""
 
-# game/episode007.rpy:884
+    c "在不知道伊娃在哪之前，我可不想離開這兒。"
+
+
 translate traditional_chinese ep007_conversations_d142acb6:
 
-    # c "Cetruvar admitted he knows something."
-    c ""
 
-# game/episode007.rpy:885
+    c "塞特魯瓦承認他知道些內情。"
+
+
 translate traditional_chinese ep007_conversations_700f5f32:
 
-    # c "If we can also find out what those women dressed in purple were after..."
-    c ""
 
-# game/episode007.rpy:886
+    c "要是我們還能查出那些穿紫色衣服的女人在搞什麼名堂..."
+
+
 translate traditional_chinese ep007_conversations_c5f595b8:
 
-    # th "You’re really bad at cutting your losses, aren’t you?"
-    th ""
 
-# game/episode007.rpy:887
+    th "你可真不擅長及時止損，是吧？"
+
+
 translate traditional_chinese ep007_conversations_91b9e0dc:
 
-    # c "If you dangle a cake in front of me, I’m going to fucking eat it too."
-    c ""
 
-# game/episode007.rpy:888
+    c "敢在我眼前晃蛋糕，我他媽連盤子都給啃了。"
+
+
 translate traditional_chinese ep007_conversations_00b9f2bc:
 
-    # th "I have an idea to get us out of here."
-    th ""
 
-# game/episode007.rpy:889
+    th "我有辦法帶我們離開這兒。"
+
+
 translate traditional_chinese ep007_conversations_903273b0:
 
-    # c "Go on."
-    c ""
 
-# game/episode007.rpy:891
+    c "說來聽聽。"
+
+
 translate traditional_chinese ep007_conversations_3b67f29b:
 
-    # th "I’ve had my eyes open during our stay here so far."
-    th ""
 
-# game/episode007.rpy:892
+    th "待在這兒的日子裡我一直在暗中觀察。"
+
+
 translate traditional_chinese ep007_conversations_31016eb4:
 
-    # th "This whole mansion is built out of separate modules, each connected by an elevator."
-    th ""
 
-# game/episode007.rpy:893
+    th "整棟宅子都是以獨立模塊建造的，靠電梯互相連接。"
+
+
 translate traditional_chinese ep007_conversations_25bcc0e9:
 
-    # th "Every module has its own ventilation system that’s unconnected to the other modules."
-    th ""
 
-# game/episode007.rpy:894
+    th "每個模塊都有獨立的通風系統，互不相通。"
+
+
 translate traditional_chinese ep007_conversations_3866c9de:
 
-    # th "Ours is separate from Cetruvar’s private quarters, as are the guard quarters."
-    th ""
 
-# game/episode007.rpy:895
+    th "我們的和塞特魯瓦私宅是分開的，警衛區也這樣。"
+
+
 translate traditional_chinese ep007_conversations_2f4f9fdc:
 
-    # th "Also, for a guy who’s paranoid about security, Cetruvar really needs to check the locking procedures on some of the weapon cabinets scattered around the complex."
-    th ""
 
-# game/episode007.rpy:896
+    th "此外，對於一個對有被害妄想狂的人來說，塞特魯瓦真的需要檢查一下分散在大樓周圍的一些武器櫃的鎖定程序。"
+
+
 translate traditional_chinese ep007_conversations_447a1a92:
 
-    # c "You tested those locks yourself, huh?"
-    c ""
 
-# game/episode007.rpy:898
+    c "你親自去試過鎖了吧？"
+
+
 translate traditional_chinese ep007_conversations_f4dc627e:
 
-    # th "I sure did."
-    th ""
 
-# game/episode007.rpy:899
+    th "當然。"
+
+
 translate traditional_chinese ep007_conversations_788e70d3:
 
-    # th "I’m now the proud owner of a set of gas grenades and a couple of pistols."
-    th ""
 
-# game/episode007.rpy:900
+    th "現在我手上有幾顆瓦斯彈和兩把手槍，美得很。"
+
+
 translate traditional_chinese ep007_conversations_26c1fcc5:
 
-    # c "Does that set of grenades perhaps contain sleeping gas?"
-    c ""
 
-# game/episode007.rpy:902
+    c "那堆瓦斯彈裏該不會有催眠瓦斯吧？"
+
+
 translate traditional_chinese ep007_conversations_b84f4981:
 
-    # th "Indeed it does."
-    th ""
 
-# game/episode007.rpy:904
+    th "還真有。"
+
+
 translate traditional_chinese ep007_conversations_480397dd:
 
-    # th "So I was thinking, we throw those grenades into the ventilation shaft of the guard quarters and let the gas do its work."
-    th ""
 
-# game/episode007.rpy:906
+    th "我正想着把瓦斯彈扔進警衛區通風井，讓氣體發揮出作用。"
+
+
 translate traditional_chinese ep007_conversations_1d010436:
 
-    # th "While the guards enjoy a good night’s rest, we can slip out of here."
-    th ""
 
-# game/episode007.rpy:907
+    th "等警衛們睡大覺時我們就溜出去。"
+
+
 translate traditional_chinese ep007_conversations_3aab48d0:
 
-    # c "Let’s do it, they’ve certainly earned it after all that hard work today."
-    c ""
 
-# game/episode007.rpy:908
+    c "我們就這麼幹吧，今天折騰夠嗆，讓他們好好享受享受。"
+
+
 translate traditional_chinese ep007_conversations_5d62377f:
 
-    # c "Is there an easy way to administer the gas into the ventilation shaft?"
-    c ""
 
-# game/episode007.rpy:910
+    c "往通風井灌氣體好操作不？"
+
+
 translate traditional_chinese ep007_conversations_f4bec136:
 
-    # th "I found a vent which connects to the guard’s quarters not far from here."
-    th ""
 
-# game/episode007.rpy:911
+    th "我找到個通風口直通警衛區，離這兒不遠。"
+
+
 translate traditional_chinese ep007_conversations_4faa42f0:
 
-    # c "Fantastic."
-    c ""
 
-# game/episode007.rpy:912
+    c "太棒了。"
+
+
 translate traditional_chinese ep007_conversations_1d65159e:
 
-    # c "That should take care of most of the guards, except for the ones who’re patrolling the premises."
-    c ""
 
-# game/episode007.rpy:913
+    c "這能搞定大部分警衛，除了巡邏隊那幫人。"
+
+
 translate traditional_chinese ep007_conversations_91491bcb:
 
-    # c "And then there’s the matter of getting into Cetruvar’s chambers."
-    c ""
 
-# game/episode007.rpy:914
+    c "然後，還有個問題，就是要進入塞特魯瓦的房間。"
+
+
 translate traditional_chinese ep007_conversations_a4a1a953:
 
-    # c "Are his quarters reachable via a ventilation shaft too?"
-    c ""
 
-# game/episode007.rpy:916
+    c "他的住處也能通過通風井到達嗎？"
+
+
 translate traditional_chinese ep007_conversations_5aebf2da:
 
-    # th "They might, but I haven’t found an outlet similar to the one that leads to the guard quarters."
-    th ""
 
-# game/episode007.rpy:917
+    th "可能可以，但我還沒找到像通往警衛住處那樣的口子。"
+
+
 translate traditional_chinese ep007_conversations_91388939:
 
-    # c "Fuck, so stealth is out of the question in that case."
-    c ""
 
-# game/episode007.rpy:918
+    c "靠，所以在這種情況下，潛行是沒戲了。"
+
+
 translate traditional_chinese ep007_conversations_568a6285:
 
-    # c "We should have much less guards to deal with, so we could go in through the front door, throw a gas grenade inside his chambers and hope for the best."
-    c ""
 
-# game/episode007.rpy:919
+    c "我們需要對付的警衛應該少多了，所以我們可以從前門進去，往他房間裡扔個瓦斯彈，然後希望一切順利。"
+
+
 translate traditional_chinese ep007_conversations_b99a1ad4:
 
-    # c "So we put those fuckers to sleep, neutralize Cetruvar somehow, find the intel on Eva and take the Bastard back into space."
-    c ""
 
-# game/episode007.rpy:921
+    c "所以我們就讓那些混蛋睡着，想辦法搞定塞特魯瓦，找到關於伊娃的情報，然後把\"私生子\"號帶回太空。"
+
+
 translate traditional_chinese ep007_conversations_b4848f22:
 
-    # th "That plan has some major weak spots and you know it."
-    th ""
 
-# game/episode007.rpy:922
+    th "這個計劃有些大漏洞，你自己也清楚。"
+
+
 translate traditional_chinese ep007_conversations_509bd10a:
 
-    # c "We’ll need to improvise at certain points, that’s for sure."
-    c ""
 
-# game/episode007.rpy:923
+    c "我們肯定要在某些地方臨場發揮。"
+
+
 translate traditional_chinese ep007_conversations_a49118bd:
 
-    # th "I guess there’s no other way around it."
-    th ""
 
-# game/episode007.rpy:925
+    th "我猜也只能這樣了。"
+
+
 translate traditional_chinese ep007_conversations_0e1023f2:
 
-    # th "Also, we need Jade to do her magic on Cetruvar’s systems."
-    th ""
 
-# game/episode007.rpy:926
+    th "另外，我們需要傑德來對塞特魯瓦的系統施展她的能力。"
+
+
 translate traditional_chinese ep007_conversations_25f14f52:
 
-    # c "I saw a private terminal in Cetruvar’s quarters, there’s a good chance the information is on that computer."
-    c ""
 
-# game/episode007.rpy:927
+    c "我看到塞特魯瓦房間裡有個私人終端，那信息很可能就在那臺電腦上。"
+
+
 translate traditional_chinese ep007_conversations_5799428a:
 
-    # c "I’ll ask Jade if she meets us in an hour."
-    c ""
 
-# game/episode007.rpy:928
+    c "我會問問傑德，如果她一個小時後來見我們。"
+
+
 translate traditional_chinese ep007_conversations_396cb6c2:
 
-    # th "I’ll go get the hardware."
-    th ""
 
-# game/episode007.rpy:930
+    th "我去弄裝備。"
+
+
 translate traditional_chinese ep007_conversations_759703a5:
 
-    # "We went in opposite directions, hoping to evade the guards on night duty."
-    ""
 
-# game/episode007.rpy:932
+    "我們往相反方向走，想躲過夜班警衛。"
+
+
 translate traditional_chinese ep007_conversations_ce6ee65e:
 
-    # "I caught Jade during her training routine just before going to bed."
-    ""
 
-# game/episode007.rpy:934
+    "我在她睡覺前做訓練的時候撞見了傑德。"
+
+
 translate traditional_chinese ep007_conversations_e8b2f0b0:
 
-    # "A set of traditional Twi’ll physical exercises to balance the body and mind, or something like that."
-    ""
 
-# game/episode007.rpy:942
+    "一套傳統的特維爾身體練習，用來平衡身心之類的玩意兒。"
+
+
 translate traditional_chinese ep007_conversations_8030a70f:
 
-    # "It just looked insanely hot, also because she was doing them naked."
-    ""
 
-# game/episode007.rpy:943
+    "那場面簡直是火辣到爆，尤其她還一絲不掛地做着動作。"
+
+
 translate traditional_chinese ep007_conversations_593f9c58:
 
-    # c "Why do those poses make you look extra gorgeous?"
-    c ""
 
-# game/episode007.rpy:945
+    c "爲什麼這些姿勢讓你看起來格外性感？"
+
+
 translate traditional_chinese ep007_conversations_409f68ca:
 
-    # j "I know, it’s a failing of mine."
-    j ""
 
-# game/episode007.rpy:946
+    j "我知道，這是我的一大短板啦。"
+
+
 translate traditional_chinese ep007_conversations_f67c5ae7:
 
-    # j "Those movements were once part of the holiest of holiest sacrements in our religion and I pervert them by making it look like a lap dance."
-    j ""
 
-# game/episode007.rpy:947
+    j "那些動作原本是我們宗教中最最神聖的聖儀之一，結果被我搞得像脫衣舞表演一樣。"
+
+
 translate traditional_chinese ep007_conversations_8962f1eb:
 
-    # c "Are you serious, this whole routine is normally part of a religious ceremony?"
-    c ""
 
-# game/episode007.rpy:949
+    c "你認真的嗎？這套玩意兒正常是宗教儀式的組成部分？"
+
+
 translate traditional_chinese ep007_conversations_dd03ea04:
 
-    # j "Haha, of course not!"
-    j ""
 
-# game/episode007.rpy:951
+    j "哈哈，當然不是啦！"
+
+
 translate traditional_chinese ep007_conversations_f5020b8a:
 
-    # j "Unless you count seduction as the official Twi’ll religion."
-    j ""
 
-# game/episode007.rpy:952
+    j "除非你把勾引當成了特維爾官方宗教。"
+
+
 translate traditional_chinese ep007_conversations_d248683f:
 
-    # j "Though in a way, it might be..."
-    j ""
 
-# game/episode007.rpy:954
+    j "不過從某種角度來看，說不定還真是..."
+
+
 translate traditional_chinese ep007_conversations_0c15638a:
 
-    # j "Anyway, what do you need me for?"
-    j ""
 
-# game/episode007.rpy:955
+    j "總之，你需要我做什麼？"
+
+
 translate traditional_chinese ep007_conversations_0ea3c70a:
 
-    # c "Lots of things...{w} But I’d like you to come with me now."
-    c ""
 
-# game/episode007.rpy:956
+    c "很多事情...{w}但我現在想讓你跟我來。"
+
+
 translate traditional_chinese ep007_conversations_5e4ace8e:
 
-    # j "Of course."
-    j ""
 
-# game/episode007.rpy:963
+    j "當然。"
+
+
 translate traditional_chinese ep007_conversations_f4a3b1d2:
 
-    # c "You look extremely fuckable right now, you know that?"
-    c ""
 
-# game/episode007.rpy:964
+    c "你現在看起來非常「可操的」，你知道嗎？"
+
+
 translate traditional_chinese ep007_conversations_c3c3014c:
 
-    # "The girl didn’t hear me come in and was obviously startled by my brusque comment."
-    ""
 
-# game/episode007.rpy:966
+    "女孩沒聽到我進來，顯然被我的粗魯評論嚇了一跳。"
+
+
 translate traditional_chinese ep007_conversations_16dd6b0e:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode007.rpy:967
+    j "是的，主人。"
+
+
 translate traditional_chinese ep007_conversations_51d0b8be:
 
-    # c "Sadly, I don’t have time to play with you, I need you to come with me, Jade."
-    c ""
 
-# game/episode007.rpy:968
+    c "可惜，我沒時間和你玩了，我需要你跟我走，傑德。"
+
+
 translate traditional_chinese ep007_conversations_fbaa5fcd:
 
-    # j "Of course, master."
-    j ""
 
-# game/episode007.rpy:970
+    j "當然，主人。"
+
+
 translate traditional_chinese ep007_conversations_b8700ae8:
 
-    # c "I need you to come with me, Jade."
-    c ""
 
-# game/episode007.rpy:972
+    c "我需要你跟我走，傑德。"
+
+
 translate traditional_chinese ep007_conversations_fbaa5fcd_1:
 
-    # j "Of course, master."
-    j ""
 
-# game/episode007.rpy:975
+    j "當然，主人。"
+
+
 translate traditional_chinese ep007_conversations_75ece378:
 
-    # "I guided Jade towards the same balcony where Thyia and I spoke earlier."
-    ""
 
-# game/episode007.rpy:976
+    "我帶着傑德走向同一個陽臺，就是之前我和塞婭說話的那個地方。"
+
+
 translate traditional_chinese ep007_conversations_9a1a9231:
 
-    # j "So you need me to break into Cetruvar’s personal computer?"
-    j ""
 
-# game/episode007.rpy:977
+    j "所以你需要我入侵塞特魯瓦的個人電腦？"
+
+
 translate traditional_chinese ep007_conversations_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode007.rpy:978
+    c "是的。"
+
+
 translate traditional_chinese ep007_conversations_b9c3c026:
 
-    # j "No problem, if you can get me inside his room."
-    j ""
 
-# game/episode007.rpy:979
+    j "沒問題，只要你能讓我進他房間。"
+
+
 translate traditional_chinese ep007_conversations_30abbac8:
 
-    # c "We’re working on that."
-    c ""
 
-# game/episode007.rpy:980
+    c "我們正在想辦法。"
+
+
 translate traditional_chinese ep007_conversations_1afeb994:
 
-    # c "Meet me in front of my room in one hour, everything should be set up by then."
-    c ""
 
-# game/episode007.rpy:981
+    c "一小時後在我房間門口見我，那時一切應該都準備好了。"
+
+
 translate traditional_chinese ep007_conversations_ca021bae:
 
-    # j "I will."
-    j ""
 
-# game/episode007.rpy:983
+    j "我會的。"
+
+
 translate traditional_chinese ep007_conversations_cdcf5af3:
 
-    # "A guard walked past us as we finished our conversation."
-    ""
 
-# game/episode007.rpy:988
+    "我們談話結束時，一個守衛從我們身邊走過。"
+
+
 translate traditional_chinese ep007_conversations_5592ac1c:
 
-    # woman "What are you doing outside of your quarters?"
-    woman ""
 
-# game/episode007.rpy:989
+    woman "你們在房間外面幹什麼？"
+
+
 translate traditional_chinese ep007_conversations_d59bd0a0:
 
-    # c "Aren’t we allowed some fresh air?"
-    c ""
 
-# game/episode007.rpy:990
+    c "我們難道不能透透氣嗎？"
+
+
 translate traditional_chinese ep007_conversations_0e5d2e97:
 
-    # woman "It’s late, you’ll disturb the other guests."
-    woman ""
 
-# game/episode007.rpy:991
+    woman "這麼晚了，你們會打擾其他客人的。"
+
+
 translate traditional_chinese ep007_conversations_8154f829:
 
-    # c "Thank you for your concern."
-    c ""
 
-# game/episode007.rpy:993
+    c "謝謝你的關心。"
+
+
 translate traditional_chinese ep007_conversations_95b321a9:
 
-    # "The guard didn’t press further, so I walked away from her, in search of Thyia."
-    ""
 
-# game/episode007.rpy:994
+    "守衛沒再追問，所以我從她身邊走開，去找塞婭了。"
+
+
 translate traditional_chinese ep007_conversations_28f26ed4:
 
-    # "She met me down the corridor looking excited."
-    ""
 
-# game/episode007.rpy:996
+    "她在走廊盡頭遇見我，看起來很興奮。"
+
+
 translate traditional_chinese ep007_conversations_550308a8:
 
-    # th "Ready to do this?"
-    th ""
 
-# game/episode007.rpy:997
+    th "準備好動手了？"
+
+
 translate traditional_chinese ep007_conversations_b63d6bf3:
 
-    # c "I am."
-    c ""
 
-# game/episode007.rpy:998
+    c "我準備好了。"
+
+
 translate traditional_chinese ep007_conversations_86d309ce:
 
-    # th "Here’s one of the guns, and I’ve brought the grenades."
-    th ""
 
-# game/episode007.rpy:999
+    th "喏，槍在這，手雷也帶着了。"
+
+
 translate traditional_chinese ep007_conversations_33da7d28:
 
-    # c "Good, let’s go find that vent."
-    c ""
 
-# game/episode007.rpy:1001
+    c "好嘞，我們去找通風口。"
+
+
 translate traditional_chinese ep007_conversations_d3f308df:
 
-    # "Thyia knew the way and guided us towards the spot where we needed to deposit the grenades."
-    ""
 
-# game/episode007.rpy:1003
+    "認道的塞婭領我們往投彈處走。"
+
+
 translate traditional_chinese ep007_conversations_17b78bb2:
 
-    # "Just as we were about to remove the grating from the vent, the guard who accosted me earlier rounded the corner."
-    ""
 
-# game/episode007.rpy:1005
+    "正要掀通風柵欄，早前盤問我的守衛突然拐過牆角。"
+
+
 translate traditional_chinese ep007_conversations_d12fa3f5:
 
-    # th "Fuck."
-    th ""
 
-# game/episode007.rpy:1007
+    th "操。"
+
+
 translate traditional_chinese ep007_conversations_36eeb9da:
 
-    # "Without hesitating I pushed Thyia against the wall and wrapped my arms around her."
-    ""
 
-# game/episode007.rpy:1009
+    "我二話不說把塞婭懟牆上，兩臂箍住她。"
+
+
 translate traditional_chinese ep007_conversations_1321cdb9:
 
-    # "I kissed her full on the lips."
-    ""
 
-# game/episode007.rpy:1010
+    "結結實實親在她嘴脣上。"
+
+
 translate traditional_chinese ep007_conversations_f219d87c:
 
-    # "Thyia was too startled to return the kiss at first, but when the guard approached us she gave herself over to the moment completely."
-    ""
 
-# game/episode007.rpy:1012
+    "塞婭驚得忘了回應，等守衛湊近了反倒全身心投入起來。"
+
+
 translate traditional_chinese ep007_conversations_909e401e:
 
-    # woman "Excuse me."
-    woman ""
 
-# game/episode007.rpy:1013
+    woman "打擾一下。"
+
+
 translate traditional_chinese ep007_conversations_808aacc9:
 
-    # c "What?{w} Oh."
-    c ""
 
-# game/episode007.rpy:1014
+    c "什...什麼？{w}呃。"
+
+
 translate traditional_chinese ep007_conversations_2077c7ce:
 
-    # woman "You again."
-    woman ""
 
-# game/episode007.rpy:1015
+    woman "又是你。"
+
+
 translate traditional_chinese ep007_conversations_2dd46812:
 
-    # woman "You’re keeping busy tonight, aren’t you?"
-    woman ""
 
-# game/episode007.rpy:1016
+    woman "你今晚很忙啊，不是嗎？"
+
+
 translate traditional_chinese ep007_conversations_e96df658:
 
-    # woman "Mister Cetruvar assigned you a room, please use it for whatever the fuck you’re doing."
-    woman ""
 
-# game/episode007.rpy:1017
+    woman "塞特魯瓦先生給你分了房間，要搞什麼鬼事回屋搞去。"
+
+
 translate traditional_chinese ep007_conversations_a192efc8:
 
-    # c "Right, we will."
-    c ""
 
-# game/episode007.rpy:1019
+    c "行行，這就去。"
+
+
 translate traditional_chinese ep007_conversations_f73bdab2:
 
-    # c "Are you coming, Thyia?"
-    c ""
 
-# game/episode007.rpy:1020
+    c "走不走啊塞婭？"
+
+
 translate traditional_chinese ep007_conversations_73f7090f:
 
-    # th "Err...{w} Yes...{w} Yes I am."
-    th ""
 
-# game/episode007.rpy:1022
+    th "啊...{w}嗯...{w}好。"
+
+
 translate traditional_chinese ep007_conversations_202224de:
 
-    # "The guard seemed to pay us no mind, but did mutter in displeasure as she walked past us."
-    ""
 
-# game/episode007.rpy:1024
+    "守衛沒正眼看我們，擦身而過時倒聽見她嫌惡地嘀咕。"
+
+
 translate traditional_chinese ep007_conversations_ef43b041:
 
-    # th "What the fuck did you do that for, [p_name_short]?"
-    th ""
 
-# game/episode007.rpy:1025
+    th "抽什麼瘋呢，[p_name_short]？"
+
+
 translate traditional_chinese ep007_conversations_783a3952:
 
-    # c "It’s called a distraction."
-    c ""
 
-# game/episode007.rpy:1026
+    c "這叫轉移視線。"
+
+
 translate traditional_chinese ep007_conversations_b9c59dfd:
 
-    # th "It sure was."
-    th ""
 
-# game/episode007.rpy:1028
+    th "是啊當然。"
+
+
 translate traditional_chinese ep007_conversations_31ff3b5e:
 
-    # th "Also, you’re still holding me."
-    th ""
 
-# game/episode007.rpy:1032
+    th "而且，你手還箍着我呢。"
+
+
 translate traditional_chinese ep007_conversations_56fb54d6:
 
-    # "She didn’t remove my hands from her hips and instead looked at me with a strange mixture of longing and growing alarm."
-    ""
 
-# game/episode007.rpy:1034
+    "她沒扒開我扣在她腰胯的手，反而用混雜着欲望與越發警覺的怪異眼神看着我。"
+
+
 translate traditional_chinese ep007_conversations_8fb0e760:
 
-    # "I kissed Thyia again."
-    ""
 
-# game/episode007.rpy:1035
+    "我再次吻了塞婭。"
+
+
 translate traditional_chinese ep007_conversations_63b5a5c8:
 
-    # "Once again, she accepted me and only tried to disentangle herself after what seemed like a delightful eternity."
-    ""
 
-# game/episode007.rpy:1037
+    "又一次，她接受了我，並且只在感覺像一段愉悅的永恆時光後才試圖掙脫。"
+
+
 translate traditional_chinese ep007_conversations_8e4f8590:
 
-    # th "I...{w} We...{w} The grating!"
-    th ""
 
-# game/episode007.rpy:1038
+    th "我...{w} 我們...{w} 格柵！"
+
+
 translate traditional_chinese ep007_conversations_184ebaa5:
 
-    # c "Right, we still have some guards to gas."
-    c ""
 
-# game/episode007.rpy:1039
+    c "好吧，我們還要用毒氣處理一些守衛。"
+
+
 translate traditional_chinese ep007_conversations_90fe5535:
 
-    # th "Exactly.{w} Guards.{w} Gas."
-    th ""
 
-# game/episode007.rpy:1041
+    th "沒錯。{w} 守衛。{w} 毒氣。"
+
+
 translate traditional_chinese ep007_conversations_184ebaa5_1:
 
-    # c "Right, we still have some guards to gas."
-    c ""
 
-# game/episode007.rpy:1042
+    c "好吧，我們還要用毒氣處理一些守衛。"
+
+
 translate traditional_chinese ep007_conversations_b588e543:
 
-    # th "We do indeed."
-    th ""
 
-# game/episode007.rpy:1045
+    th "確實如此。"
+
+
 translate traditional_chinese ep007_conversations_c2376a0e:
 
-    # "The grating wasn’t that well secured and we had access to the vent in no time."
-    ""
 
-# game/episode007.rpy:1047
+    "格柵沒有固定得很好，我們立刻就進入了通風口。"
+
+
 translate traditional_chinese ep007_conversations_67d96be9:
 
-    # th "Well, here goes."
-    th ""
 
-# game/episode007.rpy:1048
+    th "好，開始吧。"
+
+
 translate traditional_chinese ep007_conversations_63f3d68a:
 
-    # th "If it works, we won’t hear a thing."
-    th ""
 
-# game/episode007.rpy:1049
+    th "如果管用，我們就什麼也聽不到了。"
+
+
 translate traditional_chinese ep007_conversations_8fb1a0fa:
 
-    # th "Otherwise we’re in a world of trouble."
-    th ""
 
-# game/episode007.rpy:1050
+    th "否則我們就麻煩大了。"
+
+
 translate traditional_chinese ep007_conversations_9eecd492:
 
-    # c "What if one of the patrols comes to check on their colleagues?"
-    c ""
 
-# game/episode007.rpy:1051
+    c "如果巡邏隊有人來查看他們的同事怎麼辦？"
+
+
 translate traditional_chinese ep007_conversations_959b7229:
 
-    # th "Same world of trouble."
-    th ""
 
-# game/episode007.rpy:1052
+    th "同樣是麻煩大了。"
+
+
 translate traditional_chinese ep007_conversations_9ebf0dc9:
 
-    # th "So we have to move quickly and be gone before the night is out."
-    th ""
 
-# game/episode007.rpy:1053
+    th "所以我們得趕緊行動，在天亮前溜走。"
+
+
 translate traditional_chinese ep007_conversations_8bdc12f0:
 
-    # c "In that case, you do the honors."
-    c ""
 
-# game/episode007.rpy:1055
+    c "那樣的話，你來負責。"
+
+
 translate traditional_chinese ep007_conversations_7f64bfcb:
 
-    # "Thyia pulled the pin on one of the grenades and lobbed it inside the vent."
-    ""
 
-# game/episode007.rpy:1056
+    "塞婭拉開一顆手雷的保險銷，把它扔進了通風口。"
+
+
 translate traditional_chinese ep007_conversations_18434601:
 
-    # "While it clattered through the shaft, she primed a second grenade."
-    ""
 
-# game/episode007.rpy:1058
+    "它在管道裏咔嗒作響時，她備好了第二顆手雷。"
+
+
 translate traditional_chinese ep007_conversations_bb93e22d:
 
-    # th "And one more for good measure."
-    th ""
 
-# game/episode007.rpy:1059
+    th "再加一顆以防萬一。"
+
+
 translate traditional_chinese ep007_conversations_b3796811:
 
-    # th "Hope they sleep tight."
-    th ""
 
-# game/episode007.rpy:1060
+    th "希望他們睡個好覺。"
+
+
 translate traditional_chinese ep007_conversations_7e173243:
 
-    # c "Right, let’s go find Jade."
-    c ""
 
-# game/episode007.rpy:1062
+    c "好, 我們去找傑德吧。"
+
+
 translate traditional_chinese ep007_conversations_bb7da63f:
 
-    # "Jade stepped out of the shadows once we neared the entrance to Cetruvar’s quarters."
-    ""
 
-# game/episode007.rpy:1063
+    "傑德在我們靠近塞特魯瓦住處入口時，從陰影中走了出來。"
+
+
 translate traditional_chinese ep007_conversations_43457ebb:
 
-    # c "Any guards outside his quarters?"
-    c ""
 
-# game/episode007.rpy:1064
+    c "他住處外面有守衛嗎？"
+
+
 translate traditional_chinese ep007_conversations_b825bdd2:
 
-    # j "Yes, two."
-    j ""
 
-# game/episode007.rpy:1065
+    j "有, 兩個。"
+
+
 translate traditional_chinese ep007_conversations_d7ac1729:
 
-    # c "That was to be expected..."
-    c ""
 
-# game/episode007.rpy:1066
+    c "這是預料之中的..."
+
+
 translate traditional_chinese ep007_conversations_9c98b948:
 
-    # c "What do we do about them?"
-    c ""
 
-# game/episode007.rpy:1068
+    c "我們該怎麼處理他們？"
+
+
 translate traditional_chinese ep007_conversations_b4179f26:
 
-    # "Thyia was about to voice her opinion when the door slammed open and out came Cetruvar with several bodyguards."
-    ""
 
-# game/episode007.rpy:1069
+    "塞婭正要發表意見時，門突然砰地打開，塞特魯瓦和幾名保鏢走了出來。"
+
+
 translate traditional_chinese ep007_conversations_fbbae7e8:
 
-    # "The guards at the door followed their employer immediately."
-    ""
 
-# game/episode007.rpy:1070
+    "門前的守衛立刻跟上了他們的僱主。"
+
+
 translate traditional_chinese ep007_conversations_54dffae7:
 
-    # "We slinked into the shadows, but we didn’t need to because they were too busy arguing among themselves."
-    ""
 
-# game/episode007.rpy:1072
+    "我們潛入了陰影中，但根本沒必要，因爲他們正忙着爭吵不休。"
+
+
 translate traditional_chinese ep007_conversations_8aa7574c:
 
-    # cet "How the fuck did this happen?!"
-    cet ""
 
-# game/episode007.rpy:1073
+    cet "這他媽是怎麼發生的？！"
+
+
 translate traditional_chinese ep007_conversations_7e9029e6:
 
-    # cet "She was stripped, wasn’t she?"
-    cet ""
 
-# game/episode007.rpy:1076
+    cet "她被剝光了，不是嗎？"
+
+
 translate traditional_chinese ep007_conversations_c0a58289:
 
-    # woman "Yes sir, we left the prisoner wearing only her underwear."
-    woman ""
 
-# game/episode007.rpy:1077
+    woman "是的長官，我們讓犯人只穿着內衣。"
+
+
 translate traditional_chinese ep007_conversations_8af48d77:
 
-    # cet "Then explain to me how she could off herself in a closed cell?"
-    cet ""
 
-# game/episode007.rpy:1078
+    cet "那解釋一下她怎麼能在封閉牢房裡自殺？"
+
+
 translate traditional_chinese ep007_conversations_609b622b:
 
-    # woman "I-"
-    woman ""
 
-# game/episode007.rpy:1079
+    woman "我-"
+
+
 translate traditional_chinese ep007_conversations_c8d0f7e4:
 
-    # "The rest was inaudible as they marched quickly out of earshot."
-    ""
 
-# game/episode007.rpy:1081
+    "其餘部分聽不見了，因爲他們快步走出了聽覺範圍。"
+
+
 translate traditional_chinese ep007_conversations_0ac8d002:
 
-    # th "The prisoner killed herself?"
-    th ""
 
-# game/episode007.rpy:1082
+    th "犯人自殺了？"
+
+
 translate traditional_chinese ep007_conversations_e82dc334:
 
-    # c "Apparently she did."
-    c ""
 
-# game/episode007.rpy:1083
+    c "顯然是的。"
+
+
 translate traditional_chinese ep007_conversations_b075d208:
 
-    # c "No time to worry about that, Ranimo’s rooms are empty."
-    c ""
 
-# game/episode007.rpy:1085
+    c "沒時間擔心那個了，拉尼莫的房間是空的。"
+
+
 translate traditional_chinese ep007_conversations_2fde9657:
 
-    # "Getting into Cetruvar’s personal quarters proved easy."
-    ""
 
-# game/episode007.rpy:1086
+    "進入塞特魯瓦的私人房間很容易。"
+
+
 translate traditional_chinese ep007_conversations_e1ebebd9:
 
-    # "Thyia had the door open in seconds and we slipped in quietly."
-    ""
 
-# game/episode007.rpy:1088
+    "塞婭幾秒鐘就把門打開了，我們悄悄溜了進去。"
+
+
 translate traditional_chinese ep007_conversations_9d5c87aa:
 
-    # "Most of the damage to the apartment had been repaired and nothing else hinted at the violence that had occurred earlier in the day."
-    ""
 
-# game/episode007.rpy:1090
+    "公寓的大部分損壞已經被修復，沒有其他跡象暗示當天早些時候發生的暴力事件。"
+
+
 translate traditional_chinese ep007_conversations_8337f9c2:
 
-    # "I pointed Jade to the console I noticed earlier and she started to work quickly."
-    ""
 
-# game/episode007.rpy:1091
+    "我指向我之前注意到的控制臺給傑德看，她立刻開始工作。"
+
+
 translate traditional_chinese ep007_conversations_d08272aa:
 
-    # "Thyia watched the hallway in case our host returned early."
-    ""
 
-# game/episode007.rpy:1093
+    "塞婭盯着走廊以防主人提早回來。"
+
+
 translate traditional_chinese ep007_conversations_1a427168:
 
-    # j "This isn’t going to be easy."
-    j ""
 
-# game/episode007.rpy:1094
+    j "這不會輕鬆的。"
+
+
 translate traditional_chinese ep007_conversations_4d544b97:
 
-    # c "I didn’t think it would be."
-    c ""
 
-# game/episode007.rpy:1096
+    c "我沒想過它會輕鬆。"
+
+
 translate traditional_chinese ep007_conversations_7aaf6225:
 
-    # "Jade was already lost in thought, her lips pursed into a thin line of frustration."
-    ""
 
-# game/episode007.rpy:1098
+    "傑德已經在沉思，嘴脣撅成一條細線，顯出沮喪。"
+
+
 translate traditional_chinese ep007_conversations_72a7a977:
 
-    # j "I know this type of system, but it’s been hardened."
-    j ""
 
-# game/episode007.rpy:1099
+    j "我知道這種系統，但它已經被加固了。"
+
+
 translate traditional_chinese ep007_conversations_d378706b:
 
-    # j "Probably some custom-made patches."
-    j ""
 
-# game/episode007.rpy:1100
+    j "可能是些定製補丁。"
+
+
 translate traditional_chinese ep007_conversations_136da1f3:
 
-    # c "Can you break it?"
-    c ""
 
-# game/episode007.rpy:1102
+    c "你能攻破它嗎？"
+
+
 translate traditional_chinese ep007_conversations_068ac14b:
 
-    # j "I don’t know."
-    j ""
 
-# game/episode007.rpy:1104
+    j "我不知道。"
+
+
 translate traditional_chinese ep007_conversations_1d523c6f:
 
-    # th "I suggest we hurry up, there’s no telling when they’ll return."
-    th ""
 
-# game/episode007.rpy:1106
+    th "我建議我們加快點動作，誰知道他們什麼時候會回來。"
+
+
 translate traditional_chinese ep007_conversations_96aa35ff:
 
-    # j "I’m working as hard as I can."
-    j ""
 
-# game/episode007.rpy:1107
+    j "我正全力以赴地幹活呢。"
+
+
 translate traditional_chinese ep007_conversations_7e1ae24a:
 
-    # c "Right, why don’t you find the others and take them to the Bastard, Thyia."
-    c ""
 
-# game/episode007.rpy:1108
+    c "行吧，塞婭，你爲什麼不去找其他人，把他們帶到\"私生子\"號上呢。"
+
+
 translate traditional_chinese ep007_conversations_7606489a:
 
-    # c "Considering everything that’s happening right now, we should be ready to take off immediately."
-    c ""
 
-# game/episode007.rpy:1110
+    c "考慮到眼下發生的這些事，我們得準備好立刻起飛。"
+
+
 translate traditional_chinese ep007_conversations_c7763b6f:
 
-    # th "Understood."
-    th ""
 
-# game/episode007.rpy:1112
+    th "明白了。"
+
+
 translate traditional_chinese ep007_conversations_5fa5ca7f:
 
-    # "Thyia disappeared in search for the others."
-    ""
 
-# game/episode007.rpy:1113
+    "塞婭離開去尋其他人了。"
+
+
 translate traditional_chinese ep007_conversations_4acebbe4:
 
-    # c "Is there anything I can do to help, Jade?"
-    c ""
 
-# game/episode007.rpy:1115
+    c "有什麼我能幫忙的嗎，傑德？"
+
+
 translate traditional_chinese ep007_conversations_0c471653:
 
-    # j "Maybe search the room to see if he's left any personal stuff around?"
-    j ""
 
-# game/episode007.rpy:1116
+    j "也許搜搜房間，看看他有沒有落下什麼私人玩意兒？"
+
+
 translate traditional_chinese ep007_conversations_1a033f56:
 
-    # c "On it."
-    c ""
 
-# game/episode007.rpy:1122
+    c "這就去辦。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_8c66395c:
 
-    # "The bed looked slept on, the covers having been pulled back."
-    ""
 
-# game/episode007.rpy:1127
+    "牀看起來睡過，被子已經被掀開了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_8767ef8c:
 
-    # "It was cold outside."
-    ""
 
-# game/episode007.rpy:1132
+    "外面很冷。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_e58215a9:
 
-    # "A half-finished drink was left on a side table."
-    ""
 
-# game/episode007.rpy:1136
+    "小桌子上剩了半杯沒喝完的飲料。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_26f0f5ea:
 
-    # "The desk itself was empty, save for a few decorative knick-knacks."
-    ""
 
-# game/episode007.rpy:1138
+    "書桌本身空着，就剩了幾個小擺件在那兒。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1b76c196:
 
-    # "When I looked beneath the desk, my eye caught the metallic sheen of what looked like a flat object, half-hidden under a trash can."
-    ""
 
-# game/episode007.rpy:1140
+    "我往書桌底下一瞧，一眼瞥見一個半藏在垃圾桶下的扁平物體，閃着金屬光。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_bca265c5:
 
-    # "I pulled the thing out from under the wastebasket."
-    ""
 
-# game/episode007.rpy:1141
+    "我把那東西從垃圾桶下拉了出來。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_72c55ad1:
 
-    # "It turned out to be a small tablet."
-    ""
 
-# game/episode007.rpy:1142
+    "結果是個小尺寸的平板。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c16503bc:
 
-    # "The device might have slipped out of Cetruvar’s pocket when he was forced on the ground by his attackers earlier."
-    ""
 
-# game/episode007.rpy:1144
+    "這玩意兒可能之前塞特魯瓦遭襲擊者按在地上時，從他口袋裡滑出來了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_fbcce27d:
 
-    # c "I think I found something."
-    c ""
 
-# game/episode007.rpy:1145
+    c "我覺得我找到了點兒東西。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_0abbb47f:
 
-    # c "Would this be of any help, Jade?"
-    c ""
 
-# game/episode007.rpy:1147
+    c "這個能幫上忙嗎，傑德？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_4a9283e4:
 
-    # j "Cetruvar’s tablet?"
-    j ""
 
-# game/episode007.rpy:1148
+    j "塞特魯瓦的平板？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_58f3a46c:
 
-    # j "That would be perfect."
-    j ""
 
-# game/episode007.rpy:1150
+    j "那可真是完美。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_12e7e33b:
 
-    # "I handed her the device and her eyes lit up."
-    ""
 
-# game/episode007.rpy:1151
+    "我把設備遞給她，她眼睛一亮。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_2ccb80ca:
 
-    # j "Oh, this is more than perfect."
-    j ""
 
-# game/episode007.rpy:1152
+    j "噢，這豈止是完美。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_44ba27a2:
 
-    # j "Several exploits for this model have been published."
-    j ""
 
-# game/episode007.rpy:1154
+    j "該型號的幾個漏洞已經公布了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c84eb90d:
 
-    # "Jade hooked up the tablet to her own device and starting typing rapidly."
-    ""
 
-# game/episode007.rpy:1155
+    "傑德把平板連接到自己的設備上，開始飛速輸入。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_b32e2060:
 
-    # j "And...{w} In!"
-    j ""
 
-# game/episode007.rpy:1156
+    j "然後...{w}進去了！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a358090b:
 
-    # c "Just like that?"
-    c ""
 
-# game/episode007.rpy:1157
+    c "就這樣？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d20b9dc5:
 
-    # j "Just like that."
-    j ""
 
-# game/episode007.rpy:1158
+    j "就這樣。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_e055b786:
 
-    # j "That tablet is a bug-ridden piece of crap."
-    j ""
 
-# game/episode007.rpy:1160
+    j "那個平板就是個滿是漏洞的破爛貨。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_bbb8e9d5:
 
-    # j "I’m amazed he carried it around, especially since his personal computer is secured like a fortress."
-    j ""
 
-# game/episode007.rpy:1161
+    j "我真驚訝他會隨身帶着它，尤其他的個人電腦安全得跟堡壘似的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c252d911:
 
-    # c "No time to waste, is there anything useful on that tablet?"
-    c ""
 
-# game/episode007.rpy:1163
+    c "沒時間浪費了，那平板上有什麼有用的東西嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_6fcfd293:
 
-    # j "Several files, some encrypted."
-    j ""
 
-# game/episode007.rpy:1164
+    j "有幾個文件，有些加密的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_03ff0359:
 
-    # j "Wait a minute, there’s some security footage of the prisoner."
-    j ""
 
-# game/episode007.rpy:1165
+    j "等一下，有那個囚犯的監控錄像。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_74b92f41:
 
-    # c "We’ll look at that later."
-    c ""
 
-# game/episode007.rpy:1166
+    c "我們待會兒再看那個。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_6d4ef673:
 
-    # c "Anything on Eva?"
-    c ""
 
-# game/episode007.rpy:1167
+    c "有關於伊娃的嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ddb4c913:
 
-    # j "There’s a whole list of names."
-    j ""
 
-# game/episode007.rpy:1169
+    j "有個完整的名單。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_e1a5e627:
 
-    # j "Wait!"
-    j ""
 
-# game/episode007.rpy:1171
+    j "等等！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c786eaf0:
 
-    # j "There’s a document mentioning the Acarhyn!"
-    j ""
 
-# game/episode007.rpy:1172
+    j "有個文件提到阿卡海茵人！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_6aaa3972:
 
-    # j "“Monitoring continues. No further incursions of the Acarhyn into foreign territory have occurred.”"
-    j ""
 
-# game/episode007.rpy:1173
+    j "\"監控持續進行中。沒有更多阿卡海茵人侵入外境的事件發生。\""
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a998de7f:
 
-    # j "“Erigone is still too dangerous to navigate. Source has agreed upon further intel drop-offs per the usual procedure.”"
-    j ""
 
-# game/episode007.rpy:1174
+    j "\"厄裏戈涅星依然太危險，難以航行。消息來源同意按常規程序進行更多情報交接。\""
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_48fafe6b:
 
-    # j "“The Acarhyn seem preoccupied with the rise of what they call the Virgin Queen. Source suggests schism in the old ranks and a new religious dogma emerging.”"
-    j ""
 
-# game/episode007.rpy:1175
+    j "\"阿卡海茵人似乎全神貫注於他們所謂的\"處女之王\"的崛起。消息來源指出舊等級制中出現分裂，新宗教教條正在湧現。\""
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_02726e3e:
 
-    # c "Erigone?"
-    c ""
 
-# game/episode007.rpy:1176
+    c "厄裏戈涅星？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_6440e711:
 
-    # c "That’s a system, isn’t it?"
-    c ""
 
-# game/episode007.rpy:1178
+    c "那是個恆星系統，不是嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ac2ed105:
 
-    # j "I think so."
-    j ""
 
-# game/episode007.rpy:1179
+    j "我想是的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_67efca96:
 
-    # c "In that case, I think we have what we need."
-    c ""
 
-# game/episode007.rpy:1180
+    c "那樣的話，我想我們拿到需要的東西了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d77696cf:
 
-    # c "Let’s get out of here."
-    c ""
 
-# game/episode007.rpy:1196
+    c "我們離開這裡吧。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_393a5290:
 
-    # "The small bathroom didn’t look like it was used recently."
-    ""
 
-# game/episode007.rpy:1201
+    "小衛生間看起來不像是最近被用過。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_548d0ba9:
 
-    # "The apartment was kept immaculately clean and the space below the sofa was no exception."
-    ""
 
-# game/episode007.rpy:1207
+    "公寓被保持得一塵不染，沙發下的空間也不例外。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_eee06c9a:
 
-    # "Together, we hurried out of Cetruvar’s apartment and ran into the corridor."
-    ""
 
-# game/episode007.rpy:1208
+    "我們一起匆匆離開塞特魯瓦的公寓，跑進了走廊。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_67fa561a:
 
-    # "All the doors of the guest quarters were ajar, so the rest of the crew had already left for the launch platform where the Bastard was docked."
-    ""
 
-# game/episode007.rpy:1210
+    "客人區所有的門都半開着，所以剩餘的機組成員已經去了登船臺，那裡停泊着\"私生子\"號。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_0c8ec93f:
 
-    # "We ran up the stairs towards the launch platform."
-    ""
 
-# game/episode007.rpy:1217
+    "我們跑上樓梯，衝向登船臺。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_2efd8980:
 
-    # man "Stop right there!"
-    man ""
 
-# game/episode007.rpy:1218
+    man "站住！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_0a830946:
 
-    # c "Fuck!"
-    c ""
 
-# game/episode007.rpy:1219
+    c "操！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_b1ccba62:
 
-    # c "Keep running!"
-    c ""
 
-# game/episode007.rpy:1221
+    c "繼續跑！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_fcbdac86:
 
-    # "Despite not having a clear shot, the guards fired a couple of rounds at us anyway."
-    ""
 
-# game/episode007.rpy:1223
+    "儘管沒有清晰的射擊角度，警衛還是朝我們開了幾槍。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d06d8701:
 
-    # "We rounded a corner and the Iron Bastard came into view."
-    ""
 
-# game/episode007.rpy:1224
+    "我們拐過一個拐角，\"鋼鐵私生子\"號映入眼帘。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f6a27d67:
 
-    # "The crew was already aboard, as became evident by the engines roaring to life when we started to cross the short distance to the entrance hatch."
-    ""
 
-# game/episode007.rpy:1225
+    "機組成員已經登船了，很明顯，因爲我們往入口艙門跑去時，引擎開始轟鳴着啓動。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_848eb22d:
 
-    # "Footsteps could be heard behind us."
-    ""
 
-# game/episode007.rpy:1227
+    "我們聽到身後有腳步聲。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_6ed6fe6b:
 
-    # man "Stop!"
-    man ""
 
-# game/episode007.rpy:1228
+    man "停下！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_47106d45:
 
-    # man "On the floor!"
-    man ""
 
-# game/episode007.rpy:1229
+    man "趴下！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_36805a99:
 
-    # "Bullets whizzed past us and one lodged inside the ship’s armored hull."
-    ""
 
-# game/episode007.rpy:1230
+    "子彈從我們身邊呼嘯而過，其中一顆嵌進了船的裝甲船體裡。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_cae37b95:
 
-    # "Thyia’s head appeared outside the ship and she aimed a gun at the guards."
-    ""
 
-# game/episode007.rpy:1231
+    "塞婭的頭從船外探出，她的槍朝警衛瞄準了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c58ad17f:
 
-    # th "Hurry up!"
-    th ""
 
-# game/episode007.rpy:1233
+    th "快點兒！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_605c501e:
 
-    # "Thyia took Jade’s hand and together we jumped inside the ship."
-    ""
 
-# game/episode007.rpy:1234
+    "塞婭抓住傑德的手，我們一起跳進船內。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_443731d4:
 
-    # "When our feet crossed the threshold, the guards unleashed another volley of bullets."
-    ""
 
-# game/episode007.rpy:1236
+    "當我們的腳踏過門檻時，警衛們又射出了一排子彈。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a0445680:
 
-    # "Jade screamed and crashed to the floor."
-    ""
 
-# game/episode007.rpy:1238
+    "傑德尖叫一聲，摔倒在地板上。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_44e58eb9:
 
-    # "Thyia hit the button to close the hatch and the ship took off."
-    ""
 
-# game/episode007.rpy:1239
+    "塞婭按下按鈕關閉艙門，船起飛了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a9750f4a:
 
-    # "Bullets still rained on the hull for quite a while, until our ship was out of range."
-    ""
 
-# game/episode007.rpy:1242
+    "子彈還在船體上傾瀉了好一會兒，直到我們的船超出射程。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d06d8701_1:
 
-    # "We rounded a corner and the Iron Bastard came into view."
-    ""
 
-# game/episode007.rpy:1243
+    "我們拐過一個拐角，\"鋼鐵私生子\"號映入眼帘。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f6a27d67_1:
 
-    # "The crew was already aboard, as became evident by the engines roaring to life when we started to cross the short distance to the entrance hatch."
-    ""
 
-# game/episode007.rpy:1244
+    "機組成員已經登船了，很明顯，因爲我們往入口艙門跑去時，引擎開始轟鳴着啓動。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_912a8858:
 
-    # "Footsteps could be heard behind us, but they were far away."
-    ""
 
-# game/episode007.rpy:1246
+    "我們聽到身後有腳步聲，但它們遠在後方。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_688fee7e:
 
-    # "When the guards finally appeared at the top of the stairs, we were already safely inside the ship."
-    ""
 
-# game/episode007.rpy:1247
+    "當警衛終於出現在樓梯頂端時，我們已經安全地在飛船裏了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_44e58eb9_1:
 
-    # "Thyia hit the button to close the hatch and the ship took off."
-    ""
 
-# game/episode007.rpy:1249
+    "塞婭按下按鈕關上艙門，飛船起飛了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1e461f93:
 
-    # "The guards started shooting at the ship in vain, the Bastard’s armor protecting us against the futile pinpricks fired from the handguns."
-    ""
 
-# game/episode007.rpy:1250
+    "警衛們開始朝飛船開火但徒勞無功，\"私生子\"號的裝甲保護了我們，抵擋了從手槍發射的沒用的子彈。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a9750f4a_1:
 
-    # "Bullets still rained on the hull for quite a while, until our ship was out of range."
-    ""
 
-# game/episode007.rpy:1253
+    "彈雨仍然落在船體上好一陣子，直到我們的飛船超出射程。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_5479f872:
 
-    # cet "You searched her?"
-    cet ""
 
-# game/episode007.rpy:1254
+    cet "你們搜過她了嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_81ce2a4e:
 
-    # man "We did, sir."
-    man ""
 
-# game/episode007.rpy:1255
+    man "我們搜過了，長官。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_91677ee9:
 
-    # man "She was stripped down to her underwear."
-    man ""
 
-# game/episode007.rpy:1257
+    man "她被扒得只剩內衣了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c9a14d76:
 
-    # cet "So someone must have slipped her a knife."
-    cet ""
 
-# game/episode007.rpy:1258
+    cet "所以肯定有人塞給了她一把刀。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_5da099d1:
 
-    # cet "Have you checked the camera feed?"
-    cet ""
 
-# game/episode007.rpy:1259
+    cet "你們檢查過攝像頭回放了嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_80b453ea:
 
-    # man "The camera seems to have glitched at a certain point during the night, sir."
-    man ""
 
-# game/episode007.rpy:1260
+    man "長官，攝像頭似乎在夜裡的某個時間點出了問題。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_3ae34a7f:
 
-    # cet "Of course..."
-    cet ""
 
-# game/episode007.rpy:1262
+    cet "當然了..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1af2bed2:
 
-    # cet "Round up the remaining fucking guests, we need to have a serious conversation with-"
-    cet ""
 
-# game/episode007.rpy:1264
+    cet "把剩下那些該死的客人集合起來，我們需要一些嚴肅的問話..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_49429a38:
 
-    # cet "What the...?!"
-    cet ""
 
-# game/episode007.rpy:1265
+    cet "什麼鬼...？！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d488dd73:
 
-    # cet "Are those gunshots?"
-    cet ""
 
-# game/episode007.rpy:1267
+    cet "那是槍聲嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_48e70863:
 
-    # cet "Why do I hear gunshots?!"
-    cet ""
 
-# game/episode007.rpy:1268
+    cet "爲什麼我聽到槍聲了？！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_02f4ec11:
 
-    # man "Checking in right now, sir."
-    man ""
 
-# game/episode007.rpy:1270
+    man "正在確認，長官。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_8cb6f128:
 
-    # man "..."
-    man ""
 
-# game/episode007.rpy:1272
+    man "..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_954f2279:
 
-    # man "Sir.{w} A small detail seems to be in pursuit of the guests, sir."
-    man ""
 
-# game/episode007.rpy:1274
+    man "長官.{w}似乎有支小分隊在追捕客人，長官。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_74b03d97:
 
-    # cet "Small detail?!"
-    cet ""
 
-# game/episode007.rpy:1276
+    cet "小分隊？！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_4573b761:
 
-    # cet "Where are all my fucking guards?"
-    cet ""
 
-# game/episode007.rpy:1277
+    cet "我那些該死的警衛都去哪兒了？！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_7074133f:
 
-    # man "The guard post isn’t responding, sir."
-    man ""
 
-# game/episode007.rpy:1278
+    man "崗哨沒有回應，長官。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d82f57d8:
 
-    # cet "Get someone to check it out at once!"
-    cet ""
 
-# game/episode007.rpy:1280
+    cet "立刻派人去檢查一下！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_31cbcd4b:
 
-    # man "Yes sir."
-    man ""
 
-# game/episode007.rpy:1282
+    man "是長官。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_8cb6f128_1:
 
-    # man "..."
-    man ""
 
-# game/episode007.rpy:1284
+    man "..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1ff9e11f:
 
-    # man "Uh, sir?"
-    man ""
 
-# game/episode007.rpy:1286
+    man "呃，長官？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_bf64d41a:
 
-    # cet "That better not be a ship engine I’m hearing!"
-    cet ""
 
-# game/episode007.rpy:1287
+    cet "我聽到的最好不是飛船引擎的聲音！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_8a4917ce:
 
-    # man "I’ve just gotten word that they’ve stormed the platform."
-    man ""
 
-# game/episode007.rpy:1288
+    man "我剛收到消息，他們已經攻佔平臺了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_89781989:
 
-    # man "They seem to be in possession of their ship."
-    man ""
 
-# game/episode007.rpy:1290
+    man "他們的飛船好像被奪回去了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_accb4c4f:
 
-    # cet "You don’t say..."
-    cet ""
 
-# game/episode007.rpy:1291
+    cet "不會吧..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_873f119f:
 
-    # man "What do we do, sir?"
-    man ""
 
-# game/episode007.rpy:1292
+    man "長官，我們怎麼辦？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ea864ab2:
 
-    # cet "Order the drones to take them the fuck down!"
-    cet ""
 
-# game/episode007.rpy:1293
+    cet "命令無人機把他們擊落！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ff6ed8d5:
 
-    # man "Sir, the drones are still out of commission after the attack earlier."
-    man ""
 
-# game/episode007.rpy:1295
+    man "長官，無人機早先遇襲後還沒修復。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_cff5f74d:
 
-    # cet "MOTHERFUCKER!"
-    cet ""
 
-# game/episode007.rpy:1300
+    cet "媽惹法克！"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_19723a6c:
 
-    # c "Are we clear yet?"
-    c ""
 
-# game/episode007.rpy:1305
+    c "我們脫離追蹤了嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_df91fa59:
 
-    # av "We are."
-    av ""
 
-# game/episode007.rpy:1306
+    av "確認脫離了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c78bcb68:
 
-    # av "No one in pursuit."
-    av ""
 
-# game/episode007.rpy:1310
+    av "後方沒有追兵。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f68eaea1:
 
-    # c "Good, Céline, set course to the following coordinates, we’re going to Erigone."
-    c ""
 
-# game/episode007.rpy:1312
+    c "很好，瑟琳，設定以下坐標航線，我們去厄裏戈涅星。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c628cc92:
 
-    # ce "Uh, [p_name_short]."
-    ce ""
 
-# game/episode007.rpy:1313
+    ce "呃，[p_name_short]。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_0ec9a2ee:
 
-    # c "The screen is flashing red."
-    c ""
 
-# game/episode007.rpy:1314
+    c "屏幕在閃紅光。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_781fb4b3:
 
-    # c "That’s not good is it?"
-    c ""
 
-# game/episode007.rpy:1315
+    c "這不太妙吧？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_3c61d1c4:
 
-    # ce "Are you sure those coordinates are correct?"
-    ce ""
 
-# game/episode007.rpy:1316
+    ce "你確定坐標正確嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ede08962:
 
-    # c "I don’t know, we didn’t have time to stop and ask."
-    c ""
 
-# game/episode007.rpy:1318
+    c "不知道，剛才可沒空停下來問路。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_bd2d5656:
 
-    # ce "Erigone is supposed to be a microquasar."
-    ce ""
 
-# game/episode007.rpy:1319
+    ce "厄裏戈涅星應該是個微型類星體。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_12eb7f2b:
 
-    # ce "Basically a giant star and a black hole all wrapped in a nebula."
-    ce ""
 
-# game/episode007.rpy:1320
+    ce "簡單說就是氣體巨行星裹着星雲，中間包着黑洞。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1ba91d4a:
 
-    # c "You know, you actually make that sound cozy."
-    c ""
 
-# game/episode007.rpy:1322
+    c "被你這麼一說倒挺溫馨。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_7e2fe7de:
 
-    # ce "Perhaps, if it weren’t for the black hole sucking the life out of the gas giant and spitting all of it out as plasma into the nebula, in turn creating a massive amount of gamma rays."
-    ce ""
 
-# game/episode007.rpy:1323
+    ce "本來挺美——要不是黑洞在吸乾氣體行星，把物質變成等離子體噴進星雲，還附帶巨量伽馬射線的話。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode007.rpy:1328
+    c "好吧。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_b38587e4:
 
-    # av "How solid is this information from Cetruvar?"
-    av ""
 
-# game/episode007.rpy:1329
+    av "塞特魯瓦的情報靠譜嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_57371bdd:
 
-    # c "This is from his personal datapad."
-    c ""
 
-# game/episode007.rpy:1330
+    c "這可是他私人數據電腦裏的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f1f8777e:
 
-    # av "Which he conveniently forgot to take with him?"
-    av ""
 
-# game/episode007.rpy:1331
+    av "然後他剛好忘了帶走？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_d7f98c5c:
 
-    # c "He was being threatened at the time."
-    c ""
 
-# game/episode007.rpy:1333
+    c "他當時正受到威脅。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c74ddb65:
 
-    # c "I don’t think this is a setup, do you Jade?"
-    c ""
 
-# game/episode007.rpy:1335
+    c "我不覺得這是個陷阱，你呢傑德？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_65aa5c70:
 
-    # j "The information looks to be genuine."
-    j ""
 
-# game/episode007.rpy:1336
+    j "這信息看起來是真的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_9d687ae4:
 
-    # j "There’s too much salacious information on that tablet for it to be a plant for us to find."
-    j ""
 
-# game/episode007.rpy:1338
+    j "那個平板上有太多淫穢信息了，不可能是故意放給我們的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_7295d58b:
 
-    # c "I don’t think this is a setup."
-    c ""
 
-# game/episode007.rpy:1339
+    c "我不覺得這是個陷阱。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_0f0fb1dc:
 
-    # c "There’s too much salacious information on that tablet for it to be a plant for us to find."
-    c ""
 
-# game/episode007.rpy:1344
+    c "那個平板上有太多淫穢信息了，不可能是故意放給我們的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_cec13a86:
 
-    # av "Yet we’re about to fly into something that makes a nuclear explosion seem like a party popper."
-    av ""
 
-# game/episode007.rpy:1345
+    av "然而我們正要飛進一個地方，它那會讓核爆炸看起來像放個小鞭炮似的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_a235ef53:
 
-    # c "If the data we have about that place is correct."
-    c ""
 
-# game/episode007.rpy:1346
+    c "如果我們對那個地方的數據是正確的。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_e39e5a1f:
 
-    # c "Telling everyone your system is a microquasar sure is a convenient way to deter any tourists from visiting... "
-    c ""
 
-# game/episode007.rpy:1347
+    c "告訴大家你們的系統是個微型類星體，這確實是嚇退遊客的方便方法... "
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_7bed8935:
 
-    # c "Céline, can we approach that nebula?"
-    c ""
 
-# game/episode007.rpy:1349
+    c "瑟琳，我們能不能接近那個星雲？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_200fbc46:
 
-    # ce "To a certain distance, yes, but our shielding doesn’t last forever."
-    ce ""
 
-# game/episode007.rpy:1350
+    ce "到一定距離可以，但我們的護盾撐不了太久。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_bbe56e9a:
 
-    # c "Would we be able to do a quick scan of the system?"
-    c ""
 
-# game/episode007.rpy:1351
+    c "我們能對這個系統做個快速掃描嗎？"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1c95cf63:
 
-    # ce "Yes, that should be possible, if nothing interferes with the scan."
-    ce ""
 
-# game/episode007.rpy:1352
+    ce "可以的，如果沒有幹擾掃描。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_31993810:
 
-    # c "Right, take us to a safe distance then, I’d like to see that supposed hellscape for myself."
-    c ""
 
-# game/episode007.rpy:1354
+    c "好的，帶我們到安全距離，我想親自看看那個所謂的地獄景象。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_ab05b18c:
 
-    # ce "Understood."
-    ce ""
 
-# game/episode007.rpy:1355
+    ce "明白了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_16ca3f98:
 
-    # ce "At any rate, we’ll have a long ride ahead of us."
-    ce ""
 
-# game/episode007.rpy:1356
+    ce "不管怎樣，我們還有很長的路要走。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_877cd240:
 
-    # c "Good, because I haven’t actually slept for a minute in Ranimo’s little bed and breakfast..."
-    c ""
 
-# game/episode007.rpy:1361
+    c "好，因爲我在拉尼莫的小民宿裏根本沒睡過一分鐘..."
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_5c1cf597:
 
-    # "Céline programmed the autopilot, while the rest of the crew went to find their bunks."
-    ""
 
-# game/episode007.rpy:1364
+    "瑟琳設置了自動駕駛，其餘的機組成員去找他們的鋪位了。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_f9731095:
 
-    # "Jade had been taken to the medbay to have her foot wound treated by Thim."
-    ""
 
-# game/episode007.rpy:1366
+    "傑德被帶到醫療區，讓蒂姆治療她腳上的傷口。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_1ad62794:
 
-    # "Jade had been taken to the medbay to have her foot wound treated by the autodoc."
-    ""
 
-# game/episode007.rpy:1367
+    "傑德被帶到醫療區，讓自動醫療儀治療她腳上的傷口。"
+
+
 translate traditional_chinese ep007_cetruvar_search_choices_c2741753:
 
-    # "A status check revealed that she was already resting and that her wound would heal completely."
-    ""
 
-# game/episode007.rpy:1382
+    "狀態檢查顯示，她已經休息了，傷口會完全癒合。"
+
+
 translate traditional_chinese ep007_na_talk_8e9360e4:
 
-    # na "Oh hey [p_name_short]."
-    na ""
 
-# game/episode007.rpy:1383
+    na "哦嘿 [p_name_short]."
+
+
 translate traditional_chinese ep007_na_talk_3e84f929:
 
-    # c "Reading up on things?"
-    c ""
 
-# game/episode007.rpy:1384
+    c "在看資料嗎？"
+
+
 translate traditional_chinese ep007_na_talk_fa32f1cf:
 
-    # na "Yes, I pulled up some information on the Yalvai, they’re such fascinating creatures."
-    na ""
 
-# game/episode007.rpy:1385
+    na "是的，我查了些關於亞爾瓦族的資料，它們真是有趣的生物。"
+
+
 translate traditional_chinese ep007_na_talk_7a845a25:
 
-    # c "That’s one way to put it."
-    c ""
 
-# game/episode007.rpy:1386
+    c "可以這麼說吧。"
+
+
 translate traditional_chinese ep007_na_talk_3d0b8134:
 
-    # c "Well, I’d better let you get back to reading."
-    c ""
 
-# game/episode007.rpy:1389
+    c "行了，我就不打擾你繼續看書了。"
+
+
 translate traditional_chinese ep007_na_talk_6fd0ffb0:
 
-    # na "[p_name]?"
-    na ""
 
-# game/episode007.rpy:1390
+    na "[p_name]？"
+
+
 translate traditional_chinese ep007_na_talk_24c7ada5:
 
-    # c "Yes?"
-    c ""
 
-# game/episode007.rpy:1391
+    c "怎麼了？"
+
+
 translate traditional_chinese ep007_na_talk_e0344445:
 
-    # na "I don’t want to intrude, but I’ve been wondering something ever since we escaped that research station."
-    na ""
 
-# game/episode007.rpy:1394
+    na "不是想打探隱私，但自從逃離研究站後有件事我一直很好奇。"
+
+
 translate traditional_chinese ep007_na_talk_ae6e8b71:
 
-    # na "You and Aven have grown closer, haven’t you?"
-    na ""
 
-# game/episode007.rpy:1396
+    na "你和艾文關係變親密了，對吧？"
+
+
 translate traditional_chinese ep007_na_talk_33324028:
 
-    # na "You and Lilly have grown closer, haven’t you?"
-    na ""
 
-# game/episode007.rpy:1397
+    na "你和莉莉關係變親密了，對吧？"
+
+
 translate traditional_chinese ep007_na_talk_e2a97f5b:
 
-    # "My heart sank at that moment."
-    ""
 
-# game/episode007.rpy:1398
+    "這句話瞬間讓我心頭一沉。"
+
+
 translate traditional_chinese ep007_na_talk_6528e29a:
 
-    # "Did she notice anything?"
-    ""
 
-# game/episode007.rpy:1400
+    "她發現什麼端倪了嗎？"
+
+
 translate traditional_chinese ep007_na_talk_92860cec:
 
-    # "She couldn't know about the kiss Aven and I shared here on Almagest?"
-    ""
 
-# game/episode007.rpy:1402
+    "她不可能知道我和艾文在文典星接吻的事？"
+
+
 translate traditional_chinese ep007_na_talk_b59d407d:
 
-    # "We didn’t do anything inappropriate when we were held together in that cell, did we?"
-    ""
 
-# game/episode007.rpy:1405
+    "當初被關在同一個牢房裡時，我們應該沒做過什麼出格的事吧？"
+
+
 translate traditional_chinese ep007_na_talk_c37e4ec0:
 
-    # c "Sure, we talked things over, but other than that I’m not sure I follow."
-    c ""
 
-# game/episode007.rpy:1407
+    c "當然，我們聊了不少，但除此之外我不太明白你的意思。"
+
+
 translate traditional_chinese ep007_na_talk_abf78642:
 
-    # na "Right, that must be it."
-    na ""
 
-# game/episode007.rpy:1408
+    na "好吧，那肯定就是這樣。"
+
+
 translate traditional_chinese ep007_na_talk_14e8bda1:
 
-    # na "Glad you were able to talk."
-    na ""
 
-# game/episode007.rpy:1409
+    na "能好好溝通總是好的。"
+
+
 translate traditional_chinese ep007_na_talk_fb03ba9f:
 
-    # c "I’ll let you go back to reading."
-    c ""
 
-# game/episode007.rpy:1411
+    c "你繼續看書吧。"
+
+
 translate traditional_chinese ep007_na_talk_512fd9c9:
 
-    # na "Thank you, [p_name_short]."
-    na ""
 
-# game/episode007.rpy:1414
+    na "謝謝你，[p_name_short]。"
+
+
 translate traditional_chinese ep007_na_talk_8d740489:
 
-    # c "We have."
-    c ""
 
-# game/episode007.rpy:1415
+    c "確實更親密了。"
+
+
 translate traditional_chinese ep007_na_talk_4141727e:
 
-    # na "I thought as much."
-    na ""
 
-# game/episode007.rpy:1417
+    na "我猜到是這樣。"
+
+
 translate traditional_chinese ep007_na_talk_1f4a80b6:
 
-    # na "I...{w} Just be careful."
-    na ""
 
-# game/episode007.rpy:1418
+    na "我...{w}小心點吧。"
+
+
 translate traditional_chinese ep007_na_talk_ef821644:
 
-    # na "Feelings can be confusing and you might end up hurting one another by accident."
-    na ""
 
-# game/episode007.rpy:1419
+    na "感情這種事容易讓人昏頭，搞不好會無意識地傷害對方。"
+
+
 translate traditional_chinese ep007_na_talk_fea73121:
 
-    # na "Make sure you’re both on the same page."
-    na ""
 
-# game/episode007.rpy:1420
+    na "確認清楚你們是不是心意相通。"
+
+
 translate traditional_chinese ep007_na_talk_f6d9a786:
 
-    # na "Don’t be afraid of following your feelings, but don’t force things either."
-    na ""
 
-# game/episode007.rpy:1422
+    na "別壓抑自己的感情，但也別強求。"
+
+
 translate traditional_chinese ep007_na_talk_0a28922b:
 
-    # na "I’m sorry, I’m not very coherent at the moment, am I?"
-    na ""
 
-# game/episode007.rpy:1423
+    na "抱歉，我現在說話是不是有點語無倫次？"
+
+
 translate traditional_chinese ep007_na_talk_60433a42:
 
-    # "Her words sure had me confused."
-    ""
 
-# game/episode007.rpy:1425
+    "她這番話着實讓我犯糊塗了。"
+
+
 translate traditional_chinese ep007_na_talk_1f0c015f:
 
-    # "Was she giving her implicit consent to courting Aven?"
-    ""
 
-# game/episode007.rpy:1427
+    "她在暗示同意追求艾文嗎？"
+
+
 translate traditional_chinese ep007_na_talk_73b69529:
 
-    # "Was she giving her implicit consent to courting Lilly?"
-    ""
 
-# game/episode007.rpy:1428
+    "她在暗示同意追求莉莉嗎？"
+
+
 translate traditional_chinese ep007_na_talk_4f82f0ba:
 
-    # "Why wasn’t she disgusted by the idea?"
-    ""
 
-# game/episode007.rpy:1429
+    "她爲什麼對這個想法不覺得噁心？"
+
+
 translate traditional_chinese ep007_na_talk_d63414de:
 
-    # "Nadya had risen while I mulled things over."
-    ""
 
-# game/episode007.rpy:1431
+    "娜迪亞在我琢磨事情的時候站起來了。"
+
+
 translate traditional_chinese ep007_na_talk_94715b23:
 
-    # "She took me in a warm embrace."
-    ""
 
-# game/episode007.rpy:1433
+    "她給了我一個熱情的擁抱。"
+
+
 translate traditional_chinese ep007_na_talk_e99d2f65:
 
-    # na "Aven is my special girl."
-    na ""
 
-# game/episode007.rpy:1435
+    na "艾文是我的特別女孩。"
+
+
 translate traditional_chinese ep007_na_talk_9b6ba11f:
 
-    # na "Lilly is my special girl."
-    na ""
 
-# game/episode007.rpy:1438
+    na "莉莉是我的特別女孩。"
+
+
 translate traditional_chinese ep007_na_talk_5858f5d4:
 
-    # "Nadya suddenly peered at me with penetrating eyes."
-    ""
 
-# game/episode007.rpy:1439
+    "娜迪亞突然用穿透般的眼神盯着我。"
+
+
 translate traditional_chinese ep007_na_talk_7cbf205a:
 
-    # na "You know you sometimes look an awful lot like your father?"
-    na ""
 
-# game/episode007.rpy:1440
+    na "你知道嗎？你有時候真是像極了你父親？"
+
+
 translate traditional_chinese ep007_na_talk_1c3b17a1:
 
-    # c "I reckon that’s a bad thing?"
-    c ""
 
-# game/episode007.rpy:1442
+    c "我覺得那是件壞事吧？"
+
+
 translate traditional_chinese ep007_na_talk_6a6905bc:
 
-    # na "It brings back memories, yes."
-    na ""
 
-# game/episode007.rpy:1443
+    na "這勾起回憶了，是的。"
+
+
 translate traditional_chinese ep007_na_talk_414a482e:
 
-    # na "Though the memories I have of him when we were young aren’t tainted by what came after."
-    na ""
 
-# game/episode007.rpy:1446
+    na "不過，我記得我們年輕時的回憶沒有被後來那些事玷污。"
+
+
 translate traditional_chinese ep007_na_talk_d5fd095f:
 
-    # na "And know that I’ve never resented you or your sisters in any way."
-    na ""
 
-# game/episode007.rpy:1448
+    na "你要知道，我從來沒有以任何方式怨恨你或你的妹妹們。"
+
+
 translate traditional_chinese ep007_na_talk_fe31ea61:
 
-    # na "And know that I’ve never resented you or Lilly and Eva in any way."
-    na ""
 
-# game/episode007.rpy:1449
+    na "你要知道，我從來沒有以任何方式怨恨你、莉莉和伊娃。"
+
+
 translate traditional_chinese ep007_na_talk_d84dcf02:
 
-    # "Nadya had risen while I mulled over this sudden and weird exchange."
-    ""
 
-# game/episode007.rpy:1451
+    "娜迪亞在我琢磨這場突然又怪異的對話時站起來了。"
+
+
 translate traditional_chinese ep007_na_talk_94715b23_1:
 
-    # "She took me in a warm embrace."
-    ""
 
-# game/episode007.rpy:1456
+    "她給了我一個熱情的擁抱。"
+
+
 translate traditional_chinese ep007_na_talk_bbb9e4c6:
 
-    # "Relishing her smell and the warmth of her body, I wrapped my arms around her."
-    ""
 
-# game/episode007.rpy:1458
+    "享受着她的氣味和身體的溫暖，我抱緊了她。"
+
+
 translate traditional_chinese ep007_na_talk_75467193:
 
-    # "I didn’t exactly return her embrace, turning the heartfelt moment into something a little awkward."
-    ""
 
-# game/episode007.rpy:1460
+    "我沒有完全回抱她，把那個真心誠意的時刻弄成了有點尷尬的事。"
+
+
 translate traditional_chinese ep007_na_talk_9d7f4bfa:
 
-    # na "Glad we were able to talk."
-    na ""
 
-# game/episode007.rpy:1461
+    na "很高興我們能聊聊。"
+
+
 translate traditional_chinese ep007_na_talk_fb03ba9f_1:
 
-    # c "I’ll let you go back to reading."
-    c ""
 
-# game/episode007.rpy:1462
+    c "我會讓你繼續看書了。"
+
+
 translate traditional_chinese ep007_na_talk_512fd9c9_1:
 
-    # na "Thank you, [p_name_short]."
-    na ""
 
-# game/episode007.rpy:1466
+    na "謝謝你，[p_name_short]。"
+
+
 translate traditional_chinese ep007_na_talk_c208cf1e:
 
-    # na "You’re my remarkable boy, remember that."
-    na ""
 
-# game/episode007.rpy:1468
+    na "你是我非凡的男孩，別忘了這個。"
+
+
 translate traditional_chinese ep007_na_talk_c7728461:
 
-    # "She took my head in her hands and kissed me on the lips."
-    ""
 
-# game/episode007.rpy:1469
+    "她用雙手捧住我的頭，吻了我的嘴脣。"
+
+
 translate traditional_chinese ep007_na_talk_fbb9e49a:
 
-    # "That gesture startled me and I couldn’t help but return the kiss."
-    ""
 
-# game/episode007.rpy:1471
+    "那個舉動嚇了我一跳，我忍不住回吻了過去。"
+
+
 translate traditional_chinese ep007_na_talk_76e55bf8:
 
-    # "Her lips lingered far too long on mine."
-    ""
 
-# game/episode007.rpy:1472
+    "她的嘴脣在我的脣上停留了太久了。"
+
+
 translate traditional_chinese ep007_na_talk_ad095099:
 
-    # "Nadya had her eyes closed all the time, as if in a state of trance."
-    ""
 
-# game/episode007.rpy:1474
+    "娜迪亞一直閉着眼睛，仿佛處於恍惚狀態。"
+
+
 translate traditional_chinese ep007_na_talk_c34ce269:
 
-    # "When she finally disentangled, her eyes fluttered open and I saw embarrassment in her eyes."
-    ""
 
-# game/episode007.rpy:1475
+    "當她終於掙脫時，她的眼睛眨了眨睜開，我在她的眼中看到了尷尬。"
+
+
 translate traditional_chinese ep007_na_talk_2df73829:
 
-    # na "Forgive me, I...{w} I...{w} I need to get back to my reading."
-    na ""
 
-# game/episode007.rpy:1476
+    na "原諒我，我...{w} 我...{w} 我得回去看書了。"
+
+
 translate traditional_chinese ep007_na_talk_bd11f3f6:
 
-    # c "Yes, yes of course."
-    c ""
 
-# game/episode007.rpy:1478
+    c "是的，當然。"
+
+
 translate traditional_chinese ep007_na_talk_6f982faf:
 
-    # "I stepped out of her quarters, feeling even more confused than earlier."
-    ""
 
-# game/episode007.rpy:1484
+    "我走出她的房間，感覺比之前更困惑了。"
+
+
 translate traditional_chinese ep007_av_talk_c9fb0e2d:
 
-    # av "Oh, I was about to hop into the shower."
-    av ""
 
-# game/episode007.rpy:1485
+    av "哦，我正要進淋浴間。"
+
+
 translate traditional_chinese ep007_av_talk_8b040dc1:
 
-    # c "No problem, just checking in."
-    c ""
 
-# game/episode007.rpy:1486
+    c "沒問題，只是來看看你。"
+
+
 translate traditional_chinese ep007_av_talk_fb1755bb:
 
-    # c "Good night."
-    c ""
 
-# game/episode007.rpy:1487
+    c "晚安。"
+
+
 translate traditional_chinese ep007_av_talk_1790d364:
 
-    # av "Good night to you too."
-    av ""
 
-# game/episode007.rpy:1489
+    av "你也晚安。"
+
+
 translate traditional_chinese ep007_av_talk_62f46459:
 
-    # av "Did you come by earlier, when I was just in the shower?"
-    av ""
 
-# game/episode007.rpy:1490
+    av "你早些時候來過嗎，我洗澡的時候？"
+
+
 translate traditional_chinese ep007_av_talk_11111377:
 
-    # c "No, I didn’t."
-    c ""
 
-# game/episode007.rpy:1492
+    c "不，我沒有。"
+
+
 translate traditional_chinese ep007_av_talk_bf200bb5:
 
-    # av "The water was lovely."
-    av ""
 
-# game/episode007.rpy:1493
+    av "那水很舒服。"
+
+
 translate traditional_chinese ep007_av_talk_9e97fbc8:
 
-    # av "Cetruvar might be an obnoxious prick, but he knows how to indulge in the right luxuries."
-    av ""
 
-# game/episode007.rpy:1494
+    av "塞特魯瓦可能是個討厭的傢伙，但他知道怎麼享受合適的奢侈品。"
+
+
 translate traditional_chinese ep007_av_talk_f9501d02:
 
-    # c "Careful what you say here, he might be listening in."
-    c ""
 
-# game/episode007.rpy:1496
+    c "在這兒說話小心點，他可能在偷聽。"
+
+
 translate traditional_chinese ep007_av_talk_1120118b:
 
-    # av "Well, fuck him."
-    av ""
 
-# game/episode007.rpy:1497
+    av "嗯，去他媽的。"
+
+
 translate traditional_chinese ep007_av_talk_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode007.rpy:1498
+    c "對。"
+
+
 translate traditional_chinese ep007_av_talk_ecab27d4:
 
-    # av "Why don’t we go for a walk then?"
-    av ""
 
-# game/episode007.rpy:1499
+    av "那我們去散個步怎麼樣？"
+
+
 translate traditional_chinese ep007_av_talk_cac66d33:
 
-    # av "Cetruvar has this crazy indoor garden somewhere near the entrance of his private quarters."
-    av ""
 
-# game/episode007.rpy:1500
+    av "塞特魯瓦在他私人房間入口附近某處有個瘋狂的室內花園。"
+
+
 translate traditional_chinese ep007_av_talk_dd8c4fab:
 
-    # c "I’d like to see that."
-    c ""
 
-# game/episode007.rpy:1501
+    c "我想去看看。"
+
+
 translate traditional_chinese ep007_av_talk_74d578a6:
 
-    # c "Are you going dressed like that?"
-    c ""
 
-# game/episode007.rpy:1502
+    c "你就這樣穿着去嗎？"
+
+
 translate traditional_chinese ep007_av_talk_c4e82a8a:
 
-    # c "Not that I mind..."
-    c ""
 
-# game/episode007.rpy:1504
+    c "倒不是說我在意..."
+
+
 translate traditional_chinese ep007_av_talk_3954146d:
 
-    # av "Oh...{w} Right, there’s a bathrobe around here somewhere."
-    av ""
 
-# game/episode007.rpy:1505
+    av "哦...{w} 對了，這兒附近有件浴袍什麼的。"
+
+
 translate traditional_chinese ep007_av_talk_e6600899:
 
-    # "Aven put on a silk robe that made her look quite distinguished, despite her wearing nothing but her underwear beneath it."
-    ""
 
-# game/episode007.rpy:1506
+    "艾文穿上了一件絲質睡袍，讓她看起來很出色，儘管她下面只穿了內衣。"
+
+
 translate traditional_chinese ep007_av_talk_c672ca83:
 
-    # "The place wasn’t far from our quarters and the smell of flowers and soil greeted us even before we entered the garden."
-    ""
 
-# game/episode007.rpy:1508
+    "這個地方離我們的住處不遠，花香和泥土的氣息在我們進入花園前就迎接着我們。"
+
+
 translate traditional_chinese ep007_av_talk_b98415da:
 
-    # av "Look at that, a lot of those are extremely rare."
-    av ""
 
-# game/episode007.rpy:1509
+    av "看那個，很多都是極其稀有的。"
+
+
 translate traditional_chinese ep007_av_talk_80cd480b:
 
-    # c "I’ll take your word for it, I skipped all botany classes at the academy."
-    c ""
 
-# game/episode007.rpy:1510
+    c "我就信你的話吧，我在學院裡跳過了所有植物學課。"
+
+
 translate traditional_chinese ep007_av_talk_b000ad2c:
 
-    # av "From what I’ve heard, you skipped most classes at the academy."
-    av ""
 
-# game/episode007.rpy:1511
+    av "據我所知，你在學院裡跳過大多數課。"
+
+
 translate traditional_chinese ep007_av_talk_4798a489:
 
-    # c "Lies!"
-    c ""
 
-# game/episode007.rpy:1513
+    c "胡說！"
+
+
 translate traditional_chinese ep007_av_talk_c3c5dadd:
 
-    # "We sat down on a bench in the middle of the garden."
-    ""
 
-# game/episode007.rpy:1514
+    "我們坐在花園中央的長椅上。"
+
+
 translate traditional_chinese ep007_av_talk_6e45f873:
 
-    # av "So, I guess we need to address something."
-    av ""
 
-# game/episode007.rpy:1515
+    av "那麼，我想我們需要談點事。"
+
+
 translate traditional_chinese ep007_av_talk_dfada02e:
 
-    # av "Our stay in that ConVitæ cell was a little confusing."
-    av ""
 
-# game/episode007.rpy:1516
+    av "我們在那個康維泰牢房裡的時光有點令人困惑。"
+
+
 translate traditional_chinese ep007_av_talk_61ed7c35:
 
-    # c "You can say that again."
-    c ""
 
-# game/episode007.rpy:1518
+    c "不錯。"
+
+
 translate traditional_chinese ep007_av_talk_ff91fc7a:
 
-    # av "We confessed some pretty intimate things to each other."
-    av ""
 
-# game/episode007.rpy:1519
+    av "我們互相坦白了一些相當親密的事。"
+
+
 translate traditional_chinese ep007_av_talk_8ac8c7a0:
 
-    # av "Things that weren’t that controversial until we regained our memories..."
-    av ""
 
-# game/episode007.rpy:1520
+    av "這些事情在我們恢復記憶前並不那麼有爭議..."
+
+
 translate traditional_chinese ep007_av_talk_66b5f8f6:
 
-    # av "I think the question now is, where do we stand?"
-    av ""
 
-# game/episode007.rpy:1523
+    av "我想現在的問題是，我們該站在什麼位置？"
+
+
 translate traditional_chinese ep007_av_talk_5997c9ca:
 
-    # c "Nothing has changed."
-    c ""
 
-# game/episode007.rpy:1524
+    c "什麼都沒變。"
+
+
 translate traditional_chinese ep007_av_talk_ff48b5e9:
 
-    # c "Regaining my memories has actually put everything into perspective, to be honest."
-    c ""
 
-# game/episode007.rpy:1526
+    c "老實說，恢復記憶確實讓一切都清晰了。"
+
+
 translate traditional_chinese ep007_av_talk_f4260636:
 
-    # c "The bond we shared as children, the way we just hit off after picking up you and Aunt Nadya on Ryūjin Prime..."
-    c ""
 
-# game/episode007.rpy:1528
+    c "我們小時候分享的羈絆，在龍神主星接上你和娜迪亞阿姨後我們就一拍即合..."
+
+
 translate traditional_chinese ep007_av_talk_ff9fc71e:
 
-    # c "The bond we shared as children, the way we just hit off after picking up you and Nadya on Ryūjin Prime..."
-    c ""
 
-# game/episode007.rpy:1529
+    c "我們小時候分享的羈絆，在龍神主星接上你和娜迪亞後我們就一拍即合..."
+
+
 translate traditional_chinese ep007_av_talk_7dde42a7:
 
-    # c "I looked up to you as a child, admired you."
-    c ""
 
-# game/episode007.rpy:1530
+    c "我小時候仰慕你，喜歡你。"
+
+
 translate traditional_chinese ep007_av_talk_72717d58:
 
-    # c "I still admire you now."
-    c ""
 
-# game/episode007.rpy:1532
+    c "我現在依然欽慕你。"
+
+
 translate traditional_chinese ep007_av_talk_fa97bbe6:
 
-    # c "Not as the young girl who dared to do anything, but I admire the woman you’ve grown into."
-    c ""
 
-# game/episode007.rpy:1534
+    c "不再是你敢做任何事的那個小女孩，而是你長大後成爲的女人，我欽慕。"
+
+
 translate traditional_chinese ep007_av_talk_bd6f0495:
 
-    # c "You’re beautiful, funny and I think my love for you goes beyond normal kinship."
-    c ""
 
-# game/episode007.rpy:1536
+    c "你美麗、風趣，而且我認爲我對你的愛超越了普通的親屬關係。"
+
+
 translate traditional_chinese ep007_av_talk_f98b8e97:
 
-    # c "You’re beautiful, funny and I think my love for you goes beyond normal friendship."
-    c ""
 
-# game/episode007.rpy:1538
+    c "你美麗、風趣，而且我認爲我對你的愛超越了普通的友誼。"
+
+
 translate traditional_chinese ep007_av_talk_06abcc16:
 
-    # c "Oh shit...{w} I’ve made you cry."
-    c ""
 
-# game/episode007.rpy:1540
+    c "哦，該死...{w} 我把你弄哭了。"
+
+
 translate traditional_chinese ep007_av_talk_6d87848f:
 
-    # av "Fuck.{w} You can be so intense, you know that?"
-    av ""
 
-# game/episode007.rpy:1543
+    av "操.{w} 你可以如此強烈，你知道嗎？"
+
+
 translate traditional_chinese ep007_av_talk_c50f69f1:
 
-    # av "Just like you tried to push our conversation back on the Bastard immediately after what happened."
-    av ""
 
-# game/episode007.rpy:1547
+    av "就像在事發後，你立刻試圖把我們的談話扯回\"私生子\"號上。"
+
+
 translate traditional_chinese ep007_av_talk_5edb2813:
 
-    # c "I’m sorry about that, I should have given you some space."
-    c ""
 
-# game/episode007.rpy:1549
+    c "真是對不起，我該給你留點空間的。"
+
+
 translate traditional_chinese ep007_av_talk_4c7a8829:
 
-    # av "Thank you, that means a lot."
-    av ""
 
-# game/episode007.rpy:1551
+    av "謝謝，這話意義重大。"
+
+
 translate traditional_chinese ep007_av_talk_532cc7b2:
 
-    # c "I would have said the same things as I did just now."
-    c ""
 
-# game/episode007.rpy:1552
+    c "我還是會說出剛才那番話。"
+
+
 translate traditional_chinese ep007_av_talk_9ee33f57:
 
-    # av "I am willing to believe that."
-    av ""
 
-# game/episode007.rpy:1553
+    av "這話我樂意相信。"
+
+
 translate traditional_chinese ep007_av_talk_e0a06d52:
 
-    # av "But it’s not only about you is it, I needed time to process everything."
-    av ""
 
-# game/episode007.rpy:1554
+    av "可這不光是你的事對吧？我也需要時間消化一切。"
+
+
 translate traditional_chinese ep007_av_talk_99e5e7ac:
 
-    # av "I’m afraid you just want to rush into this."
-    av ""
 
-# game/episode007.rpy:1556
+    av "我擔心你只是想趕緊脫身。"
+
+
 translate traditional_chinese ep007_av_talk_cff11a28:
 
-    # av "This was a mistake, I’m sorry."
-    av ""
 
-# game/episode007.rpy:1558
+    av "這真是個錯誤，對不起。"
+
+
 translate traditional_chinese ep007_av_talk_c24359e4:
 
-    # "Aven abruptly stood up and walked out of the garden."
-    ""
 
-# game/episode007.rpy:1559
+    "艾文突然起身走出了花園。"
+
+
 translate traditional_chinese ep007_av_talk_b4a91900:
 
-    # c "Aven?"
-    c ""
 
-# game/episode007.rpy:1560
+    c "艾文？"
+
+
 translate traditional_chinese ep007_av_talk_f5929276:
 
-    # c "Aven!"
-    c ""
 
-# game/episode007.rpy:1561
+    c "艾文！"
+
+
 translate traditional_chinese ep007_av_talk_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode007.rpy:1565
+    c "靠。"
+
+
 translate traditional_chinese ep007_av_talk_f73abbc6:
 
-    # av "When all the memories came flooding back in I also realized what an asshole you can be."
-    av ""
 
-# game/episode007.rpy:1566
+    av "當所有記憶湧上來時，我也意識到你這人有多混蛋。"
+
+
 translate traditional_chinese ep007_av_talk_e0b4b14d:
 
-    # c "Say what?!"
-    c ""
 
-# game/episode007.rpy:1568
+    c "說什麼呢？！"
+
+
 translate traditional_chinese ep007_av_talk_b85e4df9:
 
-    # av "Come on, you know what I mean."
-    av ""
 
-# game/episode007.rpy:1571
+    av "得了吧，你懂我意思。"
+
+
 translate traditional_chinese ep007_av_talk_ed3387fb:
 
-    # av "Trash-talking your sister, being stuck-up about some cleavage, not to mention refusing Ziv and Raene passage on that shuttle."
-    av ""
 
-# game/episode007.rpy:1573
+    av "罵你妹妹、擺出副臭架子計較乳溝，更別提拒絕基芙和蕾妮上穿梭機了。"
+
+
 translate traditional_chinese ep007_av_talk_18e9f261:
 
-    # av "Trash-talking your friend, being stuck-up about some cleavage, not to mention refusing Ziv and Raene passage on that shuttle."
-    av ""
 
-# game/episode007.rpy:1576
+    av "罵你朋友、擺出副臭架子計較乳溝，更別提拒絕基芙和蕾妮上穿梭機了。"
+
+
 translate traditional_chinese ep007_av_talk_a63dbd5d:
 
-    # av "Trash-talking your sister, being stuck-up about some cleavage..."
-    av ""
 
-# game/episode007.rpy:1578
+    av "罵你妹妹、擺出副臭架子計較乳溝..."
+
+
 translate traditional_chinese ep007_av_talk_661ce278:
 
-    # av "Trash-talking your friend, being stuck-up about some cleavage..."
-    av ""
 
-# game/episode007.rpy:1580
+    av "罵你妹妹、擺出副臭架子計較乳溝..."
+
+
 translate traditional_chinese ep007_av_talk_3daca6d8:
 
-    # av "So I’m sorry, the whole thing seemed suddenly less rosy colored."
-    av ""
 
-# game/episode007.rpy:1585
+    av "所以很抱歉，整件事突然就變味兒了。"
+
+
 translate traditional_chinese ep007_av_talk_bc9bf6b6:
 
-    # c "I can’t take back what I said."
-    c ""
 
-# game/episode007.rpy:1586
+    c "我說出去的話收不回來。"
+
+
 translate traditional_chinese ep007_av_talk_a402d9c8:
 
-    # c "And you really startled me in the hallway."
-    c ""
 
-# game/episode007.rpy:1587
+    c "而且你在走廊裏真把我嚇得不輕。"
+
+
 translate traditional_chinese ep007_av_talk_793d5668:
 
-    # c "I’m trying to be as good a captain of this ship as I can be, but I fully admit I’ve made mistakes."
-    c ""
 
-# game/episode007.rpy:1588
+    c "我在努力當好這艘船的艦長，但我完全承認自己犯過錯。"
+
+
 translate traditional_chinese ep007_av_talk_ab758384:
 
-    # c "I can’t promise I won’t ever make them again, but I’ll try and be the best I can."
-    c ""
 
-# game/episode007.rpy:1589
+    c "不敢保證以後不再犯，但會盡力做到最好。"
+
+
 translate traditional_chinese ep007_av_talk_4f9e76fa:
 
-    # c "For the crew, but most of all, for you."
-    c ""
 
-# game/episode007.rpy:1591
+    c "爲了機組成員，更主要是爲了你。"
+
+
 translate traditional_chinese ep007_av_talk_4c7a8829_1:
 
-    # av "Thank you, that means a lot."
-    av ""
 
-# game/episode007.rpy:1593
+    av "謝謝你，這話對我來說意義重大。"
+
+
 translate traditional_chinese ep007_av_talk_9d00543c:
 
-    # c "Well, I can’t change who I am."
-    c ""
 
-# game/episode007.rpy:1594
+    c "唉，我這人本性難移。"
+
+
 translate traditional_chinese ep007_av_talk_deb10863:
 
-    # c "You know who I am by now, so take it or leave it."
-    c ""
 
-# game/episode007.rpy:1595
+    c "你現在清楚我是什麼人了，要就要，不要隨你便。"
+
+
 translate traditional_chinese ep007_av_talk_332fa1fc:
 
-    # av "I was afraid you’d say something like that."
-    av ""
 
-# game/episode007.rpy:1597
+    av "我就怕你會這麼說。"
+
+
 translate traditional_chinese ep007_av_talk_cff11a28_1:
 
-    # av "This was a mistake, I’m sorry."
-    av ""
 
-# game/episode007.rpy:1599
+    av "這是個錯誤，對不起。"
+
+
 translate traditional_chinese ep007_av_talk_c24359e4_1:
 
-    # "Aven abruptly stood up and walked out of the garden."
-    ""
 
-# game/episode007.rpy:1603
+    "艾文突然起身走出了花園。"
+
+
 translate traditional_chinese ep007_av_talk_a2570449:
 
-    # av "I’ve spent most of the time since we escaped the research station thinking about us."
-    av ""
 
-# game/episode007.rpy:1604
+    av "逃出研究站後這些天，我大部分時間都在想我們倆的事。"
+
+
 translate traditional_chinese ep007_av_talk_18b62967:
 
-    # av "Thinking of reasons why we shouldn’t act on the feelings we’ve shared."
-    av ""
 
-# game/episode007.rpy:1606
+    av "拼命找理由說服自己別正視這份感情。"
+
+
 translate traditional_chinese ep007_av_talk_68914d89:
 
-    # av "And I come up empty, because I feel the same way about you, despite knowing we’re related."
-    av ""
 
-# game/episode007.rpy:1608
+    av "結果全是徒勞——即便知道我們有血緣關係，我對你的感覺還是一樣。"
+
+
 translate traditional_chinese ep007_av_talk_50b592b4:
 
-    # av "And I come up empty, because I feel the same way about you."
-    av ""
 
-# game/episode007.rpy:1609
+    av "結果全是徒勞，因爲我對你懷有同樣的感情。"
+
+
 translate traditional_chinese ep007_av_talk_93841f77:
 
-    # av "I don’t care, I just want to be with you."
-    av ""
 
-# game/episode007.rpy:1611
+    av "我不管，我就是要和你在一起。"
+
+
 translate traditional_chinese ep007_av_talk_5afd2893:
 
-    # "We inched closer to each other, our lips met and then we were kissing."
-    ""
 
-# game/episode007.rpy:1612
+    "我們一寸一寸地挪近，雙脣相觸，隨即纏綿熱吻。"
+
+
 translate traditional_chinese ep007_av_talk_a96cfa13:
 
-    # "Aven smiled at me after we reluctantly parted from each other."
-    ""
 
-# game/episode007.rpy:1614
+    "難捨難分地分開後，艾文朝我笑了。"
+
+
 translate traditional_chinese ep007_av_talk_55586e95:
 
-    # c "We’re going to be together, no matter what."
-    c ""
 
-# game/episode007.rpy:1615
+    c "無論如何我們都要在一起。"
+
+
 translate traditional_chinese ep007_av_talk_f8fed461:
 
-    # av "We’ll make it work, won’t we?"
-    av ""
 
-# game/episode007.rpy:1616
+    av "我們總能解決的，對吧？"
+
+
 translate traditional_chinese ep007_av_talk_7ed290f7:
 
-    # c "We will."
-    c ""
 
-# game/episode007.rpy:1617
+    c "一定能。"
+
+
 translate traditional_chinese ep007_av_talk_fc40639a:
 
-    # av "I really wish I could invite you to my room tonight, but that might not be a good idea with the possibility of Cetruvar spying on us."
-    av ""
 
-# game/episode007.rpy:1618
+    av "真想今晚邀你來我房間，但塞特魯瓦那傢伙可能監視着我們，這就不太妥了。"
+
+
 translate traditional_chinese ep007_av_talk_80710974:
 
-    # c "I hate that obnoxious prick even more now."
-    c ""
 
-# game/episode007.rpy:1619
+    c "現在更恨那個遭雷劈的雜種了。"
+
+
 translate traditional_chinese ep007_av_talk_9a38bb3f:
 
-    # av "I know."
-    av ""
 
-# game/episode007.rpy:1620
+    av "我懂。"
+
+
 translate traditional_chinese ep007_av_talk_8f266868:
 
-    # av "Promise me we’ll get together back on the Bastard after we’ve left this dreadful place."
-    av ""
 
-# game/episode007.rpy:1621
+    av "答應我，離開這個鬼地方後就在\"私生子\"號上相聚。"
+
+
 translate traditional_chinese ep007_av_talk_a44ccf78:
 
-    # c "I promise."
-    c ""
 
-# game/episode007.rpy:1622
+    c "我答應你。"
+
+
 translate traditional_chinese ep007_av_talk_946ad523:
 
-    # av "Good, now give me another kiss."
-    av ""
 
-# game/episode007.rpy:1624
+    av "好，再親一個。"
+
+
 translate traditional_chinese ep007_av_talk_f3a645f1:
 
-    # "I held her close and we got caught up in another long kiss."
-    ""
 
-# game/episode007.rpy:1625
+    "我把她摟進懷裡，兩人又沉浸在漫長的擁吻中。"
+
+
 translate traditional_chinese ep007_av_talk_43496698:
 
-    # "Her tongue darted out and found mine."
-    ""
 
-# game/episode007.rpy:1626
+    "她的舌尖探出來，與我的交纏在一起。"
+
+
 translate traditional_chinese ep007_av_talk_083ae6c1:
 
-    # "I didn’t want that moment to end, but when it finally did we were both flushed and out of breath."
-    ""
 
-# game/episode007.rpy:1628
+    "我真希望那一刻永不結束，可結束後我倆都漲紅了臉，喘得上氣不接下氣。"
+
+
 translate traditional_chinese ep007_av_talk_ec1d3469:
 
-    # "For a short while we remained seated on that bench, holding hands."
-    ""
 
-# game/episode007.rpy:1630
+    "我們在長椅上牽着手坐了好一會兒。"
+
+
 translate traditional_chinese ep007_av_talk_16659807:
 
-    # "Eventually we awoke from our lovestruck trance and returned to our quarters."
-    ""
 
-# game/episode007.rpy:1632
+    "直到情迷意亂的恍惚感褪去，我們才返回住所。"
+
+
 translate traditional_chinese ep007_av_talk_508fff9b:
 
-    # c "It’s as you said, regaining our memories changed everything."
-    c ""
 
-# game/episode007.rpy:1634
+    c "就像你說的，恢復記憶改變了一切。"
+
+
 translate traditional_chinese ep007_av_talk_54476b55:
 
-    # c "We were confused and let that define our feelings for each other."
-    c ""
 
-# game/episode007.rpy:1636
+    c "當時太混亂，我們誤以爲那就是對彼此的感情。"
+
+
 translate traditional_chinese ep007_av_talk_6c0852ec:
 
-    # c "I’m happy to have such a strong bond with my cousin, but that’s as far as it goes for me."
-    c ""
 
-# game/episode007.rpy:1638
+    c "我很慶幸和我的表親感情深厚，但對我來說僅止於此。"
+
+
 translate traditional_chinese ep007_av_talk_e3daed98:
 
-    # c "I’m happy to have such a strong bond with you, but that’s as far as it goes for me."
-    c ""
 
-# game/episode007.rpy:1640
+    c "我很慶幸和你感情深厚，但對我來說僅止於此。"
+
+
 translate traditional_chinese ep007_av_talk_81ecb9ce:
 
-    # av "I..."
-    av ""
 
-# game/episode007.rpy:1641
+    av "我..."
+
+
 translate traditional_chinese ep007_av_talk_6a521d14:
 
-    # c "Oh...{w} Shit.{w} You feel differently?"
-    c ""
 
-# game/episode007.rpy:1643
+    c "哦...{w}靠{w}原來你想法不一樣？"
+
+
 translate traditional_chinese ep007_av_talk_9aacbb44:
 
-    # av "I...{w} I don’t know what I feel."
-    av ""
 
-# game/episode007.rpy:1644
+    av "我...{w}我也不清楚自己的感受。"
+
+
 translate traditional_chinese ep007_av_talk_708f54f5:
 
-    # av "Thank you for being honest with me."
-    av ""
 
-# game/episode007.rpy:1645
+    av "謝謝你對我坦誠相待。"
+
+
 translate traditional_chinese ep007_av_talk_6e2b258d:
 
-    # av "I’d like to go back to my room now."
-    av ""
 
-# game/episode007.rpy:1647
+    av "我現在想回房間了。"
+
+
 translate traditional_chinese ep007_av_talk_b79de9ca:
 
-    # "Abruptly, Aven rose and walked out of the garden."
-    ""
 
-# game/episode007.rpy:1653
+    "艾文忽然站起身，徑直走出了花園。"
+
+
 translate traditional_chinese ep007_l_talk_b92990b2:
 
-    # c "Hey sis, mind if I come in?"
-    c ""
 
-# game/episode007.rpy:1655
+    c "嘿妹，我能進來嗎？"
+
+
 translate traditional_chinese ep007_l_talk_0df50a79:
 
-    # c "Hey Lilly, mind if I come in?"
-    c ""
 
-# game/episode007.rpy:1656
+    c "嘿莉莉，我能進來嗎？"
+
+
 translate traditional_chinese ep007_l_talk_7df34f95:
 
-    # c "Lilly?"
-    c ""
 
-# game/episode007.rpy:1657
+    c "莉莉？"
+
+
 translate traditional_chinese ep007_l_talk_232c1908:
 
-    # "At first I thought the room was empty, but that’s when I noticed her huddled next to the bed."
-    ""
 
-# game/episode007.rpy:1659
+    "起初我以爲屋裡沒人，後來才發現她蜷在牀邊。"
+
+
 translate traditional_chinese ep007_l_talk_1b4bc736:
 
-    # c "Lilly?{w} Are you okay?"
-    c ""
 
-# game/episode007.rpy:1661
+    c "莉莉？{w}你還好嗎？"
+
+
 translate traditional_chinese ep007_l_talk_6a226b65:
 
-    # "She looked up at me with a tear-streaked face and I hurried over to her."
-    ""
 
-# game/episode007.rpy:1663
+    "她抬起淚痕斑駁的臉，我趕忙衝到她身邊。"
+
+
 translate traditional_chinese ep007_l_talk_9b75067b:
 
-    # "Lilly allowed herself to be drawn up and I took her in my arms."
-    ""
 
-# game/episode007.rpy:1664
+    "莉莉任由我拉起她，被我擁進懷裡。"
+
+
 translate traditional_chinese ep007_l_talk_97bad437:
 
-    # c "What’s wrong?"
-    c ""
 
-# game/episode007.rpy:1665
+    c "出什麼事了？"
+
+
 translate traditional_chinese ep007_l_talk_986be115:
 
-    # "She just cried."
-    ""
 
-# game/episode007.rpy:1666
+    "她只是一個勁地哭。"
+
+
 translate traditional_chinese ep007_l_talk_1b19602e:
 
-    # "I held her for as long as it took to get herself together."
-    ""
 
-# game/episode007.rpy:1668
+    "我抱着她，直到她慢慢收拾起心情。"
+
+
 translate traditional_chinese ep007_l_talk_80a85163:
 
-    # l "Everything is wrong, [p_name_short]."
-    l ""
 
-# game/episode007.rpy:1669
+    l "一切都糟透了，[p_name_short]。"
+
+
 translate traditional_chinese ep007_l_talk_e52d1df3:
 
-    # l "From the moment Cetruvar stood before the entrance hatch of the Bastard I’ve been scared out of my mind."
-    l ""
 
-# game/episode007.rpy:1670
+    l "從塞特魯瓦站在\"私生子\"號入口艙門前那一刻起，我就嚇得魂飛魄散。"
+
+
 translate traditional_chinese ep007_l_talk_d7589cc3:
 
-    # l "And then he chose me."
-    l ""
 
-# game/episode007.rpy:1671
+    l "然後他選中了我。"
+
+
 translate traditional_chinese ep007_l_talk_70338c69:
 
-    # l "Oh, he was polite about it."
-    l ""
 
-# game/episode007.rpy:1672
+    l "哦，他對此很客氣。"
+
+
 translate traditional_chinese ep007_l_talk_10ccff33:
 
-    # l "\"Would you be so kind as to join me as my companion for the party?\", he said."
-    l ""
 
-# game/episode007.rpy:1674
+    l "\"請你願意作爲我的伴侶參加派對好嗎？\"，他說。"
+
+
 translate traditional_chinese ep007_l_talk_97022f42:
 
-    # l "He left little room for me to imagine I had any other choice."
-    l ""
 
-# game/episode007.rpy:1675
+    l "他讓我幾乎沒得選。"
+
+
 translate traditional_chinese ep007_l_talk_5d81798e:
 
-    # l "That look in his eyes...{w} He knew from the start what we were up to."
-    l ""
 
-# game/episode007.rpy:1676
+    l "他眼神中的表情...{w}他從一開始就知道我們打的什麼主意。"
+
+
 translate traditional_chinese ep007_l_talk_f65c97f6:
 
-    # c "Yes, that much is clear."
-    c ""
 
-# game/episode007.rpy:1678
+    c "是，這點很清楚了。"
+
+
 translate traditional_chinese ep007_l_talk_66c1fef7:
 
-    # l "When he took me up to his quarters together with his bodyguards..."
-    l ""
 
-# game/episode007.rpy:1679
+    l "當他帶着保鏢帶我上他的船艙時..."
+
+
 translate traditional_chinese ep007_l_talk_95b60fcb:
 
-    # l "He could have done anything to me and I think he would have..."
-    l ""
 
-# game/episode007.rpy:1680
+    l "他本可以對我爲所欲爲，我想他會的..."
+
+
 translate traditional_chinese ep007_l_talk_faeaf46c:
 
-    # c "Did he touch you in any way, because-"
-    c ""
 
-# game/episode007.rpy:1682
+    c "他有碰你嗎，因爲-"
+
+
 translate traditional_chinese ep007_l_talk_0a577d7a:
 
-    # l "No, he didn’t."
-    l ""
 
-# game/episode007.rpy:1683
+    l "不，他沒有。"
+
+
 translate traditional_chinese ep007_l_talk_fbff7e0a:
 
-    # l "He didn’t get the chance."
-    l ""
 
-# game/episode007.rpy:1685
+    l "他沒機會。"
+
+
 translate traditional_chinese ep007_l_talk_27e7ac83:
 
-    # l "Fuck...{w} Those women."
-    l ""
 
-# game/episode007.rpy:1686
+    l "操...{w}那些女人。"
+
+
 translate traditional_chinese ep007_l_talk_b44d5acb:
 
-    # l "One impaled a bodyguard, I can still see the blood-"
-    l ""
 
-# game/episode007.rpy:1688
+    l "一個保鏢被捅穿了，我還能看到血跡-"
+
+
 translate traditional_chinese ep007_l_talk_0e24dcd9:
 
-    # "Unable to finish her sentence, she buried her head in my chest again and took a deep breath."
-    ""
 
-# game/episode007.rpy:1690
+    "話沒說完，她再次把頭埋進我胸口，深吸一口氣。"
+
+
 translate traditional_chinese ep007_l_talk_8b343dc3:
 
-    # l "I’m glad you and Kit arrived."
-    l ""
 
-# game/episode007.rpy:1694
+    l "很高興你和基特趕到了。"
+
+
 translate traditional_chinese ep007_l_talk_e5f8714f:
 
-    # c "You know I’ll always look out for you and won’t allow anything to happen to you."
-    c ""
 
-# game/episode007.rpy:1695
+    c "你知道我會永遠照顧你，不讓你出任何事。"
+
+
 translate traditional_chinese ep007_l_talk_b04241cf:
 
-    # l "I know."
-    l ""
 
-# game/episode007.rpy:1697
+    l "我知道。"
+
+
 translate traditional_chinese ep007_l_talk_80637fc3:
 
-    # l "Thank you, [p_name_short]."
-    l ""
 
-# game/episode007.rpy:1698
+    l "謝謝，[p_name_short]。"
+
+
 translate traditional_chinese ep007_l_talk_85495086:
 
-    # l "I think I’m going to try and get some sleep now."
-    l ""
 
-# game/episode007.rpy:1699
+    l "我想我該試着睡會兒了。"
+
+
 translate traditional_chinese ep007_l_talk_ea7b83f0:
 
-    # c "Right, that might be a good idea."
-    c ""
 
-# game/episode007.rpy:1701
+    c "對，這可能是個好主意。"
+
+
 translate traditional_chinese ep007_l_talk_aef0b115:
 
-    # c "Sleep well, sis."
-    c ""
 
-# game/episode007.rpy:1703
+    c "晚安，妹妹。"
+
+
 translate traditional_chinese ep007_l_talk_be025cc1:
 
-    # c "Sleep well, Lilly."
-    c ""
 
-# game/episode007.rpy:1704
+    c "晚安，莉莉。"
+
+
 translate traditional_chinese ep007_l_talk_735a8294:
 
-    # l "You too."
-    l ""
 
-# game/episode007.rpy:1707
+    l "你也是。"
+
+
 translate traditional_chinese ep007_l_talk_92a56fce:
 
-    # l "Oh, [p_name_short]?"
-    l ""
 
-# game/episode007.rpy:1708
+    l "哦, [p_name_short]?"
+
+
 translate traditional_chinese ep007_l_talk_737ac06f:
 
-    # l "I’m sorry I acted that way."
-    l ""
 
-# game/episode007.rpy:1709
+    l "對不起我那樣做。"
+
+
 translate traditional_chinese ep007_l_talk_a7a67943:
 
-    # c "What way?"
-    c ""
 
-# game/episode007.rpy:1710
+    c "怎樣？"
+
+
 translate traditional_chinese ep007_l_talk_3e3c2be6:
 
-    # l "You know, back when we'd just escaped the research station."
-    l ""
 
-# game/episode007.rpy:1714
+    l "你知道的，就在我們剛從研究站逃出來那會兒。"
+
+
 translate traditional_chinese ep007_l_talk_462ce532:
 
-    # c "Right, we’d been through a lot though, so I understand."
-    c ""
 
-# game/episode007.rpy:1716
+    c "是呀，不過我們經歷了不少事，所以我能理解。"
+
+
 translate traditional_chinese ep007_l_talk_eb2b4275:
 
-    # l "I lied about not remembering everything that happened in that cell."
-    l ""
 
-# game/episode007.rpy:1717
+    l "我撒謊了，說不記得那個牢房裡發生的所有事。"
+
+
 translate traditional_chinese ep007_l_talk_ffa6ddb6:
 
-    # l "I...{w} I just couldn’t deal with it."
-    l ""
 
-# game/episode007.rpy:1718
+    l "我...{w}我只是不知道如何處理。"
+
+
 translate traditional_chinese ep007_l_talk_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode007.rpy:1722
+    c "我懂你。"
+
+
 translate traditional_chinese ep007_l_talk_07dddb26:
 
-    # c "But we can’t keep dancing around all this."
-    c ""
 
-# game/episode007.rpy:1723
+    c "但我們不能一直繞着這事兜圈子。"
+
+
 translate traditional_chinese ep007_l_talk_b4f0caee:
 
-    # c "We need to talk about it."
-    c ""
 
-# game/episode007.rpy:1725
+    c "我們需要談談這個。"
+
+
 translate traditional_chinese ep007_l_talk_2c130648:
 
-    # l "What?{w} Right now?"
-    l ""
 
-# game/episode007.rpy:1726
+    l "什麼？{w}現在？"
+
+
 translate traditional_chinese ep007_l_talk_2796fc5c:
 
-    # c "Preferably, yes."
-    c ""
 
-# game/episode007.rpy:1728
+    c "最好是現在就談，沒錯。"
+
+
 translate traditional_chinese ep007_l_talk_d38cbfc4:
 
-    # l "I can’t...{w} Not yet...{w} Please."
-    l ""
 
-# game/episode007.rpy:1729
+    l "我做不到...{w}還不行...{w}求你了。"
+
+
 translate traditional_chinese ep007_l_talk_8272dc14:
 
-    # c "Fine.{w} I’ll wait."
-    c ""
 
-# game/episode007.rpy:1731
+    c "好吧。{w}我會等的。"
+
+
 translate traditional_chinese ep007_l_talk_cf6b14a0:
 
-    # l "Thank you."
-    l ""
 
-# game/episode007.rpy:1732
+    l "謝謝你。"
+
+
 translate traditional_chinese ep007_l_talk_60840077:
 
-    # l "I really need to rest now."
-    l ""
 
-# game/episode007.rpy:1734
+    l "我現在真得休息了。"
+
+
 translate traditional_chinese ep007_l_talk_bce05693:
 
-    # "Lilly trembled as she moved to the bed and wrapped the covers tightly around her."
-    ""
 
-# game/episode007.rpy:1735
+    "莉莉顫抖着挪到牀邊，把自己用被子緊緊裹起來。"
+
+
 translate traditional_chinese ep007_l_talk_9fcead47:
 
-    # c "Good night, Lilly."
-    c ""
 
-# game/episode007.rpy:1736
+    c "晚安，莉莉。"
+
+
 translate traditional_chinese ep007_l_talk_ebc7b084:
 
-    # l "Good night."
-    l ""
 
-# game/episode007.rpy:1739
+    l "晚安。"
+
+
 translate traditional_chinese ep007_l_talk_abc3b8b3:
 
-    # c "Once you’re ready to talk, I’ll be there."
-    c ""
 
-# game/episode007.rpy:1741
+    c "等你準備好談的時候，我一直在那兒。"
+
+
 translate traditional_chinese ep007_l_talk_cf6b14a0_1:
 
-    # l "Thank you."
-    l ""
 
-# game/episode007.rpy:1742
+    l "謝謝你。"
+
+
 translate traditional_chinese ep007_l_talk_d8827962:
 
-    # l "I promise I won’t take long, [p_name_short]."
-    l ""
 
-# game/episode007.rpy:1743
+    l "我保證不會拖太久，[p_name_short]。"
+
+
 translate traditional_chinese ep007_l_talk_b06c0660:
 
-    # c "Take all the time you need."
-    c ""
 
-# game/episode007.rpy:1744
+    c "你想花多少時間都行。"
+
+
 translate traditional_chinese ep007_l_talk_6d7e0c04:
 
-    # l "Thanks, [p_name_short]."
-    l ""
 
-# game/episode007.rpy:1746
+    l "謝謝，[p_name_short]。"
+
+
 translate traditional_chinese ep007_l_talk_46a0ddab:
 
-    # "Lilly hugged me, evidently calmed by our conversation."
-    ""
 
-# game/episode007.rpy:1748
+    "莉莉擁抱了我，我們談過後她明顯平靜了許多。"
+
+
 translate traditional_chinese ep007_l_talk_56581d44:
 
-    # c "Right, I only wanted to talk, you know?"
-    c ""
 
-# game/episode007.rpy:1750
+    c "對嘛，我只是想聊聊，懂不？"
+
+
 translate traditional_chinese ep007_l_talk_b04241cf_1:
 
-    # l "I know."
-    l ""
 
-# game/episode007.rpy:1751
+    l "我知道。"
+
+
 translate traditional_chinese ep007_l_talk_d5d97710:
 
-    # l "Good night, [p_name]."
-    l ""
 
-# game/episode007.rpy:1752
+    l "晚安，[p_name]。"
+
+
 translate traditional_chinese ep007_l_talk_9fcead47_1:
 
-    # c "Good night, Lilly."
-    c ""
 
-# game/episode007.rpy:1754
+    c "晚安，莉莉。"
+
+
 translate traditional_chinese ep007_l_talk_b48e46c5:
 
-    # c "We were already on our way."
-    c ""
 
-# game/episode007.rpy:1755
+    c "我們早就在路上了。"
+
+
 translate traditional_chinese ep007_l_talk_62c720d0:
 
-    # c "Cetruvar never stood a chance."
-    c ""
 
-# game/episode007.rpy:1757
+    c "塞特魯瓦根本毫無勝算。"
+
+
 translate traditional_chinese ep007_l_talk_74386115:
 
-    # l "If you say so."
-    l ""
 
-# game/episode007.rpy:1758
+    l "你說是就是唄。"
+
+
 translate traditional_chinese ep007_l_talk_353d8753:
 
-    # l "I think I’m going to try and get some sleep."
-    l ""
 
-# game/episode007.rpy:1759
+    l "我想我得試着睡會兒。"
+
+
 translate traditional_chinese ep007_l_talk_848b0b66:
 
-    # c "Good idea."
-    c ""
 
-# game/episode007.rpy:1761
+    c "好主意。"
+
+
 translate traditional_chinese ep007_l_talk_aef0b115_1:
 
-    # c "Sleep well, sis."
-    c ""
 
-# game/episode007.rpy:1763
+    c "睡個好覺，老妹。"
+
+
 translate traditional_chinese ep007_l_talk_be025cc1_1:
 
-    # c "Sleep well, Lilly."
-    c ""
 
-# game/episode007.rpy:1764
+    c "睡個好覺，莉莉。"
+
+
 translate traditional_chinese ep007_l_talk_735a8294_1:
 
-    # l "You too."
-    l ""
 
-# game/episode007.rpy:1769
+    l "你也是。"
+
+
 translate traditional_chinese ep007_vess_3f583260:
 
-    # "Out came Vess, who didn’t seem to notice me at first."
-    ""
 
-# game/episode007.rpy:1771
+    "薇絲走了出來，起初似乎沒注意到我。"
+
+
 translate traditional_chinese ep007_vess_a0b1b4c4:
 
-    # ve "Oh...{w} Uh.{w} Hey!"
-    ve ""
 
-# game/episode007.rpy:1772
+    ve "哦...{w}呃{w}嘿！"
+
+
 translate traditional_chinese ep007_vess_57894fb3:
 
-    # c "Everything okay?"
-    c ""
 
-# game/episode007.rpy:1774
+    c "沒事吧？"
+
+
 translate traditional_chinese ep007_vess_515670e7:
 
-    # ve "Yes...{w} That is, I thought I heard some strange noises."
-    ve ""
 
-# game/episode007.rpy:1775
+    ve "嗯...{w}就是好像聽到了怪聲。"
+
+
 translate traditional_chinese ep007_vess_e2682f8f:
 
-    # c "You’re not the first to remark on that."
-    c ""
 
-# game/episode007.rpy:1776
+    c "你不是第一個這麼說的。"
+
+
 translate traditional_chinese ep007_vess_7486c2a0:
 
-    # c "You seem a little flustered, are you alright?"
-    c ""
 
-# game/episode007.rpy:1778
+    c "你有點慌神，還好嗎？"
+
+
 translate traditional_chinese ep007_vess_818bf944:
 
-    # ve "Do I?"
-    ve ""
 
-# game/episode007.rpy:1782
+    ve "有嗎？"
+
+
 translate traditional_chinese ep007_vess_563dda86:
 
-    # c "Yes, did something happen?"
-    c ""
 
-# game/episode007.rpy:1784
+    c "有，出什麼事了？"
+
+
 translate traditional_chinese ep007_vess_06aceb26:
 
-    # ve "It’s nothing, just one of the guards..."
-    ve ""
 
-# game/episode007.rpy:1785
+    ve "沒什麼，就是有個守衛..."
+
+
 translate traditional_chinese ep007_vess_9d9b3d9a:
 
-    # c "One of the guards did something?"
-    c ""
 
-# game/episode007.rpy:1787
+    c "守衛對你幹了什麼？"
+
+
 translate traditional_chinese ep007_vess_feda8eff:
 
-    # ve "No, not like that."
-    ve ""
 
-# game/episode007.rpy:1788
+    ve "不，不是那種事。"
+
+
 translate traditional_chinese ep007_vess_7f0edef3:
 
-    # ve "Just funny looks."
-    ve ""
 
-# game/episode007.rpy:1789
+    ve "就是些奇怪的眼神。"
+
+
 translate traditional_chinese ep007_vess_be218516:
 
-    # ve "This whole place just feels wrong."
-    ve ""
 
-# game/episode007.rpy:1791
+    ve "這整個地方就是感覺不對勁。"
+
+
 translate traditional_chinese ep007_vess_2d354079:
 
-    # ve "It’s a lavish mansion, but also a prison, if you know what I mean."
-    ve ""
 
-# game/episode007.rpy:1792
+    ve "這是個華麗的豪宅，但也是個監獄，如果你懂我的意思。"
+
+
 translate traditional_chinese ep007_vess_68c7b05d:
 
-    # c "I know exactly what you mean."
-    c ""
 
-# game/episode007.rpy:1796
+    c "我完全懂你的意思。"
+
+
 translate traditional_chinese ep007_vess_dc2903e3:
 
-    # c "Why don’t we have a drink together, to take the edge off things."
-    c ""
 
-# game/episode007.rpy:1798
+    c "我們一起喝一杯吧，緩解一下壓力。"
+
+
 translate traditional_chinese ep007_vess_06f0a1e1:
 
-    # ve "I’d like that."
-    ve ""
 
-# game/episode007.rpy:1800
+    ve "好啊。"
+
+
 translate traditional_chinese ep007_vess_610a0df6:
 
-    # "Vess’ room was the same as mine, so I walked straight to the minibar and picked a bottle."
-    ""
 
-# game/episode007.rpy:1801
+    "薇絲的房間和我的差不多，所以我直奔迷你吧拿了一瓶酒。"
+
+
 translate traditional_chinese ep007_vess_916c49bc:
 
-    # "I poured two glasses and handed one to her."
-    ""
 
-# game/episode007.rpy:1803
+    "我倒了兩杯酒，遞了一杯給她。"
+
+
 translate traditional_chinese ep007_vess_b0d547f3:
 
-    # ve "Thanks."
-    ve ""
 
-# game/episode007.rpy:1805
+    ve "謝謝。"
+
+
 translate traditional_chinese ep007_vess_3533c72c:
 
-    # ve "Oh, this is nice."
-    ve ""
 
-# game/episode007.rpy:1806
+    ve "哦，這不錯啊。"
+
+
 translate traditional_chinese ep007_vess_fac532ec:
 
-    # ve "Makes me feel all warm inside."
-    ve ""
 
-# game/episode007.rpy:1807
+    ve "讓我心裡暖暖的。"
+
+
 translate traditional_chinese ep007_vess_b8d372a0:
 
-    # c "That was the idea."
-    c ""
 
-# game/episode007.rpy:1809
+    c "正是這麼想的。"
+
+
 translate traditional_chinese ep007_vess_5b561910:
 
-    # ve "I’d already gone to bed, but I heard noises in the hallway and kept listening for them."
-    ve ""
 
-# game/episode007.rpy:1811
+    ve "我已經上牀了，但聽到走廊裏有動靜，就一直仔細聽着。"
+
+
 translate traditional_chinese ep007_vess_52ce35a9:
 
-    # ve "So I’m glad that you want to keep me company."
-    ve ""
 
-# game/episode007.rpy:1812
+    ve "所以我很高興你想陪我。"
+
+
 translate traditional_chinese ep007_vess_f613cb69:
 
-    # "Our glasses were already empty, so I offered Vess a refill."
-    ""
 
-# game/episode007.rpy:1814
+    "我們的杯子已經空了，所以我就問薇絲要不要續一杯。"
+
+
 translate traditional_chinese ep007_vess_e21b169c:
 
-    # ve "Just a little, I’m not getting drunk again!"
-    ve ""
 
-# game/episode007.rpy:1815
+    ve "就一點點，我可不想再醉一次了！"
+
+
 translate traditional_chinese ep007_vess_e2ec89c8:
 
-    # c "Because of what happened on Barranthis?"
-    c ""
 
-# game/episode007.rpy:1817
+    c "是因爲巴蘭西斯星上發生的事嗎？"
+
+
 translate traditional_chinese ep007_vess_3b642682:
 
-    # ve "I...{w} No...{w} I..."
-    ve ""
 
-# game/episode007.rpy:1818
+    ve "我...{w}不...{w}我..."
+
+
 translate traditional_chinese ep007_vess_3f33e8f9:
 
-    # c "I’m teasing you, Vess."
-    c ""
 
-# game/episode007.rpy:1819
+    c "我在逗你玩呢，薇絲。"
+
+
 translate traditional_chinese ep007_vess_eee2b4ec:
 
-    # ve "Oh."
-    ve ""
 
-# game/episode007.rpy:1821
+    ve "哦。"
+
+
 translate traditional_chinese ep007_vess_000c2ac6:
 
-    # c "Though if you want to talk about that night..."
-    c ""
 
-# game/episode007.rpy:1823
+    c "不過如果你想談談那晚的事..."
+
+
 translate traditional_chinese ep007_vess_9d99d2f4:
 
-    # ve "Must we?"
-    ve ""
 
-# game/episode007.rpy:1824
+    ve "一定要嗎？"
+
+
 translate traditional_chinese ep007_vess_49735fae:
 
-    # c "I kissed you, you kissed me back."
-    c ""
 
-# game/episode007.rpy:1826
+    c "我吻了你，你也回吻了我。"
+
+
 translate traditional_chinese ep007_vess_507711f5:
 
-    # ve "And I pulled back."
-    ve ""
 
-# game/episode007.rpy:1827
+    ve "然後我就退縮了。"
+
+
 translate traditional_chinese ep007_vess_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode007.rpy:1829
+    c "是的。"
+
+
 translate traditional_chinese ep007_vess_d667c0d0:
 
-    # ve "I panicked."
-    ve ""
 
-# game/episode007.rpy:1830
+    ve "我慌了。"
+
+
 translate traditional_chinese ep007_vess_85504fd7:
 
-    # c "But why?"
-    c ""
 
-# game/episode007.rpy:1832
+    c "但爲什麼呢？"
+
+
 translate traditional_chinese ep007_vess_69694c67:
 
-    # ve "Well, I mean, you barely know me, I barely know you."
-    ve ""
 
-# game/episode007.rpy:1834
+    ve "嗯，我是說，你幾乎不了解我，我也幾乎不了解你。"
+
+
 translate traditional_chinese ep007_vess_70331540:
 
-    # ve "Through sheer coincidence we’ve come to live on a ship together, out on a mission to save your sister."
-    ve ""
 
-# game/episode007.rpy:1836
+    ve "純粹巧合之下，我們才一起住在一艘船上，爲了救你的妹妹而進行任務。"
+
+
 translate traditional_chinese ep007_vess_fa4fa4f7:
 
-    # ve "Through sheer coincidence we’ve come to live on a ship together, out on a mission to save your friend."
-    ve ""
 
-# game/episode007.rpy:1837
+    ve "純粹巧合之下，我們才一起住在一艘船上，爲了救你的朋友而進行任務。"
+
+
 translate traditional_chinese ep007_vess_ce324da5:
 
-    # ve "The enormity of it all just came flooding in, so I panicked."
-    ve ""
 
-# game/episode007.rpy:1839
+    ve "所有這一切的巨大壓力一下子湧上來，所以我慌了。"
+
+
 translate traditional_chinese ep007_vess_9edc5481:
 
-    # ve "Am I making any sense?"
-    ve ""
 
-# game/episode007.rpy:1840
+    ve "我說話有道理嗎？"
+
+
 translate traditional_chinese ep007_vess_27e906d1:
 
-    # c "A little."
-    c ""
 
-# game/episode007.rpy:1841
+    c "有點兒。"
+
+
 translate traditional_chinese ep007_vess_c0d6e785:
 
-    # c "I’d really like to know you a little better though."
-    c ""
 
-# game/episode007.rpy:1843
+    c "不過我真的很想多了解你一些。"
+
+
 translate traditional_chinese ep007_vess_02861675:
 
-    # ve "I do too."
-    ve ""
 
-# game/episode007.rpy:1844
+    ve "我也是。"
+
+
 translate traditional_chinese ep007_vess_42a242cb:
 
-    # "I poured us another drink and noticed Vess studying me."
-    ""
 
-# game/episode007.rpy:1846
+    "我又給我們倒了一杯飲料，然後注意到薇絲在觀察我。"
+
+
 translate traditional_chinese ep007_vess_6910d403:
 
-    # ve "So, who are you, [p_name]?"
-    ve ""
 
-# game/episode007.rpy:1847
+    ve "所以，你是誰，[p_name]？"
+
+
 translate traditional_chinese ep007_vess_93e160cd:
 
-    # c "Just another pampered rich kid who deserted the navy and became a cargo runner."
-    c ""
 
-# game/episode007.rpy:1849
+    c "不過是又一個被寵壞的富家子，叛逃艦隊，然後當了個拉貨的。"
+
+
 translate traditional_chinese ep007_vess_0f61a12b:
 
-    # ve "Surely it’s not as simple as that?"
-    ve ""
 
-# game/episode007.rpy:1850
+    ve "這肯定沒那麼簡單吧？"
+
+
 translate traditional_chinese ep007_vess_b5a20318:
 
-    # c "I’m sure it isn’t."
-    c ""
 
-# game/episode007.rpy:1851
+    c "我確定不是。"
+
+
 translate traditional_chinese ep007_vess_be639e4a:
 
-    # c "Though I guess I was pampered and rich at some point."
-    c ""
 
-# game/episode007.rpy:1852
+    c "不過我猜我確實曾在某時被寵過，富過。"
+
+
 translate traditional_chinese ep007_vess_29804053:
 
-    # c "But what about you, what would you say defines you, Vess?"
-    c ""
 
-# game/episode007.rpy:1854
+    c "那你呢，你會說些什麼來定義你自己，薇絲？"
+
+
 translate traditional_chinese ep007_vess_94fddbd8:
 
-    # ve "Loneliness?"
-    ve ""
 
-# game/episode007.rpy:1856
+    ve "孤獨？"
+
+
 translate traditional_chinese ep007_vess_ca03c962:
 
-    # ve "Sorry, that sounded awfully gloomy."
-    ve ""
 
-# game/episode007.rpy:1857
+    ve "抱歉，這話聽起來太陰鬱了。"
+
+
 translate traditional_chinese ep007_vess_3d4b5e08:
 
-    # c "Did you feel alone on Lanan?"
-    c ""
 
-# game/episode007.rpy:1859
+    c "你在拉南星上感到孤獨了嗎？"
+
+
 translate traditional_chinese ep007_vess_82352075:
 
-    # ve "I guess I did."
-    ve ""
 
-# game/episode007.rpy:1861
+    ve "我想是的。"
+
+
 translate traditional_chinese ep007_vess_d7368f75:
 
-    # ve "I haven’t had that feeling since I started travelling with the crew on the Iron Bastard."
-    ve ""
 
-# game/episode007.rpy:1862
+    ve "自從我開始跟\"鋼鐵私生子\"號的機組成員一起旅行以來，我就再沒那種感覺了。"
+
+
 translate traditional_chinese ep007_vess_bb452e0e:
 
-    # c "I’m glad you found some warmth."
-    c ""
 
-# game/episode007.rpy:1864
+    c "很高興你找到了一些溫暖。"
+
+
 translate traditional_chinese ep007_vess_548b60fe:
 
-    # c "But I reckon you're eager to find your family as well?"
-    c ""
 
-# game/episode007.rpy:1866
+    c "但我猜你也急着找到家人吧？"
+
+
 translate traditional_chinese ep007_vess_5e0f00f9:
 
-    # ve "My family...{w} Yes...{w} Of course."
-    ve ""
 
-# game/episode007.rpy:1867
+    ve "我的家人...{w}是的...{w}當然。"
+
+
 translate traditional_chinese ep007_vess_9e22c3ee:
 
-    # c "I know it’s a topic you’d rather not want to talk about, but you must be a little excited we’re closer to finding our loved ones?"
-    c ""
 
-# game/episode007.rpy:1869
+    c "我知道這話題你不太想聊，但離找到我們心愛的人更近了，你肯定有點小興奮吧？"
+
+
 translate traditional_chinese ep007_vess_6393305d:
 
-    # ve "Of course I am."
-    ve ""
 
-# game/episode007.rpy:1870
+    ve "當然是啊。"
+
+
 translate traditional_chinese ep007_vess_2297020d:
 
-    # c "I feel a ‘but’ lingering there somewhere."
-    c ""
 
-# game/episode007.rpy:1872
+    c "我感覺有個『但是』懸在那裡某個地方。"
+
+
 translate traditional_chinese ep007_vess_bb386636:
 
-    # ve "It’s just that I’m no longer certain I want to go back to that life."
-    ve ""
 
-# game/episode007.rpy:1873
+    ve "只是我不再確定我想回到那種生活了。"
+
+
 translate traditional_chinese ep007_vess_6a3cefbf:
 
-    # ve "Living with them, I mean."
-    ve ""
 
-# game/episode007.rpy:1874
+    ve "我是說，和他們一起生活。"
+
+
 translate traditional_chinese ep007_vess_24366554:
 
-    # c "I understand."
-    c ""
 
-# game/episode007.rpy:1876
+    c "我理解。"
+
+
 translate traditional_chinese ep007_vess_da7e7697:
 
-    # c "I take it you lived with relatives on Lanan?"
-    c ""
 
-# game/episode007.rpy:1878
+    c "我猜你之前在拉南星和親戚一起住吧？"
+
+
 translate traditional_chinese ep007_vess_9278b3ae:
 
-    # ve "After grandfather died, a distant aunt and uncle took me in."
-    ve ""
 
-# game/episode007.rpy:1880
+    ve "爺爺去世後，一個遠房姑媽和姑父收留了我。"
+
+
 translate traditional_chinese ep007_vess_2187dabe:
 
-    # c "You didn’t live with your parents on Lanan, did you?"
-    c ""
 
-# game/episode007.rpy:1882
+    c "你之前在拉南星沒和父母一起住，對吧？"
+
+
 translate traditional_chinese ep007_vess_593da3d5:
 
-    # ve "No, I didn’t."
-    ve ""
 
-# game/episode007.rpy:1883
+    ve "沒有。"
+
+
 translate traditional_chinese ep007_vess_752039f2:
 
-    # ve "I never knew my parents."
-    ve ""
 
-# game/episode007.rpy:1884
+    ve "我從未見過我的父母。"
+
+
 translate traditional_chinese ep007_vess_8647537c:
 
-    # ve "A distant aunt and uncle took me in."
-    ve ""
 
-# game/episode007.rpy:1886
+    ve "一個遠房姑媽和姑父收留了我。"
+
+
 translate traditional_chinese ep007_vess_373ccd53:
 
-    # ve "They cared for me, were good to me, make no mistake, but I never felt a deep connection."
-    ve ""
 
-# game/episode007.rpy:1888
+    ve "他們照顧我，對我不錯，別誤會，但我從未感覺有深厚的聯繫。"
+
+
 translate traditional_chinese ep007_vess_3726349a:
 
-    # ve "Does that make sense?"
-    ve ""
 
-# game/episode007.rpy:1889
+    ve "這說得通嗎？"
+
+
 translate traditional_chinese ep007_vess_3275e9ef:
 
-    # c "I think so."
-    c ""
 
-# game/episode007.rpy:1891
+    c "我覺得是。"
+
+
 translate traditional_chinese ep007_vess_bd63a039:
 
-    # ve "So I still really want to find them, but I’ve decided I don’t want to go back with them."
-    ve ""
 
-# game/episode007.rpy:1892
+    ve "所以我真的還想找到他們，但我已經決定不想和他們回去生活了。"
+
+
 translate traditional_chinese ep007_vess_46bfc7fb:
 
-    # c "You want to throw your lot in with us?"
-    c ""
 
-# game/episode007.rpy:1894
+    c "你想和我們同行？"
+
+
 translate traditional_chinese ep007_vess_0ee5278a:
 
-    # ve "I do, if you’ll have me..."
-    ve ""
 
-# game/episode007.rpy:1899
+    ve "我是想，如果你們不嫌棄的話..."
+
+
 translate traditional_chinese ep007_vess_122a88e8:
 
-    # c "You needn’t ask, of course you’re welcome."
-    c ""
 
-# game/episode007.rpy:1901
+    c "不用問，當然歡迎你。"
+
+
 translate traditional_chinese ep007_vess_b22bb46c:
 
-    # ve "I’m really happy to hear that."
-    ve ""
 
-# game/episode007.rpy:1902
+    ve "聽到你這麼說，我真開心。"
+
+
 translate traditional_chinese ep007_vess_2b3fd261:
 
-    # c "Why don’t we have another drink to that?"
-    c ""
 
-# game/episode007.rpy:1903
+    c "不如我們再爲這個喝一杯吧？"
+
+
 translate traditional_chinese ep007_vess_fad8957f:
 
-    # ve "I wish I could, but I already feel a little groggy."
-    ve ""
 
-# game/episode007.rpy:1904
+    ve "我真希望我能，但我已經感覺有點頭昏腦脹了。"
+
+
 translate traditional_chinese ep007_vess_ae5ee46f:
 
-    # ve "I might need some sleep."
-    ve ""
 
-# game/episode007.rpy:1905
+    ve "我也許得休息會兒了。"
+
+
 translate traditional_chinese ep007_vess_92366787:
 
-    # c "Right, of course."
-    c ""
 
-# game/episode007.rpy:1907
+    c "沒錯，確實。"
+
+
 translate traditional_chinese ep007_vess_cb334d43:
 
-    # ve "[p_name]?"
-    ve ""
 
-# game/episode007.rpy:1908
+    ve "[p_name]？"
+
+
 translate traditional_chinese ep007_vess_72e38782:
 
-    # ve "Would you please stay?"
-    ve ""
 
-# game/episode007.rpy:1909
+    ve "能留下來陪陪我嗎？"
+
+
 translate traditional_chinese ep007_vess_b1e5e523:
 
-    # ve "I just don’t want to fall asleep alone tonight."
-    ve ""
 
-# game/episode007.rpy:1913
+    ve "只是今晚我不想獨自入睡。"
+
+
 translate traditional_chinese ep007_vess_6b385b7e:
 
-    # c "I’d be happy to."
-    c ""
 
-# game/episode007.rpy:1915
+    c "我很樂意。"
+
+
 translate traditional_chinese ep007_vess_7c73f150:
 
-    # ve "In that case I’ll fetch us that one last drink."
-    ve ""
 
-# game/episode007.rpy:1917
+    ve "那我去拿最後那杯酒。"
+
+
 translate traditional_chinese ep007_vess_e6b03c20:
 
-    # "As Vess busied herself with our drinks, I wondered what her invitation meant exactly."
-    ""
 
-# game/episode007.rpy:1918
+    "看着薇絲忙着準備酒水，我琢磨着她這邀請究竟有何深意。"
+
+
 translate traditional_chinese ep007_vess_8d4e5273:
 
-    # "She handed me a glass and sat on the bed next to me."
-    ""
 
-# game/episode007.rpy:1920
+    "她遞來酒杯挨着我在牀邊坐下。"
+
+
 translate traditional_chinese ep007_vess_776302ea:
 
-    # "We enjoyed the strong alcohol in silence, watching out over the night-touched ocean below."
-    ""
 
-# game/episode007.rpy:1922
+    "我們靜靜啜飲着烈酒，凝望下方暮色籠罩的海面。"
+
+
 translate traditional_chinese ep007_vess_f3b1b1a5:
 
-    # "Vess smiled at me faintly and set down her half-finished drink."
-    ""
 
-# game/episode007.rpy:1923
+    "薇絲對我淺淺一笑，放下喝了一半的酒杯。"
+
+
 translate traditional_chinese ep007_vess_5d6af8ed:
 
-    # ve "Too much for me, I’m afraid, I’m going to lie down."
-    ve ""
 
-# game/episode007.rpy:1924
+    ve "我怕是喝太多了，先躺下了。"
+
+
 translate traditional_chinese ep007_vess_edd836f2:
 
-    # "I emptied my glass and slipped out of my tux."
-    ""
 
-# game/episode007.rpy:1926
+    "我飲盡杯中酒，利落地脫下禮服。"
+
+
 translate traditional_chinese ep007_vess_386d84d9:
 
-    # "Admiring the curves of Vess’ body, I eased myself on the bed."
-    ""
 
-# game/episode007.rpy:1927
+    "欣賞着薇絲玲瓏的身段，我輕緩地挪到牀上。"
+
+
 translate traditional_chinese ep007_vess_d6bd2d6d:
 
-    # "Lying on my back I closed my eyes and was about to give myself over to sleep."
-    ""
 
-# game/episode007.rpy:1929
+    "平躺着合上雙眼，正準備沉入夢鄉。"
+
+
 translate traditional_chinese ep007_vess_2b72d6cb:
 
-    # ve "[p_name_short]?"
-    ve ""
 
-# game/episode007.rpy:1930
+    ve "[p_name_short]？"
+
+
 translate traditional_chinese ep007_vess_c5f9e5a0:
 
-    # ve "Could you hold me, just to help me fall asleep?"
-    ve ""
 
-# game/episode007.rpy:1932
+    ve "能抱着我睡嗎？這樣容易睡着。"
+
+
 translate traditional_chinese ep007_vess_6c0a7816:
 
-    # "My heart jumped and wordlessly I took her in my arms, her body cuddling mine."
-    ""
 
-# game/episode007.rpy:1934
+    "心猛地一跳，我默默將她攬入懷中，她溫軟的身體緊貼着我。"
+
+
 translate traditional_chinese ep007_vess_dfd2576c:
 
-    # "I didn’t want to ruin the moment by talking and besides, the effects of the liquor were rapidly catching up with me."
-    ""
 
-# game/episode007.rpy:1936
+    "言語會破壞此刻氛圍，何況酒意正疾速上湧。"
+
+
 translate traditional_chinese ep007_vess_49d5b0fa:
 
-    # "It didn’t take long for me to fall into a very deep sleep."
-    ""
 
-# game/episode007.rpy:1937
+    "很快就墜入了黑甜夢鄉。"
+
+
 translate traditional_chinese ep007_vess_593cc76f:
 
-    # "I woke up once, after an alcohol-fuelled nightmare, the details of which I couldn’t recall."
-    ""
 
-# game/episode007.rpy:1939
+    "有次被酒精催生的噩夢驚醒，細節卻記不清了。"
+
+
 translate traditional_chinese ep007_vess_2857504c:
 
-    # c "Vess?"
-    c ""
 
-# game/episode007.rpy:1941
+    c "薇絲？"
+
+
 translate traditional_chinese ep007_vess_5250f809:
 
-    # "Or maybe I didn’t wake up at all and it was all part of the same fever dream, because the next time I awoke she was right there next to me."
-    ""
 
-# game/episode007.rpy:1943
+    "也可能根本沒醒來，那本就是荒誕夢境的延續——因爲再度睜眼時她就躺在我身旁。"
+
+
 translate traditional_chinese ep007_vess_624dc8c1:
 
-    # "Vess moaned softly."
-    ""
 
-# game/episode007.rpy:1944
+    "薇絲髮出輕微的呻吟。"
+
+
 translate traditional_chinese ep007_vess_9fb1b352:
 
-    # "Her body was pressed against mine, her ass slowly grinding against my crotch."
-    ""
 
-# game/episode007.rpy:1946
+    "她的身體緊貼着我的，她的臀部慢慢蹭着我的襠部。"
+
+
 translate traditional_chinese ep007_vess_bd94aae0:
 
-    # "I felt my erection brushing against her butt."
-    ""
 
-# game/episode007.rpy:1947
+    "我感覺我的勃起蹭着她的屁股。"
+
+
 translate traditional_chinese ep007_vess_a051a6e6:
 
-    # "Was she even awake?"
-    ""
 
-# game/episode007.rpy:1955
+    "她到底醒了沒？"
+
+
 translate traditional_chinese ep007_vess_6a3bdb88:
 
-    # "Eventually Vess fell asleep again."
-    ""
 
-# game/episode007.rpy:1956
+    "最終薇絲又睡着了。"
+
+
 translate traditional_chinese ep007_vess_ecc0d7fe:
 
-    # "Unfortunately I was left with a large erection and nobody but myself to take care of that..."
-    ""
 
-# game/episode007.rpy:1957
+    "不幸的是，我還帶着個大勃起，只能靠自己解決..."
+
+
 translate traditional_chinese ep007_vess_0f953818:
 
-    # "The reality of the situation also came crashing down at that moment, ruining any further prospects of having a release."
-    ""
 
-# game/episode007.rpy:1958
+    "那會兒現實也湧進腦海，徹底斷了想發泄的念頭。"
+
+
 translate traditional_chinese ep007_vess_6fd509ad:
 
-    # "I still didn’t have a plan to escape Cetruvar’s mansion and the clock was ticking..."
-    ""
 
-# game/episode007.rpy:1959
+    "我還沒計劃怎麼從塞特魯瓦的宅邸逃出去，時間在滴答作響..."
+
+
 translate traditional_chinese ep007_vess_36d9f865:
 
-    # "I decided to go back to my room to wrack my brain and come up with an escape plan."
-    ""
 
-# game/episode007.rpy:1962
+    "我決定回房間絞盡腦汁，想個逃跑計劃。"
+
+
 translate traditional_chinese ep007_vess_53e08918:
 
-    # "If she wasn’t awake yet, things could get very embarrassing, so I pulled away."
-    ""
 
-# game/episode007.rpy:1963
+    "如果她還沒醒，事會很尷尬，所以我退開了。"
+
+
 translate traditional_chinese ep007_vess_a9458e47:
 
-    # "The sudden motion didn’t seem to startle Vess, who shifted to lie on her stomach."
-    ""
 
-# game/episode007.rpy:1964
+    "突然的動作好像沒驚着薇絲，她翻身趴着睡了。"
+
+
 translate traditional_chinese ep007_vess_e42fba1a:
 
-    # "She was probably deep asleep, so I decided to go back to my room before things got out of hand again."
-    ""
 
-# game/episode007.rpy:1965
+    "她應該已經睡熟了，所以我決定在事態再次失控前回自己房間。"
+
+
 translate traditional_chinese ep007_vess_a86451a7:
 
-    # "Besides, I still didn’t have a plan to escape Cetruvar’s mansion."
-    ""
 
-# game/episode007.rpy:1967
+    "而且，我仍然沒計劃怎麼從塞特魯瓦的宅邸逃出去。"
+
+
 translate traditional_chinese ep007_vess_a3185665:
 
-    # c "I’m not sure that’s a good idea, Vess."
-    c ""
 
-# game/episode007.rpy:1969
+    c "我不確定那是個好主意，薇絲。"
+
+
 translate traditional_chinese ep007_vess_121ababf:
 
-    # ve "Right, you’re right, of course."
-    ve ""
 
-# game/episode007.rpy:1971
+    ve "對，你是對的，當然了。"
+
+
 translate traditional_chinese ep007_vess_2a0902d4:
 
-    # ve "Sleep well, [p_name]."
-    ve ""
 
-# game/episode007.rpy:1972
+    ve "睡個好覺，[p_name]。"
+
+
 translate traditional_chinese ep007_vess_beedc328:
 
-    # c "You too, Vess."
-    c ""
 
-# game/episode007.rpy:1973
+    c "你也是，薇絲。"
+
+
 translate traditional_chinese ep007_vess_c50a984d:
 
-    # c "And remember, I’m right next door if you need me."
-    c ""
 
-# game/episode007.rpy:1974
+    c "還有記住，我就住隔壁，有事找我。"
+
+
 translate traditional_chinese ep007_vess_f1457fa1:
 
-    # ve "Of course, thank you."
-    ve ""
 
-# game/episode007.rpy:1976
+    ve "當然，謝謝你。"
+
+
 translate traditional_chinese ep007_vess_675ad5cf:
 
-    # c "I’m sure the rest of the crew wouldn’t have a problem with that."
-    c ""
 
-# game/episode007.rpy:1978
+    c "我敢說其他機組成員不會有問題的。"
+
+
 translate traditional_chinese ep007_vess_e9307c26:
 
-    # ve "I’m glad to hear that."
-    ve ""
 
-# game/episode007.rpy:1979
+    ve "很高興聽你這麼說。"
+
+
 translate traditional_chinese ep007_vess_d9720ca8:
 
-    # ve "Thank you for the company, [p_name_short], but I’d like to try and catch some sleep now."
-    ve ""
 
-# game/episode007.rpy:1980
+    ve "謝謝陪伴，[p_name_short]，但我想試着眯會兒覺了。"
+
+
 translate traditional_chinese ep007_vess_cf0f6519:
 
-    # c "Of course, sleep well Vess."
-    c ""
 
-# game/episode007.rpy:1981
+    c "當然，晚安薇絲。"
+
+
 translate traditional_chinese ep007_vess_5d89cc61:
 
-    # "The girl just smiled and watched me leave the room."
-    ""
 
-# game/episode007.rpy:1983
+    "那女孩只是笑笑，看着我離開房間。"
+
+
 translate traditional_chinese ep007_vess_30647064:
 
-    # c "I’m right next door, so if anything happens just cry out and I’ll be there any second."
-    c ""
 
-# game/episode007.rpy:1985
+    c "我就住隔壁，所以有事就喊一嗓子，我立馬趕到。"
+
+
 translate traditional_chinese ep007_vess_b62c291a:
 
-    # ve "Thank you, [p_name]."
-    ve ""
 
-# game/episode007.rpy:1986
+    ve "謝謝你，[p_name]。"
+
+
 translate traditional_chinese ep007_vess_7ae87016:
 
-    # c "Sleep well Vess."
-    c ""
 
-# game/episode007.rpy:1987
+    c "睡個好覺薇絲。"
+
+
 translate traditional_chinese ep007_vess_d349c01f:
 
-    # ve "You too, [p_name_short]."
-    ve ""
 
-# game/episode007.rpy:1989
+    ve "你也是，[p_name_short]。"
+
+
 translate traditional_chinese ep007_vess_b4b02f84:
 
-    # c "Never mind, I must be imagining things."
-    c ""
 
-# game/episode007.rpy:1990
+    c "算了，我一定是在胡思亂想。"
+
+
 translate traditional_chinese ep007_vess_7ae87016_1:
 
-    # c "Sleep well Vess."
-    c ""
 
-# game/episode007.rpy:1992
+    c "晚安薇絲。"
+
+
 translate traditional_chinese ep007_vess_6f627325:
 
-    # ve "Good night, [p_name]."
-    ve ""
 
-# game/episode007.rpy:1997
+    ve "晚安，[p_name]。"
+
+
 translate traditional_chinese ep007_thyia_2fe9005a:
 
-    # "I caught up with Thyia as she was heading towards the engine room."
-    ""
 
-# game/episode007.rpy:1998
+    "我追上了塞婭，當時她正朝引擎房走去。"
+
+
 translate traditional_chinese ep007_thyia_7f0b6519:
 
-    # c "Hey Thyia, wait up."
-    c ""
 
-# game/episode007.rpy:2000
+    c "嘿塞婭，等等我。"
+
+
 translate traditional_chinese ep007_thyia_5c508a19:
 
-    # "She turned her head to look at me, but didn’t slow down, so I jogged towards her."
-    ""
 
-# game/episode007.rpy:2001
+    "她轉頭看了我一眼，但沒慢下來，所以我朝她慢跑了過去。"
+
+
 translate traditional_chinese ep007_thyia_7bb1d557:
 
-    # c "I was wondering if we could talk."
-    c ""
 
-# game/episode007.rpy:2003
+    c "我想知道我們能不能談談。"
+
+
 translate traditional_chinese ep007_thyia_f75b53d9:
 
-    # th "About?"
-    th ""
 
-# game/episode007.rpy:2004
+    th "關於什麼？"
+
+
 translate traditional_chinese ep007_thyia_8904d74f:
 
-    # c "About what happened on Almagest."
-    c ""
 
-# game/episode007.rpy:2006
+    c "關於在文典星上發生的事情。"
+
+
 translate traditional_chinese ep007_thyia_bc7d7c14:
 
-    # th "Our plan worked.{w} We’ve got your sister’s location and now we’re on our way.{w} Hurray."
-    th ""
 
-# game/episode007.rpy:2008
+    th "我們的計劃成功了。{w} 我們找到了你妹妹的位置，現在我們在路上了。{w} 萬歲。"
+
+
 translate traditional_chinese ep007_thyia_ea39e297:
 
-    # th "Our plan worked.{w} We’ve got your friend's location and now we’re on our way.{w} Hurray."
-    th ""
 
-# game/episode007.rpy:2009
+    th "我們的計劃成功了。{w} 我們找到了你朋友的位置，現在我們在路上了。{w} 萬歲。"
+
+
 translate traditional_chinese ep007_thyia_5b348017:
 
-    # c "You know what I’m talking about."
-    c ""
 
-# game/episode007.rpy:2011
+    c "你知道我在說什麼。"
+
+
 translate traditional_chinese ep007_thyia_8e8f2821:
 
-    # "We’d reached the engine room and after pushing open the door, Thyia just kept on walking."
-    ""
 
-# game/episode007.rpy:2012
+    "我們到了發動機房，推開門後，塞婭只是保持行走。"
+
+
 translate traditional_chinese ep007_thyia_22731138:
 
-    # th "What’s there to talk about?"
-    th ""
 
-# game/episode007.rpy:2013
+    th "有什麼好談的？"
+
+
 translate traditional_chinese ep007_thyia_75b82456:
 
-    # c "We kissed."
-    c ""
 
-# game/episode007.rpy:2015
+    c "我們接吻了。"
+
+
 translate traditional_chinese ep007_thyia_2051358b:
 
-    # th "So?"
-    th ""
 
-# game/episode007.rpy:2018
+    th "所以呢？"
+
+
 translate traditional_chinese ep007_thyia_6d732b33:
 
-    # th "I already told you that was a one-time deal."
-    th ""
 
-# game/episode007.rpy:2020
+    th "我已經告訴你那是一次性的交易。"
+
+
 translate traditional_chinese ep007_thyia_e706d122:
 
-    # th "We also had sex in my workshop."
-    th ""
 
-# game/episode007.rpy:2022
+    th "我們還在我的工作間發生了性關係。"
+
+
 translate traditional_chinese ep007_thyia_affcc0e4:
 
-    # th "That was a one-time deal, as far as I’m concerned."
-    th ""
 
-# game/episode007.rpy:2024
+    th "對我來說，那是一次性的交易。"
+
+
 translate traditional_chinese ep007_thyia_83f53cc5:
 
-    # th "A kiss to distract a guard and it worked."
-    th ""
 
-# game/episode007.rpy:2025
+    th "一個用來分散警衛注意力的吻，而且它起作用了。"
+
+
 translate traditional_chinese ep007_thyia_68bd73ec:
 
-    # c "That kiss sure sent a different message."
-    c ""
 
-# game/episode007.rpy:2027
+    c "那個吻確實傳遞了不同的信息。"
+
+
 translate traditional_chinese ep007_thyia_9d5481f4:
 
-    # c "Especially the second time with no guard in sight..."
-    c ""
 
-# game/episode007.rpy:2029
+    c "特別是第二次周圍連個守衛都沒有的時候..."
+
+
 translate traditional_chinese ep007_thyia_b8bdb705:
 
-    # c "Wait, why are you undressing yourself?"
-    c ""
 
-# game/episode007.rpy:2030
+    c "等等，你脫衣服幹什麼？"
+
+
 translate traditional_chinese ep007_thyia_c3f1e33f:
 
-    # th "Because I want to go to sleep."
-    th ""
 
-# game/episode007.rpy:2031
+    th "因爲我要睡覺。"
+
+
 translate traditional_chinese ep007_thyia_7214cfe2:
 
-    # c "Oh..."
-    c ""
 
-# game/episode007.rpy:2034
+    c "哦..."
+
+
 translate traditional_chinese ep007_thyia_72aeab20:
 
-    # c "Come on Thyia, I know this is just an act to shut me out."
-    c ""
 
-# game/episode007.rpy:2036
+    c "得了吧，塞婭，我知道這只是拒人千裏的把戲。"
+
+
 translate traditional_chinese ep007_thyia_cea52b06:
 
-    # th "What the fuck are you on about?!"
-    th ""
 
-# game/episode007.rpy:2037
+    th "你他媽在胡說什麼？!"
+
+
 translate traditional_chinese ep007_thyia_520f6064:
 
-    # c "Admit it, you’re doing this just to make me feel uncomfortable."
-    c ""
 
-# game/episode007.rpy:2039
+    c "承認吧，你這麼做就是想讓我不自在。"
+
+
 translate traditional_chinese ep007_thyia_19775a01:
 
-    # c "Trouble is, I’ve already seen you naked, so go on ahead and lose all the clothing."
-    c ""
 
-# game/episode007.rpy:2041
+    c "問題是我早看過你裸體了，所以繼續脫啊，把衣服脫光。"
+
+
 translate traditional_chinese ep007_thyia_e3376a17:
 
-    # c "Trouble is, I like naked women, so go on ahead and lose all the clothing."
-    c ""
 
-# game/episode007.rpy:2043
+    c "問題是我喜歡裸女，所以繼續脫啊，把衣服脫光。"
+
+
 translate traditional_chinese ep007_thyia_3522c826:
 
-    # th "..."
-    th ""
 
-# game/episode007.rpy:2044
+    th "..."
+
+
 translate traditional_chinese ep007_thyia_d4c5df8a:
 
-    # c "Fine, don’t say anything."
-    c ""
 
-# game/episode007.rpy:2047
+    c "好吧，你什麼都不用說。"
+
+
 translate traditional_chinese ep007_thyia_f7d0409d:
 
-    # c "I’ll just say I was happy you kissed me back in that hallway."
-    c ""
 
-# game/episode007.rpy:2049
+    c "我只想說走廊裏那個吻，我很高興你回應了我。"
+
+
 translate traditional_chinese ep007_thyia_d83617cd:
 
-    # c "I know our little romp on Vulpes was a one-time thing for you."
-    c ""
 
-# game/episode007.rpy:2051
+    c "我知道在迅狐星那次對你來說僅此一次。"
+
+
 translate traditional_chinese ep007_thyia_0f167641:
 
-    # c "I know our little romp on Vulpes was just a bit of fooling around for you, because it was for me too at that time."
-    c ""
 
-# game/episode007.rpy:2054
+    c "我知道在迅狐星那次對你來說不過是玩玩而已，畢竟當時我也是這麼想的。"
+
+
 translate traditional_chinese ep007_thyia_9cf3e27a:
 
-    # c "I’ve really come to appreciate you, Thyia."
-    c ""
 
-# game/episode007.rpy:2056
+    c "我真的開始欣賞你了，塞婭。"
+
+
 translate traditional_chinese ep007_thyia_5a8cf958:
 
-    # c "But I’ve really come to appreciate you, Thyia."
-    c ""
 
-# game/episode007.rpy:2057
+    c "但我真的開始欣賞你了，塞婭。"
+
+
 translate traditional_chinese ep007_thyia_edd7c16e:
 
-    # c "And deep down I think you feel the same way, otherwise I can’t explain that kiss on Almagest."
-    c ""
 
-# game/episode007.rpy:2059
+    c "而且我總覺得你也這麼想，否則沒法解釋你在文典星那個吻。"
+
+
 translate traditional_chinese ep007_thyia_a29849ee:
 
-    # th "Well fuck."
-    th ""
 
-# game/episode007.rpy:2062
+    th "好吧，操。"
+
+
 translate traditional_chinese ep007_thyia_9eec8739:
 
-    # c "You know what? This is going nowhere anyway."
-    c ""
 
-# game/episode007.rpy:2063
+    c "知道嗎？反正這樣下去也沒結果。"
+
+
 translate traditional_chinese ep007_thyia_717f7343:
 
-    # c "Good night, Thyia."
-    c ""
 
-# game/episode007.rpy:2065
+    c "晚安，塞婭。"
+
+
 translate traditional_chinese ep007_thyia_34f16f09:
 
-    # th "Good night."
-    th ""
 
-# game/episode007.rpy:2067
+    th "晚安。"
+
+
 translate traditional_chinese ep007_thyia_4c07a863:
 
-    # c "Right, sleep tight, in that case."
-    c ""
 
-# game/episode007.rpy:2069
+    c "好吧，那睡個好覺。"
+
+
 translate traditional_chinese ep007_thyia_646848ec:
 
-    # th "Yeah, you too..."
-    th ""
 
-# game/episode007.rpy:2076
+    th "嗯，你也是..."
+
+
 translate traditional_chinese ep007_aven_0fc5fb57:
 
-    # "Not long after retiring to my quarters, there was a knock on my door."
-    ""
 
-# game/episode007.rpy:2078
+    "回到住處不久，有人敲響了我的房門。"
+
+
 translate traditional_chinese ep007_aven_c212b281:
 
-    # av "I don’t think anybody saw me."
-    av ""
 
-# game/episode007.rpy:2079
+    av "我想應該沒人注意到我。"
+
+
 translate traditional_chinese ep007_aven_54abdce7:
 
-    # c "Have you been sneaking around the ship, Aven?"
-    c ""
 
-# game/episode007.rpy:2080
+    c "你最近是不是在飛船裏鬼鬼祟祟的，艾文？"
+
+
 translate traditional_chinese ep007_aven_d9199f37:
 
-    # c "Why don’t you sneak over here in that case?"
-    c ""
 
-# game/episode007.rpy:2082
+    c "那你怎麼不偷偷溜到我這兒來？"
+
+
 translate traditional_chinese ep007_aven_22b54613:
 
-    # av "Excellent idea."
-    av ""
 
-# game/episode007.rpy:2087
+    av "很好的主意。"
+
+
 translate traditional_chinese ep007_aven_c1b0819a:
 
-    # "Before she came to my bed, Aven slipped out of her clothing and revealed her gorgeous figure to me."
-    ""
 
-# game/episode007.rpy:2089
+    "上牀前艾文褪去衣衫，向我展露出曼妙的身姿。"
+
+
 translate traditional_chinese ep007_aven_1561f12b:
 
-    # av "You’re staring."
-    av ""
 
-# game/episode007.rpy:2090
+    av "你直勾勾盯着我呢。"
+
+
 translate traditional_chinese ep007_aven_f705f491:
 
-    # av "It makes you look dumb and absolutely cute at the same time."
-    av ""
 
-# game/episode007.rpy:2091
+    av "這副傻得冒泡的樣子偏又可愛得要命。"
+
+
 translate traditional_chinese ep007_aven_7b93bbf6:
 
-    # c "You should be spanked, you know that."
-    c ""
 
-# game/episode007.rpy:2093
+    c "你該挨頓巴掌的，知道嗎？"
+
+
 translate traditional_chinese ep007_aven_0f489028:
 
-    # av "Well now, aren’t we kinky all of a sudden."
-    av ""
 
-# game/episode007.rpy:2095
+    av "喲呵，突然就開始變態了是吧。"
+
+
 translate traditional_chinese ep007_aven_532ef4be:
 
-    # "Aven laughed and nestled herself against me."
-    ""
 
-# game/episode007.rpy:2096
+    "艾文輕笑着往我懷裡鑽了鑽。"
+
+
 translate traditional_chinese ep007_aven_d3e106c8:
 
-    # av "Are you nervous?"
-    av ""
 
-# game/episode007.rpy:2097
+    av "緊張了？"
+
+
 translate traditional_chinese ep007_aven_27e906d1:
 
-    # c "A little."
-    c ""
 
-# game/episode007.rpy:2099
+    c "有點。"
+
+
 translate traditional_chinese ep007_aven_b7dc6258:
 
-    # av "A little?{w} I could hear your heart beating from outside the door."
-    av ""
 
-# game/episode007.rpy:2100
+    av "有點？{w} 我隔着門都聽見你怦怦心跳了。"
+
+
 translate traditional_chinese ep007_aven_a8dd8b71:
 
-    # c "You’re big on the overstatements all of a sudden, aren’t you?"
-    c ""
 
-# game/episode007.rpy:2102
+    c "突然這麼會誇大其詞了啊？"
+
+
 translate traditional_chinese ep007_aven_e20877e7:
 
-    # av "Yes...{w} Because I’m scared shitless."
-    av ""
 
-# game/episode007.rpy:2103
+    av "是...{w} 因爲我他媽都快嚇尿了。"
+
+
 translate traditional_chinese ep007_aven_5dbbffe8:
 
-    # av "Do you...{w} Do you have second thoughts about this?"
-    av ""
 
-# game/episode007.rpy:2107
+    av "你該不會...{w}該不會後悔了吧？"
+
+
 translate traditional_chinese ep007_aven_299d153d:
 
-    # c "I don’t know."
-    c ""
 
-# game/episode007.rpy:2109
+    c "我不知道。"
+
+
 translate traditional_chinese ep007_aven_748689d4:
 
-    # c "I know it’s morally wrong."
-    c ""
 
-# game/episode007.rpy:2110
+    c "我清楚這違背道德。"
+
+
 translate traditional_chinese ep007_aven_59c2bfba:
 
-    # c "If all this ever comes out we’ll be pariahs."
-    c ""
 
-# game/episode007.rpy:2112
+    c "這事要是曝光我們準得遭人唾棄。"
+
+
 translate traditional_chinese ep007_aven_911387aa:
 
-    # c "I know it’s going to be a shock to many."
-    c ""
 
-# game/episode007.rpy:2113
+    c "我知道對很多人來說都太驚世駭俗。"
+
+
 translate traditional_chinese ep007_aven_9ced86a1:
 
-    # c "I'm not sure what they'd think."
-    c ""
 
-# game/episode007.rpy:2115
+    c "我也不知道他們會怎麼想。"
+
+
 translate traditional_chinese ep007_aven_92a5f099:
 
-    # av "What the fuck, [p_name_short]?!"
-    av ""
 
-# game/episode007.rpy:2116
+    av "搞什麼鬼，[p_name_short]？！"
+
+
 translate traditional_chinese ep007_aven_df4bf908:
 
-    # av "Toying with me, killing the mood?"
-    av ""
 
-# game/episode007.rpy:2117
+    av "耍着我玩，專門破壞氣氛？"
+
+
 translate traditional_chinese ep007_aven_896843ff:
 
-    # c "No, I-"
-    c ""
 
-# game/episode007.rpy:2119
+    c "不，我——"
+
+
 translate traditional_chinese ep007_aven_105d4aa6:
 
-    # av "I’m coming here all vulnerable and you’re just going on spouting nonsense about morals?!"
-    av ""
 
-# game/episode007.rpy:2121
+    av "我掏心掏肺來找你，結果你擱這兒滿嘴仁義道德？！"
+
+
 translate traditional_chinese ep007_aven_c6e58997:
 
-    # av "I’m coming here all vulnerable and you’re just going on spouting nonsense about everybody else's feelings?!"
-    av ""
 
-# game/episode007.rpy:2122
+    av "我這麼脆弱地來到這兒，你卻在那兒滔滔不絕地說別人的感受？！"
+
+
 translate traditional_chinese ep007_aven_7126ee0d:
 
-    # av "Well fuck you!"
-    av ""
 
-# game/episode007.rpy:2124
+    av "噢，去你媽的！"
+
+
 translate traditional_chinese ep007_aven_6106c8f4:
 
-    # "Aven stormed out in a fit of rage, forgetting her clothing along the way."
-    ""
 
-# game/episode007.rpy:2128
+    "艾文憤怒地衝了出去，途中忘了穿衣服。"
+
+
 translate traditional_chinese ep007_aven_e69e42b8:
 
-    # c "No."
-    c ""
 
-# game/episode007.rpy:2130
+    c "不。"
+
+
 translate traditional_chinese ep007_aven_ae4cc0cd:
 
-    # av "That sounds definitive."
-    av ""
 
-# game/episode007.rpy:2131
+    av "那聽起來很確定。"
+
+
 translate traditional_chinese ep007_aven_5d5583ab:
 
-    # c "It is."
-    c ""
 
-# game/episode007.rpy:2133
+    c "是的。"
+
+
 translate traditional_chinese ep007_aven_1fb03af0:
 
-    # av "But-"
-    av ""
 
-# game/episode007.rpy:2134
+    av "但是-"
+
+
 translate traditional_chinese ep007_aven_5d1f62c9:
 
-    # c "Shut up."
-    c ""
 
-# game/episode007.rpy:2142
+    c "閉嘴。"
+
+
 translate traditional_chinese ep007_celine_754bbe12:
 
-    # "I wandered back to the bridge to find Céline still in her chair."
-    ""
 
-# game/episode007.rpy:2143
+    "我晃回駕駛艙，發現瑟琳還在她的椅子上。"
+
+
 translate traditional_chinese ep007_celine_dfbf8579:
 
-    # c "Flying manually to Erigone?"
-    c ""
 
-# game/episode007.rpy:2145
+    c "手動飛到厄裏戈涅星？"
+
+
 translate traditional_chinese ep007_celine_ef101571:
 
-    # ce "Just for a bit, it calms my mind."
-    ce ""
 
-# game/episode007.rpy:2146
+    ce "就一會兒，能讓我的心情平復一下。"
+
+
 translate traditional_chinese ep007_celine_3e6372d6:
 
-    # ce "I was about to go to sleep, actually."
-    ce ""
 
-# game/episode007.rpy:2148
+    ce "其實我正要睡覺去。"
+
+
 translate traditional_chinese ep007_celine_3eadc15d:
 
-    # c "Yeah, most of the crew has gone to bed, I think."
-    c ""
 
-# game/episode007.rpy:2149
+    c "是啊，我想大多數成員都睡去了。"
+
+
 translate traditional_chinese ep007_celine_d54638e3:
 
-    # c "By the way, anything new on our mole communicating with the enemy?"
-    c ""
 
-# game/episode007.rpy:2151
+    c "順便問一下，我們內鬼和敵人通信有沒什麼新情況？"
+
+
 translate traditional_chinese ep007_celine_1d1abc18:
 
-    # ce "Nope, nothing, neither on Almagest nor after we left orbit"
-    ce ""
 
-# game/episode007.rpy:2152
+    ce "沒有，沒有新情況，在文典星時或者離開軌道後都一樣。"
+
+
 translate traditional_chinese ep007_celine_7857ed3a:
 
-    # ce "Though we can’t be sure they’re speaking to our enemies."
-    ce ""
 
-# game/episode007.rpy:2153
+    ce "不過我們不能確定他們是不是在和我們的敵人說話。"
+
+
 translate traditional_chinese ep007_celine_358e4521:
 
-    # c "I’m pretty sure they are."
-    c ""
 
-# game/episode007.rpy:2154
+    c "我很確定他們在。"
+
+
 translate traditional_chinese ep007_celine_02c756ee:
 
-    # c "The arrival of those women at the mansion was no coincidence."
-    c ""
 
-# game/episode007.rpy:2155
+    c "那些女人到宅邸來絕不是巧合。"
+
+
 translate traditional_chinese ep007_celine_48793930:
 
-    # ce "Maybe you’re right."
-    ce ""
 
-# game/episode007.rpy:2156
+    ce "也許你說得對。"
+
+
 translate traditional_chinese ep007_celine_7c1886c8:
 
-    # c "Anyway, keep monitoring, but get some rest before we reach Erigone."
-    c ""
 
-# game/episode007.rpy:2157
+    c "總之，繼續監視，不過到達厄裏戈涅星之前休息一下。"
+
+
 translate traditional_chinese ep007_celine_faa2f03a:
 
-    # c "I’m heading to my quarters to do just that."
-    c ""
 
-# game/episode007.rpy:2159
+    c "我現在就回自己房間去幹這事。"
+
+
 translate traditional_chinese ep007_celine_a61c7a0c:
 
-    # ce "I really want a kiss before you go."
-    ce ""
 
-# game/episode007.rpy:2161
+    ce "你走之前我真想要個吻。"
+
+
 translate traditional_chinese ep007_celine_cbce38d5:
 
-    # "We embraced and I kissed her, Céline giving herself over completely to me."
-    ""
 
-# game/episode007.rpy:2165
+    "我們抱在一起，我親了她，瑟琳完全把自己交給了我。"
+
+
 translate traditional_chinese ep007_celine_9eb431c8:
 
-    # "We finally kissed each other good night and disentangled."
-    ""
 
-# game/episode007.rpy:2166
+    "我們最後吻別晚安，然後分開了。"
+
+
 translate traditional_chinese ep007_celine_1c6a7480:
 
-    # "Céline put her clothing back on, snuggled back into her chair and took control of the Bastard again."
-    ""
 
-# game/episode007.rpy:2168
+    "瑟琳重新穿好衣服，蜷回座椅中，再度掌控了\"私生子\"號。"
+
+
 translate traditional_chinese ep007_celine_1f772d82:
 
-    # "We kissed each other good night and disentangled."
-    ""
 
-# game/episode007.rpy:2169
+    "我們最後互道晚安吻別，這才分開。"
+
+
 translate traditional_chinese ep007_celine_4bc248ca:
 
-    # "Céline snuggled back into her chair and took control of the Bastard again."
-    ""
 
-# game/episode007.rpy:2172
+    "瑟琳蜷回座椅裏，再度掌控了\"私生子\"號。"
+
+
 translate traditional_chinese ep007_celine_7f760824:
 
-    # ce "Was there something you wanted?"
-    ce ""
 
-# game/episode007.rpy:2173
+    ce "有事嗎？"
+
+
 translate traditional_chinese ep007_celine_b3091e65:
 
-    # c "Just checking if our mole decided to contact the enemy again."
-    c ""
 
-# game/episode007.rpy:2174
+    c "看看我們的內鬼是不是又聯繫敵人了。"
+
+
 translate traditional_chinese ep007_celine_0915d466:
 
-    # ce "No, there hasn’t been any illegal communication, neither on Almagest nor after we left orbit."
-    ce ""
 
-# game/episode007.rpy:2175
+    ce "沒有異常通訊，無論在文典星還是離軌後都沒發現。"
+
+
 translate traditional_chinese ep007_celine_7857ed3a_1:
 
-    # ce "Though we can’t be sure they’re speaking to our enemies."
-    ce ""
 
-# game/episode007.rpy:2176
+    ce "雖然不能斷定他們是否在與敵人通話。"
+
+
 translate traditional_chinese ep007_celine_358e4521_1:
 
-    # c "I’m pretty sure they are."
-    c ""
 
-# game/episode007.rpy:2177
+    c "我敢肯定就是。"
+
+
 translate traditional_chinese ep007_celine_02c756ee_1:
 
-    # c "The arrival of those women at the mansion was no coincidence."
-    c ""
 
-# game/episode007.rpy:2178
+    c "那羣女人出現在宅邸絕非偶然。"
+
+
 translate traditional_chinese ep007_celine_7c1886c8_1:
 
-    # c "Anyway, keep monitoring, but get some rest before we reach Erigone."
-    c ""
 
-# game/episode007.rpy:2180
+    c "總之繼續監控，但在抵達厄裏戈涅星前要休息好。"
+
+
 translate traditional_chinese ep007_celine_e87d1a00:
 
-    # ce "I will, thanks."
-    ce ""
 
-# game/episode007.rpy:2191
+    ce "會的，謝謝。"
+
+
 translate traditional_chinese ep007_ceremony_3f73b4ac:
 
-    # "People started applauding as a mountain of a man entered the room."
-    ""
 
-# game/episode007.rpy:2192
+    "當山嶽般的巨漢進門時，人羣爆發出掌聲。"
+
+
 translate traditional_chinese ep007_ceremony_4abbe8fa:
 
-    # c "That's a human male, right?"
-    c ""
 
-# game/episode007.rpy:2194
+    c "這是人類男性，對吧？"
+
+
 translate traditional_chinese ep007_ceremony_44bb3730:
 
-    # na "Yes, I do believe he is human."
-    na ""
 
-# game/episode007.rpy:2195
+    na "沒錯，我相信他人類。"
+
+
 translate traditional_chinese ep007_ceremony_3d9726c2:
 
-    # na "The Yalvai supposedly thrive in human hosts."
-    na ""
 
-# game/episode007.rpy:2196
+    na "據說亞爾瓦族在人類宿主體內會旺盛繁殖。"
+
+
 translate traditional_chinese ep007_ceremony_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode007.rpy:2197
+    c "懂了。"
+
+
 translate traditional_chinese ep007_ceremony_6a770ccc:
 
-    # c "I take that the fact that he looks like a giant is because of the parasite?"
-    c ""
 
-# game/episode007.rpy:2198
+    c "他體型如此巨大也是寄生蟲的緣故？"
+
+
 translate traditional_chinese ep007_ceremony_821823a5:
 
-    # na "I suppose so."
-    na ""
 
-# game/episode007.rpy:2199
+    na "應該是。"
+
+
 translate traditional_chinese ep007_ceremony_395307db:
 
-    # "With his back turned to the audience, the giant started to remove his loincloth."
-    ""
 
-# game/episode007.rpy:2201
+    "巨人背對觀衆，開始解下纏腰布。"
+
+
 translate traditional_chinese ep007_ceremony_6158dc7a:
 
-    # "Several women hooted when the cloth dropped at his feet, baring his ass."
-    ""
 
-# game/episode007.rpy:2203
+    "纏腰布滑落腳邊露出屁股時，幾個女人尖聲起鬨。"
+
+
 translate traditional_chinese ep007_ceremony_407512f6:
 
-    # "The delighted yelps made way for gasps when the man turned around and revealed his cock."
-    ""
 
-# game/episode007.rpy:2204
+    "當男人轉身露出陽具時，歡叫瞬間變成了倒吸氣聲。"
+
+
 translate traditional_chinese ep007_ceremony_b0f95e95:
 
-    # "The thing was unlike anything I'd ever seen, weirdly gnarled and deformed, not to mention quite huge."
-    ""
 
-# game/episode007.rpy:2206
+    "那東西前所未見：虯結扭曲的畸形模樣，尺寸更是駭人。"
+
+
 translate traditional_chinese ep007_ceremony_b03f7269:
 
-    # c "Also the work of the parasite, I take it?"
-    c ""
 
-# game/episode007.rpy:2207
+    c "也是寄生蟲的傑作，我猜？"
+
+
 translate traditional_chinese ep007_ceremony_4c73cadc:
 
-    # na "Yes, it doesn't look pretty, does it?"
-    na ""
 
-# game/episode007.rpy:2209
+    na "沒錯，實在不堪入目，不是嗎？"
+
+
 translate traditional_chinese ep007_ceremony_3811975a:
 
-    # "Before I could answer a young woman entered the room, dressed in the same simple garments as the giant."
-    ""
 
-# game/episode007.rpy:2210
+    "在我能回答前，一個年輕女子走進了房間，穿着和巨人一樣簡陋的衣服。"
+
+
 translate traditional_chinese ep007_ceremony_3ed7745d:
 
-    # c "Wait...{w} They aren't going to...{w} You know..."
-    c ""
 
-# game/episode007.rpy:2211
+    c "等等...{w} 他們不是要...{w} 你知道..."
+
+
 translate traditional_chinese ep007_ceremony_3fac0987:
 
-    # na "Yes, I believe they're going to have sex."
-    na ""
 
-# game/episode007.rpy:2212
+    na "是的，我覺得他們是要做愛。"
+
+
 translate traditional_chinese ep007_ceremony_ba1226fb:
 
-    # c "She'll break in two!"
-    c ""
 
-# game/episode007.rpy:2214
+    c "她會斷成兩半的！"
+
+
 translate traditional_chinese ep007_ceremony_faa63138:
 
-    # na "The parasite will take care of that...{w} Hopefully..."
-    na ""
 
-# game/episode007.rpy:2215
+    na "寄生蟲會處理好那...{w} 但願如此..."
+
+
 translate traditional_chinese ep007_ceremony_4069883c:
 
-    # c "That doesn't sound all too reassuring."
-    c ""
 
-# game/episode007.rpy:2220
+    c "那話聽起來一點都不讓人安心。"
+
+
 translate traditional_chinese ep007_ceremony_286ca8b3:
 
-    # "The woman dropped the loose gown she was wearing to reveal her shapely body."
-    ""
 
-# game/episode007.rpy:2221
+    "女子脫下她穿的寬鬆長袍，露出她婀娜的身段。"
+
+
 translate traditional_chinese ep007_ceremony_1f800c81:
 
-    # "She regarded her audience with a fevered gaze of anticipation and pure lust."
-    ""
 
-# game/episode007.rpy:2222
+    "她帶着狂熱期待和純粹欲望的熾熱目光瞥了觀衆一眼。"
+
+
 translate traditional_chinese ep007_ceremony_a510be1c:
 
-    # c "I don't think this is her first time."
-    c ""
 
-# game/episode007.rpy:2224
+    c "我覺得這不是她頭一回。"
+
+
 translate traditional_chinese ep007_ceremony_0058fd77:
 
-    # na "Probably not, the Yalvai mating ritual is supposed to be very addictive."
-    na ""
 
-# game/episode007.rpy:2226
+    na "可能不是，亞爾瓦族的交配儀式據說非常讓人上癮。"
+
+
 translate traditional_chinese ep007_ceremony_e0feb3e9:
 
-    # "The young woman dropped to her knees after a series of movements that were clearly choreographed."
-    ""
 
-# game/episode007.rpy:2227
+    "年輕女子在一套明擺着編排過的動作後跪了下來。"
+
+
 translate traditional_chinese ep007_ceremony_e0f733f6:
 
-    # "Whatever debased sexual acts they would perform, it would all be covered in a thin veneer of ritualistic spirituality."
-    ""
 
-# game/episode007.rpy:2229
+    "不管他們玩什麼低俗的性把戲，統統會裹上一層薄薄的儀式精神外衣。"
+
+
 translate traditional_chinese ep007_ceremony_fb04a6f5:
 
-    # "The giant approached, his cock growing even larger than before."
-    ""
 
-# game/episode007.rpy:2230
+    "巨人走近了，他的雞巴變得比之前還大。"
+
+
 translate traditional_chinese ep007_ceremony_a28d5785:
 
-    # woman "I humbly accept your Seed."
-    woman ""
 
-# game/episode007.rpy:2232
+    woman "我謙卑地接受您的種子。"
+
+
 translate traditional_chinese ep007_ceremony_44b67239:
 
-    # woman "Please fuck me until I'm ready to Birth the Reward."
-    woman ""
 
-# game/episode007.rpy:2233
+    woman "請操我直到我準備好生出回報。"
+
+
 translate traditional_chinese ep007_ceremony_42abf8a7:
 
-    # "I had to suppress a snigger because of the woman's overly dramatic tone."
-    ""
 
-# game/episode007.rpy:2235
+    "我強忍住笑，因爲那女人的腔調太過戲劇化。"
+
+
 translate traditional_chinese ep007_ceremony_a76039ea:
 
-    # "Feeling a little weird I was actually about to watch two people fucking in front of an audience together with my aunt, I stole a glance at her."
-    ""
 
-# game/episode007.rpy:2237
+    "感覺有點怪，我居然要和我的姑姑在一羣觀衆前一起看兩個人性交，我偷瞄了她一眼。"
+
+
 translate traditional_chinese ep007_ceremony_74f33a2d:
 
-    # "Feeling a little weird I was actually about to watch two people fucking in front of an audience together with Nadya, I stole a glance at her."
-    ""
 
-# game/episode007.rpy:2239
+    "感覺有點怪，我居然要和娜迪亞在一羣觀衆前一起看兩個人性交，我偷瞄了她一眼。"
+
+
 translate traditional_chinese ep007_ceremony_0aef7de6:
 
-    # "Nadya was obviously caught up in all of the proceedings and didn't want to miss any detail."
-    ""
 
-# game/episode007.rpy:2240
+    "娜迪亞顯然被全程吸引了，不願錯過一丁點細節。"
+
+
 translate traditional_chinese ep007_ceremony_d34f4c46:
 
-    # "In contrast with the rest of the audience, her interest was probably completely fuelled by scientific interest instead of sensationalism."
-    ""
 
-# game/episode007.rpy:2242
+    "和其他觀衆比，她的興趣大概全是從科研角度來的，不是爲了獵奇。"
+
+
 translate traditional_chinese ep007_ceremony_2fa3ff81:
 
-    # "A cry of pain shocked everyone as the giant pushed his giant cock inside the woman, who clearly needed more time to adjust."
-    ""
 
-# game/episode007.rpy:2244
+    "一聲痛叫驚呆了所有人——巨人把巨根捅進女人體內時，她明顯需要更多時間適應。"
+
+
 translate traditional_chinese ep007_ceremony_d423b903:
 
-    # "I watched the entire length of the crooked dick disappear inside the woman's vagina."
-    ""
 
-# game/episode007.rpy:2245
+    "我看着整根彎雞巴消失在女人的陰道裏。"
+
+
 translate traditional_chinese ep007_ceremony_18e11061:
 
-    # "She didn't seem in pain any longer, but more in a trance-like state, urging him to start fucking."
-    ""
 
-# game/episode007.rpy:2247
+    "她看起來不再痛苦，反而像出了神，催他快點兒開幹。"
+
+
 translate traditional_chinese ep007_ceremony_e785f614:
 
-    # na "See how the Yalvai is already doing its transformative work?"
-    na ""
 
-# game/episode007.rpy:2248
+    na "看到亞爾瓦族已經如何開始進行轉化了嗎？"
+
+
 translate traditional_chinese ep007_ceremony_7fddf13a:
 
-    # na "This would kill a normal human being, but the parasite has released certain fluids to make the woman's vagina accommodate the penis."
-    na ""
 
-# game/episode007.rpy:2249
+    na "這足以要了普通人類的命，但寄生蟲分泌了特定體液使女性陰道得以容納這根陰莖。"
+
+
 translate traditional_chinese ep007_ceremony_3b5d9b51:
 
-    # "Nadya's biology lesson wasn't appreciated by some members of the audience, who turned to shush us."
-    ""
 
-# game/episode007.rpy:2251
+    "娜迪亞的生物課講解引得某些觀衆發出噓聲示意我們安靜。"
+
+
 translate traditional_chinese ep007_ceremony_139f2c90:
 
-    # "The giant was now fucking the woman, pushing her against the cushion of the ottoman."
-    ""
 
-# game/episode007.rpy:2252
+    "此刻巨人正壓着女人在軟墊凳上操弄。"
+
+
 translate traditional_chinese ep007_ceremony_0818e4d3:
 
-    # "She was like a doll in his hands, speared on his enormous cock."
-    ""
 
-# game/episode007.rpy:2254
+    "她如同玩偶般被釘在那根巨碩陽具上。"
+
+
 translate traditional_chinese ep007_ceremony_bfa63178:
 
-    # "The girl drooled and moaned as her stomach bulged unnaturally."
-    ""
 
-# game/episode007.rpy:2256
+    "女孩垂涎呻吟，腹部不自然地隆起。"
+
+
 translate traditional_chinese ep007_ceremony_38d23246:
 
-    # "The towering man lifted the girl up, his cock still deep inside her cunt and turned her towards us."
-    ""
 
-# game/episode007.rpy:2257
+    "魁梧男人託起女孩轉向我們，陰莖仍深埋在她屄裏。"
+
+
 translate traditional_chinese ep007_ceremony_362786d3:
 
-    # "Her pussy was extremely dilated to adapt to the giant cock."
-    ""
 
-# game/episode007.rpy:2259
+    "她的陰戶擴張到極致以適應巨根。"
+
+
 translate traditional_chinese ep007_ceremony_9eafd723:
 
-    # "I had never seen so much juice dripping from a cunt along the shaft and onto the floor, where it formed a puddle."
-    ""
 
-# game/episode007.rpy:2260
+    "我從未見過這麼多汁液順着莖身從屄裏滴落，在地板匯成水窪。"
+
+
 translate traditional_chinese ep007_ceremony_fd672728:
 
-    # "Excessive lubrication was probably another way in which the parasite assisted in this whole procedure."
-    ""
 
-# game/episode007.rpy:2262
+    "巨量的潤滑應是寄生蟲輔助整個過程的另種手段。"
+
+
 translate traditional_chinese ep007_ceremony_f62d2f88:
 
-    # woman "I'm ready to receive the Seed!"
-    woman ""
 
-# game/episode007.rpy:2263
+    woman "我準備好接受種子了！"
+
+
 translate traditional_chinese ep007_ceremony_a085e590:
 
-    # woman "Please give me your Seed!"
-    woman ""
 
-# game/episode007.rpy:2264
+    woman "請賜予我您的種子！"
+
+
 translate traditional_chinese ep007_ceremony_da4542a4:
 
-    # "Nearly everyone in the audience seemed to hold their breath."
-    ""
 
-# game/episode007.rpy:2266
+    "全場觀衆幾乎都屏住了呼吸。"
+
+
 translate traditional_chinese ep007_ceremony_bdeb52b3:
 
-    # "The only audible sounds were the heavy grunting of the giant and the ecstatic moans of the girl."
-    ""
 
-# game/episode007.rpy:2268
+    "唯有巨人粗重的低吼與女孩忘情的呻吟清晰可聞。"
+
+
 translate traditional_chinese ep007_ceremony_3708d4c7:
 
-    # "Suddenly, the man roared and the girl screamed."
-    ""
 
-# game/episode007.rpy:2271
+    "男人突然咆哮，女孩隨之尖啼。"
+
+
 translate traditional_chinese ep007_ceremony_f951c4a3:
 
-    # "I saw his cock pulsing as the girl convulsed in orgasm."
-    ""
 
-# game/episode007.rpy:2272
+    "我見他陰莖搏動着，女孩在高潮中陣陣痙攣。"
+
+
 translate traditional_chinese ep007_ceremony_a4508b3f:
 
-    # "He was pumping her full of cum while holding her helplessly in the air."
-    ""
 
-# game/episode007.rpy:2274
+    "他將她懸空鉗制，不斷向體內灌入精液。"
+
+
 translate traditional_chinese ep007_ceremony_34df9164:
 
-    # "The ejaculation wasn't quick."
-    ""
 
-# game/episode007.rpy:2275
+    "射精過程相當持久。"
+
+
 translate traditional_chinese ep007_ceremony_516b4da4:
 
-    # "The giant's cock throbbing with each wave of cum shot deep inside the girl."
-    ""
 
-# game/episode007.rpy:2276
+    "巨莖隨每波精液在她體內深處悸動。"
+
+
 translate traditional_chinese ep007_ceremony_26bd79fe:
 
-    # "I couldn't venture a guess as to the amount he deposited in her, but we all got an idea when her belly started inflating."
-    ""
 
-# game/episode007.rpy:2278
+    "雖無法估算射入量，但當見她腹部開始鼓脹時衆人皆瞭然於心。"
+
+
 translate traditional_chinese ep007_ceremony_f2482719:
 
-    # c "Is he...{w} Is it that much?"
-    c ""
 
-# game/episode007.rpy:2279
+    c "他...{w}射了這麼多？"
+
+
 translate traditional_chinese ep007_ceremony_9aff8287:
 
-    # na "He's now flooding her womb with seed, yes."
-    na ""
 
-# game/episode007.rpy:2280
+    na "確實，此刻他正用精液淹沒她的子宮。"
+
+
 translate traditional_chinese ep007_ceremony_c11d3fbf:
 
-    # "Nadya was still acting like a detached scientist, but I saw many others around me either disgusted or extremely aroused."
-    ""
 
-# game/episode007.rpy:2282
+    "娜迪亞仍表現得像個置身事外的科學家，但我注意到周遭衆人或面露嫌惡或血脈賁張。"
+
+
 translate traditional_chinese ep007_ceremony_3add3ce1:
 
-    # "The girl now looked pregnant with the giant's cum."
-    ""
 
-# game/episode007.rpy:2283
+    "此刻女孩腹部鼓脹宛如懷孕一樣充滿巨人的精液。"
+
+
 translate traditional_chinese ep007_ceremony_b6e4107e:
 
-    # "With one last roar, the man pulled her from his cock, a dribble of glowing cum immediately flowing from the woman's cunt."
-    ""
 
-# game/episode007.rpy:2285
+    "隨着最後一聲吼叫，男人把她從他肉棒上拉下來，一股閃亮的精液立刻從女人的陰戶流出。"
+
+
 translate traditional_chinese ep007_ceremony_50c9c7ef:
 
-    # "She crawled towards the sofa and rested her back against it."
-    ""
 
-# game/episode007.rpy:2286
+    "她爬向沙發，背靠在上面。"
+
+
 translate traditional_chinese ep007_ceremony_f7872f23:
 
-    # "Glowing cum was still oozing from her gash when she spread her legs, but her swollen belly didn't diminish."
-    ""
 
-# game/episode007.rpy:2287
+    "當她張開雙腿時，閃亮的精液還在從她陰部滲出，但她隆起的肚子沒有減小。"
+
+
 translate traditional_chinese ep007_ceremony_1fa8940a:
 
-    # "Nobody paid attention to the giant who left the room quietly."
-    ""
 
-# game/episode007.rpy:2289
+    "沒有人注意那個悄悄離開房間的巨人。"
+
+
 translate traditional_chinese ep007_ceremony_02f5f422:
 
-    # "All eyes were on the woman, who lay against the sofa wearing a radiant smile and staring in the distance."
-    ""
 
-# game/episode007.rpy:2290
+    "所有目光都集中在那女人身上，她靠着沙發躺着，露着燦爛的笑容，凝視着遠方。"
+
+
 translate traditional_chinese ep007_ceremony_a61fd9c9:
 
-    # "A sudden cry and she shivered again and her legs thrashed involuntarily."
-    ""
 
-# game/episode007.rpy:2292
+    "一聲突如其來的尖叫，她又顫抖起來，雙腿不自覺地抽搐。"
+
+
 translate traditional_chinese ep007_ceremony_aaee4f1f:
 
-    # "Without touching herself, she launched into an orgasm that seemed to erupt from the very core of her being."
-    ""
 
-# game/episode007.rpy:2294
+    "沒有觸碰自己，她便陷入了一次高潮，仿佛是從她生命深處爆發出來。"
+
+
 translate traditional_chinese ep007_ceremony_5c3d94b2:
 
-    # "Every muscle in her body was taut and she threw her head back."
-    ""
 
-# game/episode007.rpy:2295
+    "她全身的肌肉都繃緊，她把頭向後仰。"
+
+
 translate traditional_chinese ep007_ceremony_ac2b97e0:
 
-    # woman "It comes!"
-    woman ""
 
-# game/episode007.rpy:2296
+    woman "來了！"
+
+
 translate traditional_chinese ep007_ceremony_8fbfd9d8:
 
-    # "She sat up, straining against the onslaught of the changes that were evidently rippling through her body."
-    ""
 
-# game/episode007.rpy:2298
+    "她坐起來，緊抵抗着那些明顯在她體內波動的變化的衝擊。"
+
+
 translate traditional_chinese ep007_ceremony_36010617:
 
-    # "Amidst moans and sighs of extreme pleasure, her gash began to widen, followed by a stream of thick glowing semen."
-    ""
 
-# game/episode007.rpy:2302
+    "在極樂的呻吟和嘆息中，她的陰部開始擴張，隨後一股濃稠發亮的精液湧出。"
+
+
 translate traditional_chinese ep007_ceremony_a6778e29:
 
-    # "She then pushed out something solid and cried in rapture as the egg pushed against the rim of her vagina."
-    ""
 
-# game/episode007.rpy:2303
+    "她排出一個固體東西，當蛋推到她的陰道邊緣時，她欣喜若狂地哭了起來。"
+
+
 translate traditional_chinese ep007_ceremony_35667733:
 
-    # "The egg pulsed with the same glow as the semen and was as large as a newborn's head."
-    ""
 
-# game/episode007.rpy:2304
+    "那個蛋隨着和精液一樣的閃光脈動，大小如新生兒的頭。"
+
+
 translate traditional_chinese ep007_ceremony_6461a19a:
 
-    # "When she had pushed out the egg in its entirety another wave of cum flooded from her cunt."
-    ""
 
-# game/episode007.rpy:2306
+    "當她完全排出蛋後，另一股精液從她陰戶湧出。"
+
+
 translate traditional_chinese ep007_ceremony_e2701de2:
 
-    # "Her pussy began to widen again and another egg slipped from her vaginal tract."
-    ""
 
-# game/episode007.rpy:2308
+    "她的陰部又開始擴張，另一個蛋從她的陰道滑出。"
+
+
 translate traditional_chinese ep007_ceremony_e702414a:
 
-    # "The young woman clawed at the cushions as she experienced one of her numerous orgasms."
-    ""
 
-# game/episode007.rpy:2310
+    "這個年輕女子抓着靠墊，經歷着她衆多高潮中的一個。"
+
+
 translate traditional_chinese ep007_ceremony_c620c08e:
 
-    # "Two more eggs followed until the woman collapsed on the couch drooling and still leaking cum from her slit."
-    ""
 
-# game/episode007.rpy:2311
+    "又有兩個蛋排出，直到女人倒在沙發上流口水，陰部還在漏出精液。"
+
+
 translate traditional_chinese ep007_ceremony_18aa92aa:
 
-    # "After a short silence, someone started to applaud, soon followed by most of the other people gathered in the room."
-    ""
 
-# game/episode007.rpy:2312
+    "在短暫的沉默後，有人開始鼓掌，很快房間裡的大多數人也跟着鼓掌。"
+
+
 translate traditional_chinese ep007_ceremony_14b36c97:
 
-    # "The woman remained on the couch after the applause had died down, breathing deep and staring in the distance in absolute contentment."
-    ""
 
-# game/episode007.rpy:2321
+    "掌聲平息後，女人仍留在沙發上，深呼吸着，凝視着遠方，完全滿足。"
+
+
 translate traditional_chinese ep007_vess_sex_44766da2:
 
-    # "I shifted my hand towards her breast."
-    ""
 
-# game/episode007.rpy:2322
+    "我移動我的手向她的乳房。"
+
+
 translate traditional_chinese ep007_vess_sex_2f70d7f1:
 
-    # "Her nipples were hard under the gauzy fabric of her nightdress."
-    ""
 
-# game/episode007.rpy:2324
+    "她的乳頭在薄如輕紗的睡裙下硬挺着。"
+
+
 translate traditional_chinese ep007_vess_sex_b2553592:
 
-    # "She moaned again, the soft flesh of her butt pressing against my erection."
-    ""
 
-# game/episode007.rpy:2326
+    "她又呻吟了一聲，臀部的軟肉壓在我的勃起上。"
+
+
 translate traditional_chinese ep007_vess_sex_ff0ca6eb:
 
-    # "I freed her breast and massaged the plump flesh softly."
-    ""
 
-# game/episode007.rpy:2327
+    "我解放她的乳房，輕輕揉捏那豐滿的嫩肉。"
+
+
 translate traditional_chinese ep007_vess_sex_a5235b3c:
 
-    # "Shallow breaths escaped her as I pulled down her nightdress to reveal her bosom."
-    ""
 
-# game/episode007.rpy:2328
+    "當我扯下睡裙露出胸脯時，她漏出淺促的呼吸。"
+
+
 translate traditional_chinese ep007_vess_sex_4913b296:
 
-    # "She couldn’t be asleep anymore, but she remained silent, letting her body language do the talking."
-    ""
 
-# game/episode007.rpy:2330
+    "她不可能還在睡，但始終沉默着，讓肢體語言替她說話。"
+
+
 translate traditional_chinese ep007_vess_sex_babb352b:
 
-    # "My hand trailed from her breasts across the naked skin of her belly."
-    ""
 
-# game/episode007.rpy:2331
+    "我的手從乳房滑落，掠過她小腹赤裸的肌膚。"
+
+
 translate traditional_chinese ep007_vess_sex_e7ecd2ea:
 
-    # "She opened her legs as I arrived at her mound."
-    ""
 
-# game/episode007.rpy:2332
+    "當我抵達她的小丘時，她張開了雙腿。"
+
+
 translate traditional_chinese ep007_vess_sex_bd388120:
 
-    # "My fingers softly touched her thighs, working their way towards her pussy."
-    ""
 
-# game/episode007.rpy:2334
+    "我的手指輕觸她的大腿，一路探向她的私處。"
+
+
 translate traditional_chinese ep007_vess_sex_a272d666:
 
-    # "Vess was burning up beneath my finger tips and my teasing managed to draw out her first words."
-    ""
 
-# game/episode007.rpy:2335
+    "薇絲在我指尖下火熱起來了，這番挑逗終於引她開口。"
+
+
 translate traditional_chinese ep007_vess_sex_da9861c0:
 
-    # ve "Please...{w} Please go on!"
-    ve ""
 
-# game/episode007.rpy:2337
+    ve "求你...{w} 繼續啊！"
+
+
 translate traditional_chinese ep007_vess_sex_0bcc6e07:
 
-    # "I gently pushed away her panties which were slick with her moisture."
-    ""
 
-# game/episode007.rpy:2338
+    "我輕輕撥開她溼漉漉的內褲。"
+
+
 translate traditional_chinese ep007_vess_sex_e89487bc:
 
-    # "When I caressed her pussy with my fingers she gasped and thrust her pelvis forward."
-    ""
 
-# game/episode007.rpy:2340
+    "當我用手指愛撫她的私處，她倒抽着氣向前挺動骨盆。"
+
+
 translate traditional_chinese ep007_vess_sex_026f34ba:
 
-    # "Using one finger, I ran along the length of her tight slit, parting her lips ever so slightly."
-    ""
 
-# game/episode007.rpy:2341
+    "我用單指順着她緊窄的縫隙滑動，微微撐開她兩片嫩脣。"
+
+
 translate traditional_chinese ep007_vess_sex_7b8ca94f:
 
-    # "Vess bit her lip and urged me to continue with small motions of her hand resting on my hip."
-    ""
 
-# game/episode007.rpy:2343
+    "薇絲咬着脣，搭在我胯上的手輕推着催我繼續。"
+
+
 translate traditional_chinese ep007_vess_sex_d8db0560:
 
-    # ve "Don’t stop!{w} Please!"
-    ve ""
 
-# game/episode007.rpy:2344
+    ve "別停！{w} 求你了！"
+
+
 translate traditional_chinese ep007_vess_sex_107f0ba0:
 
-    # "I started running a finger across her labia again, more slowly this time, her body becoming taut with anticipation."
-    ""
 
-# game/episode007.rpy:2346
+    "我又用手指划過她陰脣，這次更緩慢，她身子因期待繃緊。"
+
+
 translate traditional_chinese ep007_vess_sex_8df9beb6:
 
-    # "When I finally reached her clit she shuddered and thrashed her legs."
-    ""
 
-# game/episode007.rpy:2347
+    "當我終於碰到她陰蒂時，她渾身顫抖，雙腿亂蹬。"
+
+
 translate traditional_chinese ep007_vess_sex_29df3492:
 
-    # "I decided to focus on her bean for a while, making gyrating motions to prepare her for release."
-    ""
 
-# game/episode007.rpy:2349
+    "我決定先揉捻她的豆豆，用轉圈動作讓她預備高潮。"
+
+
 translate traditional_chinese ep007_vess_sex_f7178cc0:
 
-    # "The girl drew ragged breaths, her cheeks flushed and sweat pearling on her breasts."
-    ""
 
-# game/episode007.rpy:2350
+    "女孩喘着粗氣，臉蛋潮紅，胸脯上滲出細密汗珠。"
+
+
 translate traditional_chinese ep007_vess_sex_c071e112:
 
-    # ve "Keep going, [p_name], please don’t stop now!"
-    ve ""
 
-# game/episode007.rpy:2351
+    ve "繼續，[p_name]，請別停下！"
+
+
 translate traditional_chinese ep007_vess_sex_d22ace61:
 
-    # "Kissing her neck, I gave her a short burst of satisfaction before taking my fingers off her clitoris."
-    ""
 
-# game/episode007.rpy:2352
+    "我吻着她的脖子，在手指撤離陰蒂前給她短暫快感。"
+
+
 translate traditional_chinese ep007_vess_sex_0de9e1a1:
 
-    # ve "No!{w} [p_name_short]!{w} What are you doing?"
-    ve ""
 
-# game/episode007.rpy:2354
+    ve "不要！{w} [p_name_short]！{w} 你幹什麼？"
+
+
 translate traditional_chinese ep007_vess_sex_c4f66bdc:
 
-    # "I ran my fingers through her slit, deeper than before."
-    ""
 
-# game/episode007.rpy:2356
+    "我的手指探進她的窄縫，插得比之前更深。"
+
+
 translate traditional_chinese ep007_vess_sex_4bc36503:
 
-    # "Her lips parted and I slowly edged two of my fingers inside her pussy."
-    ""
 
-# game/episode007.rpy:2357
+    "她雙脣微啓，我慢慢將兩根手指探進她的小穴。"
+
+
 translate traditional_chinese ep007_vess_sex_10dc71b3:
 
-    # "Vess threw back her head and moaned loudly."
-    ""
 
-# game/episode007.rpy:2359
+    "薇絲猛然仰頭放聲呻吟。"
+
+
 translate traditional_chinese ep007_vess_sex_407f16e2:
 
-    # "Her nails dug into my skin as I fingerfucked her, juice flowing liberally from her cunt."
-    ""
 
-# game/episode007.rpy:2360
+    "當我用手指抽插時，她的指甲深陷進我皮膚裏，愛液不斷從穴口湧出。"
+
+
 translate traditional_chinese ep007_vess_sex_aaaf8afb:
 
-    # "When I returned to her clit, everything was slippery and drenched in the girl’s pussy juice."
-    ""
 
-# game/episode007.rpy:2361
+    "當我再次撫上陰蒂時，滿手滑膩全是女孩分泌的愛液。"
+
+
 translate traditional_chinese ep007_vess_sex_c084676a:
 
-    # "She whimpered and sighed, her eyes closed, as she completely surrendered to me."
-    ""
 
-# game/episode007.rpy:2363
+    "她嗚咽着嘆息，閉眼完全臣服於我。"
+
+
 translate traditional_chinese ep007_vess_sex_f4ad0605:
 
-    # ve "Make me cum!{w} Please!{w} Make me cum!"
-    ve ""
 
-# game/episode007.rpy:2364
+    ve "讓我高潮！{w}求你了！{w}讓我高潮！"
+
+
 translate traditional_chinese ep007_vess_sex_cbaa4251:
 
-    # "Her voice was barely a whisper, but it didn’t diminish the power of her lust-filled plea."
-    ""
 
-# game/episode007.rpy:2365
+    "她的聲音輕如耳語，卻更顯這情慾滿溢的央求令人血脈賁張。"
+
+
 translate traditional_chinese ep007_vess_sex_1baed1c9:
 
-    # "My fingers worked her clit again while I stimulated her breast with my other hand."
-    ""
 
-# game/episode007.rpy:2367
+    "我重新揉搓她的陰蒂，另一隻手同時刺激她的乳房。"
+
+
 translate traditional_chinese ep007_vess_sex_171e16e7:
 
-    # "Vess was barely able to move, every muscle in her body strained in preparation for the inevitable release."
-    ""
 
-# game/episode007.rpy:2368
+    "薇絲渾身緊繃難以動彈，每塊肌肉都繃緊等待着必將降臨的釋放。"
+
+
 translate traditional_chinese ep007_vess_sex_f3200043:
 
-    # "A wealth of juice gushing over my fingers was the first indicator of her climax."
-    ""
 
-# game/episode007.rpy:2371
+    "最先宣告高潮來臨的是湧過我指間的溫熱愛液。"
+
+
 translate traditional_chinese ep007_vess_sex_ce793f6e:
 
-    # "She managed to cross her legs, locking my hand firmly against her convulsing pussy from where the orgasm spread to every part of her body."
-    ""
 
-# game/episode007.rpy:2373
+    "她雙腿交疊鎖死我的手，高潮通過震顫的陰道傳遍全身。"
+
+
 translate traditional_chinese ep007_vess_sex_a4392b50:
 
-    # "I held her while she trembled and moaned, still enraptured by her climax."
-    ""
 
-# game/episode007.rpy:2374
+    "在她高潮未褪的戰慄呻吟中，我始終緊抱着她。"
+
+
 translate traditional_chinese ep007_vess_sex_9b5b3f63:
 
-    # "It took a long while before her heartbeat returned to normal and her breathing stilled."
-    ""
 
-# game/episode007.rpy:2383
+    "過了許久她的心跳才平復，喘息也漸漸止息。"
+
+
 translate traditional_chinese ep007_thyia_sex_783f01cf:
 
-    # "She walked towards me as her bra fell to the ground."
-    ""
 
-# game/episode007.rpy:2384
+    "她的胸罩滑落在地，赤足向我走來。"
+
+
 translate traditional_chinese ep007_thyia_sex_0d74a7d4:
 
-    # "I expected her to say something, but instead she stepped in close, her breasts brushing against my chest."
-    ""
 
-# game/episode007.rpy:2385
+    "本以爲她要說什麼，她卻貼近讓雙乳輕蹭我的胸膛。"
+
+
 translate traditional_chinese ep007_thyia_sex_b0a44aa9:
 
-    # "One hand hovered towards my crotch and I responded to her touch immediately."
-    ""
 
-# game/episode007.rpy:2386
+    "她的手剛觸及我胯下，我就立即有了反應。"
+
+
 translate traditional_chinese ep007_thyia_sex_b5dab2b5:
 
-    # "She massaged my member through the fabric of my pants, her defiant eyes holding my gaze."
-    ""
 
-# game/episode007.rpy:2387
+    "她隔着褲子揉捏我的肉棒，挑逗眼神與我直直對視。"
+
+
 translate traditional_chinese ep007_thyia_sex_b5caee14:
 
-    # c "Thyia..."
-    c ""
 
-# game/episode007.rpy:2389
+    c "塞婭..."
+
+
 translate traditional_chinese ep007_thyia_sex_cfc56783:
 
-    # th "Ssssh, you know you want this."
-    th ""
 
-# game/episode007.rpy:2390
+    th "噓——你明明想要得很。"
+
+
 translate traditional_chinese ep007_thyia_sex_e4473ee9:
 
-    # th "I want this..."
-    th ""
 
-# game/episode007.rpy:2392
+    th "我想要..."
+
+
 translate traditional_chinese ep007_thyia_sex_8d88203d:
 
-    # "Thyia had already undone my pants and slowly lowered herself to the floor kissing my abdomen."
-    ""
 
-# game/episode007.rpy:2393
+    "塞婭早已解開我的褲子，沿着腹部一路吻下跪倒在地。"
+
+
 translate traditional_chinese ep007_thyia_sex_72700cc0:
 
-    # "Kneeling on the floor, Thyia looked up at me, past my proud erection."
-    ""
 
-# game/episode007.rpy:2395
+    "跪在地上的塞婭抬眼望來，視線越過我挺立的陽具。"
+
+
 translate traditional_chinese ep007_thyia_sex_dbe3fc7b:
 
-    # th "We both want this."
-    th ""
 
-# game/episode007.rpy:2397
+    th "我們彼此都渴望至極。"
+
+
 translate traditional_chinese ep007_thyia_sex_8a016ffb:
 
-    # "Before I could respond, the woman had already grabbed my cock and her tongue slid along my shaft."
-    ""
 
-# game/episode007.rpy:2398
+    "未及回應，這女人已攥住我的肉棒，溼滑的舌頭沿着棒身舔舐上來。"
+
+
 translate traditional_chinese ep007_thyia_sex_a3aa63dd:
 
-    # "I wanted to protest, call her out on this distraction and her refusal to talk to me."
-    ""
 
-# game/episode007.rpy:2400
+    "我想抗議，想揭穿她用性事逃避對話的把戲。"
+
+
 translate traditional_chinese ep007_thyia_sex_d27c58d8:
 
-    # "The feeling of her wet tongue on my hard dick and the promises it held proved too much for me and I gave in."
-    ""
 
-# game/episode007.rpy:2402
+    "但當那溼軟舌尖裹住硬挺的陽具時，其中的挑逗意味令我徹底淪陷。"
+
+
 translate traditional_chinese ep007_thyia_sex_7459fb78:
 
-    # "At my first moan, I thought I detected a glint of triumph in her eyes, or was it resignation?"
-    ""
 
-# game/episode007.rpy:2404
+    "聽到我的第一聲呻吟，她眼中閃過勝利的亮光——或者說那是順從？"
+
+
 translate traditional_chinese ep007_thyia_sex_ae88edfc:
 
-    # "I didn’t have time to think about it, because at that point she took my cock inside of her mouth."
-    ""
 
-# game/episode007.rpy:2405
+    "來不及細想，她的口腔已完全吞沒了我的肉棒。"
+
+
 translate traditional_chinese ep007_thyia_sex_c117f2da:
 
-    # "Thyia sucked eagerly, using her hands to massage the root of my shaft and my balls."
-    ""
 
-# game/episode007.rpy:2406
+    "塞婭貪婪地吮吸着，雙手揉捏着肉棒根部與卵蛋。"
+
+
 translate traditional_chinese ep007_thyia_sex_99660dd1:
 
-    # "Her tongue twirled and teased the entire length of my shaft as it disappeared deeper inside her mouth."
-    ""
 
-# game/episode007.rpy:2408
+    "隨着肉棒深入咽喉，她的舌尖在整根棒身上旋繞撩撥。"
+
+
 translate traditional_chinese ep007_thyia_sex_c17aac9c:
 
-    # "When she returned to work on my tip I shuddered and released a surge of precum."
-    ""
 
-# game/episode007.rpy:2410
+    "當重新挑弄龜頭時，我渾身顫抖着泌出大量滑液。"
+
+
 translate traditional_chinese ep007_thyia_sex_38c7c1e8:
 
-    # "She released my cock from her mouth and looked up at me grinning."
-    ""
 
-# game/episode007.rpy:2411
+    "她吐出肉棒，仰頭咧嘴笑着："
+
+
 translate traditional_chinese ep007_thyia_sex_bfd887e3:
 
-    # th "Ready to fuck me?"
-    th ""
 
-# game/episode007.rpy:2413
+    th "準備好操我了？"
+
+
 translate traditional_chinese ep007_thyia_sex_af914e47:
 
-    # "We got completely naked and I pushed her towards the makeshift workshop table."
-    ""
 
-# game/episode007.rpy:2414
+    "我們赤裸相貼，我將她推倒在臨時工作檯上。"
+
+
 translate traditional_chinese ep007_thyia_sex_6b25ed9f:
 
-    # "She arched her back and opened her legs for me."
-    ""
 
-# game/episode007.rpy:2416
+    "她反弓腰肢對我張開雙腿。"
+
+
 translate traditional_chinese ep007_thyia_sex_f19e30e7:
 
-    # th "Fuck me, [p_name_short]."
-    th ""
 
-# game/episode007.rpy:2421
+    th "操我，[p_name_short]。"
+
+
 translate traditional_chinese ep007_thyia_sex_e4fc42da:
 
-    # "I stood between her legs, admiring her firm breasts, nipples hard with excitement."
-    ""
 
-# game/episode007.rpy:2422
+    "我站在她腿間，凝視她堅挺的乳尖因興奮而硬立。"
+
+
 translate traditional_chinese ep007_thyia_sex_1df7a007:
 
-    # "My cock pushed against her entrance which was covered in her moisture."
-    ""
 
-# game/episode007.rpy:2424
+    "龜頭頂開溼淋淋的穴口時。"
+
+
 translate traditional_chinese ep007_thyia_sex_97ac780a:
 
-    # th "Please, I want you inside me!"
-    th ""
 
-# game/episode007.rpy:2425
+    th "快進來，我要你填滿我！"
+
+
 translate traditional_chinese ep007_thyia_sex_b631ddc2:
 
-    # "I pushed past her slick lips and felt her ribbed tunnel encircle my shaft."
-    ""
 
-# game/episode007.rpy:2427
+    "撐開滑膩的陰脣，皺褶甬道緊緊裹住棒身。"
+
+
 translate traditional_chinese ep007_thyia_sex_e9a210b6:
 
-    # th "Oh fuck yes!"
-    th ""
 
-# game/episode007.rpy:2428
+    th "哦太爽了！"
+
+
 translate traditional_chinese ep007_thyia_sex_eae64d43:
 
-    # "Cupping her breasts I pushed myself deeper inside her."
-    ""
 
-# game/episode007.rpy:2429
+    "我握緊她的乳球深深頂入。"
+
+
 translate traditional_chinese ep007_thyia_sex_1d55642b:
 
-    # "I squeezed and kneaded her tits, rubbing her nipples with my thumbs."
-    ""
 
-# game/episode007.rpy:2431
+    "手指揉捏着胸脯，拇指不斷摩擦挺立的乳頭。"
+
+
 translate traditional_chinese ep007_thyia_sex_15c12fd4:
 
-    # th "Oh shit, [p_name_short], keep doing that!"
-    th ""
 
-# game/episode007.rpy:2433
+    th "操，[p_name_short]，繼續別停！"
+
+
 translate traditional_chinese ep007_thyia_sex_f1e1b243:
 
-    # "Some of the tools on the table’s surface clattered on the floor as the table rocked back and forth."
-    ""
 
-# game/episode007.rpy:2434
+    "工作檯劇烈晃動着，工具叮噹散落滿地。"
+
+
 translate traditional_chinese ep007_thyia_sex_9443d281:
 
-    # "Thyia pushed herself upwards towards my body in an attempt to take even more of my girth inside her warm cunt."
-    ""
 
-# game/episode007.rpy:2436
+    "塞婭竭力向上迎合，試圖將更粗壯的棒身吞進溼熱的屄穴。"
+
+
 translate traditional_chinese ep007_thyia_sex_f073c0a9:
 
-    # "The creaking of the table got on my nerves so I lifted Thyia from it."
-    ""
 
-# game/episode007.rpy:2437
+    "桌子的嘎吱聲讓我煩死了，所以我把塞婭從桌子上抱起來。"
+
+
 translate traditional_chinese ep007_thyia_sex_3152c050:
 
-    # "She yelped in surprise and wrapped her arms around my neck."
-    ""
 
-# game/episode007.rpy:2439
+    "她驚訝地叫了一聲，用手臂摟住我的脖子。"
+
+
 translate traditional_chinese ep007_thyia_sex_5ed5c052:
 
-    # "The full weight of her body was pushing my cock to the root inside her wet slit."
-    ""
 
-# game/episode007.rpy:2440
+    "她全身的重量把我的雞巴完全推入她的溼漉漉小穴深處。"
+
+
 translate traditional_chinese ep007_thyia_sex_ade3093b:
 
-    # "Thyia bit her lip and let out a small breathless moan."
-    ""
 
-# game/episode007.rpy:2441
+    "塞婭咬住嘴脣，發出一聲小小的喘不過氣來的呻吟。"
+
+
 translate traditional_chinese ep007_thyia_sex_4922469a:
 
-    # "She relished in the quiet moment of deep penetration, keeping us both on knife’s edge."
-    ""
 
-# game/episode007.rpy:2443
+    "她享受着深深插入的安靜時刻，讓我們倆都處於刀鋒邊緣。"
+
+
 translate traditional_chinese ep007_thyia_sex_b5b69349:
 
-    # th "Fuck me harder, [p_name_short]...{w} Just give it to me."
-    th ""
 
-# game/episode007.rpy:2444
+    th "用力點幹我，[p_name_short]...{w} 快給我。"
+
+
 translate traditional_chinese ep007_thyia_sex_8e4934df:
 
-    # "Her words were barely a whisper, but they stirred me nonetheless."
-    ""
 
-# game/episode007.rpy:2446
+    "她的話幾乎就是耳語，但還是激起了我的欲望。"
+
+
 translate traditional_chinese ep007_thyia_sex_fa94bef1:
 
-    # "I lifted her from my cock and spun her around."
-    ""
 
-# game/episode007.rpy:2447
+    "我把她從我的雞巴上抱下來，讓她轉了個圈。"
+
+
 translate traditional_chinese ep007_thyia_sex_b1629340:
 
-    # "Her voluptuous ass came into view and I couldn’t resist slapping it."
-    ""
 
-# game/episode007.rpy:2449
+    "她豐滿的屁股出現在眼前，我忍不住拍了拍它。"
+
+
 translate traditional_chinese ep007_thyia_sex_fbb5b547:
 
-    # "My cock between her legs, I pushed Thyia towards the bulkhead."
-    ""
 
-# game/episode007.rpy:2451
+    "我的雞巴夾在她的雙腿之間，我把塞婭推向艙壁。"
+
+
 translate traditional_chinese ep007_thyia_sex_05dabc3e:
 
-    # "She gasped as I pushed her legs apart and drove my cock inside her pussy again."
-    ""
 
-# game/episode007.rpy:2452
+    "我分開她的雙腿，把雞巴再次塞進她的小穴，她倒抽一口氣。"
+
+
 translate traditional_chinese ep007_thyia_sex_b27740e0:
 
-    # th "Yes [p_name_short], give me that big cock of yours!"
-    th ""
 
-# game/episode007.rpy:2453
+    th "是的 [p_name_short]，把你那根大傢伙給我！"
+
+
 translate traditional_chinese ep007_thyia_sex_c96878a0:
 
-    # "Steadying herself against the wall, Thyia accepted my long and hard thrusts with pleasure."
-    ""
 
-# game/episode007.rpy:2455
+    "塞婭靠着牆穩住身體，快樂地承受着我長而硬的抽插。"
+
+
 translate traditional_chinese ep007_thyia_sex_4657a574:
 
-    # "Her thighs were smeared with her juices, mixed with my pre-cum, a sheen of sweat covering us both."
-    ""
 
-# game/episode007.rpy:2456
+    "她的大腿上沾滿了她的分泌物，混合着我的前液，一層薄汗覆蓋了我們倆。"
+
+
 translate traditional_chinese ep007_thyia_sex_3508e764:
 
-    # "We were close."
-    ""
 
-# game/episode007.rpy:2457
+    "我們快來了。"
+
+
 translate traditional_chinese ep007_thyia_sex_3baaa476:
 
-    # "I grabbed her by the hips and drove my cock to its base inside her cunt."
-    ""
 
-# game/episode007.rpy:2460
+    "我抓住她的臀部，把我的雞巴完全插入她的陰道根部。"
+
+
 translate traditional_chinese ep007_thyia_sex_20d8a75b:
 
-    # "Thyia climaxed."
-    ""
 
-# game/episode007.rpy:2461
+    "塞婭高潮了。"
+
+
 translate traditional_chinese ep007_thyia_sex_6c12d3fe:
 
-    # "She shuddered and moaned and a gush of her juices pushed past my twitching cock."
-    ""
 
-# game/episode007.rpy:2462
+    "她顫抖呻吟，一股她的愛液湧過我的抽搐雞巴。"
+
+
 translate traditional_chinese ep007_thyia_sex_aa618b9a:
 
-    # th "Oh fuck yes!{w} Oh [p_name_short]!{w} Oh [p_name_short]!"
-    th ""
 
-# game/episode007.rpy:2467
+    th "噢操是的！{w} 噢 [p_name_short]!{w} 噢 [p_name_short]!"
+
+
 translate traditional_chinese ep007_thyia_sex_c3539d26:
 
-    # "Cum burst from my cock right at that point and coated the warm flesh of her convulsing vagina."
-    ""
 
-# game/episode007.rpy:2470
+    "就在那時，精液從我的雞巴爆發出來，塗滿了她收縮的陰道溫暖肉體上。"
+
+
 translate traditional_chinese ep007_thyia_sex_46870500:
 
-    # "I held her against the bulkhead as more seed spilled inside her with big spurts."
-    ""
 
-# game/episode007.rpy:2474
+    "我把她緊貼艙壁，更多精液大量湧進她體內。"
+
+
 translate traditional_chinese ep007_thyia_sex_0d721f87:
 
-    # "Thyia’s orgasm brought me to the brink as well."
-    ""
 
-# game/episode007.rpy:2477
+    "塞婭的高潮也讓我到了邊緣。"
+
+
 translate traditional_chinese ep007_thyia_sex_52d0df63:
 
-    # "I pulled out of her convulsing vagina and cum burst from my cock all over her back."
-    ""
 
-# game/episode007.rpy:2478
+    "我從她收縮的陰道裏拔出來，精液從雞巴噴射到她整個背上。"
+
+
 translate traditional_chinese ep007_thyia_sex_8ce52a80:
 
-    # "I held her against the bulkhead as more seed spilled on her ass and lower back."
-    ""
 
-# game/episode007.rpy:2482
+    "我將她按在牆上，更多精液濺到她的屁股和下背部。"
+
+
 translate traditional_chinese ep007_thyia_sex_0d721f87_1:
 
-    # "Thyia’s orgasm brought me to the brink as well."
-    ""
 
-# game/episode007.rpy:2484
+    "塞婭的高潮也把我帶到了邊緣。"
+
+
 translate traditional_chinese ep007_thyia_sex_80d5dcbd:
 
-    # "I pulled out of her convulsing vagina, released her quivering body and pushed her to her knees."
-    ""
 
-# game/episode007.rpy:2487
+    "我從她抽搐的陰道中拔出，放下她顫抖的身體，並將她推到跪下的姿勢。"
+
+
 translate traditional_chinese ep007_thyia_sex_4925881b:
 
-    # "Cum burst from my cock all over her face."
-    ""
 
-# game/episode007.rpy:2488
+    "精液從我的陰莖中噴出，濺滿她的臉。"
+
+
 translate traditional_chinese ep007_thyia_sex_d2b5f939:
 
-    # "I held her down as more seed spilled on her face and in her open mouth."
-    ""
 
-# game/episode007.rpy:2490
+    "我按住她，更多精液濺到她的臉和張開着的嘴裡。"
+
+
 translate traditional_chinese ep007_thyia_sex_0154ef6a:
 
-    # "Thyia lowered herself to the ground and sat with her back against the wall."
-    ""
 
-# game/episode007.rpy:2492
+    "塞婭蹲到地上坐下，背靠着牆。"
+
+
 translate traditional_chinese ep007_thyia_sex_36aceafd:
 
-    # th "You made me break my rule, you bastard."
-    th ""
 
-# game/episode007.rpy:2494
+    th "你讓我打破了我的規則，你這個混蛋。"
+
+
 translate traditional_chinese ep007_thyia_sex_9b08f60a:
 
-    # th "You're making me reconsider my rule about second times, you bastard."
-    th ""
 
-# game/episode007.rpy:2495
+    th "你讓我重新考慮我關於第二次的規則，你這個混蛋。"
+
+
 translate traditional_chinese ep007_thyia_sex_0008e41d:
 
-    # c "Sorry, not sorry."
-    c ""
 
-# game/episode007.rpy:2497
+    c "抱歉，不是真抱歉。"
+
+
 translate traditional_chinese ep007_thyia_sex_3527b82e:
 
-    # th "Me neither."
-    th ""
 
-# game/episode007.rpy:2498
+    th "我也是。"
+
+
 translate traditional_chinese ep007_thyia_sex_a2ae8c46:
 
-    # th "I’m going to catch some sleep now."
-    th ""
 
-# game/episode007.rpy:2500
+    th "我現在要去睡會兒覺了。"
+
+
 translate traditional_chinese ep007_thyia_sex_e4511343:
 
-    # th "See you later, [p_name_short]."
-    th ""
 
-# game/episode007.rpy:2501
+    th "待會兒見，[p_name_short]。"
+
+
 translate traditional_chinese ep007_thyia_sex_8edc667e:
 
-    # "I felt there was much more to say, but after what we just shared, I just couldn’t."
-    ""
 
-# game/episode007.rpy:2502
+    "我覺得有更多話要說，但在我們剛剛做過之後，我就是不能。"
+
+
 translate traditional_chinese ep007_thyia_sex_3fb81ad9:
 
-    # "Next time I’d be better prepared..."
-    ""
 
-# game/episode007.rpy:2503
+    "下次我會準備得更好..."
+
+
 translate traditional_chinese ep007_thyia_sex_d9785ae0:
 
-    # c "Sleep tight, Thyia."
-    c ""
 
-# game/episode007.rpy:2512
+    c "睡個好覺，塞婭。"
+
+
 translate traditional_chinese ep007_av_sex_29dc49ea:
 
-    # "Aven smiled as I kissed her and all doubts fell away right at that moment."
-    ""
 
-# game/episode007.rpy:2513
+    "當我親吻她時，艾文微笑着，所有疑慮在那一刻都消失了。"
+
+
 translate traditional_chinese ep007_av_sex_2c9bb0a8:
 
-    # "Only she and I existed."
-    ""
 
-# game/episode007.rpy:2515
+    "只有她和我存在。"
+
+
 translate traditional_chinese ep007_av_sex_9a409cf8:
 
-    # "Aven moaned as our tongues touched and she touched my chest, her fingertips trailing my muscles."
-    ""
 
-# game/episode007.rpy:2517
+    "艾文呻吟着，當我們的舌頭接觸時，她觸摸我的胸部，她的指尖划過我的肌肉。"
+
+
 translate traditional_chinese ep007_av_sex_3b99fd8d:
 
-    # "In turn I cupped her full breasts in my hands, the fabric of her underwear preventing me from truly touching her."
-    ""
 
-# game/episode007.rpy:2518
+    "輪到我捧住她飽滿的乳房在手中，她內衣的布料阻礙了我真正接觸她。"
+
+
 translate traditional_chinese ep007_av_sex_f0064bfd:
 
-    # "Aven noticed and fiddled with the clasps of her bra behind her back."
-    ""
 
-# game/episode007.rpy:2520
+    "艾文注意到，並玩弄着背後胸罩的扣子。"
+
+
 translate traditional_chinese ep007_av_sex_3cb7ba18:
 
-    # "When the garment fell from her chest I lowered my head towards her and kissed her collarbone."
-    ""
 
-# game/episode007.rpy:2521
+    "當衣服從她胸部滑落時，我低下頭親吻她的鎖骨。"
+
+
 translate traditional_chinese ep007_av_sex_03771695:
 
-    # "She shivered as I kissed her again in the same place and massaged her bare breasts."
-    ""
 
-# game/episode007.rpy:2523
+    "當我再次親吻同一處並按摩她裸露的乳房時，她顫抖了。"
+
+
 translate traditional_chinese ep007_av_sex_2fe2137a:
 
-    # "The girl took my head in her hands and nudged me closer towards one of her boobs."
-    ""
 
-# game/episode007.rpy:2524
+    "女孩雙手捧着我的頭，把我更靠近她的一隻乳房。"
+
+
 translate traditional_chinese ep007_av_sex_af69b3c6:
 
-    # "A hard nipple brushed my lips and Aven pushed her upper body forward, craving my mouth on the sensitive skin."
-    ""
 
-# game/episode007.rpy:2526
+    "一個堅硬的乳頭擦過我的嘴脣，艾文將上身向前推，渴望我的嘴落在敏感皮膚上。"
+
+
 translate traditional_chinese ep007_av_sex_bb814939:
 
-    # "My tongue teased her nipple, making Aven exhale deeply."
-    ""
 
-# game/episode007.rpy:2527
+    "我的舌頭逗弄她的乳頭，使得艾文深深地呼出一口氣。"
+
+
 translate traditional_chinese ep007_av_sex_51609576:
 
-    # "When I finally kissed the tip of her breast, she dug her nails into my arms."
-    ""
 
-# game/episode007.rpy:2529
+    "當我終於親吻到她乳房的尖端時，她把指甲掐進了我的胳膊裏。"
+
+
 translate traditional_chinese ep007_av_sex_bf123a78:
 
-    # av "Oh, [p_name]!"
-    av ""
 
-# game/episode007.rpy:2530
+    av "哦，[p_name]!"
+
+
 translate traditional_chinese ep007_av_sex_25ee8b7b:
 
-    # av "I want you so much."
-    av ""
 
-# game/episode007.rpy:2531
+    av "我好想要你。"
+
+
 translate traditional_chinese ep007_av_sex_dfa5b75d:
 
-    # "I busied myself with her other breast, eventually alternating between them, until they were covered in film of sweat and saliva."
-    ""
 
-# game/episode007.rpy:2533
+    "我忙着玩弄她的另一隻乳房，最終輪流侍弄着，直到它們被汗水與唾液的薄膜覆蓋。"
+
+
 translate traditional_chinese ep007_av_sex_220b88a7:
 
-    # "Aven’s hands were all over me, but one hand eventually found its way between my thighs."
-    ""
 
-# game/episode007.rpy:2534
+    "艾文的雙手在我身上到處亂摸，但一隻手最終滑到了我的大腿之間。"
+
+
 translate traditional_chinese ep007_av_sex_a234fa6b:
 
-    # "My erection bulged strongly against my boxers and stirred when her fingertips ran over my underwear."
-    ""
 
-# game/episode007.rpy:2535
+    "我的勃起在內褲下強烈地鼓起，當她的指尖拂過我的內褲時，它開始蠢動。"
+
+
 translate traditional_chinese ep007_av_sex_aad10c53:
 
-    # av "Are you hard for me?"
-    av ""
 
-# game/episode007.rpy:2537
+    av "你爲我硬了嗎？"
+
+
 translate traditional_chinese ep007_av_sex_71e2b568:
 
-    # "I could only nod, because she’d pressed her hand against my boner, squeezing softly."
-    ""
 
-# game/episode007.rpy:2538
+    "我只能點頭，因爲她用手壓着我的硬雞巴，輕輕捏着。"
+
+
 translate traditional_chinese ep007_av_sex_a880dcd5:
 
-    # "She rubbed my cock slowly through the fabric of my boxers."
-    ""
 
-# game/episode007.rpy:2539
+    "她透過我內褲的布料，慢慢地摩擦着我的雞巴。"
+
+
 translate traditional_chinese ep007_av_sex_d0372955:
 
-    # "I suppressed a pang of frustration prompted by the slowness of our love-making."
-    ""
 
-# game/episode007.rpy:2540
+    "我壓抑住由於我們做愛進展緩慢引起的一陣挫敗感。"
+
+
 translate traditional_chinese ep007_av_sex_c91ef8c5:
 
-    # "I wanted to possess Aven, to lie between her soft thighs, enter her and make her mine."
-    ""
 
-# game/episode007.rpy:2541
+    "我想要佔有艾文，躺在她柔軟的大腿之間，進入她，讓她成爲我的。"
+
+
 translate traditional_chinese ep007_av_sex_5c0f7d31:
 
-    # "Evidently, Aven didn’t want to rush into things and preferred to take things slow."
-    ""
 
-# game/episode007.rpy:2543
+    "顯然，艾文不想匆忙行事，更喜歡慢慢來。"
+
+
 translate traditional_chinese ep007_av_sex_72ea3903:
 
-    # "I let one hand fall from her breasts and caressed her thigh."
-    ""
 
-# game/episode007.rpy:2544
+    "我讓一隻手離開她的乳房，輕輕撫摸她的大腿。"
+
+
 translate traditional_chinese ep007_av_sex_73f1b917:
 
-    # "The girl opened her legs slightly to reveal more of her panties."
-    ""
 
-# game/episode007.rpy:2545
+    "女孩微微張開腿，露出更多內褲。"
+
+
 translate traditional_chinese ep007_av_sex_9002b7df:
 
-    # "I continued my way, tiptoeing over the soft skin of her thigh towards her pussy."
-    ""
 
-# game/episode007.rpy:2546
+    "我繼續前進，指間掃過她大腿的柔軟皮膚，朝她的私處去。"
+
+
 translate traditional_chinese ep007_av_sex_aeeb0cd9:
 
-    # "Her hold on my cock slackened with every inch I got closer towards her mound."
-    ""
 
-# game/episode007.rpy:2548
+    "她握緊在我雞巴上的力道隨着我每接近她的陰阜一英寸而鬆緩。"
+
+
 translate traditional_chinese ep007_av_sex_e2036198:
 
-    # "When I finally pressed my fingers against her covered slit I could feel the warmth of her sex."
-    ""
 
-# game/episode007.rpy:2549
+    "當我終於把手指壓在她被覆蓋的裂縫上時，我能感覺到她私處的溫熱。"
+
+
 translate traditional_chinese ep007_av_sex_15168d68:
 
-    # "I rubbed her pussy through her panties, the fabric darkening when it became slick with her moisture."
-    ""
 
-# game/episode007.rpy:2550
+    "我透過她的內褲摩擦她的私處，布料因被她的溼液浸透而變暗。"
+
+
 translate traditional_chinese ep007_av_sex_0601a376:
 
-    # "Aven drew a ragged breath, her hand limp on the bulge of my cock."
-    ""
 
-# game/episode007.rpy:2551
+    "艾文喘着粗氣，她的手軟綿綿地搭在我的雞巴勃起上。"
+
+
 translate traditional_chinese ep007_av_sex_0d10f29e:
 
-    # "I withdrew my hand and moved my fingers towards her navel."
-    ""
 
-# game/episode007.rpy:2553
+    "我抽回手，把手指移向她的肚臍。"
+
+
 translate traditional_chinese ep007_av_sex_b610d153:
 
-    # "A frustrated noise escaped, but I soon had her on edge again when I stroked the smooth skin of her abdomen."
-    ""
 
-# game/episode007.rpy:2554
+    "她發出一聲挫敗的呻吟，但當我撫摸她腹部的光滑皮膚時，我又讓她瀕臨高潮。"
+
+
 translate traditional_chinese ep007_av_sex_5fc36dbd:
 
-    # "My fingers slipped inside her panties and I felt the warm wetness that emanated from between her legs."
-    ""
 
-# game/episode007.rpy:2555
+    "我的手指滑進了她的內褲裡面，我感覺到了從她大腿之間散發出的溫熱溼氣。"
+
+
 translate traditional_chinese ep007_av_sex_4f08556b:
 
-    # "Aven sought my lips again and kissed me furiously, as if to spur me on."
-    ""
 
-# game/episode007.rpy:2557
+    "艾文又找到我的嘴脣，瘋狂地吻我，像是要刺激我繼續。"
+
+
 translate traditional_chinese ep007_av_sex_ba66cebb:
 
-    # av "I want this so badly, [p_name_short]!"
-    av ""
 
-# game/episode007.rpy:2558
+    av "我太想要了，[p_name_short]！"
+
+
 translate traditional_chinese ep007_av_sex_b1ecef8e:
 
-    # "She started massaging my cock again and tried to get into my boxers as well."
-    ""
 
-# game/episode007.rpy:2559
+    "她又開始按摩我的雞巴，還想伸進我的內褲裏。"
+
+
 translate traditional_chinese ep007_av_sex_de53b3d8:
 
-    # "Longing for the touch of her bare fingers on my cock, I quickly wormed myself out of my underwear as Aven did the same."
-    ""
 
-# game/episode007.rpy:2561
+    "渴望她赤裸的手指摸我的雞巴，我趕緊脫掉內褲，艾文也做着同樣的事。"
+
+
 translate traditional_chinese ep007_av_sex_7f7cd0ca:
 
-    # "When she noticed me looking at her standing in all her naked splendor, she suddenly hesitated."
-    ""
 
-# game/episode007.rpy:2562
+    "她注意到我看着赤裸裸的她，突然猶豫起來。"
+
+
 translate traditional_chinese ep007_av_sex_e718268e:
 
-    # c "What, are you shy all of a sudden?"
-    c ""
 
-# game/episode007.rpy:2563
+    c "怎麼，你突然害羞了？"
+
+
 translate traditional_chinese ep007_av_sex_e81af241:
 
-    # av "Shut up!"
-    av ""
 
-# game/episode007.rpy:2564
+    av "閉嘴！"
+
+
 translate traditional_chinese ep007_av_sex_8a6b3805:
 
-    # c "Is this the same girl who flaunted her cleavage a good while back?"
-    c ""
 
-# game/episode007.rpy:2565
+    c "這是之前還炫耀乳溝的那個女孩嗎？"
+
+
 translate traditional_chinese ep007_av_sex_b0e1fdf8:
 
-    # av "I said, shut up!"
-    av ""
 
-# game/episode007.rpy:2567
+    av "我說了，閉嘴！"
+
+
 translate traditional_chinese ep007_av_sex_f8f8dd07:
 
-    # "Laughing, she pushed me back on the bed."
-    ""
 
-# game/episode007.rpy:2568
+    "她笑着把我推回牀上。"
+
+
 translate traditional_chinese ep007_av_sex_38ad1dcd:
 
-    # "I resisted a little, just for show and we wrestled, stealing kisses and trying to stay on the bed."
-    ""
 
-# game/episode007.rpy:2569
+    "我假意抵抗一下，我倆糾纏起來，偷吻着，同時還試圖保持在牀上不掉下去。"
+
+
 translate traditional_chinese ep007_av_sex_fa5b6c0e:
 
-    # av "We really need a bigger bed."
-    av ""
 
-# game/episode007.rpy:2570
+    av "我們真需要大點的牀。"
+
+
 translate traditional_chinese ep007_av_sex_aa036ba9:
 
-    # c "Agreed, a more comfortable one too."
-    c ""
 
-# game/episode007.rpy:2572
+    c "對，而且要舒服點的。"
+
+
 translate traditional_chinese ep007_av_sex_afdb3bcd:
 
-    # av "Come to think of it, this entire room is a little plain..."
-    av ""
 
-# game/episode007.rpy:2573
+    av "說起來，這整個房間太樸素了..."
+
+
 translate traditional_chinese ep007_av_sex_4d9528e2:
 
-    # c "Damn, you’ve seen me naked and now you're already planning on redecorating my personal quarters."
-    c ""
 
-# game/episode007.rpy:2574
+    c "操，你都已經看光我了，現在還計劃重新裝修我的地盤了？"
+
+
 translate traditional_chinese ep007_av_sex_e42ee09b:
 
-    # av "I repeat, shut up!"
-    av ""
 
-# game/episode007.rpy:2575
+    av "我再說一遍，閉嘴！"
+
+
 translate traditional_chinese ep007_av_sex_b859ad9f:
 
-    # c "I’ll shut you up!"
-    c ""
 
-# game/episode007.rpy:2576
+    c "看我不堵上你的嘴！"
+
+
 translate traditional_chinese ep007_av_sex_00b2eedc:
 
-    # "While I uttered those words I pressed my hand between her legs and Aven gasped."
-    ""
 
-# game/episode007.rpy:2578
+    "我一邊說着，一邊把手按在她腿間，艾文倒吸一口氣。"
+
+
 translate traditional_chinese ep007_av_sex_f893bde7:
 
-    # av "Cheating...{w} Aaah!"
-    av ""
 
-# game/episode007.rpy:2580
+    av "耍賴...{w} 啊！"
+
+
 translate traditional_chinese ep007_av_sex_20f5a459:
 
-    # "We were instantly back into the realm of desire and lust."
-    ""
 
-# game/episode007.rpy:2581
+    "我們又立刻陷入了情慾漩渦裏。"
+
+
 translate traditional_chinese ep007_av_sex_9d8e4865:
 
-    # "My fingers came back drenched in Aven’s nectar and I pressed them against her lips."
-    ""
 
-# game/episode007.rpy:2583
+    "我的手指沾滿了艾文的花蜜，我把它們按到她嘴脣上。"
+
+
 translate traditional_chinese ep007_av_sex_050a8db5:
 
-    # "Looking at me, she took both digits into her mouth and sucked the pussy juices from my fingers."
-    ""
 
-# game/episode007.rpy:2585
+    "她看着我，把我兩根手指都含進嘴裡，嘬着我指間的淫水。"
+
+
 translate traditional_chinese ep007_av_sex_8476aefd:
 
-    # "Aven had taken my dick in a tight grip and started jerking me off."
-    ""
 
-# game/episode007.rpy:2586
+    "艾文一把攥緊我的雞巴，開始給我擼。"
+
+
 translate traditional_chinese ep007_av_sex_c07e7ef9:
 
-    # "We were lying next to each other, my hand between her legs and her hand holding on to my hard cock."
-    ""
 
-# game/episode007.rpy:2588
+    "我們並排躺着，我的手在她腿間，她的手抓着我硬邦邦的雞巴。"
+
+
 translate traditional_chinese ep007_av_sex_4464e0ab:
 
-    # "We now moved in unison, she was jerking me with increasing speed, while I massaged her pussy and clit."
-    ""
 
-# game/episode007.rpy:2589
+    "我們現在同時動作，她給我打飛機速度越來越快，而我按摩她的陰道和陰蒂。"
+
+
 translate traditional_chinese ep007_av_sex_2aa1c6ae:
 
-    # av "Keep going, [p_name_short], rub my pussy!"
-    av ""
 
-# game/episode007.rpy:2590
+    av "繼續，[p_name_short]，摩擦我的陰道！"
+
+
 translate traditional_chinese ep007_av_sex_a87df7c3:
 
-    # av "That’s it, that’s it!"
-    av ""
 
-# game/episode007.rpy:2592
+    av "就是這樣，就是這樣！"
+
+
 translate traditional_chinese ep007_av_sex_1c1f640f:
 
-    # "One of Aven’s hands joined mine and she wetted her palm."
-    ""
 
-# game/episode007.rpy:2593
+    "艾文的一隻手握住我的手，然後她把她的手掌弄溼。"
+
+
 translate traditional_chinese ep007_av_sex_79abf91c:
 
-    # "She pulled the skin of my shaft back, causing some strain at the tip that felt both vaguely painful and feverishly pleasing."
-    ""
 
-# game/episode007.rpy:2595
+    "她把我的陰莖皮膚往後拉，在龜頭引起一些拉扯感，那種感覺既隱隱作痛又無比興奮。"
+
+
 translate traditional_chinese ep007_av_sex_e6c0c5eb:
 
-    # "Aven pressed the wet palm of her hand on the tip of my dick and rubbed softly."
-    ""
 
-# game/episode007.rpy:2596
+    "艾文用溼手掌按壓在我的陰莖頭上並輕輕摩擦。"
+
+
 translate traditional_chinese ep007_av_sex_391dc523:
 
-    # c "Oh Aven!{w} Fuck!"
-    c ""
 
-# game/episode007.rpy:2597
+    c "哦艾文！{w}操！"
+
+
 translate traditional_chinese ep007_av_sex_12b6da5d:
 
-    # av "Do you like that, [p_name_short]?"
-    av ""
 
-# game/episode007.rpy:2598
+    av "你喜歡那樣嗎，[p_name_short]？"
+
+
 translate traditional_chinese ep007_av_sex_1b230a0c:
 
-    # av "Are you going to cum for me?"
-    av ""
 
-# game/episode007.rpy:2599
+    av "你要爲我射了嗎？"
+
+
 translate traditional_chinese ep007_av_sex_a69c590f:
 
-    # "Precum started flowing and mixed with the pussy juice that covered her hand."
-    ""
 
-# game/episode007.rpy:2600
+    "滑液開始流出來，並與她手上覆蓋的陰道汁混合。"
+
+
 translate traditional_chinese ep007_av_sex_b31b1846:
 
-    # "Aven kept rubbing and jerked my cock with her other hand."
-    ""
 
-# game/episode007.rpy:2602
+    "艾文繼續摩擦，並用另一隻手給我打飛機。"
+
+
 translate traditional_chinese ep007_av_sex_7ed17c9c:
 
-    # "Only by sheer force of will was I able to continue my work on her slit."
-    ""
 
-# game/episode007.rpy:2603
+    "全靠意志力我才得以繼續對她的私處進行按摩。"
+
+
 translate traditional_chinese ep007_av_sex_d593615b:
 
-    # "I had inserted two fingers inside her now, stimulating her warm wet flesh."
-    ""
 
-# game/episode007.rpy:2604
+    "我現在已經插了兩根手指到她裡面，刺激着她溫暖溼潤的肉體。"
+
+
 translate traditional_chinese ep007_av_sex_425c47f3:
 
-    # av "Yes, [p_name_short], fuck me with your fingers."
-    av ""
 
-# game/episode007.rpy:2605
+    av "是的，[p_name_short]，用手指操我。"
+
+
 translate traditional_chinese ep007_av_sex_83b08721:
 
-    # av "I’m going to-{w} oh fuck!"
-    av ""
 
-# game/episode007.rpy:2606
+    av "我要-{w}哦操！"
+
+
 translate traditional_chinese ep007_av_sex_467b85da:
 
-    # av "K-keep g-going!"
-    av ""
 
-# game/episode007.rpy:2608
+    av "繼-繼-繼續！"
+
+
 translate traditional_chinese ep007_av_sex_c081b3f3:
 
-    # "Aven’s chest and cheeks were flushed and sweat was pearling on her skin."
-    ""
 
-# game/episode007.rpy:2610
+    "艾文的胸部和臉頰泛紅，汗水從她的皮膚上滲出。"
+
+
 translate traditional_chinese ep007_av_sex_3e1d49d1:
 
-    # "I pulled her closer and kissed her breast."
-    ""
 
-# game/episode007.rpy:2611
+    "我把她拉近親吻她的乳房。"
+
+
 translate traditional_chinese ep007_av_sex_368d9af2:
 
-    # "She intensified the massage of my cock, while I fingered Aven to her climax."
-    ""
 
-# game/episode007.rpy:2613
+    "她加強按摩我的雞巴的力度，而我用手指讓艾文達到高潮。"
+
+
 translate traditional_chinese ep007_av_sex_74cba423:
 
-    # av "I’m cumming!{w} I’m cumming!"
-    av ""
 
-# game/episode007.rpy:2614
+    av "我要高潮了！{w}我要高潮了！"
+
+
 translate traditional_chinese ep007_av_sex_6876b783:
 
-    # "Looking at her enraptured face, her body quivering in anticipation, I stopped holding back."
-    ""
 
-# game/episode007.rpy:2616
+    "看着她入迷的臉龐，她的身體在期待中顫抖，我不再克制。"
+
+
 translate traditional_chinese ep007_av_sex_47c046e5:
 
-    # "We gripped each other firmly as my cock spurted cum and Aven’s convulsing pussy released a stream of juice."
-    ""
 
-# game/episode007.rpy:2619
+    "我們緊緊抓住彼此，當我的雞巴噴出精液而艾文抽搐的陰道釋放出一股汁水。"
+
+
 translate traditional_chinese ep007_av_sex_9948f87b:
 
-    # av "Oh fuck [p_name_short]!{w} Yes!{w} Yes!"
-    av ""
 
-# game/episode007.rpy:2622
+    av "哦操[p_name_short]！{w}是！{w}是！"
+
+
 translate traditional_chinese ep007_av_sex_898ace8f:
 
-    # "Aven held onto my twitching member as cum streamed on her hands."
-    ""
 
-# game/episode007.rpy:2624
+    "艾文握住我抽動的器官，當精液流到她的手上。"
+
+
 translate traditional_chinese ep007_av_sex_05603fd7:
 
-    # "I still had my hand between her legs, locked in place by her thighs."
-    ""
 
-# game/episode007.rpy:2625
+    "我的手還夾在她的兩腿之間，被她的雙腿固定住了。"
+
+
 translate traditional_chinese ep007_av_sex_8f8e98e5:
 
-    # "Locked in an embrace, we orgasmed together."
-    ""
 
-# game/episode007.rpy:2627
+    "我們緊緊相擁，一起達到高潮。"
+
+
 translate traditional_chinese ep007_av_sex_2feb8e6e:
 
-    # "Completely spent, Aven rested her head on my back."
-    ""
 
-# game/episode007.rpy:2628
+    "艾文精疲力盡地把頭靠在我的背上。"
+
+
 translate traditional_chinese ep007_av_sex_db18b8b1:
 
-    # "She sighed and closed her eyes."
-    ""
 
-# game/episode007.rpy:2629
+    "她嘆了口氣，閉上眼睛。"
+
+
 translate traditional_chinese ep007_av_sex_bfd9f0c2:
 
-    # "We didn’t speak, but somehow everything felt right."
-    ""
 
-# game/episode007.rpy:2631
+    "我們沒有說話，但不知怎麼的，一切都感覺正好。"
+
+
 translate traditional_chinese ep007_av_sex_0e87b008:
 
-    # "I listened to the slowing of her breathing until I was sure she was sound asleep."
-    ""
 
-# game/episode007.rpy:2632
+    "我聽着她的呼吸放緩，直到確信她已熟睡。"
+
+
 translate traditional_chinese ep007_av_sex_41da42e8:
 
-    # "Only then did I close my eyes and fell asleep with my newfound love next to me."
-    ""
+
+    "直到那時我才閉上眼睛，在我的新愛身邊入睡。"
 
 translate traditional_chinese strings:
 
-    # game/episode007.rpy:38
+
     old "Vulpes Velox, Settlement"
-    new ""
+    new "迅狐星，定居點"
 
-    # game/episode007.rpy:158
+
     old "Unknown, En route to Almagest"
-    new ""
+    new "未知，前往文典星途中"
 
-    # game/episode007.rpy:532
+
     old "Yalvai"
-    new ""
+    new "亞爾瓦族"
 
-    # game/episode007.rpy:532
+
     old "A parasitic species that grants its host, male or female, special sexual powers in return for laying and fertilizing eggs inside a host. The Yalvai parasites favor human hosts and are often used in spectacular sexual rituals."
-    new ""
+    new "一種寄生物種，賦予其宿主（無論男女）特殊的力量，作爲在宿主體內產卵並受精的回報。亞爾瓦族寄生蟲偏愛人類宿主，常用於壯觀的性儀式中。"
 
-    # game/episode007.rpy:542
+
     old "Watch the ceremony"
-    new ""
+    new "觀看儀式"
 
-    # game/episode007.rpy:813
+
     old "Visit Nadya"
-    new ""
+    new "拜訪娜迪亞"
 
-    # game/episode007.rpy:813
+
     old "Visit Aven"
-    new ""
+    new "拜訪艾文"
 
-    # game/episode007.rpy:935
+
     old "Compliment her"
-    new ""
+    new "稱讚她"
 
-    # game/episode007.rpy:935
+
     old "Be rude"
-    new ""
+    new "粗魯"
 
-    # game/episode007.rpy:935
+
     old "Ask her to come"
-    new ""
+    new "請她過來"
 
-    # game/episode007.rpy:1029
+
     old "Kiss her again"
-    new ""
+    new "再次吻她"
 
-    # game/episode007.rpy:1029
+
     old "Let go"
-    new ""
+    new "放手"
 
-    # game/episode007.rpy:1118
+
     old "Look near the bed"
-    new ""
+    new "看牀邊"
 
-    # game/episode007.rpy:1118
+
     old "Look outside"
-    new ""
+    new "看外面"
 
-    # game/episode007.rpy:1118
+
     old "Look at the chair"
-    new ""
+    new "看椅子"
 
-    # game/episode007.rpy:1118
+
     old "Look at the desk"
-    new ""
+    new "看桌子"
 
-    # game/episode007.rpy:1118
+
     old "Look inside bathroom"
-    new ""
+    new "看浴室裡面"
 
-    # game/episode007.rpy:1118
+
     old "Look under the couch"
-    new ""
+    new "看看沙發下面"
 
-    # game/episode007.rpy:1183
-    old "Erigone"
-    new ""
 
-    # game/episode007.rpy:1183
     old "Location: Hyginus Chain"
-    new ""
+    new "位置：海吉努斯帶"
 
-    # game/episode007.rpy:1183
+
     old "Home planet of the Acarhyn, the warrior race that kidnapped Eva. Erigone is supposedly a microquasar and a very dangerous place indeed."
-    new ""
+    new "阿卡海茵人的家鄉星球，即擄走伊娃的那個戰士種族。厄裏戈涅星據稱是一個微類星體，確實是一個非常危險的地方。"
 
-    # game/episode007.rpy:1453
+
     old "Hold her close"
-    new ""
+    new "緊緊抱住她"
 
-    # game/episode007.rpy:1453
+
     old "Don't give in"
-    new ""
+    new "不要屈服"
 
-    # game/episode007.rpy:1521
+
     old "Profess your love"
-    new ""
+    new "表達你的愛意"
 
-    # game/episode007.rpy:1521
+
     old "Everything changed"
-    new ""
+    new "一切都變了"
 
-    # game/episode007.rpy:1544
+
     old "Defend"
-    new ""
+    new "防禦"
 
-    # game/episode007.rpy:1582
+
     old "Tell her how it is"
-    new ""
+    new "直說吧"
 
-    # game/episode007.rpy:1691
+
     old "Be confident"
-    new ""
+    new "自信點"
 
-    # game/episode007.rpy:1711
+
     old "Be stern"
-    new ""
+    new "嚴厲點"
 
-    # game/episode007.rpy:1720
+
     old "Pressure her"
-    new ""
+    new "給她施壓"
 
-    # game/episode007.rpy:1720
+
     old "Give her space"
-    new ""
+    new "給她空間"
 
-    # game/episode007.rpy:1793
+
     old "Offer her a drink"
-    new ""
+    new "提出喝一杯"
 
-    # game/episode007.rpy:1793
+
     old "Say good night"
-    new ""
+    new "說晚安"
 
-    # game/episode007.rpy:1896
+
     old "Welcome her"
-    new ""
+    new "歡迎她"
 
-    # game/episode007.rpy:1949
+
     old "Touch her breasts"
-    new ""
+    new "撫摸她的乳房"
 
-    # game/episode007.rpy:2032
+
     old "Persuade her to talk"
-    new ""
+    new "說服她談一談"
 
-    # game/episode007.rpy:2032
+
     old "Respect her privacy"
-    new ""
+    new "尊重她的隱私"
 
-    # game/episode007.rpy:2045
+
     old "Talk about your feelings"
-    new ""
-
+    new "談談你的感受"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
+
 
 translate traditional_chinese strings:
 
-    # game/encyclopaedia_screens.rpy:113
+
     old "Filters"
-    new ""
+    new "篩選器"
 
-    # game/encyclopaedia_screens.rpy:119
+
     old "All"
-    new ""
+    new "全部"
 
-    # game/encyclopaedia_screens.rpy:158
+
     old "Codex: {0}"
-    new ""
-
+    new "百科: {0}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

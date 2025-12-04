@@ -1,120 +1,160 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
+
+
+translate traditional_chinese python:
+    gui.text_font = "fonts/NotoSerifCJKsc-Regular.otf"
+    gui.choice_button_text_font = "fonts/NotoSerifCJKsc-Regular.otf"
+    gui.name_text_font = "fonts/NotoSansCJKsc-Medium.otf"
+    gui.name_text_font_italic = "fonts/NotoSansCJKsc-Medium.otf"
+    gui.interface_text_font = "fonts/NotoSansCJKsc-Bold.otf"
+    gui.interface_text_font_italic = "fonts/NotoSansCJKsc-Bold.otf"
+    gui.button_text_font = "fonts/NotoSansCJKsc-Bold.otf"
 
 translate traditional_chinese strings:
 
-    # game/script.rpy:29
+
     old "Taboo Edition disabled"
-    new ""
+    new "禁忌版已禁用"
 
-    # game/script.rpy:31
+
     old "Taboo Edition enabled"
-    new ""
+    new "禁忌版已啓用"
 
-    # game/script.rpy:51
+
     old "CODEX UPDATED"
-    new ""
+    new "百科已更新"
 
-    # game/script.rpy:129
+
     old "ACHIEVEMENT UNLOCKED"
-    new ""
+    new "成就已解鎖"
 
-    # game/script.rpy:197
+
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new ""
+    new "在屏幕鍵盤上按 {i}\"Enter\"{/i} 來確認"
 
-    # game/script.rpy:201
+
     old "Confirm"
-    new ""
+    new "確認"
 
-    # game/script.rpy:244
+
     old "Please select the Season 1 save you'd like to load:"
-    new ""
+    new "請選擇你想載入的第一季存檔："
 
-    # game/script.rpy:265
+
     old "Exit"
-    new ""
+    new "退出"
 
-    # game/script.rpy:376
+
+    old "THANK YOU"
+    new "謝謝您"
+
+
+    old "A big thank you to my top tier backers, you rock!"
+    new "非常感謝我的頂級支持者，你們太棒了！"
+
+
     old "No previous season data found"
-    new ""
+    new "未找到前一季數據"
 
-    # game/script.rpy:381
+
     old "Please complete the previous season of the game before continuing with this version and make sure a Season save file is present in the saves directory."
-    new ""
+    new "在繼續這個版本之前，請先完成遊戲的上一季，並確保存檔目錄中有季存檔文件。"
 
-    # game/script.rpy:385
+
     old "Consult the game manual or {a=https://perverteer.com/faq}the FAQ section{/a} for more information."
-    new ""
+    new "查閱遊戲手冊或 {a=https://perverteer.com/faq}FAQ 部分{/a} 獲取更多信息。"
 
-    # game/script.rpy:389
+
     old "Quit"
-    new ""
+    new "退出"
 
-    # game/script.rpy:423
+
     old "Story, artwork and development"
-    new ""
+    new "故事、美術和開發"
 
-    # game/script.rpy:423
+
     old "Perverteer"
-    new ""
+    new "Perverteer"
 
-    # game/script.rpy:423
+
     old "Animations"
-    new ""
+    new "動畫"
 
-    # game/script.rpy:423
+
     old "Alorth"
-    new ""
+    new "Alorth"
 
-    # game/script.rpy:423
+
     old "Proofreading"
-    new ""
+    new "校對"
 
-    # game/script.rpy:423
+
     old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
-    new ""
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
 
-    # game/script.rpy:423
+
     old "Testing"
-    new ""
+    new "測試"
 
-    # game/script.rpy:423
+
     old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new ""
+    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
 
-    # game/script.rpy:423
+
     old "Translation"
-    new ""
+    new "翻譯"
 
-    # game/script.rpy:423
+
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}"
-    new ""
+    new "Grubb {i}葡萄牙語){/i}, MyPrettyWolfy {i}俄語){/i}, Freeman {i}波蘭語){/i}, Frank Rosario {i}意大利語){/i}, Juan Manuel and Kabezon {i}(西班牙語){/i}"
 
-    # game/script.rpy:423
+
     old "Special thanks to"
-    new ""
+    new "特別感謝"
 
-    # game/script.rpy:423
+
     old "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
-    new ""
+    new "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
 
-    # game/script.rpy:423
+
     old "Very special thanks to"
-    new ""
+    new "非常特別感謝"
 
-    # game/script.rpy:423
+
     old "All loyal patrons who generously supported the development of this project."
-    new ""
+    new "所有慷慨支持本項目開發的忠實贊助者。"
 
-    # game/script.rpy:538
+
     old "Unread"
-    new ""
+    new "未讀"
 
-    # game/script.rpy:541
+
     old "What is your name?"
-    new ""
+    new "你叫什麼名字？"
 
-    # game/script.rpy:544
+
     old "What is your nickname?"
-    new ""
+    new "你的暱稱是什麼？"
 
+
+translate traditional_chinese strings:
+
+
+    old "Camran"
+    new "卡姆蘭"
+
+
+    old "Cam"
+    new "卡姆"
+
+
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new "{=location_subheading}位置:{/=location_subheading}\n[location]"
+
+
+
+translate traditional_chinese strings:
+
+
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5166 +1,5146 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode001.rpy:29
+
+
 translate traditional_chinese episode001_51433be8:
 
-    # centered "{=chapter_heading}EPISODE 1{/=chapter_heading}"
-    centered ""
 
-# game/episode001.rpy:34
+    centered "{=chapter_heading}第1集{/=chapter_heading}"
+
+
 translate traditional_chinese episode001_07cfefb1:
 
-    # "Space is a vast, cold place..."
-    ""
 
-# game/episode001.rpy:35
+    "太空是一個廣闊、寒冷的地方..."
+
+
 translate traditional_chinese episode001_e08890e4:
 
-    # "Space is a fucking lonely place..."
-    ""
 
-# game/episode001.rpy:39
+    "太空是個非常孤獨的地方..."
+
+
 translate traditional_chinese episode001_052ee927:
 
-    # "Especially when you're floating around in a vac-suit with just one bottle of oxygen left."
-    ""
 
-# game/episode001.rpy:40
+    "特別是當你漂浮而只剩一瓶氧氣在真空服裏時。"
+
+
 translate traditional_chinese episode001_533acf74:
 
-    # "Yeah, you're probably wondering how the fuck that happened."
-    ""
 
-# game/episode001.rpy:41
+    "是啊，你他媽可能在琢磨這到底是怎麼發生的。"
+
+
 translate traditional_chinese episode001_29be7847:
 
-    # "You know what? I'll tell you."
-    ""
 
-# game/episode001.rpy:43
+    "你知道嗎？我告訴你。"
+
+
 translate traditional_chinese episode001_ee326539:
 
-    # "It's not that I've got something better to do, besides using up all my remaining air."
-    ""
 
-# game/episode001.rpy:45
+    "不是說我有更好的事做，除了用光我剩下的空氣。"
+
+
 translate traditional_chinese episode001_f82b8ea4:
 
-    # "It all started when I was having some fun on one of the moons of Kepler XIV..."
-    ""
 
-# game/episode001.rpy:47
+    "一切始於我在開普勒14號星的一個衛星上玩樂時..."
+
+
 translate traditional_chinese episode001_9ca4c74a:
 
-    # "No wait. I should start properly."
-    ""
 
-# game/episode001.rpy:48
+    "不對等等。我應該從開始講起。"
+
+
 translate traditional_chinese episode001_00d70b0a:
 
-    # "At the beginning."
-    ""
 
-# game/episode001.rpy:51
+    "從頭開始。"
+
+
 translate traditional_chinese episode001_8a77b008:
 
-    # "My name is [p_name] Agust Valenmann de Lonval, or just [p_name_short] for those who know me a little better."
-    ""
 
-# game/episode001.rpy:52
+    "我叫[p_name]·阿古斯特·瓦倫曼·德·隆瓦爾，或者對稍微了解我的人來說，就叫[p_name_short]。"
+
+
 translate traditional_chinese episode001_b3434d3e:
 
-    # "I come from a long line of galactic nobility. Not that it's worth a damn, but having a title always impresses the ladies."
-    ""
 
-# game/episode001.rpy:54
+    "我出身於一個長久以來的星際貴族世家。不過這不值什麼，但有個頭銜總能讓女士們印象深刻。"
+
+
 translate traditional_chinese episode001_cdfd7cfd:
 
-    # "Until the tender age of sixteen I lived with my parents and my twin sisters in a mansion on Tuolovi, a small green planet orbiting Typhon - once poetically called HD 10180 b."
-    ""
 
-# game/episode001.rpy:56
+    "直到十六歲的天真年齡，我和父母及雙胞胎妹妹住在一所大宅子裡，那是在託洛維星上，一個繞着泰豐星旋轉的小綠行星——曾詩意地被稱爲HD 10180 b。"
+
+
 translate traditional_chinese episode001_230ff589:
 
-    # "Until the tender age of sixteen I lived with my parents in a mansion on Tuolovi, a small green planet orbiting Typhon - once poetically called HD 10180 b."
-    ""
 
-# game/episode001.rpy:67
+    "直到十六歲的天真年齡，我和父母住在一所大宅子裡，那是在託洛維星上，一個繞着泰豐星旋轉的小綠行星——曾詩意地被稱爲HD 10180 b。"
+
+
 translate traditional_chinese episode001_c1e63a41:
 
-    # "The mansion was what you would call ‘grand’, a vision of what an 18th century European rococo palace should look like in the modern age."
-    ""
 
-# game/episode001.rpy:68
+    "那座大宅子，你會稱之爲『宏偉』，是18世紀歐洲洛可可式的宮殿在現代時代應該是什麼樣子的一個願景。"
+
+
 translate traditional_chinese episode001_ed821707:
 
-    # "Lots of synthetic marble, curly gilded ornaments and far too many rooms."
-    ""
 
-# game/episode001.rpy:69
+    "大量的人造大理石，捲曲鍍金的裝飾，還有非常多的房間。"
+
+
 translate traditional_chinese episode001_6b18641c:
 
-    # "A mediocre architect’s wet dream."
-    ""
 
-# game/episode001.rpy:70
+    "簡直是一個平庸建築師的性幻想。"
+
+
 translate traditional_chinese episode001_595cae12:
 
-    # "Ours wasn’t the largest house on Tuolovi, much to my father’s ire, but that’s what you get for wanting to live on a world for people with boatloads of money."
-    ""
 
-# game/episode001.rpy:72
+    "我們家不是託洛維星上最大的房子，這讓我父親很憤怒，但那就是你想生活在爲有太多錢的人準備的世界上的後果。"
+
+
 translate traditional_chinese episode001_00352151:
 
-    # "So, my father: Agust Algerone Arlington Valenmann de Lonval, wealthy bigwig of the trading and manufacturing company VLCo."
-    ""
 
-# game/episode001.rpy:106
+    "所以，我父親：阿古斯特·阿爾傑農·阿靈頓·瓦倫曼·德·隆瓦爾，VLCo貿易和製造公司的富有大人物。"
+
+
 translate traditional_chinese episode001_7e81d0e2:
 
-    # "The company has been in the family for ages, a successful venture, passing from father to son."
-    ""
 
-# game/episode001.rpy:107
+    "這家公司在我們家族已經傳了好幾代，是個挺成功的營生，總是從老子傳給兒子。"
+
+
 translate traditional_chinese episode001_3f485af3:
 
-    # "The money really started flowing in when Agust fully took over from my granddad."
-    ""
 
-# game/episode001.rpy:108
+    "錢真是從阿古斯特完全接手我爺爺的位置後才開始滾滾而來的。"
+
+
 translate traditional_chinese episode001_201ac9e5:
 
-    # "There are rumors about that money though..."
-    ""
 
-# game/episode001.rpy:109
+    "不過關於那筆錢也有些閒話..."
+
+
 translate traditional_chinese episode001_893eb5d1:
 
-    # "Let’s just say the incarnation of VLCo. under the guidance of A. A. A. Valenmann de Lonval likes to operate in the morally grey areas of intergalactic trade."
-    ""
 
-# game/episode001.rpy:110
+    "就這麼說吧，在A. A. A. 瓦倫曼·德·隆瓦爾的領導下，VLCo就是喜歡在星際貿易的道德灰色地帶裏搞事情。"
+
+
 translate traditional_chinese episode001_0ccb22fb:
 
-    # "In his role as fruitful entrepreneur, my father married a pop singer when he was really young."
-    ""
 
-# game/episode001.rpy:111
+    "作爲個挺能生財的企業家，我父親在特年輕的時候娶了個流行歌手。"
+
+
 translate traditional_chinese episode001_1500b3b1:
 
-    # "I guess everybody does stupid things during that time boys think more with their dicks than anything else..."
-    ""
 
-# game/episode001.rpy:113
+    "我猜誰都會在那個時間段幹蠢事，那個時間段男生要更習慣於用他們的雞巴思考而不是腦袋..."
+
+
 translate traditional_chinese episode001_3ebe9448:
 
-    # "Anyway, that pop singer was my mother Yve."
-    ""
 
-# game/episode001.rpy:114
+    "總之呢，那個流行歌手就是我母親伊芙。"
+
+
 translate traditional_chinese episode001_1eb1eeb5:
 
-    # "She wasn't all that talented as an artist."
-    ""
 
-# game/episode001.rpy:115
+    "她當藝人其實沒什麼真本事。"
+
+
 translate traditional_chinese episode001_ec6a2f18:
 
-    # "Not like Maria Callas, Ella Fitzgerald or even Britney Spears in her post-human period."
-    ""
 
-# game/episode001.rpy:116
+    "比不了瑪麗亞·卡拉斯、艾拉·菲茨傑拉德，就連布蘭妮·斯皮爾斯在後人類時期也比她強。"
+
+
 translate traditional_chinese episode001_5ab0d4ca:
 
-    # "But Mom had a small hit back in her heydays and her share of fans, most of whom shared her bed sooner or later."
-    ""
 
-# game/episode001.rpy:117
+    "不過老媽在風光日子裡也有過一首小熱門，吸引了一票粉絲，這些人多半遲早都跟她滾過牀單。"
+
+
 translate traditional_chinese episode001_6c4a6884:
 
-    # "I guess wealth also has its share of devotees, so my father never came home to an empty bed."
-    ""
 
-# game/episode001.rpy:118
+    "我想有錢總會有人往上貼，所以我父親回家從來沒空過牀。"
+
+
 translate traditional_chinese episode001_afe4cf59:
 
-    # "Yve was never in it after we were born, that’s for sure."
-    ""
 
-# game/episode001.rpy:140
+    "伊芙在我們出生後肯定就沒再摻和這事了。"
+
+
 translate traditional_chinese episode001_484d7133:
 
-    # "Calling my Mom and Dad's marriage loveless is an understatement."
-    ""
 
-# game/episode001.rpy:142
+    "說我父母的婚姻沒愛情都是客氣話了。"
+
+
 translate traditional_chinese episode001_abf2f251:
 
-    # "But my sisters and I were the product of it, so I guess it wasn't all bad."
-    ""
 
-# game/episode001.rpy:143
+    "但我和幾個妹妹好歹是這樁婚姻的產物，所以我覺得也不是全糟心。"
+
+
 translate traditional_chinese episode001_2c088d61:
 
-    # "I was Mom and Dad’s first child and my twin sisters soon followed."
-    ""
 
-# game/episode001.rpy:144
+    "我是父母的頭一胎，我那倆雙胞胎妹妹沒多久也跟着出生了。"
+
+
 translate traditional_chinese episode001_391951c0:
 
-    # "They’re twins, but Eva and Lilly couldn’t be more different."
-    ""
 
-# game/episode001.rpy:146
+    "她倆是雙胞胎，可伊娃和莉莉簡直是天差地別。"
+
+
 translate traditional_chinese episode001_5bd04a7d:
 
-    # "But I was the product of it, so I guess it wasn't all bad."
-    ""
 
-# game/episode001.rpy:147
+    "但我是這事的產物，所以我覺得也不是全糟心。"
+
+
 translate traditional_chinese episode001_9af7dc14:
 
-    # "I was Mom and Dad’s only child, but that’s not to say I was lonely or anything."
-    ""
 
-# game/episode001.rpy:148
+    "我是父母唯一的娃，但倒不是說我就多孤單什麼的。"
+
+
 translate traditional_chinese episode001_4f0cc525:
 
-    # "Our family made use of an extensive staff, some of whom had families of their own living on the grounds of the estate."
-    ""
 
-# game/episode001.rpy:149
+    "我們家僱了一大幫子傭人，有些人的家屬也住在莊園地盤上。"
+
+
 translate traditional_chinese episode001_fa124a4a:
 
-    # "Eva, Lilly and Aven, the daughters of the cook, gardener and maid respectively, were the children I spent almost my entire childhood with."
-    ""
 
-# game/episode001.rpy:151
+    "伊娃、莉莉和艾文，分別是廚子、園丁和女傭的女兒，她們是我從小到大幾乎整個童年混在一起的玩伴兒。"
+
+
 translate traditional_chinese episode001_6c02330f:
 
-    # "Aven was the eldest."
-    ""
 
-# game/episode001.rpy:152
+    "艾文是年紀最大的。"
+
+
 translate traditional_chinese episode001_07304d30:
 
-    # "We were the best of friends, always together, doing stupid shit."
-    ""
 
-# game/episode001.rpy:153
+    "我們是最好的朋友，總在一起，做些蠢事。"
+
+
 translate traditional_chinese episode001_c12a69f8:
 
-    # "That was until our family friend, Nadya, left with her without any notice."
-    ""
 
-# game/episode001.rpy:154
+    "那一直持續到我們的家庭朋友娜迪亞，和艾文一起不告而別。"
+
+
 translate traditional_chinese episode001_9aedb519:
 
-    # "And suddenly, none of the adults talked about Nadya and Aven anymore."
-    ""
 
-# game/episode001.rpy:155
+    "突然之間，大人們不再談論娜迪亞和艾文了。"
+
+
 translate traditional_chinese episode001_9f9a24b6:
 
-    # "After a a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
-    ""
 
-# game/episode001.rpy:169
+    "在一段漫長的悲傷時期後，伊娃和莉莉開始填補艾文突然離開後留下的巨大空缺。"
+
+
 translate traditional_chinese episode001_2896752a:
 
-    # "Eva is what you call a kind soul."
-    ""
 
-# game/episode001.rpy:170
+    "伊娃就是所謂的好心人。"
+
+
 translate traditional_chinese episode001_fbb3a8f6:
 
-    # "Not that she’s soft or anything, she can hold her own in a fight, but she’s so open and understanding."
-    ""
 
-# game/episode001.rpy:171
+    "不是說她軟弱之類的，她在打架時能保護自己，但她非常開朗和理解。"
+
+
 translate traditional_chinese episode001_411ebd34:
 
-    # "I don’t think there’s anybody who didn’t like her back on Tuolovi."
-    ""
 
-# game/episode001.rpy:173
+    "我認爲在託洛維星上沒有人不喜歡她。"
+
+
 translate traditional_chinese episode001_2cc5b7e3:
 
-    # "Eva and I were often mistaken for twins, because we were always playing together when we were younger."
-    ""
 
-# game/episode001.rpy:196
+    "伊娃和我經常被誤以爲是雙胞胎，因爲我們小時候總一起玩。"
+
+
 translate traditional_chinese episode001_b1ff8fc0:
 
-    # "Now Lilly is a different story."
-    ""
 
-# game/episode001.rpy:197
+    "現在莉莉是另一回事了。"
+
+
 translate traditional_chinese episode001_92d3e177:
 
-    # "People often say that her fiery hair matches her volatile character and they’re right."
-    ""
 
-# game/episode001.rpy:198
+    "人們常說她的火紅頭髮配她那易變的性格，他們是正確的。"
+
+
 translate traditional_chinese episode001_70cee5ae:
 
-    # "I would go even further and say she’s a bitch, or was a bitch..."
-    ""
 
-# game/episode001.rpy:199
+    "我甚至會說她是個賤人，或者說曾經是個賤人..."
+
+
 translate traditional_chinese episode001_8bdd5ca4:
 
-    # "I don’t know."
-    ""
 
-# game/episode001.rpy:200
+    "我不知道。"
+
+
 translate traditional_chinese episode001_a93fc284:
 
-    # "Let’s just say Lilly and I have a complicated relationship."
-    ""
 
-# game/episode001.rpy:202
+    "只能說莉莉和我關係複雜。"
+
+
 translate traditional_chinese episode001_28c76578:
 
-    # "The fact that mother and father mostly doted on her, the youngest of us three, while ignoring us mostly, didn't help at all."
-    ""
 
-# game/episode001.rpy:203
+    "事實是母親和父親大多偏愛她，我們三個中最小的那個，而大多忽略了我們，這完全沒有幫助。"
+
+
 translate traditional_chinese episode001_3b90b3cb:
 
-    # "All the positive attention Lilly got from Agust and Yve didn’t change the fact that she, like me and Eva, was sent to the Terran Galactic Naval Academy in Alpha Centauri at the age of sixteen."
-    ""
 
-# game/episode001.rpy:205
+    "莉莉從阿古斯特和伊芙那裡得到的全部正面關注並沒有改變一個事實，那就是她，和我以及伊娃一樣，在十六歲時被送到了位於半人馬座α星的人族星系艦隊學院。"
+
+
 translate traditional_chinese episode001_c99fe4c8:
 
-    # "The fact that her father mostly doted on her didn’t help at all."
-    ""
 
-# game/episode001.rpy:206
+    "事實是她的父親大多偏愛她，這完全沒有幫助。"
+
+
 translate traditional_chinese episode001_8b19fdfa:
 
-    # "All the positive attention Lilly got from her father didn’t change the fact that she, like me and Eva, was sent to the Terran Galactic Naval Academy near Alpha Centauri at the age of sixteen."
-    ""
 
-# game/episode001.rpy:229
+    "莉莉從她父親那裡得到的全部正面關注並沒有改變一個事實，那就是她，和我以及伊娃一樣，在十六歲時被送到了靠近半人馬座α星的人族星系艦隊學院。"
+
+
 translate traditional_chinese episode001_0212d33a:
 
-    # "I was the first to go. Eva and Lilly followed a year later."
-    ""
 
-# game/episode001.rpy:230
+    "我是第一個去的。伊娃和莉莉一年後也去了。"
+
+
 translate traditional_chinese episode001_902a4256:
 
-    # "Due to some unfortunate circumstances, which might have involved insulting a senior officer, I was forced to repeat the first year."
-    ""
 
-# game/episode001.rpy:232
+    "由於一些不幸的情況，可能涉及侮辱了一名高級軍官，我被迫重讀一年級。"
+
+
 translate traditional_chinese episode001_c33df8be:
 
-    # "I actually didn’t mind, because I got to be with my sisters again."
-    ""
 
-# game/episode001.rpy:234
+    "我倒是不介意，因爲又能跟妹妹們在一塊兒了。"
+
+
 translate traditional_chinese episode001_519620cb:
 
-    # "I actually didn’t mind, because I got to be with my friends again."
-    ""
 
-# game/episode001.rpy:235
+    "我倒是不介意，因爲又能跟朋友們在一塊兒了。"
+
+
 translate traditional_chinese episode001_a9cd48e6:
 
-    # "We were still the youngest at the academy, as most students enroll at age eighteen."
-    ""
 
-# game/episode001.rpy:236
+    "我們依然是學院裡最年輕的，因爲大部分學生都是十八歲才入學。"
+
+
 translate traditional_chinese episode001_4a6317c7:
 
-    # "But Agust and Yve made it very clear to us that they were very eager to see us gone as soon as legally possible."
-    ""
 
-# game/episode001.rpy:237
+    "但阿古斯特和伊芙明明白白地表示，他們巴不得我們一滿法定年齡就滾蛋。"
+
+
 translate traditional_chinese episode001_dac7c467:
 
-    # "I was told naval academy would teach me some much needed discipline, but I’m not sure what the excuse was in Eva and Lilly’s case."
-    ""
 
-# game/episode001.rpy:238
+    "人家說艦隊學院能教點我亟需的規矩，可不知道伊娃和莉莉是什麼原因。"
+
+
 translate traditional_chinese episode001_1adb4a83:
 
-    # "At any rate, we all weren’t very happy at the academy."
-    ""
 
-# game/episode001.rpy:240
+    "總之，我們在學院裡都不怎麼高興。"
+
+
 translate traditional_chinese episode001_8f8dcd7d:
 
-    # "Eva originally dreamed of going to university to become a scientist and Lilly probably just wanted to stay on Tuolovi with Mummy and Daddy and annoy the living hell out of people."
-    ""
 
-# game/episode001.rpy:242
+    "伊娃原本想上大學當科學家，而莉莉大概就只想待在託洛維星跟父母親膩歪，到處煩人。"
+
+
 translate traditional_chinese episode001_426a3bef:
 
-    # "Eva originally dreamed of going to university to become a scientist and Lilly probably just wanted to stay on Tuolovi with her daddy and annoy the living hell out of people."
-    ""
 
-# game/episode001.rpy:253
+    "伊娃原本想上大學當科學家，而莉莉大概就只想待在託洛維星跟她父親膩歪，到處煩人。"
+
+
 translate traditional_chinese episode001_4f7c0e41:
 
-    # "After two years of training, the Terran Galactic Navy traditionally sends its fresh recruits on a training expedition."
-    ""
 
-# game/episode001.rpy:254
+    "兩年訓練後，人族星系艦隊一向會把新兵送去實戰訓練。"
+
+
 translate traditional_chinese episode001_a2295d60:
 
-    # "Think of it as summer camp, but with heavy weapons training."
-    ""
 
-# game/episode001.rpy:255
+    "就當是夏令營，不過帶點重武器訓練。"
+
+
 translate traditional_chinese episode001_6736d333:
 
-    # "We were flown by the Battle Cruiser TGN Ypotryll to a dreary moon in a system neighboring the academy to do some humanitarian field work."
-    ""
 
-# game/episode001.rpy:256
+    "我們是坐人族星系艦隊\"異龍\"號戰列巡洋艦飛到一個學院鄰近星系的荒僻衛星，去做點人道主義外勤。"
+
+
 translate traditional_chinese episode001_3b47885a:
 
-    # "That’s when everything turned to total and utter shit..."
-    ""
 
-# game/episode001.rpy:263
+    "從那裡開始，一切都變得一團糟..."
+
+
 translate traditional_chinese episode001_317f154f:
 
-    # "It all started innocently enough."
-    ""
 
-# game/episode001.rpy:264
+    "開頭還挺順利的。"
+
+
 translate traditional_chinese episode001_1be73535:
 
-    # "As soon as the Ypotryll was in orbit of Lanan, commander Szuzume ordered all recruits to the shuttle bay where transport to the surface of the moon was already waiting for us."
-    ""
 
-# game/episode001.rpy:278
+    "\"異龍\"號一進入拉南星軌道，蘇珠美指揮官就命令所有新兵到穿梭機艙集合，那裡接我們去衛星的擺渡飛船已經候着了。"
+
+
 translate traditional_chinese episode001_1ddbdbe9:
 
-    # ca "Listen up everyone."
-    ca ""
 
-# game/episode001.rpy:279
+    ca "所有人聽着。"
+
+
 translate traditional_chinese episode001_4e903c11:
 
-    # ca "Today is your first real assignment."
-    ca ""
 
-# game/episode001.rpy:280
+    ca "今天是你們第一個正式任務。"
+
+
 translate traditional_chinese episode001_06da50bb:
 
-    # ca "You’ve trained for this and you are ready, or you better be."
-    ca ""
 
-# game/episode001.rpy:281
+    ca "你們已經訓練了這麼久了，該是準備好了吧，或者最好是真準備好了。"
+
+
 translate traditional_chinese episode001_d07a9bcf:
 
-    # ca "You’ll be divided in groups and shuttled to Lanan P-10, where you will be given your assignments."
-    ca ""
 
-# game/episode001.rpy:282
+    ca "你們會分組坐穿梭機去拉南P-10星，在那裡領任務。"
+
+
 translate traditional_chinese episode001_5fd7c5b9:
 
-    # ca "Contact with mission control is forbidden until completion of your assignment or in case of absolute emergencies."
-    ca ""
 
-# game/episode001.rpy:283
+    ca "任務完事之前不準聯繫指揮中心，除非是火急火燎的生死關頭。"
+
+
 translate traditional_chinese episode001_0588f376:
 
-    # ca "Small injuries or homesickness do not, I repeat, do not count as valid reasons for reaching out to mission control."
-    ca ""
 
-# game/episode001.rpy:284
+    ca "如果你受到了小型創傷，或想家了，都不算理由，我再說一次，這些都不算聯繫任務控制中心的正當理由。"
+
+
 translate traditional_chinese episode001_48860b9c:
 
-    # ca "If you want to cry for mommy or daddy, do it at night when everyone else is asleep."
-    ca ""
 
-# game/episode001.rpy:285
+    ca "如果你想爲媽媽或爸爸哭，那就等晚上別人都睡了再哭。"
+
+
 translate traditional_chinese episode001_34db4f5d:
 
-    # ca "Now, your names will be called and you will assemble at the relevant shuttle."
-    ca ""
 
-# game/episode001.rpy:286
+    ca "現在，點你們的名字，你們要到相關穿梭機那裡集合。"
+
+
 translate traditional_chinese episode001_a321f5ff:
 
-    # ca "Good luck out there."
-    ca ""
 
-# game/episode001.rpy:288
+    ca "祝你們好運。"
+
+
 translate traditional_chinese episode001_80df947c:
 
-    # ca "Group Alpha: Baudrillard, Kristeva, Butler, Kofman..."
-    ca ""
 
-# game/episode001.rpy:289
+    ca "α組: 波德裏亞, 克裏斯蒂娃, 巴特勒, 考夫曼..."
+
+
 translate traditional_chinese episode001_9923cbf1:
 
-    # "Commander Calista Szuzume didn’t like me from the start."
-    ""
 
-# game/episode001.rpy:290
+    "指揮官卡莉斯塔·蘇珠美從一開始就不喜歡我。"
+
+
 translate traditional_chinese episode001_8583b07e:
 
-    # "It was very clear that she didn’t like me as a naval cadet, nor as a friend to her son Kit and her daughter Céline."
-    ""
 
-# game/episode001.rpy:291
+    "很清楚，她既不欣賞我當艦隊學員，也不喜歡我當她兒子基特和女兒瑟琳的朋友。"
+
+
 translate traditional_chinese episode001_8e6cd927:
 
-    # "I don’t know when and how I ended up on her shit list, but she made it clear that my name was up there in shiny golden letters on many occasions."
-    ""
 
-# game/episode001.rpy:292
+    "我不知道是什麼時候怎麼上了她的黑名單的，但她多次清楚地表明，我的名字在那張名單上用閃亮金字寫着。"
+
+
 translate traditional_chinese episode001_27c2c525:
 
-    # "Commander Szuzume probably didn’t appreciate that I liked to play fast and loose with the rules at the academy from time to time."
-    ""
 
-# game/episode001.rpy:293
+    "蘇珠美指揮官大概不喜歡我時不時在學院裡玩忽規則。"
+
+
 translate traditional_chinese episode001_05a44aa3:
 
-    # "Like shaking up the group roster for a training mission."
-    ""
 
-# game/episode001.rpy:305
+    "比如在訓練任務中搞亂分組名單。"
+
+
 translate traditional_chinese episode001_da3cf92f:
 
-    # ca "Group Kappa: Valenmann de Lonval, E. Valenmann de Lonval, L. Valen..."
-    ca ""
 
-# game/episode001.rpy:307
+    ca "Κ組: 瓦倫曼·德·隆瓦爾, E. 瓦倫曼·德·隆瓦爾, L. 瓦倫..."
+
+
 translate traditional_chinese episode001_e1db36ed:
 
-    # ca "Group Kappa: Arderne, E. Elyot, L. Valen..."
-    ca ""
 
-# game/episode001.rpy:309
+    ca "Κ組: 阿德恩, E. 埃利奧特, L. 瓦倫..."
+
+
 translate traditional_chinese episode001_dacc8910:
 
-    # ca "What the?!"
-    ca ""
 
-# game/episode001.rpy:311
+    ca "什麼?!"
+
+
 translate traditional_chinese episode001_a4f78208:
 
-    # ca "...Valenmann de Lonval, [p_initial]. Szuzume, K. Szuzume, C. and Von Skandersfelt, T."
-    ca ""
 
-# game/episode001.rpy:312
+    ca "...瓦倫曼·德·隆瓦爾, [p_initial]. 蘇珠美, K. 蘇珠美, C. 和馮·斯坎德斯菲爾特, T."
+
+
 translate traditional_chinese episode001_cd786109:
 
-    # ca "Get your asses to that shuttle. "
-    ca ""
 
-# game/episode001.rpy:313
+    ca "趕緊滾上那艘穿梭機。 "
+
+
 translate traditional_chinese episode001_0b791e9c:
 
-    # ca "We’ll talk about this organizational fuckup later, whomever is responsible..."
-    ca ""
 
-# game/episode001.rpy:315
+    ca "等會兒再討論這狗屎一樣的組織混亂，不管是誰的責任..."
+
+
 translate traditional_chinese episode001_24918701:
 
-    # ki "I think you managed to piss my Mom off...{w} again."
-    ki ""
 
-# game/episode001.rpy:316
+    ki "我覺得你又惹毛了我媽...{w} 再一次。"
+
+
 translate traditional_chinese episode001_5133e71e:
 
-    # c "She didn’t seem very happy, but I really wanted to do this first assignment with you guys."
-    c ""
 
-# game/episode001.rpy:317
+    c "她看起來不怎麼高興，但我真的很想跟你們一起做這第一次任務。"
+
+
 translate traditional_chinese episode001_29850293:
 
-    # l "What the fuck did you do, [p_name_short]?"
-    l ""
 
-# game/episode001.rpy:318
+    l "你該死的幹了什麼，[p_name_short]?"
+
+
 translate traditional_chinese episode001_80ab84e2:
 
-    # c "I may have persuaded a certain someone with considerable computer skills to change the group assignments..."
-    c ""
 
-# game/episode001.rpy:319
+    c "我或許說服了某個電腦高手改了分組名單..."
+
+
 translate traditional_chinese episode001_e3d0cc9b:
 
-    # l "You moron!"
-    l ""
 
-# game/episode001.rpy:320
+    l "你個白癡！"
+
+
 translate traditional_chinese episode001_eced6b21:
 
-    # l "There’ll be hell to pay once we get back, for you and her both!"
-    l ""
 
-# game/episode001.rpy:321
+    l "等着吧，回去後有你好受的，你和她都跑不了！"
+
+
 translate traditional_chinese episode001_30bb794d:
 
-    # l "The Commander made that much clear."
-    l ""
 
-# game/episode001.rpy:322
+    l "指揮官早就把話說得很明白了。"
+
+
 translate traditional_chinese episode001_a92b253f:
 
-    # ki "Let’s just board the shuttle, the others are already strapped in."
-    ki ""
 
-# game/episode001.rpy:323
+    ki "我們上穿梭機吧，別人都已經綁好安全帶了。"
+
+
 translate traditional_chinese episode001_dad06294:
 
-    # ki "By the way, how did fucking Thim end up with us?"
-    ki ""
 
-# game/episode001.rpy:324
+    ki "對了，他媽的蒂姆怎麼混到我們這兒來了？"
+
+
 translate traditional_chinese episode001_3b5e6da1:
 
-    # c "A coincidence or a touch of sadistic humor on account of my illustrious hacker..."
-    c ""
 
-# game/episode001.rpy:329
+    c "是巧合呢，還是我那臭屁黑客朋友耍了點虐待狂的小幽默？"
+
+
 translate traditional_chinese episode001_b225e6cd:
 
-    # "The shuttle brought us swiftly to the surface and left us in a clearing where we were supposed to set up our tents."
-    ""
 
-# game/episode001.rpy:340
+    "穿梭機飛快地把我們帶到地面，把我們丟在了一塊空地，我們本該在那裡搭帳篷。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_6aa8a7c2:
 
-    # "So I’ve mentioned Céline already, the commander’s daughter and sister to Kit."
-    ""
 
-# game/episode001.rpy:341
+    "對了，我之前提過瑟琳了，指揮官的閨女，基特的妹妹。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_67a3a67a:
 
-    # "You could say we had a thing for each other, which is probably one of the reasons her mother hated my guts."
-    ""
 
-# game/episode001.rpy:352
+    "可以說我們倆有點小曖昧，這可能就是她老媽對我恨之入骨的原因之一吧。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_8035da4d:
 
-    # ce "Hey [p_name]."
-    ce ""
 
-# game/episode001.rpy:353
+    ce "嗨，[p_name]。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_de1c9fb0:
 
-    # ce "I understood from Kit you got us all together on this mission?"
-    ce ""
 
-# game/episode001.rpy:357
+    ce "聽基特說，是你把我們都湊到這次任務上的？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c1f9a481:
 
-    # c "I wanted a nice holiday on a romantic moon, together with you."
-    c ""
 
-# game/episode001.rpy:359
+    c "我只是想跟你一起，在浪漫的衛星上度個美美的假。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1010609e:
 
-    # ce "Haha, you’ve looked around, haven’t you?"
-    ce ""
 
-# game/episode001.rpy:360
+    ce "哈哈，你都到處看過了吧？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_b3e6d732:
 
-    # ce "The weather here is terrible and I believe Lanan is listed in all the tourist guides as one of the places you should just never visit."
-    ce ""
 
-# game/episode001.rpy:361
+    ce "這兒天氣糟透了，而且我覺得拉南星在所有旅遊指南裏都排在永遠不該去的地方列表上。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_daff6f12:
 
-    # c "I agree, but I had to make ends meet."
-    c ""
 
-# game/episode001.rpy:362
+    c "我同意，不過我得保持收支平衡。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_87a42b3a:
 
-    # ce "Noted. And I do appreciate the effort."
-    ce ""
 
-# game/episode001.rpy:363
+    ce "知道了。我還是很感激你費的這番功夫。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_58d36f24:
 
-    # c "Enough to get a kiss?"
-    c ""
 
-# game/episode001.rpy:364
+    c "那值不值得一個吻啊？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_96cf6d43:
 
-    # ce "Maybe...{w} Why don’t you find out later tonight?"
-    ce ""
 
-# game/episode001.rpy:365
+    ce "或許吧...{w} 要不你今晚晚點來找我試試？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_4d553567:
 
-    # c "Isn’t Kit sleeping in the same tent with you?"
-    c ""
 
-# game/episode001.rpy:366
+    c "基特不是跟你睡同一個帳篷嗎？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_3c133302:
 
-    # ce "Who cares, he sleeps like a log, have you ever heard him snore?"
-    ce ""
 
-# game/episode001.rpy:367
+    ce "管他呢，他睡得跟死豬似的，你聽過他打鼾沒？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_9aa7a3a2:
 
-    # c "I did."
-    c ""
 
-# game/episode001.rpy:368
+    c "聽過。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_a7860b54:
 
-    # c "He makes more noise than a Farixillic heavy jet engine."
-    c ""
 
-# game/episode001.rpy:369
+    c "他吵得比法瑞克斯理克重型噴氣引擎還響。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1bfb05b1:
 
-    # c "Point taken. See you tonight!"
-    c ""
 
-# game/episode001.rpy:370
+    c "明白。那晚上見！"
+
+
 translate traditional_chinese ep001_basecamp_conversation_97cc546d:
 
-    # "So yeah, there was definitely something going on with me and her."
-    ""
 
-# game/episode001.rpy:375
+    "是啊，我和她確實有點那個。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_5e3f1264:
 
-    # c "I just wanted to do this with my friends."
-    c ""
 
-# game/episode001.rpy:376
+    c "我就想跟我朋友們一起幹這事。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_bd0de83f:
 
-    # ce "That doesn’t explain Thim being here."
-    ce ""
 
-# game/episode001.rpy:377
+    ce "這可解釋不了蒂姆爲什麼在這兒。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_b8979efd:
 
-    # c "He sure wasn’t on my wish list."
-    c ""
 
-# game/episode001.rpy:378
+    c "他絕對不在我的願望清單上。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_e3ef65ec:
 
-    # ce "Maybe the local wildlife will devour him in his sleep."
-    ce ""
 
-# game/episode001.rpy:379
+    ce "說不定本地野生動物會趁他睡覺時把他啃了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_4398d3f0:
 
-    # c "Let’s pray for small miracles."
-    c ""
 
-# game/episode001.rpy:384
+    c "我們祈禱點小奇蹟吧。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_20b294a9:
 
-    # e "You’re enjoying yourself far too much, [p_name]."
-    e ""
 
-# game/episode001.rpy:385
+    e "你玩得太嗨了啊，[p_name]。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_bfcfa9f3:
 
-    # c "Is it that obvious?"
-    c ""
 
-# game/episode001.rpy:386
+    c "有那麼明顯嗎？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_3dcda574:
 
-    # e "The smirk on your face is a dead giveaway."
-    e ""
 
-# game/episode001.rpy:387
+    e "你臉上那壞笑再明顯不過了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_ba2d8e80:
 
-    # c "What can I say, I really like it when I can make things go my own way by doling out a little booze here and there."
-    c ""
 
-# game/episode001.rpy:388
+    c "該怎麼說呢，我特喜歡到處撒點小酒就能讓事情順我意的感覺。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_199eb77a:
 
-    # e "You’re going to get into trouble, commander Szuzume made that much clear before we disembarked."
-    e ""
 
-# game/episode001.rpy:389
+    e "你會惹上麻煩的，登陸前蘇珠美指揮官說得夠清楚了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0c839030:
 
-    # c "I’m not really worried."
-    c ""
 
-# game/episode001.rpy:390
+    c "我才不擔心呢。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c6f5c96c:
 
-    # c "Graduation is right around the corner, after that Szuzume won’t have any hold over us anymore."
-    c ""
 
-# game/episode001.rpy:392
+    c "畢業近在眼前，到時候蘇珠美再也管不着我們了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_2b98ab5e:
 
-    # e "Not so fast, brother, we need to accomplish this mission first."
-    e ""
 
-# game/episode001.rpy:394
+    e "沒那麼快，哥哥，得先完成任務。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_e4263560:
 
-    # e "Not so fast, [p_name_short], we need to accomplish this mission first."
-    e ""
 
-# game/episode001.rpy:395
+    e "沒那麼快，[p_name_short]，得先完成任務。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_afbf96fc:
 
-    # e "And there’s always the possibility of us serving under the commander as ensigns after graduation."
-    e ""
 
-# game/episode001.rpy:396
+    e "而且畢業後說不定我們還得在指揮官手下當少尉呢。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_5354daac:
 
-    # c "The horror..."
-    c ""
 
-# game/episode001.rpy:398
+    c "真要命..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_e7c7246b:
 
-    # e "Better stock up on some more booze, maybe you can bribe your way into an admiralty."
-    e ""
 
-# game/episode001.rpy:399
+    e "還是多囤點酒靠譜，沒準能賄賂個艦隊上將噹噹。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_07c726f8:
 
-    # c "Great idea!"
-    c ""
 
-# game/episode001.rpy:404
+    c "好主意！"
+
+
 translate traditional_chinese ep001_basecamp_conversation_d511a2ec:
 
-    # l "What now [p_name]?"
-    l ""
 
-# game/episode001.rpy:405
+    l "又幹嘛[p_name]？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_5aef364f:
 
-    # l "You’ve got your way, as always and I have zero desire to talk to you."
-    l ""
 
-# game/episode001.rpy:406
+    l "如你所願，我絲毫不想跟你說話。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_69bba2d3:
 
-    # c "Just checking in. Have you read the mission brief already?"
-    c ""
 
-# game/episode001.rpy:407
+    c "就問問，你看過任務簡報沒？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_a61440ad:
 
-    # l "Yes, and you?"
-    l ""
 
-# game/episode001.rpy:408
+    l "看了，你呢？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_f41ba07d:
 
-    # c "Not yet."
-    c ""
 
-# game/episode001.rpy:409
+    c "還沒。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0dd2ad53:
 
-    # l "You’re not fishing for a summary of the brief, are you?"
-    l ""
 
-# game/episode001.rpy:410
+    l "你該不會想套簡報內容吧？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_4699e7ce:
 
-    # c "Can’t a guy just have a friendly chat with a girl?"
-    c ""
 
-# game/episode001.rpy:412
+    c "男生就不能和女生聊聊天嗎？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_5f1dd258:
 
-    # l "Yes, but you’re my brother and I know the shit you’re up to mostly."
-    l ""
 
-# game/episode001.rpy:414
+    l "是，但你是我哥，我清楚你沒幹什麼好事。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_788aabfd:
 
-    # l "Yes, but I know you [p_name_short] and I know the kind of shit you’re up to mostly."
-    l ""
 
-# game/episode001.rpy:415
+    l "是，但我了解你[p_name_short]，我清楚你平時幹的都是什麼勾當。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_97051070:
 
-    # l "Read the mission brief for yourself and don’t bother me, I’ve got things to do."
-    l ""
 
-# game/episode001.rpy:416
+    l "任務簡報自己看，別煩我，我還有事。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_bb35e6ff:
 
-    # c "Okay then..."
-    c ""
 
-# game/episode001.rpy:417
+    c "那好吧..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_a22c2231:
 
-    # "I would have liked to say Lilly wasn’t always like that, but it seems she was always angry at something..."
-    ""
 
-# game/episode001.rpy:422
+    "我本想說說莉莉以前不是這樣，可她似乎總在爲什麼事情生氣..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_a9d61602:
 
-    # ki "Hey man, ready for some fun?"
-    ki ""
 
-# game/episode001.rpy:423
+    ki "嘿兄弟，準備好找樂子了嗎？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_bdc0ac4d:
 
-    # c "Setting up a tent in this godforsaken place isn’t my idea of fun, Kit."
-    c ""
 
-# game/episode001.rpy:424
+    c "在鬼地方搭帳篷可不算找樂子，基特。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_974ceed8:
 
-    # ki "Well, maybe we’ll get lucky and get to shoot something."
-    ki ""
 
-# game/episode001.rpy:425
+    ki "唔，說不定走運能開幾槍過過癮。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0c59c76b:
 
-    # c "Boy, you’re really eager to massacre the locals..."
-    c ""
 
-# game/episode001.rpy:427
+    c "好傢夥，你可真惦記着屠殺原住民..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_7d46e2ba:
 
-    # ki "No, no, but maybe we can hunt some wildlife?"
-    ki ""
 
-# game/episode001.rpy:428
+    ki "不，不，或許我們能打點野味？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_cbb385b7:
 
-    # c "I don’t think there’s time for that."
-    c ""
 
-# game/episode001.rpy:429
+    c "我看沒這工夫。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_e3f99334:
 
-    # ki "Shame."
-    ki ""
 
-# game/episode001.rpy:430
+    ki "真可惜。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_6ed14447:
 
-    # ki "Maybe when we get some downtime after this we could go to that forest moon everybody’s talking about, shoot some deer?"
-    ki ""
 
-# game/episode001.rpy:431
+    ki "等這趟任務結束放假了，大夥都說可以去那個森林衛星打打鹿？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_6f26158b:
 
-    # c "Trudging through the mud with a hunting rifle for several days?"
-    c ""
 
-# game/episode001.rpy:432
+    c "扛着獵槍在泥地裏跋涉好幾天？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_e47c170a:
 
-    # c "I think I’ll pass."
-    c ""
 
-# game/episode001.rpy:433
+    c "謝邀，免了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_864d6125:
 
-    # c "I just want a nice beach and several bikini-clad girls, willing and eager to sit on my lap preferably."
-    c ""
 
-# game/episode001.rpy:434
+    c "我就想要漂亮海灘和幾個比基尼妞，最好能樂意且迫切的想坐我大腿上那種。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_149692e3:
 
-    # ki "Sounds fun too!"
-    ki ""
 
-# game/episode001.rpy:435
+    ki "聽着也不錯！"
+
+
 translate traditional_chinese ep001_basecamp_conversation_baf08bd4:
 
-    # "Kit was the first friend I made at the academy and became one of my best friends."
-    ""
 
-# game/episode001.rpy:436
+    "基特是我在軍校交的第一個朋友，後來成了我死黨。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_39777f85:
 
-    # "He even fucked up his exams on purpose in our first year so that we could stay in the same class together."
-    ""
 
-# game/episode001.rpy:438
+    "他第一年甚至故意考砸期末考試，就爲和我留同個班級。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1739cac7:
 
-    # "A really stupid move, of course, but it all worked out in the end as we were joined by our sisters."
-    ""
 
-# game/episode001.rpy:440
+    "當然這種行爲蠢得要命，不過後來我們妹妹們加入進來，反倒因禍得福。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0645448e:
 
-    # "A really stupid move, of course, but it all worked out in the end as we were joined by our friends."
-    ""
 
-# game/episode001.rpy:441
+    "當然這種行爲蠢得要命，不過後來朋友們加入進來，反倒因禍得福。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_ed6ab743:
 
-    # "Kit’s interests veered towards the more extreme sports, like mountaineering, paragliding and martial arts."
-    ""
 
-# game/episode001.rpy:442
+    "基特癡迷極限運動，登山、滑翔傘、格鬥術什麼的。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_68fc34d2:
 
-    # "So much he was even considered for advanced training as a specialist, instead of the officer track we were all preparing for."
-    ""
 
-# game/episode001.rpy:443
+    "玩太瘋甚至被考慮過轉爲特種兵培養，不像我們都準備當軍官。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0744bb5a:
 
-    # "This unhealthy appetite for dangerous athletics meant I often had to accompany him to some uninhabitable planet where we tried not to get killed while hanging from a single rope against a crater wall."
-    ""
 
-# game/episode001.rpy:444
+    "這種對危險運動的不健康嗜好意味着我經常不得不陪他去一些不適宜居住的星球，在那兒我們試圖在掛着單繩靠在火山坑壁上時不被弄死。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_cc36ad67:
 
-    # "Apart from the near-death experiences on barren worlds, we also had fun in the many bars and clubs on Alf Cen."
-    ""
 
-# game/episode001.rpy:445
+    "除了在荒涼世界上的瀕死經歷外，我們在半人馬座α星的許多酒吧和俱樂部裏也玩得很嗨。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_fbfe2a8d:
 
-    # "Man, the amount of pussy we had during our furlough could fill a small space station..."
-    ""
 
-# game/episode001.rpy:460
+    "夥計，我們在休假期間搞到的妞多得能塞滿一個小空間站..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_c2dcfff0:
 
-    # "Thim..."
-    ""
 
-# game/episode001.rpy:461
+    "蒂姆..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_113178c1:
 
-    # "Thim with a fucking ‘h’..."
-    ""
 
-# game/episode001.rpy:462
+    "帶他媽的 'h' 的蒂姆..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_10669e8e:
 
-    # "I think it’s fair to say we pretty much hated each other from the start."
-    ""
 
-# game/episode001.rpy:463
+    "我認爲可以確切地說我們一開始就彼此看不順眼。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_44e7b86a:
 
-    # "Remember my family descended from a long line of nobility?"
-    ""
 
-# game/episode001.rpy:464
+    "記得我家祖上可有一長串貴族血統？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_ae44f8c6:
 
-    # "Well, Thim is fucking worse."
-    ""
 
-# game/episode001.rpy:465
+    "嗯，蒂姆他媽更糟。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_4f2b872f:
 
-    # "Apparently he can trace his lineage to some European royal family dating back to the Middle Ages..."
-    ""
 
-# game/episode001.rpy:466
+    "顯然，他能把自己的血統追溯到中世紀的某個歐洲王室..."
+
+
 translate traditional_chinese ep001_basecamp_conversation_e7f665a7:
 
-    # "Combine that fact with boundless arrogance and you’ve got Thim."
-    ""
 
-# game/episode001.rpy:477
+    "把這個事實和無限的傲慢一結合，你就得到了蒂姆。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1ca23d96:
 
-    # t "Fuck off."
-    t ""
 
-# game/episode001.rpy:478
+    t "滾開。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_6a5dd583:
 
-    # c "Hello to you too."
-    c ""
 
-# game/episode001.rpy:479
+    c "也向你問好。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_05cae6e4:
 
-    # c "Looks like we’ll have to share a tent together."
-    c ""
 
-# game/episode001.rpy:480
+    c "看來我們倆得分享一頂帳篷了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c46ae923:
 
-    # t "I said: fuck off."
-    t ""
 
-# game/episode001.rpy:481
+    t "我說了：滾開。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_8db2d090:
 
-    # "We had some really great conversations, Thim and I."
-    ""
 
-# game/episode001.rpy:482
+    "蒂姆和我有過一些非常\"棒\"的對話。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1c7606fe:
 
-    # "Truth is, he was popular in some circles and he sure wasn’t a bad student."
-    ""
 
-# game/episode001.rpy:484
+    "事實是，他在某些圈子裡挺喫香，而且他肯定不是個爛學生。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_a15f39f0:
 
-    # "But for some reason he was always hovering around my sisters."
-    ""
 
-# game/episode001.rpy:486
+    "但不知爲什麼，他總是圍着我妹妹們打轉。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_42fe34e1:
 
-    # "But for some reason he was always hovering around my friends."
-    ""
 
-# game/episode001.rpy:487
+    "但不知爲什麼，他總是圍着我朋友們打轉。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_9d04a0ee:
 
-    # "Especially Eva, and even Céline for a while, who all ignored him mostly."
-    ""
 
-# game/episode001.rpy:488
+    "特別是伊娃，甚至瑟琳有一陣子也這樣，但她們大多直接無視他。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_7a2f5b2b:
 
-    # "I guess that made him extra bitter."
-    ""
 
-# game/episode001.rpy:492
+    "我猜那讓他特別不爽。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c4e75c0e:
 
-    # "After setting up the tents and preparing a campfire everyone gathered together."
-    ""
 
-# game/episode001.rpy:493
+    "搭完帳篷點好篝火後，大家都聚攏起來。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c7207d75:
 
-    # "I had to read the mission brief first, so I arrived a little later when everyone had gotten into an argument already about what to do next."
-    ""
 
-# game/episode001.rpy:494
+    "我得先讀任務簡報，所以到得晚了點兒，那會兒大家已經在吵接下來幹什麼了。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c84d92f3:
 
-    # t "We should head out now. Nip the problem in the bud right away."
-    t ""
 
-# game/episode001.rpy:495
+    t "我們該立刻出發。現在就把問題扼殺在萌芽裏。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_a6c27071:
 
-    # l "Are you crazy? It’s getting dark soon. The locals can wait."
-    l ""
 
-# game/episode001.rpy:496
+    l "你瘋了吧？天快黑了。那些本地生物等等再弄它們也無妨。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_13ae8d32:
 
-    # e "The problem seems urgent."
-    e ""
 
-# game/episode001.rpy:497
+    e "問題看起來很緊急。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_f138a2e7:
 
-    # ce "They’ve been coping with it for a few weeks already, so one night isn’t going to be a problem, surely."
-    ce ""
 
-# game/episode001.rpy:498
+    ce "他們已經在處理這個問題幾個星期了，所以多呆一晚不會有問題的，肯定。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0682804b:
 
-    # "We were tasked by mission control to investigate repeated attacks on cattle at a settlement a couple of miles from our campsite."
-    ""
 
-# game/episode001.rpy:499
+    "我們營地幾英裏外的定居點上的牛多次受到攻擊，我們被任務控制中心委派去調查此事"
+
+
 translate traditional_chinese ep001_basecamp_conversation_df290263:
 
-    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range preying on the livestock."
-    ""
 
-# game/episode001.rpy:500
+    "攻擊可能是由一羣來自附近山脈的動物掠食者捕食牲畜引起的。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0460c528:
 
-    # "Nothing a few well-placed explosives or targeted rifle fire couldn’t handle."
-    ""
 
-# game/episode001.rpy:501
+    "沒有什麼問題是幾枚精準放置的炸藥或精確制導步槍解決不了的。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_d0e48a50:
 
-    # c "Lilly is right. We should catch some sleep first."
-    c ""
 
-# game/episode001.rpy:502
+    c "莉莉說得對。我們應該先睡一覺。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_caa21d63:
 
-    # c "We’re no good to the locals in the middle of the night."
-    c ""
 
-# game/episode001.rpy:504
+    c "在午夜時分，我們拿這些本地生物一點辦法都沒有。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_6290ec0e:
 
-    # t "The attacks are happening at night!"
-    t ""
 
-# game/episode001.rpy:505
+    t "攻擊是在晚上發生的！"
+
+
 translate traditional_chinese ep001_basecamp_conversation_0a829050:
 
-    # t "You would have known if you even bothered to read the entire mission brief."
-    t ""
 
-# game/episode001.rpy:506
+    t "如果你真讀了整個任務簡報，你就會知道的。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_3be197e3:
 
-    # c "I did read the entire brief."
-    c ""
 
-# game/episode001.rpy:507
+    c "我確實讀了整個簡報。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c5fe9612:
 
-    # c "What do you want to do?"
-    c ""
 
-# game/episode001.rpy:508
+    c "然後呢你想幹什麼？"
+
+
 translate traditional_chinese ep001_basecamp_conversation_1e32dcaf:
 
-    # c "Shoot up the place in the middle of the night when the beasts arrive to hunt for some farm animals?!"
-    c ""
 
-# game/episode001.rpy:509
+    c "在午夜時分，當野獸來獵食一些農場動物時，把整個地方掃射一遍嗎？！"
+
+
 translate traditional_chinese ep001_basecamp_conversation_cefbe382:
 
-    # c "What if some dimwit from the settlement gets curious and steps into the firing line to see if Daisy the Prize-Winning Cow isn’t too stressed out by the whole ordeal?"
-    c ""
 
-# game/episode001.rpy:511
+    c "萬一定居點的哪個蠢貨好奇地走進火線，去看看得獎奶牛戴西有沒有被整個折磨壓垮，可怎麼辦？（譯者註：Daisy the Prize-Winning Cow，得獎奶牛戴西，1936年美國一頭名叫Daisy的Holstein奶牛驚人地在一年內產出約38606磅牛奶和1420磅奶油脂，成爲了當時的世界紀錄保持者）"
+
+
 translate traditional_chinese ep001_basecamp_conversation_8da59bfe:
 
-    # ki "I vote we go in the morning and look for any tracks instead."
-    ki ""
 
-# game/episode001.rpy:513
+    ki "我贊成早上出發，找點腳印之類的。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_9cf0d453:
 
-    # e "Sounds reasonable."
-    e ""
 
-# game/episode001.rpy:514
+    e "聽起來合理。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_c5cf06d2:
 
-    # c "Okay, let’s get some sleep then and show some serious heroics in the morning."
-    c ""
 
-# game/episode001.rpy:516
+    c "好吧，那就先睡一覺，早上再去展現點真英雄氣概。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_f5f063ab:
 
-    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy duty missions."
-    ""
 
-# game/episode001.rpy:517
+    "我已經說過，訓練遠徵更像是夏令營，而不是真實的沉重任務。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_72f0729a:
 
-    # "It’s what you get when you send out a group of teenagers all on their own, without direct oversight."
-    ""
 
-# game/episode001.rpy:518
+    "當派出一羣青少年獨自去，沒有直接監督時，就是這個樣子。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_a23ea8f2:
 
-    # "My guess is that night, all over Lanan P-10 a lot of recruits experienced some very happy moments with each other."
-    ""
 
-# game/episode001.rpy:520
+    "我猜那天晚上，在拉南P-10星到處，很多新兵經歷了相互之間的非常快樂時刻。"
+
+
 translate traditional_chinese ep001_basecamp_conversation_9f2d3247:
 
-    # "Our camp was no exception, at least in my case..."
-    ""
 
-# game/episode001.rpy:527
+    "我們營地也不例外，至少對我來說是這樣..."
+
+
 translate traditional_chinese ep001_basecamp_night_e3a830b3:
 
-    # "I admit my heart was beating heavily in anticipation as I approached Kit and Céline’s tent."
-    ""
 
-# game/episode001.rpy:528
+    "我承認我的心在期待中狂跳，當我接近基特和瑟琳的帳篷時。"
+
+
 translate traditional_chinese ep001_basecamp_night_fbfdd2c6:
 
-    # "I’m pretty sure Kit was okay with Céline and me being an item, but actually diddling his sister in his own tent is of course another matter..."
-    ""
 
-# game/episode001.rpy:529
+    "我很確定基特對瑟琳和我在一起是沒意見的，但在他自己的帳篷裏摸他妹妹當然是另一碼事..."
+
+
 translate traditional_chinese ep001_basecamp_night_3e8b0a3f:
 
-    # "Kit’s rhythmic snoring bolstered my confidence when I slowly pulled the zipper of the tent upward."
-    ""
 
-# game/episode001.rpy:533
+    "基特有節奏的鼾聲給了我信心，當我慢慢向上拉開帳篷拉鏈時。"
+
+
 translate traditional_chinese ep001_basecamp_night_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode001.rpy:534
+    c "我知道。"
+
+
 translate traditional_chinese ep001_basecamp_night_10f765fc:
 
-    # ce "We should do this another time."
-    ce ""
 
-# game/episode001.rpy:538
+    ce "我們該改天再做。"
+
+
 translate traditional_chinese ep001_basecamp_night_ecba498c:
 
-    # c "That sounds like a great idea."
-    c ""
 
-# game/episode001.rpy:540
+    c "聽起來不錯。"
+
+
 translate traditional_chinese ep001_basecamp_night_7c3abef5:
 
-    # ce "Okay, when we’re back on the Ypotryll I’ll show you something."
-    ce ""
 
-# game/episode001.rpy:541
+    ce "好，等我們回到\"異龍\"號上給你看個好東西。"
+
+
 translate traditional_chinese ep001_basecamp_night_45cd652e:
 
-    # c "I can’t wait to hear you moan out loud."
-    c ""
 
-# game/episode001.rpy:542
+    c "等不及要聽你大聲呻吟了。"
+
+
 translate traditional_chinese ep001_basecamp_night_3324f66c:
 
-    # ce "I can scream too, be warned!"
-    ce ""
 
-# game/episode001.rpy:543
+    ce "警告你，我也會尖叫！"
+
+
 translate traditional_chinese ep001_basecamp_night_cfef872a:
 
-    # "I kissed Céline goodnight and hurried back to my tent."
-    ""
 
-# game/episode001.rpy:544
+    "我吻別瑟琳道晚安，匆匆回到自己帳篷。"
+
+
 translate traditional_chinese ep001_basecamp_night_b3f72ecb:
 
-    # "Lucky for me, Thim was still asleep."
-    ""
 
-# game/episode001.rpy:548
+    "幸運的是蒂姆還在睡。"
+
+
 translate traditional_chinese ep001_basecamp_night_9bf3d373:
 
-    # c "This was a one-time only deal for me."
-    c ""
 
-# game/episode001.rpy:550
+    c "對我來說這是一夜情。"
+
+
 translate traditional_chinese ep001_basecamp_night_f6a5a491:
 
-    # ce "What?! You fucking bastard!"
-    ce ""
 
-# game/episode001.rpy:551
+    ce "什麼？！你媽的混蛋！"
+
+
 translate traditional_chinese ep001_basecamp_night_2ab85dd8:
 
-    # ce "Leave!"
-    ce ""
 
-# game/episode001.rpy:552
+    ce "滾出去！"
+
+
 translate traditional_chinese ep001_basecamp_night_483aa82d:
 
-    # "Céline clearly didn’t subscribe to my one-night stand philosophy and things never really recovered between us."
-    ""
 
-# game/episode001.rpy:553
+    "瑟琳顯然不認同我的一夜情思想，我們關係從此一蹶不振。"
+
+
 translate traditional_chinese ep001_basecamp_night_e7ecb324:
 
-    # "I hurried back to my tent."
-    ""
 
-# game/episode001.rpy:554
+    "我匆忙回到帳篷。"
+
+
 translate traditional_chinese ep001_basecamp_night_b02df45e:
 
-    # "Lucky for me Thim was still asleep."
-    ""
 
-# game/episode001.rpy:563
+    "幸運的是蒂姆還在睡。"
+
+
 translate traditional_chinese ep001_basecamp_night_7a85a85a:
 
-    # "Céline was already fast asleep when I visited her, Kit snoring loudly next to her."
-    ""
 
-# game/episode001.rpy:564
+    "我去找瑟琳時她已熟睡，基特在旁邊鼾聲如雷。"
+
+
 translate traditional_chinese ep001_basecamp_night_06a4eaa6:
 
-    # "I thought Céline and I had a thing going on, but after that day her interest in me seemed to wane."
-    ""
 
-# game/episode001.rpy:565
+    "本以爲和瑟琳有戲，但那天后她對我的興趣淡了。"
+
+
 translate traditional_chinese ep001_basecamp_night_0465e282:
 
-    # "She was a beautiful girl though, a fact I was reminded of when I admired her lithe body in the artificial light of my lantern."
-    ""
 
-# game/episode001.rpy:571
+    "她真是美人胚子，當我借着提燈人工光源欣賞她纖柔身段時再次確認了這點。"
+
+
 translate traditional_chinese ep001_basecamp_night_b6ef9389:
 
-    # "In preparation for the busy day ahead, Lilly and Eva must have gone to bed early, as they were already sleeping when I came by their tent."
-    ""
 
-# game/episode001.rpy:573
+    "莉莉和伊娃肯定爲明日忙碌早睡了，我過去時她們帳篷已熄燈。"
+
+
 translate traditional_chinese ep001_basecamp_night_01200f0d:
 
-    # "After being separated for over a year from my sisters I was struck by their beauty when they finally joined me at the academy."
-    ""
 
-# game/episode001.rpy:575
+    "與妹妹們分離一年多，當她們終於來到學院時，我被她們的美震撼了。"
+
+
 translate traditional_chinese ep001_basecamp_night_dbd94701:
 
-    # "After being separated for over a year from my friends I was struck by their beauty when they finally joined me at the academy."
-    ""
 
-# game/episode001.rpy:576
+    "與老友們分離一年多，當她們終於來到學院時，我被她們的美震撼了。"
+
+
 translate traditional_chinese ep001_basecamp_night_d52a5f13:
 
-    # "When I left, both girls were typical lanky teenagers, but the Eva and Lilly that greeted me on the first day of the new school year were powerful gorgeous young women."
-    ""
 
-# game/episode001.rpy:579
+    "離別時還是竹竿少女，新學期見到的伊娃和莉莉已是明豔動人的窈窕淑女。"
+
+
 translate traditional_chinese ep001_basecamp_night_3d6ad955:
 
-    # "Sure, Mom and Dad got the best gene treatments for their fetuses, but the well-toned bodies of my sisters were only in part due to modern-day genetics."
-    ""
 
-# game/episode001.rpy:581
+    "雖然父母親給胎兒做了頂級基因改造，但妹妹們勻稱的身材可不全是現代基因工程的功勞。"
+
+
 translate traditional_chinese ep001_basecamp_night_723ec32b:
 
-    # "Sure, Mom and Dad got the best gene treatments, even for their servants, but the well-toned bodies of my friends were only in part due to modern-day genetics."
-    ""
 
-# game/episode001.rpy:584
+    "雖說父親母親連僕人也都給了最好的基因改造，但朋友們這身好體格可不全是現代基因工程的功勞。"
+
+
 translate traditional_chinese ep001_basecamp_night_cbb1c3a4:
 
-    # "I could have admired the exquisite curves of Lilly’s ass or the perky magnificence of Eva’s breasts all night, but spying on family members in the middle of the night is still considered ‘not done’ in human society..."
-    ""
 
-# game/episode001.rpy:586
+    "我本可以整晚欣賞莉莉屁股的精妙曲線和伊娃胸部那傲人的壯麗，但大半夜偷窺家人這種事在人類社會還是『不上道』的..."
+
+
 translate traditional_chinese ep001_basecamp_night_8a4580cf:
 
-    # "I could have admired the exquisite curves of Lilly’s ass or the perky magnificence of Eva’s breasts all night, but spying on people in the middle of the night is still considered ‘not done’ in human society..."
-    ""
 
-# game/episode001.rpy:590
+    "我本可以整晚欣賞莉莉屁股的精妙曲線和伊娃胸部那傲人的壯麗，但大半夜偷窺別人這種事在人類社會還是『不上道』的..."
+
+
 translate traditional_chinese ep001_basecamp_night_b9e969ac:
 
-    # "As soon as my body hit the bedroll I fell into a deep, dreamless sleep."
-    ""
 
-# game/episode001.rpy:593
+    "身體剛沾到鋪蓋卷我就陷入了深沉無夢的睡眠。"
+
+
 translate traditional_chinese ep001_basecamp_night_edb24718:
 
-    # "We awoke early in the morning and broke up the tents, expecting that we wouldn't have to spend another night on Lanan."
-    ""
 
-# game/episode001.rpy:594
+    "我們大清早就爬起來拆帳篷，估摸着今天不用在拉南星再過一夜了。"
+
+
 translate traditional_chinese ep001_basecamp_night_a6910775:
 
-    # "After a quick breakfast of the provided rations, we headed out to the settlement."
-    ""
 
-# game/episode001.rpy:596
+    "喫完配給口糧當早餐後，我們就朝着定居點出發。"
+
+
 translate traditional_chinese ep001_basecamp_night_a8c5506d:
 
-    # e "According to the map it shouldn’t be far from here."
-    e ""
 
-# game/episode001.rpy:597
+    e "按地圖看離這兒應該不遠。"
+
+
 translate traditional_chinese ep001_basecamp_night_f9376eb2:
 
-    # ce "I didn’t notice those smoke plumes yesterday."
-    ce ""
 
-# game/episode001.rpy:599
+    ce "昨天我可沒注意到這些煙柱。"
+
+
 translate traditional_chinese ep001_basecamp_night_0609d058:
 
-    # t "Those stupid peasants are probably burning stuff to keep warm..."
-    t ""
 
-# game/episode001.rpy:600
+    t "那羣傻逼農民八成在燒東西取暖吧..."
+
+
 translate traditional_chinese ep001_basecamp_night_d11efa99:
 
-    # l "There sure is a lot of smoke..."
-    l ""
 
-# game/episode001.rpy:601
+    l "這煙可真夠猛的..."
+
+
 translate traditional_chinese ep001_basecamp_night_4165148b:
 
-    # c "Those are big fires, I doubt it’s just a cooking fire."
-    c ""
 
-# game/episode001.rpy:602
+    c "火勢這麼大，怕不只是做飯的竈火。"
+
+
 translate traditional_chinese ep001_basecamp_night_e855cef1:
 
-    # ki "Let’s leave our baggage here and get closer."
-    ki ""
 
-# game/episode001.rpy:604
+    ki "行李擱這兒，我們靠近點看看。"
+
+
 translate traditional_chinese ep001_basecamp_night_748189bf:
 
-    # c "What the..."
-    c ""
 
-# game/episode001.rpy:605
+    c "什麼..."
+
+
 translate traditional_chinese ep001_basecamp_night_7cfd2005:
 
-    # e "Are those..."
-    e ""
 
-# game/episode001.rpy:606
+    e "那些是..."
+
+
 translate traditional_chinese ep001_basecamp_night_9c072c8c:
 
-    # e "...people?!"
-    e ""
 
-# game/episode001.rpy:608
+    e "...人嗎?!"
+
+
 translate traditional_chinese ep001_basecamp_night_a0080d57:
 
-    # t "Burnt to a fucking crisp."
-    t ""
 
-# game/episode001.rpy:609
+    t "他媽的燒成脆皮薯片了。"
+
+
 translate traditional_chinese ep001_basecamp_night_68ebf06c:
 
-    # c "Show some fucking respect, Thim."
-    c ""
 
-# game/episode001.rpy:610
+    c "嘴放乾淨點蒂姆，對死者尊重點。"
+
+
 translate traditional_chinese ep001_basecamp_night_d12ba130:
 
-    # l "It’s a massacre."
-    l ""
 
-# game/episode001.rpy:612
+    l "這是場大屠殺。"
+
+
 translate traditional_chinese ep001_basecamp_night_a1dd516e:
 
-    # ki "We should investigate. See if there are any survivors."
-    ki ""
 
-# game/episode001.rpy:613
+    ki "我們得進去搜搜，看有沒有活口。"
+
+
 translate traditional_chinese ep001_basecamp_night_f39b067f:
 
-    # c "Not so fast. Let’s contact mission control first."
-    c ""
 
-# game/episode001.rpy:614
+    c "別急，先聯繫任務指揮部。"
+
+
 translate traditional_chinese ep001_basecamp_night_f55cb797:
 
-    # c "Céline?"
-    c ""
 
-# game/episode001.rpy:615
+    c "瑟琳？"
+
+
 translate traditional_chinese ep001_basecamp_night_4680b2af:
 
-    # ce "Errr...{w} Yes? What?"
-    ce ""
 
-# game/episode001.rpy:616
+    ce "呃...{w} 啊？什麼事？"
+
+
 translate traditional_chinese ep001_basecamp_night_c8b7a83e:
 
-    # c "You’re carrying the radio. Could you please contact mission control?"
-    c ""
 
-# game/episode001.rpy:617
+    c "無線電在你那兒，能聯繫下指揮部嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_9f3378b6:
 
-    # ce "Right. You’re right. Sorry."
-    ce ""
 
-# game/episode001.rpy:618
+    ce "對哦，你說得對，抱歉。"
+
+
 translate traditional_chinese ep001_basecamp_night_3d23594e:
 
-    # c "Don’t apologize, just focus. We’ll have time to grieve for these poor people later."
-    c ""
 
-# game/episode001.rpy:620
+    c "別道歉，專心點。我們以後有時間爲這些可憐人哀悼。"
+
+
 translate traditional_chinese ep001_basecamp_night_0d04e6dc:
 
-    # ce "N-nothing. There’s nothing but static?"
-    ce ""
 
-# game/episode001.rpy:621
+    ce "沒-沒什麼。只有靜電聲？"
+
+
 translate traditional_chinese ep001_basecamp_night_19cb03d8:
 
-    # ki "Do you have the right frequency?"
-    ki ""
 
-# game/episode001.rpy:622
+    ki "你有正確的頻率嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_7272e15f:
 
-    # ce "Yes! Something seems to be jamming all frequencies."
-    ce ""
 
-# game/episode001.rpy:623
+    ce "是的！有什麼東西好像在幹擾所有頻率。"
+
+
 translate traditional_chinese ep001_basecamp_night_f4b0fe4b:
 
-    # c "Fuck, that means the people who caused this slaughter are still on the moon’s surface."
-    c ""
 
-# game/episode001.rpy:624
+    c "狗日的，這意味着造成這場屠殺的人還在衛星表面上。"
+
+
 translate traditional_chinese ep001_basecamp_night_406d2fd0:
 
-    # ce "What should we do?!"
-    ce ""
 
-# game/episode001.rpy:625
+    ce "我們該怎麼辦？！"
+
+
 translate traditional_chinese ep001_basecamp_night_5dd5baab:
 
-    # c "This settlement might actually be a defensible position."
-    c ""
 
-# game/episode001.rpy:626
+    c "這個定居點可能確實是個可防禦的位置。"
+
+
 translate traditional_chinese ep001_basecamp_night_d9635fec:
 
-    # c "We need to clear every building, and search for any remaining threats or survivors."
-    c ""
 
-# game/episode001.rpy:627
+    c "我們需要清理每一棟建築，搜尋任何剩餘威脅或倖存者。"
+
+
 translate traditional_chinese ep001_basecamp_night_981fc92b:
 
-    # c "Lilly, Eva, Thim, you clear the outer perimeter. Kit, Céline and I will investigate the buildings and keep trying that damn radio."
-    c ""
 
-# game/episode001.rpy:629
+    c "莉莉、伊娃、蒂姆，你們清理外圍區域。基特、瑟琳和我來調查建築並繼續嘗試那該死的無線電。"
+
+
 translate traditional_chinese ep001_basecamp_night_46756c0e:
 
-    # "Most buildings were already reduced to cinders or too dangerous to even enter because of all the fire. Two houses were more or less intact and empty."
-    ""
 
-# game/episode001.rpy:630
+    "大多數建築已經被燒成灰燼或因爲火災太危險而無法進入。有兩所房子大致完好，但是空的。"
+
+
 translate traditional_chinese ep001_basecamp_night_371e4b00:
 
-    # "It wasn’t until we searched the huts at the back of the settlement that we found our first sign of life."
-    ""
 
-# game/episode001.rpy:632
+    "直到我們搜查定居點後面的小屋時，才發現了第一個生命跡象。"
+
+
 translate traditional_chinese ep001_basecamp_night_992792d9:
 
-    # "The man hiding in the dirty hovel was clearly too shocked to say a word."
-    ""
 
-# game/episode001.rpy:633
+    "躲在骯髒小屋裡的男人顯然震驚得說不出話來。"
+
+
 translate traditional_chinese ep001_basecamp_night_fb9f6faf:
 
-    # "The relief was visible in his eyes, though, when he was guided from his former home, supported by Kit."
-    ""
 
-# game/episode001.rpy:635
+    "然而，當他被從曾經的家帶出來時，可以看見他眼中流露出如釋重負，由基特攙扶着。"
+
+
 translate traditional_chinese ep001_basecamp_night_31a67657:
 
-    # "In the next hut, we encountered a similar scene."
-    ""
 
-# game/episode001.rpy:636
+    "在下一間小屋裡，我們遇到了類似的場景。"
+
+
 translate traditional_chinese ep001_basecamp_night_f97be8c7:
 
-    # "Two girls were hiding beneath a table, shivering with fear and unable to speak."
-    ""
 
-# game/episode001.rpy:637
+    "兩個女孩躲在桌子底下，嚇得發抖，說不出話來。"
+
+
 translate traditional_chinese ep001_basecamp_night_a43d50a3:
 
-    # "They clearly didn’t consider us to be a danger and came with us to the entrance of the settlement."
-    ""
 
-# game/episode001.rpy:639
+    "她們顯然不覺得我們有危險，跟我們一起來到了定居點的入口。"
+
+
 translate traditional_chinese ep001_basecamp_night_4c570673:
 
-    # ki "What now?"
-    ki ""
 
-# game/episode001.rpy:640
+    ki "現在怎麼辦？"
+
+
 translate traditional_chinese ep001_basecamp_night_2488f161:
 
-    # c "We wait for the others to return."
-    c ""
 
-# game/episode001.rpy:641
+    c "我們等其他人回來。"
+
+
 translate traditional_chinese ep001_basecamp_night_29705c8c:
 
-    # c "Check if any of the survivors need any medical attention."
-    c ""
 
-# game/episode001.rpy:646
+    c "檢查一下有沒有倖存者需要醫療幫助。"
+
+
 translate traditional_chinese ep001_basecamp_night_91943154:
 
-    # "Right at that moment we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
-    ""
 
-# game/episode001.rpy:647
+    "就在那一刻，我們被來自我派莉莉、伊娃和蒂姆去的那附近的槍聲震驚了。"
+
+
 translate traditional_chinese ep001_basecamp_night_fbe60faa:
 
-    # ce "What the fuck is that?!"
-    ce ""
 
-# game/episode001.rpy:648
+    ce "該死的那是什麼回事？！"
+
+
 translate traditional_chinese ep001_basecamp_night_b9d47996:
 
-    # c "The other group is under fire. Hurry!"
-    c ""
 
-# game/episode001.rpy:650
+    c "另一組正遭到攻擊。快點！"
+
+
 translate traditional_chinese ep001_basecamp_night_e37385b9:
 
-    # "We ran towards the commotion, ready to shoot at anything."
-    ""
 
-# game/episode001.rpy:652
+    "我們朝騷亂方向跑去，準備向任何東西開火。"
+
+
 translate traditional_chinese ep001_basecamp_night_4d8241e0:
 
-    # "What we found was a mixture of both horror and comedy."
-    ""
 
-# game/episode001.rpy:653
+    "我們發現的是一個恐怖和喜劇的混合物。"
+
+
 translate traditional_chinese ep001_basecamp_night_8434091c:
 
-    # "Lilly was being threatened by a muscular woman dressed in outrageous armor, carrying a huge sword."
-    ""
 
-# game/episode001.rpy:654
+    "莉莉正被一個壯實的女人威脅着，她穿着誇張的盔甲，還拿着一把巨大的劍。"
+
+
 translate traditional_chinese ep001_basecamp_night_8a5cf463:
 
-    # "It was as if she had walked straight out of some bad fantasy movie."
-    ""
 
-# game/episode001.rpy:655
+    "就好像她是直接從某個糟糕的奇幻電影裡走出來的。"
+
+
 translate traditional_chinese ep001_basecamp_night_d5a58373:
 
-    # "But the threat was very real."
-    ""
 
-# game/episode001.rpy:656
+    "但是威脅非常真實。"
+
+
 translate traditional_chinese ep001_basecamp_night_06bd5f03:
 
-    # "Another similarly clad woman stood close by Thim, who sat slumped against a tree, unconscious or dead."
-    ""
 
-# game/episode001.rpy:658
+    "另一個穿着類似的女人站在蒂姆旁邊，蒂姆靠在樹上，昏迷不醒或者死了。"
+
+
 translate traditional_chinese ep001_basecamp_night_f0b44f66:
 
-    # "Both women were looking at us, grinning, as if daring us to make a move."
-    ""
 
-# game/episode001.rpy:659
+    "兩個女人都咧嘴笑着看着我們，就好像在挑釁我們動手。"
+
+
 translate traditional_chinese ep001_basecamp_night_baa861e5:
 
-    # c "Hold your fire!"
-    c ""
 
-# game/episode001.rpy:660
+    c "別開槍！"
+
+
 translate traditional_chinese ep001_basecamp_night_9ae78c74:
 
-    # ce "[p_name]! Look!"
-    ce ""
 
-# game/episode001.rpy:662
+    ce "[p_name]！快看！"
+
+
 translate traditional_chinese ep001_basecamp_night_5a58321b:
 
-    # "That’s when I saw another warrior carrying Eva on her shoulder towards the jungle."
-    ""
 
-# game/episode001.rpy:663
+    "就在那時，我看到另一個戰士扛着伊娃，朝叢林走去。"
+
+
 translate traditional_chinese ep001_basecamp_night_b20ab119:
 
-    # c "Eva!"
-    c ""
 
-# game/episode001.rpy:665
+    c "伊娃！"
+
+
 translate traditional_chinese ep001_basecamp_night_fac74ec7:
 
-    # "Probably driven by instinct, Kit tried to do something heroic."
-    ""
 
-# game/episode001.rpy:666
+    "可能是本能驅使，基特想做個英雄舉動。"
+
+
 translate traditional_chinese ep001_basecamp_night_f87a3d03:
 
-    # "He rushed towards Eva..."
-    ""
 
-# game/episode001.rpy:668
+    "他衝向伊娃..."
+
+
 translate traditional_chinese ep001_basecamp_night_a2456440:
 
-    # "And found himself impaled on a sword."
-    ""
 
-# game/episode001.rpy:673
+    "結果被一把劍刺穿了身體。"
+
+
 translate traditional_chinese ep001_basecamp_night_e67e2abc:
 
-    # woman "Don’t try anything stupid."
-    woman ""
 
-# game/episode001.rpy:674
+    woman "別幹傻事。"
+
+
 translate traditional_chinese ep001_basecamp_night_2e32b5ee:
 
-    # "Her accent was thick, but I understood her well enough."
-    ""
 
-# game/episode001.rpy:675
+    "她口音很重，但我大致能聽懂她說的話。"
+
+
 translate traditional_chinese ep001_basecamp_night_d389ab5c:
 
-    # c "Let her go!"
-    c ""
 
-# game/episode001.rpy:676
+    c "放開她！"
+
+
 translate traditional_chinese ep001_basecamp_night_3a436f12:
 
-    # woman "I’ll let this one go, if you behave."
-    woman ""
 
-# game/episode001.rpy:678
+    woman "如果你們乖乖的，我就放了這個。"
+
+
 translate traditional_chinese ep001_basecamp_night_80e7ab73:
 
-    # "I stood helpless as the woman disappeared with my sister in the wilderness, my gaze alternating from Lilly to Kit bleeding on the ground."
-    ""
 
-# game/episode001.rpy:680
+    "我無助地站着，那個女人帶着我妹妹消失在荒野中，我的目光在流血倒地的莉莉和基特之間來回看。"
+
+
 translate traditional_chinese ep001_basecamp_night_ca5e907b:
 
-    # "I stood helpless as the woman disappeared with my friend in the wilderness, my gaze alternating from Lilly to Kit bleeding on the ground."
-    ""
 
-# game/episode001.rpy:682
+    "我無助地站着，那個女人帶着我朋友消失在荒野中，我的目光在流血倒地的莉莉和基特之間來回看。"
+
+
 translate traditional_chinese ep001_basecamp_night_c57d439c:
 
-    # woman "I’ll take my leave now."
-    woman ""
 
-# game/episode001.rpy:683
+    woman "我現在要走了。"
+
+
 translate traditional_chinese ep001_basecamp_night_406c0e23:
 
-    # "She slowly backed away, still grinning."
-    ""
 
-# game/episode001.rpy:684
+    "她慢慢後退，還在咧嘴笑着。"
+
+
 translate traditional_chinese ep001_basecamp_night_862ae3b8:
 
-    # "We all stood motionless until she disappeared."
-    ""
 
-# game/episode001.rpy:686
+    "我們全都一動不動站着，直到她消失。"
+
+
 translate traditional_chinese ep001_basecamp_night_4977fb44:
 
-    # c "Lilly! Are you okay?"
-    c ""
 
-# game/episode001.rpy:687
+    c "莉莉！你還好嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_2f3a7e72:
 
-    # l "J-just a little rattled."
-    l ""
 
-# game/episode001.rpy:688
+    l "就-就有點嚇到了。"
+
+
 translate traditional_chinese ep001_basecamp_night_9939ebd0:
 
-    # c "Don’t you feel that nasty cut near your neck?"
-    c ""
 
-# game/episode001.rpy:689
+    c "難道你沒感覺脖子旁邊那道噁心的傷口嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_6b342fbf:
 
-    # l "What?"
-    l ""
 
-# game/episode001.rpy:690
+    l "什麼？"
+
+
 translate traditional_chinese ep001_basecamp_night_a49632d4:
 
-    # l "No..."
-    l ""
 
-# game/episode001.rpy:691
+    l "不..."
+
+
 translate traditional_chinese ep001_basecamp_night_6480b17e:
 
-    # l "[p_name_short], they took Eva!"
-    l ""
 
-# game/episode001.rpy:692
+    l "[p_name_short]，他們抓走了伊娃！"
+
+
 translate traditional_chinese ep001_basecamp_night_677319f9:
 
-    # c "I know, we’ll get her back."
-    c ""
 
-# game/episode001.rpy:693
+    c "我知道，我們會把她救回來的。"
+
+
 translate traditional_chinese ep001_basecamp_night_b0ac8fe4:
 
-    # c "Hold on tight, I have to check on Kit first."
-    c ""
 
-# game/episode001.rpy:695
+    c "抓穩了，我得先去看看基特。"
+
+
 translate traditional_chinese ep001_basecamp_night_bea3026d:
 
-    # ce "Kit?!"
-    ce ""
 
-# game/episode001.rpy:696
+    ce "基特？！"
+
+
 translate traditional_chinese ep001_basecamp_night_e2e6eab2:
 
-    # ce "Why did you run towards her?!"
-    ce ""
 
-# game/episode001.rpy:697
+    ce "你爲什麼要朝她跑過去？！"
+
+
 translate traditional_chinese ep001_basecamp_night_f7ac48f8:
 
-    # c "How bad is it?"
-    c ""
 
-# game/episode001.rpy:698
+    c "傷得怎麼樣？"
+
+
 translate traditional_chinese ep001_basecamp_night_29c99eae:
 
-    # ce "She stabbed him through his guts, if he doesn’t get medical attention he’ll die!"
-    ce ""
 
-# game/episode001.rpy:699
+    ce "她用刀捅穿了他的內臟，如果他得不到救治，他會死的！"
+
+
 translate traditional_chinese ep001_basecamp_night_9c326cf8:
 
-    # ce "We need to get to a transport ship immediately!"
-    ce ""
 
-# game/episode001.rpy:700
+    ce "我們得立刻趕到運輸船去！"
+
+
 translate traditional_chinese ep001_basecamp_night_b1bc6d6c:
 
-    # c "But Eva! Goddamnit!!!"
-    c ""
 
-# game/episode001.rpy:702
+    c "可是伊娃！該死的！！！"
+
+
 translate traditional_chinese ep001_basecamp_night_060d5240:
 
-    # t "She’s gone man. Nothing you can do about it."
-    t ""
 
-# game/episode001.rpy:703
+    t "她不見了，夥計。你什麼也做不了。"
+
+
 translate traditional_chinese ep001_basecamp_night_8af846cc:
 
-    # c "Look who’s decided to conveniently wake up! Shut the fuck up, Thim."
-    c ""
 
-# game/episode001.rpy:705
+    c "看看是誰這麼挑時候醒過來了！閉上他媽的嘴，蒂姆。"
+
+
 translate traditional_chinese ep001_basecamp_night_6b8452f1:
 
-    # ki "It...{w} It feels so cold..."
-    ki ""
 
-# game/episode001.rpy:706
+    ki "它...{w}感覺好冷..."
+
+
 translate traditional_chinese ep001_basecamp_night_0a830946:
 
-    # c "Fuck!"
-    c ""
 
-# game/episode001.rpy:707
+    c "操！"
+
+
 translate traditional_chinese ep001_basecamp_night_fbab4fad:
 
-    # c "Céline, Thim, can you carry Lilly and get the villagers?"
-    c ""
 
-# game/episode001.rpy:708
+    c "瑟琳，蒂姆，你們能扶着莉莉去把村民們都弄來嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_b6db501c:
 
-    # ce "No problem, [p_name_short]."
-    ce ""
 
-# game/episode001.rpy:709
+    ce "沒問題，[p_name_short]。"
+
+
 translate traditional_chinese ep001_basecamp_night_b284dc60:
 
-    # t "Yes."
-    t ""
 
-# game/episode001.rpy:710
+    t "行。"
+
+
 translate traditional_chinese ep001_basecamp_night_bf4c1791:
 
-    # c "Good, I’ll carry Kit."
-    c ""
 
-# game/episode001.rpy:711
+    c "好，我來背基特。"
+
+
 translate traditional_chinese ep001_basecamp_night_c6328124:
 
-    # c "Try the radio again Céline, we might get lucky and get through to mission control."
-    c ""
 
-# game/episode001.rpy:716
+    c "瑟琳，再試試無線電，說不定我們運氣好能聯通任務控制中心。"
+
+
 translate traditional_chinese ep001_basecamp_night_3568a8d8:
 
-    # "Céline and Thim moved faster than I could, dragging Kit along, who was bleeding like crazy."
-    ""
 
-# game/episode001.rpy:717
+    "瑟琳和蒂姆跑得比我還快，拽着血流成河的基特。"
+
+
 translate traditional_chinese ep001_basecamp_night_764bee9f:
 
-    # "When I reached the settlement, the man and the girls were still standing where we left them, too stunned to act on their own."
-    ""
 
-# game/episode001.rpy:719
+    "等我趕到營地時，那個男人和姑娘們還傻站在我們留下的地方，都懵了，自己動彈不得。"
+
+
 translate traditional_chinese ep001_basecamp_night_988b2e2b:
 
-    # ce "The radio is working again!"
-    ce ""
 
-# game/episode001.rpy:720
+    ce "無線電恢復了！"
+
+
 translate traditional_chinese ep001_basecamp_night_195b7e81:
 
-    # ce "And mission control sent us coordinates."
-    ce ""
 
-# game/episode001.rpy:721
+    ce "然後任務控制中心發來了坐標。"
+
+
 translate traditional_chinese ep001_basecamp_night_07b95a0e:
 
-    # ce "They sounded pretty tense."
-    ce ""
 
-# game/episode001.rpy:722
+    ce "他們聽起來挺緊張的。"
+
+
 translate traditional_chinese ep001_basecamp_night_ab2ea424:
 
-    # c "Yes, this sure isn’t normal procedure for training missions."
-    c ""
 
-# game/episode001.rpy:723
+    c "是的，這絕對不是訓練任務的標準流程。"
+
+
 translate traditional_chinese ep001_basecamp_night_5d8bbd94:
 
-    # c "I bet nobody expected an all out surprise attack so close to human space."
-    c ""
 
-# game/episode001.rpy:724
+    c "我敢打賭，沒人會想到在這麼接近人類空間的地方會有一個全面突襲。"
+
+
 translate traditional_chinese ep001_basecamp_night_2c31e7fb:
 
-    # t "Who were those women?"
-    t ""
 
-# game/episode001.rpy:725
+    t "那些女人是誰？"
+
+
 translate traditional_chinese ep001_basecamp_night_8966baa1:
 
-    # c "Beats me."
-    c ""
 
-# game/episode001.rpy:726
+    c "搞不懂。"
+
+
 translate traditional_chinese ep001_basecamp_night_307aa731:
 
-    # c "I’m pretty sure we’ll find out when we’re debriefed by the brass once we’re back on the ship."
-    c ""
 
-# game/episode001.rpy:728
+    c "我很肯定，一旦我們回到船上向高層匯報時，就會搞清楚的。"
+
+
 translate traditional_chinese ep001_basecamp_night_8f7c3359:
 
-    # "The coordinates we received were several miles away from our position."
-    ""
 
-# game/episode001.rpy:729
+    "我們收到的坐標離我們的位置有幾英裏遠。"
+
+
 translate traditional_chinese ep001_basecamp_night_4b66c2ff:
 
-    # "The trek took several hours, because the wounded slowed us down."
-    ""
 
-# game/episode001.rpy:731
+    "這段徒步花了幾個小時，因爲傷員拖慢了我們的速度。"
+
+
 translate traditional_chinese ep001_basecamp_night_be0f4542:
 
-    # "When we arrived at the rendezvous point, several other groups of trainees had already checked in."
-    ""
 
-# game/episode001.rpy:732
+    "當我們到達集合點時，其他幾組受訓者已經報到完畢了。"
+
+
 translate traditional_chinese ep001_basecamp_night_ad824b22:
 
-    # "Many of them carried wounded, or even lifeless bodies with them."
-    ""
 
-# game/episode001.rpy:733
+    "很多人帶着傷員，甚至還有屍體。"
+
+
 translate traditional_chinese ep001_basecamp_night_6a39be94:
 
-    # "The incursion of the warriors seemed to have happened simultaneously on the surface of the entire moon."
-    ""
 
-# game/episode001.rpy:734
+    "那些戰士的入侵似乎在整個拉南星的表面同時發生了。"
+
+
 translate traditional_chinese ep001_basecamp_night_344c4af4:
 
-    # "An officer motioned us to enter a transport ship and after what seemed like ages we were finally lifted off the surface of Lanan to the safety of the Ypotryll."
-    ""
 
-# game/episode001.rpy:750
+    "一名軍官示意我們進入運輸船，經過了漫長得像幾世紀的時光後，我們終於從拉南星表面升起，到達安全區\"異龍\"號。"
+
+
 translate traditional_chinese ep001_basecamp_night_33b7fe99:
 
-    # "Everyone was silent during our return trip, except for the moans of the badly injured."
-    ""
 
-# game/episode001.rpy:751
+    "回程途中，除了重傷員的呻吟，大家都沉默不語。"
+
+
 translate traditional_chinese ep001_basecamp_night_e7bf46ef:
 
-    # "As soon as we landed in the belly of the Ypotryll and the doors of the transport opened, medical personnel streamed in."
-    ""
 
-# game/episode001.rpy:752
+    "一到達\"異龍\"號的肚子裡，運輸船的門一開，醫療人員就湧了進來。"
+
+
 translate traditional_chinese ep001_basecamp_night_7e79f429:
 
-    # "They began to take care of the many wounded, concentrating on the most critical first."
-    ""
 
-# game/episode001.rpy:753
+    "他們開始照顧大批傷員，優先處理情況最危急的那些。"
+
+
 translate traditional_chinese ep001_basecamp_night_ca032291:
 
-    # "I slipped out, making room so that they could accomplish their tasks."
-    ""
 
-# game/episode001.rpy:755
+    "我溜了出來，給他們騰出空間，好讓他們完成任務。"
+
+
 translate traditional_chinese ep001_basecamp_night_2c73f5a7:
 
-    # "A little disoriented, I decided to retire to my bunk."
-    ""
 
-# game/episode001.rpy:756
+    "我有點暈頭轉向，決定回我的牀鋪休息。"
+
+
 translate traditional_chinese ep001_basecamp_night_4bb3f466:
 
-    # "Before I could lie down properly and collect my thoughts I heard the door slide open."
-    ""
 
-# game/episode001.rpy:757
+    "沒等我躺好整理思緒，我就聽到門滑開了。"
+
+
 translate traditional_chinese ep001_basecamp_night_730d5479:
 
-    # j "Master [p_name]? Are you okay?"
-    j ""
 
-# game/episode001.rpy:762
+    j "主人 [p_name]？你沒事吧？"
+
+
 translate traditional_chinese ep001_basecamp_night_9a51997d:
 
-    # "Ah, Jade."
-    ""
 
-# game/episode001.rpy:763
+    "啊，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_b5a1565c:
 
-    # "Lovely Jade."
-    ""
 
-# game/episode001.rpy:765
+    "可愛的傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_0a480042:
 
-    # "My personal attendant, since my sixteenth birthday when Dad bought her for me as a coming-of-age birthday present."
-    ""
 
-# game/episode001.rpy:776
+    "她是我的私人隨從，從十六歲生日那天起就是我父親買給我的成年生日禮物。"
+
+
 translate traditional_chinese ep001_basecamp_night_8dac69f0:
 
-    # "She's a Twi'll."
-    ""
 
-# game/episode001.rpy:777
+    "她是個特維爾人。"
+
+
 translate traditional_chinese ep001_basecamp_night_60ea80f6:
 
-    # "Officially she's called Jade'anna N'ec L'ordann va T'olnec, but Jade is much shorter when I cry out her name during sex."
-    ""
 
-# game/episode001.rpy:778
+    "官方上她叫傑德安娜·內克·洛丹·瓦·託爾內克，但在做愛時喊她名字時，傑德短多了。"
+
+
 translate traditional_chinese ep001_basecamp_night_2fe4a9eb:
 
-    # "Twi'lls, females and males, are a valuable commodity in modern day society."
-    ""
 
-# game/episode001.rpy:779
+    "特維爾人，無論男女，在當今社會都是種值錢商品。"
+
+
 translate traditional_chinese ep001_basecamp_night_3ecda0b5:
 
-    # "They're commonly held as sex slaves."
-    ""
 
-# game/episode001.rpy:780
+    "他們常被蓄作性奴。"
+
+
 translate traditional_chinese ep001_basecamp_night_3fb71c90:
 
-    # "Despite the fact that the whole Twi'll race is portrayed as a degenerate species by the Department of Interplanetary Exploration, people sure want to fuck them real bad."
-    ""
 
-# game/episode001.rpy:781
+    "儘管星際探索部門把整個特維爾種族描繪成低劣物種，人們還是特想操他們。"
+
+
 translate traditional_chinese ep001_basecamp_night_64aa4637:
 
-    # "Their intelligence, well-toned humanoid bodies and fantastic skills between the bedsheets really speak volumes against any claim of degeneracy, but who am I to judge..."
-    ""
 
-# game/episode001.rpy:783
+    "他們的智商、健美類人身軀和牀上絕活都讓低劣說辭不攻自破，但我哪有資格評斷..."
+
+
 translate traditional_chinese ep001_basecamp_night_694c8dc3:
 
-    # "The Twi'll were the first species mankind encountered, during the first intergalactic space explorations."
-    ""
 
-# game/episode001.rpy:784
+    "特維爾人是人類首次星際太空探索時遇到的第一個外星種族。"
+
+
 translate traditional_chinese ep001_basecamp_night_8d5f3202:
 
-    # "They’re a peaceful race, not accustomed to warfare, so naturally we laid waste to their planet, killed nearly eighty percent of their population and enslaved the rest."
-    ""
 
-# game/episode001.rpy:785
+    "他們這族愛好和平，不擅徵戰，我們自然就踏平了他們星球，宰了八成人口，剩下當了奴隸。"
+
+
 translate traditional_chinese ep001_basecamp_night_bdb18c9e:
 
-    # "Most people treat their Twi'll slaves like shit. I try not to be an asshole to Jade and show her some respect, that seems to have worked out for us so far."
-    ""
 
-# game/episode001.rpy:797
+    "多數人對特維爾奴隸很惡劣，但我儘量不表現成個混蛋，待傑德尊重幾分，這招至今管用。"
+
+
 translate traditional_chinese ep001_basecamp_night_54c3e3bf:
 
-    # c "I’m fine. I think."
-    c ""
 
-# game/episode001.rpy:798
+    c "我沒事。大概。"
+
+
 translate traditional_chinese ep001_basecamp_night_3582f270:
 
-    # c "Hell, I don’t know."
-    c ""
 
-# game/episode001.rpy:799
+    c "該死的，我不知道。"
+
+
 translate traditional_chinese ep001_basecamp_night_299e47ba:
 
-    # c "I think she’s gone, Jade..."
-    c ""
 
-# game/episode001.rpy:800
+    c "我覺得她沒了，傑德..."
+
+
 translate traditional_chinese ep001_basecamp_night_c3bd9cc2:
 
-    # j "Who is?"
-    j ""
 
-# game/episode001.rpy:802
+    j "誰沒了？"
+
+
 translate traditional_chinese ep001_basecamp_night_9b2b7d89:
 
-    # c "My sister."
-    c ""
 
-# game/episode001.rpy:804
+    c "我妹妹。"
+
+
 translate traditional_chinese ep001_basecamp_night_a4f78b58:
 
-    # c "Eva..."
-    c ""
 
-# game/episode001.rpy:805
+    c "伊娃..."
+
+
 translate traditional_chinese ep001_basecamp_night_6cf230f4:
 
-    # j "Mistress Eva?"
-    j ""
 
-# game/episode001.rpy:807
+    j "伊娃大小姐？"
+
+
 translate traditional_chinese ep001_basecamp_night_b1b0be14:
 
-    # c "Who else?"
-    c ""
 
-# game/episode001.rpy:808
+    c "還能是誰？"
+
+
 translate traditional_chinese ep001_basecamp_night_e76008a5:
 
-    # c "Yes, we were ambushed on Lanan and they took her."
-    c ""
 
-# game/episode001.rpy:809
+    c "對，我們在拉南星遭伏擊，她們擄走了她。"
+
+
 translate traditional_chinese ep001_basecamp_night_4e73540b:
 
-    # j "Where?"
-    j ""
 
-# game/episode001.rpy:810
+    j "擄去哪兒？"
+
+
 translate traditional_chinese ep001_basecamp_night_73ddce7e:
 
-    # c "To their ships, I don’t know."
-    c ""
 
-# game/episode001.rpy:811
+    c "弄上她們的飛船了吧，不清楚。"
+
+
 translate traditional_chinese ep001_basecamp_night_993bb42d:
 
-    # j "I should’ve cancelled the whole mission while I was in their systems."
-    j ""
 
-# game/episode001.rpy:812
+    j "當初黑進他們系統時就該取消整個任務。"
+
+
 translate traditional_chinese ep001_basecamp_night_afc34e60:
 
-    # c "Jade...{w} You’re good with computers, but you’re not that good."
-    c ""
 
-# game/episode001.rpy:813
+    c "傑德...{w}你搞電腦是行家，但沒牛逼到那份上。"
+
+
 translate traditional_chinese ep001_basecamp_night_00fd5b3d:
 
-    # j "I know..."
-    j ""
 
-# game/episode001.rpy:814
+    j "我知道..."
+
+
 translate traditional_chinese ep001_basecamp_night_483187c1:
 
-    # j "But surely the navy is going after them, to intercept those vessels."
-    j ""
 
-# game/episode001.rpy:815
+    j "可艦隊總會追截那些船吧？"
+
+
 translate traditional_chinese ep001_basecamp_night_e0af98bc:
 
-    # c "I don’t think they will, they were as surprised as we were."
-    c ""
 
-# game/episode001.rpy:816
+    c "我看懸，他們當時和我們一樣懵。"
+
+
 translate traditional_chinese ep001_basecamp_night_70ff3cab:
 
-    # j "But she was still alive when you last saw her?"
-    j ""
 
-# game/episode001.rpy:817
+    j "但你最後見到她時人還活着？"
+
+
 translate traditional_chinese ep001_basecamp_night_50e67db7:
 
-    # c "She was."
-    c ""
 
-# game/episode001.rpy:818
+    c "她是的。"
+
+
 translate traditional_chinese ep001_basecamp_night_1f7c6585:
 
-    # j "Don’t lose hope then."
-    j ""
 
-# game/episode001.rpy:819
+    j "那就別失去希望。"
+
+
 translate traditional_chinese ep001_basecamp_night_e75cc6d2:
 
-    # c "I’m trying."
-    c ""
 
-# game/episode001.rpy:820
+    c "我在努力。"
+
+
 translate traditional_chinese ep001_basecamp_night_d8aee6ac:
 
-    # j "Can I do something to make it easier?"
-    j ""
 
-# game/episode001.rpy:824
+    j "我能做點什麼讓這事更容易些嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_d274c7e6:
 
-    # c "I’d like a massage, to alleviate the tension a little."
-    c ""
 
-# game/episode001.rpy:825
+    c "我想做個按摩，稍微緩解點緊張。"
+
+
 translate traditional_chinese ep001_basecamp_night_a1221ee5:
 
-    # j "Certainly."
-    j ""
 
-# game/episode001.rpy:827
+    j "當然可以。"
+
+
 translate traditional_chinese ep001_basecamp_night_b1a6f6f0:
 
-    # "Jade received training as an attendant, but you could tell she had a skill as masseuse which can’t be obtained by just learning."
-    ""
 
-# game/episode001.rpy:828
+    "傑德受過侍從訓練，但你能看出她有按摩師的天賦，這不是光靠學習就能得到的。"
+
+
 translate traditional_chinese ep001_basecamp_night_26f929a0:
 
-    # "It was almost as if she could attune herself to your body."
-    ""
 
-# game/episode001.rpy:830
+    "就仿佛她能讓自己適應你的身體一樣。"
+
+
 translate traditional_chinese ep001_basecamp_night_f534b800:
 
-    # j "Do you want me to go further?"
-    j ""
 
-# game/episode001.rpy:837
+    j "你想讓我繼續下去嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_ed2b260a:
 
-    # c "Yes, please."
-    c ""
 
-# game/episode001.rpy:844
+    c "是的，拜託。"
+
+
 translate traditional_chinese ep001_basecamp_night_65c5e559:
 
-    # c "You can be very arrogant, you know that?"
-    c ""
 
-# game/episode001.rpy:846
+    c "你很自負的，你知道嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_a8f4d86f:
 
-    # j "I know where my strengths lie and the proof of it coats my chest in abundance."
-    j ""
 
-# game/episode001.rpy:847
+    j "我知道我的優勢在哪兒，證據就在我豐滿的胸上。"
+
+
 translate traditional_chinese ep001_basecamp_night_60656f58:
 
-    # c "Will you lie with me for a while?"
-    c ""
 
-# game/episode001.rpy:848
+    c "你能跟我躺一會兒嗎？"
+
+
 translate traditional_chinese ep001_basecamp_night_5f925933:
 
-    # j "Of course!"
-    j ""
 
-# game/episode001.rpy:850
+    j "當然！"
+
+
 translate traditional_chinese ep001_basecamp_night_7a7b1630:
 
-    # "I embraced Jade and just took in her smell, laying there for almost an hour."
-    ""
 
-# game/episode001.rpy:851
+    "我抱住傑德，就聞着她的味道，躺在那兒快一個小時了。"
+
+
 translate traditional_chinese ep001_basecamp_night_a5614a36:
 
-    # "My bunkmates came and went, ignoring us mostly, some even had sex with their own attendants."
-    ""
 
-# game/episode001.rpy:852
+    "我的室友們來來回回，大多不理我們，有的甚至和自己的侍從做愛。"
+
+
 translate traditional_chinese ep001_basecamp_night_f8331767:
 
-    # "I dozed off, waking up hours later, feeling the distinct hum of a starship at full throttle immediately."
-    ""
 
-# game/episode001.rpy:853
+    "我打盹兒睡着了，幾小時後醒來，馬上感覺到一艘星艦全速時的獨特轟鳴聲。"
+
+
 translate traditional_chinese ep001_basecamp_night_727c3ba0:
 
-    # "The Ypotryll was still in orbit of Lanan when I went to sleep, but now we were moving at a brisk speed."
-    ""
 
-# game/episode001.rpy:854
+    "我睡覺時'異龍'號還在拉南星的軌道上，但現在我們正迅速前行。"
+
+
 translate traditional_chinese ep001_basecamp_night_4f167393:
 
-    # c "Go clean yourself up, I have some things to take care of."
-    c ""
 
-# game/episode001.rpy:855
+    c "你自己去洗漱一下，我有事情要處理。"
+
+
 translate traditional_chinese ep001_basecamp_night_091dab4c:
 
-    # j "Thank you, master."
-    j ""
 
-# game/episode001.rpy:856
+    j "謝謝您，主人。"
+
+
 translate traditional_chinese ep001_basecamp_night_39bae9f5:
 
-    # c "Thank you, Jade."
-    c ""
 
-# game/episode001.rpy:860
+    c "謝謝你，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_e3fabf91:
 
-    # c "Don’t take that tone with me, Jade. I’m not in the mood."
-    c ""
 
-# game/episode001.rpy:861
+    c "別用那種腔調跟我說話，傑德。我沒這個心情。"
+
+
 translate traditional_chinese ep001_basecamp_night_ce323e18:
 
-    # j "Of course, master. It won’t happen again."
-    j ""
 
-# game/episode001.rpy:862
+    j "當然，主人。不會再發生了。"
+
+
 translate traditional_chinese ep001_basecamp_night_d268016e:
 
-    # "I fell into a deep slumber after Jade left, waking up hours later."
-    ""
 
-# game/episode001.rpy:863
+    "傑德離開後，我陷入了沉睡，幾小時後醒來。"
+
+
 translate traditional_chinese ep001_basecamp_night_e527a57e:
 
-    # "Immediately I felt the distinct hum of a starship at full throttle."
-    ""
 
-# game/episode001.rpy:864
+    "立刻我就感覺到了星艦在全速時的獨特嗡嗡聲。"
+
+
 translate traditional_chinese ep001_basecamp_night_727c3ba0_1:
 
-    # "The Ypotryll was still in orbit of Lanan when I went to sleep, but now we were moving at a brisk speed."
-    ""
 
-# game/episode001.rpy:866
+    "\"異龍\"號在我入睡時還在拉南星的軌道上，但現在的我們正以輕快速度移動。"
+
+
 translate traditional_chinese ep001_basecamp_night_572aa3c9:
 
-    # c "Just lie with me, I just want someone to hold close."
-    c ""
 
-# game/episode001.rpy:868
+    c "就和我躺着吧，我只想有個人抱抱。"
+
+
 translate traditional_chinese ep001_basecamp_night_2840149d:
 
-    # "So we just lay there, my face buried in her soft, cool skin."
-    ""
 
-# game/episode001.rpy:869
+    "於是我們就這樣躺在那裡，我的臉埋在她柔軟、涼爽的皮膚中。"
+
+
 translate traditional_chinese ep001_basecamp_night_6cda3c79:
 
-    # "She stroked my hair and I cried until I fell asleep."
-    ""
 
-# game/episode001.rpy:870
+    "她輕撫我的頭髮，而我哭了，直到慢慢睡着了。"
+
+
 translate traditional_chinese ep001_basecamp_night_637eda1c:
 
-    # "I woke up hours later, feeling the distinct hum of a starship at full throttle immediately."
-    ""
 
-# game/episode001.rpy:871
+    "幾小時後我醒來，立刻感覺到了星艦在全速時的獨特嗡嗡聲。"
+
+
 translate traditional_chinese ep001_basecamp_night_727c3ba0_2:
 
-    # "The Ypotryll was still in orbit of Lanan when I went to sleep, but now we were moving at a brisk speed."
-    ""
 
-# game/episode001.rpy:872
+    "\"異龍\"號在我入睡時還在拉南星的軌道上，但現在的我們正以輕快速度移動。"
+
+
 translate traditional_chinese ep001_basecamp_night_e1ee9e97:
 
-    # c "I have to take care of some things, Jade."
-    c ""
 
-# game/episode001.rpy:873
+    c "我得處理些事情，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_5b5992f7:
 
-    # j "I understand, thank you, master."
-    j ""
 
-# game/episode001.rpy:874
+    j "我明白，謝謝您，主人。"
+
+
 translate traditional_chinese ep001_basecamp_night_39bae9f5_1:
 
-    # c "Thank you, Jade."
-    c ""
 
-# game/episode001.rpy:876
+    c "謝謝你，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_572aa3c9_1:
 
-    # c "Just lie with me, I just want someone to hold close."
-    c ""
 
-# game/episode001.rpy:878
+    c "就和我躺着吧，我只想有個人抱抱。"
+
+
 translate traditional_chinese ep001_basecamp_night_2840149d_1:
 
-    # "So we just lay there, my face buried in her soft, cool skin."
-    ""
 
-# game/episode001.rpy:879
+    "於是我們就這樣躺在那裡，我的臉埋在她柔軟、涼爽的皮膚中。"
+
+
 translate traditional_chinese ep001_basecamp_night_6cda3c79_1:
 
-    # "She stroked my hair and I cried until I fell asleep."
-    ""
 
-# game/episode001.rpy:880
+    "她輕撫我的頭髮，而我哭了，直到慢慢的睡着了。"
+
+
 translate traditional_chinese ep001_basecamp_night_637eda1c_1:
 
-    # "I woke up hours later, feeling the distinct hum of a starship at full throttle immediately."
-    ""
 
-# game/episode001.rpy:881
+    "幾小時後我醒來，立刻感覺到了星艦在全速時的獨特嗡嗡聲。"
+
+
 translate traditional_chinese ep001_basecamp_night_727c3ba0_3:
 
-    # "The Ypotryll was still in orbit of Lanan when I went to sleep, but now we were moving at a brisk speed."
-    ""
 
-# game/episode001.rpy:882
+    "\"異龍\"號在我入睡時還在拉南星的軌道上，但現在的我們正以輕快速度移動。"
+
+
 translate traditional_chinese ep001_basecamp_night_e1ee9e97_1:
 
-    # c "I have to take care of some things, Jade."
-    c ""
 
-# game/episode001.rpy:883
+    c "我得處理些事情，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_5b5992f7_1:
 
-    # j "I understand, thank you, master."
-    j ""
 
-# game/episode001.rpy:884
+    j "我明白，謝謝您，主人。"
+
+
 translate traditional_chinese ep001_basecamp_night_39bae9f5_2:
 
-    # c "Thank you, Jade."
-    c ""
 
-# game/episode001.rpy:886
+    c "謝謝你，傑德。"
+
+
 translate traditional_chinese ep001_basecamp_night_7cdb48d0:
 
-    # c "I’m not really in the mood."
-    c ""
 
-# game/episode001.rpy:887
+    c "我確實沒什麼心情。"
+
+
 translate traditional_chinese ep001_basecamp_night_6cb1d16d:
 
-    # c "I’m going to rest for a while."
-    c ""
 
-# game/episode001.rpy:888
+    c "我要休息一會兒。"
+
+
 translate traditional_chinese ep001_basecamp_night_541ab0af:
 
-    # j "I understand, you know where to find me."
-    j ""
 
-# game/episode001.rpy:890
+    j "我明白，你知道在哪找到我。"
+
+
 translate traditional_chinese ep001_basecamp_night_d268016e_1:
 
-    # "I fell into a deep slumber after Jade left, waking up hours later."
-    ""
 
-# game/episode001.rpy:891
+    "在傑德離開後，我陷入了沉睡，幾小時後醒來。"
+
+
 translate traditional_chinese ep001_basecamp_night_e527a57e_1:
 
-    # "Immediately I felt the distinct hum of a starship at full throttle."
-    ""
 
-# game/episode001.rpy:892
+    "立刻我就感覺到了星艦在全速時的獨特嗡嗡聲。"
+
+
 translate traditional_chinese ep001_basecamp_night_727c3ba0_4:
 
-    # "The Ypotryll was still in orbit of Lanan when I went to sleep, but now we were moving at a brisk speed."
-    ""
 
-# game/episode001.rpy:894
+    "\"異龍\"號在我入睡時還在拉南星的軌道上，但現在的我們正以輕快速度移動。"
+
+
 translate traditional_chinese ep001_basecamp_night_a20b034e:
 
-    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time he might have made it."
-    ""
 
-# game/episode001.rpy:896
+    "我決定去醫務室看看莉莉和基特怎麼樣了。基特的傷很重，但要是醫護人員及時趕到，他可能還有救。"
+
+
 translate traditional_chinese ep001_basecamp_night_8e51b58c:
 
-    # "The sickbay was packed to the brim with wounded recruits."
-    ""
 
-# game/episode001.rpy:897
+    "醫務室擠滿了傷員。"
+
+
 translate traditional_chinese ep001_basecamp_night_799975d8:
 
-    # "Commander Szuzume was coming out of one of the private medpods, probably the one where her son was lying."
-    ""
 
-# game/episode001.rpy:899
+    "蘇珠美指揮官正從一臺私人醫療艙出來，大概是她兒子躺着的那臺。"
+
+
 translate traditional_chinese ep001_basecamp_night_60833435:
 
-    # c "Commander."
-    c ""
 
-# game/episode001.rpy:900
+    c "指揮官。"
+
+
 translate traditional_chinese ep001_basecamp_night_0bb844a1:
 
-    # ca "Valenmann."
-    ca ""
 
-# game/episode001.rpy:901
+    ca "瓦倫曼。"
+
+
 translate traditional_chinese ep001_basecamp_night_37e33137:
 
-    # c "Is Kit going to make it, ma’am?"
-    c ""
 
-# game/episode001.rpy:902
+    c "基特能挺過去嗎，長官？"
+
+
 translate traditional_chinese ep001_basecamp_night_75d65bec:
 
-    # ca "The doctors say he will."
-    ca ""
 
-# game/episode001.rpy:903
+    ca "醫生說他會的。"
+
+
 translate traditional_chinese ep001_basecamp_night_11df6acb:
 
-    # ca "They had him in a medically induced coma, but now he’s sleeping."
-    ca ""
 
-# game/episode001.rpy:904
+    ca "他們給他用了藥物昏迷，但現在他在睡覺了。"
+
+
 translate traditional_chinese ep001_basecamp_night_2d9be606:
 
-    # c "What happened on Lanan..."
-    c ""
 
-# game/episode001.rpy:905
+    c "在拉南星上發生的事..."
+
+
 translate traditional_chinese ep001_basecamp_night_72816966:
 
-    # ca "Was a terrible tragedy."
-    ca ""
 
-# game/episode001.rpy:906
+    ca "是一場可怕的悲劇。"
+
+
 translate traditional_chinese ep001_basecamp_night_12031ed4:
 
-    # c "We are going back for the others, aren’t we, ma’am?"
-    c ""
 
-# game/episode001.rpy:907
+    c "我們會回去找其他人吧，是吧，長官？"
+
+
 translate traditional_chinese ep001_basecamp_night_bc049bf8:
 
-    # ca "I will not comment on the orders we received from Central Command."
-    ca ""
 
-# game/episode001.rpy:909
+    ca "我不會對我們從指揮中心收到的命令置評。"
+
+
 translate traditional_chinese ep001_basecamp_night_1147afe3:
 
-    # c "But they have my sister, we have to do something!"
-    c ""
 
-# game/episode001.rpy:911
+    c "但他們抓了我妹妹，我們必須做點什麼！"
+
+
 translate traditional_chinese ep001_basecamp_night_ae66e851:
 
-    # c "But they have my friend Eva, we have to do something!"
-    c ""
 
-# game/episode001.rpy:913
+    c "但他們抓了我朋友伊娃，我們必須做點什麼！"
+
+
 translate traditional_chinese ep001_basecamp_night_1aa9d5d7:
 
-    # ca "Don’t take that tone with me, boy or I’ll have you thrown into the brig."
-    ca ""
 
-# game/episode001.rpy:914
+    ca "別用那種語氣跟我說話，小子，不然我讓你被關進禁閉室。"
+
+
 translate traditional_chinese ep001_basecamp_night_aabf4508:
 
-    # ca "I haven’t forgotten that little stunt you pulled before flying out to Lanan."
-    ca ""
 
-# game/episode001.rpy:915
+    ca "我可沒忘你飛往拉南星前搞的那出小把戲。"
+
+
 translate traditional_chinese ep001_basecamp_night_981ff744:
 
-    # ca "I’ll deal with you later."
-    ca ""
 
-# game/episode001.rpy:916
+    ca "我等會兒再收拾你。"
+
+
 translate traditional_chinese ep001_basecamp_night_853e4ee5:
 
-    # "The recent events sure didn’t bring Commander Szuzume and me closer together..."
-    ""
 
-# game/episode001.rpy:917
+    "最近發生的事確實沒讓蘇珠美指揮官和我關係變得更親近..."
+
+
 translate traditional_chinese ep001_basecamp_night_6aef0900:
 
-    # "I decided to ignore her for the moment."
-    ""
 
-# game/episode001.rpy:925
+    "我決定先不理她。"
+
+
 translate traditional_chinese ep001_medbay_c66e4413:
 
-    # "Kit was lying peacefully and Szuzume had said he would recover, but everything still looked so very frail."
-    ""
 
-# game/episode001.rpy:926
+    "基特安靜地躺着，蘇珠美說過他會康復，但一切看起來還是很脆弱。"
+
+
 translate traditional_chinese ep001_medbay_5fa2465e:
 
-    # c "You stupid, stupid ass!"
-    c ""
 
-# game/episode001.rpy:927
+    c "你這蠢驢，蠢貨！"
+
+
 translate traditional_chinese ep001_medbay_854a2950:
 
-    # c "We’re going to shoot those deer or climb some stupid rock you’re always going on about."
-    c ""
 
-# game/episode001.rpy:928
+    c "我們要去獵那些鹿或者爬你總在念叨的蠢巖石。"
+
+
 translate traditional_chinese ep001_medbay_ad9a4672:
 
-    # c "Just don’t die on me!"
-    c ""
 
-# game/episode001.rpy:933
+    c "千萬別死在我眼前！"
+
+
 translate traditional_chinese ep001_medbay_01b7cd23:
 
-    # c "Hey Thim, how are you?"
-    c ""
 
-# game/episode001.rpy:934
+    c "嘿蒂姆，你怎麼樣？"
+
+
 translate traditional_chinese ep001_medbay_ec2601e4:
 
-    # t "Like you care."
-    t ""
 
-# game/episode001.rpy:935
+    t "說得好像你在乎似的。"
+
+
 translate traditional_chinese ep001_medbay_0b56ac19:
 
-    # c "I do, actually."
-    c ""
 
-# game/episode001.rpy:936
+    c "其實我在乎。"
+
+
 translate traditional_chinese ep001_medbay_a9a90d2e:
 
-    # t "Go fuck yourself, [p_name]."
-    t ""
 
-# game/episode001.rpy:937
+    t "去你媽的，[p_name]。"
+
+
 translate traditional_chinese ep001_medbay_7fe21d6c:
 
-    # "Obviously pissed off at me, Thim just stared into the distance."
-    ""
 
-# game/episode001.rpy:941
+    "蒂姆顯然被我惹毛了，直勾勾瞪着遠處。"
+
+
 translate traditional_chinese ep001_medbay_c7dbac7c:
 
-    # "Talking to Thim was the last thing I wanted."
-    ""
 
-# game/episode001.rpy:942
+    "跟蒂姆搭話是我最不想做的事。"
+
+
 translate traditional_chinese ep001_medbay_b462a39a:
 
-    # "I couldn’t bear seeing that smug face."
-    ""
 
-# game/episode001.rpy:943
+    "我受不了看他那張得意的臉。"
+
+
 translate traditional_chinese ep001_medbay_9cfa93ec:
 
-    # "So I ignored him."
-    ""
 
-# game/episode001.rpy:948
+    "所以我沒理他。"
+
+
 translate traditional_chinese ep001_medbay_95636ff3:
 
-    # c "How are you feeling?"
-    c ""
 
-# game/episode001.rpy:949
+    c "你感覺怎麼樣？"
+
+
 translate traditional_chinese ep001_medbay_d6eecbf8:
 
-    # l "Fine..."
-    l ""
 
-# game/episode001.rpy:951
+    l "還行..."
+
+
 translate traditional_chinese ep001_medbay_679108ef:
 
-    # l "Eva! Where is she?!"
-    l ""
 
-# game/episode001.rpy:952
+    l "伊娃！她在哪？！"
+
+
 translate traditional_chinese ep001_medbay_2d18217c:
 
-    # c "They took her, Lilly..."
-    c ""
 
-# game/episode001.rpy:953
+    c "他們抓走了她，莉莉..."
+
+
 translate traditional_chinese ep001_medbay_ab72906c:
 
-    # l "Is she dead?"
-    l ""
 
-# game/episode001.rpy:954
+    l "她死了嗎？"
+
+
 translate traditional_chinese ep001_medbay_299d153d:
 
-    # c "I don’t know."
-    c ""
 
-# game/episode001.rpy:955
+    c "我不知道。"
+
+
 translate traditional_chinese ep001_medbay_1d1c53e6:
 
-    # c "They left with her."
-    c ""
 
-# game/episode001.rpy:957
+    c "他們帶着她撤離了。"
+
+
 translate traditional_chinese ep001_medbay_3ece0f14:
 
-    # l "That woman knocked me out."
-    l ""
 
-# game/episode001.rpy:958
+    l "那女人把我打暈了。"
+
+
 translate traditional_chinese ep001_medbay_7a1fdaa4:
 
-    # l "Eva tried to fight her, but there were too many."
-    l ""
 
-# game/episode001.rpy:959
+    l "伊娃想反擊，但對方人太多了。"
+
+
 translate traditional_chinese ep001_medbay_cc0109f0:
 
-    # c "They stabbed Kit."
-    c ""
 
-# game/episode001.rpy:960
+    c "他們捅傷了基特。"
+
+
 translate traditional_chinese ep001_medbay_103fb102:
 
-    # c "What happened back there, Lilly?"
-    c ""
 
-# game/episode001.rpy:962
+    c "當時怎麼回事，莉莉？"
+
+
 translate traditional_chinese ep001_medbay_878d1367:
 
-    # l "We were checking the perimeter, like you ordered."
-    l ""
 
-# game/episode001.rpy:964
+    l "我們按你命令在巡查邊界。"
+
+
 translate traditional_chinese ep001_medbay_9198a1d2:
 
-    # l "And suddenly they came streaming out of the forest, screaming like demons."
-    l ""
 
-# game/episode001.rpy:966
+    l "結果他們突然像惡魔般嚎叫着從森林裡湧出來。"
+
+
 translate traditional_chinese ep001_medbay_69ec7873:
 
-    # l "Demons with swords, straight from those movies about the Middle Ages."
-    l ""
 
-# game/episode001.rpy:967
+    l "那羣拿劍的惡魔，活脫脫從中世紀電影裡鑽出來的。"
+
+
 translate traditional_chinese ep001_medbay_f6f3e3c9:
 
-    # l "We tried to shoot them, but they were upon us in seconds."
-    l ""
 
-# game/episode001.rpy:968
+    l "我們開槍阻擊，可他們幾秒鐘就撲到面前。"
+
+
 translate traditional_chinese ep001_medbay_cfcd4b6c:
 
-    # l "Thim was knocked back against a tree and someone hit me with the flat of a sword."
-    l ""
 
-# game/episode001.rpy:969
+    l "蒂姆被撞到樹上，有人用劍身拍暈了我。"
+
+
 translate traditional_chinese ep001_medbay_b7e1695e:
 
-    # l "That’s all I remember."
-    l ""
 
-# game/episode001.rpy:970
+    l "我就記得這些。"
+
+
 translate traditional_chinese ep001_medbay_6f84d4fd:
 
-    # c "We found you just after that happened."
-    c ""
 
-# game/episode001.rpy:971
+    c "就在那發生之後不久，我們找到了你。"
+
+
 translate traditional_chinese ep001_medbay_668c33ae:
 
-    # c "They took Eva and left."
-    c ""
 
-# game/episode001.rpy:972
+    c "他們抓走了伊娃就撤了。"
+
+
 translate traditional_chinese ep001_medbay_80732f13:
 
-    # c "And we carried you back to the transports."
-    c ""
 
-# game/episode001.rpy:973
+    c "然後我們把你扛回運輸機。"
+
+
 translate traditional_chinese ep001_medbay_80894d6b:
 
-    # c "I think this happened all over the moon, one large ambush."
-    c ""
 
-# game/episode001.rpy:975
+    c "我猜整個衛星都遭殃了，這是場大型伏擊戰。"
+
+
 translate traditional_chinese ep001_medbay_04013a90:
 
-    # l "But why?"
-    l ""
 
-# game/episode001.rpy:976
+    l "但爲什麼呢？"
+
+
 translate traditional_chinese ep001_medbay_57a37dc8:
 
-    # c "Beats me, but I intend to find out."
-    c ""
 
-# game/episode001.rpy:977
+    c "鬼知道，但我非查個水落石出不可。"
+
+
 translate traditional_chinese ep001_medbay_04b9a569:
 
-    # c "We seem to be going somewhere as well."
-    c ""
 
-# game/episode001.rpy:978
+    c "我們現在好像也在去往某個地方。"
+
+
 translate traditional_chinese ep001_medbay_7b3620cc:
 
-    # c "I sure as hell hope we’re pursuing those Medieval bitches."
-    c ""
 
-# game/episode001.rpy:979
+    c "我當然希望着是在追那羣中世紀婊子。"
+
+
 translate traditional_chinese ep001_medbay_58fc3a69:
 
-    # l "We’ll figure something out together."
-    l ""
 
-# game/episode001.rpy:980
+    l "我們會一起想出辦法的。"
+
+
 translate traditional_chinese ep001_medbay_3bba3add:
 
-    # l "The doctors say I’ll be out of here in a day or two."
-    l ""
 
-# game/episode001.rpy:981
+    l "醫生說我再躺一兩天就能出院。"
+
+
 translate traditional_chinese ep001_medbay_c317ee4e:
 
-    # l "Please don’t do anything stupid."
-    l ""
 
-# game/episode001.rpy:982
+    l "你可千萬別做什麼愚蠢的事。"
+
+
 translate traditional_chinese ep001_medbay_bfd35cfa:
 
-    # "Of course I was planning on doing just that."
-    ""
 
-# game/episode001.rpy:983
+    "當然我正打算這麼幹。"
+
+
 translate traditional_chinese ep001_medbay_d5698728:
 
-    # c "I’ll try to stay out of trouble."
-    c ""
 
-# game/episode001.rpy:987
+    c "我會儘量不惹麻煩。"
+
+
 translate traditional_chinese ep001_medbay_6b1855d5:
 
-    # "I felt a soft hand on my arm as I was about to leave the infirmary, it was one of the girls we rescued from the village."
-    ""
 
-# game/episode001.rpy:989
+    "剛要踏出醫務室，忽然有隻柔軟的手搭上我胳膊，是村裏救出來的姑娘之一。"
+
+
 translate traditional_chinese ep001_medbay_c175a1e1:
 
-    # ve "You're [p_name], right?"
-    ve ""
 
-# game/episode001.rpy:990
+    ve "您是[p_name]對吧？"
+
+
 translate traditional_chinese ep001_medbay_565d481c:
 
-    # ve "I wanted to thank you for saving us."
-    ve ""
 
-# game/episode001.rpy:991
+    ve "想當面謝謝您的救命之恩。"
+
+
 translate traditional_chinese ep001_medbay_c3e8a2f5:
 
-    # c "No problem, it was the least we could do."
-    c ""
 
-# game/episode001.rpy:992
+    c "舉手之勞，應該的。"
+
+
 translate traditional_chinese ep001_medbay_cdd61b50:
 
-    # c "How are you feeling...{w} eh...{w} miss?"
-    c ""
 
-# game/episode001.rpy:993
+    c "你現在感覺怎麼樣...{w}呃...{w}姑娘？"
+
+
 translate traditional_chinese ep001_medbay_aa2d04df:
 
-    # ve "I'm okay."
-    ve ""
 
-# game/episode001.rpy:994
+    ve "我還好。"
+
+
 translate traditional_chinese ep001_medbay_ae243474:
 
-    # c "And the others?"
-    c ""
 
-# game/episode001.rpy:995
+    c "其他人呢？"
+
+
 translate traditional_chinese ep001_medbay_c970b117:
 
-    # ve "We lost track of each other when we disembarked."
-    ve ""
 
-# game/episode001.rpy:996
+    ve "下船時就走散了。"
+
+
 translate traditional_chinese ep001_medbay_fa58e17f:
 
-    # c "They were your family?"
-    c ""
 
-# game/episode001.rpy:997
+    c "是你家人？"
+
+
 translate traditional_chinese ep001_medbay_0de20b95:
 
-    # c "I could go look for them?"
-    c ""
 
-# game/episode001.rpy:998
+    c "要不去幫你找找？"
+
+
 translate traditional_chinese ep001_medbay_03f899db:
 
-    # ve "No, other people from my village."
-    ve ""
 
-# game/episode001.rpy:1000
+    ve "不，是同村的村民。"
+
+
 translate traditional_chinese ep001_medbay_7a17881f:
 
-    # ve "My family got taken by those women."
-    ve ""
 
-# game/episode001.rpy:1001
+    ve "我的家人被那些女人帶走了。"
+
+
 translate traditional_chinese ep001_medbay_475e4813:
 
-    # c "Fuck, that’s harsh."
-    c ""
 
-# game/episode001.rpy:1003
+    c "操，那可真糟。"
+
+
 translate traditional_chinese ep001_medbay_c4541d4f:
 
-    # c "They got my sister."
-    c ""
 
-# game/episode001.rpy:1005
+    c "他們抓走了我妹妹。"
+
+
 translate traditional_chinese ep001_medbay_028b98f3:
 
-    # c "They got one of my best friends."
-    c ""
 
-# game/episode001.rpy:1007
+    c "他們抓走了我的一個最好的朋友。"
+
+
 translate traditional_chinese ep001_medbay_addaea31:
 
-    # ve "What's going to happen to them, [p_name]?"
-    ve ""
 
-# game/episode001.rpy:1008
+    ve "他們會怎麼樣，[p_name]？"
+
+
 translate traditional_chinese ep001_medbay_cf127f85:
 
-    # c "I don't know..."
-    c ""
 
-# game/episode001.rpy:1009
+    c "我不知道..."
+
+
 translate traditional_chinese ep001_medbay_9e4daf38:
 
-    # ve "There'll be a rescue operation, won't there?"
-    ve ""
 
-# game/episode001.rpy:1010
+    ve "會有救援行動，對吧？"
+
+
 translate traditional_chinese ep001_medbay_0437514d:
 
-    # ve "They have to do something!"
-    ve ""
 
-# game/episode001.rpy:1011
+    ve "他們必須得做點什麼！"
+
+
 translate traditional_chinese ep001_medbay_f1b27b78:
 
-    # c "I'm going to find out."
-    c ""
 
-# game/episode001.rpy:1012
+    c "我去確定一下。"
+
+
 translate traditional_chinese ep001_medbay_3f51a312:
 
-    # c "I'll let you know as soon as I know more."
-    c ""
 
-# game/episode001.rpy:1014
+    c "我一有更多消息就告訴你。"
+
+
 translate traditional_chinese ep001_medbay_4187cda3:
 
-    # ve "Thank you."
-    ve ""
 
-# game/episode001.rpy:1015
+    ve "謝謝。"
+
+
 translate traditional_chinese ep001_medbay_a65ebbcb:
 
-    # c "You're welcome...{w} miss..."
-    c ""
 
-# game/episode001.rpy:1017
+    c "不客氣...{w} 小姐..."
+
+
 translate traditional_chinese ep001_medbay_a57bb48f:
 
-    # ve "Vess, my name is Vess."
-    ve ""
 
-# game/episode001.rpy:1018
+    ve "薇絲，我的名字是薇絲。"
+
+
 translate traditional_chinese ep001_medbay_d102588e:
 
-    # c "You're welcome, Vess."
-    c ""
 
-# game/episode001.rpy:1033
+    c "不客氣，薇絲。"
+
+
 translate traditional_chinese ep001_medbay_afbf80ac:
 
-    # "I decided to pay Commander Szuzume a visit on the bridge, perhaps in a fool-hearted attempt to play on her emotions and convince her to help the abductees."
-    ""
 
-# game/episode001.rpy:1035
+    "我決定在艦橋上拜訪蘇珠美指揮官，可能是個傻氣的嘗試，想打動她的情緒，說服她幫忙救被綁架的人。"
+
+
 translate traditional_chinese ep001_medbay_6e6cb166:
 
-    # man "State your business."
-    man ""
 
-# game/episode001.rpy:1036
+    man "說明來意。"
+
+
 translate traditional_chinese ep001_medbay_763e1d6c:
 
-    # c "I have a message for the Commander."
-    c ""
 
-# game/episode001.rpy:1037
+    c "我有消息給指揮官。"
+
+
 translate traditional_chinese ep001_medbay_90ccd22a:
 
-    # man "You can deliver it to me."
-    man ""
 
-# game/episode001.rpy:1038
+    man "你可以告訴我。"
+
+
 translate traditional_chinese ep001_medbay_6044b4a8:
 
-    # c "It’s for her ears only."
-    c ""
 
-# game/episode001.rpy:1039
+    c "只能讓她聽。"
+
+
 translate traditional_chinese ep001_medbay_27b47230:
 
-    # man "Commander Szuzume has explicitly forbidden any interruptions while we travel back to the academy."
-    man ""
 
-# game/episode001.rpy:1040
+    man "蘇珠美指揮官在我們返回學院的路上明確禁止任何打擾。"
+
+
 translate traditional_chinese ep001_medbay_994b5aa9:
 
-    # c "We’re going back to the academy?!"
-    c ""
 
-# game/episode001.rpy:1041
+    c "我們要回學院了？！"
+
+
 translate traditional_chinese ep001_medbay_923fd698:
 
-    # c "But the attack on Lanan?"
-    c ""
 
-# game/episode001.rpy:1042
+    c "但拉南星被襲擊怎麼辦？"
+
+
 translate traditional_chinese ep001_medbay_8f7d09da:
 
-    # c "Why are we not pursuing the attackers?!"
-    c ""
 
-# game/episode001.rpy:1043
+    c "我們爲什麼不追襲擊者？！"
+
+
 translate traditional_chinese ep001_medbay_8b0adbcf:
 
-    # c "You have to let me in."
-    c ""
 
-# game/episode001.rpy:1044
+    c "你們得讓我進去。"
+
+
 translate traditional_chinese ep001_medbay_33e3755d:
 
-    # man "You’re testing my patience, boy."
-    man ""
 
-# game/episode001.rpy:1045
+    man "你在考驗我的耐心啊，小子。"
+
+
 translate traditional_chinese ep001_medbay_f85b644f:
 
-    # man "We have our orders from high command, you will be briefed as soon as we reach the academy."
-    man ""
 
-# game/episode001.rpy:1046
+    man "我們接到了最高指揮部的命令，一到學院就會給你簡報。"
+
+
 translate traditional_chinese ep001_medbay_4691b830:
 
-    # "I could have punched that smug bastard in the face."
-    ""
 
-# game/episode001.rpy:1047
+    "我真想一拳打在那個傲慢的混蛋臉上。"
+
+
 translate traditional_chinese ep001_medbay_3883a01c:
 
-    # "Every minute we travelled any hope of finding a trace of Eva dwindled."
-    ""
 
-# game/episode001.rpy:1048
+    "每過一分鐘，找到伊娃線索的希望就更加渺茫。"
+
+
 translate traditional_chinese ep001_medbay_5a76d8e7:
 
-    # "Instead, I said nothing and just walked away."
-    ""
 
-# game/episode001.rpy:1049
+    "相反，我一句話沒說就離開了。"
+
+
 translate traditional_chinese ep001_medbay_6793b035:
 
-    # man "Hey, soldier?! Didn’t you have a message for the Commander?"
-    man ""
 
-# game/episode001.rpy:1051
+    man "嘿，士兵？！你不是有消息要給指揮官嗎？"
+
+
 translate traditional_chinese ep001_medbay_90905c46:
 
-    # "I sat in the mess hall, barely touching my food and listening to the conversations of the people gathered there."
-    ""
 
-# game/episode001.rpy:1052
+    "我坐在食堂裏，幾乎沒碰我的食物，聽着聚集在那裡的人們的談話。"
+
+
 translate traditional_chinese ep001_medbay_bfd3bc87:
 
-    # "I already knew the attacks happened everywhere on Lanan and came out of nowhere."
-    ""
 
-# game/episode001.rpy:1053
+    "我早知襲擊遍布拉南星各處，而且來得很突然。"
+
+
 translate traditional_chinese ep001_medbay_bd61e650:
 
-    # "Several recruits lost a team member, a lot of them women, but a fair share of men were also abducted."
-    ""
 
-# game/episode001.rpy:1054
+    "有幾個新兵失去了隊友，其中很多是女性，但也有不少男性被綁架。"
+
+
 translate traditional_chinese ep001_medbay_0ea02450:
 
-    # "The atmosphere of resignation finally became too much for me and I retired to my bunk."
-    ""
 
-# game/episode001.rpy:1056
+    "那種順從、認命的氛圍終於讓我受不了了，我便回到了我的鋪位。"
+
+
 translate traditional_chinese ep001_medbay_d5be3934:
 
-    # "I tried to get some sleep again, but instead I remained awake, a desperate plan forming in my head."
-    ""
 
-# game/episode001.rpy:1059
+    "我又試圖睡一覺，可反而清醒着，腦中構思出一個絕望的計劃。"
+
+
 translate traditional_chinese ep001_medbay_b647fb6a:
 
-    # "I went back to the medbay immediately, expecting to find Lilly and a comatose Kit there."
-    ""
 
-# game/episode001.rpy:1060
+    "我立刻返回醫務室，期待找到莉莉和處於昏迷狀態的基特。"
+
+
 translate traditional_chinese ep001_medbay_6adb1302:
 
-    # "Instead, Lilly and Céline were hovering around Kit’s bed."
-    ""
 
-# game/episode001.rpy:1061
+    "結果反而是莉莉和瑟琳守在基特的牀邊。"
+
+
 translate traditional_chinese ep001_medbay_f361c988:
 
-    # "Both Thim and the girl, Vess, were nowhere to be found, they were probably released from the medbay earlier."
-    ""
 
-# game/episode001.rpy:1063
+    "蒂姆和那個女孩薇絲都不見蹤影，他們可能早些時候從醫務室出來了。"
+
+
 translate traditional_chinese ep001_medbay_63fc69ff:
 
-    # c "Kit?!"
-    c ""
 
-# game/episode001.rpy:1064
+    c "基特？！"
+
+
 translate traditional_chinese ep001_medbay_f772077e:
 
-    # c "How did you?"
-    c ""
 
-# game/episode001.rpy:1065
+    c "你怎麼做到的？"
+
+
 translate traditional_chinese ep001_medbay_60ccf1f4:
 
-    # ki "Superior genes."
-    ki ""
 
-# game/episode001.rpy:1066
+    ki "卓越的基因。"
+
+
 translate traditional_chinese ep001_medbay_65a5a57c:
 
-    # c "Somebody rammed a sword through you, I somehow doubt that your perfect genes would have any significant effect."
-    c ""
 
-# game/episode001.rpy:1067
+    c "有人用劍刺穿了你，我總覺得你那完美基因不可能有多大用處。"
+
+
 translate traditional_chinese ep001_medbay_4b1a9ba2:
 
-    # ki "The doctor says I’ll make a speedy recovery, provided I rest enough."
-    ki ""
 
-# game/episode001.rpy:1068
+    ki "醫生說只要我休息夠，就能快速康復。"
+
+
 translate traditional_chinese ep001_medbay_660d36e7:
 
-    # c "Great!"
-    c ""
 
-# game/episode001.rpy:1069
+    c "太好了！"
+
+
 translate traditional_chinese ep001_medbay_d6a1192d:
 
-    # c "I hate to ask this, but can you walk?"
-    c ""
 
-# game/episode001.rpy:1071
+    c "我不太想問這個，但你能走路嗎？"
+
+
 translate traditional_chinese ep001_medbay_c5ff82f4:
 
-    # ki "Walk? Why?"
-    ki ""
 
-# game/episode001.rpy:1072
+    ki "走路？爲什麼？"
+
+
 translate traditional_chinese ep001_medbay_14355811:
 
-    # l "He just said the doctors told him to rest enough."
-    l ""
 
-# game/episode001.rpy:1073
+    l "他剛說醫生告訴他要多休息。"
+
+
 translate traditional_chinese ep001_medbay_44e02d17:
 
-    # c "I know, but this is important."
-    c ""
 
-# game/episode001.rpy:1074
+    c "我知道，但這很重要。"
+
+
 translate traditional_chinese ep001_medbay_d31bb26f:
 
-    # c "Are you able to walk, Lilly?"
-    c ""
 
-# game/episode001.rpy:1075
+    c "能走嗎，莉莉？"
+
+
 translate traditional_chinese ep001_medbay_d37a2cb7:
 
-    # l "I think so."
-    l ""
 
-# game/episode001.rpy:1077
+    l "我想能。"
+
+
 translate traditional_chinese ep001_medbay_621faa9b:
 
-    # l "What are you playing at, [p_name]?"
-    l ""
 
-# game/episode001.rpy:1078
+    l "你在玩什麼把戲，[p_name]？"
+
+
 translate traditional_chinese ep001_medbay_07985ed5:
 
-    # c "Meet me at hangar deck 2 at midnight, I’ll tell you then."
-    c ""
 
-# game/episode001.rpy:1080
+    c "午夜在二號機庫甲板見我，到時告訴你。"
+
+
 translate traditional_chinese ep001_medbay_f861dab6:
 
-    # ki "I’ll be there, man."
-    ki ""
 
-# game/episode001.rpy:1081
+    ki "我會去的，老兄。"
+
+
 translate traditional_chinese ep001_medbay_fbd502d7:
 
-    # ki "You’ll carry me, right, Céline?"
-    ki ""
 
-# game/episode001.rpy:1082
+    ki "你會背我，對吧，瑟琳？"
+
+
 translate traditional_chinese ep001_medbay_a2c09323:
 
-    # ce "I’m sure we can find a wheelchair somewhere."
-    ce ""
 
-# game/episode001.rpy:1083
+    ce "我確定我們能找到輪椅的，在某處。"
+
+
 translate traditional_chinese ep001_medbay_a75a54aa:
 
-    # ki "I hadn’t thought of that."
-    ki ""
 
-# game/episode001.rpy:1084
+    ki "我沒想到那點。"
+
+
 translate traditional_chinese ep001_medbay_31546c6b:
 
-    # ce "Of course you didn’t."
-    ce ""
 
-# game/episode001.rpy:1085
+    ce "你當然沒想了。"
+
+
 translate traditional_chinese ep001_medbay_2e9a5575:
 
-    # ki "Cut me some slack, sis, I wonder how quick your mind works when they puncture you with a big ass sword."
-    ki ""
 
-# game/episode001.rpy:1087
+    ki "給我點面子，妹妹，我好奇他們用那大屁股劍戳你時你腦子轉多快。"
+
+
 translate traditional_chinese ep001_medbay_fd950ed0:
 
-    # c "Will you be there, Lilly?"
-    c ""
 
-# game/episode001.rpy:1088
+    c "你會來嗎，莉莉？"
+
+
 translate traditional_chinese ep001_medbay_755acbbb:
 
-    # l "This is crazy."
-    l ""
 
-# game/episode001.rpy:1089
+    l "這太瘋狂了。"
+
+
 translate traditional_chinese ep001_medbay_7df34f95:
 
-    # c "Lilly?"
-    c ""
 
-# game/episode001.rpy:1090
+    c "莉莉？"
+
+
 translate traditional_chinese ep001_medbay_594deebe:
 
-    # l "Fine. I’ll be there."
-    l ""
 
-# game/episode001.rpy:1091
+    l "好吧。我會來的。"
+
+
 translate traditional_chinese ep001_medbay_a49d4957:
 
-    # l "But just to hear you out."
-    l ""
 
-# game/episode001.rpy:1092
+    l "但只是想聽聽你說什麼。"
+
+
 translate traditional_chinese ep001_medbay_e5e57fe5:
 
-    # c "Fair enough."
-    c ""
 
-# game/episode001.rpy:1093
+    c "很好。"
+
+
 translate traditional_chinese ep001_medbay_bb77a290:
 
-    # "I'm sure I left them a little confused and very worried..."
-    ""
 
-# game/episode001.rpy:1094
+    "我確定我讓他們有點困惑還很擔心..."
+
+
 translate traditional_chinese ep001_medbay_24c9e878:
 
-    # "On the way back to my bunk I messaged Jade to come to the meeting point."
-    ""
 
-# game/episode001.rpy:1096
+    "回宿舍路上我發消息給傑德來會合點。"
+
+
 translate traditional_chinese ep001_medbay_a2a8a870:
 
-    # "The hours until midnight slowly passed by."
-    ""
 
-# game/episode001.rpy:1098
+    "午夜前的時光慢慢地過去了。"
+
+
 translate traditional_chinese ep001_medbay_5f1b52e9:
 
-    # "As the crew of the ship retired for the night I headed out to the hangar deck."
-    ""
 
-# game/episode001.rpy:1100
+    "當船的機組成員去休息過夜時，我出發去了機庫甲板。"
+
+
 translate traditional_chinese ep001_medbay_72957f25:
 
-    # t "[p_name]?"
-    t ""
 
-# game/episode001.rpy:1101
+    t "[p_name]?"
+
+
 translate traditional_chinese ep001_medbay_c4693f27:
 
-    # t "What are you doing out here at night?"
-    t ""
 
-# game/episode001.rpy:1102
+    t "你夜裡在這兒幹什麼？"
+
+
 translate traditional_chinese ep001_medbay_6e768613:
 
-    # "Of course he had to be there..."
-    ""
 
-# game/episode001.rpy:1103
+    "他當然得在那裡..."
+
+
 translate traditional_chinese ep001_medbay_b7aa8e04:
 
-    # c "I could say the same of you."
-    c ""
 
-# game/episode001.rpy:1104
+    c "我也可以說你同樣話。"
+
+
 translate traditional_chinese ep001_medbay_e869cb06:
 
-    # t "Fair enough."
-    t ""
 
-# game/episode001.rpy:1105
+    t "行吧。"
+
+
 translate traditional_chinese ep001_medbay_259a4842:
 
-    # t "I'll leave you alone then."
-    t ""
 
-# game/episode001.rpy:1106
+    t "那我不打擾你了。"
+
+
 translate traditional_chinese ep001_medbay_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode001.rpy:1108
+    c "好。"
+
+
 translate traditional_chinese ep001_medbay_e6afd45b:
 
-    # "After making sure Thim went his way, I sped to the hangar deck, only to be interrupted by another familiar face."
-    ""
 
-# game/episode001.rpy:1110
+    "確保蒂姆走後，我加速趕往機庫甲板，不料又被另一張熟悉的臉打斷。"
+
+
 translate traditional_chinese ep001_medbay_cb334d43:
 
-    # ve "[p_name]?"
-    ve ""
 
-# game/episode001.rpy:1111
+    ve "[p_name]?"
+
+
 translate traditional_chinese ep001_medbay_2857504c:
 
-    # c "Vess?"
-    c ""
 
-# game/episode001.rpy:1112
+    c "薇絲？"
+
+
 translate traditional_chinese ep001_medbay_e4ca5606:
 
-    # c "What are you doing here, late at night?"
-    c ""
 
-# game/episode001.rpy:1113
+    c "你這麼晚在這兒做什麼？"
+
+
 translate traditional_chinese ep001_medbay_65b7ac60:
 
-    # ve "I was looking for you."
-    ve ""
 
-# game/episode001.rpy:1114
+    ve "我正要找你。"
+
+
 translate traditional_chinese ep001_medbay_b5789534:
 
-    # ve "Do you have any news?"
-    ve ""
 
-# game/episode001.rpy:1115
+    ve "有什麼消息嗎？"
+
+
 translate traditional_chinese ep001_medbay_16cfcfc0:
 
-    # ve "Is there going to be a rescue mission?"
-    ve ""
 
-# game/episode001.rpy:1116
+    ve "會有救援任務嗎？"
+
+
 translate traditional_chinese ep001_medbay_cc16b369:
 
-    # c "No, there isn't."
-    c ""
 
-# game/episode001.rpy:1117
+    c "不，沒有。"
+
+
 translate traditional_chinese ep001_medbay_bb9501ce:
 
-    # c "We're going back to the academy and then there'll be a debriefing and that's that."
-    c ""
 
-# game/episode001.rpy:1119
+    c "我們要回學院，然後有一個簡報，就這樣。"
+
+
 translate traditional_chinese ep001_medbay_51338f20:
 
-    # ve "But all those people we lost?!"
-    ve ""
 
-# game/episode001.rpy:1120
+    ve "但我們失去的那些人呢？!"
+
+
 translate traditional_chinese ep001_medbay_36c99dd8:
 
-    # c "I know, Vess."
-    c ""
 
-# game/episode001.rpy:1122
+    c "我知道，薇絲。"
+
+
 translate traditional_chinese ep001_medbay_32335986:
 
-    # ve "It isn't fair!"
-    ve ""
 
-# game/episode001.rpy:1127
+    ve "這不公平！"
+
+
 translate traditional_chinese ep001_medbay_fa3b2148:
 
-    # "When she burst into tears like that, I just couldn't leave her there."
-    ""
 
-# game/episode001.rpy:1128
+    "看到她突然哭成那樣，我就不能丟下她不管。"
+
+
 translate traditional_chinese ep001_medbay_ed1be6ba:
 
-    # "Some say that women are a man's greatest weakness, I was no exception in that regard."
-    ""
 
-# game/episode001.rpy:1129
+    "有人說女人是男人最大的弱點，這方面我非例外。"
+
+
 translate traditional_chinese ep001_medbay_bba8d900:
 
-    # c "Listen, don't despair."
-    c ""
 
-# game/episode001.rpy:1131
+    c "聽着，別絕望。"
+
+
 translate traditional_chinese ep001_medbay_65d9b0b7:
 
-    # c "High command might not give a shit about all those people, but I do."
-    c ""
 
-# game/episode001.rpy:1132
+    c "高層指揮可能不在乎那些人的死活，但我在乎。"
+
+
 translate traditional_chinese ep001_medbay_5c69450e:
 
-    # ve "You do?"
-    ve ""
 
-# game/episode001.rpy:1134
+    ve "你在乎？"
+
+
 translate traditional_chinese ep001_medbay_a312f158:
 
-    # c "I'm going to try."
-    c ""
 
-# game/episode001.rpy:1135
+    c "我會試試。"
+
+
 translate traditional_chinese ep001_medbay_78a3d309:
 
-    # c "Come with me, we're meeting some of my friends."
-    c ""
 
-# game/episode001.rpy:1137
+    c "跟我來，我們去見一些我的朋友。"
+
+
 translate traditional_chinese ep001_medbay_23b3c918:
 
-    # "Together with Vess, I headed to the hangar to find my friends and sister already there."
-    ""
 
-# game/episode001.rpy:1139
+    "和薇絲一起，我趕往機庫，發現我的朋友和妹妹已經在那兒了。"
+
+
 translate traditional_chinese ep001_medbay_3328d891:
 
-    # "Together with Vess, I headed to the hangar to find my friends already there."
-    ""
 
-# game/episode001.rpy:1141
+    "和薇絲一起，我趕往機庫，發現我的朋友已經在那兒了。"
+
+
 translate traditional_chinese ep001_medbay_73537962:
 
-    # c "I'm sorry, Vess, I wish there was more I could do."
-    c ""
 
-# game/episode001.rpy:1143
+    c "很抱歉，薇絲，我真希望自己能多幫上些忙。"
+
+
 translate traditional_chinese ep001_medbay_5b97b768:
 
-    # "Giving me one last wistful look, the girl turned and fled out of the hallway."
-    ""
 
-# game/episode001.rpy:1145
+    "女孩最後悽楚地望了我一眼，轉身衝出走廊。"
+
+
 translate traditional_chinese ep001_medbay_96861af5:
 
-    # "I continued to the hangar bay to find my friends and sister already there."
-    ""
 
-# game/episode001.rpy:1147
+    "我繼續走向機庫，發現朋友們和妹妹早已等在那裡。"
+
+
 translate traditional_chinese ep001_medbay_37211987:
 
-    # "I continued to the hangar bay to find my friends already there."
-    ""
 
-# game/episode001.rpy:1150
+    "我繼續走向機庫，發現朋友們早已等在那裡。"
+
+
 translate traditional_chinese ep001_medbay_196c231d:
 
-    # ki "Is that the girl from the village?"
-    ki ""
 
-# game/episode001.rpy:1151
+    ki "是村裏那個姑娘嗎？"
+
+
 translate traditional_chinese ep001_medbay_a4cb78fd:
 
-    # c "This is Vess, she lost her family during the assault on Lanan."
-    c ""
 
-# game/episode001.rpy:1152
+    c "這是薇絲，拉南星遇襲時她失去了家人。"
+
+
 translate traditional_chinese ep001_medbay_5932955e:
 
-    # ve "I want to help."
-    ve ""
 
-# game/episode001.rpy:1154
+    ve "我想幫忙。"
+
+
 translate traditional_chinese ep001_medbay_0b2aa390:
 
-    # l "Help with what?"
-    l ""
 
-# game/episode001.rpy:1157
+    l "幫什麼忙？"
+
+
 translate traditional_chinese ep001_medbay_19bdacfc:
 
-    # l "Are you going to tell us what all this cloak and dagger is all about?"
-    l ""
 
-# game/episode001.rpy:1158
+    l "你打算告訴我們所有這神神祕祕的事到底怎麼回事嗎？"
+
+
 translate traditional_chinese ep001_medbay_eedf309e:
 
-    # c "Yes. We've lost someone today."
-    c ""
 
-# game/episode001.rpy:1159
+    c "是。今天我們痛失了一位同伴。"
+
+
 translate traditional_chinese ep001_medbay_d44131d2:
 
-    # c "And high command apparently doesn't give a shit."
-    c ""
 
-# game/episode001.rpy:1160
+    c "而高層顯然根本不在乎。"
+
+
 translate traditional_chinese ep001_medbay_cb06a5a2:
 
-    # c "We're going back to the academy and there's probably going to be a memorial service for the abductees who're presumed lost."
-    c ""
 
-# game/episode001.rpy:1161
+    c "等回到學院，多半會給那些被擄走推定失蹤的人辦追悼儀式。"
+
+
 translate traditional_chinese ep001_medbay_59ab565f:
 
-    # c "I don't accept that."
-    c ""
 
-# game/episode001.rpy:1162
+    c "我不接受這種安排。"
+
+
 translate traditional_chinese ep001_medbay_40d83662:
 
-    # c "So I intend to get Eva back myself."
-    c ""
 
-# game/episode001.rpy:1164
+    c "所以我要親自把伊娃救回來。"
+
+
 translate traditional_chinese ep001_medbay_4c185497:
 
-    # l "You what?"
-    l ""
 
-# game/episode001.rpy:1165
+    l "你說什麼？"
+
+
 translate traditional_chinese ep001_medbay_77ca1d9a:
 
-    # l "How?"
-    l ""
 
-# game/episode001.rpy:1166
+    l "怎麼救？"
+
+
 translate traditional_chinese ep001_medbay_fe45e56a:
 
-    # c "I'm going to commandeer a ship from this very hangar deck."
-    c ""
 
-# game/episode001.rpy:1168
+    c "我準備從這機庫甲板奪下一艘飛船。"
+
+
 translate traditional_chinese ep001_medbay_38b6bc74:
 
-    # l "You've gone mad."
-    l ""
 
-# game/episode001.rpy:1169
+    l "你真是瘋了。"
+
+
 translate traditional_chinese ep001_medbay_5772f454:
 
-    # c "Don't you want her back, Lilly?"
-    c ""
 
-# game/episode001.rpy:1170
+    c "難道你不想她回來嗎，莉莉？"
+
+
 translate traditional_chinese ep001_medbay_3b09e216:
 
-    # c "Do you accept the fact that we're moving away from Lanan without even knowing what has happened?"
-    c ""
 
-# game/episode001.rpy:1171
+    c "你們能接受連發生了什麼都不知道就要撤離拉南星的事實？"
+
+
 translate traditional_chinese ep001_medbay_e7601bad:
 
-    # l "They'll debrief us as soon as we land."
-    l ""
 
-# game/episode001.rpy:1172
+    l "落地後就會對我們進行情況匯報的。"
+
+
 translate traditional_chinese ep001_medbay_d584392f:
 
-    # c "That's too fucking late."
-    c ""
 
-# game/episode001.rpy:1173
+    c "那他媽的太遲了。"
+
+
 translate traditional_chinese ep001_medbay_cde4e202:
 
-    # c "She could be dead by then."
-    c ""
 
-# game/episode001.rpy:1174
+    c "到那時她可能已經死了。"
+
+
 translate traditional_chinese ep001_medbay_88e9a83f:
 
-    # l "Maybe she already is..."
-    l ""
 
-# game/episode001.rpy:1175
+    l "或許現在就已經......"
+
+
 translate traditional_chinese ep001_medbay_3053046d:
 
-    # c "Don't you dare say that."
-    c ""
 
-# game/episode001.rpy:1176
+    c "你敢亂說。"
+
+
 translate traditional_chinese ep001_medbay_c90804e3:
 
-    # l "I'm..."
-    l ""
 
-# game/episode001.rpy:1177
+    l "我..."
+
+
 translate traditional_chinese ep001_medbay_98f931fc:
 
-    # l "I'm sorry, [p_name]."
-    l ""
 
-# game/episode001.rpy:1179
+    l "對不起，[p_name]。"
+
+
 translate traditional_chinese ep001_medbay_49387ee3:
 
-    # c "So, are you with me?"
-    c ""
 
-# game/episode001.rpy:1181
+    c "所以，你要不要跟我一起幹？"
+
+
 translate traditional_chinese ep001_medbay_c1edf4da:
 
-    # ki "What are you asking us exactly, [p_name_short]?"
-    ki ""
 
-# game/episode001.rpy:1182
+    ki "你到底想讓我們做什麼，[p_name_short]？"
+
+
 translate traditional_chinese ep001_medbay_a3da16b1:
 
-    # c "I'm going to take command of a small ship and I'd like you to be my crew."
-    c ""
 
-# game/episode001.rpy:1183
+    c "我要搞一艘小型飛船，想讓你們當我的機組成員。"
+
+
 translate traditional_chinese ep001_medbay_8bff6ba8:
 
-    # c "I can't do this alone and I know you loved Eva just as much as I did."
-    c ""
 
-# game/episode001.rpy:1184
+    c "我一個人搞不定這事，而且我知道你愛伊娃跟我一樣深。"
+
+
 translate traditional_chinese ep001_medbay_aa7fa21f:
 
-    # ki "You're asking us to desert from the navy to come with you on some mad rescue mission?"
-    ki ""
 
-# game/episode001.rpy:1185
+    ki "你是要讓我們擅離艦隊，跟你們去執行什麼瘋狂的救援任務？"
+
+
 translate traditional_chinese ep001_medbay_99163aba:
 
-    # c "That sounds so..."
-    c ""
 
-# game/episode001.rpy:1186
+    c "那聽起來太..."
+
+
 translate traditional_chinese ep001_medbay_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode001.rpy:1187
+    c "是的。"
+
+
 translate traditional_chinese ep001_medbay_9cdb076a:
 
-    # ki "I'm in."
-    ki ""
 
-# game/episode001.rpy:1188
+    ki "算我一個。"
+
+
 translate traditional_chinese ep001_medbay_0c2fa6d5:
 
-    # ce "Kit!"
-    ce ""
 
-# game/episode001.rpy:1189
+    ce "基特！"
+
+
 translate traditional_chinese ep001_medbay_b2a6190f:
 
-    # ce "What are you doing?"
-    ce ""
 
-# game/episode001.rpy:1190
+    ce "你在幹嘛？"
+
+
 translate traditional_chinese ep001_medbay_87b24e04:
 
-    # c "That means a lot, Kit."
-    c ""
 
-# game/episode001.rpy:1192
+    c "那意義重大，基特。"
+
+
 translate traditional_chinese ep001_medbay_693de277:
 
-    # c "What about you, Céline?"
-    c ""
 
-# game/episode001.rpy:1193
+    c "瑟琳，那你呢？"
+
+
 translate traditional_chinese ep001_medbay_6039abbf:
 
-    # ce "Shit, [p_name]."
-    ce ""
 
-# game/episode001.rpy:1194
+    ce "媽的，[p_name]。"
+
+
 translate traditional_chinese ep001_medbay_078539e4:
 
-    # ce "You're asking a lot."
-    ce ""
 
-# game/episode001.rpy:1196
+    ce "你要求太多了。"
+
+
 translate traditional_chinese ep001_medbay_5fc70071:
 
-    # ce "But if you and Kit are going..."
-    ce ""
 
-# game/episode001.rpy:1198
+    ce "不過既然你和基特要去..."
+
+
 translate traditional_chinese ep001_medbay_87a01647:
 
-    # ce "But if Kit is going..."
-    ce ""
 
-# game/episode001.rpy:1199
+    ce "不過既然基特要去..."
+
+
 translate traditional_chinese ep001_medbay_16cfc0c2:
 
-    # ce "Yes I'm in."
-    ce ""
 
-# game/episode001.rpy:1201
+    ce "是的，算我一個。"
+
+
 translate traditional_chinese ep001_medbay_26a29e69:
 
-    # ve "I'm with you too."
-    ve ""
 
-# game/episode001.rpy:1202
+    ve "我也跟你一起走。"
+
+
 translate traditional_chinese ep001_medbay_660d36e7_1:
 
-    # c "Great!"
-    c ""
 
-# game/episode001.rpy:1203
+    c "太棒了！"
+
+
 translate traditional_chinese ep001_medbay_3f171238:
 
-    # c "What about you Lilly?"
-    c ""
 
-# game/episode001.rpy:1205
+    c "莉莉，那你呢？"
+
+
 translate traditional_chinese ep001_medbay_3cb3da44:
 
-    # l "I'm sorry [p_name_short], but you're crazy."
-    l ""
 
-# game/episode001.rpy:1206
+    l "對不起，[p_name_short]，不過你在發瘋。"
+
+
 translate traditional_chinese ep001_medbay_31d43d60:
 
-    # l "This is exactly the juvenile, irresponsible plan I would expect from you."
-    l ""
 
-# game/episode001.rpy:1207
+    l "這完全就是我預料中你會提出的幼稚又不負責任的計劃。"
+
+
 translate traditional_chinese ep001_medbay_35652f3d:
 
-    # c "So you're out?"
-    c ""
 
-# game/episode001.rpy:1208
+    c "所以你退出了？"
+
+
 translate traditional_chinese ep001_medbay_ee9daadc:
 
-    # l "Of course I'm out and you should all be."
-    l ""
 
-# game/episode001.rpy:1209
+    l "我當然退出，你們也都該退出。"
+
+
 translate traditional_chinese ep001_medbay_586c0808:
 
-    # l "This is going to end miserably for you all and..."
-    l ""
 
-# game/episode001.rpy:1213
+    l "這事會讓你們全都倒大黴的，而且..."
+
+
 translate traditional_chinese ep001_medbay_3624569a:
 
-    # "At that moment I noticed a figure standing in the doorway, eavesdropping on our conversation."
-    ""
 
-# game/episode001.rpy:1214
+    "就在那時我注意到門口有人影在偷聽。"
+
+
 translate traditional_chinese ep001_medbay_0728c79d:
 
-    # "When I sprinted towards the door the culprit revealed himself."
-    ""
 
-# game/episode001.rpy:1216
+    "當我衝向門口時，肇事者暴露了自己。"
+
+
 translate traditional_chinese ep001_medbay_3df29584:
 
-    # "Thim, with a fucking 'h'."
-    ""
 
-# game/episode001.rpy:1217
+    "是蒂姆，他媽帶h的那個蒂姆。"
+
+
 translate traditional_chinese ep001_medbay_2d0fc916:
 
-    # t "You're so fucking dead, [p_name]."
-    t ""
 
-# game/episode001.rpy:1219
+    t "你死定了[p_name]，操你媽的。"
+
+
 translate traditional_chinese ep001_medbay_3e4373f1:
 
-    # t "SECURITY! DESERTERS IN THE HANGAR BAY!"
-    t ""
 
-# game/episode001.rpy:1223
+    t "警衛！機庫有叛逃者！"
+
+
 translate traditional_chinese ep001_medbay_c67e82bd:
 
-    # "Before Thim could sprint to the nearest guard station, Jade was upon him clubbing him on the back of the head with a wrench."
-    ""
 
-# game/episode001.rpy:1225
+    "蒂姆還沒衝到警衛站，傑德就撲到他身後用扳手猛擊後腦。"
+
+
 translate traditional_chinese ep001_medbay_12a9089c:
 
-    # j "That should shut him up."
-    j ""
 
-# game/episode001.rpy:1226
+    j "這下能讓他閉嘴了。"
+
+
 translate traditional_chinese ep001_medbay_c0c3d662:
 
-    # c "Wow."
-    c ""
 
-# game/episode001.rpy:1227
+    c "哇。"
+
+
 translate traditional_chinese ep001_medbay_c386d701:
 
-    # c "I thought..."
-    c ""
 
-# game/episode001.rpy:1228
+    c "我以爲..."
+
+
 translate traditional_chinese ep001_medbay_26daecf4:
 
-    # j "You thought I was only good at fucking?"
-    j ""
 
-# game/episode001.rpy:1229
+    j "你以爲我只擅長做愛？"
+
+
 translate traditional_chinese ep001_medbay_f37c057b:
 
-    # c "I was going to say that I thought you weren’t capable of violence, but still..."
-    c ""
 
-# game/episode001.rpy:1230
+    c "我本來想說以爲你不會使用暴力，不過..."
+
+
 translate traditional_chinese ep001_medbay_58f631b0:
 
-    # c "Is he breathing?"
-    c ""
 
-# game/episode001.rpy:1231
+    c "他還有呼吸嗎？"
+
+
 translate traditional_chinese ep001_medbay_9f64a2bd:
 
-    # j "Yes."
-    j ""
 
-# game/episode001.rpy:1232
+    j "有。"
+
+
 translate traditional_chinese ep001_medbay_139c6bba_1:
 
-    # c "Good."
-    c ""
 
-# game/episode001.rpy:1233
+    c "很好。"
+
+
 translate traditional_chinese ep001_medbay_56633579:
 
-    # c "Thanks to him we need to hurry."
-    c ""
 
-# game/episode001.rpy:1235
+    c "託他的福，我們得抓緊了。"
+
+
 translate traditional_chinese ep001_medbay_445dd70b:
 
-    # "I carried Thim's body back to the hangar where Kit and the girls were looking at me in shock."
-    ""
 
-# game/episode001.rpy:1236
+    "我把蒂姆拖回機庫時，基特和姑娘們正震驚地看着我。"
+
+
 translate traditional_chinese ep001_medbay_b39eef4b:
 
-    # "Sirens began to blare."
-    ""
 
-# game/episode001.rpy:1237
+    "警笛開始長鳴。"
+
+
 translate traditional_chinese ep001_medbay_3a6381a6:
 
-    # "Thim's cries must have reached the guards."
-    ""
 
-# game/episode001.rpy:1238
+    "蒂姆的喊叫肯定驚動警衛了。"
+
+
 translate traditional_chinese ep001_medbay_aa238992:
 
-    # c "Hurry! They'll be upon us any minute."
-    c ""
 
-# game/episode001.rpy:1239
+    c "快！他們隨時會到。"
+
+
 translate traditional_chinese ep001_medbay_4f4d42c2:
 
-    # c "Help me drag him to that corvette over there."
-    c ""
 
-# game/episode001.rpy:1240
+    c "幫我把他拖到那邊的護衛艦裏去。"
+
+
 translate traditional_chinese ep001_medbay_5f911328:
 
-    # ce "Is he alive?"
-    ce ""
 
-# game/episode001.rpy:1241
+    ce "他還活着嗎？"
+
+
 translate traditional_chinese ep001_medbay_10b787cd:
 
-    # c "Yes, unfortunately."
-    c ""
 
-# game/episode001.rpy:1243
+    c "是的，很不幸。"
+
+
 translate traditional_chinese ep001_medbay_07e6ac51:
 
-    # "Together with Jade, I dragged Thim's body inside the nearest ship, while Céline pushed Kit in his wheel chair."
-    ""
 
-# game/episode001.rpy:1244
+    "和傑德一起，我把蒂姆的身體拖進最近的飛船，而瑟琳推着基特在他的輪椅上。"
+
+
 translate traditional_chinese ep001_medbay_58162e16:
 
-    # c "Jade, try to override the docking clamps!"
-    c ""
 
-# game/episode001.rpy:1245
+    c "傑德，嘗試解除船塢夾！"
+
+
 translate traditional_chinese ep001_medbay_4500fbc9:
 
-    # j "On it."
-    j ""
 
-# game/episode001.rpy:1246
+    j "在做了。"
+
+
 translate traditional_chinese ep001_medbay_06f13a33:
 
-    # "Jade hurried to the hangar bay controls to release the docking clamps and start sequence to open doors of the hangar bay."
-    ""
 
-# game/episode001.rpy:1248
+    "傑德急忙去懸架控制臺以釋放船塢夾，並開始按順序打開機庫門。"
+
+
 translate traditional_chinese ep001_medbay_af27e23b:
 
-    # "Smashing the controls for good measure seemed like a good idea before I sprinted back to the ship's cockpit."
-    ""
 
-# game/episode001.rpy:1250
+    "爲了保險起見，砸掉控制臺似乎是個好主意，然後我衝回飛船的駕駛艙。"
+
+
 translate traditional_chinese ep001_medbay_2ac31612:
 
-    # "Céline was already seated in the co-pilot's chair and I took the captain's chair."
-    ""
 
-# game/episode001.rpy:1251
+    "瑟琳已經坐在副駕駛座上，我坐上了艦長的位子。"
+
+
 translate traditional_chinese ep001_medbay_5bc8cf14:
 
-    # "We had some basic flight training, so the controls weren't that unfamiliar."
-    ""
 
-# game/episode001.rpy:1252
+    "我們受過一些基本飛行訓練，所以控制操作並不陌生。"
+
+
 translate traditional_chinese ep001_medbay_b850f58e:
 
-    # ce "We're really going to do this, aren't we?"
-    ce ""
 
-# game/episode001.rpy:1253
+    ce "我們真的要這麼做，不是嗎？"
+
+
 translate traditional_chinese ep001_medbay_134c1f32:
 
-    # c "We can't go back now, not after what happened with Thim."
-    c ""
 
-# game/episode001.rpy:1254
+    c "我們現在不能回去了，尤其是在蒂姆出事後。"
+
+
 translate traditional_chinese ep001_medbay_c14ab1dd:
 
-    # ce "In that case: ready when you are, captain."
-    ce ""
 
-# game/episode001.rpy:1256
+    ce "既然如此：你準備好了就行，艦長。"
+
+
 translate traditional_chinese ep001_medbay_b030d926:
 
-    # "As I closed all the outer doors of the spaceship, several guards streamed into the hangar bay, guns at the ready."
-    ""
 
-# game/episode001.rpy:1258
+    "在我關閉飛船所有外門時，幾名警衛湧入了機庫，槍已就緒。"
+
+
 translate traditional_chinese ep001_medbay_f57ab860:
 
-    # ki "We've got company."
-    ki ""
 
-# game/episode001.rpy:1259
+    ki "我們有客人了。"
+
+
 translate traditional_chinese ep001_medbay_7222677d:
 
-    # c "They won't stay long, the hangar bay doors are about to open."
-    c ""
 
-# game/episode001.rpy:1260
+    c "他們不會呆太久，機庫門馬上就要開了。"
+
+
 translate traditional_chinese ep001_medbay_ba32f1ce:
 
-    # "The whole hangar lit up as a warning that a hard vacuum was about to open."
-    ""
 
-# game/episode001.rpy:1261
+    "整個機庫亮起來，警告高真空即將開放。"
+
+
 translate traditional_chinese ep001_medbay_399726b0:
 
-    # "The security guards scrambled out of the hangar bay and the security doors closed shut."
-    ""
 
-# game/episode001.rpy:1263
+    "警衛們急忙爬出機庫，安全門關上了。"
+
+
 translate traditional_chinese ep001_medbay_4015b317:
 
-    # ce "Initiating launch sequence."
-    ce ""
 
-# game/episode001.rpy:1265
+    ce "開始啓動序列。"
+
+
 translate traditional_chinese ep001_medbay_d8688ee8:
 
-    # l "Don't do it, [p_name_short]."
-    l ""
 
-# game/episode001.rpy:1266
+    l "別那樣做，[p_name_short]。"
+
+
 translate traditional_chinese ep001_medbay_7f342c31:
 
-    # l "Break it off."
-    l ""
 
-# game/episode001.rpy:1269
+    l "中斷它。"
+
+
 translate traditional_chinese ep001_medbay_d8db7774:
 
-    # "I ignored her as an unfamiliar voice sounded through the ship."
-    ""
 
-# game/episode001.rpy:1270
+    "我無視了她，當一個陌生的聲音在船上響起。"
+
+
 translate traditional_chinese ep001_medbay_4299b012:
 
-    # man "This is ship security to the persons commandeering the TGN Enfield."
-    man ""
 
-# game/episode001.rpy:1282
+    man "這是飛船警衛致給指揮人族星系艦隊\"恩菲爾德\"號的人。"
+
+
 translate traditional_chinese ep001_medbay_fbd3c7a5:
 
-    # man "You're in direct violation of the Terran Naval Code."
-    man ""
 
-# game/episode001.rpy:1283
+    man "你們已經直接違反了人族艦隊法規。"
+
+
 translate traditional_chinese ep001_medbay_8ad007d6:
 
-    # man "Abort launch and power down your engines."
-    man ""
 
-# game/episode001.rpy:1284
+    man "中止啓動並關閉引擎。"
+
+
 translate traditional_chinese ep001_medbay_fdd8c292:
 
-    # man "Once we establish control of the hangar bay you're to come out of the ship with your hands in the air and kneel in front of the hull."
-    man ""
 
-# game/episode001.rpy:1285
+    man "一旦我們控制了機庫，你就要從飛船裏出來，雙手舉在空中，跪在船體前。"
+
+
 translate traditional_chinese ep001_medbay_55ce7814:
 
-    # c "Ignore them."
-    c ""
 
-# game/episode001.rpy:1287
+    c "別理他們。"
+
+
 translate traditional_chinese ep001_medbay_496e4e35:
 
-    # ce "Five seconds to launch."
-    ce ""
 
-# game/episode001.rpy:1288
+    ce "距離啓動還有五秒。"
+
+
 translate traditional_chinese ep001_medbay_19a014d1:
 
-    # man "Stop now and live."
-    man ""
 
-# game/episode001.rpy:1289
+    man "現在就停下，你還能活命。"
+
+
 translate traditional_chinese ep001_medbay_f18a3ae9:
 
-    # man "As soon as the vessel you have illegally commandeered comes into firing range of the TGN Ypotryll you will be fired upon."
-    man ""
 
-# game/episode001.rpy:1290
+    man "一旦你們非法徵用的艦船進入人族星系艦隊\"異龍\"號的射程，你們就會遭到攻擊。"
+
+
 translate traditional_chinese ep001_medbay_41e37559:
 
-    # man "This is not an idle threat."
-    man ""
 
-# game/episode001.rpy:1291
+    man "這不是空口威脅。"
+
+
 translate traditional_chinese ep001_medbay_45116314:
 
-    # ce "All systems ready."
-    ce ""
 
-# game/episode001.rpy:1292
+    ce "所有系統準備就緒。"
+
+
 translate traditional_chinese ep001_medbay_6233662f:
 
-    # c "Let's take this bucket for a ride."
-    c ""
 
-# game/episode001.rpy:1294
+    c "讓我們開着這破船出發吧。"
+
+
 translate traditional_chinese ep001_medbay_30b93724:
 
-    # "Controlling a ship was a little different than in a simulator and we nearly hit a bulkhead, but using the board computer we managed to fly through the opened hangar doors."
-    ""
 
-# game/episode001.rpy:1295
+    "控制飛船比在模擬器裏要難一點，我們差點撞上艙壁，但使用艦載電腦，我們設法飛過了打開的機庫大門。"
+
+
 translate traditional_chinese ep001_medbay_c547f2b5:
 
-    # ce "We're going to make it!"
-    ce ""
 
-# game/episode001.rpy:1297
+    ce "我們能做到！"
+
+
 translate traditional_chinese ep001_medbay_60783c8b:
 
-    # l "What are we doing?!"
-    l ""
 
-# game/episode001.rpy:1298
+    l "我們在幹什麼？！"
+
+
 translate traditional_chinese ep001_medbay_a07a5568:
 
-    # l "Take us back!"
-    l ""
 
-# game/episode001.rpy:1299
+    l "帶我們回去！"
+
+
 translate traditional_chinese ep001_medbay_6983a532:
 
-    # l "Please!"
-    l ""
 
-# game/episode001.rpy:1301
+    l "求你了！"
+
+
 translate traditional_chinese ep001_medbay_5c9a9315:
 
-    # "As we left the Ypotryll behind us, a new, more familiar voice sounded through the ship's speakers."
-    ""
 
-# game/episode001.rpy:1302
+    "當我們把\"異龍\"號甩在後面時，一個新的、更熟悉的聲音通過飛船喇叭響起。"
+
+
 translate traditional_chinese ep001_medbay_4d4b817a:
 
-    # ca "Crew of the TGN Enfield, this is your commander speaking."
-    ca ""
 
-# game/episode001.rpy:1303
+    ca "人族星系艦隊\"恩菲爾德\"號的艦員們，我是你們的指揮官。"
+
+
 translate traditional_chinese ep001_medbay_3ba27474:
 
-    # ca "Power down your engines and return to the hangar deck."
-    ca ""
 
-# game/episode001.rpy:1305
+    ca "關掉引擎，返回機庫甲板。"
+
+
 translate traditional_chinese ep001_medbay_451fd0ab:
 
-    # ki "Shit, it's Mom!"
-    ki ""
 
-# game/episode001.rpy:1306
+    ki "該死的，是媽媽！"
+
+
 translate traditional_chinese ep001_medbay_d4584777:
 
-    # ca "If you do not comply we will be forced to shoot you down."
-    ca ""
 
-# game/episode001.rpy:1307
+    ca "如果你們不服從，我們只能把你們擊落了。"
+
+
 translate traditional_chinese ep001_medbay_82d102c3:
 
-    # ca "I repeat: power down your engines and turn the ship around."
-    ca ""
 
-# game/episode001.rpy:1308
+    ca "我重複：關掉引擎，把飛船掉頭。"
+
+
 translate traditional_chinese ep001_medbay_c227c4d7:
 
-    # c "She won't shoot at us, will she?"
-    c ""
 
-# game/episode001.rpy:1309
+    c "她不會朝我們開火的，是吧？"
+
+
 translate traditional_chinese ep001_medbay_fe20bda8:
 
-    # ce "It's Mom, we're talking about..."
-    ce ""
 
-# game/episode001.rpy:1311
+    ce "是媽媽啊，我們說的是..."
+
+
 translate traditional_chinese ep001_medbay_0107e1bd:
 
-    # ki "She totally will."
-    ki ""
 
-# game/episode001.rpy:1312
+    ki "她絕對會的。"
+
+
 translate traditional_chinese ep001_medbay_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode001.rpy:1314
+    c "操。"
+
+
 translate traditional_chinese ep001_medbay_7dd23dd0:
 
-    # l "What did you think would happen, [p_name]?"
-    l ""
 
-# game/episode001.rpy:1315
+    l "[p_name]，你以爲會發生什麼事？"
+
+
 translate traditional_chinese ep001_medbay_80b37eb9:
 
-    # l "That they wouldn't notice a ship leaving their sphere of influence?"
-    l ""
 
-# game/episode001.rpy:1316
+    l "他們不會注意到一艘船離開他們的勢力範圍嗎？"
+
+
 translate traditional_chinese ep001_medbay_69d12c10:
 
-    # c "If that fucking Thim had kept his mouth shut..."
-    c ""
 
-# game/episode001.rpy:1317
+    c "要是那個該死的蒂姆沒張嘴就好了..."
+
+
 translate traditional_chinese ep001_medbay_19f12315:
 
-    # ce "Is there a way to talk to the Ypotryll?"
-    ce ""
 
-# game/episode001.rpy:1318
+    ce "有辦法跟\"異龍\"號通話嗎？"
+
+
 translate traditional_chinese ep001_medbay_bc887df9:
 
-    # c "I guess, they're talking to us, aren't they?"
-    c ""
 
-# game/episode001.rpy:1320
+    c "我猜，他們在跟我們說話呢，對吧？"
+
+
 translate traditional_chinese ep001_medbay_914d83f7:
 
-    # "Céline fiddled with the controls of the ship's radio and began to speak."
-    ""
 
-# game/episode001.rpy:1321
+    "瑟琳撥弄着船上無線電的操控板，開始說話。"
+
+
 translate traditional_chinese ep001_medbay_8a3de91c:
 
-    # ce "Mother?"
-    ce ""
 
-# game/episode001.rpy:1322
+    ce "媽媽？"
+
+
 translate traditional_chinese ep001_medbay_1ea4c732:
 
-    # ce "Mother, it's me. Céline."
-    ce ""
 
-# game/episode001.rpy:1323
+    ce "媽媽，是我。瑟琳。"
+
+
 translate traditional_chinese ep001_medbay_3dada7bf:
 
-    # "There was a very long silence in which everybody seemed to hold their breath."
-    ""
 
-# game/episode001.rpy:1325
+    "一陣漫長的沉默，期間人人好像都屏住了呼吸。"
+
+
 translate traditional_chinese ep001_medbay_e33c074a:
 
-    # ca "Céline?"
-    ca ""
 
-# game/episode001.rpy:1326
+    ca "瑟琳？"
+
+
 translate traditional_chinese ep001_medbay_e0d7351d:
 
-    # ca "What the fuck are you doing up there?"
-    ca ""
 
-# game/episode001.rpy:1328
+    ca "該死的你在上面搞什麼鬼？"
+
+
 translate traditional_chinese ep001_medbay_d2fbed9d:
 
-    # ce "I'm leaving, Mom."
-    ce ""
 
-# game/episode001.rpy:1329
+    ce "我要走了，媽。"
+
+
 translate traditional_chinese ep001_medbay_58ad24b5:
 
-    # ce "We're going to look for Eva and the others."
-    ce ""
 
-# game/episode001.rpy:1330
+    ce "我們要去找伊娃和其他人。"
+
+
 translate traditional_chinese ep001_medbay_a74684f3:
 
-    # ce "We can't leave them behind."
-    ce ""
 
-# game/episode001.rpy:1332
+    ce "不能把他們丟下。"
+
+
 translate traditional_chinese ep001_medbay_fa3843e6:
 
-    # ca "Céline. I want you to think hard about what you're doing."
-    ca ""
 
-# game/episode001.rpy:1333
+    ca "瑟琳。你要好好想想你到底在幹什麼。"
+
+
 translate traditional_chinese ep001_medbay_f603d4f9:
 
-    # ca "This is desertion."
-    ca ""
 
-# game/episode001.rpy:1334
+    ca "這是叛逃。"
+
+
 translate traditional_chinese ep001_medbay_3bb071db:
 
-    # ca "Even I can't save you if you're tried by military court."
-    ca ""
 
-# game/episode001.rpy:1335
+    ca "就算是我，在你被軍事法庭審判時也幫不了你。"
+
+
 translate traditional_chinese ep001_medbay_e33c074a_1:
 
-    # ca "Céline?"
-    ca ""
 
-# game/episode001.rpy:1336
+    ca "瑟琳？"
+
+
 translate traditional_chinese ep001_medbay_42065fa6:
 
-    # ca "Is your brother with you?"
-    ca ""
 
-# game/episode001.rpy:1337
+    ca "你哥哥跟你一起嗎？"
+
+
 translate traditional_chinese ep001_medbay_c85f15f3:
 
-    # ca "Don't tell me he is."
-    ca ""
 
-# game/episode001.rpy:1339
+    ca "別告訴我他也摻合了。"
+
+
 translate traditional_chinese ep001_medbay_2356bf3a:
 
-    # ki "Yes, Mom, I'm here."
-    ki ""
 
-# game/episode001.rpy:1341
+    ki "是的，媽媽，我在這。"
+
+
 translate traditional_chinese ep001_medbay_31782e6e:
 
-    # ca "Not you as well?"
-    ca ""
 
-# game/episode001.rpy:1342
+    ca "你也要攪和進來？"
+
+
 translate traditional_chinese ep001_medbay_db443e92:
 
-    # ca "You didn't think up this misbegotten plan, did you?"
-    ca ""
 
-# game/episode001.rpy:1344
+    ca "這個瞎胡鬧的主意不是你出的吧？"
+
+
 translate traditional_chinese ep001_medbay_8d5520de:
 
-    # ki "No, I didn't, but I believe we can make a difference."
-    ki ""
 
-# game/episode001.rpy:1346
+    ki "不，不是我，但我相信我們能做些事。"
+
+
 translate traditional_chinese ep001_medbay_fd5cc231:
 
-    # ca "It's that fucking good-for-nothing boy, isn't it."
-    ca ""
 
-# game/episode001.rpy:1347
+    ca "準是那個該死的廢物小子，是吧。"
+
+
 translate traditional_chinese ep001_medbay_81c125e7:
 
-    # "It was rather clear to everyone the commander was talking about me."
-    ""
 
-# game/episode001.rpy:1348
+    "大家都心知肚明指揮官是在說我。"
+
+
 translate traditional_chinese ep001_medbay_44f53b15:
 
-    # ca "You have two minutes to comply with my demands."
-    ca ""
 
-# game/episode001.rpy:1350
+    ca "給你兩分鐘時間滿足我的要求。"
+
+
 translate traditional_chinese ep001_medbay_69a045ba:
 
-    # c "Fuck, she's really going to fire upon us?"
-    c ""
 
-# game/episode001.rpy:1351
+    c "操，她真要朝我們開火？"
+
+
 translate traditional_chinese ep001_medbay_0e077860:
 
-    # c "Knowing that you're on board?"
-    c ""
 
-# game/episode001.rpy:1352
+    c "明知道你在船上？"
+
+
 translate traditional_chinese ep001_medbay_6f8dfc3e:
 
-    # ce "I don't know..."
-    ce ""
 
-# game/episode001.rpy:1353
+    ce "我不知道..."
+
+
 translate traditional_chinese ep001_medbay_3d571279:
 
-    # ki "This is kind of a first for all of us, [p_name_short]."
-    ki ""
 
-# game/episode001.rpy:1354
+    ki "這對我們都是頭一遭，[p_name_short]。"
+
+
 translate traditional_chinese ep001_medbay_99e8a43a:
 
-    # "That was the first moment I truly panicked."
-    ""
 
-# game/episode001.rpy:1355
+    "那一刻我才真慌了。"
+
+
 translate traditional_chinese ep001_medbay_c3801242:
 
-    # "Before, I rode on an adrenaline high and didn't really think about the consequences of my actions."
-    ""
 
-# game/episode001.rpy:1356
+    "之前我靠腎上腺素撐着，根本不想自己行爲的後果。"
+
+
 translate traditional_chinese ep001_medbay_d19c7ad8:
 
-    # "The harsh words of Commander Szuzume were a wake-up call."
-    ""
 
-# game/episode001.rpy:1357
+    "蘇珠美指揮官的嚴厲言語是當頭一棒。"
+
+
 translate traditional_chinese ep001_medbay_63d57d38:
 
-    # "Céline and Kit must have noticed the look of fear and doubt in my eyes."
-    ""
 
-# game/episode001.rpy:1359
+    "瑟琳和基特肯定看到了我眼中的恐懼和懷疑。"
+
+
 translate traditional_chinese ep001_medbay_365888f9:
 
-    # ki "I'm with you all the way, [p_name_short]."
-    ki ""
 
-# game/episode001.rpy:1360
+    ki "我一路都站你這邊，[p_name_short]。"
+
+
 translate traditional_chinese ep001_medbay_a17fc2d0:
 
-    # ce "We all knew what the consequences of desertion were when we signed up earlier."
-    ce ""
 
-# game/episode001.rpy:1361
+    ce "參與時我們就懂得了叛逃的下場。"
+
+
 translate traditional_chinese ep001_medbay_18ca69c3:
 
-    # l "You're fucking crazy."
-    l ""
 
-# game/episode001.rpy:1362
+    l "你他媽瘋了。"
+
+
 translate traditional_chinese ep001_medbay_c004cdcb:
 
-    # c "So. No turning back?"
-    c ""
 
-# game/episode001.rpy:1364
+    c "所以。不能回頭了？"
+
+
 translate traditional_chinese ep001_medbay_6911305c:
 
-    # ki "No."
-    ki ""
 
-# game/episode001.rpy:1366
+    ki "不。"
+
+
 translate traditional_chinese ep001_medbay_0cd56780:
 
-    # ce "No."
-    ce ""
 
-# game/episode001.rpy:1368
+    ce "不。"
+
+
 translate traditional_chinese ep001_medbay_bc5c265b:
 
-    # l "Yes."
-    l ""
 
-# game/episode001.rpy:1369
+    l "是的。"
+
+
 translate traditional_chinese ep001_medbay_9a95e58b:
 
-    # ca "Your two minutes are up."
-    ca ""
 
-# game/episode001.rpy:1370
+    ca "你的兩分鐘到了。"
+
+
 translate traditional_chinese ep001_medbay_db57996a:
 
-    # ca "Turn back at once."
-    ca ""
 
-# game/episode001.rpy:1372
+    ca "立即掉頭。"
+
+
 translate traditional_chinese ep001_medbay_61ddc851:
 
-    # c "Let's fire those engines and see if we can outrun them."
-    c ""
 
-# game/episode001.rpy:1374
+    c "開引擎試試能不能甩掉他們。"
+
+
 translate traditional_chinese ep001_medbay_1c2d5c91:
 
-    # l "The Ypotryll is massive, [p_name]."
-    l ""
 
-# game/episode001.rpy:1375
+    l "\"異龍\"號太大了，[p_name]。"
+
+
 translate traditional_chinese ep001_medbay_3b2c8e60:
 
-    # l "It has fucking rail guns, missiles..."
-    l ""
 
-# game/episode001.rpy:1376
+    l "它有該死的軌道炮、導彈..."
+
+
 translate traditional_chinese ep001_medbay_fa03369f:
 
-    # l "This is suicide!"
-    l ""
 
-# game/episode001.rpy:1378
+    l "這是自殺！"
+
+
 translate traditional_chinese ep001_medbay_b028137b:
 
-    # ca "Turn back."
-    ca ""
 
-# game/episode001.rpy:1379
+    ca "掉頭。"
+
+
 translate traditional_chinese ep001_medbay_f74ed3bc:
 
-    # ca "Céline. Kit. Please..."
-    ca ""
 
-# game/episode001.rpy:1381
+    ca "瑟琳。基特。求你們了..."
+
+
 translate traditional_chinese ep001_medbay_c9196f3e:
 
-    # "That last statement brought tears to the eyes of Céline, but she wiped them away and concentrated on steering the Enfield."
-    ""
 
-# game/episode001.rpy:1382
+    "最後那句話讓瑟琳眼眶泛紅，但她抹去淚水集中精神駕駛\"恩菲爾德\"號。"
+
+
 translate traditional_chinese ep001_medbay_78cbf0c0:
 
-    # "The radio became eerily silent."
-    ""
 
-# game/episode001.rpy:1383
+    "無線電陷入詭異的沉寂。"
+
+
 translate traditional_chinese ep001_medbay_9834a1e3:
 
-    # "And then the combat scanner lit up and an angry siren sounded."
-    ""
 
-# game/episode001.rpy:1384
+    "這時戰鬥掃描儀突然亮起，刺耳的警報聲驟然轟鳴。"
+
+
 translate traditional_chinese ep001_medbay_a4f15064:
 
-    # c "What's happening?"
-    c ""
 
-# game/episode001.rpy:1386
+    c "什麼情況？"
+
+
 translate traditional_chinese ep001_medbay_a4d7bc1b:
 
-    # ce "She did it..."
-    ce ""
 
-# game/episode001.rpy:1387
+    ce "她真這麼幹了..."
+
+
 translate traditional_chinese ep001_medbay_53383aab:
 
-    # ce "She actually did it..."
-    ce ""
 
-# game/episode001.rpy:1388
+    ce "她居然真這麼幹了..."
+
+
 translate traditional_chinese ep001_medbay_964c2f13:
 
-    # c "Are those?"
-    c ""
 
-# game/episode001.rpy:1389
+    c "那些是？"
+
+
 translate traditional_chinese ep001_medbay_46174719:
 
-    # ce "They've locked onto us..."
-    ce ""
 
-# game/episode001.rpy:1390
+    ce "他們鎖定我們了..."
+
+
 translate traditional_chinese ep001_medbay_d4ec128f:
 
-    # ce "Three missiles approaching..."
-    ce ""
 
-# game/episode001.rpy:1400
+    ce "三枚導彈正在接近..."
+
+
 translate traditional_chinese ep001_celine_sex_fce73c54:
 
-    # c "Hey..."
-    c ""
 
-# game/episode001.rpy:1401
+    c "餵..."
+
+
 translate traditional_chinese ep001_celine_sex_3b6a80a4:
 
-    # ce "Sssh, get over here. Quick!"
-    ce ""
 
-# game/episode001.rpy:1402
+    ce "噓，快過來！"
+
+
 translate traditional_chinese ep001_celine_sex_bc46f6d6:
 
-    # "I carefully crawled next to her while Kit was still snoring away."
-    ""
 
-# game/episode001.rpy:1403
+    "趁着基特仍在打鼾，我小心爬到她身旁。"
+
+
 translate traditional_chinese ep001_celine_sex_76f6514f:
 
-    # "Céline closed the tent again and turned her attention to me."
-    ""
 
-# game/episode001.rpy:1405
+    "瑟琳重新拉好帳篷，將注意力轉到我身上。"
+
+
 translate traditional_chinese ep001_celine_sex_c7310679:
 
-    # "Both feeling we had little time to waste, Céline and I entangled in a passionate embrace, her mouth on mine."
-    ""
 
-# game/episode001.rpy:1406
+    "彼此心知時間緊迫，我和瑟琳激烈擁吻着糾纏在一起。"
+
+
 translate traditional_chinese ep001_celine_sex_bb83e511:
 
-    # "She giggled softly as I bit her earlobe and dotted her neck and breasts with kisses."
-    ""
 
-# game/episode001.rpy:1407
+    "當我輕咬她耳垂，將吻痕烙印在她頸胸時，她發出喫喫的輕笑。"
+
+
 translate traditional_chinese ep001_celine_sex_f4313657:
 
-    # "Our caresses became more eager as the girl freed my erection."
-    ""
 
-# game/episode001.rpy:1408
+    "女孩釋放我堅挺的下體後，我們的愛撫變得愈發急切。"
+
+
 translate traditional_chinese ep001_celine_sex_1174741b:
 
-    # "I took her small, but firm breasts in my hands and brushed my lips against her nipples."
-    ""
 
-# game/episode001.rpy:1410
+    "我握着她小巧而堅挺的乳房，嘴脣掃過那對蓓蕾。"
+
+
 translate traditional_chinese ep001_celine_sex_767c4b18:
 
-    # ce "Ooooh, [p_name]..."
-    ce ""
 
-# game/episode001.rpy:1411
+    ce "唔啊啊，[p_name]..."
+
+
 translate traditional_chinese ep001_celine_sex_c80f5e02:
 
-    # "We froze momentarily as Kit made a noise and seemed on the brink of awakening."
-    ""
 
-# game/episode001.rpy:1414
+    "基特翻身的動靜讓我們瞬間僵住，他仿佛隨時會醒來。"
+
+
 translate traditional_chinese ep001_celine_sex_5120c9af:
 
-    # "We let out a sigh of relief, when he turned his back on us."
-    ""
 
-# game/episode001.rpy:1416
+    "見他轉身背對我們，我倆才如釋重負地喘了口氣。"
+
+
 translate traditional_chinese ep001_celine_sex_4014c70a:
 
-    # ce "We’re not done yet, are we?"
-    ce ""
 
-# game/episode001.rpy:1417
+    ce "我們還沒完事吧？"
+
+
 translate traditional_chinese ep001_celine_sex_457b6998:
 
-    # "The girl had me erect in seconds and guided my penis towards her pussy."
-    ""
 
-# game/episode001.rpy:1419
+    "女孩轉眼間就讓我硬挺起來，扶着肉棒引向她溼熱的私處。"
+
+
 translate traditional_chinese ep001_celine_sex_1866b2ef:
 
-    # "Our sigh of relief, when he turned his back on us, transformed into soft moans as Céline guided my penis towards her pussy."
-    ""
 
-# game/episode001.rpy:1421
+    "當瑟琳引導我的陽具抵住她下體時，我們因基特轉身而松的口氣，化作了旖旎的輕喘。"
+
+
 translate traditional_chinese ep001_celine_sex_9e0fa2e6:
 
-    # "My dick pushed against Céline’s entrance, slick with her moisture. She gasped as I pressed the top of my shaft past her labia. I paused."
-    ""
 
-# game/episode001.rpy:1422
+    "我的肉棒抵在瑟琳溼潤的入口，蹭得滿是她的愛液。當我把龜頭擠進她陰脣時，她倒抽了口氣。我暫時停下。"
+
+
 translate traditional_chinese ep001_celine_sex_fda47b55:
 
-    # "Céline grasped my arm to encourage me to go deeper."
-    ""
 
-# game/episode001.rpy:1423
+    "瑟琳抓住我的胳膊，示意我再插深些。"
+
+
 translate traditional_chinese ep001_celine_sex_38d37c05:
 
-    # ce "I need you, [p_name]."
-    ce ""
 
-# game/episode001.rpy:1425
+    ce "我需要你，[p_name]。"
+
+
 translate traditional_chinese ep001_celine_sex_8d8b1a63:
 
-    # "Her voice was barely a whisper and her moans just as soft when we started fucking."
-    ""
 
-# game/episode001.rpy:1428
+    "當我們開始抽插時，她的聲音細若遊絲，呻吟也輕得像嘆息。"
+
+
 translate traditional_chinese ep001_celine_sex_53873742:
 
-    # "It was weird and exciting at the same time. The possibility of Kit waking up and catching us in the act actually enhanced our passionate lovemaking."
-    ""
 
-# game/episode001.rpy:1432
+    "這感覺既刺激又詭異。基特隨時可能醒來撞見我們幹這事的可能性，反而讓我們更激烈地纏綿。"
+
+
 translate traditional_chinese ep001_celine_sex_5a9e53ac:
 
-    # "I licked Céline’s hard nipples and fingered her, while my cock was still inside her. The stimulation of so many erogenous zones at once finally sent her over the edge."
-    ""
 
-# game/episode001.rpy:1439
+    "我舔着瑟琳硬挺的乳頭，用手指撫摸她私處，而肉棒仍在她體內。多重敏感點同時受刺激終於讓她攀上頂峯。"
+
+
 translate traditional_chinese ep001_celine_sex_a1428962:
 
-    # "The girl shuddered and bit on my hand to suppress her orgastic moans, which in turn ushered my orgasm."
-    ""
 
-# game/episode001.rpy:1441
+    "女孩渾身戰慄，狠咬我的手背抑制高潮呻吟，這反倒直接催出我的精關。"
+
+
 translate traditional_chinese ep001_celine_sex_cfe6a6e4:
 
-    # "I tried to muffle my delirious cry in the musk of her hair as I shot my seed onto her belly."
-    ""
 
-# game/episode001.rpy:1448
+    "當我將精液噴射在她小腹上時，把臉埋進她髮絲間的體香裏試圖蓋住自己銷魂的叫聲。"
+
+
 translate traditional_chinese ep001_celine_sex_a1428962_1:
 
-    # "The girl shuddered and bit on my hand to suppress her orgastic moans, which in turn ushered my orgasm."
-    ""
 
-# game/episode001.rpy:1449
+    "女孩渾身戰慄，狠咬我的手背抑制高潮呻吟，這反倒直接催出我的精關。"
+
+
 translate traditional_chinese ep001_celine_sex_0a73c8ed:
 
-    # "I tried to muffle my delirious cry in the musk of her hair as I shot my seed inside her."
-    ""
 
-# game/episode001.rpy:1451
+    "當我將精液射進她體內時，把臉埋進她髮絲間的體香裏試圖蓋住自己銷魂的叫聲。"
+
+
 translate traditional_chinese ep001_celine_sex_56c37d30:
 
-    # ce "Hmmmm, I’d ask you to stay, but then we’d have too much explaining to do in the morning."
-    ce ""
 
-# game/episode001.rpy:1460
+    ce "嗯——真想留你過夜，但明早可沒法跟大夥解釋這局面。"
+
+
 translate traditional_chinese ep001_jade_hj_f14bf227:
 
-    # "Her soft hands touched my penis as she focused all of her attention on bringing me pleasure."
-    ""
 
-# game/episode001.rpy:1461
+    "她柔若無骨的手撫弄着我的陰莖，全神貫注地取悅着我。"
+
+
 translate traditional_chinese ep001_jade_hj_da8c8cdd:
 
-    # "Jade’s handjobs, like every sex act with her, were a work of art."
-    ""
 
-# game/episode001.rpy:1462
+    "傑德用手幫你打飛機的功夫，跟她其他牀上功夫一樣堪稱藝術。"
+
+
 translate traditional_chinese ep001_jade_hj_aea90348:
 
-    # "She knew just how to apply the right amount of pressure, a little squeeze at just the perfect moment."
-    ""
 
-# game/episode001.rpy:1464
+    "她總知道該用多少力道，總能在關鍵時輕輕捏那一下。"
+
+
 translate traditional_chinese ep001_jade_hj_594d37b6:
 
-    # "She was never just pumping you absentmindedly, but seemed to always know when you were about to explode, often stopping right at the height of your pleasure, slowing down and meticulously building that perfect orgasm."
-    ""
 
-# game/episode001.rpy:1466
+    "她從不心不在焉地隨便擼擼，總在你快射時精準拿捏節奏：常在你巔峯時刻停住，放慢速度，精心打造那份絕妙的快感。"
+
+
 translate traditional_chinese ep001_jade_hj_745fc6c6:
 
-    # "I was very distracted by the events of the past day, but she had me spilling my seed after just a few minutes of complete nirvana."
-    ""
 
-# game/episode001.rpy:1467
+    "儘管被前一天的事攪得心神不寧，但她僅用幾分鐘就讓我在極樂之境中傾瀉而出。"
+
+
 translate traditional_chinese ep001_jade_hj_84e203f5:
 
-    # c "What would I do without you, Jade?"
-    c ""
 
-# game/episode001.rpy:1468
+    c "傑德，沒有你我該怎麼辦？"
+
+
 translate traditional_chinese ep001_jade_hj_1db4b53f:
 
-    # j "Probably doing the same by yourself, but poorly?"
-    j ""
+
+    j "大概自己動手卻搞得一團糟？"
 
 translate traditional_chinese strings:
 
-    # game/episode001.rpy:33
+
     old "Unknown"
-    new ""
+    new "未知"
 
-    # game/episode001.rpy:58
+
     old "Planets"
-    new ""
+    new "行星"
 
-    # game/episode001.rpy:58
+
     old "Tuolovi"
-    new ""
+    new "託洛維星"
 
-    # game/episode001.rpy:58
+
     old "Location: Orbiting Typhon, Hydrus constellation"
-    new ""
+    new "位置：泰豐星軌道，水蛇座"
 
-    # game/episode001.rpy:58
+
     old "A small green planet orbiting Typhon - once poetically called HD 10180 b. Birthplace of [p_name]. His mother Yve still lives in the family mansion on the surface of Tuolovi."
-    new ""
+    new "環繞泰豐星的綠色小行星——曾用富有詩意的編號HD 10180 b命名。[p_name]的出生地。其母伊芙仍居住在託洛維星地表家族莊園。"
 
-    # game/episode001.rpy:75
+
     old "Characters"
-    new ""
+    new "人物"
 
-    # game/episode001.rpy:75
+
     old "Agust Valenmann de Lonval"
-    new ""
+    new "阿古斯特·瓦倫曼·德·隆瓦爾"
 
-    # game/episode001.rpy:75
+
     old "Agust Algerone Arlington Valenmann de Lonval, wealthy CEO of the trading and manufacturing company VLCo, father to [p_name], Lilly and Eva."
-    new ""
+    new "阿古斯特·阿爾傑農·阿靈頓·瓦倫曼·德·隆瓦爾，貿易製造公司VLCo的富豪CEO，系[p_name]、莉莉與伊娃之父。"
 
-    # game/episode001.rpy:86
+
     old "Agust Algerone Arlington Valenmann de Lonval, wealthy CEO of the trading and manufacturing company VLCo, father to [p_name]."
-    new ""
+    new "阿古斯特·阿爾傑農·阿靈頓·瓦倫曼·德·隆瓦爾，貿易製造公司VLCo的富豪CEO，系[p_name]之父。"
 
-    # game/episode001.rpy:97
+
     old "Organizations"
-    new ""
+    new "組織"
 
-    # game/episode001.rpy:97
+
     old "VLCo."
-    new ""
+    new "VLCo."
 
-    # game/episode001.rpy:97
+
     old "Location: Tooles Folly (HD 154857 c), Ara Constellation"
-    new ""
+    new "位置：圖爾斯·福裏星(編號HD 154857 c)，祭壇座"
 
-    # game/episode001.rpy:97
+
     old "An intergalactic trading and manufacturing company founded by the Valenmann family and operated by them for centuries. The company has a murky past and regularly engages in questionable activity, though most of it is sanctioned by the Terran government. Activities range from trading rare minerals, ship parts to slaves and grey-market biotics."
-    new ""
+    new "由瓦倫曼家族創立並經營數百年的跨星系貿易製造公司。歷史污點重重，常涉灰色交易，多數行動受人族政府默許。業務涵蓋稀有礦物、飛船零件、奴隸交易及灰色市場生化品。"
 
-    # game/episode001.rpy:121
+
     old "Yve Valenmann de Lonval"
-    new ""
+    new "伊芙·瓦倫曼·德·隆瓦爾"
 
-    # game/episode001.rpy:121
+
     old "Yve Valenmann de Lonval, former pop-star who married Agust at a very young age. Mother of [p_name], Lilly and Eva. She spends her days living in the mansion on Tuolovi entertaining a host of extramarital lovers."
-    new ""
+    new "伊芙·瓦倫曼·德·隆瓦爾，年少成婚的前流行巨星。系[p_name]、莉莉與伊娃之母，常年居於託洛維星莊園，周旋於衆多婚外情人之間。"
 
-    # game/episode001.rpy:131
+
     old "Yve Valenmann de Lonval, former pop-star who married Agust at a very young age. Mother of [p_name]. She spends her days living in the mansion on Tuolovi entertaining a host of extramarital lovers."
-    new ""
+    new "伊芙·瓦倫曼·德·隆瓦爾，年少成婚的前流行巨星。系[p_name]之母，常年居於託洛維星莊園，周旋於衆多婚外情人之間。"
 
-    # game/episode001.rpy:157
-    old "Aven"
-    new ""
 
-    # game/episode001.rpy:157
     old "Aven, childhood friend of [p_name]. Was taken away by Nadya."
-    new ""
+    new "艾文，[p_name]的青梅竹馬。被娜迪亞帶走了。"
 
-    # game/episode001.rpy:176
-    old "Eva"
-    new ""
 
-    # game/episode001.rpy:176
     old "Eva Valenmann de Lonval, sister of Lilly and [p_name]."
-    new ""
+    new "伊娃·瓦倫曼·德·隆瓦爾，莉莉與[p_name]的妹妹。"
 
-    # game/episode001.rpy:186
+
     old "Eva Arderne, childhood friend of [p_name]."
-    new ""
+    new "伊娃·阿德恩，[p_name]的青梅竹馬。"
 
-    # game/episode001.rpy:209
-    old "Lilly"
-    new ""
 
-    # game/episode001.rpy:209
     old "Lilly Valenmann de Lonval, sister of Eva and [p_name]."
-    new ""
+    new "莉莉·瓦倫曼·德·隆瓦爾，伊娃與[p_name]的姐妹。"
 
-    # game/episode001.rpy:219
+
     old "Lilly Elyot, childhood friend of [p_name]."
-    new ""
+    new "莉莉·埃利奧特，[p_name]的青梅竹馬。"
 
-    # game/episode001.rpy:244
+
     old "Terran Galactic Navy"
-    new ""
+    new "人族星系艦隊"
 
-    # game/episode001.rpy:244
+
     old "The Terran Galactic Navy (TGN) is the name for the intergalactic fleet that keeps the peace in the human territories, collectively called the Sovereignty. Special divisions of the TGN are also occupied with conquering of new worlds, though the expansion of the Sovereignty has stagnated in recent years."
-    new ""
+    new "人族星系艦隊(簡稱TGN)是維護人類疆域\"至高權域\"和平的星際艦隊總稱。其特殊部門也負責徵服新世界，儘管近年來至高權域的擴張已然停滯。"
 
-    # game/episode001.rpy:262
+
     old "Lanan P-10, Beta Centauri, Orbit"
-    new ""
+    new "拉南P-10星，半人馬座β星系，近地軌道"
 
-    # game/episode001.rpy:267
+
     old "Ships"
-    new ""
+    new "艦船"
 
-    # game/episode001.rpy:267
-    old "TGN Ypotryll"
-    new ""
 
-    # game/episode001.rpy:267
     old "The battle cruiser Ypotryll belongs to one of the larger class of ships under the TGN banner and most often utilized in any type of situation, from troop deployment to large scale ship-to-ship battles."
-    new ""
+    new "戰列巡洋艦\"異龍\"號屬於人族星系艦隊旗下的大型艦種，從部隊投放到大規模艦隊戰，均是最常被投入各類戰局的艦型。"
 
-    # game/episode001.rpy:267
+
     old "Commander Szuzume is the most senior officer on the Ypotryll."
-    new ""
+    new "蘇珠美指揮官是\"異龍\"號上最高軍銜的軍官。"
 
-    # game/episode001.rpy:295
+
     old "Calista Szuzume"
-    new ""
+    new "卡莉斯塔·蘇珠美"
 
-    # game/episode001.rpy:295
+
     old "Commander Calista Szuzume is the captain of the Battle Cruiser TGN Ypotryll and the mother of Céline and Kit. She has a particular dislike for [p_name]."
-    new ""
+    new "卡莉斯塔·蘇珠美指揮官是\"異龍\"號戰列巡洋艦艦長，同時也是瑟琳與基特的母親。她對[p_name]抱有特殊厭惡。"
 
-    # game/episode001.rpy:332
+
     old "Basecamp Kappa, Lanan P-10"
-    new ""
+    new "卡帕前哨基地，拉南P-10星"
 
-    # game/episode001.rpy:336
+
     old "Talk to Céline"
-    new ""
+    new "與瑟琳交談"
 
-    # game/episode001.rpy:336
+
     old "Talk to Eva"
-    new ""
+    new "與伊娃交談"
 
-    # game/episode001.rpy:336
+
     old "Talk to Lilly"
-    new ""
+    new "與莉莉交談"
 
-    # game/episode001.rpy:336
+
     old "Talk to Kit"
-    new ""
+    new "與基特交談"
 
-    # game/episode001.rpy:336
+
     old "Talk to Thim"
-    new ""
+    new "與蒂姆交談"
 
-    # game/episode001.rpy:343
+
     old "Céline Szuzume"
-    new ""
+    new "瑟琳·蘇珠美"
 
-    # game/episode001.rpy:343
+
     old "Céline is the daughter of Calista Szuzume, sister of Kit and a potential love interest of [p_name]."
-    new ""
+    new "瑟琳是卡莉斯塔·蘇珠美之女，基特的妹妹，同時可能成爲[p_name]的戀愛對象。"
 
-    # game/episode001.rpy:354
+
     old "I did it for you"
-    new ""
+    new "我是爲了你才這麼做的"
 
-    # game/episode001.rpy:354
+
     old "I wanted everyone together"
-    new ""
+    new "我想要大家團聚在一起"
 
-    # game/episode001.rpy:447
+
     old "Kit Szuzume"
-    new ""
+    new "基特·蘇珠美"
 
-    # game/episode001.rpy:447
+
     old "Kit is the son of Calista Szuzume, brother of Céline and one of [p_name]'s best friends. Partly due to his interest in the more extreme sports he was considered for advanced training at the TGN Academy."
-    new ""
+    new "基特是卡莉斯塔·蘇珠美的兒子，瑟琳的兄弟，也是[p_name]最要好的朋友之一。部分由於他對極限運動的興趣，他被人族星系艦隊的學院考慮進行高級訓練。"
 
-    # game/episode001.rpy:468
+
     old "Thim von Skandersfelt"
-    new ""
+    new "蒂姆·馮·斯坎德斯菲爾特"
 
-    # game/episode001.rpy:468
+
     old "Thim is a fellow student at the TGN Academy. His family can trace its lineage all the way back to a Nordic royal family dating back to the Middle Ages."
-    new ""
+    new "蒂姆是人族星系艦隊的學院的同級生。他的家族可以追溯其血統，一路回到可以追溯到中世紀的一個北歐王室。"
 
-    # game/episode001.rpy:524
+
     old "Go to Céline"
-    new ""
+    new "去找瑟琳"
 
-    # game/episode001.rpy:524
+
     old "Visit Céline"
-    new ""
+    new "拜訪瑟琳"
 
-    # game/episode001.rpy:524
+
     old "Visit Eva and Lilly"
-    new ""
+    new "拜訪伊娃和莉莉"
 
-    # game/episode001.rpy:524
+
     old "Go to sleep"
-    new ""
+    new "去睡覺"
 
-    # game/episode001.rpy:536
+
     old "Certainly"
-    new ""
+    new "當然"
 
-    # game/episode001.rpy:536
+
     old "Better not"
-    new ""
+    new "最好別"
 
-    # game/episode001.rpy:736
+
     old "Species"
-    new ""
+    new "物種"
 
-    # game/episode001.rpy:736
+
     old "The Warrior Women"
-    new ""
+    new "女戰士"
 
-    # game/episode001.rpy:736
+
     old "First encountered on Lanan P-10 during a full-scale attack on TGN personnel, abducting a great many of them. The women appear muscular and wear elaborate armor and seem to prefer fighting with relatively crude melee weapons."
-    new ""
+    new "第一次在拉南P-10星遭遇，當時人族星系艦隊人員受到全面攻擊，大量人被綁架。這些女人看起來肌肉發達，穿着精緻的盔甲，似乎偏好使用相對簡陋的近戰武器戰鬥。"
 
-    # game/episode001.rpy:767
-    old "Jade"
-    new ""
 
-    # game/episode001.rpy:767
     old "Short for Jade'anna N'ec L'ordann va T'olnec. [p_name]'s personal Twi'll attendant, given to him on his sixteenth birthday."
-    new ""
+    new "傑德安娜·內克·洛丹·瓦·託爾內克的簡稱。[p_name]的個人特維爾人隨從，在他十六歲生日時贈送給他。"
 
-    # game/episode001.rpy:787
+
     old "Twi'll"
-    new ""
+    new "特維爾人"
+
+
+    old "Tw』ill were the first alien species the human race encountered on their initial explorations outside the known galaxy. The intelligent, benign race of humanoids were promptly enslaved by the Terran invaders and their homeworld Luclite orbiting Xut Thanaili was destroyed. 80% of the populace were wiped out and the rest of them (male and female) are commonly held as sex slaves by wealthy Terran individuals."
+    new "特維爾人是人類首次在已知星系外探險時遇到的外星種族。這個智能、溫和的人形種族很快被人族入侵者奴役，他們圍繞許特塔納利旋轉的星球的故鄉盧克利特被摧毀。80%的人口被消滅，其餘的人(包括男性和女性)通常被人族的富人們當作性奴。"
+
+
+    old "Massage me"
+    new "給我按摩"
+
+
+    old "Just lie with me"
+    new "就躺我身邊"
+
+
+    old "No thank you"
+    new "不用了謝謝"
+
+
+    old "Not now"
+    new "現在不行"
+
+
+    old "Tease her"
+    new "撩她"
+
+
+    old "Scold her"
+    new "責罵她"
+
+
+    old "Visit Kit"
+    new "拜訪基特"
+
+
+    old "Ignore Thim"
+    new "無視蒂姆"
+
+
+    old "Leave medbay"
+    new "離開醫療站"
+
+
+    old "Vess is a girl [p_name] encountered during the botched operation on Lanan P-10, helping her escape on a transport to the TGN Ypotryll. Her family was taken when the Warrior Women invaded the moon."
+    new "薇絲是[p_name]在拉南P-10星那次搞砸的行動中遇到的女孩，幫她搭運輸船逃到人族星系艦隊的\"異龍\"號上。她的家人在女戰士入侵衛星時被擄走了。"
+
+
+    old "Tell her about your plan"
+    new "告訴她你的計劃"
+
+
+    old "Don't tell her"
+    new "別告訴她"
+
+
+    old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."
+    new "一艘人族星系艦隊的輕型戰鬥機，由[p_name]和機組成員在從艦隊叛逃過程中擄走的。"
+
+
+    old "Cover her body"
+    new "射在她的身上"
+
+
+    old "Creampie"
+    new "內射"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:23
+
+translate traditional_chinese strings:
 
     # game/episode001.rpy:787
     old "Tw’ill were the first alien species the human race encountered on their initial explorations outside the known galaxy. The intelligent, benign race of humanoids were promptly enslaved by the Terran invaders and their homeworld Luclite orbiting Xut Thanaili was destroyed. 80% of the populace were wiped out and the rest of them (male and female) are commonly held as sex slaves by wealthy Terran individuals."
-    new ""
-
-    # game/episode001.rpy:822
-    old "Massage me"
-    new ""
-
-    # game/episode001.rpy:822
-    old "Just lie with me"
-    new ""
-
-    # game/episode001.rpy:822
-    old "No thank you"
-    new ""
-
-    # game/episode001.rpy:832
-    old "Not now"
-    new ""
-
-    # game/episode001.rpy:842
-    old "Tease her"
-    new ""
-
-    # game/episode001.rpy:842
-    old "Scold her"
-    new ""
-
-    # game/episode001.rpy:921
-    old "Visit Kit"
-    new ""
-
-    # game/episode001.rpy:921
-    old "Ignore Thim"
-    new ""
-
-    # game/episode001.rpy:921
-    old "Leave medbay"
-    new ""
-
-    # game/episode001.rpy:1020
-    old "Vess"
-    new ""
-
-    # game/episode001.rpy:1020
-    old "Vess is a girl [p_name] encountered during the botched operation on Lanan P-10, helping her escape on a transport to the TGN Ypotryll. Her family was taken when the Warrior Women invaded the moon."
-    new ""
-
-    # game/episode001.rpy:1124
-    old "Tell her about your plan"
-    new ""
-
-    # game/episode001.rpy:1124
-    old "Don't tell her"
-    new ""
-
-    # game/episode001.rpy:1273
-    old "TGN Enfield"
-    new ""
-
-    # game/episode001.rpy:1273
-    old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."
-    new ""
-
-    # game/episode001.rpy:1434
-    old "Cover her body"
-    new ""
-
-    # game/episode001.rpy:1434
-    old "Creampie"
-    new ""
+    new "特維爾人是人類首次在已知星系外探險時遇到的外星種族。這個智能、溫和的人形種族很快被人族入侵者奴役，他們圍繞許特塔納利旋轉的星球的故鄉盧克利特被摧毀。80%的人口被消滅，其餘的人(包括男性和女性)通常被人族的富人們當作性奴。"
 

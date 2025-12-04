@@ -1,4810 +1,4817 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode004_conversations.rpy:113
+
+
 translate traditional_chinese ep004_lilly_talk_91c70eeb:
 
-    # c "Hey sis."
-    c ""
 
-# game/episode004_conversations.rpy:115
+    c "嘿，妹。"
+
+
 translate traditional_chinese ep004_lilly_talk_13e02f1b:
 
-    # c "Hey Lilly."
-    c ""
 
-# game/episode004_conversations.rpy:118
+    c "嘿，莉莉。"
+
+
 translate traditional_chinese ep004_lilly_talk_31a69a69:
 
-    # l "Hey."
-    l ""
 
-# game/episode004_conversations.rpy:119
+    l "嘿。"
+
+
 translate traditional_chinese ep004_lilly_talk_3ac35cf2:
 
-    # l "Could you please leave me to eat on my own?"
-    l ""
 
-# game/episode004_conversations.rpy:120
+    l "你能讓我一個人喫飯嗎？"
+
+
 translate traditional_chinese ep004_lilly_talk_c48dc32f:
 
-    # c "Sure."
-    c ""
 
-# game/episode004_conversations.rpy:122
+    c "當然。"
+
+
 translate traditional_chinese ep004_lilly_talk_cf4da51b:
 
-    # c "Enjoying the wondrous food from our kitchen?"
-    c ""
 
-# game/episode004_conversations.rpy:124
+    c "在享受我們廚房那神奇的食物嗎？"
+
+
 translate traditional_chinese ep004_lilly_talk_9f2b3254:
 
-    # l "It’s certainly wondrous, but not sure if it’s tasty though..."
-    l ""
 
-# game/episode004_conversations.rpy:125
+    l "它確實很神奇，但不確定是不是好喫..."
+
+
 translate traditional_chinese ep004_lilly_talk_0c1e12b7:
 
-    # c "Still, it beats Kit’s cooking, that’s for sure."
-    c ""
 
-# game/episode004_conversations.rpy:127
+    c "不過，它比基特做的飯好，那是肯定的。"
+
+
 translate traditional_chinese ep004_lilly_talk_ed2bd639:
 
-    # l "Haha, remember that stew he made for us back at the Academy?"
-    l ""
 
-# game/episode004_conversations.rpy:128
+    l "哈哈，記得他在學院時爲我們做的燉菜嗎？"
+
+
 translate traditional_chinese ep004_lilly_talk_e208822f:
 
-    # c "Really, that was a stew?"
-    c ""
 
-# game/episode004_conversations.rpy:129
+    c "真的嗎，那是燉菜？"
+
+
 translate traditional_chinese ep004_lilly_talk_ccfebc37:
 
-    # l "Maybe one of the new crew members is an excellent cook?"
-    l ""
 
-# game/episode004_conversations.rpy:130
+    l "也許新機組成員裏有個很棒的廚師？"
+
+
 translate traditional_chinese ep004_lilly_talk_c5bb00e8:
 
-    # c "We should ask."
-    c ""
 
-# game/episode004_conversations.rpy:131
+    c "我們應該問問。"
+
+
 translate traditional_chinese ep004_lilly_talk_fa8f5ca2:
 
-    # c "What do you think of them, by the way, the new ones?"
-    c ""
 
-# game/episode004_conversations.rpy:136
+    c "對了，你覺得新來的怎麼樣？"
+
+
 translate traditional_chinese ep004_lilly_choices_48457de6:
 
-    # c "I think I saw you talking to Raene earlier."
-    c ""
 
-# game/episode004_conversations.rpy:138
+    c "我好像早前看到你和蕾妮說話。"
+
+
 translate traditional_chinese ep004_lilly_choices_2a2f2deb:
 
-    # l "That girl is very strange."
-    l ""
 
-# game/episode004_conversations.rpy:139
+    l "那女孩很奇怪。"
+
+
 translate traditional_chinese ep004_lilly_choices_4e24c2ca:
 
-    # c "Really?"
-    c ""
 
-# game/episode004_conversations.rpy:140
+    c "真的？"
+
+
 translate traditional_chinese ep004_lilly_choices_e3b56509:
 
-    # c "She’s very silent and shy, but strange?"
-    c ""
 
-# game/episode004_conversations.rpy:141
+    c "她很沉默害羞，但是奇怪？"
+
+
 translate traditional_chinese ep004_lilly_choices_470764be:
 
-    # l "I tried to talk to her over lunch, but every conversation just stops after a couple of words."
-    l ""
 
-# game/episode004_conversations.rpy:142
+    l "我試着在午餐時和她聊天，但每次對話說了幾個詞就停了。"
+
+
 translate traditional_chinese ep004_lilly_choices_33c6d590:
 
-    # c "I’m sure it’s just nerves or something."
-    c ""
 
-# game/episode004_conversations.rpy:143
+    c "我肯定那只是緊張什麼的。"
+
+
 translate traditional_chinese ep004_lilly_choices_b6e3e4aa:
 
-    # c "What else could it be?"
-    c ""
 
-# game/episode004_conversations.rpy:144
+    c "還能是什麼？"
+
+
 translate traditional_chinese ep004_lilly_choices_71876cd4:
 
-    # l "I don’t know."
-    l ""
 
-# game/episode004_conversations.rpy:146
+    l "我不知道。"
+
+
 translate traditional_chinese ep004_lilly_choices_c7affb75:
 
-    # l "She came here on her own volition, right?"
-    l ""
 
-# game/episode004_conversations.rpy:147
+    l "她是自願來的，對吧？"
+
+
 translate traditional_chinese ep004_lilly_choices_85fffde7:
 
-    # l "Ziv isn’t some slaver who’s using us to transport her wares?"
-    l ""
 
-# game/episode004_conversations.rpy:148
+    l "基芙不是那種用我們來運貨的奴隸販子，對吧？"
+
+
 translate traditional_chinese ep004_lilly_choices_e2772f65:
 
-    # c "No, she isn’t."
-    c ""
 
-# game/episode004_conversations.rpy:149
+    c "不，她不是。"
+
+
 translate traditional_chinese ep004_lilly_choices_113638e7:
 
-    # c "Another woman brought Raene back on Verdigris and Raene went with Ziv willingly."
-    c ""
 
-# game/episode004_conversations.rpy:150
+    c "另一個女人把蕾妮帶回銅綠星，蕾妮是心甘情願跟基芙走的。"
+
+
 translate traditional_chinese ep004_lilly_choices_f7b4161c:
 
-    # c "I think she’s escaping from her father."
-    c ""
 
-# game/episode004_conversations.rpy:152
+    c "我覺得她是在逃避她父親。"
+
+
 translate traditional_chinese ep004_lilly_choices_632abe51:
 
-    # l "Well, maybe she’ll come around."
-    l ""
 
-# game/episode004_conversations.rpy:153
+    l "好吧，沒準兒她會想通的。"
+
+
 translate traditional_chinese ep004_lilly_choices_8110c74a:
 
-    # c "She just might, but I’ll make a note to talk to her, get to know her a little."
-    c ""
 
-# game/episode004_conversations.rpy:157
+    c "她可能會的，但我得記着要跟她聊聊，了解了解她。"
+
+
 translate traditional_chinese ep004_lilly_choices_18343e62:
 
-    # c "How are you getting on with Vess?"
-    c ""
 
-# game/episode004_conversations.rpy:159
+    c "你跟薇絲處得怎麼樣？"
+
+
 translate traditional_chinese ep004_lilly_choices_99943ce9:
 
-    # l "All right, I think."
-    l ""
 
-# game/episode004_conversations.rpy:160
+    l "還行吧，我覺得。"
+
+
 translate traditional_chinese ep004_lilly_choices_904f87e7:
 
-    # l "She keeps to herself."
-    l ""
 
-# game/episode004_conversations.rpy:162
+    l "她總是一個人待着。"
+
+
 translate traditional_chinese ep004_lilly_choices_96292e4b:
 
-    # l "I think she talks with Thim the most, but that’s just because they’re bunkmates."
-    l ""
 
-# game/episode004_conversations.rpy:163
+    l "我覺得她跟蒂姆說話最多，但那也只是因爲他們睡在一起。"
+
+
 translate traditional_chinese ep004_lilly_choices_dcef4757:
 
-    # l "I guess the situation on Lanan hit her hard."
-    l ""
 
-# game/episode004_conversations.rpy:164
+    l "我猜拉南星上的事對她打擊挺大的。"
+
+
 translate traditional_chinese ep004_lilly_choices_09849da5:
 
-    # c "Yeah, I think so too, she doesn’t really want to talk about it."
-    c ""
 
-# game/episode004_conversations.rpy:165
+    c "是啊，我也這麼覺得，她不太想談這事。"
+
+
 translate traditional_chinese ep004_lilly_choices_2402840d:
 
-    # l "I’m sure in time she will."
-    l ""
 
-# game/episode004_conversations.rpy:167
+    l "我相信慢慢她會好起來的。"
+
+
 translate traditional_chinese ep004_lilly_choices_1f322c9f:
 
-    # l "We do seem to collect the shy ones."
-    l ""
 
-# game/episode004_conversations.rpy:168
+    l "我們好像老招來些內向的人兒。"
+
+
 translate traditional_chinese ep004_lilly_choices_196122ff:
 
-    # c "That we do!"
-    c ""
 
-# game/episode004_conversations.rpy:177
+    c "可不嘛！"
+
+
 translate traditional_chinese ep004_kit_talk_cf1dd5d9:
 
-    # ki "Céline just pushed me inside a utility closet."
-    ki ""
 
-# game/episode004_conversations.rpy:178
+    ki "瑟琳剛剛把我推到雜物間裡去了。"
+
+
 translate traditional_chinese ep004_kit_talk_677f822d:
 
-    # c "I’m sure she had a very good reason."
-    c ""
 
-# game/episode004_conversations.rpy:179
+    c "我相信她肯定有很好的理由。"
+
+
 translate traditional_chinese ep004_kit_talk_26d8ca8b:
 
-    # ki "I might have whined a little too much about this and that."
-    ki ""
 
-# game/episode004_conversations.rpy:181
+    ki "我可能對這兒那兒的抱怨太多了。"
+
+
 translate traditional_chinese ep004_kit_talk_3fcb135c:
 
-    # ki "But abusing a poor wheelchair-bound man like that!"
-    ki ""
 
-# game/episode004_conversations.rpy:182
+    ki "但是那樣欺負一個可憐的坐輪椅的男人！"
+
+
 translate traditional_chinese ep004_kit_talk_ddce45ce:
 
-    # c "Truly, my heart is overflowing with heartfelt compassion for you."
-    c ""
 
-# game/episode004_conversations.rpy:184
+    c "真是的，我的心裡充滿了真誠的同情給你。"
+
+
 translate traditional_chinese ep004_kit_talk_8dd8f507:
 
-    # ki "Thanks man, glad to have a friend like you in this harsh universe of ours."
-    ki ""
 
-# game/episode004_conversations.rpy:185
+    ki "謝啦兄弟，在這個殘酷的宇宙裏有你這樣的朋友真好。"
+
+
 translate traditional_chinese ep004_kit_talk_e7b2f443:
 
-    # c "Your hardships aside, how are you holding up?"
-    c ""
 
-# game/episode004_conversations.rpy:187
+    c "你的苦命事先撇一邊，你現在狀況如何？"
+
+
 translate traditional_chinese ep004_kit_talk_3b885658:
 
-    # ki "Pretty good actually, Cé thinks I’ll be able to walk on my own again real soon."
-    ki ""
 
-# game/episode004_conversations.rpy:188
+    ki "其實挺好的，瑟覺得我很快就能自己走路了。"
+
+
 translate traditional_chinese ep004_kit_talk_9deffb96:
 
-    # c "The ship’s autodoc tell her that?"
-    c ""
 
-# game/episode004_conversations.rpy:189
+    c "是飛船的自動醫療系統告訴她的？"
+
+
 translate traditional_chinese ep004_kit_talk_6d72bd1f:
 
-    # ki "Yes, it’s not the most advanced system in existence, but it does the job."
-    ki ""
 
-# game/episode004_conversations.rpy:190
+    ki "是的，它不是最先進的系統，但挺好用。"
+
+
 translate traditional_chinese ep004_kit_talk_64d5a4f7:
 
-    # c "Like almost everything around here."
-    c ""
 
-# game/episode004_conversations.rpy:191
+    c "就像這兒幾乎所有的東西一樣。"
+
+
 translate traditional_chinese ep004_kit_talk_f3bdb8f7:
 
-    # c "So you’ll be up and about running through the halls again?"
-    c ""
 
-# game/episode004_conversations.rpy:192
+    c "所以，你又能起來在大廳裏跑來跑去了？"
+
+
 translate traditional_chinese ep004_kit_talk_9cfc9793:
 
-    # ki "Looks like."
-    ki ""
 
-# game/episode004_conversations.rpy:193
+    ki "看起來是的。"
+
+
 translate traditional_chinese ep004_kit_talk_0b8e51eb:
 
-    # c "When that happens, we should celebrate."
-    c ""
 
-# game/episode004_conversations.rpy:194
+    c "到那時，我們應該慶祝。"
+
+
 translate traditional_chinese ep004_kit_talk_4da79324:
 
-    # ki "Great idea."
-    ki ""
 
-# game/episode004_conversations.rpy:197
+    ki "好主意。"
+
+
 translate traditional_chinese ep004_kit_talk_ea77c389:
 
-    # ki "There’s this one place I always wanted to go."
-    ki ""
 
-# game/episode004_conversations.rpy:198
+    ki "有個地方我一直想去。"
+
+
 translate traditional_chinese ep004_kit_talk_20de659b:
 
-    # c "The Monument to Earth on Draugr?"
-    c ""
 
-# game/episode004_conversations.rpy:199
+    c "德勞格上的地球紀念碑？"
+
+
 translate traditional_chinese ep004_kit_talk_0a4b30fa:
 
-    # ki "Pfah, who cares."
-    ki ""
 
-# game/episode004_conversations.rpy:200
+    ki "呸，誰在乎。"
+
+
 translate traditional_chinese ep004_kit_talk_00e70cbb:
 
-    # ki "No, there’s a certain moon orbiting Kepler XIV."
-    ki ""
 
-# game/episode004_conversations.rpy:201
+    ki "不，有個特定的衛星繞着開普勒14號星轉。"
+
+
 translate traditional_chinese ep004_kit_talk_00d11b49:
 
-    # c "Yes..."
-    c ""
 
-# game/episode004_conversations.rpy:203
+    c "是的..."
+
+
 translate traditional_chinese ep004_kit_talk_e552a590:
 
-    # ki "I’ve only heard about it, but it’s supposed to be awesome."
-    ki ""
 
-# game/episode004_conversations.rpy:204
+    ki "我只是聽說過它，但據說很贊。"
+
+
 translate traditional_chinese ep004_kit_talk_33466ee1:
 
-    # c "You’re not talking about the local wildlife?"
-    c ""
 
-# game/episode004_conversations.rpy:205
+    c "你不是在說當地的野生動物？"
+
+
 translate traditional_chinese ep004_kit_talk_c5057f75:
 
-    # ki "In a sense..."
-    ki ""
 
-# game/episode004_conversations.rpy:206
+    ki "某種意義上是的..."
+
+
 translate traditional_chinese ep004_kit_talk_386b5f75:
 
-    # ki "The women are said to be exquisite."
-    ki ""
 
-# game/episode004_conversations.rpy:207
+    ki "據說那裡的女人非常迷人。"
+
+
 translate traditional_chinese ep004_kit_talk_c6965a33:
 
-    # ki "It’s a place where everyone comes to relax and just give in to any urge you might have."
-    ki ""
 
-# game/episode004_conversations.rpy:208
+    ki "這是個讓大家來放鬆並放縱你可能有的一切欲望的地方。"
+
+
 translate traditional_chinese ep004_kit_talk_2b922f93:
 
-    # c "Any?"
-    c ""
 
-# game/episode004_conversations.rpy:209
+    c "任何？"
+
+
 translate traditional_chinese ep004_kit_talk_767427b7:
 
-    # ki "Within reason, though there aren’t many rules..."
-    ki ""
 
-# game/episode004_conversations.rpy:210
+    ki "當然是合理範圍內，儘管並沒有太多規則..."
+
+
 translate traditional_chinese ep004_kit_talk_c53a2c9a:
 
-    # ki "The Sovereignty doesn’t look to closely at what happens on Kepler."
-    ki ""
 
-# game/episode004_conversations.rpy:211
+    ki "\"至高權域\"不會太仔細地看開普勒星上發生了什麼。"
+
+
 translate traditional_chinese ep004_kit_talk_45798c13:
 
-    # c "Yes, the Sovereignty..."
-    c ""
 
-# game/episode004_conversations.rpy:212
+    c "是的，\"至高權域\"..."
+
+
 translate traditional_chinese ep004_kit_talk_adf61c91:
 
-    # c "I’ve been to Kepler XIV when I was little and it’s right at the edge of Sovereignty space."
-    c ""
 
-# game/episode004_conversations.rpy:213
+    c "我小時候去過開普勒14號星，而且它就位於\"至高權域\"空間的邊緣。"
+
+
 translate traditional_chinese ep004_kit_talk_615c5761:
 
-    # ki "It is."
-    ki ""
 
-# game/episode004_conversations.rpy:215
+    ki "是的。"
+
+
 translate traditional_chinese ep004_kit_talk_6bc2ad09:
 
-    # ki "That’s a problem, isn’t it?"
-    ki ""
 
-# game/episode004_conversations.rpy:216
+    ki "那是個問題，不是嗎？"
+
+
 translate traditional_chinese ep004_kit_talk_34784081:
 
-    # c "Not necessarily, but we’ll have to be careful."
-    c ""
 
-# game/episode004_conversations.rpy:218
+    c "不一定，但我們必須小心。"
+
+
 translate traditional_chinese ep004_kit_talk_09d4e672:
 
-    # ki "Careful, so we’re going?"
-    ki ""
 
-# game/episode004_conversations.rpy:219
+    ki "小心？那麼我們要去？"
+
+
 translate traditional_chinese ep004_kit_talk_20c70dc1:
 
-    # c "That’s the plan."
-    c ""
 
-# game/episode004_conversations.rpy:220
+    c "計劃如此。"
+
+
 translate traditional_chinese ep004_kit_talk_699bd7a9:
 
-    # ki "But it might be dangerous."
-    ki ""
 
-# game/episode004_conversations.rpy:221
+    ki "但這可能很危險。"
+
+
 translate traditional_chinese ep004_kit_talk_c7b2635b:
 
-    # c "I’m sure Thyia knows something to mask the ship’s ownership records."
-    c ""
 
-# game/episode004_conversations.rpy:222
+    c "我確定塞婭知道一些方法來掩蓋飛船的所有權記錄。"
+
+
 translate traditional_chinese ep004_kit_talk_0d4c76dc:
 
-    # c "And if we keep a relatively low profile, I’m sure we’ll be fine."
-    c ""
 
-# game/episode004_conversations.rpy:223
+    c "而且只要我們保持相對低調，我覺得我們就會沒事的。"
+
+
 translate traditional_chinese ep004_kit_talk_427cd0f6:
 
-    # ki "Sounds like a plan."
-    ki ""
 
-# game/episode004_conversations.rpy:224
+    ki "聽起來是個好計劃。"
+
+
 translate traditional_chinese ep004_kit_talk_bb4fb944:
 
-    # c "Just hop out of that wheelchair and we’ll be off."
-    c ""
 
-# game/episode004_conversations.rpy:225
+    c "趕緊從那輪椅上跳起來，我們就出發。"
+
+
 translate traditional_chinese ep004_kit_talk_c82516ec:
 
-    # ki "Working on it!"
-    ki ""
 
-# game/episode004_conversations.rpy:232
+    ki "這就來！"
+
+
 translate traditional_chinese ep004_nadya_talk_34f0a009:
 
-    # c "How are you holding up?"
-    c ""
 
-# game/episode004_conversations.rpy:233
+    c "你還好嗎？"
+
+
 translate traditional_chinese ep004_nadya_talk_ed2005f2:
 
-    # na "I’m fine, I guess."
-    na ""
 
-# game/episode004_conversations.rpy:235
+    na "我還好，我覺得。"
+
+
 translate traditional_chinese ep004_nadya_talk_4e0d021d:
 
-    # na "Karan was far from an easy man to get along with, but I’d still call him a friend."
-    na ""
 
-# game/episode004_conversations.rpy:236
+    na "卡蘭絕不是個容易相處的人，但我還是把他當朋友。"
+
+
 translate traditional_chinese ep004_nadya_talk_c3f6444e:
 
-    # na "To see him murdered so viciously..."
-    na ""
 
-# game/episode004_conversations.rpy:237
+    na "看到他這樣被殘忍殺害..."
+
+
 translate traditional_chinese ep004_nadya_talk_b8d7d461:
 
-    # na "Who’d do such a thing?"
-    na ""
 
-# game/episode004_conversations.rpy:238
+    na "誰會做這種事？"
+
+
 translate traditional_chinese ep004_nadya_talk_299d153d:
 
-    # c "I don’t know."
-    c ""
 
-# game/episode004_conversations.rpy:239
+    c "我不知道。"
+
+
 translate traditional_chinese ep004_nadya_talk_29afeb4f:
 
-    # c "But his line of research got him into trouble once or twice, right?"
-    c ""
 
-# game/episode004_conversations.rpy:241
+    c "但他的研究方向讓他惹上過一兩次麻煩，對吧？"
+
+
 translate traditional_chinese ep004_nadya_talk_a264d2b3:
 
-    # na "Yes, people threatened his life on several occasions."
-    na ""
 
-# game/episode004_conversations.rpy:242
+    na "是的，好幾次有人威脅他的生命。"
+
+
 translate traditional_chinese ep004_nadya_talk_a3fb0439:
 
-    # na "Especially when he started probing in unsanctioned research programs."
-    na ""
 
-# game/episode004_conversations.rpy:243
+    na "尤其是當他開始調查未經批准的研究項目時。"
+
+
 translate traditional_chinese ep004_nadya_talk_e4a4f213:
 
-    # na "There are more of those programs than anyone dares to admit..."
-    na ""
 
-# game/episode004_conversations.rpy:244
+    na "這些項目比任何人敢承認的還多..."
+
+
 translate traditional_chinese ep004_nadya_talk_82d47229:
 
-    # na "The research that comes out of those places is mind-boggling sometimes."
-    na ""
 
-# game/episode004_conversations.rpy:245
+    na "從那些地方出來的研究有時讓人震驚。"
+
+
 translate traditional_chinese ep004_nadya_talk_783f1c49:
 
-    # c "I guess that’s the benefit of setting aside any kind of morals or ethical oversight."
-    c ""
 
-# game/episode004_conversations.rpy:247
+    c "我想這就是拋開任何道德或倫理監督的好處。"
+
+
 translate traditional_chinese ep004_nadya_talk_9eb14606:
 
-    # na "Yes, I have absolutely no illusions about those kinds of places."
-    na ""
 
-# game/episode004_conversations.rpy:249
+    na "是的，我對那種地方毫無幻想。"
+
+
 translate traditional_chinese ep004_nadya_talk_7273ed59:
 
-    # na "There’s so much ugliness in the galaxy..."
-    na ""
 
-# game/episode004_conversations.rpy:250
+    na "星系裡太多醜惡的事了..."
+
+
 translate traditional_chinese ep004_nadya_talk_6ff8eae2:
 
-    # c "I hope I’ll be able to visit the beautiful places with you too."
-    c ""
 
-# game/episode004_conversations.rpy:252
+    c "我也希望能和你一起去看看那些美麗的地方。"
+
+
 translate traditional_chinese ep004_nadya_talk_6b1bbc25:
 
-    # na "That’s sweet of you to say and I hope so too."
-    na ""
 
-# game/episode004_conversations.rpy:256
+    na "你這麼說很貼心，我也希望如此。"
+
+
 translate traditional_chinese ep004_nadya_talk_43e9a21c:
 
-    # na "Aven told me you handled the situation on Sagueliath well."
-    na ""
 
-# game/episode004_conversations.rpy:257
+    na "艾文告訴我你在森厄星處理得很棒。"
+
+
 translate traditional_chinese ep004_nadya_talk_16e39721:
 
-    # c "Really, she told me I took a big risk shooting at the ceiling like that."
-    c ""
 
-# game/episode004_conversations.rpy:258
+    c "真的？她告訴我我當時那樣朝天花板開槍冒了很大的風險。"
+
+
 translate traditional_chinese ep004_nadya_talk_26593456:
 
-    # na "You probably did, but fighting a boverine calls for extreme measures."
-    na ""
 
-# game/episode004_conversations.rpy:259
+    na "你說得對，但對付牛獾獸就得用非常手段。"
+
+
 translate traditional_chinese ep004_nadya_talk_4834be6a:
 
-    # c "I’ve noticed, tough bastards."
-    c ""
 
-# game/episode004_conversations.rpy:260
+    c "深有體會，那些傢伙很難纏。"
+
+
 translate traditional_chinese ep004_nadya_talk_8e73db44:
 
-    # na "Especially when they’re hungry."
-    na ""
 
-# game/episode004_conversations.rpy:261
+    na "尤其當它們餓瘋的時候。"
+
+
 translate traditional_chinese ep004_nadya_talk_5f605cbe:
 
-    # c "Such a surprise, considering they’re such cute animals when they’re young."
-    c ""
 
-# game/episode004_conversations.rpy:263
+    c "真想不到它們小時候還挺萌的。"
+
+
 translate traditional_chinese ep004_nadya_talk_aea664aa:
 
-    # na "Agreed, very cuddly."
-    na ""
 
-# game/episode004_conversations.rpy:264
+    na "確實，毛茸茸的想rua。"
+
+
 translate traditional_chinese ep004_nadya_talk_174df69e:
 
-    # na "All in all a little different from exploring the local wildlife on Tuolovi."
-    na ""
 
-# game/episode004_conversations.rpy:265
+    na "跟我們在託洛維星考察本地物種那會兒可太不一樣了。"
+
+
 translate traditional_chinese ep004_nadya_talk_11d12a17:
 
-    # c "You could say that again, there were a lot less near-death experiences involved, if I remember correctly."
-    c ""
 
-# game/episode004_conversations.rpy:267
+    c "可不是嘛，記得那時候可沒這麼多生死關頭。"
+
+
 translate traditional_chinese ep004_nadya_talk_482b7f45:
 
-    # na "Very true, though you came close once or twice."
-    na ""
 
-# game/episode004_conversations.rpy:268
+    na "非常正確，不過你確實命懸一線過幾次。"
+
+
 translate traditional_chinese ep004_nadya_talk_4e24c2ca:
 
-    # c "Really?"
-    c ""
 
-# game/episode004_conversations.rpy:269
+    c "真的？"
+
+
 translate traditional_chinese ep004_nadya_talk_eeda35ec:
 
-    # na "Yes, don’t you remember?"
-    na ""
 
-# game/episode004_conversations.rpy:270
+    na "對啊，你不記得了？"
+
+
 translate traditional_chinese ep004_nadya_talk_8e5fd6f6:
 
-    # na "It wasn’t on Tuolovi, but during one of those holidays on Kepler XIV."
-    na ""
 
-# game/episode004_conversations.rpy:271
+    na "不是在託洛維，是在開普勒14號星度假那次。"
+
+
 translate traditional_chinese ep004_nadya_talk_3c45f077:
 
-    # c "The beach resort?"
-    c ""
 
-# game/episode004_conversations.rpy:273
+    c "海濱度假村？"
+
+
 translate traditional_chinese ep004_nadya_talk_b2ef2f10:
 
-    # na "Yes, right at the edge of Sovereignty space."
-    na ""
 
-# game/episode004_conversations.rpy:275
+    na "沒錯，就在\"至高權域\"轄區邊界那兒。"
+
+
 translate traditional_chinese ep004_nadya_talk_89e1f3a1:
 
-    # c "Funny you should mention it, Aven and I just had a conversation about the place."
-    c ""
 
-# game/episode004_conversations.rpy:276
+    c "巧了，艾文剛跟我聊過那兒。"
+
+
 translate traditional_chinese ep004_nadya_talk_f49fd6fb:
 
-    # c "We made that raft together, didn’t we?"
-    c ""
 
-# game/episode004_conversations.rpy:278
+    c "我們是不是一起扎過木筏？"
+
+
 translate traditional_chinese ep004_nadya_talk_4fef0d09:
 
-    # c "I think I remember."
-    c ""
 
-# game/episode004_conversations.rpy:279
+    c "好像有點印象。"
+
+
 translate traditional_chinese ep004_nadya_talk_92cff965:
 
-    # c "Aven and I made a raft together, didn’t we?"
-    c ""
 
-# game/episode004_conversations.rpy:280
+    c "我和艾文是不是合作搭了個木筏？"
+
+
 translate traditional_chinese ep004_nadya_talk_c8b90294:
 
-    # na "Yes, you did."
-    na ""
 
-# game/episode004_conversations.rpy:281
+    na "嗯，是你們倆。"
+
+
 translate traditional_chinese ep004_nadya_talk_7555614c:
 
-    # na "It had a sail and everything."
-    na ""
 
-# game/episode004_conversations.rpy:282
+    na "還配了帆什麼的。"
+
+
 translate traditional_chinese ep004_nadya_talk_529eb4ee:
 
-    # na "So you decided to take it out on the open sea."
-    na ""
 
-# game/episode004_conversations.rpy:283
+    na "結果你們偏要划進遠海。"
+
+
 translate traditional_chinese ep004_nadya_talk_96c8f9e5:
 
-    # na "Everything went fine as long as you didn’t go past the buoys."
-    na ""
 
-# game/episode004_conversations.rpy:284
+    na "只要不越出浮標就沒事。"
+
+
 translate traditional_chinese ep004_nadya_talk_ddde0811:
 
-    # c "Of course we had to try and do just that..."
-    c ""
 
-# game/episode004_conversations.rpy:286
+    c "我們倆當然忍不住要試試..."
+
+
 translate traditional_chinese ep004_nadya_talk_59832253:
 
-    # na "Exactly..."
-    na ""
 
-# game/episode004_conversations.rpy:287
+    na "是啊..."
+
+
 translate traditional_chinese ep004_nadya_talk_12fcf7d9:
 
-    # na "I think there was something up with Eva or Lilly and I had to take them back to the pavilion in a hurry."
-    na ""
 
-# game/episode004_conversations.rpy:288
+    na "記得當時伊娃還是莉莉出了狀況，我急着把她抱回更衣室。"
+
+
 translate traditional_chinese ep004_nadya_talk_663da9e7:
 
-    # na "When I returned you’d already gone past the buoys and the current was pulling at that raft like crazy."
-    na ""
 
-# game/episode004_conversations.rpy:289
+    na "當我回來時你們已經越過浮標，水流正在瘋狂拖那筏子。"
+
+
 translate traditional_chinese ep004_nadya_talk_a33f54ec:
 
-    # c "I believe the exact moment Aven and I began to panic."
-    c ""
 
-# game/episode004_conversations.rpy:290
+    c "我相信那正是我和艾文開始恐慌的時刻。"
+
+
 translate traditional_chinese ep004_nadya_talk_ffe2ce9d:
 
-    # na "And rightly so, because the raft started to fall apart."
-    na ""
 
-# game/episode004_conversations.rpy:291
+    na "理所當然筏子開始散架了。"
+
+
 translate traditional_chinese ep004_nadya_talk_1a546b50:
 
-    # na "In the end a rescue team had to pull you from the wreckage."
-    na ""
 
-# game/episode004_conversations.rpy:292
+    na "最終一支救援隊不得不把你從殘骸中拉了出來。"
+
+
 translate traditional_chinese ep004_nadya_talk_3fd38162:
 
-    # na "I was worried sick, you were both excellent swimmers, but you could have drowned in that current."
-    na ""
 
-# game/episode004_conversations.rpy:293
+    na "我擔心得要命，你們倆都是優秀泳者，但還是可能在水流中淹死。"
+
+
 translate traditional_chinese ep004_nadya_talk_400b694b:
 
-    # c "But apart from shipwrecking and giving you a heart attack those holidays were fun."
-    c ""
 
-# game/episode004_conversations.rpy:295
+    c "但除了沉船，和把你嚇出心臟病外，那些假期超好玩。"
+
+
 translate traditional_chinese ep004_nadya_talk_b646c373:
 
-    # na "They were."
-    na ""
 
-# game/episode004_conversations.rpy:296
+    na "是的。"
+
+
 translate traditional_chinese ep004_nadya_talk_5d15723f:
 
-    # na "One of the rare times Agust allowed us to use the family ship for transport as well."
-    na ""
 
-# game/episode004_conversations.rpy:297
+    na "阿古斯特難得允許我們用家庭船隻做運輸的次數之一。"
+
+
 translate traditional_chinese ep004_nadya_talk_6d1fe942:
 
-    # c "Mom and Dad came too, right?"
-    c ""
 
-# game/episode004_conversations.rpy:298
+    c "媽媽和父親也來了對吧？"
+
+
 translate traditional_chinese ep004_nadya_talk_2bfa3045:
 
-    # na "They did."
-    na ""
 
-# game/episode004_conversations.rpy:299
+    na "他們來了。"
+
+
 translate traditional_chinese ep004_nadya_talk_230b7009:
 
-    # c "I have almost no memory of them being there."
-    c ""
 
-# game/episode004_conversations.rpy:301
+    c "我幾乎不記得他們在場。"
+
+
 translate traditional_chinese ep004_nadya_talk_623cf85b:
 
-    # na "That’s because they partied all night and slept during the day."
-    na ""
 
-# game/episode004_conversations.rpy:302
+    na "那是因爲他們整晚派對白天睡覺。"
+
+
 translate traditional_chinese ep004_nadya_talk_96d42ee0:
 
-    # c "Right, sounds like them."
-    c ""
 
-# game/episode004_conversations.rpy:303
+    c "對，聽起來像他們。"
+
+
 translate traditional_chinese ep004_nadya_talk_ad55f214:
 
-    # na "Being in charge of all of you was hard work, but it was so nice having you all together."
-    na ""
 
-# game/episode004_conversations.rpy:304
+    na "管你們所有人真辛苦，但能和你們聚在一起真好。"
+
+
 translate traditional_chinese ep004_nadya_talk_05404c97:
 
-    # na "And Kepler was a truly beautiful place."
-    na ""
 
-# game/episode004_conversations.rpy:305
+    na "開普勒星真是個絕美地方。"
+
+
 translate traditional_chinese ep004_nadya_talk_c12fa20e:
 
-    # c "Supposedly one of the best climates in Sovereignty space."
-    c ""
 
-# game/episode004_conversations.rpy:306
+    c "據說它在\"至高權域\"疆域內有最好氣候之一。"
+
+
 translate traditional_chinese ep004_nadya_talk_5d20d26c:
 
-    # c "Did you ever go back there?"
-    c ""
 
-# game/episode004_conversations.rpy:308
+    c "你後來去過那裡嗎？"
+
+
 translate traditional_chinese ep004_nadya_talk_22ef7c26:
 
-    # na "Alone?"
-    na ""
 
-# game/episode004_conversations.rpy:309
+    na "一個人？"
+
+
 translate traditional_chinese ep004_nadya_talk_18eda677:
 
-    # na "No, there wasn’t much for me to do there."
-    na ""
 
-# game/episode004_conversations.rpy:310
+    na "沒，那裡沒什麼事好做的。"
+
+
 translate traditional_chinese ep004_nadya_talk_102e8506:
 
-    # c "Getting a tan and showing off your bikini body to everyone?"
-    c ""
 
-# game/episode004_conversations.rpy:312
+    c "曬黑身並向所有人炫耀你比基尼身材？"
+
+
 translate traditional_chinese ep004_nadya_talk_1bf9ddfd:
 
-    # na "Hah, yeah right."
-    na ""
 
-# game/episode004_conversations.rpy:314
+    na "哈，是啊對。"
+
+
 translate traditional_chinese ep004_nadya_talk_76675a78:
 
-    # c "I already told Aven we should go back."
-    c ""
 
-# game/episode004_conversations.rpy:316
+    c "我已經告訴艾文我們應該回去。"
+
+
 translate traditional_chinese ep004_nadya_talk_ae7f927d:
 
-    # c "We should go back."
-    c ""
 
-# game/episode004_conversations.rpy:318
+    c "我們應該回去。"
+
+
 translate traditional_chinese ep004_nadya_talk_96b9233a:
 
-    # na "To Kepler?"
-    na ""
 
-# game/episode004_conversations.rpy:319
+    na "去開普勒星？"
+
+
 translate traditional_chinese ep004_nadya_talk_cf5fcc44:
 
-    # c "Yes!"
-    c ""
 
-# game/episode004_conversations.rpy:320
+    c "對！"
+
+
 translate traditional_chinese ep004_nadya_talk_9c1118e3:
 
-    # c "For old time’s sake."
-    c ""
 
-# game/episode004_conversations.rpy:322
+    c "就當重溫舊時光。"
+
+
 translate traditional_chinese ep004_nadya_talk_e6f93ea6:
 
-    # na "That sounds lovely, but you do realize Kepler is still in Sovereignty space?"
-    na ""
 
-# game/episode004_conversations.rpy:323
+    na "聽着不錯，但你該知道開普勒星還在\"至高權域\"地盤吧？"
+
+
 translate traditional_chinese ep004_nadya_talk_513c6119:
 
-    # na "And last thing I heard is that you were wanted by the Sovereignty, so going right to their doorstep doesn’t sound like the best of ideas."
-    na ""
 
-# game/episode004_conversations.rpy:324
+    na "據我所知你正被\"至高權域\"通緝，直接去他們眼皮子底下可不是好主意。"
+
+
 translate traditional_chinese ep004_nadya_talk_370aeaa1:
 
-    # c "We’ll think of something."
-    c ""
 
-# game/episode004_conversations.rpy:325
+    c "總會有辦法的。"
+
+
 translate traditional_chinese ep004_nadya_talk_c7b2635b:
 
-    # c "I’m sure Thyia knows something to mask the ship’s ownership records."
-    c ""
 
-# game/episode004_conversations.rpy:326
+    c "塞婭肯定知道怎麼篡改飛船登記記錄。"
+
+
 translate traditional_chinese ep004_nadya_talk_54c6a885:
 
-    # c "And we’ll be very careful."
-    c ""
 
-# game/episode004_conversations.rpy:328
+    c "我們會很小心的。"
+
+
 translate traditional_chinese ep004_nadya_talk_dbefaaf7:
 
-    # na "It’s too dangerous, [p_name_short]."
-    na ""
 
-# game/episode004_conversations.rpy:329
+    na "太危險了，[p_name_short]。"
+
+
 translate traditional_chinese ep004_nadya_talk_8fc71cef:
 
-    # na "Think about it for one moment."
-    na ""
 
-# game/episode004_conversations.rpy:330
+    na "你動腦子想想。"
+
+
 translate traditional_chinese ep004_nadya_talk_423a4116:
 
-    # na "Don’t risk everything just to go on some nostalgia trip."
-    na ""
 
-# game/episode004_conversations.rpy:331
+    na "別爲了懷舊把命搭上。"
+
+
 translate traditional_chinese ep004_nadya_talk_549a962f:
 
-    # c "Where’s the fun in living risk-free?"
-    c ""
 
-# game/episode004_conversations.rpy:332
+    c "活着不冒險多沒意思？"
+
+
 translate traditional_chinese ep004_nadya_talk_1dd20c22:
 
-    # c "We won’t rush into things, I promise, but I’ll get us on Kepler safe and sound, that’s a promise."
-    c ""
 
-# game/episode004_conversations.rpy:333
+    c "我保證不會蠻幹，但絕對能讓我們平安登上開普勒星，說到做到。"
+
+
 translate traditional_chinese ep004_nadya_talk_1c2067fa:
 
-    # na "I won’t be sorry if you don’t keep that promise."
-    na ""
 
-# game/episode004_conversations.rpy:335
+    na "如果沒做到，我也不會感到遺憾。"
+
+
 translate traditional_chinese ep004_nadya_talk_bd4f881e:
 
-    # c "Sunny beaches, good food..."
-    c ""
 
-# game/episode004_conversations.rpy:337
+    c "陽光海灘，美味佳餚..."
+
+
 translate traditional_chinese ep004_nadya_talk_76cfae32:
 
-    # c "Lying on a beach in the warm sun, sipping cocktails..."
-    c ""
 
-# game/episode004_conversations.rpy:339
+    c "躺在暖洋洋的沙灘上，喝着雞尾酒..."
+
+
 translate traditional_chinese ep004_nadya_talk_a92f5258:
 
-    # na "That does sound lovely."
-    na ""
 
-# game/episode004_conversations.rpy:340
+    na "確實挺誘人的。"
+
+
 translate traditional_chinese ep004_nadya_talk_3ccb454e:
 
-    # c "See!"
-    c ""
 
-# game/episode004_conversations.rpy:342
+    c "是吧！"
+
+
 translate traditional_chinese ep004_nadya_talk_97dd4d29:
 
-    # na "[p_name_short]..."
-    na ""
 
-# game/episode004_conversations.rpy:343
+    na "[p_name_short]..."
+
+
 translate traditional_chinese ep004_nadya_talk_d3217369:
 
-    # na "Just be careful, okay?"
-    na ""
 
-# game/episode004_conversations.rpy:344
+    na "千萬小心點啊，好嗎？"
+
+
 translate traditional_chinese ep004_nadya_talk_255ecca1:
 
-    # c "I will."
-    c ""
 
-# game/episode004_conversations.rpy:349
+    c "我會的。"
+
+
 translate traditional_chinese ep004_nadya_choices_08345a7b:
 
-    # c "I never asked, but is the university okay with you not being there?"
-    c ""
 
-# game/episode004_conversations.rpy:350
+    c "一直沒問，你擅離職守，學校沒意見？"
+
+
 translate traditional_chinese ep004_nadya_choices_ae0c5659:
 
-    # na "Of course they are."
-    na ""
 
-# game/episode004_conversations.rpy:351
+    na "當然沒意見。"
+
+
 translate traditional_chinese ep004_nadya_choices_c2a2a957:
 
-    # na "You didn’t think I’d leave without notifying them?"
-    na ""
 
-# game/episode004_conversations.rpy:352
+    na "你當我是不告而別？"
+
+
 translate traditional_chinese ep004_nadya_choices_70220341:
 
-    # c "Don’t you have classes to teach?"
-    c ""
 
-# game/episode004_conversations.rpy:354
+    c "你不用授課嗎？"
+
+
 translate traditional_chinese ep004_nadya_choices_e7cca0b6:
 
-    # na "I’ve been working on my research for several years, delegated teaching to some of my assistants."
-    na ""
 
-# game/episode004_conversations.rpy:355
+    na "我研究這個好幾年了，把教學工作都分派給了幾個助理。"
+
+
 translate traditional_chinese ep004_nadya_choices_e3bf31d2:
 
-    # na "The university doesn’t seem to mind."
-    na ""
 
-# game/episode004_conversations.rpy:359
+    na "大學好像並不介意。"
+
+
 translate traditional_chinese ep004_nadya_choices_20a750d5:
 
-    # c "How did you end up at the university anyway?"
-    c ""
 
-# game/episode004_conversations.rpy:360
+    c "話說回來，你是怎麼到大學工作的？"
+
+
 translate traditional_chinese ep004_nadya_choices_151fd52c:
 
-    # na "Well, after I left Tuolovi I started contacting some scientists I knew from back in the day."
-    na ""
 
-# game/episode004_conversations.rpy:362
+    na "嗯，離開託洛維星後，我開始聯繫一些以前認識的科學家。"
+
+
 translate traditional_chinese ep004_nadya_choices_1ba838c1:
 
-    # na "I had quite the career before becoming a mother and kept an eye on the developments in my field of research."
-    na ""
 
-# game/episode004_conversations.rpy:364
+    na "在成爲母親之前，我事業相當輝煌，並一直關注着我研究領域的發展。"
+
+
 translate traditional_chinese ep004_nadya_choices_4c0f250f:
 
-    # na "I had quite the career before coming to Tuolovi and kept an eye on the developments in my field of research."
-    na ""
 
-# game/episode004_conversations.rpy:365
+    na "在來到託洛維星之前，我事業相當輝煌，並一直關注着我研究領域的發展。"
+
+
 translate traditional_chinese ep004_nadya_choices_b54d6d12:
 
-    # c "Still, you were out of the game for quite a while, weren’t you?"
-    c ""
 
-# game/episode004_conversations.rpy:367
+    c "不過，你可是離開了很久，對吧？"
+
+
 translate traditional_chinese ep004_nadya_choices_f2d6fed3:
 
-    # na "Yes, that’s true."
-    na ""
 
-# game/episode004_conversations.rpy:368
+    na "對，沒錯。"
+
+
 translate traditional_chinese ep004_nadya_choices_5af00879:
 
-    # na "Without my contacts I wouldn’t have been able to get even a minor position on Ryūjin Prime."
-    na ""
 
-# game/episode004_conversations.rpy:369
+    na "沒有那些人脈，我連在龍神主星的一個小職位都沒法得到。"
+
+
 translate traditional_chinese ep004_nadya_choices_bda222ae:
 
-    # na "So I started playing catch-up and taking on risky field research jobs, Aven eventually accompanying me."
-    na ""
 
-# game/episode004_conversations.rpy:370
+    na "於是我開始惡補，接下了一些危險的實地研究工作，後來艾文也陪着我。"
+
+
 translate traditional_chinese ep004_nadya_choices_17a3316e:
 
-    # na "That high-risk research paid off after a while, with the university taking notice and eventually promoting me ever higher up the food chain."
-    na ""
 
-# game/episode004_conversations.rpy:371
+    na "那些高風險的研究過一陣子就有了回報，大學注意到了我，後來還一路晉升。"
+
+
 translate traditional_chinese ep004_nadya_choices_5635af2e:
 
-    # c "So you’re in a relatively comfortable position right now?"
-    c ""
 
-# game/episode004_conversations.rpy:373
+    c "那現在你過得挺安逸的吧？"
+
+
 translate traditional_chinese ep004_nadya_choices_90301071:
 
-    # na "Yes, you could say that, especially considering where I came from "
-    na ""
 
-# game/episode004_conversations.rpy:374
+    na "是啊，可以這麼說，尤其是想到我當初的情況。 "
+
+
 translate traditional_chinese ep004_nadya_choices_3f22956b:
 
-    # na "Apart from the university budget, some commercial sponsors have taken an interest in some of my research over the years."
-    na ""
 
-# game/episode004_conversations.rpy:375
+    na "除了大學的資助，這些年也有一些商業贊助商對我的某些研究感興趣。"
+
+
 translate traditional_chinese ep004_nadya_choices_9ea539b8:
 
-    # na "So I’ve operated relatively independent the past few years."
-    na ""
 
-# game/episode004_conversations.rpy:376
+    na "所以這幾年我運作得相對獨立。"
+
+
 translate traditional_chinese ep004_nadya_choices_1e787176:
 
-    # c "I’m glad you landed on your feet like that."
-    c ""
 
-# game/episode004_conversations.rpy:380
+    c "真爲你高興，你終於站穩了腳跟。"
+
+
 translate traditional_chinese ep004_nadya_choices_80a3c7f1:
 
-    # c "How were you able to leave the Sovereignty?"
-    c ""
 
-# game/episode004_conversations.rpy:382
+    c "你是怎麼離開\"至高權域\"的？"
+
+
 translate traditional_chinese ep004_nadya_choices_2346dd86:
 
-    # na "Leaving isn’t hard, getting back in is."
-    na ""
 
-# game/episode004_conversations.rpy:383
+    na "離開容易，想回去就難了。"
+
+
 translate traditional_chinese ep004_nadya_choices_2514a967:
 
-    # na "There’s no law forbidding you to leave, but the government has run some very effective propaganda campaigns over the years and people just don’t bother."
-    na ""
 
-# game/episode004_conversations.rpy:384
+    na "並沒有法律禁止人們離開，但是政府多年來發布了一些效果顯著的宣傳，弄得人們都不願麻煩了。"
+
+
 translate traditional_chinese ep004_nadya_choices_b3150bd7:
 
-    # c "I was a little surprised, non-Sovereignty space is a lot different than in those government videos."
-    c ""
 
-# game/episode004_conversations.rpy:385
+    c "我有點意外，\"至高權域\"之外的太空和那些政府視頻裏的完全不一樣。"
+
+
 translate traditional_chinese ep004_nadya_choices_a015ad57:
 
-    # na "Of course it is."
-    na ""
 
-# game/episode004_conversations.rpy:387
+    na "當然不一樣。"
+
+
 translate traditional_chinese ep004_nadya_choices_ce6c10f9:
 
-    # na "Take Ryūjin Prime for example, it’s one of the most well-respected places in the universe."
-    na ""
 
-# game/episode004_conversations.rpy:388
+    na "以龍神主星爲例，那可是宇宙中最受尊敬的地方之一。"
+
+
 translate traditional_chinese ep004_nadya_choices_8c74039c:
 
-    # na "There’s no university inside Sovereignty space that can compare itself to the one on Ryūjin."
-    na ""
 
-# game/episode004_conversations.rpy:389
+    na "\"至高權域\"內部沒有哪所大學能和龍神上的大學相比。"
+
+
 translate traditional_chinese ep004_nadya_choices_48271ec0:
 
-    # na "The fact that the Sovereignty doesn’t allow any contact with alien scientists is a major factor of course."
-    na ""
 
-# game/episode004_conversations.rpy:390
+    na "事實上，\"至高權域\"不允許與外星科學家有任何接觸，這當然是一個主要因素。"
+
+
 translate traditional_chinese ep004_nadya_choices_4e6504e6:
 
-    # na "But I won’t lie, I had to adjust my world-view when I travelled outside the borders of the Sovereignty."
-    na ""
 
-# game/episode004_conversations.rpy:392
+    na "但我不說假話，當我走出\"至高權域\"邊境時，我必須調整我的世界觀。"
+
+
 translate traditional_chinese ep004_nadya_choices_a90338be:
 
-    # na "I was paired with a Vbrecl xenobiologist for the first few years at the university, I certainly wasn’t prepared for that..."
-    na ""
 
-# game/episode004_conversations.rpy:393
+    na "在大學的最初幾年裡，我被指派與一位\"韋布瑞克人\"外星生物學家合作，我絕對沒準備好..."
+
+
 translate traditional_chinese ep004_nadya_choices_e8e59c3c:
 
-    # c "A Vbrecl?"
-    c ""
 
-# game/episode004_conversations.rpy:394
+    c "一個\"韋布瑞克人\"？"
+
+
 translate traditional_chinese ep004_nadya_choices_9d2f44f0:
 
-    # na "Yes, if there’s a species with a culture unlike ours it’s the Vbrecl."
-    na ""
 
-# game/episode004_conversations.rpy:396
+    na "是的，如果有一個物種文化與我們的不同，那就是\"韋布瑞克人\"了。"
+
+
 translate traditional_chinese ep004_nadya_choices_b854c93e:
 
-    # na "They also prefer to communicate telepathically, which is extremely invasive if you’re not used to it."
-    na ""
 
-# game/episode004_conversations.rpy:397
+    na "他們也更喜歡用心靈感應交流，這在你如果不習慣的情況下極其具有侵入性。"
+
+
 translate traditional_chinese ep004_nadya_choices_ea6843d6:
 
-    # na "The scientist I had to work with was a prime specimen of the Vbrecl, socially awkward, but extremely brilliant."
-    na ""
 
-# game/episode004_conversations.rpy:398
+    na "我不得不合作的那位科學家是\"韋布瑞克人\"中的一流精英，社交笨拙但極其聰明。"
+
+
 translate traditional_chinese ep004_nadya_choices_8d74e976:
 
-    # na "We fought a lot in the beginning, but came to respect one another after working so close together."
-    na ""
 
-# game/episode004_conversations.rpy:399
+    na "起初我們經常爭吵，但密切合作後開始互相尊重。"
+
+
 translate traditional_chinese ep004_nadya_choices_c4506827:
 
-    # na "So, prepare yourself for some weird stuff along the way, but the galaxy is filled with very decent people."
-    na ""
 
-# game/episode004_conversations.rpy:400
+    na "所以，準備好路上遇到些怪事，但星系裡也充滿了很多體面的人。"
+
+
 translate traditional_chinese ep004_nadya_choices_5bfaf579:
 
-    # c "Now I’m curious about those Vbrecl."
-    c ""
 
-# game/episode004_conversations.rpy:402
+    c "現在我對那些\"韋布瑞克人\"感到好奇了。"
+
+
 translate traditional_chinese ep004_nadya_choices_d8a80d6c:
 
-    # na "I’ll be sure to introduce you to my colleague if we get the chance."
-    na ""
 
-# game/episode004_conversations.rpy:411
+    na "如果有機會，我一定會給你介紹我的同事。"
+
+
 translate traditional_chinese ep004_aven_talk_9c358888:
 
-    # c "I...{w} Oh..."
-    c ""
 
-# game/episode004_conversations.rpy:412
+    c "我...{w}哦..."
+
+
 translate traditional_chinese ep004_aven_talk_e06760aa:
 
-    # av "[p_name]?"
-    av ""
 
-# game/episode004_conversations.rpy:414
+    av "[p_name]？"
+
+
 translate traditional_chinese ep004_aven_talk_d35c2632:
 
-    # c "Shit...{w} I..."
-    c ""
 
-# game/episode004_conversations.rpy:416
+    c "見鬼...{w}我..."
+
+
 translate traditional_chinese ep004_aven_talk_1a3c72af:
 
-    # av "You're staring."
-    av ""
 
-# game/episode004_conversations.rpy:417
+    av "你盯着看呢。"
+
+
 translate traditional_chinese ep004_aven_talk_a1a205de:
 
-    # av "Never seen cleavage up close?"
-    av ""
 
-# game/episode004_conversations.rpy:418
+    av "從沒近距離看過乳溝嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_596f6da5:
 
-    # c "I have...{w} I mean...{w} I'll leave."
-    c ""
 
-# game/episode004_conversations.rpy:419
+    c "我看過...{w}我是說...{w}我得走了。"
+
+
 translate traditional_chinese ep004_aven_talk_eb86e3e5:
 
-    # av "Guess you didn't do the communal shower thing at the Academy?"
-    av ""
 
-# game/episode004_conversations.rpy:420
+    av "我猜你在學校時沒用過公共淋浴之類的東西？"
+
+
 translate traditional_chinese ep004_aven_talk_cd8b2dde:
 
-    # c "No, we didn't."
-    c ""
 
-# game/episode004_conversations.rpy:422
+    c "不，我們沒有。"
+
+
 translate traditional_chinese ep004_aven_talk_84c554dc:
 
-    # av "Well, I saw some things back on Skarak, so showing you a bit of skin isn't going to harm anybody."
-    av ""
 
-# game/episode004_conversations.rpy:423
+    av "嗯，我在\"斯卡拉剋星\"時看過一些東西，所以給你看點皮膚沒什麼害處。"
+
+
 translate traditional_chinese ep004_aven_talk_4e57652b:
 
-    # av "Did you need something?"
-    av ""
 
-# game/episode004_conversations.rpy:424
+    av "你需要什麼嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_94a20fc6:
 
-    # c "Just wanted to talk."
-    c ""
 
-# game/episode004_conversations.rpy:425
+    c "只是想聊聊。"
+
+
 translate traditional_chinese ep004_aven_talk_274fdee5:
 
-    # av "I was about to hit the showers, maybe we can talk afterwards?"
-    av ""
 
-# game/episode004_conversations.rpy:426
+    av "我正準備去淋浴，也許我們之後可以聊聊？"
+
+
 translate traditional_chinese ep004_aven_talk_1d06b2f3:
 
-    # c "That sounds good."
-    c ""
 
-# game/episode004_conversations.rpy:428
+    c "聽起來不錯。"
+
+
 translate traditional_chinese ep004_aven_talk_4e520afb:
 
-    # av "I can't believe I made you blush!"
-    av ""
 
-# game/episode004_conversations.rpy:432
+    av "我真不敢相信我讓你臉紅了！"
+
+
 translate traditional_chinese ep004_aven_talk_36f8687e:
 
-    # c "Well, bumping into half-naked cousins has that effect on me."
-    c ""
 
-# game/episode004_conversations.rpy:434
+    c "嗯，碰到半裸的表妹，會對我有那樣的效果。"
+
+
 translate traditional_chinese ep004_aven_talk_dc478b15:
 
-    # c "Well, bumping into half-naked girls has that effect on me."
-    c ""
 
-# game/episode004_conversations.rpy:435
+    c "嗯，碰到半裸的女孩，會對我有那樣的效果。"
+
+
 translate traditional_chinese ep004_aven_talk_fe4dd99e:
 
-    # av "See you later!"
-    av ""
 
-# game/episode004_conversations.rpy:438
+    av "回頭見！"
+
+
 translate traditional_chinese ep004_aven_talk_655d3341:
 
-    # c "Just make sure it never happens again."
-    c ""
 
-# game/episode004_conversations.rpy:440
+    c "請確保這事別再發生。"
+
+
 translate traditional_chinese ep004_aven_talk_ae857fcf:
 
-    # av "Well, okay, maybe next time you can just knock?"
-    av ""
 
-# game/episode004_conversations.rpy:447
+    av "嗯，好吧，也許下次你敲敲門？"
+
+
 translate traditional_chinese ep004_aven_talk_33a84227:
 
-    # av "Have you recovered from before?"
-    av ""
 
-# game/episode004_conversations.rpy:448
+    av "你恢復過來了嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_f2b7182b:
 
-    # c "Of course..."
-    c ""
 
-# game/episode004_conversations.rpy:449
+    c "當然..."
+
+
 translate traditional_chinese ep004_aven_talk_28862f31:
 
-    # av "Was there something urgent you'd like to discuss?"
-    av ""
 
-# game/episode004_conversations.rpy:450
+    av "有什麼緊急的事你想討論嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_ff80205a:
 
-    # c "Not really."
-    c ""
 
-# game/episode004_conversations.rpy:452
+    c "其實沒有。"
+
+
 translate traditional_chinese ep004_aven_talk_7cd52c4e:
 
-    # av "Maybe you should get the fuck out of here then."
-    av ""
 
-# game/episode004_conversations.rpy:454
+    av "那也許你他媽的該滾出這裡。"
+
+
 translate traditional_chinese ep004_aven_talk_3472d160:
 
-    # av "In that case I'd like to be left alone."
-    av ""
 
-# game/episode004_conversations.rpy:455
+    av "那樣的話，我想一個人呆着。"
+
+
 translate traditional_chinese ep004_aven_talk_3588663a:
 
-    # c "Suit yourself."
-    c ""
 
-# game/episode004_conversations.rpy:459
+    c "隨你便。"
+
+
 translate traditional_chinese ep004_aven_talk_33a84227_1:
 
-    # av "Have you recovered from before?"
-    av ""
 
-# game/episode004_conversations.rpy:460
+    av "你恢復過來了嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_ed019f7c:
 
-    # c "Of course...{w} Enjoyed the shower?"
-    c ""
 
-# game/episode004_conversations.rpy:461
+    c "當然...{w} 澡洗得舒服嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_5f202265:
 
-    # av "I certainly did."
-    av ""
 
-# game/episode004_conversations.rpy:462
+    av "我當然舒服了。"
+
+
 translate traditional_chinese ep004_aven_talk_c1576aee:
 
-    # av "That was pretty close on Sagueliath and again on Skarak."
-    av ""
 
-# game/episode004_conversations.rpy:463
+    av "在森厄星上那真險，在斯卡拉剋星上又一樣。"
+
+
 translate traditional_chinese ep004_aven_talk_e33a2eca:
 
-    # c "You could say that again."
-    c ""
 
-# game/episode004_conversations.rpy:464
+    c "說得對。"
+
+
 translate traditional_chinese ep004_aven_talk_cf28c455:
 
-    # av "But you handled yourself pretty well."
-    av ""
 
-# game/episode004_conversations.rpy:465
+    av "但你處理得挺好。"
+
+
 translate traditional_chinese ep004_aven_talk_c8dcfc0d:
 
-    # c "You sound surprised?"
-    c ""
 
-# game/episode004_conversations.rpy:467
+    c "你聽起來很驚訝？"
+
+
 translate traditional_chinese ep004_aven_talk_c8c8a157:
 
-    # av "Well, you used to trip over your own feet as a young boy."
-    av ""
 
-# game/episode004_conversations.rpy:468
+    av "嗯，你小時候經常被自己絆倒。"
+
+
 translate traditional_chinese ep004_aven_talk_4798a489:
 
-    # c "Lies!"
-    c ""
 
-# game/episode004_conversations.rpy:469
+    c "胡扯！"
+
+
 translate traditional_chinese ep004_aven_talk_6a1a4ae8:
 
-    # av "Wasn’t the first time we nearly died together."
-    av ""
 
-# game/episode004_conversations.rpy:471
+    av "不是第一次我們差點一起死了。"
+
+
 translate traditional_chinese ep004_aven_talk_215f17d6:
 
-    # c "Funnily enough, Nadya brought up Kepler when I spoke to her."
-    c ""
 
-# game/episode004_conversations.rpy:472
+    c "有意思的是，我和娜迪亞說話時她提到開普勒星。"
+
+
 translate traditional_chinese ep004_aven_talk_8dd10e62:
 
-    # c "Remember?{w} The raft..."
-    c ""
 
-# game/episode004_conversations.rpy:474
+    c "記得嗎？{w}那個筏子..."
+
+
 translate traditional_chinese ep004_aven_talk_1cc47f09:
 
-    # av "Remember Kepler?"
-    av ""
 
-# game/episode004_conversations.rpy:475
+    av "記得開普勒星嗎？"
+
+
 translate traditional_chinese ep004_aven_talk_6a667719:
 
-    # c "Vividly."
-    c ""
 
-# game/episode004_conversations.rpy:476
+    c "歷歷在目。"
+
+
 translate traditional_chinese ep004_aven_talk_cacc1a1b:
 
-    # c "The raft..."
-    c ""
 
-# game/episode004_conversations.rpy:478
+    c "那個筏子..."
+
+
 translate traditional_chinese ep004_aven_talk_a10c7bd8:
 
-    # av "Yes, that fucking raft."
-    av ""
 
-# game/episode004_conversations.rpy:479
+    av "是啊，那個該死的筏子。"
+
+
 translate traditional_chinese ep004_aven_talk_5cdce60e:
 
-    # av "We were so proud of ourselves, having built that thing together."
-    av ""
 
-# game/episode004_conversations.rpy:480
+    av "我們還特自豪能一起造出那玩意兒。"
+
+
 translate traditional_chinese ep004_aven_talk_2fca03c2:
 
-    # c "It floated pretty well, if I remember correctly."
-    c ""
 
-# game/episode004_conversations.rpy:481
+    c "它當時浮得挺穩的，沒記錯的話。"
+
+
 translate traditional_chinese ep004_aven_talk_2cd537aa:
 
-    # av "It did, just not on the open sea where the currents tore the thing apart."
-    av ""
 
-# game/episode004_conversations.rpy:482
+    av "是挺穩，只是在遠海被洋流撕碎了。"
+
+
 translate traditional_chinese ep004_aven_talk_91da0571:
 
-    # c "The coast guard rescued us, didn’t they?"
-    c ""
 
-# game/episode004_conversations.rpy:483
+    c "海岸警衛隊救了我們吧？"
+
+
 translate traditional_chinese ep004_aven_talk_0441d829:
 
-    # av "Yes, they picked us up from the wreckage."
-    av ""
 
-# game/episode004_conversations.rpy:485
+    av "對，他們從殘骸裏把我們撈上來的。"
+
+
 translate traditional_chinese ep004_aven_talk_3e11e507:
 
-    # av "Mom was beside herself with worry, she saw the whole thing happen while keeping an eye on Lilly and Eva."
-    av ""
 
-# game/episode004_conversations.rpy:487
+    av "老媽擔心壞了，她看着我們出事，還得同時盯着莉莉和伊娃。"
+
+
 translate traditional_chinese ep004_aven_talk_ea257ca4:
 
-    # av "Nadya was beside herself with worry, she saw the whole thing happen while keeping an eye on Lilly and Eva."
-    av ""
 
-# game/episode004_conversations.rpy:488
+    av "娜迪亞擔心壞了，她看着我們出事，還得同時盯着莉莉和伊娃。"
+
+
 translate traditional_chinese ep004_aven_talk_593051e3:
 
-    # c "Apart from the drowning I really loved those holidays on Kepler."
-    c ""
 
-# game/episode004_conversations.rpy:490
+    c "除了差點淹死這事，我超愛在開普勒星的假期。"
+
+
 translate traditional_chinese ep004_aven_talk_4e584186:
 
-    # c "We went a couple of times, didn’t we?"
-    c ""
 
-# game/episode004_conversations.rpy:491
+    c "我們去過好幾次對吧？"
+
+
 translate traditional_chinese ep004_aven_talk_bb1a4af6:
 
-    # av "Yes, whenever your mom and dad wanted to drown themselves in expensive liquor."
-    av ""
 
-# game/episode004_conversations.rpy:493
+    av "是啊，每次你父母親想泡在昂貴的酒裏的時候。"
+
+
 translate traditional_chinese ep004_aven_talk_3eec546a:
 
-    # c "Nadya mentioned that too, I almost forgot."
-    c ""
 
-# game/episode004_conversations.rpy:495
+    c "娜迪亞也提過這事，我差點忘了。"
+
+
 translate traditional_chinese ep004_aven_talk_832e9753:
 
-    # c "They were there too, I almost forgot."
-    c ""
 
-# game/episode004_conversations.rpy:497
+    c "他們當時也在場，我差點忘了。"
+
+
 translate traditional_chinese ep004_aven_talk_de76b43a:
 
-    # av "You’re forgiven, considering how little they were interested in us..."
-    av ""
 
-# game/episode004_conversations.rpy:499
+    av "原諒你了，反正他們也沒多在意我們..."
+
+
 translate traditional_chinese ep004_aven_talk_a1f0da02:
 
-    # c "Yeah..."
-    c ""
 
-# game/episode004_conversations.rpy:501
+    c "是啊..."
+
+
 translate traditional_chinese ep004_aven_talk_05d39217:
 
-    # c "Sounds like them all right."
-    c ""
 
-# game/episode004_conversations.rpy:504
+    c "確實像他們的作風。"
+
+
 translate traditional_chinese ep004_aven_talk_abbb06ba:
 
-    # av "I think Mom loved it just as much as we did, despite all the responsibility of minding the children falling to her."
-    av ""
 
-# game/episode004_conversations.rpy:506
+    av "我覺得老媽跟我們一樣喜歡那兒，儘管照顧小孩的責任都壓在她身上。"
+
+
 translate traditional_chinese ep004_aven_talk_2474a8ff:
 
-    # av "I think Nadya loved it just as much as we did, despite all the responsibility of minding the children falling to her."
-    av ""
 
-# game/episode004_conversations.rpy:508
+    av "我覺得娜迪亞跟我們一樣喜歡那兒，儘管照顧小孩的責任都壓在她身上。"
+
+
 translate traditional_chinese ep004_aven_talk_7281a52a:
 
-    # c "Yes, she told me as much."
-    c ""
 
-# game/episode004_conversations.rpy:509
+    c "對，她也這麼跟我說過。"
+
+
 translate traditional_chinese ep004_aven_talk_8c8276b3:
 
-    # c "You never went back there, after you left Tuolovi, right?"
-    c ""
 
-# game/episode004_conversations.rpy:511
+    c "你離開託洛維星後再沒回去過吧？"
+
+
 translate traditional_chinese ep004_aven_talk_c7c2a349:
 
-    # c "Did you ever go back there, you know, after you left?"
-    c ""
 
-# game/episode004_conversations.rpy:513
+    c "你後來回去過沒有，我是說，離開之後？"
+
+
 translate traditional_chinese ep004_aven_talk_cb9c4fc9:
 
-    # av "No, never."
-    av ""
 
-# game/episode004_conversations.rpy:515
+    av "沒有，從沒回去過。"
+
+
 translate traditional_chinese ep004_aven_talk_4710a0d3:
 
-    # av "Kepler is very expensive and Mom had a lot on her mind after leaving Tuolovi."
-    av ""
 
-# game/episode004_conversations.rpy:517
+    av "開普勒星物價超高，而且媽媽離開託洛維星後心裡裝了太多事。"
+
+
 translate traditional_chinese ep004_aven_talk_78d6fd28:
 
-    # av "Kepler is very expensive and Nadya had a lot on her mind after leaving Tuolovi."
-    av ""
 
-# game/episode004_conversations.rpy:519
+    av "開普勒星物價超高，而且娜迪亞離開託洛維星後心裡裝了太多事。"
+
+
 translate traditional_chinese ep004_aven_talk_8d3d770c:
 
-    # c "I already promised Nadya to go back there some time."
-    c ""
 
-# game/episode004_conversations.rpy:521
+    c "我已經答應娜迪亞以後會帶她重遊故地。"
+
+
 translate traditional_chinese ep004_aven_talk_acf344f9:
 
-    # c "We should go back there one time."
-    c ""
 
-# game/episode004_conversations.rpy:522
+    c "我們該找個時間故地重遊。"
+
+
 translate traditional_chinese ep004_aven_talk_7c1e6ded:
 
-    # c "Make some money and spend it all on a nostalgic holiday to Kepler."
-    c ""
 
-# game/episode004_conversations.rpy:524
+    c "賺筆錢，全花在開普勒星懷舊之旅上。"
+
+
 translate traditional_chinese ep004_aven_talk_66b1f2b4:
 
-    # av "Fat chance it’s going to happen."
-    av ""
 
-# game/episode004_conversations.rpy:525
+    av "少來了，根本不可能成真。"
+
+
 translate traditional_chinese ep004_aven_talk_720e5741:
 
-    # av "Kepler is right at the edge of Sovereignty space and last I checked you were on the run from them."
-    av ""
 
-# game/episode004_conversations.rpy:528
+    av "開普勒星就在\"至高權域\"轄區邊緣 而且我沒記錯的話你正在被他們通緝。"
+
+
 translate traditional_chinese ep004_aven_talk_ea79d7d6:
 
-    # c "You're just as big a spoilsport as your mom."
-    c ""
 
-# game/episode004_conversations.rpy:530
+    c "你跟你媽媽一樣煞風景。"
+
+
 translate traditional_chinese ep004_aven_talk_66edeb9d:
 
-    # c "You're just as big a spoilsport as Nadya."
-    c ""
 
-# game/episode004_conversations.rpy:531
+    c "你跟娜迪亞一樣煞風景。"
+
+
 translate traditional_chinese ep004_aven_talk_370aeaa1:
 
-    # c "We’ll think of something."
-    c ""
 
-# game/episode004_conversations.rpy:532
+    c "總會有辦法的。"
+
+
 translate traditional_chinese ep004_aven_talk_c7b2635b:
 
-    # c "I’m sure Thyia knows something to mask the ship’s ownership records."
-    c ""
 
-# game/episode004_conversations.rpy:533
+    c "塞婭肯定有辦法篡改飛船所有權記錄。"
+
+
 translate traditional_chinese ep004_aven_talk_54c6a885:
 
-    # c "And we’ll be very careful."
-    c ""
 
-# game/episode004_conversations.rpy:535
+    c "而且我們會特別小心。"
+
+
 translate traditional_chinese ep004_aven_talk_aa9a82b1:
 
-    # av "You’re serious, aren’t you?"
-    av ""
 
-# game/episode004_conversations.rpy:536
+    av "你是認真的，對吧？"
+
+
 translate traditional_chinese ep004_aven_talk_96d5d7f9:
 
-    # c "Increasingly so."
-    c ""
 
-# game/episode004_conversations.rpy:538
+    c "越來越認真了。"
+
+
 translate traditional_chinese ep004_aven_talk_72651e21:
 
-    # c "Sunny beaches, good food, lots of parties..."
-    c ""
 
-# game/episode004_conversations.rpy:540
+    c "陽光沙灘，美食佳餚，狂歡派對..."
+
+
 translate traditional_chinese ep004_aven_talk_76cfae32:
 
-    # c "Lying on a beach in the warm sun, sipping cocktails..."
-    c ""
 
-# game/episode004_conversations.rpy:542
+    c "躺在暖陽下的沙灘上，啜着雞尾酒..."
+
+
 translate traditional_chinese ep004_aven_talk_fd0a1245:
 
-    # av "Getting caught by the police, spending years in a jail cell until you get executed for desertion..."
-    av ""
 
-# game/episode004_conversations.rpy:543
+    av "然後被警察逮住，在牢裡蹲到以逃兵罪處決..."
+
+
 translate traditional_chinese ep004_aven_talk_a8fcc0b4:
 
-    # c "Minor details...{w} You’ve got to admit the first part sounds good, no?"
-    c ""
 
-# game/episode004_conversations.rpy:545
+    c "細枝末節啦...{w} 你得承認前半段聽着不錯吧？"
+
+
 translate traditional_chinese ep004_aven_talk_9e09face:
 
-    # av "All right, I’ll give you that."
-    av ""
 
-# game/episode004_conversations.rpy:546
+    av "行吧，這點我同意。"
+
+
 translate traditional_chinese ep004_aven_talk_3ccb454e:
 
-    # c "See!"
-    c ""
 
-# game/episode004_conversations.rpy:547
+    c "看吧！"
+
+
 translate traditional_chinese ep004_aven_talk_91230dce:
 
-    # c "That’s settled then."
-    c ""
 
-# game/episode004_conversations.rpy:548
+    c "那就這麼定了。"
+
+
 translate traditional_chinese ep004_aven_talk_d899d37e:
 
-    # av "[p_name_short]..."
-    av ""
 
-# game/episode004_conversations.rpy:550
+    av "[p_name_short]..."
+
+
 translate traditional_chinese ep004_aven_talk_8f490bd8:
 
-    # c "Sunny beaches, good food, parties!"
-    c ""
 
-# game/episode004_conversations.rpy:552
+    c "陽光海灘，美食派對！"
+
+
 translate traditional_chinese ep004_aven_talk_46d68c6f:
 
-    # c "Beaches, sun, cocktails!"
-    c ""
 
-# game/episode004_conversations.rpy:558
+    c "海灘、陽光、雞尾酒！"
+
+
 translate traditional_chinese ep004_celine_talk_a52e9808:
 
-    # c "Hey, are you alone?"
-    c ""
 
-# game/episode004_conversations.rpy:559
+    c "喂，你一個人嗎？"
+
+
 translate traditional_chinese ep004_celine_talk_6926a2dd:
 
-    # ce "I am, but I don't know for how long."
-    ce ""
 
-# game/episode004_conversations.rpy:560
+    ce "現在是，但不知道能保持多久。"
+
+
 translate traditional_chinese ep004_celine_talk_15d5ec7f:
 
-    # ce "Kit just learned that Ziv scaled some famous rock formation and is beyond excited."
-    ce ""
 
-# game/episode004_conversations.rpy:561
+    ce "基特剛知道基芙爬過某著名巖石，整個人都興奮炸了。"
+
+
 translate traditional_chinese ep004_celine_talk_c7651748:
 
-    # c "He's going to pester her for hours, isn't he?"
-    c ""
 
-# game/episode004_conversations.rpy:563
+    c "他準要纏着她嘮叨幾個小時，是吧？"
+
+
 translate traditional_chinese ep004_celine_talk_c26a964f:
 
-    # ce "He's been gone for a while now..."
-    ce ""
 
-# game/episode004_conversations.rpy:564
+    ce "他已經離開好一陣了..."
+
+
 translate traditional_chinese ep004_celine_talk_07f3a0a9:
 
-    # c "In that case I'm going to steal a kiss."
-    c ""
 
-# game/episode004_conversations.rpy:566
+    c "那我可要偷個吻啦。"
+
+
 translate traditional_chinese ep004_celine_talk_21a0364c:
 
-    # "I took her head in my hands and kissed her lips, a gesture she eagerly returned."
-    ""
 
-# game/episode004_conversations.rpy:567
+    "我捧起她的臉親吻雙脣，她也熱切回應着這個吻。"
+
+
 translate traditional_chinese ep004_celine_talk_4611915c:
 
-    # "The feeling of her small yet firm breasts beneath the thin layer of her top aroused something in me."
-    ""
 
-# game/episode004_conversations.rpy:569
+    "隔着薄薄上衣感受到她小巧卻堅挺的乳房，點燃了我內心的火焰。"
+
+
 translate traditional_chinese ep004_celine_talk_83f5c1c6:
 
-    # ce "We can't, [p_name_short], what if he comes in?"
-    ce ""
 
-# game/episode004_conversations.rpy:570
+    ce "不行啊[p_name_short]，萬一他進來呢？"
+
+
 translate traditional_chinese ep004_celine_talk_8db1954a:
 
-    # c "He's still in that chair, isn't he..."
-    c ""
 
-# game/episode004_conversations.rpy:572
+    c "他還在那張椅子上發呆呢吧..."
+
+
 translate traditional_chinese ep004_celine_talk_9728b6f2:
 
-    # ce "[p_name_short]!"
-    ce ""
 
-# game/episode004_conversations.rpy:573
+    ce "[p_name_short]！"
+
+
 translate traditional_chinese ep004_celine_talk_0fefdd66:
 
-    # c "This complete lack of privacy is one of the main downsides of living on this ship."
-    c ""
 
-# game/episode004_conversations.rpy:575
+    c "完全沒有隱私就是住這破船上的最大缺點。"
+
+
 translate traditional_chinese ep004_celine_talk_efcb77b2:
 
-    # ce "At least you have your own quarters."
-    ce ""
 
-# game/episode004_conversations.rpy:576
+    ce "至少你還有獨立艙室。"
+
+
 translate traditional_chinese ep004_celine_talk_ca3cc7db:
 
-    # c "True, but the sound still carries through these thin walls..."
-    c ""
 
-# game/episode004_conversations.rpy:578
+    c "話是這麼說，但聲音會穿透這些薄牆啊..."
+
+
 translate traditional_chinese ep004_celine_talk_0190c837:
 
-    # ce "Maybe we should tell Kit about us?"
-    ce ""
 
-# game/episode004_conversations.rpy:579
+    ce "要不告訴基特我們的關係？"
+
+
 translate traditional_chinese ep004_celine_talk_fabe4767:
 
-    # c "Maybe..."
-    c ""
 
-# game/episode004_conversations.rpy:580
+    c "或許吧..."
+
+
 translate traditional_chinese ep004_celine_talk_f56d6ca8:
 
-    # c "It's just that I want this secret to be between us for a little while longer."
-    c ""
 
-# game/episode004_conversations.rpy:581
+    c "只是...我想讓這個小祕密再屬於我們久一點。"
+
+
 translate traditional_chinese ep004_celine_talk_9625bdb2:
 
-    # c "We never had the chance to do something romantic together, with all the shit that's been going on."
-    c ""
 
-# game/episode004_conversations.rpy:582
+    c "這陣子破事不斷，我們連件浪漫的事都沒做過。"
+
+
 translate traditional_chinese ep004_celine_talk_6a028055:
 
-    # ce "What did you have in mind?"
-    ce ""
 
-# game/episode004_conversations.rpy:583
+    ce "你想做什麼？"
+
+
 translate traditional_chinese ep004_celine_talk_c8f47836:
 
-    # c "Candle-light dinner, for starters."
-    c ""
 
-# game/episode004_conversations.rpy:584
+    c "燭光晚餐，作爲開始。"
+
+
 translate traditional_chinese ep004_celine_talk_d8ccab33:
 
-    # c "A stroll through a park, walking hand in hand."
-    c ""
 
-# game/episode004_conversations.rpy:585
+    c "公園漫步，手牽手。"
+
+
 translate traditional_chinese ep004_celine_talk_32f1de82:
 
-    # c "Sitting at the river-bank and watching the sun go down together."
-    c ""
 
-# game/episode004_conversations.rpy:587
+    c "坐在河堤，看夕陽落下。"
+
+
 translate traditional_chinese ep004_celine_talk_a32d57db:
 
-    # ce "That sounds so nice."
-    ce ""
 
-# game/episode004_conversations.rpy:588
+    ce "聽起來真不錯。"
+
+
 translate traditional_chinese ep004_celine_talk_8a682196:
 
-    # c "You know what, once we reach Barranthis, I'll take you out somewhere."
-    c ""
 
-# game/episode004_conversations.rpy:589
+    c "你知道嗎，等我們到了巴蘭西斯星，我帶你去哪兒玩玩。"
+
+
 translate traditional_chinese ep004_celine_talk_2edcca4b:
 
-    # c "Just the two of us."
-    c ""
 
-# game/episode004_conversations.rpy:590
+    c "就我們兩個人。"
+
+
 translate traditional_chinese ep004_celine_talk_984b71f6:
 
-    # ce "I think I'd like that."
-    ce ""
 
-# game/episode004_conversations.rpy:596
+    ce "我想我會喜歡的。"
+
+
 translate traditional_chinese ep004_celine_talk_29086250:
 
-    # "We kissed one last time and then I slipped out before her brother returned for the second time."
-    ""
 
-# game/episode004_conversations.rpy:599
+    "我們最後一次吻別，然後在她哥哥回來之前溜了出去。"
+
+
 translate traditional_chinese ep004_celine_talk_6580cdcc:
 
-    # "I kissed her in response and we cuddled for a short while until I slipped out before her brother returned."
-    ""
 
-# game/episode004_conversations.rpy:606
+    "我回應着吻了她，我們抱了一會兒，然後在她哥哥回來之前溜走了。"
+
+
 translate traditional_chinese ep004_thyia_talk_c5d31fb8:
 
-    # c "Is that a bottle of liquor?"
-    c ""
 
-# game/episode004_conversations.rpy:607
+    c "那是瓶酒嗎？"
+
+
 translate traditional_chinese ep004_thyia_talk_e2c8978b:
 
-    # th "Maybe..."
-    th ""
 
-# game/episode004_conversations.rpy:608
+    th "可能吧..."
+
+
 translate traditional_chinese ep004_thyia_talk_3ea2520c:
 
-    # l "Thyia bought a bottle of whisky on Verdant Station."
-    l ""
 
-# game/episode004_conversations.rpy:609
+    l "塞婭在\"翠綠\"空間站買了一瓶威士忌。"
+
+
 translate traditional_chinese ep004_thyia_talk_c3922ea0:
 
-    # th "Want some?"
-    th ""
 
-# game/episode004_conversations.rpy:610
+    th "要不要來點？"
+
+
 translate traditional_chinese ep004_thyia_talk_01184e29:
 
-    # th "It’s pretty good stuff."
-    th ""
 
-# game/episode004_conversations.rpy:614
+    th "這玩意兒挺不錯的。"
+
+
 translate traditional_chinese ep004_thyia_talk_01a1a014:
 
-    # c "Why not."
-    c ""
 
-# game/episode004_conversations.rpy:616
+    c "爲什麼不呢。"
+
+
 translate traditional_chinese ep004_thyia_talk_eb6d49af:
 
-    # th "Lilly told me a bit about your family."
-    th ""
 
-# game/episode004_conversations.rpy:617
+    th "莉莉跟我說了點你家裡的事。"
+
+
 translate traditional_chinese ep004_thyia_talk_3491980f:
 
-    # th "Didn’t know your mother was behind that hit song from years ago."
-    th ""
 
-# game/episode004_conversations.rpy:618
+    th "沒想到你媽媽是幾年前那首熱門歌的歌唱者。"
+
+
 translate traditional_chinese ep004_thyia_talk_165b5dd4:
 
-    # c "A team of producers was behind that minor hit."
-    c ""
 
-# game/episode004_conversations.rpy:619
+    c "是製作團隊促成了那首小火的歌。"
+
+
 translate traditional_chinese ep004_thyia_talk_3b416873:
 
-    # c "And I think it was mostly popular because of the VR-clip where she wore next to nothing."
-    c ""
 
-# game/episode004_conversations.rpy:621
+    c "而且我覺得它之所以流行，主要是靠那個VR短片，她穿得幾乎一絲不掛。"
+
+
 translate traditional_chinese ep004_thyia_talk_d9f23399:
 
-    # l "Right!{w} That tiny piece of cloth was downright embarrassing."
-    l ""
 
-# game/episode004_conversations.rpy:622
+    l "對啊！{w}那一點點布料真夠難爲情的。"
+
+
 translate traditional_chinese ep004_thyia_talk_0bb12184:
 
-    # c "Opinions differ on the matter, I believe..."
-    c ""
 
-# game/episode004_conversations.rpy:624
+    c "在這件事上人們意見不一，我相信..."
+
+
 translate traditional_chinese ep004_thyia_talk_37c517a4:
 
-    # th "You never wanted to follow in your mother’s footsteps, Lilly?"
-    th ""
 
-# game/episode004_conversations.rpy:627
+    th "莉莉，你從沒想過要繼承你媽的衣鉢？"
+
+
 translate traditional_chinese ep004_thyia_talk_5b80820e:
 
-    # l "Dancing in a monokini?"
-    l ""
 
-# game/episode004_conversations.rpy:628
+    l "穿比基尼跳舞？"
+
+
 translate traditional_chinese ep004_thyia_talk_eb880545:
 
-    # l "Not really..."
-    l ""
 
-# game/episode004_conversations.rpy:630
+    l "並沒有..."
+
+
 translate traditional_chinese ep004_thyia_talk_f57268a7:
 
-    # th "Becoming a pop star, I meant."
-    th ""
 
-# game/episode004_conversations.rpy:632
+    th "我是說，當個流行明星。"
+
+
 translate traditional_chinese ep004_thyia_talk_e2a7d5d0:
 
-    # l "Becoming a gardener?"
-    l ""
 
-# game/episode004_conversations.rpy:633
+    l "當個園丁？"
+
+
 translate traditional_chinese ep004_thyia_talk_eb880545_1:
 
-    # l "Not really..."
-    l ""
 
-# game/episode004_conversations.rpy:635
+    l "並沒有..."
+
+
 translate traditional_chinese ep004_thyia_talk_b98f70bd:
 
-    # th "Right, but something else maybe?"
-    th ""
 
-# game/episode004_conversations.rpy:637
+    th "對，不過也許是別的？"
+
+
 translate traditional_chinese ep004_thyia_talk_b608eb2b:
 
-    # l "I never got the chance really, they picked the Naval Academy for me and that was that."
-    l ""
 
-# game/episode004_conversations.rpy:639
+    l "我真沒機會選，他們直接替我選了艦隊學院，也就這樣了。"
+
+
 translate traditional_chinese ep004_thyia_talk_0a0a170b:
 
-    # c "Mom and Dad weren’t big on the whole upbringing thing."
-    c ""
 
-# game/episode004_conversations.rpy:641
+    c "父母親壓根不會撫養孩子。"
+
+
 translate traditional_chinese ep004_thyia_talk_50222f6b:
 
-    # c "Both our parents weren’t big on the whole upbringing thing."
-    c ""
 
-# game/episode004_conversations.rpy:643
+    c "我們父母都不太會撫養孩子。"
+
+
 translate traditional_chinese ep004_thyia_talk_fb767f2c:
 
-    # th "Dreadful business, raising children."
-    th ""
 
-# game/episode004_conversations.rpy:644
+    th "養孩子真是件糟糕的事。"
+
+
 translate traditional_chinese ep004_thyia_talk_f53b4b06:
 
-    # c "They certainly thought so."
-    c ""
 
-# game/episode004_conversations.rpy:646
+    c "他們肯定這麼覺得。"
+
+
 translate traditional_chinese ep004_thyia_talk_e0df5d97:
 
-    # l "Come on, [p_name_short], it wasn’t all bad!"
-    l ""
 
-# game/episode004_conversations.rpy:648
+    l "拜託，[p_name_short]，也沒那麼糟！"
+
+
 translate traditional_chinese ep004_thyia_talk_766f9c6a:
 
-    # c "That’s because daddy liked you, Lilly."
-    c ""
 
-# game/episode004_conversations.rpy:650
+    c "那是因爲父親喜歡你，莉莉。"
+
+
 translate traditional_chinese ep004_thyia_talk_4df61edd:
 
-    # c "That’s because your daddy liked you, Lilly."
-    c ""
 
-# game/episode004_conversations.rpy:652
+    c "那是因爲你父親喜歡你，莉莉。"
+
+
 translate traditional_chinese ep004_thyia_talk_1c31874b:
 
-    # l "Don’t give me that."
-    l ""
 
-# game/episode004_conversations.rpy:654
+    l "少來這套。"
+
+
 translate traditional_chinese ep004_thyia_talk_7531fa2f:
 
-    # l "If you behaved from time to time..."
-    l ""
 
-# game/episode004_conversations.rpy:656
+    l "你要是偶爾乖點的話..."
+
+
 translate traditional_chinese ep004_thyia_talk_cf5dd729:
 
-    # l "If you behaved from time to time I'm sure your dad would like you too..."
-    l ""
 
-# game/episode004_conversations.rpy:657
+    l "要是你偶爾表現好些，你父親肯定也會喜歡你..."
+
+
 translate traditional_chinese ep004_thyia_talk_807465d0:
 
-    # c "I might have gotten a pat on the head more often."
-    c ""
 
-# game/episode004_conversations.rpy:658
+    c "說不定還能多被摸摸頭。"
+
+
 translate traditional_chinese ep004_thyia_talk_7971e1c0:
 
-    # c "Still would have ended up at the Naval Academy though."
-    c ""
 
-# game/episode004_conversations.rpy:660
+    c "不過最後還是逃不掉進艦隊學院。"
+
+
 translate traditional_chinese ep004_thyia_talk_bf1c39d1:
 
-    # th "How did you manage in such a place?"
-    th ""
 
-# game/episode004_conversations.rpy:661
+    th "你在那種地方怎麼混的？"
+
+
 translate traditional_chinese ep004_thyia_talk_81e917ec:
 
-    # l "What do you mean?"
-    l ""
 
-# game/episode004_conversations.rpy:662
+    l "什麼意思？"
+
+
 translate traditional_chinese ep004_thyia_talk_0889d59f:
 
-    # th "The hierarchy must be oppressing."
-    th ""
 
-# game/episode004_conversations.rpy:663
+    th "等級制度肯定很壓抑。"
+
+
 translate traditional_chinese ep004_thyia_talk_2d7ec2f9:
 
-    # th "All that “yes sir”, “no sir”."
-    th ""
 
-# game/episode004_conversations.rpy:664
+    th "整天\"是，長官\", \"不是，長官\""
+
+
 translate traditional_chinese ep004_thyia_talk_94bf7c7e:
 
-    # l "You get used to that pretty quickly."
-    l ""
 
-# game/episode004_conversations.rpy:665
+    l "你很快就能適應。"
+
+
 translate traditional_chinese ep004_thyia_talk_a571e05e:
 
-    # th "I’m not sure I would."
-    th ""
 
-# game/episode004_conversations.rpy:667
+    th "我可不行。"
+
+
 translate traditional_chinese ep004_thyia_talk_a9eef40b:
 
-    # l "Now that you mention it, [p_name_short] also had a lot of trouble with the whole chain-of-command thing."
-    l ""
 
-# game/episode004_conversations.rpy:668
+    l "說到這個，[p_name_short]對指揮鏈這套也很不適應。"
+
+
 translate traditional_chinese ep004_thyia_talk_39da98c6:
 
-    # c "I think it makes everything unnecessarily complicated."
-    c ""
 
-# game/episode004_conversations.rpy:670
+    c "我覺得這只會讓所有事情都複雜化。"
+
+
 translate traditional_chinese ep004_thyia_talk_9c6ae65c:
 
-    # l "Keep telling yourself that..."
-    l ""
 
-# game/episode004_conversations.rpy:672
+    l "你就繼續這麼安慰自己吧..."
+
+
 translate traditional_chinese ep004_thyia_talk_c84a6bce:
 
-    # l "You were born outside the Sovereignty, right Thyia?"
-    l ""
 
-# game/episode004_conversations.rpy:673
+    l "你是在\"至高權域\"外出生的吧，塞婭？"
+
+
 translate traditional_chinese ep004_thyia_talk_00eb0395:
 
-    # th "I was."
-    th ""
 
-# game/episode004_conversations.rpy:675
+    th "是的。"
+
+
 translate traditional_chinese ep004_thyia_talk_a0ccab62:
 
-    # th "My parents were pretty much the same as yours when it came to raising me."
-    th ""
 
-# game/episode004_conversations.rpy:676
+    th "在養育我這事上，我父母跟你父母基本沒什麼兩樣。"
+
+
 translate traditional_chinese ep004_thyia_talk_3ea297be:
 
-    # c "Meaning they were never there?"
-    c ""
 
-# game/episode004_conversations.rpy:677
+    c "意思是他們從來沒管過你？"
+
+
 translate traditional_chinese ep004_thyia_talk_2b2f6789:
 
-    # th "Exactly."
-    th ""
 
-# game/episode004_conversations.rpy:678
+    th "沒錯。"
+
+
 translate traditional_chinese ep004_thyia_talk_69f6ef75:
 
-    # th "Though for very different reasons."
-    th ""
 
-# game/episode004_conversations.rpy:679
+    th "不過原因完全不同。"
+
+
 translate traditional_chinese ep004_thyia_talk_15c1357b:
 
-    # th "Dad left us even before my mother had me."
-    th ""
 
-# game/episode004_conversations.rpy:680
+    th "父親在我媽懷上我之前就拋棄了我們。"
+
+
 translate traditional_chinese ep004_thyia_talk_61081ada:
 
-    # th "And my mother loved alcohol a little too much."
-    th ""
 
-# game/episode004_conversations.rpy:682
+    th "而我母親對酒精愛得有點過頭。"
+
+
 translate traditional_chinese ep004_thyia_talk_528d8807:
 
-    # l "Are you still in contact with her?"
-    l ""
 
-# game/episode004_conversations.rpy:684
+    l "你現在還和她聯繫嗎？"
+
+
 translate traditional_chinese ep004_thyia_talk_e7b5fdc8:
 
-    # th "No."
-    th ""
 
-# game/episode004_conversations.rpy:685
+    th "不聯繫。"
+
+
 translate traditional_chinese ep004_thyia_talk_8bb67cd9:
 
-    # th "I left as soon as I was able."
-    th ""
 
-# game/episode004_conversations.rpy:686
+    th "能自立時我立刻就離開了。"
+
+
 translate traditional_chinese ep004_thyia_talk_208d0828:
 
-    # th "Never spoke to her again."
-    th ""
 
-# game/episode004_conversations.rpy:687
+    th "再也沒跟她說過話。"
+
+
 translate traditional_chinese ep004_thyia_talk_ec769e2a:
 
-    # l "So you went to Vulpes Velox?"
-    l ""
 
-# game/episode004_conversations.rpy:689
+    l "所以你就去了迅狐星？"
+
+
 translate traditional_chinese ep004_thyia_talk_4e6c3ab9:
 
-    # th "Haha, no, I was twelve when I left my mother."
-    th ""
 
-# game/episode004_conversations.rpy:691
+    th "哈哈才不是，離開母親時我才十二歲。"
+
+
 translate traditional_chinese ep004_thyia_talk_aa45a3d8:
 
-    # l "Oh...{w} But..."
-    l ""
 
-# game/episode004_conversations.rpy:693
+    l "噢...{w} 可是..."
+
+
 translate traditional_chinese ep004_thyia_talk_161d59c4:
 
-    # th "I lived on the streets for a while."
-    th ""
 
-# game/episode004_conversations.rpy:694
+    th "我在街頭混過一陣子。"
+
+
 translate traditional_chinese ep004_thyia_talk_620f9514:
 
-    # th "Joined a gang, because you won’t live long on your own out there without some form of protection."
-    th ""
 
-# game/episode004_conversations.rpy:695
+    th "加入了幫派，因爲在那種地方沒點保護根本活不久。"
+
+
 translate traditional_chinese ep004_thyia_talk_125ed2f1:
 
-    # th "I wasn’t cut out for a life of petty crime though, luckily my knack for fixing things is what ultimately saved me."
-    th ""
 
-# game/episode004_conversations.rpy:696
+    th "不過我天生喫不了小偷小摸這碗飯，幸好修東西的手藝最終救了我。"
+
+
 translate traditional_chinese ep004_thyia_talk_582d2986:
 
-    # th "I started repairing stuff for other members of the crew."
-    th ""
 
-# game/episode004_conversations.rpy:698
+    th "我開始幫成員們修理東西。"
+
+
 translate traditional_chinese ep004_thyia_talk_8b4b7239:
 
-    # th "Eventually I didn’t have to go on raids anymore because they became too reliant on me fixing their gear after some fight with local law enforcement."
-    th ""
 
-# game/episode004_conversations.rpy:699
+    th "最終，我不再需要參加打打殺殺了，因爲在與當地執法部門發生衝突後，他們變得過於依賴我來修理他們的裝備。"
+
+
 translate traditional_chinese ep004_thyia_talk_9bb1d12f:
 
-    # th "I saved any credit I received and once I had enough, bought a ticket on the next transport out of that hell hole."
-    th ""
 
-# game/episode004_conversations.rpy:700
+    th "我把賺的信用點全攢起來，錢剛夠就買了張星際船票，逃離了那個鬼地方。"
+
+
 translate traditional_chinese ep004_thyia_talk_4907a327:
 
-    # th "Wandered for a good while and started working as an independent contractor."
-    th ""
 
-# game/episode004_conversations.rpy:701
+    th "晃蕩了好一陣，開始幹自由承包商。"
+
+
 translate traditional_chinese ep004_thyia_talk_a5470114:
 
-    # th "The workshop on Vulpes Velox was a recent thing actually, wasn’t there for longer than two years."
-    th ""
 
-# game/episode004_conversations.rpy:703
+    th "其實迅狐星上的維修鋪是新開的，營業還不到兩年。"
+
+
 translate traditional_chinese ep004_thyia_talk_aa207daf:
 
-    # l "And we disturbed all of that."
-    l ""
 
-# game/episode004_conversations.rpy:705
+    l "結果我們全給攪黃了。"
+
+
 translate traditional_chinese ep004_thyia_talk_2ccb3edc:
 
-    # th "Nah, Glixken did that."
-    th ""
 
-# game/episode004_conversations.rpy:706
+    th "不算，是格裏克森幹的。"
+
+
 translate traditional_chinese ep004_thyia_talk_4c44129e:
 
-    # th "Besides, I’m not one to stay in one place for too long."
-    th ""
 
-# game/episode004_conversations.rpy:707
+    th "此外，我不是那種在一個地方待太久的人。"
+
+
 translate traditional_chinese ep004_thyia_talk_def654be:
 
-    # th "This setup here on the Bastard suits me fine, actually."
-    th ""
 
-# game/episode004_conversations.rpy:709
+    th "其實，這艘\"私生子\"號上的這套設施對我挺合適的。"
+
+
 translate traditional_chinese ep004_thyia_talk_193d0fc4:
 
-    # th "I’m talking too much, who’s up for another drink?"
-    th ""
 
-# game/episode004_conversations.rpy:710
+    th "我話太多了，誰想來再喝一杯？"
+
+
 translate traditional_chinese ep004_thyia_talk_73962d6e:
 
-    # l "Me!"
-    l ""
 
-# game/episode004_conversations.rpy:711
+    l "我！"
+
+
 translate traditional_chinese ep004_thyia_talk_a6aeedd2:
 
-    # c "I’m good, thanks."
-    c ""
 
-# game/episode004_conversations.rpy:712
+    c "我不用，謝謝。"
+
+
 translate traditional_chinese ep004_thyia_talk_0a2aa21e:
 
-    # c "Going to leave you ladies alone for a while."
-    c ""
 
-# game/episode004_conversations.rpy:713
+    c "我得讓你幾位女士獨處一會兒了。"
+
+
 translate traditional_chinese ep004_thyia_talk_38b84c4b:
 
-    # l "No problem, more booze for us!"
-    l ""
 
-# game/episode004_conversations.rpy:715
+    l "沒問題，我們多喝點！"
+
+
 translate traditional_chinese ep004_thyia_talk_c431bea7:
 
-    # l "Oh-"
-    l ""
 
-# game/episode004_conversations.rpy:716
+    l "哦——"
+
+
 translate traditional_chinese ep004_thyia_talk_1da666d8:
 
-    # l "I-{w} I didn’t mean it like that, Thyia."
-    l ""
 
-# game/episode004_conversations.rpy:718
+    l "我——{w}我不是那個意思，塞婭。"
+
+
 translate traditional_chinese ep004_thyia_talk_811d26b4:
 
-    # th "What?"
-    th ""
 
-# game/episode004_conversations.rpy:719
+    th "什麼？"
+
+
 translate traditional_chinese ep004_thyia_talk_36fe80c9:
 
-    # l "Maybe I shouldn’t have said that, you know, with your mother and all..."
-    l ""
 
-# game/episode004_conversations.rpy:721
+    l "也許我不該說那個，你知道，就你母親那些事..."
+
+
 translate traditional_chinese ep004_thyia_talk_c6eed0dd:
 
-    # th "Don’t worry about that!"
-    th ""
 
-# game/episode004_conversations.rpy:722
+    th "別擔心那個！"
+
+
 translate traditional_chinese ep004_thyia_talk_eec1dae5:
 
-    # l "Thanks, in that case, hit me up!"
-    l ""
 
-# game/episode004_conversations.rpy:724
+    l "謝謝，那行，給我再來一杯！"
+
+
 translate traditional_chinese ep004_thyia_talk_ea97b5e7:
 
-    # c "No thanks, you enjoy."
-    c ""
 
-# game/episode004_conversations.rpy:725
+    c "不了謝謝，你享用吧。"
+
+
 translate traditional_chinese ep004_thyia_talk_3e656e7c:
 
-    # th "Suit yourself."
-    th ""
 
-# game/episode004_conversations.rpy:735
+    th "隨你便。"
+
+
 translate traditional_chinese ep004_eva_talk_a21d1ee1:
 
-    # "Fears of dreaming about Eva again kept me awake."
-    ""
 
-# game/episode004_conversations.rpy:736
+    "怕又夢見伊娃讓我睡不着。"
+
+
 translate traditional_chinese ep004_eva_talk_81d0473e:
 
-    # "I heard the sounds of the crew die down around me, until I was alone with the hum of the ship."
-    ""
 
-# game/episode004_conversations.rpy:737
+    "我聽到隊友們的聲音在我周圍漸漸平息，直到只剩下我和船的低鳴。"
+
+
 translate traditional_chinese ep004_eva_talk_c684248e:
 
-    # "After the fourth desperate hour of sleeplessness, I decided to check out the VR room."
-    ""
 
-# game/episode004_conversations.rpy:739
+    "在連續四小時絕望地失眠後，我決定去VR室看看。"
+
+
 translate traditional_chinese ep004_eva_talk_da2edde3:
 
-    # "With every step towards the remote part of the ship where the room was located, the guilty feeling of what I was about to do increased."
-    ""
 
-# game/episode004_conversations.rpy:741
+    "每向船那頭那間房間走近一步，我要做的事的愧疚感就越強。"
+
+
 translate traditional_chinese ep004_eva_talk_63feec04:
 
-    # "I just longed to see Eva again, but I knew Lilly would tear me a new one for loading a virtual copy of our sister in a simulation."
-    ""
 
-# game/episode004_conversations.rpy:743
+    "我多想再見到伊娃，但我知道莉莉會因爲我在模擬中載入一個虛擬版的妹妹而罵死我。"
+
+
 translate traditional_chinese ep004_eva_talk_2668b08b:
 
-    # "I just longed to see Eva again, but I knew Lilly would tear me a new one for loading a virtual copy of our best friend in a simulation."
-    ""
 
-# game/episode004_conversations.rpy:744
+    "我多想再見到伊娃，但我知道莉莉會因爲我在模擬中載入一個虛擬版的我們最好的朋友而罵死我。"
+
+
 translate traditional_chinese ep004_eva_talk_f2afc36a:
 
-    # "Not that the practice was uncommon, but it was usually reserved for people to meet their deceased loved ones."
-    ""
 
-# game/episode004_conversations.rpy:745
+    "倒不是說這種做法罕見，但通常是用來讓人們見他們過世的親人。"
+
+
 translate traditional_chinese ep004_eva_talk_56fc8651:
 
-    # "Interacting with a virtual person was said to be very lifelike, as the memories up until the point when their brain was scanned were fully accessible to the digital version."
-    ""
 
-# game/episode004_conversations.rpy:746
+    "據說，和虛擬人互動非常逼真，因爲在掃描他們大腦那一刻之前，所有記憶都是可以作爲數據被獲取的。"
+
+
 translate traditional_chinese ep004_eva_talk_86e3cdb3:
 
-    # "Creating a virtual copy was a process requiring an inordinate amount of paperwork and consent of all the parties involved."
-    ""
 
-# game/episode004_conversations.rpy:747
+    "創建虛擬副本是個需要大量程序性工作和所有相關方同意的過程。"
+
+
 translate traditional_chinese ep004_eva_talk_817ef71d:
 
-    # "I had neither."
-    ""
 
-# game/episode004_conversations.rpy:748
+    "我也沒有。"
+
+
 translate traditional_chinese ep004_eva_talk_09e21e13:
 
-    # "Ignoring the pangs of guilt, I entered the VR room."
-    ""
 
-# game/episode004_conversations.rpy:750
+    "不顧內疚的刺痛，我走進了VR房間。"
+
+
 translate traditional_chinese ep004_eva_talk_216f9ac1:
 
-    # "Jade didn’t lie when she said the interface was old tech, but it still worked and was ready for me to use."
-    ""
 
-# game/episode004_conversations.rpy:751
+    "傑德說接口是過時的舊技術，沒錯，但它還能工作，我可以用。"
+
+
 translate traditional_chinese ep004_eva_talk_b43616f8:
 
-    # "Like at ConVitæ, the shift between reality and the virtual was a nauseating experience."
-    ""
 
-# game/episode004_conversations.rpy:753
+    "就像在康維泰一樣，現實和虛擬之間的轉換是一種令人噁心的經歷。"
+
+
 translate traditional_chinese ep004_eva_talk_31f1249c:
 
-    # e "[p_name]?"
-    e ""
 
-# game/episode004_conversations.rpy:757
+    e "[p_name]？"
+
+
 translate traditional_chinese ep004_eva_talk_b3e5f9d5:
 
-    # c "Eva?"
-    c ""
 
-# game/episode004_conversations.rpy:759
+    c "伊娃？"
+
+
 translate traditional_chinese ep004_eva_talk_fbd8fb19:
 
-    # e "[p_name_short], is that really you?"
-    e ""
 
-# game/episode004_conversations.rpy:761
+    e "[p_name_short], 真的是你嗎？"
+
+
 translate traditional_chinese ep004_eva_talk_3e070dc7:
 
-    # "I just hugged her and she let me, though I could sense her bewilderment while doing so."
-    ""
 
-# game/episode004_conversations.rpy:763
+    "我擁抱了她，她讓我擁抱，儘管我能感覺到她當時的困惑。"
+
+
 translate traditional_chinese ep004_eva_talk_60e55b1d:
 
-    # e "Why is it so empty here?"
-    e ""
 
-# game/episode004_conversations.rpy:764
+    e "這裡爲什麼這麼空？"
+
+
 translate traditional_chinese ep004_eva_talk_8be3c082:
 
-    # e "Where are we?"
-    e ""
 
-# game/episode004_conversations.rpy:765
+    e "我們在哪兒？"
+
+
 translate traditional_chinese ep004_eva_talk_7e528a76:
 
-    # e "Are we far from our house?"
-    e ""
 
-# game/episode004_conversations.rpy:766
+    e "離我們家遠嗎？"
+
+
 translate traditional_chinese ep004_eva_talk_1216000f:
 
-    # "The virtual copy of Eva clearly didn’t experience the events on Lanan, maybe not even her stint at the academy."
-    ""
 
-# game/episode004_conversations.rpy:767
+    "伊娃的虛擬複製體顯然沒經歷過在拉南星上的事件，可能連在學院的那段時間也沒經歷過。"
+
+
 translate traditional_chinese ep004_eva_talk_cd01b172:
 
-    # "So I decided not to confuse matters any further by attempting to explain everything."
-    ""
 
-# game/episode004_conversations.rpy:768
+    "所以我決定不再試圖解釋一切來讓事情更困惑。"
+
+
 translate traditional_chinese ep004_eva_talk_9447566d:
 
-    # c "No, not far."
-    c ""
 
-# game/episode004_conversations.rpy:769
+    c "不，不遠。"
+
+
 translate traditional_chinese ep004_eva_talk_2791bd80:
 
-    # "Using the virtual console, I called up the schematics of the family mansion on Tuolovi."
-    ""
 
-# game/episode004_conversations.rpy:770
+    "使用虛擬控制臺，我調出了託洛維星上家族莊園的圖紙。"
+
+
 translate traditional_chinese ep004_eva_talk_057990cd:
 
-    # "Once it was loaded, I took Eva’s hand."
-    ""
 
-# game/episode004_conversations.rpy:771
+    "一旦加載完成，我抓住了伊娃的手。"
+
+
 translate traditional_chinese ep004_eva_talk_5eff59ed:
 
-    # c "Come, let’s go home."
-    c ""
 
-# game/episode004_conversations.rpy:773
+    c "來吧，我們回家吧。"
+
+
 translate traditional_chinese ep004_eva_talk_b5d556ed:
 
-    # e "How have you been, [p_name_short]?"
-    e ""
 
-# game/episode004_conversations.rpy:774
+    e "你最近怎麼樣，[p_name_short]？"
+
+
 translate traditional_chinese ep004_eva_talk_2604af2f:
 
-    # e "It feels like ages since I last talked to you."
-    e ""
 
-# game/episode004_conversations.rpy:775
+    e "感覺自從上次和你說話以來已經過去很久了。"
+
+
 translate traditional_chinese ep004_eva_talk_3a1d6b7d:
 
-    # e "How’s the academy, is it exciting?"
-    e ""
 
-# game/episode004_conversations.rpy:776
+    e "學院怎麼樣，有意思嗎？"
+
+
 translate traditional_chinese ep004_eva_talk_6e1a4980:
 
-    # c "It’s a little lonely, so I’m glad to be back."
-    c ""
 
-# game/episode004_conversations.rpy:777
+    c "有點寂寞，所以我很高興能回來。"
+
+
 translate traditional_chinese ep004_eva_talk_c0f7ee29:
 
-    # e "You have to tell me all about it when we get home!"
-    e ""
 
-# game/episode004_conversations.rpy:779
+    e "到家後你一定要告訴我所有事情！"
+
+
 translate traditional_chinese ep004_eva_talk_738c0bf8:
 
-    # "We trudged through the virtual emptiness for a while, until we passed the gates of our estate."
-    ""
 
-# game/episode004_conversations.rpy:780
+    "我們在虛擬的空白中跋涉了一會兒，直到通過了我們莊園的大門。"
+
+
 translate traditional_chinese ep004_eva_talk_bfe85c70:
 
-    # "Eva didn’t seem perturbed by the weird transition between the flat nothingness and the vibrancy of the estate’s grounds."
-    ""
 
-# game/episode004_conversations.rpy:781
+    "伊娃似乎並沒有因爲在平坦的虛無和充滿活力的莊園場地之間的奇怪轉變而感到不安。"
+
+
 translate traditional_chinese ep004_eva_talk_621bbcca:
 
-    # "Instead, she held my hand firmly in hers and chatted about what had happened on Tuolovi during my first semester at the Academy."
-    ""
 
-# game/episode004_conversations.rpy:782
+    "她反而緊緊握住我的手，聊起我在學院第一學期託洛維星上發生的事。"
+
+
 translate traditional_chinese ep004_eva_talk_1b1a7a46:
 
-    # "Of course, I heard it all before, but I was just so happy to hear Eva’s voice again."
-    ""
 
-# game/episode004_conversations.rpy:784
+    "當然了，這些我都聽過，但我就是很高興能再次聽到伊娃的聲音。"
+
+
 translate traditional_chinese ep004_eva_talk_a2a543f3:
 
-    # e "So, have you made any friends already?"
-    e ""
 
-# game/episode004_conversations.rpy:785
+    e "那你已經交到朋友了嗎？"
+
+
 translate traditional_chinese ep004_eva_talk_c91c6791:
 
-    # c "A couple."
-    c ""
 
-# game/episode004_conversations.rpy:786
+    c "有幾個了。"
+
+
 translate traditional_chinese ep004_eva_talk_eccbaa27:
 
-    # e "I can’t wait for us to join you!"
-    e ""
 
-# game/episode004_conversations.rpy:788
+    e "我等不及我們來加入你了！"
+
+
 translate traditional_chinese ep004_eva_talk_436c0ef6:
 
-    # e "Lilly has a hard time picturing herself away from Tuolovi, but I’m done with the place."
-    e ""
 
-# game/episode004_conversations.rpy:789
+    e "莉莉難以想象自己離開託洛維星，但我已經厭倦了那地方。"
+
+
 translate traditional_chinese ep004_eva_talk_63b80b98:
 
-    # c "Really, I thought you weren’t overjoyed with the prospect of studying at the Academy."
-    c ""
 
-# game/episode004_conversations.rpy:790
+    c "真的嗎？我還以爲你對去學院學習的前景不是特別開心。"
+
+
 translate traditional_chinese ep004_eva_talk_0a959820:
 
-    # e "I’m not, but it beats staying here."
-    e ""
 
-# game/episode004_conversations.rpy:791
+    e "我不是特別開心，但總比呆在這兒強。"
+
+
 translate traditional_chinese ep004_eva_talk_4011bb05:
 
-    # c "No argument there."
-    c ""
 
-# game/episode004_conversations.rpy:793
+    c "沒毛病。"
+
+
 translate traditional_chinese ep004_eva_talk_5310793c:
 
-    # e "[p_name_short], the house seems so empty."
-    e ""
 
-# game/episode004_conversations.rpy:794
+    e "[p_name_short], 房子看起來好空啊。"
+
+
 translate traditional_chinese ep004_eva_talk_b88ec50f:
 
-    # e "It wasn’t empty when I left it."
-    e ""
 
-# game/episode004_conversations.rpy:795
+    e "我離開時它可不空。"
+
+
 translate traditional_chinese ep004_eva_talk_d8f94268:
 
-    # e "Where’s everyone?"
-    e ""
 
-# game/episode004_conversations.rpy:796
+    e "大家去哪了？"
+
+
 translate traditional_chinese ep004_eva_talk_aa455eac:
 
-    # c "I’m sure there’s an explanation for that."
-    c ""
 
-# game/episode004_conversations.rpy:797
+    c "我確定有原因的。"
+
+
 translate traditional_chinese ep004_eva_talk_868f7df8:
 
-    # c "I’ll go find someone."
-    c ""
 
-# game/episode004_conversations.rpy:798
+    c "我去找人。"
+
+
 translate traditional_chinese ep004_eva_talk_55525f89:
 
-    # c "Why don’t you sit down here."
-    c ""
 
-# game/episode004_conversations.rpy:800
+    c "你爲什麼不坐在這兒。"
+
+
 translate traditional_chinese ep004_eva_talk_3e0b218c:
 
-    # e "Okay, but don’t be too long."
-    e ""
 
-# game/episode004_conversations.rpy:801
+    e "好吧，但別太久。"
+
+
 translate traditional_chinese ep004_eva_talk_b995b24d:
 
-    # c "I won’t!"
-    c ""
 
-# game/episode004_conversations.rpy:802
+    c "不會的！"
+
+
 translate traditional_chinese ep004_eva_talk_b2579f87:
 
-    # "I couldn’t bear explaining everything to her and ended the simulation as soon as I closed the door on her."
-    ""
 
-# game/episode004_conversations.rpy:804
+    "我受不了向她解釋一切，所以一關上門就結束了模擬。"
+
+
 translate traditional_chinese ep004_eva_talk_c1e15eca:
 
-    # "Not sure whether all this had been a good idea, I walked back to my quarters and fell down on my bunk."
-    ""
 
-# game/episode004_conversations.rpy:806
+    "不確定這一切是不是好主意，我走回住處倒在了鋪位上。"
+
+
 translate traditional_chinese ep004_eva_talk_a6f816ae:
 
-    # "I fully expected to lie awake for the rest of the cycle, but instead a dreamless sleep overtook me in minutes."
-    ""
 
-# game/episode004_conversations.rpy:816
+    "我完全希望在接下來的周期裏保持清醒，但幾分鐘後我就進入了無夢的睡眠。"
+
+
 translate traditional_chinese ep004_raene_talk_517a5241:
 
-    # "The door of Ziv and Raene’s quarters was slightly open and I could see both women sitting next to each other."
-    ""
 
-# game/episode004_conversations.rpy:817
+    "基芙和蕾妮的房間門微開着，我能看到兩人坐在一起。"
+
+
 translate traditional_chinese ep004_raene_talk_e55f454c:
 
-    # "Ziv appeared to be injecting Raene with something."
-    ""
 
-# game/episode004_conversations.rpy:822
+    "基芙似乎在給蕾妮注射什麼東西。"
+
+
 translate traditional_chinese ep004_raene_talk_f254619d:
 
-    # c "What are you two doing?"
-    c ""
 
-# game/episode004_conversations.rpy:824
+    c "你們倆在搞什麼？"
+
+
 translate traditional_chinese ep004_raene_talk_6db7225a:
 
-    # c "Are you taking drugs?"
-    c ""
 
-# game/episode004_conversations.rpy:826
+    c "你們在嗑藥嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_0020e8c7:
 
-    # zi "What do you take us for?!"
-    zi ""
 
-# game/episode004_conversations.rpy:827
+    zi "你把我們當什麼了？！"
+
+
 translate traditional_chinese ep004_raene_talk_5d1aa7a3:
 
-    # c "I don’t know, Ziv, you tell me."
-    c ""
 
-# game/episode004_conversations.rpy:828
+    c "我不知道，基芙，你告訴我。"
+
+
 translate traditional_chinese ep004_raene_talk_83f7e098:
 
-    # zi "Raene needs medicine, that’s all you need to know."
-    zi ""
 
-# game/episode004_conversations.rpy:833
+    zi "蕾妮需要藥，你就知道這麼多夠了。"
+
+
 translate traditional_chinese ep004_raene_talk_d0ae06d2:
 
-    # c "Is that so?"
-    c ""
 
-# game/episode004_conversations.rpy:834
+    c "是這樣嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_891b272e:
 
-    # c "You’re a guest on my ship, so I’d like to know if you’re sticking needles into people for some reason."
-    c ""
 
-# game/episode004_conversations.rpy:835
+    c "你是我船上的客人，所以我想知道你是不是在爲什麼原因在往別人身上扎針。"
+
+
 translate traditional_chinese ep004_raene_talk_260fe93d:
 
-    # c "I mean, is Raene contagious?"
-    c ""
 
-# game/episode004_conversations.rpy:836
+    c "我是說，蕾妮會傳染嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_89a96631:
 
-    # c "Is she fucking dangerous?!"
-    c ""
 
-# game/episode004_conversations.rpy:838
+    c "她他媽的危險嗎？！"
+
+
 translate traditional_chinese ep004_raene_talk_65c3bd34:
 
-    # ra "[p_name], please..."
-    ra ""
 
-# game/episode004_conversations.rpy:839
+    ra "[p_name], 別..."
+
+
 translate traditional_chinese ep004_raene_talk_56014f3d:
 
-    # zi "Raene needs regular injections."
-    zi ""
 
-# game/episode004_conversations.rpy:840
+    zi "蕾妮需要定期打針。"
+
+
 translate traditional_chinese ep004_raene_talk_5e2762b7:
 
-    # zi "That’s all you need to know, as I’ve already made perfectly clear to you."
-    zi ""
 
-# game/episode004_conversations.rpy:841
+    zi "你就需要知道這些，我已經給你講清楚了。"
+
+
 translate traditional_chinese ep004_raene_talk_95e52cd6:
 
-    # zi "Now go away."
-    zi ""
 
-# game/episode004_conversations.rpy:843
+    zi "現在滾開。"
+
+
 translate traditional_chinese ep004_raene_talk_75ad9aed:
 
-    # c "I didn’t know that."
-    c ""
 
-# game/episode004_conversations.rpy:844
+    c "我以前不知道這點。"
+
+
 translate traditional_chinese ep004_raene_talk_7e622cb4:
 
-    # c "If she needs any medical attention, just let me know."
-    c ""
 
-# game/episode004_conversations.rpy:846
+    c "如果她需要什麼醫療幫助，就告訴我。"
+
+
 translate traditional_chinese ep004_raene_talk_7621fe6d:
 
-    # ra "Thank you, [p_name]."
-    ra ""
 
-# game/episode004_conversations.rpy:848
+    ra "謝謝，[p_name]。"
+
+
 translate traditional_chinese ep004_raene_talk_c1528d94:
 
-    # "I decided not to get involved in what was clearly a private matter between Ziv and Raene."
-    ""
 
-# game/episode004_conversations.rpy:852
+    "我決定不摻和基芙和蕾妮之間那純私事。"
+
+
 translate traditional_chinese ep004_raene_talk_78da2794:
 
-    # c "Hey, do you have everything you need?"
-    c ""
 
-# game/episode004_conversations.rpy:853
+    c "喂，你需要的東西都齊了嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_29a7e2ef:
 
-    # ra "I think so...{w} Yes."
-    ra ""
 
-# game/episode004_conversations.rpy:854
+    ra "我想是吧...{w} 是的。"
+
+
 translate traditional_chinese ep004_raene_talk_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode004_conversations.rpy:858
+    c "好的。"
+
+
 translate traditional_chinese ep004_raene_talk_80a44a2d:
 
-    # c "Glad to have you aboard."
-    c ""
 
-# game/episode004_conversations.rpy:860
+    c "很高興有你在船上。"
+
+
 translate traditional_chinese ep004_raene_talk_9fc9cf0d:
 
-    # c "I’ll be on the bridge if you need me."
-    c ""
 
-# game/episode004_conversations.rpy:862
+    c "我在艦橋上，有需要就叫我。"
+
+
 translate traditional_chinese ep004_raene_talk_f30b8018:
 
-    # ra "Ah...{w} [p_name]?"
-    ra ""
 
-# game/episode004_conversations.rpy:863
+    ra "啊...{w} [p_name]？"
+
+
 translate traditional_chinese ep004_raene_talk_24c7ada5:
 
-    # c "Yes?"
-    c ""
 
-# game/episode004_conversations.rpy:866
+    c "怎麼了？"
+
+
 translate traditional_chinese ep004_raene_talk_ca9dd4f8:
 
-    # ra "I’m sorry you had to see that earlier."
-    ra ""
 
-# game/episode004_conversations.rpy:867
+    ra "真抱歉你剛才看到的那些。"
+
+
 translate traditional_chinese ep004_raene_talk_ea365f6a:
 
-    # ra "The injections, I mean."
-    ra ""
 
-# game/episode004_conversations.rpy:868
+    ra "我是說，那些注射。"
+
+
 translate traditional_chinese ep004_raene_talk_97cba143:
 
-    # c "Ziv isn’t forcing them on you, is she?"
-    c ""
 
-# game/episode004_conversations.rpy:869
+    c "基芙沒有在強迫你吧？"
+
+
 translate traditional_chinese ep004_raene_talk_8a97b79c:
 
-    # ra "Oh no, not at all!"
-    ra ""
 
-# game/episode004_conversations.rpy:871
+    ra "哦不，絕對沒有！"
+
+
 translate traditional_chinese ep004_raene_talk_af2e15c8:
 
-    # ra "You don’t think Ziv is...{w} I’m not her captive, or anything."
-    ra ""
 
-# game/episode004_conversations.rpy:872
+    ra "你不覺得基芙是...{w} 我不是她的俘虜，或者什麼的。"
+
+
 translate traditional_chinese ep004_raene_talk_b05d1992:
 
-    # ra "I’d hate for you to think ill of her."
-    ra ""
 
-# game/episode004_conversations.rpy:875
+    ra "我不想你把她往壞處想。"
+
+
 translate traditional_chinese ep004_raene_talk_55e56085:
 
-    # c "Don’t worry, I don’t."
-    c ""
 
-# game/episode004_conversations.rpy:878
+    c "別擔心，我沒那麼想。"
+
+
 translate traditional_chinese ep004_raene_talk_837be964:
 
-    # c "I don’t know, Raene, just making sure."
-    c ""
 
-# game/episode004_conversations.rpy:880
+    c "我不知道，蕾妮，只是想確認一下。"
+
+
 translate traditional_chinese ep004_raene_talk_d2a2f874:
 
-    # ra "Ziv and her people have been nothing but helpful."
-    ra ""
 
-# game/episode004_conversations.rpy:881
+    ra "基芙和她的人都一直在幫忙。"
+
+
 translate traditional_chinese ep004_raene_talk_d4e3c586:
 
-    # c "I understand they’re helping you run from your father?"
-    c ""
 
-# game/episode004_conversations.rpy:883
+    c "我理解他們是在幫你逃離你父親？"
+
+
 translate traditional_chinese ep004_raene_talk_7433d9e7:
 
-    # ra "Yes..."
-    ra ""
 
-# game/episode004_conversations.rpy:884
+    ra "是的..."
+
+
 translate traditional_chinese ep004_raene_talk_a710192f:
 
-    # c "Does he want to hurt you?"
-    c ""
 
-# game/episode004_conversations.rpy:885
+    c "他想傷害你嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_4254e805:
 
-    # ra "No...{w} Not exactly."
-    ra ""
 
-# game/episode004_conversations.rpy:886
+    ra "不...{w} 不完全。"
+
+
 translate traditional_chinese ep004_raene_talk_44fd47ea:
 
-    # c "It's something political then?"
-    c ""
 
-# game/episode004_conversations.rpy:887
+    c "那就是政治上的事嘍？"
+
+
 translate traditional_chinese ep004_raene_talk_4c6e7158:
 
-    # ra "No..."
-    ra ""
 
-# game/episode004_conversations.rpy:891
+    ra "不..."
+
+
 translate traditional_chinese ep004_raene_talk_dbf85653:
 
-    # c "Do you need to be so vague?!"
-    c ""
 
-# game/episode004_conversations.rpy:892
+    c "你需要這麼含糊嗎？！"
+
+
 translate traditional_chinese ep004_raene_talk_c8cfd60a:
 
-    # c "Why do you keep acting like you've got something to hide?!"
-    c ""
 
-# game/episode004_conversations.rpy:894
+    c "你爲什麼總是表現得好像有什麼隱瞞一樣？！"
+
+
 translate traditional_chinese ep004_raene_talk_79ab80a5:
 
-    # ra "I'm sorry...{w} I..."
-    ra ""
 
-# game/episode004_conversations.rpy:895
+    ra "對不起...{w} 我..."
+
+
 translate traditional_chinese ep004_raene_talk_f97fd29a:
 
-    # ra "I just can't."
-    ra ""
 
-# game/episode004_conversations.rpy:897
+    ra "我只是不能說。"
+
+
 translate traditional_chinese ep004_raene_talk_13d1c32c:
 
-    # zi "What's this, I heard you yelling?"
-    zi ""
 
-# game/episode004_conversations.rpy:898
+    zi "怎麼回事，我聽見你們在喊？"
+
+
 translate traditional_chinese ep004_raene_talk_cc3a0214:
 
-    # zi "Why were you yelling at her?!"
-    zi ""
 
-# game/episode004_conversations.rpy:899
+    zi "你爲什麼對她大喊大叫？！"
+
+
 translate traditional_chinese ep004_raene_talk_fcebeb07:
 
-    # c "I don't-"
-    c ""
 
-# game/episode004_conversations.rpy:900
+    c "我沒有-"
+
+
 translate traditional_chinese ep004_raene_talk_d799567d:
 
-    # c "I'll just leave."
-    c ""
 
-# game/episode004_conversations.rpy:901
+    c "我離開吧。"
+
+
 translate traditional_chinese ep004_raene_talk_2a18141a:
 
-    # zi "You do that."
-    zi ""
 
-# game/episode004_conversations.rpy:903
+    zi "那你走吧。"
+
+
 translate traditional_chinese ep004_raene_talk_29fd3ffa:
 
-    # c "Well, you're a guest here now, so if there's anything you need, just ask."
-    c ""
 
-# game/episode004_conversations.rpy:905
+    c "好吧，你現在是這裡的客人，所以如果你需要什麼，儘管說。"
+
+
 translate traditional_chinese ep004_raene_talk_0d398f98:
 
-    # ra "I will, thank you [p_name]."
-    ra ""
 
-# game/episode004_conversations.rpy:907
+    ra "我會的，謝謝你[p_name]。"
+
+
 translate traditional_chinese ep004_raene_talk_699abb85:
 
-    # ra "Thank you for taking us in."
-    ra ""
 
-# game/episode004_conversations.rpy:908
+    ra "謝謝你收留了我們。"
+
+
 translate traditional_chinese ep004_raene_talk_89cac49f:
 
-    # c "It’s not trouble."
-    c ""
 
-# game/episode004_conversations.rpy:909
+    c "沒什麼麻煩的。"
+
+
 translate traditional_chinese ep004_raene_talk_a98b5fea:
 
-    # c "I understand Ziv and her people are helping you run from your father?"
-    c ""
 
-# game/episode004_conversations.rpy:911
+    c "我了解基芙和她的人在幫你躲你父親？"
+
+
 translate traditional_chinese ep004_raene_talk_7433d9e7_1:
 
-    # ra "Yes..."
-    ra ""
 
-# game/episode004_conversations.rpy:912
+    ra "是的..."
+
+
 translate traditional_chinese ep004_raene_talk_a710192f_1:
 
-    # c "Does he want to hurt you?"
-    c ""
 
-# game/episode004_conversations.rpy:913
+    c "他想傷害你嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_4254e805_1:
 
-    # ra "No...{w} Not exactly."
-    ra ""
 
-# game/episode004_conversations.rpy:914
+    ra "不是...{w} 不太準確。"
+
+
 translate traditional_chinese ep004_raene_talk_44fd47ea_1:
 
-    # c "It's something political then?"
-    c ""
 
-# game/episode004_conversations.rpy:915
+    c "那是政治原因嗎？"
+
+
 translate traditional_chinese ep004_raene_talk_4c6e7158_1:
 
-    # ra "No..."
-    ra ""
 
-# game/episode004_conversations.rpy:919
+    ra "不..."
+
+
 translate traditional_chinese ep004_raene_talk_dbf85653_1:
 
-    # c "Do you need to be so vague?!"
-    c ""
 
-# game/episode004_conversations.rpy:920
+    c "你一定要這麼含糊其辭嗎？!"
+
+
 translate traditional_chinese ep004_raene_talk_c8cfd60a_1:
 
-    # c "Why do you keep acting like you've got something to hide?!"
-    c ""
 
-# game/episode004_conversations.rpy:922
+    c "你爲什麼老是表現得像有事瞞着似的？!"
+
+
 translate traditional_chinese ep004_raene_talk_79ab80a5_1:
 
-    # ra "I'm sorry...{w} I..."
-    ra ""
 
-# game/episode004_conversations.rpy:923
+    ra "對不起...{w} 我..."
+
+
 translate traditional_chinese ep004_raene_talk_f97fd29a_1:
 
-    # ra "I just can't."
-    ra ""
 
-# game/episode004_conversations.rpy:925
+    ra "我只是不能說。"
+
+
 translate traditional_chinese ep004_raene_talk_13d1c32c_1:
 
-    # zi "What's this, I heard you yelling?"
-    zi ""
 
-# game/episode004_conversations.rpy:926
+    zi "怎麼回事，我聽到你在喊叫？"
+
+
 translate traditional_chinese ep004_raene_talk_cc3a0214_1:
 
-    # zi "Why were you yelling at her?!"
-    zi ""
 
-# game/episode004_conversations.rpy:927
+    zi "你幹嘛衝她大喊大叫？!"
+
+
 translate traditional_chinese ep004_raene_talk_fcebeb07_1:
 
-    # c "I don't-"
-    c ""
 
-# game/episode004_conversations.rpy:928
+    c "我沒有-"
+
+
 translate traditional_chinese ep004_raene_talk_d799567d_1:
 
-    # c "I'll just leave."
-    c ""
 
-# game/episode004_conversations.rpy:929
+    c "我還是走吧。"
+
+
 translate traditional_chinese ep004_raene_talk_2a18141a_1:
 
-    # zi "You do that."
-    zi ""
 
-# game/episode004_conversations.rpy:931
+    zi "你走吧。"
+
+
 translate traditional_chinese ep004_raene_talk_29fd3ffa_1:
 
-    # c "Well, you're a guest here now, so if there's anything you need, just ask."
-    c ""
 
-# game/episode004_conversations.rpy:933
+    c "嗯，你現在是這裡的客人了，有什麼需要儘管開口。"
+
+
 translate traditional_chinese ep004_raene_talk_0d398f98_1:
 
-    # ra "I will, thank you [p_name]."
-    ra ""
 
-# game/episode004_conversations.rpy:942
+    ra "我會的，謝謝你[p_name]。"
+
+
 translate traditional_chinese ep004_ziv_talk_8612aee8:
 
-    # zi "About before, with Raene..."
-    zi ""
 
-# game/episode004_conversations.rpy:943
+    zi "關於之前的事，和蕾妮..."
+
+
 translate traditional_chinese ep004_ziv_talk_24c7ada5:
 
-    # c "Yes?"
-    c ""
 
-# game/episode004_conversations.rpy:945
+    c "怎麼了？"
+
+
 translate traditional_chinese ep004_ziv_talk_dc0457bc:
 
-    # zi "I get why you’re angry about it, but Raene will be able to tell you more as soon as she’s ready."
-    zi ""
 
-# game/episode004_conversations.rpy:947
+    zi "我懂你爲什麼生氣，不過蕾妮準備好了就會全告訴你。"
+
+
 translate traditional_chinese ep004_ziv_talk_7af63653:
 
-    # zi "Raene will be able to tell you more as soon as she’s ready."
-    zi ""
 
-# game/episode004_conversations.rpy:948
+    zi "蕾妮準備好了就會告訴你更多。"
+
+
 translate traditional_chinese ep004_ziv_talk_d47417d5:
 
-    # zi "If that’s not enough we’ll leave at the next station and be out of your hair."
-    zi ""
 
-# game/episode004_conversations.rpy:949
+    zi "如果這還不夠，我們下一站就走人，不再煩你。"
+
+
 translate traditional_chinese ep004_ziv_talk_32b301c4:
 
-    # c "Fair enough, I guess."
-    c ""
 
-# game/episode004_conversations.rpy:956
+    c "好吧，我猜。"
+
+
 translate traditional_chinese ep004_ziv_choices_ec185ab5:
 
-    # c "You told me before you're no longer part of a Cohort?"
-    c ""
 
-# game/episode004_conversations.rpy:957
+    c "你之前告訴過我，你不再屬於\"羣體\"了？"
+
+
 translate traditional_chinese ep004_ziv_choices_e0095032:
 
-    # zi "That's correct."
-    zi ""
 
-# game/episode004_conversations.rpy:958
+    zi "是的。"
+
+
 translate traditional_chinese ep004_ziv_choices_5fd42285:
 
-    # c "But you're not an outcast, right?"
-    c ""
 
-# game/episode004_conversations.rpy:959
+    c "但你不是被驅逐者，對吧？"
+
+
 translate traditional_chinese ep004_ziv_choices_d22124ed:
 
-    # zi "No, I have official dispensation from the council."
-    zi ""
 
-# game/episode004_conversations.rpy:960
+    zi "不，我有議會的正式豁免。"
+
+
 translate traditional_chinese ep004_ziv_choices_34bc7916:
 
-    # zi "I may return to a Cohort at any time, if I choose to."
-    zi ""
 
-# game/episode004_conversations.rpy:961
+    zi "如果我想，隨時可以回到\"羣體\"。"
+
+
 translate traditional_chinese ep004_ziv_choices_c1be9d66:
 
-    # c "And you're choosing not to now, obviously."
-    c ""
 
-# game/episode004_conversations.rpy:962
+    c "你顯然選擇不回去了。"
+
+
 translate traditional_chinese ep004_ziv_choices_d84ace56:
 
-    # zi "Obviously."
-    zi ""
 
-# game/episode004_conversations.rpy:963
+    zi "顯然。"
+
+
 translate traditional_chinese ep004_ziv_choices_126de7a2:
 
-    # c "Is it because of Raene?"
-    c ""
 
-# game/episode004_conversations.rpy:965
+    c "是因爲蕾妮嗎？"
+
+
 translate traditional_chinese ep004_ziv_choices_d036760c:
 
-    # zi "Yes, she's part of the reason."
-    zi ""
 
-# game/episode004_conversations.rpy:966
+    zi "是的，她是部分原因。"
+
+
 translate traditional_chinese ep004_ziv_choices_cfb82667:
 
-    # zi "Some members of the Rhenkoy do humanitarian work and are allowed to live without a Cohort."
-    zi ""
 
-# game/episode004_conversations.rpy:967
+    zi "一些倫科伊族成員從事人道工作，並被允許不和\"羣體\"生活。"
+
+
 translate traditional_chinese ep004_ziv_choices_15aae90c:
 
-    # c "So, saving Raene was part of a humanitarian mission?"
-    c ""
 
-# game/episode004_conversations.rpy:968
+    c "所以，拯救蕾妮是人道任務的一部分？"
+
+
 translate traditional_chinese ep004_ziv_choices_800f8e61:
 
-    # zi "Yes."
-    zi ""
 
-# game/episode004_conversations.rpy:969
+    zi "是的。"
+
+
 translate traditional_chinese ep004_ziv_choices_100b06c6:
 
-    # c "But why, because her father is a religious nut?"
-    c ""
 
-# game/episode004_conversations.rpy:970
+    c "但爲什麼，因爲她父親是宗教狂嗎？"
+
+
 translate traditional_chinese ep004_ziv_choices_48379d3e:
 
-    # zi "Partly, she asked us to rescue her, she didn't feel safe."
-    zi ""
 
-# game/episode004_conversations.rpy:971
+    zi "部分如此，她要求我們救她，她感覺不安全。"
+
+
 translate traditional_chinese ep004_ziv_choices_f15880ec:
 
-    # c "Didn't feel safe, in what way?"
-    c ""
 
-# game/episode004_conversations.rpy:973
+    c "感覺不安全，什麼方面？"
+
+
 translate traditional_chinese ep004_ziv_choices_7f7cb69a:
 
-    # zi "Look, I've already said too much, you'd have to ask her."
-    zi ""
 
-# game/episode004_conversations.rpy:979
+    zi "聽着，我已經說太多了，你得問她。"
+
+
 translate traditional_chinese ep004_ziv_choices_3fe878b3:
 
-    # c "I already did, but she doesn't want to tell."
-    c ""
 
-# game/episode004_conversations.rpy:980
+    c "我已經問過了，但她不想說。"
+
+
 translate traditional_chinese ep004_ziv_choices_410195ef:
 
-    # c "What are you two hiding, exactly?"
-    c ""
 
-# game/episode004_conversations.rpy:982
+    c "你們兩個到底在隱藏什麼？"
+
+
 translate traditional_chinese ep004_ziv_choices_f20d7419:
 
-    # c "You were injecting her with something."
-    c ""
 
-# game/episode004_conversations.rpy:984
+    c "你給她注射了什麼。"
+
+
 translate traditional_chinese ep004_ziv_choices_8daf89cd:
 
-    # c "I saw you injecting her with something earlier."
-    c ""
 
-# game/episode004_conversations.rpy:986
+    c "我剛才看到你給她注射什麼東西。"
+
+
 translate traditional_chinese ep004_ziv_choices_226ac660:
 
-    # zi "Raene needs regular shots, she’s no danger to you or any of the crew."
-    zi ""
 
-# game/episode004_conversations.rpy:987
+    zi "蕾妮需要定期注射，她對你們或任何機組成員都沒有危險。"
+
+
 translate traditional_chinese ep004_ziv_choices_448881e0:
 
-    # zi "And that’s all I’m going to say on the matter."
-    zi ""
 
-# game/episode004_conversations.rpy:989
+    zi "關於這件事，我就說到這兒。"
+
+
 translate traditional_chinese ep004_ziv_choices_71a4522b:
 
-    # c "I understand, maybe I'll ask her."
-    c ""
 
-# game/episode004_conversations.rpy:994
+    c "我明白了，也許我會問她。"
+
+
 translate traditional_chinese ep004_ziv_choices_87b9dadd:
 
-    # c "So Ziv, about what happened on the planet, with Luzane..."
-    c ""
 
-# game/episode004_conversations.rpy:997
+    c "所以說基芙，關於盧贊妮在那顆星球上發生的事..."
+
+
 translate traditional_chinese ep004_ziv_choices_63df4769:
 
-    # zi "You didn't have much of a choice, did you?"
-    zi ""
 
-# game/episode004_conversations.rpy:999
+    zi "你當時也沒多少選擇餘地，對吧？"
+
+
 translate traditional_chinese ep004_ziv_choices_43c40541:
 
-    # zi "Nothing happened, right?"
-    zi ""
 
-# game/episode004_conversations.rpy:1000
+    zi "什麼也沒發生，對吧？"
+
+
 translate traditional_chinese ep004_ziv_choices_f7828bc6:
 
-    # c "That's not what I mean."
-    c ""
 
-# game/episode004_conversations.rpy:1001
+    c "我不是這個意思。"
+
+
 translate traditional_chinese ep004_ziv_choices_1a487e1a:
 
-    # zi "What do you mean?"
-    zi ""
 
-# game/episode004_conversations.rpy:1005
+    zi "那你想說什麼？"
+
+
 translate traditional_chinese ep004_ziv_choices_55907bf9:
 
-    # c "It's just that Luzane turned to be a bit of a surprise."
-    c ""
 
-# game/episode004_conversations.rpy:1006
+    c "只是盧贊妮實在有點出乎意料。"
+
+
 translate traditional_chinese ep004_ziv_choices_93cd8924:
 
-    # c "Having both down below is a little uncommon, if you know what I mean."
-    c ""
 
-# game/episode004_conversations.rpy:1008
+    c "下面兩樣都長的情況確實少見，你應該懂我意思吧。"
+
+
 translate traditional_chinese ep004_ziv_choices_caf950b7:
 
-    # zi "Ah, but it isn't among the Rhenkoy."
-    zi ""
 
-# game/episode004_conversations.rpy:1010
+    zi "啊，但在我們倫科伊族裡並不少見。"
+
+
 translate traditional_chinese ep004_ziv_choices_1ecb28c2:
 
-    # zi "You didn't know?"
-    zi ""
 
-# game/episode004_conversations.rpy:1011
+    zi "你之前不知道？"
+
+
 translate traditional_chinese ep004_ziv_choices_a54cf131:
 
-    # c "Evidently not."
-    c ""
 
-# game/episode004_conversations.rpy:1013
+    c "顯然不知道。"
+
+
 translate traditional_chinese ep004_ziv_choices_b3eee1a6:
 
-    # zi "There's no distinction between female and male in our society."
-    zi ""
 
-# game/episode004_conversations.rpy:1014
+    zi "我們的社會根本沒有男女之分。"
+
+
 translate traditional_chinese ep004_ziv_choices_6902f82c:
 
-    # zi "We just use the term female to describe ourselves when dealing with other alien species."
-    zi ""
 
-# game/episode004_conversations.rpy:1015
+    zi "對外族提到時自稱女性只是圖方便。"
+
+
 translate traditional_chinese ep004_ziv_choices_24366554:
 
-    # c "I understand."
-    c ""
 
-# game/episode004_conversations.rpy:1016
+    c "明白了。"
+
+
 translate traditional_chinese ep004_ziv_choices_a026c51f:
 
-    # c "Just wanted to clear that up."
-    c ""
 
-# game/episode004_conversations.rpy:1018
+    c "特意說明下而已。"
+
+
 translate traditional_chinese ep004_ziv_choices_fe4f2dec:
 
-    # zi "Does it bother you?"
-    zi ""
 
-# game/episode004_conversations.rpy:1019
+    zi "讓你不自在了？"
+
+
 translate traditional_chinese ep004_ziv_choices_f6efe5d0:
 
-    # zi "I know it's a problem for some..."
-    zi ""
 
-# game/episode004_conversations.rpy:1024
+    zi "我懂有些人會介意..."
+
+
 translate traditional_chinese ep004_ziv_choices_af90772e:
 
-    # c "It's a little too outlandish to wrap my head around, to be honest."
-    c ""
 
-# game/episode004_conversations.rpy:1025
+    c "說實話，這對我來說有點太奇怪了。"
+
+
 translate traditional_chinese ep004_ziv_choices_33530046:
 
-    # c "But that doesn't mean I can't be civil about it."
-    c ""
 
-# game/episode004_conversations.rpy:1027
+    c "但這並不意味着我不能文明地對待它。"
+
+
 translate traditional_chinese ep004_ziv_choices_abeef29a:
 
-    # zi "I'm not sure what you mean by that, but as long as you don't mean to kick me off this ship I can live with that."
-    zi ""
 
-# game/episode004_conversations.rpy:1028
+    zi "雖然不太懂你指什麼，但只要不是想趕我下船就行。"
+
+
 translate traditional_chinese ep004_ziv_choices_139c6bba:
 
-    # c "Good."
-    c ""
 
-# game/episode004_conversations.rpy:1030
+    c "很好。"
+
+
 translate traditional_chinese ep004_ziv_choices_f1fe3812:
 
-    # c "No, why would it be a problem?"
-    c ""
 
-# game/episode004_conversations.rpy:1032
+    c "不，這有什麼好介意的？"
+
+
 translate traditional_chinese ep004_ziv_choices_e5233257:
 
-    # zi "Just making sure and I'm very glad to hear it isn't an issue."
-    zi ""
 
-# game/episode004_conversations.rpy:1036
+    zi "確認下而已，聽你這麼說我就放心了。"
+
+
 translate traditional_chinese ep004_ziv_choices_4c8e0d9b:
 
-    # c "Considering Luzane and you are the same species, do you have a cock as well?"
-    c ""
 
-# game/episode004_conversations.rpy:1038
+    c "既然盧贊妮和你同族，那你也長着雞巴？"
+
+
 translate traditional_chinese ep004_ziv_choices_051ab7c6:
 
-    # zi "What kind of question is that?!"
-    zi ""
 
-# game/episode004_conversations.rpy:1039
+    zi "這算什麼破問題？！"
+
+
 translate traditional_chinese ep004_ziv_choices_8fc348b3:
 
-    # zi "Get out this instant!"
-    zi ""
 
-# game/episode004_conversations.rpy:1040
+    zi "立刻滾出去！"
+
+
 translate traditional_chinese ep004_ziv_choices_13876114:
 
-    # c "It was just a question!"
-    c ""
 
-# game/episode004_conversations.rpy:1043
+    c "就是個問題而已！"
+
+
 translate traditional_chinese ep004_ziv_choices_ce1cbde7:
 
-    # c "Nah, forget I said anything."
-    c ""
 
-# game/episode004_conversations.rpy:1044
+    c "算了，當我沒說。"
+
+
 translate traditional_chinese ep004_ziv_choices_f557f0b6:
 
-    # zi "Okay..."
-    zi ""
 
-# game/episode004_conversations.rpy:1048
+    zi "好吧..."
+
+
 translate traditional_chinese ep004_ziv_choices_0dae4774:
 
-    # c "So you and Luzane..."
-    c ""
 
-# game/episode004_conversations.rpy:1049
+    c "所以你和盧贊妮..."
+
+
 translate traditional_chinese ep004_ziv_choices_5a7cf9bb:
 
-    # zi "What about her?"
-    zi ""
 
-# game/episode004_conversations.rpy:1050
+    zi "她怎麼了？"
+
+
 translate traditional_chinese ep004_ziv_choices_c5a6a3f9:
 
-    # c "She told me you were jealous of her and Tavort."
-    c ""
 
-# game/episode004_conversations.rpy:1052
+    c "她說你嫉妒她和塔沃特。"
+
+
 translate traditional_chinese ep004_ziv_choices_20a738c6:
 
-    # zi "Did she now..."
-    zi ""
 
-# game/episode004_conversations.rpy:1053
+    zi "她真這麼說啊..."
+
+
 translate traditional_chinese ep004_ziv_choices_f1bd4e6d:
 
-    # c "And that you were lovers."
-    c ""
 
-# game/episode004_conversations.rpy:1054
+    c "還說你們是戀人。"
+
+
 translate traditional_chinese ep004_ziv_choices_6b2a4387:
 
-    # zi "Well, she was quite frank just before killing you, wasn't she?"
-    zi ""
 
-# game/episode004_conversations.rpy:1056
+    zi "嘖嘖，她殺你前倒是挺坦誠嘛？"
+
+
 translate traditional_chinese ep004_ziv_choices_861daef5:
 
-    # zi "All right."
-    zi ""
 
-# game/episode004_conversations.rpy:1057
+    zi "好吧。"
+
+
 translate traditional_chinese ep004_ziv_choices_eb2ec9b2:
 
-    # zi "Yes, I was in love with her and I thought she was too."
-    zi ""
 
-# game/episode004_conversations.rpy:1058
+    zi "是，我曾愛她，以爲她也愛我。"
+
+
 translate traditional_chinese ep004_ziv_choices_fb702282:
 
-    # zi "At least, she gave enough hints that she liked me."
-    zi ""
 
-# game/episode004_conversations.rpy:1059
+    zi "至少，她暗示過喜歡我。"
+
+
 translate traditional_chinese ep004_ziv_choices_aae4e1d3:
 
-    # zi "A relationship with a Premier is a big thing in our society, but that wasn't the reason why I pursued her."
-    zi ""
 
-# game/episode004_conversations.rpy:1061
+    zi "跟\"首領\"談戀愛在族裡是大事，但我不是爲這個追她。"
+
+
 translate traditional_chinese ep004_ziv_choices_e9f48ee5:
 
-    # zi "I just loved her."
-    zi ""
 
-# game/episode004_conversations.rpy:1062
+    zi "我純粹愛她這個人。"
+
+
 translate traditional_chinese ep004_ziv_choices_e3a823e6:
 
-    # zi "You know, that foolish young love?"
-    zi ""
 
-# game/episode004_conversations.rpy:1063
+    zi "懂吧？那種年少懵懂的愛？"
+
+
 translate traditional_chinese ep004_ziv_choices_4fcc4693:
 
-    # zi "She was older than me, a mother figure maybe, but also such a sensual person."
-    zi ""
 
-# game/episode004_conversations.rpy:1064
+    zi "她年長些，像母親，又充滿情慾魅力。"
+
+
 translate traditional_chinese ep004_ziv_choices_8a96ccc1:
 
-    # zi "We courted each other for a while, but we were never lovers."
-    zi ""
 
-# game/episode004_conversations.rpy:1066
+    zi "曖昧過一段時間，但從未成爲愛人。"
+
+
 translate traditional_chinese ep004_ziv_choices_bb326711:
 
-    # zi "Maybe we could have been, but then Tavort came along and swept her up."
-    zi ""
 
-# game/episode004_conversations.rpy:1067
+    zi "也許本有可能，可塔沃特橫插一腳奪走她。"
+
+
 translate traditional_chinese ep004_ziv_choices_a6ca12db:
 
-    # c "That came as a surprise then?"
-    c ""
 
-# game/episode004_conversations.rpy:1069
+    c "當時很震驚吧？"
+
+
 translate traditional_chinese ep004_ziv_choices_1bd2c0b4:
 
-    # zi "It sure did."
-    zi ""
 
-# game/episode004_conversations.rpy:1070
+    zi "當然。"
+
+
 translate traditional_chinese ep004_ziv_choices_91f86c2a:
 
-    # zi "Especially if you know what the Tubloshi look like."
-    zi ""
 
-# game/episode004_conversations.rpy:1071
+    zi "尤其你知道圖布洛希人那副尊容。"
+
+
 translate traditional_chinese ep004_ziv_choices_4611ce00:
 
-    # zi "Of course you'll see them once we rendezvous with their ship, but a Rhenkoy and a Tubloshi aren't a match you see every day."
-    zi ""
 
-# game/episode004_conversations.rpy:1072
+    zi "待會和他們的飛船對接時你就會見到了——但倫科伊族配圖布洛希人？這組合可不常見。"
+
+
 translate traditional_chinese ep004_ziv_choices_35ca7d13:
 
-    # zi "In fact, most of the Tubloshi view other species as something you can hunt or conquer with violence."
-    zi ""
 
-# game/episode004_conversations.rpy:1073
+    zi "實際上圖布洛希人把異族當獵物或徵伐對象。"
+
+
 translate traditional_chinese ep004_ziv_choices_64fca261:
 
-    # c "So the union Kyl Tavort and Luzane was an oddity?"
-    c ""
 
-# game/episode004_conversations.rpy:1074
+    c "所以凱爾·塔沃特和盧贊妮的結合是個怪事？"
+
+
 translate traditional_chinese ep004_ziv_choices_a80f7a26:
 
-    # zi "It sure was, someone with the characteristics of Luzane is normally shunned by the Tubloshi, reviled even."
-    zi ""
 
-# game/episode004_conversations.rpy:1075
+    zi "的確是這樣，像盧贊妮這樣的人通常會被圖布洛希人避開，甚至憎恨。"
+
+
 translate traditional_chinese ep004_ziv_choices_3118a17c:
 
-    # c "I guess love really does conquer all, to use a tired phrase."
-    c ""
 
-# game/episode004_conversations.rpy:1077
+    c "我猜愛情真的徵服一切，用一句老話來說。"
+
+
 translate traditional_chinese ep004_ziv_choices_9f00af12:
 
-    # zi "Yes, you might be right."
-    zi ""
 
-# game/episode004_conversations.rpy:1085
+    zi "是的，你可能說得對。"
+
+
 translate traditional_chinese ep004_jade_talk_2f03adc1:
 
-    # "I messaged Jade to come to my quarters."
-    ""
 
-# game/episode004_conversations.rpy:1087
+    "我發了消息給傑德叫她來我的艙房。"
+
+
 translate traditional_chinese ep004_jade_talk_7410484a:
 
-    # j "You rang, master?"
-    j ""
 
-# game/episode004_conversations.rpy:1094
+    j "你叫我嗎，主人？"
+
+
 translate traditional_chinese ep004_jade_talk_3048b788:
 
-    # c "Cut the bullshit Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1096
+    c "別說廢話了，傑德。"
+
+
 translate traditional_chinese ep004_jade_talk_96a02776:
 
-    # c "Sit down."
-    c ""
 
-# game/episode004_conversations.rpy:1097
+    c "坐下。"
+
+
 translate traditional_chinese ep004_jade_talk_a041a068:
 
-    # c "No, on your knees."
-    c ""
 
-# game/episode004_conversations.rpy:1099
+    c "不，跪着。"
+
+
 translate traditional_chinese ep004_jade_talk_16dd6b0e:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode004_conversations.rpy:1100
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_talk_383e5ed2:
 
-    # j "Was everything in order with the simulation, master?"
-    j ""
 
-# game/episode004_conversations.rpy:1101
+    j "VR模擬那裡一切正常嗎，主人？"
+
+
 translate traditional_chinese ep004_jade_talk_f5bbead2:
 
-    # c "Yes, everything worked fine."
-    c ""
 
-# game/episode004_conversations.rpy:1102
+    c "是的，一切運行正常。"
+
+
 translate traditional_chinese ep004_jade_talk_5317a832:
 
-    # c "You're going to help me relax now."
-    c ""
 
-# game/episode004_conversations.rpy:1103
+    c "你現在要幫我放鬆一下了。"
+
+
 translate traditional_chinese ep004_jade_talk_49001c61:
 
-    # j "That's what I'm for, master."
-    j ""
 
-# game/episode004_conversations.rpy:1104
+    j "這就是我存在的目的，主人。"
+
+
 translate traditional_chinese ep004_jade_talk_d4010b14:
 
-    # c "Undress."
-    c ""
 
-# game/episode004_conversations.rpy:1107
+    c "脫衣服。"
+
+
 translate traditional_chinese ep004_jade_talk_94f30c96:
 
-    # c "You actually enjoy coming up with these greetings, don't you Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1109
+    c "你其實很喜歡編這些問候語，不是嗎，傑德？"
+
+
 translate traditional_chinese ep004_jade_talk_89641db8:
 
-    # j "I do my best."
-    j ""
 
-# game/episode004_conversations.rpy:1110
+    j "我盡力了。"
+
+
 translate traditional_chinese ep004_jade_talk_2f093a16:
 
-    # c "Come sit with me."
-    c ""
 
-# game/episode004_conversations.rpy:1112
+    c "來坐我身邊。"
+
+
 translate traditional_chinese ep004_jade_talk_462191d9:
 
-    # j "Was everything in order with the simulation?"
-    j ""
 
-# game/episode004_conversations.rpy:1113
+    j "VR模擬一切正常嗎？"
+
+
 translate traditional_chinese ep004_jade_talk_f5bbead2_1:
 
-    # c "Yes, everything worked fine."
-    c ""
 
-# game/episode004_conversations.rpy:1114
+    c "是的，一切運行正常。"
+
+
 translate traditional_chinese ep004_jade_talk_bae8b8a6:
 
-    # c "But it was strange seeing her..."
-    c ""
 
-# game/episode004_conversations.rpy:1115
+    c "但看到她感覺很奇怪..."
+
+
 translate traditional_chinese ep004_jade_talk_04ce0fee:
 
-    # j "I can imagine."
-    j ""
 
-# game/episode004_conversations.rpy:1116
+    j "我能想象。"
+
+
 translate traditional_chinese ep004_jade_talk_c6a64283:
 
-    # c "I don't want to be alone right now, Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1117
+    c "我現在不想一個人呆着，傑德。"
+
+
 translate traditional_chinese ep004_jade_talk_1b0b8b0f:
 
-    # j "Of course, I understand."
-    j ""
 
-# game/episode004_conversations.rpy:1119
+    j "當然，我理解。"
+
+
 translate traditional_chinese ep004_jade_talk_54e54847:
 
-    # "Jade inched closer to me and I could feel her warmth enveloping me."
-    ""
 
-# game/episode004_conversations.rpy:1120
+    "傑德慢慢靠近我，我能感受到她的溫暖將我包圍。"
+
+
 translate traditional_chinese ep004_jade_talk_cb23cbb2:
 
-    # "We sat in silence for a while, until I felt her lips brush against my skin."
-    ""
 
-# game/episode004_conversations.rpy:1121
+    "我們沉默地坐了一會兒，直到我感覺她的嘴脣掠過我的皮膚。"
+
+
 translate traditional_chinese ep004_jade_talk_674fbb6d:
 
-    # j "I know just the thing to make you feel better."
-    j ""
 
-# game/episode004_conversations.rpy:1126
+    j "我知道如何讓你感覺好一點。"
+
+
 translate traditional_chinese ep004_jade_talk_2cf4a1f3:
 
-    # c "Very intriguing."
-    c ""
 
-# game/episode004_conversations.rpy:1127
+    c "非常有趣。"
+
+
 translate traditional_chinese ep004_jade_talk_7232a5d7:
 
-    # j "I can make this even more intriguing."
-    j ""
 
-# game/episode004_conversations.rpy:1130
+    j "我能讓這個更有趣。"
+
+
 translate traditional_chinese ep004_jade_talk_68089450:
 
-    # c "Frankly, I just want to fall asleep together."
-    c ""
 
-# game/episode004_conversations.rpy:1131
+    c "坦率地說，我只想和你一起睡着。"
+
+
 translate traditional_chinese ep004_jade_talk_5758db84:
 
-    # j "Of course, we'll just lie down."
-    j ""
 
-# game/episode004_conversations.rpy:1133
+    j "當然，我們只躺下。"
+
+
 translate traditional_chinese ep004_jade_talk_7e6f73a0:
 
-    # "And so we did."
-    ""
 
-# game/episode004_conversations.rpy:1134
+    "我們就這麼做了。"
+
+
 translate traditional_chinese ep004_jade_talk_7fc250cf:
 
-    # "Eventually I fell into a dreamless sleep."
-    ""
 
-# game/episode004_conversations.rpy:1137
+    "最終我陷入了無夢的睡眠。"
+
+
 translate traditional_chinese ep004_jade_talk_ffde3fa9:
 
-    # c "Frankly, I just want to fall asleep."
-    c ""
 
-# game/episode004_conversations.rpy:1138
+    c "坦率地說，我只想睡着。"
+
+
 translate traditional_chinese ep004_jade_talk_6fe543ba:
 
-    # c "This was a mistake, Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1140
+    c "這是個錯誤，傑德。"
+
+
 translate traditional_chinese ep004_jade_talk_2940949d:
 
-    # j "I understand, I'll leave you alone."
-    j ""
 
-# game/episode004_conversations.rpy:1141
+    j "我理解，我會讓你一個人。"
+
+
 translate traditional_chinese ep004_jade_talk_b89626e9:
 
-    # j "Sleep well, master."
-    j ""
 
-# game/episode004_conversations.rpy:1151
+    j "睡個好覺，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_356a8f96:
 
-    # "Her top and skirt quickly fell to the ground and the Twi'll stood meekly before me, waiting on my command."
-    ""
 
-# game/episode004_conversations.rpy:1152
+    "她的上衣和裙子迅速掉在地上，而特維爾人溫順地站在我面前，等待我的命令。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_51bec5fc:
 
-    # c "Go lie on the bed, head towards me."
-    c ""
 
-# game/episode004_conversations.rpy:1154
+    c "去牀上躺下，頭對着我。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_16dd6b0e:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode004_conversations.rpy:1155
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_90b598ab:
 
-    # j "Am I to be fucked?"
-    j ""
 
-# game/episode004_conversations.rpy:1156
+    j "是要操我嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_b3438df0:
 
-    # c "Don't ask questions, just do as your told."
-    c ""
 
-# game/episode004_conversations.rpy:1157
+    c "別問問題，照做就是。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_51ab263b:
 
-    # c "Lie on the bed."
-    c ""
 
-# game/episode004_conversations.rpy:1158
+    c "躺在牀上。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_5f13317e:
 
-    # "Jade did as she was told while I removed my shorts."
-    ""
 
-# game/episode004_conversations.rpy:1160
+    "傑德照做了，我脫掉了短褲。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_116a576c:
 
-    # "I slapped my cock against her cheek and janked her by the head towards my crotch."
-    ""
 
-# game/episode004_conversations.rpy:1161
+    "我把我的雞巴拍打在她的臉頰上，拽着她的頭拉向我的襠部。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_078bb63b:
 
-    # c "Open your mouth."
-    c ""
 
-# game/episode004_conversations.rpy:1162
+    c "張開你的嘴。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_16dd6b0e_1:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode004_conversations.rpy:1164
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_4e495afb:
 
-    # "Jade struggled as my hard cock entered her mouth and I pushed the veined shaft further and further."
-    ""
 
-# game/episode004_conversations.rpy:1166
+    "當我的硬雞巴進入她的嘴時，傑德掙扎着，而我推着那布滿血管的陰莖越來越深。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_3ef107ec:
 
-    # "Her eyes began to tear and she had trouble controlling her breathing."
-    ""
 
-# game/episode004_conversations.rpy:1167
+    "她的眼睛開始流淚，她難以控制呼吸。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_af41ac1c:
 
-    # "Just wanting to use her, I began to fuck her throat."
-    ""
 
-# game/episode004_conversations.rpy:1169
+    "我只是想使用她，開始插她的喉嚨。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_ccefc2aa:
 
-    # "She retched and gagged as I shoved my penis up and down, her throat bulging as my balls hit her lips."
-    ""
 
-# game/episode004_conversations.rpy:1170
+    "她乾嘔着哽噎着，當我在她口中上下抽插陰莖，我的蛋蛋撞到她的嘴脣時，她的喉嚨鼓脹起來。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_dccbbdb4:
 
-    # "During the short moments I allowed her to breathe she spat out thick strings of saliva."
-    ""
 
-# game/episode004_conversations.rpy:1172
+    "在我讓她喘氣的短暫瞬間，她吐出濃稠唾線。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_d1a739f5:
 
-    # "I rubbed her breasts and face with some of the drool, before pushing my cock inside her mouth again."
-    ""
 
-# game/episode004_conversations.rpy:1173
+    "我用一些唾液揉搓她的胸部和臉，然後再把我的雞巴塞進她嘴裡。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_cfeea012:
 
-    # "This was the first time I ever treated Jade like this and she was just as surprised by my behavior as I was."
-    ""
 
-# game/episode004_conversations.rpy:1175
+    "這是我第一次這樣對待傑德，她對我的行爲和我一樣驚訝。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_0a2b63de:
 
-    # "Just when she had adjusted to the throat-fucking I pulled out and turned her on her stomach."
-    ""
 
-# game/episode004_conversations.rpy:1176
+    "就在她適應了喉交時，我抽出來，讓她翻身趴着。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_b5b23ee9:
 
-    # c "Would you like to be fucked now, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1177
+    c "傑德，現在想被我操嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_c475163d:
 
-    # j "I'd love that, master."
-    j ""
 
-# game/episode004_conversations.rpy:1179
+    j "主人，我超愛。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_01060969:
 
-    # "In response, I slapped her ass hard, making her clench her teeth in pain."
-    ""
 
-# game/episode004_conversations.rpy:1180
+    "作爲回應，我狠狠打了她的屁股，讓她痛得咬緊牙關。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_28bc0b87:
 
-    # c "You have such a firm ass, Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1181
+    c "傑德，你的屁股真緊。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_091dab4c:
 
-    # j "Thank you, master."
-    j ""
 
-# game/episode004_conversations.rpy:1183
+    j "謝謝主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_f41e7980:
 
-    # "I slapped her again across the buttocks and she let out a small moan."
-    ""
 
-# game/episode004_conversations.rpy:1184
+    "我又打了她屁股一下，她發出一聲小小的呻吟。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_8f2fa4ab:
 
-    # c "Do you like being slapped, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1185
+    c "傑德，你喜歡被打嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_f16daadf:
 
-    # j "I do, master."
-    j ""
 
-# game/episode004_conversations.rpy:1187
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_c6e8882b:
 
-    # "I grabbed her ass and pulled her towards me."
-    ""
 
-# game/episode004_conversations.rpy:1188
+    "我抓住她的屁股，把她拉向我。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_777cc810:
 
-    # "Her pussy glistened wet as I pushed the head of my dick against her lips."
-    ""
 
-# game/episode004_conversations.rpy:1189
+    "當我用龜頭頂在她陰脣上時，她的陰戶閃閃發光溼漉漉的。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_eefec222:
 
-    # "She was ready for me, waiting for me to fuck her hard."
-    ""
 
-# game/episode004_conversations.rpy:1191
+    "她爲我準備好了，等我狠狠操她。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_99e0b23c:
 
-    # "Instead of entering her, I pushed her down and poked my tip against the delicate folds of her anus."
-    ""
 
-# game/episode004_conversations.rpy:1193
+    "沒有插入她，我推倒她，用龜頭戳弄她肛門精嫩的褶皺。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_cf72e7bb:
 
-    # j "Master?"
-    j ""
 
-# game/episode004_conversations.rpy:1194
+    j "主人？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_744bb989:
 
-    # "One hand pressed against her lower back, I pressed my cock against her rear opening."
-    ""
 
-# game/episode004_conversations.rpy:1196
+    "一隻手壓在她後腰，我把雞巴頂在她後門口。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_337007c4:
 
-    # "She whimpered as I pushed the head into her asshole."
-    ""
 
-# game/episode004_conversations.rpy:1197
+    "我推進龜頭到她的屁眼時，她嗚咽着。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_bfde25a4:
 
-    # "Jade and I had tried anal before, mostly using fingers and toys."
-    ""
 
-# game/episode004_conversations.rpy:1198
+    "我和傑德以前試過肛交，多數用手指和玩具。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_32a47297:
 
-    # "One attempt ended in mutual discomfort, as Jade couldn’t adjust to my girth."
-    ""
 
-# game/episode004_conversations.rpy:1199
+    "一次嘗試以互相不適告終，因爲傑德無法適應我的粗度。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_0ce68c4d:
 
-    # "I didn’t care about any of that at that moment and kept forcing my cock inside her tight asshole."
-    ""
 
-# game/episode004_conversations.rpy:1200
+    "當時我沒在意那些，只是不斷地把我的雞巴塞進她那緊緊的屁眼裡。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_87275f58:
 
-    # c "Can you take everything inside of you, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1202
+    c "你能全部都吞進去嗎，傑德？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_a85fa10a:
 
-    # j "I...{w} I...{w} Y-yes, m-master..."
-    j ""
 
-# game/episode004_conversations.rpy:1203
+    j "我...{w}我...{w}是-是的，主-主人..."
+
+
 translate traditional_chinese ep004_jade_sex_hard_d006b404:
 
-    # "It turned out she really could as I stuffed the last few inches of my dick inside."
-    ""
 
-# game/episode004_conversations.rpy:1204
+    "結果她真能吞進去，當我把最後幾英寸的雞巴塞進去時。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_9dd4e177:
 
-    # c "How do you feel, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1206
+    c "你覺得怎麼樣，傑德？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_7dc233db:
 
-    # j "So f-full, master."
-    j ""
 
-# game/episode004_conversations.rpy:1207
+    j "太-太滿了，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_969feadd:
 
-    # c "Do you want me to fuck your ass?"
-    c ""
 
-# game/episode004_conversations.rpy:1208
+    c "你想我操你的屁股嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_6105dbc5:
 
-    # c "Make you my little anal slut?"
-    c ""
 
-# game/episode004_conversations.rpy:1209
+    c "讓你做我的小肛交蕩婦？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_64af2f16:
 
-    # j "If you want, master."
-    j ""
 
-# game/episode004_conversations.rpy:1211
+    j "如果你想的話，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_29e4e784:
 
-    # "I realized I really wanted to and began to thrust back and forth."
-    ""
 
-# game/episode004_conversations.rpy:1212
+    "我意識到我真的想那樣做，於是開始前後抽插。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_42f04d0f:
 
-    # "Jade groaned in discomfort and held on to the bed tightly."
-    ""
 
-# game/episode004_conversations.rpy:1213
+    "傑德不舒服地呻吟着，緊緊地抓住牀。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_614af090:
 
-    # "As I fucked her butt she apparently began to feel accustomed to the feeling and I felt her relax."
-    ""
 
-# game/episode004_conversations.rpy:1215
+    "當我操着她的屁股時，她似乎開始習慣了感覺，我感覺她放鬆了。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_cdd1f1e3:
 
-    # "Her asshole was still very tight, but I no longer felt restricted in my movements, so I picked up the pace."
-    ""
 
-# game/episode004_conversations.rpy:1216
+    "她的屁眼還是很緊，但我感覺動作不再受限了，於是加快了速度。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_67f83db6:
 
-    # "With ever increasing speed I assaulted her ass, fucking her like an animal."
-    ""
 
-# game/episode004_conversations.rpy:1217
+    "以越來越快的速度攻擊她的屁股，像動物一樣操她。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_63b0577a:
 
-    # "Her groans turned into moans and yelps as my cock speared her anal cavity."
-    ""
 
-# game/episode004_conversations.rpy:1218
+    "當我雞巴穿刺她的肛腔時，她的呻吟變成了哼叫和尖叫。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_49aacbfc:
 
-    # c "Do you want me to go on, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1219
+    c "你想我繼續嗎，傑德？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_3a455e6c:
 
-    # j "Yes, yes master!"
-    j ""
 
-# game/episode004_conversations.rpy:1221
+    j "是的是的，主人！"
+
+
 translate traditional_chinese ep004_jade_sex_hard_087c2bc7:
 
-    # "As I didn’t want to do all the work, I grabbed Jade by the waist and hauled her on top of me as I lay down on the bed."
-    ""
 
-# game/episode004_conversations.rpy:1222
+    "我不並想一直自己動，我抓住傑德的腰，把她拖到我身上，同時我躺在牀上。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_29f27327:
 
-    # "She was now squatting on top of me, my throbbing shaft still rooted inside her rectum."
-    ""
 
-# game/episode004_conversations.rpy:1223
+    "她現在蹲在我上面，我勃起的傢伙還紮根在她直腸裏。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_40e324b5:
 
-    # c "Show me what an anal slut you really are, Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1224
+    c "讓我看看你是個怎樣的肛交蕩婦，傑德。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_16dd6b0e_2:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode004_conversations.rpy:1226
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_7eccc20b:
 
-    # "Jade obediently moved her ass up and down on my cock."
-    ""
 
-# game/episode004_conversations.rpy:1227
+    "傑德順從地在我的雞巴上上下移動屁股。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_4412fe26:
 
-    # "Holding her waist I complemented her movements by thrusting my hips upward, penetrating her ass even more deeply."
-    ""
 
-# game/episode004_conversations.rpy:1228
+    "我抓住她的腰，通過朝上挺髖配合她的動作，更深入地侵入她的屁股。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_111bbdea:
 
-    # "My balls slapped against her wet cunt as I fucked her asshole like it was her pussy."
-    ""
 
-# game/episode004_conversations.rpy:1234
+    "當我操着她的屁眼像操她的小穴一樣時，我的蛋蛋拍打着她溼漉漉的陰戶。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_7cb97fbd:
 
-    # "Roaring, I slammed my cock balls-deep inside her ass and erupted at the same time."
-    ""
 
-# game/episode004_conversations.rpy:1236
+    "我咆哮着，將肉棒猛地捅進她屁眼深處直抵睾丸，同時噴發而出。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_35d8a06d:
 
-    # "Holding her firmly down, I pumped semen inside her ass until I had spent every drop."
-    ""
 
-# game/episode004_conversations.rpy:1239
+    "我牢牢按住她，把精液泵進她屁眼裡，直到一滴不剩。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_a5ae03d9:
 
-    # "I allowed her to collapse on top of me, warm sticky cum dripping from her asshole."
-    ""
 
-# game/episode004_conversations.rpy:1241
+    "我讓她癱倒在我身上，溫熱的黏稠精液從她屁眼滴落。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_2604eae9:
 
-    # "Roaring, I withdrew my cock and pulled her head towards me."
-    ""
 
-# game/episode004_conversations.rpy:1244
+    "我咆哮着拔出肉棒，把她的頭拽向我。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_cabb0897:
 
-    # "She gasped and I thrust my veined shaft inside her open mouth, coating her throat with warm sticky cum."
-    ""
 
-# game/episode004_conversations.rpy:1245
+    "她倒抽氣時，我直接將青筋暴起的肉棒捅進她張開的嘴，黏稠精液糊滿了她喉嚨。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_69d5275a:
 
-    # "After swallowing my load, I allowed her to collapse on top of me."
-    ""
 
-# game/episode004_conversations.rpy:1248
+    "等她咽下我的精液後，我讓她癱倒在我身上。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_2604eae9_1:
 
-    # "Roaring, I withdrew my cock and pulled her head towards me."
-    ""
 
-# game/episode004_conversations.rpy:1250
+    "我咆哮着拔出肉棒，把她的頭拽向我。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_fbed59ae:
 
-    # "She gasped and I directed my veined shaft at her face, promptly coating her with warm sticky cum."
-    ""
 
-# game/episode004_conversations.rpy:1251
+    "她倒抽氣時，我直接把青筋暴起的肉棒對準她臉，瞬間糊了她滿臉溫熱的黏稠精液。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_36c63158:
 
-    # "After plastering her face with semen, I allowed her to collapse on top of me."
-    ""
 
-# game/episode004_conversations.rpy:1253
+    "等她臉上塗滿精液後，我讓她癱倒在我身上。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_652592a9:
 
-    # j "Did I satisfy you, master?"
-    j ""
 
-# game/episode004_conversations.rpy:1254
+    j "我讓主人滿意了嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_7784d39b:
 
-    # c "Yes, Jade, you did."
-    c ""
 
-# game/episode004_conversations.rpy:1256
+    c "是的傑德，你做到了。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_4fa6cb60:
 
-    # j "I certainly didn’t expect you to be so bold, master."
-    j ""
 
-# game/episode004_conversations.rpy:1260
+    j "我真沒想到主人會這麼狂野呢。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_81d37d02:
 
-    # c "Sorry, I didn’t know what came over me."
-    c ""
 
-# game/episode004_conversations.rpy:1262
+    c "對不起，我不知道自己怎麼了。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_90fd51a6:
 
-    # j "That’s okay."
-    j ""
 
-# game/episode004_conversations.rpy:1263
+    j "沒關係。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_991b37b0:
 
-    # j "I must admit that it hurt in the beginning, but later..."
-    j ""
 
-# game/episode004_conversations.rpy:1264
+    j "得承認剛開始很疼，但後來..."
+
+
 translate traditional_chinese ep004_jade_sex_hard_b619e555:
 
-    # j "You had such power over me."
-    j ""
 
-# game/episode004_conversations.rpy:1265
+    j "您完全掌控了我。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_6bcdae02:
 
-    # j "It was so different from what we ever did before."
-    j ""
 
-# game/episode004_conversations.rpy:1266
+    j "和我們以前做的完全不一樣。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_d3260ad3:
 
-    # j "But I liked it."
-    j ""
 
-# game/episode004_conversations.rpy:1267
+    j "但我喜歡。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_ba0948de:
 
-    # j "I liked it a lot."
-    j ""
 
-# game/episode004_conversations.rpy:1268
+    j "喜歡得要命。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_6a82811a:
 
-    # c "Be careful what you wish for, Jade."
-    c ""
 
-# game/episode004_conversations.rpy:1269
+    c "小心你喜歡的啊，傑德。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_19d012f5:
 
-    # j "Hah, I know, but next time I’ll be prepared."
-    j ""
 
-# game/episode004_conversations.rpy:1270
+    j "哈我知道，但下次我會準備好的。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_7aaf957c:
 
-    # c "Will you now?"
-    c ""
 
-# game/episode004_conversations.rpy:1272
+    c "哦？是嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_4bedca6a:
 
-    # "I slapped her teasingly across the buttocks and we fell asleep after that brief exchange."
-    ""
 
-# game/episode004_conversations.rpy:1274
+    "我戲謔地拍了下她屁股，簡短對話後我們就相擁入睡了。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_74208652:
 
-    # c "You’re my slave, Jade, I can do whatever I want with you."
-    c ""
 
-# game/episode004_conversations.rpy:1276
+    c "你是我的奴隸，傑德，老子想怎麼玩你都行。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_33ac508d:
 
-    # j "So I am, master."
-    j ""
 
-# game/episode004_conversations.rpy:1277
+    j "我就是這樣，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_d67cdcc4:
 
-    # j "Will you be using me again like this?"
-    j ""
 
-# game/episode004_conversations.rpy:1278
+    j "你會再這樣使用我嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_hard_f12b80c7:
 
-    # c "Maybe, if I feel like it."
-    c ""
 
-# game/episode004_conversations.rpy:1279
+    c "或許吧，如果我想的話。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_14850c03:
 
-    # j "I’ll be ready for you, master."
-    j ""
 
-# game/episode004_conversations.rpy:1280
+    j "我會爲您準備好，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_9aed9a2b:
 
-    # c "I’m counting on it."
-    c ""
 
-# game/episode004_conversations.rpy:1281
+    c "我就指望它了。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_a7026eda:
 
-    # c "Now go."
-    c ""
 
-# game/episode004_conversations.rpy:1282
+    c "現在走吧。"
+
+
 translate traditional_chinese ep004_jade_sex_hard_16dd6b0e_3:
 
-    # j "Yes, master."
-    j ""
 
-# game/episode004_conversations.rpy:1293
+    j "是的，主人。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_1a040145:
 
-    # "With one swift motion Jade unlaced her skirt and top and let them fall to the floor."
-    ""
 
-# game/episode004_conversations.rpy:1294
+    "傑德一個敏捷的動作解開她的裙子和上衣，讓它們掉到地板上。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_1c27fc31:
 
-    # "She stood naked before me, ready for anything."
-    ""
 
-# game/episode004_conversations.rpy:1296
+    "她裸體站在我面前，準備好任何事情。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_1e2c07f2:
 
-    # "I laid back and she crept on top of me, grabbing my cock in her soft hands."
-    ""
 
-# game/episode004_conversations.rpy:1297
+    "我躺下，她爬到我的上面，用她的柔軟手抓住我的陰莖。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_d6405d35:
 
-    # "Jade had me erect in seconds, jerking my cock in her tight fist."
-    ""
 
-# game/episode004_conversations.rpy:1299
+    "傑德在幾秒內就讓我勃起，用她緊握的手猛拉我的陰莖。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_801058aa:
 
-    # "Touching the exposed head with the tips of her fingers she nearly made me cum."
-    ""
 
-# game/episode004_conversations.rpy:1301
+    "她用指尖觸摸暴露的龜頭，幾乎讓我射精。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_8b43297a:
 
-    # "Instead she waited and lapped up the precum that flowed freely."
-    ""
 
-# game/episode004_conversations.rpy:1302
+    "相反，她等待並舔掉自由流出的前液。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_c5625165:
 
-    # j "Do you want to fuck me, master?"
-    j ""
 
-# game/episode004_conversations.rpy:1303
+    j "你想操我嗎，主人？"
+
+
 translate traditional_chinese ep004_jade_sex_soft_56129853:
 
-    # c "Yes, I do Jade!"
-    c ""
 
-# game/episode004_conversations.rpy:1305
+    c "是的，我想，傑德！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_074d2e3f:
 
-    # "The girl squatted on top of me and guided my veined shaft inside her cunt."
-    ""
 
-# game/episode004_conversations.rpy:1306
+    "那個女孩蹲在我上面，引導我靜脈遍布的陰莖插入她的陰道。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_bcb067b4:
 
-    # "She looked at me in delight as the entire length disappeared inside her wet slit."
-    ""
 
-# game/episode004_conversations.rpy:1307
+    "她高興地看着我，當整個長度消失在她溼潤的陰裂裏。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_b3c6bc6e:
 
-    # j "Mmmm, [p_name]!"
-    j ""
 
-# game/episode004_conversations.rpy:1309
+    j "嗯嗯，[p_name]！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_46359aa8:
 
-    # "Holding her by the waist I urged her to pleasure me and she began to rock back and forth."
-    ""
 
-# game/episode004_conversations.rpy:1310
+    "握住她的腰，我催促她取悅我，她開始前後搖動。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_c2b56373:
 
-    # "Her tight pussy stimulated my cock perfectly as she fucked me with ever increasing speed."
-    ""
 
-# game/episode004_conversations.rpy:1312
+    "她緊緻的陰部完美地刺激了我的陰莖，當她以越來越快的速度操我。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_2da48840:
 
-    # "Jade’s body slammed down on me as she rode me cowgirl, my balls hitting her ass."
-    ""
 
-# game/episode004_conversations.rpy:1313
+    "當傑德騎乘我時，她的身體猛地撞到我，我的睾丸撞到她的屁股。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_80f90940:
 
-    # "When my cock slipped from her wet gash, she bit her lip and turned around, offering me a view of her ass."
-    ""
 
-# game/episode004_conversations.rpy:1315
+    "當我的陰莖從她溼潤的裂口中滑出時，她咬住嘴脣轉過身來，讓我看她的屁股。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_488f9eb4:
 
-    # "The girl lowered herself on top of my dick again, slipping it past her swollen lower lips."
-    ""
 
-# game/episode004_conversations.rpy:1316
+    "那個女孩再次坐到我的雞巴上，讓它滑過她腫脹的陰脣。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_bc8b26f1:
 
-    # "The juices from her cunt streamed down my throbbing shaft as she bounced her body up and down."
-    ""
 
-# game/episode004_conversations.rpy:1318
+    "她的陰道流出的汁液順着我悸動的陰莖流下，當她上下彈跳身體時。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_699ac4e3:
 
-    # "I couldn’t resist playing with her ass and ran a finger between her ass cheeks."
-    ""
 
-# game/episode004_conversations.rpy:1319
+    "我忍不住玩弄她的屁股，手指沿着她的臀縫遊走。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_d633b789:
 
-    # j "Mmmm!"
-    j ""
 
-# game/episode004_conversations.rpy:1320
+    j "嗯嗯！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_701ad17d:
 
-    # "Emboldened by her moans I pushed my finger against the delicate folds of her anus."
-    ""
 
-# game/episode004_conversations.rpy:1322
+    "她的呻吟壯了我的膽，我將手指抵住她菊花的嬌嫩褶皺。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_aa2b5e5a:
 
-    # "Jade started fingering her pussy while I slipped a digit inside her anus."
-    ""
 
-# game/episode004_conversations.rpy:1324
+    "傑德開始撫弄自己的小穴，同時我將一根手指滑進她的後庭。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_767bbda8:
 
-    # "The girl was fingered front and back now and seemed to enjoy the sensation thoroughly."
-    ""
 
-# game/episode004_conversations.rpy:1325
+    "此刻女孩前後穴同時被手指侵入，似乎完全沉醉在這雙重刺激中。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_b48aa750:
 
-    # c "Do you want me to go further, Jade?"
-    c ""
 
-# game/episode004_conversations.rpy:1326
+    c "要我繼續深入嗎，傑德？"
+
+
 translate traditional_chinese ep004_jade_sex_soft_aad92f59:
 
-    # j "Yes!{w} Yes please!"
-    j ""
 
-# game/episode004_conversations.rpy:1327
+    j "要！{w} 是的求你了！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_cac9cb74:
 
-    # "Lifting Jade off my cock I allowed her to get on all fours."
-    ""
 
-# game/episode004_conversations.rpy:1329
+    "我託起傑德讓她離開我的雞巴，引導她擺出四腳着地的姿勢。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_1ce0145f:
 
-    # "One hand pressed against her lower back, I pressed my cock against her opening."
-    ""
 
-# game/episode004_conversations.rpy:1330
+    "一手按着她的後腰，我將漲硬的肉棒頂住她的後庭入口。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_bfde25a4:
 
-    # "Jade and I had tried anal before, mostly using fingers and toys."
-    ""
 
-# game/episode004_conversations.rpy:1331
+    "我和傑德之前試過肛交，但多用手指和玩具。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_32a47297:
 
-    # "One attempt ended in mutual discomfort, as Jade couldn’t adjust to my girth."
-    ""
 
-# game/episode004_conversations.rpy:1332
+    "有次因我的尺寸令她難以適應，最終雙方都覺不適。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_ad1d2c19:
 
-    # "This time seemed to be different for both of us."
-    ""
 
-# game/episode004_conversations.rpy:1334
+    "這次我們倆似乎都不同了。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_434ae30e:
 
-    # "Jade seemed to be completely relaxed and my dick was slick with her juices so the tip slid easily inside her rectum."
-    ""
 
-# game/episode004_conversations.rpy:1335
+    "傑德完全放鬆下來，沾滿她愛液的雞巴讓龜頭輕易滑入直腸。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_38f1f856:
 
-    # "She bit her lip as I pushed the entirety of my veined shaft slowly into her asshole."
-    ""
 
-# game/episode004_conversations.rpy:1337
+    "當我筋脈凸起的雞巴緩緩整根沒入她肛門時，她咬住了嘴脣。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_f09ba135:
 
-    # j "I f-feel s-so f-full, [p_name_short]!"
-    j ""
 
-# game/episode004_conversations.rpy:1338
+    j "我感-感覺好-好滿，[p_name_short]！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_969feadd:
 
-    # c "Do you want me to fuck your ass?"
-    c ""
 
-# game/episode004_conversations.rpy:1339
+    c "想讓我操你的屁股嗎？"
+
+
 translate traditional_chinese ep004_jade_sex_soft_b9f08a04:
 
-    # j "Yes!"
-    j ""
 
-# game/episode004_conversations.rpy:1340
+    j "想！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_c415ca76:
 
-    # j "Fuck my ass, please!"
-    j ""
 
-# game/episode004_conversations.rpy:1342
+    j "操我的屁股，快！"
+
+
 translate traditional_chinese ep004_jade_sex_soft_93c6cfac:
 
-    # "Jade moaned and held on to the bed tightly as I began to thrust back and forth."
-    ""
 
-# game/episode004_conversations.rpy:1343
+    "我開始前後抽插時，傑德緊抓牀單發出悠長呻吟。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_0d5c0d73:
 
-    # "As I fucked her butt she relaxed and gave in to the sensation of her ass being filled with a thick cock."
-    ""
 
-# game/episode004_conversations.rpy:1345
+    "隨着屁股被粗壯肉棒填滿，她徹底放鬆身體沉浸其中。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_cdd1f1e3:
 
-    # "Her asshole was still very tight, but I no longer felt restricted in my movements, so I picked up the pace."
-    ""
 
-# game/episode004_conversations.rpy:1346
+    "她的後穴仍然緊緻，但我不再感到阻滯，於是加快了節奏。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_45a9c109:
 
-    # "With ever increasing speed I fucked her ass and her soft moans turned into groans of true pleasure."
-    ""
 
-# game/episode004_conversations.rpy:1348
+    "抽插速度越來越快，她柔媚的哼吟變成了暢快的浪叫。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_f4606de1:
 
-    # "Trying for another position, I grabbed Jade by the waist and hauled her on top of me as I lay down on the bed."
-    ""
 
-# game/episode004_conversations.rpy:1349
+    "我忽然攬住傑德的腰翻倒牀上，換成面對面的騎乘位。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_29f27327:
 
-    # "She was now squatting on top of me, my throbbing shaft still rooted inside her rectum."
-    ""
 
-# game/episode004_conversations.rpy:1351
+    "她蹲跨在我身上，我悸動的肉棒仍深埋在她直腸裏。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_f4ee5f67:
 
-    # "Deliriously, Jade moved her ass up and down on my cock."
-    ""
 
-# game/episode004_conversations.rpy:1352
+    "恍惚中，傑德用她的翹臀上下套弄着我的肉棒。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_4412fe26:
 
-    # "Holding her waist I complemented her movements by thrusting my hips upward, penetrating her ass even more deeply."
-    ""
 
-# game/episode004_conversations.rpy:1353
+    "我掐住她的腰，配合她的擺動向上挺胯，將陰莖更深地捅進她後穴。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_111bbdea:
 
-    # "My balls slapped against her wet cunt as I fucked her asshole like it was her pussy."
-    ""
 
-# game/episode004_conversations.rpy:1359
+    "當我像操小穴般抽插她屁眼時，我的卵蛋拍打着她溼漉漉的陰戶。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_7cb97fbd:
 
-    # "Roaring, I slammed my cock balls-deep inside her ass and erupted at the same time."
-    ""
 
-# game/episode004_conversations.rpy:1361
+    "我低吼着將肉棒齊根頂進她肛門深處，同時在她體內爆發出來。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_35d8a06d:
 
-    # "Holding her firmly down, I pumped semen inside her ass until I had spent every drop."
-    ""
 
-# game/episode004_conversations.rpy:1364
+    "我死死按住她的腰，將精液一波波注入她腸道，直到射盡最後一滴。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_8639d42b:
 
-    # "She collapsed on top of me, warm sticky cum dripping from her asshole."
-    ""
 
-# game/episode004_conversations.rpy:1366
+    "她癱軟在我身上，溫熱的精液從她肛門口不斷滴落。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_2604eae9:
 
-    # "Roaring, I withdrew my cock and pulled her head towards me."
-    ""
 
-# game/episode004_conversations.rpy:1369
+    "我吼叫着拔出肉棒，將她的頭拽向自己。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_cabb0897:
 
-    # "She gasped and I thrust my veined shaft inside her open mouth, coating her throat with warm sticky cum."
-    ""
 
-# game/episode004_conversations.rpy:1370
+    "她倒抽口氣時，我立即將青筋暴起的陰莖插進她張開的嘴，黏稠精液糊滿了她的喉嚨。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_7274576f:
 
-    # "After swallowing my load with a broad smile and collapsed on top of me."
-    ""
 
-# game/episode004_conversations.rpy:1373
+    "她笑容滿面地咽下我的精液，隨後癱倒在我身上。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_2604eae9_1:
 
-    # "Roaring, I withdrew my cock and pulled her head towards me."
-    ""
 
-# game/episode004_conversations.rpy:1375
+    "我吼叫着拔出肉棒，將她的頭拽向自己。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_fbed59ae:
 
-    # "She gasped and I directed my veined shaft at her face, promptly coating her with warm sticky cum."
-    ""
 
-# game/episode004_conversations.rpy:1376
+    "她倒抽口氣時，我當即把青筋暴起的肉棒對準她臉蛋，溫熱的濃精瞬間糊了她滿臉。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_d8915b42:
 
-    # "After plastering my face with semen, she collapsed on top of me with a broad smile."
-    ""
 
-# game/episode004_conversations.rpy:1378
+    "待精液塗滿整張臉後，她掛着燦爛的笑容癱倒在我身上。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_dc0bcc03:
 
-    # j "That was something else."
-    j ""
 
-# game/episode004_conversations.rpy:1379
+    j "這體驗真是絕了。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_8aec53f1:
 
-    # c "It sure was."
-    c ""
 
-# game/episode004_conversations.rpy:1381
+    c "確實是。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_7fd42c83:
 
-    # j "I didn’t know it could be so...{w} You know...{w} So intense."
-    j ""
 
-# game/episode004_conversations.rpy:1383
+    j "沒想到會這麼...{w}該怎麼說呢...{w}激烈。"
+
+
 translate traditional_chinese ep004_jade_sex_soft_a7080a52:
 
-    # "Jade kissed me and we fell asleep after that brief exchange."
-    ""
+
+    "傑德吻了我，短暫交談後我們便相擁入眠。"
 
 translate traditional_chinese strings:
 
-    # game/episode004_conversations.rpy:133
+
     old "About Raene"
-    new ""
+    new "關於蕾妮"
 
-    # game/episode004_conversations.rpy:133
+
     old "About Vess"
-    new ""
+    new "關於薇絲"
 
-    # game/episode004_conversations.rpy:346
+
     old "About university"
-    new ""
+    new "關於大學"
 
-    # game/episode004_conversations.rpy:346
+
     old "Life after Tuolovi"
-    new ""
+    new "離開託洛維星之後的生活"
 
-    # game/episode004_conversations.rpy:346
+
     old "Life outside Sovereignty"
-    new ""
+    new "\"至高權域\"之外的生活"
 
-    # game/episode004_conversations.rpy:429
+
     old "It’s human nature"
-    new ""
+    new "人性如此"
 
-    # game/episode004_conversations.rpy:429
+
     old "Don’t do it again"
-    new ""
+    new "下不爲例"
 
-    # game/episode004_conversations.rpy:611
+
     old "Drink with them"
-    new ""
+    new "陪他們喝酒"
 
-    # game/episode004_conversations.rpy:611
+
     old "No thanks"
-    new ""
+    new "謝謝不用"
 
-    # game/episode004_conversations.rpy:819
+
     old "Confront them"
-    new ""
+    new "對質他們"
 
-    # game/episode004_conversations.rpy:819
+
     old "Leave them be"
-    new ""
+    new "隨他們去吧"
 
-    # game/episode004_conversations.rpy:855
+
     old "Say something nice"
-    new ""
+    new "說點好話"
 
-    # game/episode004_conversations.rpy:855
+
     old "Leave"
-    new ""
+    new "離開"
 
-    # game/episode004_conversations.rpy:873
+
     old "Doubt"
-    new ""
+    new "懷疑"
 
-    # game/episode004_conversations.rpy:953
+
     old "About the Rhenkoy"
-    new ""
+    new "關於倫科伊族"
 
-    # game/episode004_conversations.rpy:953
+
     old "About Skarak"
-    new ""
+    new "關於斯卡拉剋星"
 
-    # game/episode004_conversations.rpy:953
+
     old "About Luzane"
-    new ""
+    new "關於盧贊妮"
 
-    # game/episode004_conversations.rpy:975
+
     old "Press the issue"
-    new ""
+    new "堅持追問問題"
 
-    # game/episode004_conversations.rpy:975
+
     old "Relent"
-    new ""
+    new "緩和"
 
-    # game/episode004_conversations.rpy:1003
+
     old "Ask about Rhenkoy genitals"
-    new ""
+    new "詢問倫科伊族的生殖器"
 
-    # game/episode004_conversations.rpy:1003
+
     old "Ask if she has a cock"
-    new ""
+    new "詢問她是否有雞巴"
 
-    # game/episode004_conversations.rpy:1003
+
     old "Forget it"
-    new ""
+    new "算了"
 
-    # game/episode004_conversations.rpy:1089
+
     old "Put her in her place"
-    new ""
+    new "讓她知道自己的位置"
 
-    # game/episode004_conversations.rpy:1089
+
     old "Laugh"
-    new ""
+    new "笑一下"
 
-    # game/episode004_conversations.rpy:1123
+
     old "Go on"
-    new ""
+    new "繼續"
 
-    # game/episode004_conversations.rpy:1230
+
     old "Anal creampie"
-    new ""
+    new "肛內射精"
 
-    # game/episode004_conversations.rpy:1257
+
     old "Don’t apologize"
-    new ""
+    new "別道歉"
 
+
+
+translate traditional_chinese ep004_jade_sex_soft_5ca849a8:
+
+
+    "待精液塗滿整張臉後，她掛着燦爛的笑容癱倒在我身上。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

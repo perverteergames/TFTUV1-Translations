@@ -1,824 +1,824 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode012a_conversations.rpy:52
+
+
 translate traditional_chinese ep012_nadya_talk_e0187b25:
 
-    # c "Hey, are you alright?"
-    c ""
 
-# game/episode012a_conversations.rpy:53
+    c "嘿，你還好嗎？"
+
+
 translate traditional_chinese ep012_nadya_talk_0f52b7af:
 
-    # na "Yes, yes I am."
-    na ""
 
-# game/episode012a_conversations.rpy:54
+    na "是的，我沒事。"
+
+
 translate traditional_chinese ep012_nadya_talk_5977e4e6:
 
-    # c "You don’t approve of us going to Kepler?"
-    c ""
 
-# game/episode012a_conversations.rpy:56
+    c "你不贊成我們去開普勒星嗎？"
+
+
 translate traditional_chinese ep012_nadya_talk_5456d692:
 
-    # na "I think it’s risky and we should explore other options first."
-    na ""
 
-# game/episode012a_conversations.rpy:57
+    na "我覺得這很危險，我們應該先探索其他選項。"
+
+
 translate traditional_chinese ep012_nadya_talk_b8cb438f:
 
-    # c "What options?"
-    c ""
 
-# game/episode012a_conversations.rpy:59
+    c "什麼選項？"
+
+
 translate traditional_chinese ep012_nadya_talk_15057031:
 
-    # na "I...{w} I don’t know."
-    na ""
 
-# game/episode012a_conversations.rpy:60
+    na "我...{w} 我不知道。"
+
+
 translate traditional_chinese ep012_nadya_talk_a0d3ae36:
 
-    # na "It’s just that Kepler brings back so many memories."
-    na ""
 
-# game/episode012a_conversations.rpy:61
+    na "只是開普勒星勾起好多回憶。"
+
+
 translate traditional_chinese ep012_nadya_talk_166c75a0:
 
-    # c "Happy memories, I hope?"
-    c ""
 
-# game/episode012a_conversations.rpy:63
+    c "是快樂的回憶吧，我希望？"
+
+
 translate traditional_chinese ep012_nadya_talk_2ada41a7:
 
-    # na "Yes, the majority are."
-    na ""
 
-# game/episode012a_conversations.rpy:65
+    na "是的，大部分是。"
+
+
 translate traditional_chinese ep012_nadya_talk_a977efd2:
 
-    # na "But we’re not going on some beach holiday."
-    na ""
 
-# game/episode012a_conversations.rpy:66
+    na "但我們這不是去沙灘度假。"
+
+
 translate traditional_chinese ep012_nadya_talk_91b6a882:
 
-    # na "Confronting Agust is a dangerous endeavour."
-    na ""
 
-# game/episode012a_conversations.rpy:67
+    na "面對阿古斯特是危險的任務。"
+
+
 translate traditional_chinese ep012_nadya_talk_a157bd97:
 
-    # na "He’s always been a merciless hotheaded man."
-    na ""
 
-# game/episode012a_conversations.rpy:68
+    na "他向來是個冷酷衝動的傢伙。"
+
+
 translate traditional_chinese ep012_nadya_talk_40c47ab6:
 
-    # c "Believe me, I know."
-    c ""
 
-# game/episode012a_conversations.rpy:70
+    c "相信我，我知道的。"
+
+
 translate traditional_chinese ep012_nadya_talk_927dd2a6:
 
-    # na "Just...{w} Just be careful, okay?"
-    na ""
 
-# game/episode012a_conversations.rpy:71
+    na "只是...{w} 只是小心點，好嗎？"
+
+
 translate traditional_chinese ep012_nadya_talk_e5e957b2:
 
-    # c "Of course I will."
-    c ""
 
-# game/episode012a_conversations.rpy:76
+    c "當然我會的。"
+
+
 translate traditional_chinese ep012_nadya_talk_69624740:
 
-    # "Nadya accepted my embrace unconditionally."
-    ""
 
-# game/episode012a_conversations.rpy:77
+    "娜迪亞無條件接受了我的擁抱。"
+
+
 translate traditional_chinese ep012_nadya_talk_91123f45:
 
-    # na "I don’t want to lose you again."
-    na ""
 
-# game/episode012a_conversations.rpy:78
+    na "我不想再失去你了。"
+
+
 translate traditional_chinese ep012_nadya_talk_5531c704:
 
-    # c "You won’t."
-    c ""
 
-# game/episode012a_conversations.rpy:81
+    c "你不會的。"
+
+
 translate traditional_chinese ep012_nadya_talk_42adc55d:
 
-    # "When she looked up at me, tears filled her eyes."
-    ""
 
-# game/episode012a_conversations.rpy:82
+    "當她抬頭看我時，眼裡滿是淚水。"
+
+
 translate traditional_chinese ep012_nadya_talk_61a24d1d:
 
-    # "I was sure she was about to kiss me, but Nadya tore away suddenly, looked at me with wide eyes and left without a word."
-    ""
 
-# game/episode012a_conversations.rpy:84
+    "我很確定她要吻我，但娜迪亞突然掙脫開，睜大眼睛看着我，然後一言不發地離開了。"
+
+
 translate traditional_chinese ep012_nadya_talk_1876cca4:
 
-    # "Nadya eventually left my warm embrace and got back to studying her books."
-    ""
 
-# game/episode012a_conversations.rpy:86
+    "娜迪亞最終離開了我的溫暖擁抱，回到了她的書本中。"
+
+
 translate traditional_chinese ep012_nadya_talk_f2713f0c:
 
-    # "A little confused, I left her."
-    ""
 
-# game/episode012a_conversations.rpy:92
+    "我有點困惑，離開了她。"
+
+
 translate traditional_chinese ep012_kit_talk_b8452424:
 
-    # ki "Hey man, how are you holding up?"
-    ki ""
 
-# game/episode012a_conversations.rpy:93
+    ki "嘿，老兄，你挺得住嗎？"
+
+
 translate traditional_chinese ep012_kit_talk_7fbe6db4:
 
-    # c "I’m okay."
-    c ""
 
-# game/episode012a_conversations.rpy:96
+    c "我沒事。"
+
+
 translate traditional_chinese ep012_kit_talk_aa4c8282:
 
-    # ki "Are you though, I got the impression you and Vess were friends?"
-    ki ""
 
-# game/episode012a_conversations.rpy:98
+    ki "真的嗎？我覺得你之前和薇絲是朋友？"
+
+
 translate traditional_chinese ep012_kit_talk_a8a2a343:
 
-    # ki "Are you though, I got the impression you and Vess were a thing?"
-    ki ""
 
-# game/episode012a_conversations.rpy:100
+    ki "真的嗎？我覺得你之前和薇絲是一對兒？"
+
+
 translate traditional_chinese ep012_kit_talk_b25917ea:
 
-    # c "We were."
-    c ""
 
-# game/episode012a_conversations.rpy:102
+    c "我們是。"
+
+
 translate traditional_chinese ep012_kit_talk_ae2d8888:
 
-    # c "No, just talked from time to time."
-    c ""
 
-# game/episode012a_conversations.rpy:105
+    c "不，只是時不時聊聊天。"
+
+
 translate traditional_chinese ep012_kit_talk_3a51811a:
 
-    # ki "Her betrayal must have hit you twice as hard."
-    ki ""
 
-# game/episode012a_conversations.rpy:107
+    ki "她的背叛肯定讓你倍加受傷。"
+
+
 translate traditional_chinese ep012_kit_talk_74b4f3b6:
 
-    # c "Yeah, I’d throw her out an airlock right now if she didn’t have anything useful to tell us."
-    c ""
 
-# game/episode012a_conversations.rpy:109
+    c "是啊，如果她沒什麼有用的東西告訴我們，我現在就想把她扔出氣閘。"
+
+
 translate traditional_chinese ep012_kit_talk_183bbe39:
 
-    # c "It did."
-    c ""
 
-# game/episode012a_conversations.rpy:110
+    c "確實。"
+
+
 translate traditional_chinese ep012_kit_talk_dbf61ce0:
 
-    # c "I’m sure she felt compelled to do the things she did, but still, she betrayed my trust."
-    c ""
 
-# game/episode012a_conversations.rpy:112
+    c "我肯定她是被迫才做那些事的，但她還是背叛了我的信任。"
+
+
 translate traditional_chinese ep012_kit_talk_3f10b1f9:
 
-    # ki "She sure did."
-    ki ""
 
-# game/episode012a_conversations.rpy:113
+    ki "是的。"
+
+
 translate traditional_chinese ep012_kit_talk_93517341:
 
-    # ki "I knew there was something off about her."
-    ki ""
 
-# game/episode012a_conversations.rpy:115
+    ki "我早就覺得她有點不對勁。"
+
+
 translate traditional_chinese ep012_kit_talk_543432d3:
 
-    # c "So you’ve told me."
-    c ""
 
-# game/episode012a_conversations.rpy:116
+    c "所以你告訴過我。"
+
+
 translate traditional_chinese ep012_kit_talk_38cee0c7:
 
-    # ki "Yeah, not that it’s any help now."
-    ki ""
 
-# game/episode012a_conversations.rpy:118
+    ki "是啊，現在說這些也沒什麼用了。"
+
+
 translate traditional_chinese ep012_kit_talk_20d31919:
 
-    # c "You did?"
-    c ""
 
-# game/episode012a_conversations.rpy:119
+    c "你告訴過？"
+
+
 translate traditional_chinese ep012_kit_talk_f83e7afb:
 
-    # ki "Yeah, all hindsight of course."
-    ki ""
 
-# game/episode012a_conversations.rpy:121
+    ki "嗯，都是馬後炮罷了。"
+
+
 translate traditional_chinese ep012_kit_talk_dd787f7b:
 
-    # ki "I don’t know what I’d do in your stead, but airlocking sure sounds appealing."
-    ki ""
 
-# game/episode012a_conversations.rpy:122
+    ki "我不知道如果是我會怎麼做，但把她扔出氣閘聽着挺吸引人的。"
+
+
 translate traditional_chinese ep012_kit_talk_26d59e79:
 
-    # c "I might not have the stomach for it ultimately, but I’d better avoid being alone in the same room with her."
-    c ""
 
-# game/episode012a_conversations.rpy:124
+    c "我可能最終還是沒膽子下手，但最好避免和她單獨在一個房間裡。"
+
+
 translate traditional_chinese ep012_kit_talk_0464ac8c:
 
-    # ki "I don’t know what I’d do in your stead, but I’d make sure she knew how much she hurt me."
-    ki ""
 
-# game/episode012a_conversations.rpy:125
+    ki "我不知道如果是我會怎麼做，但我會讓她知道自己傷我有多深。"
+
+
 translate traditional_chinese ep012_kit_talk_9fc4238a:
 
-    # c "Oh, she knows."
-    c ""
 
-# game/episode012a_conversations.rpy:127
+    c "噢，她知道的。"
+
+
 translate traditional_chinese ep012_kit_talk_ecc8ab6e:
 
-    # ki "Well, if you ever need a stiff drink and some distraction, you know I’m your man."
-    ki ""
 
-# game/episode012a_conversations.rpy:128
+    ki "嗯，如果你需要喝杯烈酒散散心，你知道我能陪你。"
+
+
 translate traditional_chinese ep012_kit_talk_a182c90f:
 
-    # c "I do, thanks Kit."
-    c ""
 
-# game/episode012a_conversations.rpy:130
+    c "我知道，謝謝你基特。"
+
+
 translate traditional_chinese ep012_kit_talk_0b16533e:
 
-    # ki "I might even throw in a couple of those philosophical monologues on the trustworthiness of women, people appreciate so much, or so I’ve been told."
-    ki ""
 
-# game/episode012a_conversations.rpy:131
+    ki "我還可以穿插幾句關於女人可信度的哲學獨白，據說大家挺欣賞這個的。"
+
+
 translate traditional_chinese ep012_kit_talk_716cce3d:
 
-    # c "You mean those drunken misogynist ramblings you sometimes spew?"
-    c ""
 
-# game/episode012a_conversations.rpy:133
+    c "你是說你有時說的那些酒後厭惡女性的廢話嗎？"
+
+
 translate traditional_chinese ep012_kit_talk_abdd3eb8:
 
-    # ki "Ouch, you don’t pull any punches, do you, [p_name_short]?"
-    ki ""
 
-# game/episode012a_conversations.rpy:134
+    ki "哇，你真是一點都不委婉啊，是吧，[p_name_short]？"
+
+
 translate traditional_chinese ep012_kit_talk_d3d2a5d6:
 
-    # c "People appreciate that about me, or so I’ve been told."
-    c ""
 
-# game/episode012a_conversations.rpy:136
+    c "據說人們還挺欣賞我這點的。"
+
+
 translate traditional_chinese ep012_kit_talk_3920c21b:
 
-    # ki "Fuck you, [p_name_short]!"
-    ki ""
 
-# game/episode012a_conversations.rpy:137
+    ki "操你，[p_name_short]！"
+
+
 translate traditional_chinese ep012_kit_talk_6e10108a:
 
-    # c "Fuck you too!"
-    c ""
 
-# game/episode012a_conversations.rpy:143
+    c "也操你！"
+
+
 translate traditional_chinese ep012_thim_talk_0ccc7c83:
 
-    # t "So we’re really going to Kepler?"
-    t ""
 
-# game/episode012a_conversations.rpy:144
+    t "這麼說我們真要去開普勒星了？"
+
+
 translate traditional_chinese ep012_thim_talk_4825741a:
 
-    # c "We are."
-    c ""
 
-# game/episode012a_conversations.rpy:145
+    c "是的。"
+
+
 translate traditional_chinese ep012_thim_talk_933335ad:
 
-    # c "Ever been there?"
-    c ""
 
-# game/episode012a_conversations.rpy:147
+    c "去過那兒嗎？"
+
+
 translate traditional_chinese ep012_thim_talk_cc61c707:
 
-    # t "Plenty of times, it’s the rich kids paradise after all."
-    t ""
 
-# game/episode012a_conversations.rpy:148
+    t "常去，畢竟是有錢小孩的樂園。"
+
+
 translate traditional_chinese ep012_thim_talk_a9624074:
 
-    # c "Yeah, but at the time when I was a rich kid it seemed a little more innocent."
-    c ""
 
-# game/episode012a_conversations.rpy:149
+    c "是啊，不過我當富二代那會兒這地方還純良些。"
+
+
 translate traditional_chinese ep012_thim_talk_ee809232:
 
-    # c "Didn’t know about all the seedy brothels and security checks everywhere."
-    c ""
 
-# game/episode012a_conversations.rpy:151
+    c "不知道到處是下流妓院，到處要安檢。"
+
+
 translate traditional_chinese ep012_thim_talk_667431b9:
 
-    # t "You’re not planning on flying into a spaceport and hope for the best?"
-    t ""
 
-# game/episode012a_conversations.rpy:152
+    t "你不會打算硬闖太空港碰運氣吧？"
+
+
 translate traditional_chinese ep012_thim_talk_7c1f19c3:
 
-    # c "No, I was hoping Thyia would have some ideas."
-    c ""
 
-# game/episode012a_conversations.rpy:153
+    c "沒，我本希望塞婭能有好主意。"
+
+
 translate traditional_chinese ep012_thim_talk_344d739a:
 
-    # t "She might, but I’m pretty sure any alterations to the ship’s signature wouldn’t stand up to scrutiny if anybody gets a closer look."
-    t ""
 
-# game/episode012a_conversations.rpy:154
+    t "她或許有招，但我敢說飛船信號無論怎麼僞裝，經不起仔細檢查。"
+
+
 translate traditional_chinese ep012_thim_talk_60b75895:
 
-    # t "So you might clear the orbital checkpoints, but on the ground..."
-    t ""
 
-# game/episode012a_conversations.rpy:155
+    t "所以軌道哨卡可能混過去，但地面就..."
+
+
 translate traditional_chinese ep012_thim_talk_5abbae89:
 
-    # c "I know.{w} Still working on it."
-    c ""
 
-# game/episode012a_conversations.rpy:157
+    c "我知道。{w}還在想辦法。"
+
+
 translate traditional_chinese ep012_thim_talk_bfe07180:
 
-    # t "My family owns a coastal estate on Kepler, it has a private landing pad"
-    t ""
 
-# game/episode012a_conversations.rpy:158
+    t "我家在開普勒有海濱莊園，帶私人着陸臺"
+
+
 translate traditional_chinese ep012_thim_talk_3064eaac:
 
-    # t "No security once you’re past the orbital defences."
-    t ""
 
-# game/episode012a_conversations.rpy:159
+    t "只要穿過軌道防禦就沒有警衛了。"
+
+
 translate traditional_chinese ep012_thim_talk_bd497a61:
 
-    # c "Isn’t it occupied this time of the year?"
-    c ""
 
-# game/episode012a_conversations.rpy:160
+    c "這個季節不正是度假旺季？"
+
+
 translate traditional_chinese ep012_thim_talk_fbc342d9:
 
-    # t "My family went there once or twice after it was built, never went back since."
-    t ""
 
-# game/episode012a_conversations.rpy:161
+    t "建好後我家只去過一兩次，再沒回去過。"
+
+
 translate traditional_chinese ep012_thim_talk_7f339b58:
 
-    # c "They don’t like beach holidays?"
-    c ""
 
-# game/episode012a_conversations.rpy:163
+    c "他們不喜歡海灘度假？"
+
+
 translate traditional_chinese ep012_thim_talk_736f441e:
 
-    # t "Oh, they do, but they bought their own planet with the most perfect sandy beaches."
-    t ""
 
-# game/episode012a_conversations.rpy:164
+    t "噢，喜歡，但他們買了顆全是完美沙灘的星球。"
+
+
 translate traditional_chinese ep012_thim_talk_84c02a16:
 
-    # c "Of course they did."
-    c ""
 
-# game/episode012a_conversations.rpy:165
+    c "果然是他們的作風。"
+
+
 translate traditional_chinese ep012_thim_talk_031e24da:
 
-    # c "So, what you’re saying is that if Thyia can get us past the orbital checkpoint, we have our own private estate?"
-    c ""
 
-# game/episode012a_conversations.rpy:167
+    c "所以你是說，只要塞婭能帶我們穿過軌道哨卡，就有私人莊園享用？"
+
+
 translate traditional_chinese ep012_thim_talk_8fa30c2c:
 
-    # t "Pretty much, yes."
-    t ""
 
-# game/episode012a_conversations.rpy:168
+    t "基本是這樣。"
+
+
 translate traditional_chinese ep012_thim_talk_c689450f:
 
-    # t "It won’t be staffed, of course, but it should have everything we need."
-    t ""
 
-# game/episode012a_conversations.rpy:169
+    t "當然沒人打點，但設施應該齊全。"
+
+
 translate traditional_chinese ep012_thim_talk_af2ed69c:
 
-    # c "Thanks, Thim, that’s a tremendous help!"
-    c ""
 
-# game/episode012a_conversations.rpy:171
+    c "謝謝你蒂姆，幫大忙了！"
+
+
 translate traditional_chinese ep012_thim_talk_83ed652a:
 
-    # t "No problem, I’ll send Céline the coordinates."
-    t ""
 
-# game/episode012a_conversations.rpy:177
+    t "沒事，我會把坐標發給瑟琳。"
+
+
 translate traditional_chinese ep012_raene_talk_984a0153:
 
-    # c "Hey there."
-    c ""
 
-# game/episode012a_conversations.rpy:178
+    c "嘿。"
+
+
 translate traditional_chinese ep012_raene_talk_30292b65:
 
-    # ra "Hey!"
-    ra ""
 
-# game/episode012a_conversations.rpy:179
+    ra "嘿！"
+
+
 translate traditional_chinese ep012_raene_talk_f73f4012:
 
-    # c "I heard a message from your father on Shuty Station."
-    c ""
 
-# game/episode012a_conversations.rpy:181
+    c "我在夏提空間站聽到你父親發的消息了。"
+
+
 translate traditional_chinese ep012_raene_talk_5764c3e3:
 
-    # ra "I know...{w} It was broadcast to all handheld devices connected to the station’s network too."
-    ra ""
 
-# game/episode012a_conversations.rpy:182
+    ra "我知道...{w}這則廣播發給了所有接入空間站網絡的掌上設備。"
+
+
 translate traditional_chinese ep012_raene_talk_d0f86af5:
 
-    # c "So he’s serious about getting you back?"
-    c ""
 
-# game/episode012a_conversations.rpy:184
+    c "所以他是鐵了心要抓你回去？"
+
+
 translate traditional_chinese ep012_raene_talk_c5698766:
 
-    # ra "I’m not sure that’s what’s driving him."
-    ra ""
 
-# game/episode012a_conversations.rpy:185
+    ra "我不確定這是否是他的主要目的。"
+
+
 translate traditional_chinese ep012_raene_talk_0e5bcd50:
 
-    # c "Then what is?"
-    c ""
 
-# game/episode012a_conversations.rpy:187
+    c "那是什麼？"
+
+
 translate traditional_chinese ep012_raene_talk_206660e9:
 
-    # ra "The gesture of getting me back from whatever corner of the galaxy I’m hiding surely appeals to him."
-    ra ""
 
-# game/episode012a_conversations.rpy:188
+    ra "他肯定很享受這種把我從星系某個犄角旮旯揪回去的掌控感。"
+
+
 translate traditional_chinese ep012_raene_talk_a50b24de:
 
-    # c "So this is a display of him exerting his will?"
-    c ""
 
-# game/episode012a_conversations.rpy:190
+    c "所以這是在炫耀他的意志力？"
+
+
 translate traditional_chinese ep012_raene_talk_8f7887e0:
 
-    # ra "Pretty much."
-    ra ""
 
-# game/episode012a_conversations.rpy:191
+    ra "差不多吧。"
+
+
 translate traditional_chinese ep012_raene_talk_6b8a9087:
 
-    # ra "I could be mistaken of course, but so far he hasn’t done anything not to disappoint me."
-    ra ""
 
-# game/episode012a_conversations.rpy:193
+    ra "當然也可能是我判斷錯了，但他至今的所作所爲確實沒讓我'失望'過。"
+
+
 translate traditional_chinese ep012_raene_talk_94b959b9:
 
-    # ra "Naming me with the name he’s given me at birth should be a red flag too."
-    ra ""
 
-# game/episode012a_conversations.rpy:194
+    ra "用他給我起的本名稱呼我，這本身也是個警訊。"
+
+
 translate traditional_chinese ep012_raene_talk_1096533c:
 
-    # c "Yeah, I can imagine that message hurt."
-    c ""
 
-# game/episode012a_conversations.rpy:196
+    c "嗯，那段廣播肯定傷到你了。"
+
+
 translate traditional_chinese ep012_raene_talk_724a117e:
 
-    # ra "It did, though less than before."
-    ra ""
 
-# game/episode012a_conversations.rpy:197
+    ra "確實，但不如從前那麼痛了。"
+
+
 translate traditional_chinese ep012_raene_talk_586e579e:
 
-    # c "Why is it different for you this time?"
-    c ""
 
-# game/episode012a_conversations.rpy:199
+    c "這次爲什麼不一樣？"
+
+
 translate traditional_chinese ep012_raene_talk_d184a178:
 
-    # ra "Well...{w} You."
-    ra ""
 
-# game/episode012a_conversations.rpy:201
+    ra "嗯...{w}因爲你。"
+
+
 translate traditional_chinese ep012_raene_talk_6200ff55:
 
-    # "She looked at me shyly and I could feel she wanted to avert her gaze."
-    ""
 
-# game/episode012a_conversations.rpy:203
+    "她害羞地看着我，我能感覺到她想移開視線。"
+
+
 translate traditional_chinese ep012_raene_talk_69f96a92:
 
-    # "When she noticed my smile, Raene didn’t look away, but approached me instead."
-    ""
 
-# game/episode012a_conversations.rpy:205
+    "當發現我在笑時，蕾妮非但沒躲閃，反而朝我走近。"
+
+
 translate traditional_chinese ep012_raene_talk_a249836a:
 
-    # "I held her and we kissed."
-    ""
 
-# game/episode012a_conversations.rpy:207
+    "我摟住她，我們接了吻。"
+
+
 translate traditional_chinese ep012_raene_talk_4f20811d:
 
-    # ra "Thank you, for being there for me."
-    ra ""
 
-# game/episode012a_conversations.rpy:208
+    ra "謝謝你陪在我身邊。"
+
+
 translate traditional_chinese ep012_raene_talk_718873b2:
 
-    # c "I just want to see you happy."
-    c ""
 
-# game/episode012a_conversations.rpy:209
+    c "我只想看到你開心。"
+
+
 translate traditional_chinese ep012_raene_talk_9ead5f09:
 
-    # ra "I am."
-    ra ""
 
-# game/episode012a_conversations.rpy:210
+    ra "我現在就很開心。"
+
+
 translate traditional_chinese ep012_raene_talk_d34a6c1c:
 
-    # ra "Will you stay with me for a while?"
-    ra ""
 
-# game/episode012a_conversations.rpy:212
+    ra "能多陪我會兒嗎？"
+
+
 translate traditional_chinese ep012_raene_talk_1c68b99e:
 
-    # "Raene nestled herself against me on the bed, crawling under my arm."
-    ""
 
-# game/episode012a_conversations.rpy:213
+    "蕾妮依偎在我身旁牀上，鑽到我胳膊底下。"
+
+
 translate traditional_chinese ep012_raene_talk_1a58277b:
 
-    # "I just held her for a long while, occupied with our own private thoughts."
-    ""
 
-# game/episode012a_conversations.rpy:214
+    "我只是抱着她許久，各自沉浸在思緒裏。"
+
+
 translate traditional_chinese ep012_raene_talk_2851c68d:
 
-    # c "What hold does your father still have over you?"
-    c ""
 
-# game/episode012a_conversations.rpy:216
+    c "你父親到底還有什麼能控制你的？"
+
+
 translate traditional_chinese ep012_raene_talk_575d36dc:
 
-    # ra "Legally?{w} Nothing."
-    ra ""
 
-# game/episode012a_conversations.rpy:217
+    ra "法律上？{w}沒有了。"
+
+
 translate traditional_chinese ep012_raene_talk_3c0ab962:
 
-    # ra "The trouble is that he has the power of his church behind him."
-    ra ""
 
-# game/episode012a_conversations.rpy:218
+    ra "問題在於他背後有整個教會的勢力。"
+
+
 translate traditional_chinese ep012_raene_talk_23f5df27:
 
-    # c "True, but abducting you and robbing you of your freedom would still violate a ton of laws."
-    c ""
 
-# game/episode012a_conversations.rpy:220
+    c "的確如此，但綁架你、剝奪自由仍然會觸犯大量法律。"
+
+
 translate traditional_chinese ep012_raene_talk_e35f7856:
 
-    # ra "I guess so, though that’s all moot when I’m taken back to Verdigris and locked away from the outside world."
-    ra ""
 
-# game/episode012a_conversations.rpy:221
+    ra "大概吧，不過等我被帶回銅綠星與世隔絕後，這些就都沒意義了。"
+
+
 translate traditional_chinese ep012_raene_talk_e14ddd6e:
 
-    # ra "Nobody would care."
-    ra ""
 
-# game/episode012a_conversations.rpy:222
+    ra "沒人在乎的。"
+
+
 translate traditional_chinese ep012_raene_talk_baa0db3c:
 
-    # c "I would."
-    c ""
 
-# game/episode012a_conversations.rpy:223
+    c "我在乎。"
+
+
 translate traditional_chinese ep012_raene_talk_b5c27d66:
 
-    # c "Everyone on the ship would."
-    c ""
 
-# game/episode012a_conversations.rpy:225
+    c "飛船上的每個人都在乎。"
+
+
 translate traditional_chinese ep012_raene_talk_e63d6a94:
 
-    # ra "Oh...{w} Yes, that’s right."
-    ra ""
 
-# game/episode012a_conversations.rpy:226
+    ra "噢...{w} 你說得對。"
+
+
 translate traditional_chinese ep012_raene_talk_1c3e97e5:
 
-    # "I heard the realization in her voice as she spoke those words."
-    ""
 
-# game/episode012a_conversations.rpy:227
+    "她說這話時我聽到她恍然大悟的語氣。"
+
+
 translate traditional_chinese ep012_raene_talk_0e5865c4:
 
-    # "When I pulled her closer she snuggled against my chest."
-    ""
 
-# game/episode012a_conversations.rpy:229
+    "我把她摟近些，她便貼在我胸口蹭着。"
+
+
 translate traditional_chinese ep012_raene_talk_090165d5:
 
-    # ra "I don’t know how you do it, but you always manage to make me feel safe."
-    ra ""
 
-# game/episode012a_conversations.rpy:230
+    ra "不知你怎麼做到的，總能讓我感到安全。"
+
+
 translate traditional_chinese ep012_raene_talk_25a1fcbd:
 
-    # c "Some people have told me otherwise, but I’m glad you think so."
-    c ""
 
-# game/episode012a_conversations.rpy:231
+    c "別人倒不是這麼說我的，但很高興你這麼想。"
+
+
 translate traditional_chinese ep012_raene_talk_5c281b69:
 
-    # ra "Well, I do."
-    ra ""
 
-# game/episode012a_conversations.rpy:232
+    ra "我就是這麼覺得啊。"
+
+
 translate traditional_chinese ep012_raene_talk_486d3eaf:
 
-    # "Raene made herself comfortable, resting her head."
-    ""
 
-# game/episode012a_conversations.rpy:234
+    "蕾妮調整了舒服的姿勢，腦袋靠穩後。"
+
+
 translate traditional_chinese ep012_raene_talk_5f3eb207:
 
-    # "After a while, her breathing became slower and more regular."
-    ""
 
-# game/episode012a_conversations.rpy:235
+    "沒過多久，她的呼吸變得輕緩而規律。"
+
+
 translate traditional_chinese ep012_raene_talk_20233b85:
 
-    # "I held her as she slept, until it felt safe enough to ease her onto the pillow and slip out of her quarters."
-    ""
 
-# game/episode012a_conversations.rpy:241
+    "我一直抱着睡着的她，直到感覺夠安全了才把她挪到枕頭上，溜出她的艙室。"
+
+
 translate traditional_chinese ep012_thyia_talk_46e86e45:
 
-    # c "Hey, reading up on something?"
-    c ""
 
-# game/episode012a_conversations.rpy:242
+    c "嘿，在看資料呢？"
+
+
 translate traditional_chinese ep012_thyia_talk_8ef4e557:
 
-    # th "I’m looking at the details of Kepler security."
-    th ""
 
-# game/episode012a_conversations.rpy:243
+    th "我在研究開普勒星的安保細節。"
+
+
 translate traditional_chinese ep012_thyia_talk_094b89be:
 
-    # th "I think it’s possible to clear the orbital checkpoints if I modify the ship’s signature."
-    th ""
 
-# game/episode012a_conversations.rpy:244
+    th "覺得要是改飛船識別碼，或許能通過軌道檢查點。"
+
+
 translate traditional_chinese ep012_thyia_talk_8d0f79df:
 
-    # th "After that, things get complicated."
-    th ""
 
-# game/episode012a_conversations.rpy:246
+    th "之後的事情就複雜了。"
+
+
 translate traditional_chinese ep012_thyia_talk_f6faa1cb:
 
-    # c "I’ve spoken to Thim about this, he’s offering the family’s beach property as a temporary base."
-    c ""
 
-# game/episode012a_conversations.rpy:248
+    c "我和蒂姆談過了，他家願意提供海濱房產當臨時據點。"
+
+
 translate traditional_chinese ep012_thyia_talk_f6324b5b:
 
-    # th "That would be fantastic!"
-    th ""
 
-# game/episode012a_conversations.rpy:249
+    th "那太棒了！"
+
+
 translate traditional_chinese ep012_thyia_talk_497ca3a4:
 
-    # th "In that case we bluff our way past orbital security and touch down without any further checks."
-    th ""
 
-# game/episode012a_conversations.rpy:250
+    th "那樣的話，讓我們虛張聲勢混過軌道安檢，直接降落，不用再被檢查了。"
+
+
 translate traditional_chinese ep012_thyia_talk_79cafa4b:
 
-    # c "Yeah, I think that’s our problem solved."
-    c ""
 
-# game/episode012a_conversations.rpy:251
+    c "是啊，我覺得我們的問題解決了。"
+
+
 translate traditional_chinese ep012_thyia_talk_48d26595:
 
-    # th "Good, I’ll start working on modifying our identification systems."
-    th ""
 
-# game/episode012a_conversations.rpy:253
+    th "好，我會開始動手改造我們的識別系統。"
+
+
 translate traditional_chinese ep012_thyia_talk_46bd4072:
 
-    # c "Surface-bound security is more strict?"
-    c ""
 
-# game/episode012a_conversations.rpy:255
+    c "地表安檢更嚴格嗎？"
+
+
 translate traditional_chinese ep012_thyia_talk_ebf416d8:
 
-    # th "By the looks of it, yes."
-    th ""
 
-# game/episode012a_conversations.rpy:256
+    th "看樣子是的。"
+
+
 translate traditional_chinese ep012_thyia_talk_c38ac08d:
 
-    # th "I guess they don’t want freeloaders touching down on their stretch of paradise."
-    th ""
 
-# game/episode012a_conversations.rpy:258
+    th "我猜他們不想讓打算白嫖的傢伙在他們的天堂地段降落。"
+
+
 translate traditional_chinese ep012_thyia_talk_9e84cc73:
 
-    # th "If only there were more private places we could land, but the entire moon is one big tourist attraction."
-    th ""
 
-# game/episode012a_conversations.rpy:259
+    th "要是有更多私人地方能降落就好了，可整個衛星就是個大型旅遊景點。"
+
+
 translate traditional_chinese ep012_thyia_talk_67814dbb:
 
-    # c "There are more private places though."
-    c ""
 
-# game/episode012a_conversations.rpy:260
+    c "不過還有更多私人地方。"
+
+
 translate traditional_chinese ep012_thyia_talk_d5a5edbd:
 
-    # c "The nicest spots have been taken by the ultra-rich."
-    c ""
 
-# game/episode012a_conversations.rpy:261
+    c "最棒的地段都被超級富豪佔了。"
+
+
 translate traditional_chinese ep012_thyia_talk_546810ac:
 
-    # c "I’m sure some of them will be empty, despite the holiday season."
-    c ""
 
-# game/episode012a_conversations.rpy:263
+    c "我相信有些地方會是空的，儘管是度假旺季。"
+
+
 translate traditional_chinese ep012_thyia_talk_bb1673fd:
 
-    # th "That’s actually a good idea and something easily checked."
-    th ""
 
-# game/episode012a_conversations.rpy:264
+    th "這其實是個好主意，而且容易查詢。"
+
+
 translate traditional_chinese ep012_thyia_talk_c2f33dd6:
 
-    # th "I’ll pick a couple of viable locations and do some probing."
-    th ""
 
-# game/episode012a_conversations.rpy:265
+    th "我會挑幾個可行地點，做些偵查。"
+
+
 translate traditional_chinese ep012_thyia_talk_e786b925:
 
-    # th "Once I find an empty estate, I think we’re all set."
-    th ""
 
-# game/episode012a_conversations.rpy:266
+    th "一找到空置莊園，我覺得我們就全安排妥了。"
+
+
 translate traditional_chinese ep012_thyia_talk_b4b21c74:
 
-    # c "So clear orbital security and touch down on our own private coastal estate."
-    c ""
 
-# game/episode012a_conversations.rpy:268
+    c "所以混過軌道安檢，降落在我們自己的私人海岸莊園。"
+
+
 translate traditional_chinese ep012_thyia_talk_16d53434:
 
-    # th "Sounds good to me."
-    th ""
+
+    th "聽起來不錯。"
 
 translate traditional_chinese strings:
 
-    # game/episode012a_conversations.rpy:72
-    old "Embrace her"
-    new ""
 
+    old "Embrace her"
+    new "擁抱她"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

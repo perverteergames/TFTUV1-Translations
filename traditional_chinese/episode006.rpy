@@ -1,8762 +1,8758 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode006.rpy:43
+
+
 translate traditional_chinese episode006_27ffb2c4:
 
-    # centered "{=chapter_heading}EPISODE 6{/=chapter_heading}"
-    centered ""
 
-# game/episode006.rpy:52
+    centered "{=chapter_heading}第6集{/=chapter_heading}"
+
+
 translate traditional_chinese episode006_a0a1b2e0:
 
-    # co "Where's the boy now?"
-    co ""
 
-# game/episode006.rpy:53
+    co "那男孩現在在哪兒？"
+
+
 translate traditional_chinese episode006_195869c0:
 
-    # woman "We've lost track of him after their ship left Verdant Station."
-    woman ""
 
-# game/episode006.rpy:54
+    woman "我們在他們的飛船離開\"翠綠\"空間站後，就失去了他的蹤跡。"
+
+
 translate traditional_chinese episode006_37624fa3:
 
-    # woman "We're still waiting on further intel from our source."
-    woman ""
 
-# game/episode006.rpy:56
+    woman "我們還在等待來自我們消息源的進一步情報。"
+
+
 translate traditional_chinese episode006_17e4189f:
 
-    # co "There has been no contact?"
-    co ""
 
-# game/episode006.rpy:57
+    co "一直沒有聯繫嗎？"
+
+
 translate traditional_chinese episode006_23f55912:
 
-    # woman "Not yet, milord."
-    woman ""
 
-# game/episode006.rpy:58
+    woman "還沒有，大人。"
+
+
 translate traditional_chinese episode006_1d7c6d02:
 
-    # co "Has the data retrieved from Mr. Hreir's computer system been analyzed yet?"
-    co ""
 
-# game/episode006.rpy:59
+    co "從瑞爾先生電腦系統中找回的數據已經被分析了嗎？"
+
+
 translate traditional_chinese episode006_6ae7d297:
 
-    # woman "We're still sifting through all of it, but our efforts are hampered by the various encryption schemes he used."
-    woman ""
 
-# game/episode006.rpy:60
+    woman "我們還在篩選所有內容，但我們努力受阻，因爲他用了各式各樣的加密方案。"
+
+
 translate traditional_chinese episode006_be6ffe19:
 
-    # co "You know how these kind of excuses vex me, woman!"
-    co ""
 
-# game/episode006.rpy:62
+    co "你知道這種藉口多麼讓我惱火嗎，女人！"
+
+
 translate traditional_chinese episode006_eeddd225:
 
-    # woman "I do, milord."
-    woman ""
 
-# game/episode006.rpy:63
+    woman "我知道，大人。"
+
+
 translate traditional_chinese episode006_7e91f496:
 
-    # woman "I will strive to do better."
-    woman ""
 
-# game/episode006.rpy:64
+    woman "我會努力做得更好。"
+
+
 translate traditional_chinese episode006_3895a04a:
 
-    # co "I'm sure you will."
-    co ""
 
-# game/episode006.rpy:66
+    co "我肯定你會。"
+
+
 translate traditional_chinese episode006_addb15bb:
 
-    # co "Because of his determination to find his sister, the boy is still our best source of information."
-    co ""
 
-# game/episode006.rpy:68
+    co "由於他決心找到他妹妹，那個男孩仍然是我們最好的信息來源。"
+
+
 translate traditional_chinese episode006_0ce5c0f6:
 
-    # co "Because of his determination to find his friend, the boy is still our best source of information."
-    co ""
 
-# game/episode006.rpy:69
+    co "由於他決心找到他朋友，那個男孩仍然是我們最好的信息來源。"
+
+
 translate traditional_chinese episode006_5b8d8512:
 
-    # co "But if our informant among his crew has gone dark we need to find other ways to find the girl."
-    co ""
 
-# game/episode006.rpy:70
+    co "但如果我們安插在他機組成員中的線人失聯了，我們就得找其他辦法找到那個女孩。"
+
+
 translate traditional_chinese episode006_597b852a:
 
-    # woman "Yes, milord."
-    woman ""
 
-# game/episode006.rpy:73
+    woman "是的，大人。"
+
+
 translate traditional_chinese episode006_b65fe420:
 
-    # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's sister."
-    co ""
 
-# game/episode006.rpy:75
+    co "遺憾的是，瑞爾在最後的坦白中不太合作，但也許他的記錄能告訴我們那些女戰士把男孩的妹妹帶到了哪裡。"
+
+
 translate traditional_chinese episode006_a3e40928:
 
-    # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
-    co ""
 
-# game/episode006.rpy:76
+    co "遺憾的是，瑞爾在最後的坦白中不太合作，但也許他的記錄能告訴我們那些女戰士把男孩的朋友帶到了哪裡。"
+
+
 translate traditional_chinese episode006_40f7d05e:
 
-    # co "Finding the words of the Prophecy was a great victory, but that was months ago and our progress has stalled since then."
-    co ""
 
-# game/episode006.rpy:77
+    co "找到預言中的東西是個大勝利，但那已經是幾個月前的事了，從那以後，我們的進展就停滯了。"
+
+
 translate traditional_chinese episode006_16e7041a:
 
-    # co "We need the girl, that much is clear from the text."
-    co ""
 
-# game/episode006.rpy:79
+    co "我們需要那個女孩，文本中這點很清楚。"
+
+
 translate traditional_chinese episode006_53577cde:
 
-    # co "So get me results, or I'll be forced to take your last confession as well."
-    co ""
 
-# game/episode006.rpy:81
+    co "所以把結果給我，不然我就只好讓你也做個最後坦白。"
+
+
 translate traditional_chinese episode006_597b852a_1:
 
-    # woman "Yes, milord."
-    woman ""
 
-# game/episode006.rpy:88
+    woman "是的，大人。"
+
+
 translate traditional_chinese episode006_47a5ac48:
 
-    # "Our euphoria regarding our escape didn't last very long as we had to focus on navigating the asteroid field we found ourselves in."
-    ""
 
-# game/episode006.rpy:89
+    "我們逃脫後的興奮沒持續太久，因爲我們不得不專注於導航我們發現自己身處的小行星帶。"
+
+
 translate traditional_chinese episode006_61d82ad5:
 
-    # "It wasn't as bad as the chaotic belt that surrounded Karan Hreir's asteroid base, but we had to be ready for any nasty surprises."
-    ""
 
-# game/episode006.rpy:91
+    "不像圍繞卡蘭·瑞爾小行星基地的混亂帶那麼糟，但我們得準備好迎接任何噁心的驚喜。"
+
+
 translate traditional_chinese episode006_e1dccda9:
 
-    # av "What's that thing on the scanners?"
-    av ""
 
-# game/episode006.rpy:92
+    av "掃描儀上的那是什麼東西？"
+
+
 translate traditional_chinese episode006_c1a05206:
 
-    # ki "Larger asteroid?"
-    ki ""
 
-# game/episode006.rpy:93
+    ki "更大的小行星？"
+
+
 translate traditional_chinese episode006_016fdb35:
 
-    # av "It's moving too fast."
-    av ""
 
-# game/episode006.rpy:94
+    av "它動得太快了。"
+
+
 translate traditional_chinese episode006_7a1a9453:
 
-    # ce "It's moving towards us!"
-    ce ""
 
-# game/episode006.rpy:96
+    ce "它朝我們過來了！"
+
+
 translate traditional_chinese episode006_7e32a495:
 
-    # c "Fuck, another ship?"
-    c ""
 
-# game/episode006.rpy:97
+    c "他媽的，又一艘船？"
+
+
 translate traditional_chinese episode006_01030cc8:
 
-    # c "Any chatter on comms?"
-    c ""
 
-# game/episode006.rpy:98
+    c "通訊頻道上有動靜嗎？"
+
+
 translate traditional_chinese episode006_91e9e592:
 
-    # ce "Nothing."
-    ce ""
 
-# game/episode006.rpy:100
+    ce "沒有。"
+
+
 translate traditional_chinese episode006_54dc1fb3:
 
-    # "The thing on our monitors moved at brisk speed, heading straight towards us."
-    ""
 
-# game/episode006.rpy:102
+    "監視器上的東西快速移動，直直地朝我們過來。"
+
+
 translate traditional_chinese episode006_4805e2e2:
 
-    # ce "They're going to crash into us if we keep this trajectory!"
-    ce ""
 
-# game/episode006.rpy:103
+    ce "如果我們保持這個航向，它們會撞上我們的！"
+
+
 translate traditional_chinese episode006_cc540d1f:
 
-    # c "Evasive manoeuvres."
-    c ""
 
-# game/episode006.rpy:104
+    c "避讓動作。"
+
+
 translate traditional_chinese episode006_8b601e0c:
 
-    # "Céline attempted a series of movements that would have taken us outside the trajectory of the object coming towards us."
-    ""
 
-# game/episode006.rpy:106
+    "瑟琳嘗試了一系列動作，本可以讓我們脫離朝我們來的物體的航向。"
+
+
 translate traditional_chinese episode006_cae4c85f:
 
-    # "Instead of responding, several of the Iron Bastard's warning lights began to blink."
-    ""
 
-# game/episode006.rpy:107
+    "沒有回應，\"鋼鐵私生子\"號的幾個警告燈開始閃爍。"
+
+
 translate traditional_chinese episode006_387443a4:
 
-    # ce "The ship isn't allowing me to steer."
-    ce ""
 
-# game/episode006.rpy:108
+    ce "船不受我操控。"
+
+
 translate traditional_chinese episode006_20dd2917:
 
-    # c "Technical failure?"
-    c ""
 
-# game/episode006.rpy:109
+    c "技術故障？"
+
+
 translate traditional_chinese episode006_7d4d942d:
 
-    # c "Thyia?!"
-    c ""
 
-# game/episode006.rpy:111
+    c "塞婭？！"
+
+
 translate traditional_chinese episode006_7e25c199:
 
-    # th "All systems are online, it's not us."
-    th ""
 
-# game/episode006.rpy:112
+    th "所有系統在線，不是我們。"
+
+
 translate traditional_chinese episode006_1b965d47:
 
-    # av "We're being jammed!"
-    av ""
 
-# game/episode006.rpy:114
+    av "我們被幹擾了！"
+
+
 translate traditional_chinese episode006_01d3af6c:
 
-    # "All alarms started to go off on the bridge as the large object came into visual range."
-    ""
 
-# game/episode006.rpy:115
+    "當那個大物體進入視線範圍時，艦橋上的所有警報開始響起。"
+
+
 translate traditional_chinese episode006_379f0496:
 
-    # "Unable to do anything, we stared outside the window to see what was approaching us."
-    ""
 
-# game/episode006.rpy:117
+    "我們無能爲力，只能盯着窗外，看看是什麼東西在靠近我們。"
+
+
 translate traditional_chinese episode006_a9aa53e6:
 
-    # "Before the object became visible a searing white light washed over us."
-    ""
 
-# game/episode006.rpy:119
+    "在物體可見之前，一道灼熱的白色光芒席捲了我們。"
+
+
 translate traditional_chinese episode006_f510d6d0:
 
-    # "As soon as the light penetrated the bridge all sensory input was taken away."
-    ""
 
-# game/episode006.rpy:121
+    "光芒一穿透艦橋，所有感官輸入就消失了。"
+
+
 translate traditional_chinese episode006_b403ab4e:
 
-    # "Within seconds, I lost consciousness."
-    ""
 
-# game/episode006.rpy:126
+    "幾秒之內，我失去了意識。"
+
+
 translate traditional_chinese episode006_a799b6bd:
 
-    # "I awoke with a terrible headache lying on a mattress."
-    ""
 
-# game/episode006.rpy:127
+    "我醒來時頭痛欲裂，躺在一塊牀墊上。"
+
+
 translate traditional_chinese episode006_4a7e7d0f:
 
-    # "With some difficulty I managed to sit upright and take in my surroundings."
-    ""
 
-# game/episode006.rpy:129
+    "我費了些勁才坐直身子，並觀察周圍環境。"
+
+
 translate traditional_chinese episode006_59601d68:
 
-    # "Apart from the simple bed I was lying on, the room was furnished with three crude blocks, probably to be used as benches or a table."
-    ""
 
-# game/episode006.rpy:130
+    "除了我躺着的那個簡易牀，房間裡擺着三個粗糙的方塊，估計是當長凳或桌子用的。"
+
+
 translate traditional_chinese episode006_7903e773:
 
-    # "A portion of the room was shielded by a wall and behind it was a shower."
-    ""
 
-# game/episode006.rpy:131
+    "房間有一部分被牆擋着，牆後面是個淋浴間。"
+
+
 translate traditional_chinese episode006_c81e6513:
 
-    # "The room was evenly lit by glowing panels worked into the ceiling, emitting a cold light."
-    ""
 
-# game/episode006.rpy:133
+    "天花板裏嵌的發光板均勻照亮房間，發出冷光。"
+
+
 translate traditional_chinese episode006_82d933d7:
 
-    # "My bare feet touched the floor, which was surprisingly warm to the touch."
-    ""
 
-# game/episode006.rpy:134
+    "我光腳碰到地板，摸起來竟然出奇的暖和。"
+
+
 translate traditional_chinese episode006_c7f1bae2:
 
-    # "The door couldn't be opened despite my fruitless attempts."
-    ""
 
-# game/episode006.rpy:135
+    "我試了半天白費勁，門根本打不開。"
+
+
 translate traditional_chinese episode006_6700ecb2:
 
-    # "A small window allowed me to view the area just beyond, a corridor, just as unremarkable as my cell."
-    ""
 
-# game/episode006.rpy:136
+    "一個小窗口讓我看見外面是條走廊，跟我這牢房一樣沒什麼特別的。"
+
+
 translate traditional_chinese episode006_5d0127bd:
 
-    # "Only then did I notice that I was wearing a coverall, which fit my body perfectly."
-    ""
 
-# game/episode006.rpy:137
+    "那會兒我才注意到自己穿着件連體服，嚴絲合縫地裹在身上。"
+
+
 translate traditional_chinese episode006_6dc79432:
 
-    # "The garment didn't have any identifying marks."
-    ""
 
-# game/episode006.rpy:139
+    "衣服上什麼標記都沒有。"
+
+
 translate traditional_chinese episode006_bbf7ea6e:
 
-    # "I sat down on one of the blocks and tried to gather my thoughts."
-    ""
 
-# game/episode006.rpy:140
+    "我坐到其中一個方塊上，試着把亂七八糟的腦子理清楚。"
+
+
 translate traditional_chinese episode006_c4979061:
 
-    # "I remembered a white light and my name, [p_name], but nothing else."
-    ""
 
-# game/episode006.rpy:141
+    "我就記得一道白光和我的名字，[p_name]，別的什麼都沒了。"
+
+
 translate traditional_chinese episode006_38969383:
 
-    # "It was almost as if memories tried to bubble up in my mind, but something was holding them back, repressing them."
-    ""
 
-# game/episode006.rpy:143
+    "簡直像有記憶要在腦殼裡冒泡，可什麼玩意兒硬壓着不讓出來。"
+
+
 translate traditional_chinese episode006_1466f85f:
 
-    # "The sound of the door opening just a fraction startled me and I watched a tray of food being slid inside my cell."
-    ""
 
-# game/episode006.rpy:144
+    "門咔噠開條縫的聲音嚇我一跳，我看到一盤食物被推進我的房間。"
+
+
 translate traditional_chinese episode006_4a07462c:
 
-    # "Just as sudden as it had opened, the door thudded closed."
-    ""
 
-# game/episode006.rpy:145
+    "門砰一聲關上，跟它突然打開一樣快。"
+
+
 translate traditional_chinese episode006_f7b32227:
 
-    # "Curious, I walked towards the tray to see what kind of awful grub they'd served me."
-    ""
 
-# game/episode006.rpy:146
+    "我好奇地湊過去，想看看這鬼地方給我什麼豬食。"
+
+
 translate traditional_chinese episode006_54cff07d:
 
-    # "The food looked surprisingly appetizing and made me realize how hungry I was."
-    ""
 
-# game/episode006.rpy:148
+    "喫的居然看着挺誘人，讓我發覺自己餓得前胸貼後背。"
+
+
 translate traditional_chinese episode006_bfba30bf:
 
-    # "I brought the tray to my bench and proceeded to wolf down the meal I was served."
-    ""
 
-# game/episode006.rpy:149
+    "我把託盤端到方塊上，狼吞虎咽地幹光了飯菜。"
+
+
 translate traditional_chinese episode006_df845e2e:
 
-    # "The food tasted as good as it looked."
-    ""
 
-# game/episode006.rpy:150
+    "喫起來的味道和看着一樣香。"
+
+
 translate traditional_chinese episode006_cfeb5446:
 
-    # "After finishing the meal I tried to collect my thoughts again, but apart from the memory about the white light and knowing my name, nothing else came back."
-    ""
 
-# game/episode006.rpy:151
+    "喫完我又想理理頭緒，可除了白光那茬和名字，別的屁都沒想起來。"
+
+
 translate traditional_chinese episode006_6213208b:
 
-    # "The exercise evidently took its toll on me and I felt increasingly tired."
-    ""
 
-# game/episode006.rpy:153
+    "這通折騰整得我夠嗆，整個人越來越蔫吧。"
+
+
 translate traditional_chinese episode006_d3109c3d:
 
-    # "I thought about trying out that shower, but retired to the bed instead."
-    ""
 
-# game/episode006.rpy:155
+    "我琢磨着試試那淋浴，結果還是癱回牀上去了。"
+
+
 translate traditional_chinese episode006_57fa7fc9:
 
-    # "The lights dimmed automatically as I hit the mattress and I fell asleep almost instantly."
-    ""
 
-# game/episode006.rpy:159
+    "燈光在我躺上牀墊時自動調暗，我立馬睡得跟死豬似的。"
+
+
 translate traditional_chinese episode006_c4843fa4:
 
-    # "They came for me while I was sleeping."
-    ""
 
-# game/episode006.rpy:160
+    "在我睡覺的時候，他們來找我了。"
+
+
 translate traditional_chinese episode006_f548339c:
 
-    # "Light flooded my eyes as I awoke from the sounds of footsteps."
-    ""
 
-# game/episode006.rpy:162
+    "當我被腳步聲吵醒時，光線湧入我的眼睛。"
+
+
 translate traditional_chinese episode006_6d7fcc66:
 
-    # "Three guards were in my room, one at the door and two standing at my bed."
-    ""
 
-# game/episode006.rpy:163
+    "有三個警衛在我的房間裡，一個在門口，兩個站在我的牀邊。"
+
+
 translate traditional_chinese episode006_d0ee2595:
 
-    # c "What the?!"
-    c ""
 
-# game/episode006.rpy:164
+    c "搞什麼鬼?!"
+
+
 translate traditional_chinese episode006_15ff5823:
 
-    # c "Where am I?"
-    c ""
 
-# game/episode006.rpy:165
+    c "我在哪兒？"
+
+
 translate traditional_chinese episode006_8959a1ce:
 
-    # c "Who are you?"
-    c ""
 
-# game/episode006.rpy:166
+    c "你們是誰？"
+
+
 translate traditional_chinese episode006_cf669c89:
 
-    # "The guards didn't speak."
-    ""
 
-# game/episode006.rpy:168
+    "警衛們沒有說話。"
+
+
 translate traditional_chinese episode006_2b705905:
 
-    # "Instead, they reached for my arms and pulled me upright."
-    ""
 
-# game/episode006.rpy:169
+    "相反，他們抓住我的胳膊，把我拉起來。"
+
+
 translate traditional_chinese episode006_b65eff51:
 
-    # "I struggled, but judging from their painful grip they were obviously much stronger than me."
-    ""
 
-# game/episode006.rpy:170
+    "我掙扎了，但從他們生疼的抓握來看，他們顯然比我強壯得多。"
+
+
 translate traditional_chinese episode006_7be8df2c:
 
-    # "I'd never seen aliens like this before, so I had no idea if they even understood me."
-    ""
 
-# game/episode006.rpy:172
+    "我以前從未見過這樣的外星人，所以我完全不知道他們是否理解我。"
+
+
 translate traditional_chinese episode006_0283f537:
 
-    # "They dragged me out of the cell and into the corridor, the third guard leading the way."
-    ""
 
-# game/episode006.rpy:173
+    "他們把我拖出牢房進入走廊，第三個警衛在前帶路。"
+
+
 translate traditional_chinese episode006_6ef06ea0:
 
-    # "We didn't encounter anyone else, but passed several similar doors, probably leading to cells like mine."
-    ""
 
-# game/episode006.rpy:174
+    "我們沒有遇到其他人，只是經過了幾扇類似的門，可能通向像我那樣的單間。"
+
+
 translate traditional_chinese episode006_536dc23e:
 
-    # "When we reached another section of the facility, the guard opened a door and they manhandled me into a spacious room."
-    ""
 
-# game/episode006.rpy:176
+    "當我們到達設施的另一個區域時，警衛打開一扇門，他們粗暴地把我拉進一個寬敞的房間。"
+
+
 translate traditional_chinese episode006_067be4f6:
 
-    # "A single chair formed the most characteristical feature of the decor and it reminded me of something found in an old-fashioned mental hospital."
-    ""
 
-# game/episode006.rpy:178
+    "一把孤零零的椅子形成了裝飾中最具特色的特徵，它讓我想起了舊式精神病院裡的東西。"
+
+
 translate traditional_chinese episode006_d42846af:
 
-    # "When they strapped me into the chair I became even more agitated than I already was and fought my restraints."
-    ""
 
-# game/episode006.rpy:180
+    "當他們把我綁在椅子上時，我變得更加激動，開始反抗我的束縛。"
+
+
 translate traditional_chinese episode006_54c08fa6:
 
-    # "The guards left the room and the lights went out."
-    ""
 
-# game/episode006.rpy:181
+    "警衛們離開了房間，燈也熄滅了。"
+
+
 translate traditional_chinese episode006_81119760:
 
-    # "I couldn't move my legs, arms or even my head."
-    ""
 
-# game/episode006.rpy:182
+    "我的腿、胳膊甚至頭都動不了。"
+
+
 translate traditional_chinese episode006_0ede5d7d:
 
-    # "Were they going to torture me?"
-    ""
 
-# game/episode006.rpy:186
+    "他們要拷問我嗎？"
+
+
 translate traditional_chinese episode006_c829031f:
 
-    # "The spotlights went out again and the women disappeared."
-    ""
 
-# game/episode006.rpy:188
+    "聚光燈再次熄滅，那些女人消失了。"
+
+
 translate traditional_chinese episode006_ad0f41fb:
 
-    # "My stomach turned and the room suddenly bathed in the harsh light coming from the ceiling."
-    ""
 
-# game/episode006.rpy:189
+    "我的胃翻騰起來，房間突然被來自天花板的刺眼光線淹沒。"
+
+
 translate traditional_chinese episode006_b961c4f0:
 
-    # "I was looking at a blank wall and heard the guards come in from behind me."
-    ""
 
-# game/episode006.rpy:191
+    "我正盯着一面空白的牆壁，聽到警衛從我身後進來。"
+
+
 translate traditional_chinese episode006_cf8bf4d3:
 
-    # "They took me back through the empty corridors to my cell and left me on my mattress."
-    ""
 
-# game/episode006.rpy:193
+    "他們帶着我穿過空蕩蕩的走廊回到我的牢房，把我留在我的墊子上。"
+
+
 translate traditional_chinese episode006_9ee35ee9:
 
-    # "Thoroughly confused I just remained there and fell asleep."
-    ""
 
-# game/episode006.rpy:195
+    "我完全搞糊塗了，就那樣待着，睡着了。"
+
+
 translate traditional_chinese episode006_e1023183:
 
-    # "When I awoke, a tray of food was already waiting near the door."
-    ""
 
-# game/episode006.rpy:196
+    "當我醒來時，一盤食物已經在門口等着了。"
+
+
 translate traditional_chinese episode006_bcbc9037:
 
-    # "I got up, retrieved the tray and sat on one of the benches again."
-    ""
 
-# game/episode006.rpy:198
+    "我起身拿起餐盤，又坐到其中一張長凳上。"
+
+
 translate traditional_chinese episode006_e3fdc6ad:
 
-    # "As I wasn't as hungry as before, I ate slowly and thought of what happened in the chair."
-    ""
 
-# game/episode006.rpy:199
+    "因爲沒之前那麼餓，我就喫得慢些，邊想着椅子上發生的事。"
+
+
 translate traditional_chinese episode006_68b2ea4b:
 
-    # "The two women were so familiar and yet, when I tried to focus on retrieving any memory of them, my mind failed."
-    ""
 
-# game/episode006.rpy:200
+    "那兩名女子如此熟悉，可當我試圖集中精神回憶關於她們的事情時，腦子卻一片空白。"
+
+
 translate traditional_chinese episode006_f30bd16a:
 
-    # "Everything was a haze, though what had happened in that room with the chair I could remember very vividly."
-    ""
 
-# game/episode006.rpy:202
+    "一切都像蒙着層霧，但椅子上發生的一切卻歷歷在目。"
+
+
 translate traditional_chinese episode006_9f4c0400:
 
-    # "After finishing my meal, I decided to take a shower."
-    ""
 
-# game/episode006.rpy:203
+    "喫完飯我決定衝個澡。"
+
+
 translate traditional_chinese episode006_ec77c817:
 
-    # "The water was warm and pleasant and I must have stayed under the stream for almost half an hour."
-    ""
 
-# game/episode006.rpy:204
+    "熱水溫暖舒適，我在水流下足足待了快半個鐘頭。"
+
+
 translate traditional_chinese episode006_f6c847bd:
 
-    # "Feeling refreshed I sat on my bench again and wondered what I should do."
-    ""
 
-# game/episode006.rpy:209
+    "神清氣爽坐回長凳時，我琢磨着該做些什麼。"
+
+
 translate traditional_chinese episode006_7d945b36:
 
-    # "I didn't get the time to finish my thoughts, because the guards barged in again and took me out of my cell."
-    ""
 
-# game/episode006.rpy:211
+    "還沒理清思路，警衛又突然衝進來把我拖出牢房。"
+
+
 translate traditional_chinese episode006_bc262fa3:
 
-    # "We crossed the same corridor again and minutes later I was strapped tight into the chair again."
-    ""
 
-# game/episode006.rpy:213
+    "穿過同一條走廊幾分鐘後，我又被牢牢綁在了椅子上。"
+
+
 translate traditional_chinese episode006_36a709ec:
 
-    # "The lights went out, then nausea returned and the spotlights once again illuminated two women."
-    ""
 
-# game/episode006.rpy:218
+    "燈光熄滅，噁心感再度襲來，聚光燈下兩名女子重新現身。"
+
+
 translate traditional_chinese episode006_527faccf:
 
-    # "I closed my eyes, but that didn't seem to help, the scene still played out before my eyes somehow."
-    ""
 
-# game/episode006.rpy:219
+    "我閉上眼卻無濟於事，畫面仍清晰地浮現在眼前。"
+
+
 translate traditional_chinese episode006_f15a1539:
 
-    # "It was much of the same, but a little more extreme than before, the kneeling woman submitted to another round of debasement."
-    ""
 
-# game/episode006.rpy:221
+    "內容和上次差不多，但更爲激烈——跪着的女人又遭受了一輪屈辱折磨。"
+
+
 translate traditional_chinese episode006_fb978dee:
 
-    # "Throughout the ordeal I tried to think of other, more pleasant things and then it was suddenly over."
-    ""
 
-# game/episode006.rpy:223
+    "我全程努力想些愉快的事，煎熬竟忽然結束了。"
+
+
 translate traditional_chinese episode006_e8d3254f:
 
-    # "The guards took me back to my cell and I longed to be alone again."
-    ""
 
-# game/episode006.rpy:227
+    "警衛押我回牢房，此刻我渴望獨自待着。"
+
+
 translate traditional_chinese episode006_81d5d406:
 
-    # "The guards took me back and during the walk through the corridor I made plans to do something about that painful erection as soon as I was alone in my cell again."
-    ""
 
-# game/episode006.rpy:232
+    "回程經過走廊時，我計劃着等單獨關押後要解決那痛得要命的勃起。"
+
+
 translate traditional_chinese episode006_fdaaa785:
 
-    # "That didn't happen though, because when they pushed me inside my cell I immediately heard the shower running."
-    ""
 
-# game/episode006.rpy:233
+    "計劃泡湯了，剛被推進牢房就聽見淋浴水流聲。"
+
+
 translate traditional_chinese episode006_03c58a8d:
 
-    # "For some reason they'd given me a cell mate."
-    ""
 
-# game/episode006.rpy:234
+    "不知爲何他們給我配了個獄友。"
+
+
 translate traditional_chinese episode006_8b93ad5c:
 
-    # "Not wanting to startle whomever was inside the shower, I waited on one of the benches until the water stopped running."
-    ""
 
-# game/episode006.rpy:236
+    "怕驚動淋浴間裡的人，我坐在長凳上等水聲停歇。"
+
+
 translate traditional_chinese episode006_cf89fdd5:
 
-    # "A young redheaded woman emerged from the shower, a towel wrapped around her body."
-    ""
 
-# game/episode006.rpy:241
+    "圍着浴巾的年輕紅髮女子從淋浴間走了出來。"
+
+
 translate traditional_chinese episode006_6abe2049:
 
-    # "She was as shocked to see me as I was."
-    ""
 
-# game/episode006.rpy:243
+    "她見到我的震驚程度不亞於我見到她。"
+
+
 translate traditional_chinese episode006_c4c38f95:
 
-    # l "Who are you?"
-    l ""
 
-# game/episode006.rpy:244
+    l "你是誰？"
+
+
 translate traditional_chinese episode006_409b05f9:
 
-    # c "Who're you?"
-    c ""
 
-# game/episode006.rpy:246
+    c "你誰啊？"
+
+
 translate traditional_chinese episode006_d2ae47aa:
 
-    # l "I asked first."
-    l ""
 
-# game/episode006.rpy:247
+    l "我先問的。"
+
+
 translate traditional_chinese episode006_39f2b093:
 
-    # c "But this is my cell."
-    c ""
 
-# game/episode006.rpy:248
+    c "但這可是我的牢房。"
+
+
 translate traditional_chinese episode006_ffea65ae:
 
-    # l "Fine, I'm Lilly."
-    l ""
 
-# game/episode006.rpy:250
+    l "好吧，我叫莉莉。"
+
+
 translate traditional_chinese episode006_1e9b0085:
 
-    # "Her name triggered something inside me, as if a thought tried to form itself, but never made it to the surface."
-    ""
 
-# game/episode006.rpy:251
+    "這個名字在我心裡觸發了什麼，仿佛有個念頭試圖凝聚成形，卻始終浮不出水面。"
+
+
 translate traditional_chinese episode006_ab4d1233:
 
-    # c "I'm [p_name]."
-    c ""
 
-# game/episode006.rpy:253
+    c "我叫[p_name]。"
+
+
 translate traditional_chinese episode006_a5ac0416:
 
-    # "She looked at me strangely for several seconds as if she was struck by something too, but the moment passed and she sat on the bench opposite of me."
-    ""
 
-# game/episode006.rpy:254
+    "她用怪異眼神盯了我好幾秒，像是同樣被什麼擊中了，但這片刻很快過去，她在我對面的長凳坐下。"
+
+
 translate traditional_chinese episode006_935f4bab:
 
-    # c "So, who did you piss off to get stuck here with me?"
-    c ""
 
-# game/episode006.rpy:255
+    c "所以，你得罪誰了才會被塞來跟我關一塊兒？"
+
+
 translate traditional_chinese episode006_b79cf449:
 
-    # l "I don't have a clue, to be honest."
-    l ""
 
-# game/episode006.rpy:256
+    l "老實說，我完全沒頭緒。"
+
+
 translate traditional_chinese episode006_93177c18:
 
-    # l "I can't remember much more than my name."
-    l ""
 
-# game/episode006.rpy:257
+    l "除了自己名字，其他事基本記不清。"
+
+
 translate traditional_chinese episode006_29d5c8bc:
 
-    # c "Me too, I'm pretty sure something was done to us."
-    c ""
 
-# game/episode006.rpy:258
+    c "我也是，肯定有人對我們動了手腳。"
+
+
 translate traditional_chinese episode006_ac6c35a7:
 
-    # c "There's this blank feeling in my mind, as if there's a blanket thrown over my memories, if you know what I mean."
-    c ""
 
-# game/episode006.rpy:260
+    c "腦子裡像蓋了層毛毯捂住記憶，懂我意思吧？"
+
+
 translate traditional_chinese episode006_955585fc:
 
-    # l "I know exactly what you mean."
-    l ""
 
-# game/episode006.rpy:261
+    l "我完全懂你的意思。"
+
+
 translate traditional_chinese episode006_bf1ba88f:
 
-    # c "Have they strapped you to that chair too?"
-    c ""
 
-# game/episode006.rpy:263
+    c "他們是不是也把你綁在那電椅上過？"
+
+
 translate traditional_chinese episode006_6e369f24:
 
-    # l "What?!{w} A chair?{w} No."
-    l ""
 
-# game/episode006.rpy:264
+    l "什麼？！{w} 電椅？{w} 沒有啊。"
+
+
 translate traditional_chinese episode006_028b6723:
 
-    # l "I awoke in a cell much like this one and they shoved food inside once in a while."
-    l ""
 
-# game/episode006.rpy:265
+    l "我在跟這差不多的牢房醒來，他們偶爾塞點喫的進來。"
+
+
 translate traditional_chinese episode006_8eb27644:
 
-    # l "Then the guards came and brought me here."
-    l ""
 
-# game/episode006.rpy:266
+    l "後來守衛就把我拎到這兒了。"
+
+
 translate traditional_chinese episode006_e82308e4:
 
-    # l "What do they do to you in the chair?"
-    l ""
 
-# game/episode006.rpy:267
+    l "他們用電椅對你幹什麼？"
+
+
 translate traditional_chinese episode006_01ee2c4b:
 
-    # c "They make you see disturbing shit."
-    c ""
 
-# game/episode006.rpy:269
+    c "逼你看些噁心的狗屎畫面。"
+
+
 translate traditional_chinese episode006_20f619de:
 
-    # l "In that case I'm glad they haven't taken me."
-    l ""
 
-# game/episode006.rpy:270
+    l "那我可得謝天謝地沒被抓去過。"
+
+
 translate traditional_chinese episode006_8ac2e610:
 
-    # c "I hope they won't now that you're my cell mate."
-    c ""
 
-# game/episode006.rpy:271
+    c "現在你是我室友了，但願他們別來找你。"
+
+
 translate traditional_chinese episode006_f4d9a87e:
 
-    # c "I'm glad I have someone to talk to, even if the conversation will be limited, because we both can't remember anything about our lives."
-    c ""
 
-# game/episode006.rpy:273
+    c "能說說話就很開心了，儘管話題肯定有限——畢竟我們倆連自己活着幹過什麼都記不得。"
+
+
 translate traditional_chinese episode006_8c720fe6:
 
-    # l "Haha, I'm sure we'll manage."
-    l ""
 
-# game/episode006.rpy:275
+    l "哈哈，我確定我們能應付的。"
+
+
 translate traditional_chinese episode006_6694f521:
 
-    # "During the moment of silence that followed I tried to study Lilly without making her feel uncomfortable."
-    ""
 
-# game/episode006.rpy:276
+    "在隨之而來的沉默時刻，我試圖端詳莉莉而不讓她感到不適。"
+
+
 translate traditional_chinese episode006_09fcb412:
 
-    # "She looked so familiar and I felt feelings raging under the surface, unable to bloom fully inside my mind, because of the mysterious inhibitions our captors probably imposed on us."
-    ""
 
-# game/episode006.rpy:277
+    "她看起來如此眼熟，我感到某種情感在暗處翻騰，卻無法在腦海中完全綻放，大概是拘禁者施加在我們身上的神祕禁制所致。"
+
+
 translate traditional_chinese episode006_20ba8f11:
 
-    # "Despite our short acquaintance and the limited conversation topics, she intrigued me more and more."
-    ""
 
-# game/episode006.rpy:278
+    "儘管相識短暫且話題受限，她卻越來越讓我着迷。"
+
+
 translate traditional_chinese episode006_3bdba2c0:
 
-    # "Why were we locked up together?"
-    ""
 
-# game/episode006.rpy:279
+    "爲什麼要把我們關在一起？"
+
+
 translate traditional_chinese episode006_a147ee20:
 
-    # "Did we know each other before becoming prisoners?"
-    ""
 
-# game/episode006.rpy:281
+    "淪爲囚徒前我們是否相識？"
+
+
 translate traditional_chinese episode006_426bb251:
 
-    # l "Well, I'd better change into that coverall so generously provided to us."
-    l ""
 
-# game/episode006.rpy:282
+    l "唔，我最好換上那套慷慨提供的連體服。"
+
+
 translate traditional_chinese episode006_32e99cbb:
 
-    # "She stood up and walked towards the shower."
-    ""
 
-# game/episode006.rpy:286
+    "她站起身走向淋浴間。"
+
+
 translate traditional_chinese episode006_5777ce23:
 
-    # "Inadvertently my eyes trailed her and I was shocked to realize I found her very attractive."
-    ""
 
-# game/episode006.rpy:287
+    "我的視線不自覺追隨過去，震驚地發現自己竟覺得她如此誘人。"
+
+
 translate traditional_chinese episode006_53f20c15:
 
-    # "It was not some casual observation, but something deeper, as if a lone sensation managed to break through whatever barrier blocked my thoughts."
-    ""
 
-# game/episode006.rpy:288
+    "這不是隨意一瞥，而是更深刻的觸動，仿佛有股孤單感受衝破了封鎖思緒的屏障。"
+
+
 translate traditional_chinese episode006_634aa306:
 
-    # "Maybe we'd been lovers before ending up here?"
-    ""
 
-# game/episode006.rpy:291
+    "或許在淪落至此之前，我們曾是戀人？"
+
+
 translate traditional_chinese episode006_1905eccf:
 
-    # "I racked my brain as to why we could have ended up in a cell together, but it was as if I just couldn't form any coherent mental picture on the matter."
-    ""
 
-# game/episode006.rpy:292
+    "我絞盡腦汁思索我們被同囚一室的原因，卻怎麼也拼湊不出清晰的畫面。"
+
+
 translate traditional_chinese episode006_77e2bd62:
 
-    # "Her words shocked me out of my thoughts."
-    ""
 
-# game/episode006.rpy:294
+    "她的話語猛然驚醒了我。"
+
+
 translate traditional_chinese episode006_dbedbc2d:
 
-    # l "Promise you won't look!"
-    l ""
 
-# game/episode006.rpy:295
+    l "保證你不會偷看！"
+
+
 translate traditional_chinese episode006_004d2ef0:
 
-    # "Lilly disappeared behind the shower wall."
-    ""
 
-# game/episode006.rpy:300
+    "莉莉消失在淋浴牆後。"
+
+
 translate traditional_chinese episode006_b7276131:
 
-    # "The recent ordeal in the chair might have made me a little rash, but I simply wanted to have a look at her."
-    ""
 
-# game/episode006.rpy:301
+    "椅子上的酷刑可能讓我變得莽撞，但我純粹想看看她。"
+
+
 translate traditional_chinese episode006_0d859f0a:
 
-    # "I got up, cautiously approached the shower and peeked around the corner."
-    ""
 
-# game/episode006.rpy:306
+    "我起身小心接近淋浴間，在牆角偷瞥。"
+
+
 translate traditional_chinese episode006_826a3d8d:
 
-    # "Lilly was fully naked and took in the gorgeous curves of her hips and the shape of her luscious ass."
-    ""
 
-# game/episode006.rpy:307
+    "莉莉渾身赤裸，豐滿的臀部曲線和肥臀的輪廓盡收眼底。"
+
+
 translate traditional_chinese episode006_baa3fdfc:
 
-    # "She picked up the coverall from a hook on the wall and dressed herself."
-    ""
 
-# game/episode006.rpy:308
+    "她從牆鉤取下連體服穿上。"
+
+
 translate traditional_chinese episode006_ea1691dd:
 
-    # "Before she noticed me I was already back at the bench, staring at something."
-    ""
 
-# game/episode006.rpy:311
+    "趁她未察覺，我早已退回長凳盯着某處看。"
+
+
 translate traditional_chinese episode006_8d9445d8:
 
-    # "I stared into the distance as Lilly dressed herself behind the cover of the wall."
-    ""
 
-# game/episode006.rpy:313
+    "當莉莉在牆後更衣時，我直愣愣望向遠處。"
+
+
 translate traditional_chinese episode006_1942193c:
 
-    # "Lilly returned and sat across me again."
-    ""
 
-# game/episode006.rpy:315
+    "莉莉回來再次坐我對面。"
+
+
 translate traditional_chinese episode006_abc458d4:
 
-    # l "Do you have any idea what day it is?"
-    l ""
 
-# game/episode006.rpy:316
+    l "你知道今天幾號嗎？"
+
+
 translate traditional_chinese episode006_9f6f0ee8:
 
-    # c "Nope, couldn't tell you the time either."
-    c ""
 
-# game/episode006.rpy:317
+    c "不知道，連現在幾點都說不上來。"
+
+
 translate traditional_chinese episode006_fb486e86:
 
-    # c "I think of the time they serve us those meals as being in the evening and I mostly went to bed after eating."
-    c ""
 
-# game/episode006.rpy:318
+    c "他們把飯送來的時間在我看來屬於晚上，而我多半喫完就睡了。"
+
+
 translate traditional_chinese episode006_6b51495e:
 
-    # l "Me too."
-    l ""
 
-# game/episode006.rpy:319
+    l "我也是。"
+
+
 translate traditional_chinese episode006_f988884c:
 
-    # l "Solitary confinement does weird things to you."
-    l ""
 
-# game/episode006.rpy:320
+    l "單獨監禁真會把人搞瘋。"
+
+
 translate traditional_chinese episode006_3595a96d:
 
-    # c "Evidently."
-    c ""
 
-# game/episode006.rpy:321
+    c "顯然如此。"
+
+
 translate traditional_chinese episode006_10d260a7:
 
-    # l "How are we going to address the sleeping situation?"
-    l ""
 
-# game/episode006.rpy:322
+    l "睡眠問題怎麼解決？"
+
+
 translate traditional_chinese episode006_808fcae8:
 
-    # c "Sleeping situation?"
-    c ""
 
-# game/episode006.rpy:323
+    c "睡眠問題？"
+
+
 translate traditional_chinese episode006_fdaa09c8:
 
-    # c "Oh, the single mattress."
-    c ""
 
-# game/episode006.rpy:327
+    c "哦，是說這張單人牀墊。"
+
+
 translate traditional_chinese episode006_85ee7f5b:
 
-    # c "You can use the mattress."
-    c ""
 
-# game/episode006.rpy:328
+    c "牀墊給你用。"
+
+
 translate traditional_chinese episode006_d8f82bf8:
 
-    # l "Where are you going to sleep?"
-    l ""
 
-# game/episode006.rpy:329
+    l "那你要睡哪？"
+
+
 translate traditional_chinese episode006_1bb9e441:
 
-    # l "Not on the floor, right?"
-    l ""
 
-# game/episode006.rpy:330
+    l "總不至於睡地板吧？"
+
+
 translate traditional_chinese episode006_eec18bca:
 
-    # c "That was the plan."
-    c ""
 
-# game/episode006.rpy:332
+    c "本來是這麼打算的。"
+
+
 translate traditional_chinese episode006_1becbc0e:
 
-    # l "Nonsense, we can share the mattress."
-    l ""
 
-# game/episode006.rpy:333
+    l "胡說八道，我們可以分享這張牀墊。"
+
+
 translate traditional_chinese episode006_5e172106:
 
-    # l "Unless you snore, of course..."
-    l ""
 
-# game/episode006.rpy:335
+    l "當然，除非你會打呼..."
+
+
 translate traditional_chinese episode006_c34b5439:
 
-    # c "I was thinking of sharing one half of the mattress."
-    c ""
 
-# game/episode006.rpy:337
+    c "我本想提議各睡牀墊半邊。"
+
+
 translate traditional_chinese episode006_6d60504d:
 
-    # l "How very kind."
-    l ""
 
-# game/episode006.rpy:338
+    l "真是體貼啊。"
+
+
 translate traditional_chinese episode006_ba4d38c4:
 
-    # l "Works for me, unless you snore..."
-    l ""
 
-# game/episode006.rpy:339
+    l "我沒問題，除非你打呼..."
+
+
 translate traditional_chinese episode006_1d093589:
 
-    # c "I'm not sure..."
-    c ""
 
-# game/episode006.rpy:341
+    c "我說不好..."
+
+
 translate traditional_chinese episode006_8966a690:
 
-    # l "Maybe I'll beg for another cell to our kind jailers in the morning and then you'll have your answer."
-    l ""
 
-# game/episode006.rpy:342
+    l "也許明早可以求求我們'仁慈'的看守換間牢房，到時你自然有答案了。"
+
+
 translate traditional_chinese episode006_51e1a649:
 
-    # c "Deal."
-    c ""
 
-# game/episode006.rpy:344
+    c "成交。"
+
+
 translate traditional_chinese episode006_8b4f6fbc:
 
-    # l "I wonder if there are other prisoners like us."
-    l ""
 
-# game/episode006.rpy:345
+    l "不知道還有沒有像我們這樣的犯人。"
+
+
 translate traditional_chinese episode006_39f3a8d4:
 
-    # c "I haven't seen them yet, but when the guards took me to the room with the chair I saw other cells like this one."
-    c ""
 
-# game/episode006.rpy:346
+    c "我還沒見到他們，不過守衛帶我去那個有椅子的房間時，看到過其他這樣的囚室。"
+
+
 translate traditional_chinese episode006_8d184b7f:
 
-    # l "It's a large facility I guess."
-    l ""
 
-# game/episode006.rpy:347
+    l "這地方估計挺大的。"
+
+
 translate traditional_chinese episode006_8262916e:
 
-    # l "I'd still like to know if we are lab rats."
-    l ""
 
-# game/episode006.rpy:348
+    l "可我還是想確認自己是不是實驗小白鼠。"
+
+
 translate traditional_chinese episode006_6a8599fe:
 
-    # c "We might be."
-    c ""
 
-# game/episode006.rpy:349
+    c "有可能啊。"
+
+
 translate traditional_chinese episode006_70315dda:
 
-    # c "Or we're two famous space pirates serving several life sentences together."
-    c ""
 
-# game/episode006.rpy:351
+    c "又或者我們是兩個著名太空海盜，正一起服多個無期徒刑。"
+
+
 translate traditional_chinese episode006_f6fa46b1:
 
-    # l "In that case I hope our fellow pirates come to our rescue at some point and break us out."
-    l ""
 
-# game/episode006.rpy:353
+    l "那樣的話我希望我們的海盜同夥能來救人，把我們倆劫出去。"
+
+
 translate traditional_chinese episode006_b3e75ebf:
 
-    # "Surprisingly, we kept the conversation going without much effort, until two trays of food were slid through a crack in the door."
-    ""
 
-# game/episode006.rpy:355
+    "出乎意料，我們毫不費力地聊個不停，直到兩份餐盤從門縫裡塞進來。"
+
+
 translate traditional_chinese episode006_fa5d3121:
 
-    # l "Ready for our candlelit dinner?"
-    l ""
 
-# game/episode006.rpy:356
+    l "準備好燭光晚餐了嗎？"
+
+
 translate traditional_chinese episode006_77cf9d78:
 
-    # c "Very much so."
-    c ""
 
-# game/episode006.rpy:357
+    c "早就等不及了。"
+
+
 translate traditional_chinese episode006_e1474bdd:
 
-    # "We ate our dinner, trying to guess what kind of ingredients were used in the preparation of the weirdly shaped food."
-    ""
 
-# game/episode006.rpy:359
+    "我們邊喫邊猜，這些奇形怪狀的食物到底用了什麼食材。"
+
+
 translate traditional_chinese episode006_62f435cf:
 
-    # l "We really have to ask for some wine, next time they serve us."
-    l ""
 
-# game/episode006.rpy:360
+    l "下次送餐時非得跟他們要點酒不可。"
+
+
 translate traditional_chinese episode006_848b0b66:
 
-    # c "Good idea."
-    c ""
 
-# game/episode006.rpy:361
+    c "好主意。"
+
+
 translate traditional_chinese episode006_a4890394:
 
-    # c "A proper dessert and some coffee afterwards would be nice too."
-    c ""
 
-# game/episode006.rpy:363
+    c "要是飯後能有甜點和咖啡就更棒了。"
+
+
 translate traditional_chinese episode006_ec03efb3:
 
-    # l "Right, I'm sure they'll accommodate us."
-    l ""
 
-# game/episode006.rpy:364
+    l "沒錯，他們肯定能滿足我們倆。"
+
+
 translate traditional_chinese episode006_55a5bc06:
 
-    # c "They can't deny two famous space buccaneers a little luxury."
-    c ""
 
-# game/episode006.rpy:366
+    c "總不能讓兩位著名太空海盜連點兒小享受都沒有。"
+
+
 translate traditional_chinese episode006_4896cb00:
 
-    # "Pushing the finished meals aside, we talked some more until Lilly started to yawn."
-    ""
 
-# game/episode006.rpy:368
+    "把空餐盤推到旁邊，我們又聊了會兒，直到莉莉開始打哈欠。"
+
+
 translate traditional_chinese episode006_40867250:
 
-    # l "I think I'm going to bed."
-    l ""
 
-# game/episode006.rpy:369
+    l "我打算睡了。"
+
+
 translate traditional_chinese episode006_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode006.rpy:370
+    c "我也是。"
+
+
 translate traditional_chinese episode006_b3825fd7:
 
-    # c "Another busy day of staying indoors and eating a tray of food ahead of us, after all."
-    c ""
 
-# game/episode006.rpy:372
+    c "畢竟明天又是待在室內喫牢飯的'忙碌'日子。"
+
+
 translate traditional_chinese episode006_309fde08:
 
-    # l "Haha, right."
-    l ""
 
-# game/episode006.rpy:374
+    l "哈哈，可不是嘛。"
+
+
 translate traditional_chinese episode006_b2d24653:
 
-    # "We both lay on the mattress and I pulled the covers over us."
-    ""
 
-# game/episode006.rpy:375
+    "我們並排躺在牀墊上，我拉過被子蓋住兩人。"
+
+
 translate traditional_chinese episode006_9fcead47:
 
-    # c "Good night, Lilly."
-    c ""
 
-# game/episode006.rpy:377
+    c "晚安，莉莉。"
+
+
 translate traditional_chinese episode006_d5d97710:
 
-    # l "Good night, [p_name]."
-    l ""
 
-# game/episode006.rpy:378
+    l "晚安，[p_name]。"
+
+
 translate traditional_chinese episode006_33aa6ec8:
 
-    # l "Oh and [p_name]?"
-    l ""
 
-# game/episode006.rpy:379
+    l "對了[p_name]？"
+
+
 translate traditional_chinese episode006_24c7ada5:
 
-    # c "Yes?"
-    c ""
 
-# game/episode006.rpy:380
+    c "嗯？"
+
+
 translate traditional_chinese episode006_0e1735bf:
 
-    # l "I'm delighted to be sharing a cell with you."
-    l ""
 
-# game/episode006.rpy:381
+    l "能和你關在同一間牢房，我特別開心。"
+
+
 translate traditional_chinese episode006_05bcf626:
 
-    # c "The pleasure is entirely mutual."
-    c ""
 
-# game/episode006.rpy:383
+    c "我也完全如此。"
+
+
 translate traditional_chinese episode006_9a00f60d:
 
-    # "The lights dimmed and I listened to Lilly's breathing until she was fast asleep, I followed her just a few minutes later."
-    ""
 
-# game/episode006.rpy:389
+    "燈光暗下，我聽着莉莉的呼吸聲直到她沉沉睡去，幾分鐘後我也進入了夢鄉。"
+
+
 translate traditional_chinese episode006_3102b779:
 
-    # "I didn’t sleep well."
-    ""
 
-# game/episode006.rpy:390
+    "我睡得不太好。"
+
+
 translate traditional_chinese episode006_d0069c4d:
 
-    # "It had nothing to do with the fact that Lilly was sleeping next to me, but rather the woman with the whip who stalked my dreams that night."
-    ""
 
-# game/episode006.rpy:395
+    "這和莉莉睡在我身邊無關，而是因爲那個拿着鞭子的女人，她整晚都在我的夢境裡糾纏。"
+
+
 translate traditional_chinese episode006_34680682:
 
-    # "I was about to answer her when everything morphed into something entirely different."
-    ""
 
-# game/episode006.rpy:396
+    "我正要回答她，眼前的一切突然扭曲變形。"
+
+
 translate traditional_chinese episode006_2fea72b4:
 
-    # "Suddenly I was running through endless corridors, pursued by some unknown enemy."
-    ""
 
-# game/episode006.rpy:397
+    "突然我就在無盡的走廊裏狂奔，被某個未知的敵人追趕。"
+
+
 translate traditional_chinese episode006_7b910a47:
 
-    # "My proud erection quickly shrivelled and I began to sweat from irrational fear instead."
-    ""
 
-# game/episode006.rpy:401
+    "驕傲的勃起迅速萎蔫，莫名的恐懼讓我渾身冒汗。"
+
+
 translate traditional_chinese episode006_c800ff8d:
 
-    # "Later, I didn't remember much from those dreams, though the one with the woman stayed with me for quite some time after I woke up in the morning."
-    ""
 
-# game/episode006.rpy:403
+    "後來我不太記得那些夢了，但那個女人的身影直到早上醒來還在我腦海裏盤旋。"
+
+
 translate traditional_chinese episode006_b4ca066c:
 
-    # "The ceiling lights brightened again and I awoke slowly."
-    ""
 
-# game/episode006.rpy:405
+    "頂燈再次亮起，我緩緩醒來。"
+
+
 translate traditional_chinese episode006_a24f3887:
 
-    # "Despite keeping to our half of the bed when falling asleep, Lilly hugged my body and had an arm draped across my chest."
-    ""
 
-# game/episode006.rpy:406
+    "雖然入睡時各佔半張牀，莉莉現在卻抱着我的身體，手臂橫在我胸口。"
+
+
 translate traditional_chinese episode006_cac92d56:
 
-    # "She was still asleep, undisturbed by the bright lights."
-    ""
 
-# game/episode006.rpy:410
+    "她還睡着，明亮的燈光都沒能打擾她。"
+
+
 translate traditional_chinese episode006_bdf92173:
 
-    # "Not wanting to give her the wrong impression, I pushed Lilly away to her side of the bed."
-    ""
 
-# game/episode006.rpy:412
+    "不想讓她誤會，我把莉莉推回她那邊。"
+
+
 translate traditional_chinese episode006_c29a0594:
 
-    # "She opened her eyes and look at me in a state of drowsy shock."
-    ""
 
-# game/episode006.rpy:413
+    "她睜開眼，睡眼惺忪地瞪着我，滿臉震驚。"
+
+
 translate traditional_chinese episode006_d88acbc7:
 
-    # l "Oh!"
-    l ""
 
-# game/episode006.rpy:414
+    l "哦！"
+
+
 translate traditional_chinese episode006_d5940537:
 
-    # l "Sorry!"
-    l ""
 
-# game/episode006.rpy:417
+    l "抱歉！"
+
+
 translate traditional_chinese episode006_3caac201:
 
-    # "I dared to put an arm around her and pull her just a little closer."
-    ""
 
-# game/episode006.rpy:418
+    "我鬥膽摟住她的肩，輕輕把她拉近了些。"
+
+
 translate traditional_chinese episode006_63361861:
 
-    # "Lilly made some light noises of satisfaction and eased her head against my chest."
-    ""
 
-# game/episode006.rpy:419
+    "莉莉發出滿足的輕哼，把腦袋枕在我胸口。"
+
+
 translate traditional_chinese episode006_28daad84:
 
-    # "The smell of her hair provoked another unexpected emotion, I wanted to protect her at all costs, this innocent redheaded girl."
-    ""
 
-# game/episode006.rpy:421
+    "她發間的氣息勾起新的悸動——我要不惜一切保護這個單純的紅髮姑娘。"
+
+
 translate traditional_chinese episode006_b9079345:
 
-    # "At that moment, she opened her eyes and looked up at me drowsily."
-    ""
 
-# game/episode006.rpy:422
+    "這時她突然抬眼，睡意朦朧地看着我。"
+
+
 translate traditional_chinese episode006_3c54f4dd:
 
-    # l "Oh..."
-    l ""
 
-# game/episode006.rpy:423
+    l "噢..."
+
+
 translate traditional_chinese episode006_b87fab88:
 
-    # l "I..."
-    l ""
 
-# game/episode006.rpy:425
+    l "我..."
+
+
 translate traditional_chinese episode006_aef87ea2:
 
-    # "Visibly flustered, she wormed herself from the embrace and rolled to her side of the mattress."
-    ""
 
-# game/episode006.rpy:426
+    "她明顯慌了神，像蟲子似的掙開懷抱滾回牀墊另一邊。"
+
+
 translate traditional_chinese episode006_8e115758:
 
-    # c "Good morning."
-    c ""
 
-# game/episode006.rpy:427
+    c "早。"
+
+
 translate traditional_chinese episode006_4f93c67f:
 
-    # "Lilly managed a mumbled greeting and her cheeks flushed."
-    ""
 
-# game/episode006.rpy:428
+    "莉莉含糊地應了聲，臉頰飛紅。"
+
+
 translate traditional_chinese episode006_e98b9540:
 
-    # l "I'm going to take a shower, if you don't mind."
-    l ""
 
-# game/episode006.rpy:429
+    l "我想衝個澡，介意嗎？"
+
+
 translate traditional_chinese episode006_d7ae8504:
 
-    # c "Not at all."
-    c ""
 
-# game/episode006.rpy:431
+    c "完全不。"
+
+
 translate traditional_chinese episode006_ea5f32d8:
 
-    # "A little amused, I watched her hurry towards the shower and heard the water running within moments."
-    ""
 
-# game/episode006.rpy:436
+    "我有點好笑地看着她匆忙衝向淋浴間，沒過多久就聽到了水聲。"
+
+
 translate traditional_chinese episode006_37f06736:
 
-    # "The door opened and two guards lifted me from the bed before I could warn Lilly."
-    ""
 
-# game/episode006.rpy:437
+    "門開了，兩個警衛把我從牀上拽了起來，我來不及提醒莉莉。"
+
+
 translate traditional_chinese episode006_ce8ccb14:
 
-    # "They dragged me once again to the room with the chair."
-    ""
 
-# game/episode006.rpy:439
+    "他們又一次把我拖到了有椅子的那個房間。"
+
+
 translate traditional_chinese episode006_cfc5df1d:
 
-    # "Without a word they strapped me into the chair and fear coursed through my body again."
-    ""
 
-# game/episode006.rpy:440
+    "他們一言不發地把我綁在椅子上，恐懼感又蔓延到我全身。"
+
+
 translate traditional_chinese episode006_8fadb8e3:
 
-    # "The blonde slave and her Mistress appeared again."
-    ""
 
-# game/episode006.rpy:445
+    "那個金髮奴隸和她的女主人又出現了。"
+
+
 translate traditional_chinese episode006_73c65da5:
 
-    # "The guards took me away, apparently not noticing or purposely ignoring my raging erection bulging between my legs."
-    ""
 
-# game/episode006.rpy:449
+    "警衛帶我走了，他們明顯是沒注意到，或者故意無視我兩腿之間那勃起的昂揚。"
+
+
 translate traditional_chinese episode006_512e816a:
 
-    # "I zoned out as another humiliating display was acted out before my eyes."
-    ""
 
-# game/episode006.rpy:451
+    "我發着呆，眼前又上演了一場羞辱性的表演。"
+
+
 translate traditional_chinese episode006_3f87cadd:
 
-    # "The thought of coming back to Lilly in my cell kept me occupied until the guards came to take me away."
-    ""
 
-# game/episode006.rpy:453
+    "想着回到牢房見到莉莉的念頭一直佔據着我的心，直到警衛來把我帶走。"
+
+
 translate traditional_chinese episode006_5b6fc6c9:
 
-    # "I still didn't know whether to tell Lilly about my experiences in the chair."
-    ""
 
-# game/episode006.rpy:454
+    "我還是不知道該不該告訴莉莉我在那把椅子上的經歷。"
+
+
 translate traditional_chinese episode006_51c58444:
 
-    # "Because she wasn't subjected to any of it I didn't think it wise to alarm her about the blatant pornography I was subjected to."
-    ""
 
-# game/episode006.rpy:455
+    "因爲她沒有經歷任何這些，我覺得向她透露我被施加的那些露骨色情內容是不明智的。"
+
+
 translate traditional_chinese episode006_90ecbe6b:
 
-    # "Frankly, I didn't want to spoil my budding relationship with the girl with stories about sexual torture."
-    ""
 
-# game/episode006.rpy:457
+    "坦白說，我不想用那些性虐待的故事來破壞我和這姑娘剛萌芽的關係。"
+
+
 translate traditional_chinese episode006_efd784bc:
 
-    # "When the guards delivered me to my cell I thought Lilly was in the shower again."
-    ""
 
-# game/episode006.rpy:458
+    "當警衛把我送回牢房時，我以爲莉莉又在洗澡。"
+
+
 translate traditional_chinese episode006_2ac76f03:
 
-    # "Then I noticed there wasn't any water running."
-    ""
 
-# game/episode006.rpy:459
+    "然後我注意到根本沒有水聲。"
+
+
 translate traditional_chinese episode006_af2c5664:
 
-    # "The cell was completely empty."
-    ""
 
-# game/episode006.rpy:461
+    "牢房裡空無一人。"
+
+
 translate traditional_chinese episode006_f0eb4980:
 
-    # "A little worried and dejected I sat on one of the benches."
-    ""
 
-# game/episode006.rpy:462
+    "我有點擔心又沮喪地坐到了一張長凳上。"
+
+
 translate traditional_chinese episode006_4d768321:
 
-    # "Was Lilly moved to another cell again, or did they subject her to a session in the chair as well?"
-    ""
 
-# game/episode006.rpy:463
+    "莉莉是被轉移到另一個牢房了，還是他們讓她也去那把椅子那兒經歷了一番？"
+
+
 translate traditional_chinese episode006_844f49cd:
 
-    # "I waited for what felt like several hours, but it could have easily been less than sixty minutes."
-    ""
 
-# game/episode006.rpy:468
+    "我感覺自己等了好幾個小時，但很有可能還不到六十分鐘。"
+
+
 translate traditional_chinese episode006_2d7fa31c:
 
-    # "The door opened."
-    ""
 
-# game/episode006.rpy:470
+    "門開了。"
+
+
 translate traditional_chinese episode006_ce6ad2ff:
 
-    # "At first I thought they'd brought my food, but the door opened fully and Lilly was pushed in."
-    ""
 
-# game/episode006.rpy:471
+    "起初我以爲他們送來了我的食物，但門全開了，莉莉被推了進來。"
+
+
 translate traditional_chinese episode006_01528520:
 
-    # "Her despairing expression made my heart sink."
-    ""
 
-# game/episode006.rpy:473
+    "她那絕望的表情讓我的心沉了下去。"
+
+
 translate traditional_chinese episode006_7df34f95:
 
-    # c "Lilly?"
-    c ""
 
-# game/episode006.rpy:474
+    c "莉莉？"
+
+
 translate traditional_chinese episode006_6a5e1d38:
 
-    # c "What did they do to you?"
-    c ""
 
-# game/episode006.rpy:475
+    c "他們對你做了什麼？"
+
+
 translate traditional_chinese episode006_6150673d:
 
-    # "She approached me, but I had to cover the last few inches."
-    ""
 
-# game/episode006.rpy:477
+    "她朝我走來，但最後那幾步得由我補上。"
+
+
 translate traditional_chinese episode006_cfab0c88:
 
-    # "We faced each other and she looked up to me, with tears in her eyes."
-    ""
 
-# game/episode006.rpy:479
+    "我們面對面站着，她抬頭看着我，眼裡含淚。"
+
+
 translate traditional_chinese episode006_9d5c2e7f:
 
-    # "She fell against my chest and started crying."
-    ""
 
-# game/episode006.rpy:480
+    "她倚靠在我的胸前開始哭泣。"
+
+
 translate traditional_chinese episode006_c194ccfb:
 
-    # "I took her into my arms and held her as she sobbed without restraint."
-    ""
 
-# game/episode006.rpy:482
+    "我將她擁入懷中，她毫無克制地抽泣着。"
+
+
 translate traditional_chinese episode006_4730c415:
 
-    # l "I was so scared."
-    l ""
 
-# game/episode006.rpy:483
+    l "我太害怕了。"
+
+
 translate traditional_chinese episode006_d22063a6:
 
-    # c "Did they hurt you?"
-    c ""
 
-# game/episode006.rpy:484
+    c "他們傷害你了嗎？"
+
+
 translate traditional_chinese episode006_13a36e28:
 
-    # l "No, no, nothing like that!"
-    l ""
 
-# game/episode006.rpy:486
+    l "不，沒有，沒有那樣！"
+
+
 translate traditional_chinese episode006_0eb7ac2d:
 
-    # "Relieved, I held her tightly, as she slowly calmed down and regained control over her breathing."
-    ""
 
-# game/episode006.rpy:487
+    "鬆了口氣的我緊緊抱住她，她慢慢平靜下來恢復了呼吸。"
+
+
 translate traditional_chinese episode006_4cc06436:
 
-    # c "Do you want to sit down?"
-    c ""
 
-# game/episode006.rpy:488
+    c "你想坐下嗎？"
+
+
 translate traditional_chinese episode006_02c4b352:
 
-    # l "Yes, on the bed please."
-    l ""
 
-# game/episode006.rpy:490
+    l "好，請坐在牀上。"
+
+
 translate traditional_chinese episode006_8e52ff20:
 
-    # "She put her head in my lap as soon as we sat down."
-    ""
 
-# game/episode006.rpy:491
+    "剛坐下她就把頭枕在我腿上。"
+
+
 translate traditional_chinese episode006_2ee18649:
 
-    # "After a shuddering sigh, she remained silent."
-    ""
 
-# game/episode006.rpy:492
+    "顫抖着嘆了口氣後，她陷入沉默。"
+
+
 translate traditional_chinese episode006_d07e8ca1:
 
-    # "We just sat there, Lilly staring in the distance, until I dared to break the silence."
-    ""
 
-# game/episode006.rpy:494
+    "我們就這樣坐着，莉莉凝視着遠方，直到我鼓起勇氣打破沉默。"
+
+
 translate traditional_chinese episode006_6a7b9bcb:
 
-    # c "Do you want to talk about it?"
-    c ""
 
-# game/episode006.rpy:495
+    c "想聊聊發生了什麼嗎？"
+
+
 translate traditional_chinese episode006_733e9221:
 
-    # l "Not really, but maybe I should."
-    l ""
 
-# game/episode006.rpy:496
+    l "不太想，但也許我應該說。"
+
+
 translate traditional_chinese episode006_cd4436e1:
 
-    # l "They put me in a chair for the first time."
-    l ""
 
-# game/episode006.rpy:497
+    l "他們第一次讓我坐在那張椅子上。"
+
+
 translate traditional_chinese episode006_b437b351:
 
-    # c "Fuck."
-    c ""
 
-# game/episode006.rpy:498
+    c "該死。"
+
+
 translate traditional_chinese episode006_a39f34de:
 
-    # c "I should have prepared you more for that experience."
-    c ""
 
-# game/episode006.rpy:499
+    c "我本該讓你對那種體驗做好更多心理準備的。"
+
+
 translate traditional_chinese episode006_79b4b926:
 
-    # l "I'm not sure you could have."
-    l ""
 
-# game/episode006.rpy:501
+    l "我覺得你再怎麼準備也沒用。"
+
+
 translate traditional_chinese episode006_728b1e61:
 
-    # l "At first I thought they were going to torture me, pull out my nails or something."
-    l ""
 
-# game/episode006.rpy:502
+    l "起初我以爲他們要折磨我，拔指甲之類的。"
+
+
 translate traditional_chinese episode006_2ca38170:
 
-    # l "Instead the lights went out and I almost puked."
-    l ""
 
-# game/episode006.rpy:503
+    l "結果燈滅了，我差點吐出來。"
+
+
 translate traditional_chinese episode006_1baf43e8:
 
-    # l "And then..."
-    l ""
 
-# game/episode006.rpy:505
+    l "然後..."
+
+
 translate traditional_chinese episode006_940ac68c:
 
-    # "She gripped my hand in fear as the memories about her time in the chair came back to her."
-    ""
 
-# game/episode006.rpy:506
+    "當椅子上的記憶湧現時，她因恐懼而緊緊抓住我的手。"
+
+
 translate traditional_chinese episode006_fe3c730b:
 
-    # l "They showed me things."
-    l ""
 
-# game/episode006.rpy:507
+    l "他們讓我看到了某些東西。"
+
+
 translate traditional_chinese episode006_8e17c185:
 
-    # l "Terrifying things."
-    l ""
 
-# game/episode006.rpy:508
+    l "可怕的東西。"
+
+
 translate traditional_chinese episode006_3e5b6635:
 
-    # l "Things that looked so familiar, but I couldn't really place them, like something prohibited me."
-    l ""
 
-# game/episode006.rpy:509
+    l "那些景象似曾相識，但我無法確切定位，好像被禁止回憶。"
+
+
 translate traditional_chinese episode006_5384d492:
 
-    # c "I know the feeling."
-    c ""
 
-# game/episode006.rpy:511
+    c "我知道那種感覺。"
+
+
 translate traditional_chinese episode006_2b82aa8d:
 
-    # l "There's this house in a field."
-    l ""
 
-# game/episode006.rpy:512
+    l "田地裏有一所房子。"
+
+
 translate traditional_chinese episode006_373a10db:
 
-    # l "It's totally dark, save for the light coming through the windows."
-    l ""
 
-# game/episode006.rpy:513
+    l "一片漆黑，除了從窗戶透進來的光。"
+
+
 translate traditional_chinese episode006_35abf060:
 
-    # l "I walk towards the front door, light is coming from under the door and something is buzzing."
-    l ""
 
-# game/episode006.rpy:514
+    l "我走向前門，門底下透着光，還有東西在嗡嗡響。"
+
+
 translate traditional_chinese episode006_4f2c59a2:
 
-    # l "I place my hand on the door handle and the buzzing gets louder, everything starts trembling."
-    l ""
 
-# game/episode006.rpy:515
+    l "我把手放在門把手上，嗡嗡聲變得更響，一切都開始顫抖。"
+
+
 translate traditional_chinese episode006_83dcdab2:
 
-    # l "I feel a presence approaching, from the other side."
-    l ""
 
-# game/episode006.rpy:516
+    l "我感覺到有一個存在從另一邊接近。"
+
+
 translate traditional_chinese episode006_fc8e610f:
 
-    # l "And fear grips me, overwhelming, primal fear."
-    l ""
 
-# game/episode006.rpy:518
+    l "恐懼攫住了我，那種壓倒性的、原始恐懼。"
+
+
 translate traditional_chinese episode006_611fecb8:
 
-    # l "I screamed and I was still screaming when the lights suddenly blinked on."
-    l ""
 
-# game/episode006.rpy:519
+    l "我尖叫着，燈突然亮起時我還在尖叫。"
+
+
 translate traditional_chinese episode006_4332e745:
 
-    # "Lilly told her story with fits and starts, but she managed to get to the end."
-    ""
 
-# game/episode006.rpy:520
+    "莉莉斷斷續續地講她的故事，但她設法講到了結尾。"
+
+
 translate traditional_chinese episode006_b5da5dd9:
 
-    # "Her experience in the chair sounded very different from mine."
-    ""
 
-# game/episode006.rpy:521
+    "她在椅子上的經歷聽起來和我的很不一樣。"
+
+
 translate traditional_chinese episode006_21ea6181:
 
-    # "While my sessions played out some debased sexual fantasy, hers tapped into some form of existential dread."
-    ""
 
-# game/episode006.rpy:522
+    "我的部分是上演一些變態的性幻想，她的則涉及某種生存恐懼。"
+
+
 translate traditional_chinese episode006_a23cf713:
 
-    # c "They're making you experience nightmares."
-    c ""
 
-# game/episode006.rpy:523
+    c "他們在讓你經歷噩夢。"
+
+
 translate traditional_chinese episode006_6816239b:
 
-    # c "I think we're both put in some kind of simulation, the nausea is an indicator."
-    c ""
 
-# game/episode006.rpy:524
+    c "我想我們都被放進某種模擬裏了，噁心感是個跡象。"
+
+
 translate traditional_chinese episode006_86e54aeb:
 
-    # c "But for what purpose?"
-    c ""
 
-# game/episode006.rpy:526
+    c "但這是爲了什麼目的？"
+
+
 translate traditional_chinese episode006_ab8a47dd:
 
-    # l "Some twisted scientific experiment, maybe?"
-    l ""
 
-# game/episode006.rpy:527
+    l "可能是什麼扭曲的科學實驗吧？"
+
+
 translate traditional_chinese episode006_60633d2d:
 
-    # c "Could be."
-    c ""
 
-# game/episode006.rpy:528
+    c "有可能。"
+
+
 translate traditional_chinese episode006_76c2c11c:
 
-    # c "I really hope they're not going to subject you again."
-    c ""
 
-# game/episode006.rpy:529
+    c "我真希望他們不會再讓你受罪。"
+
+
 translate traditional_chinese episode006_d452c0db:
 
-    # l "I think they will."
-    l ""
 
-# game/episode006.rpy:530
+    l "我想他們會。"
+
+
 translate traditional_chinese episode006_72bb547a:
 
-    # c "Fuck, I wish I could help you get through those nightmares."
-    c ""
 
-# game/episode006.rpy:532
+    c "操，我希望我能幫你熬過那些噩夢。"
+
+
 translate traditional_chinese episode006_36dd1366:
 
-    # l "Talking about it with you helps."
-    l ""
 
-# game/episode006.rpy:533
+    l "跟你聊聊有幫助。"
+
+
 translate traditional_chinese episode006_003a7b1d:
 
-    # l "There's nothing else you can do I'm afraid."
-    l ""
 
-# game/episode006.rpy:534
+    l "恐怕你做不了別的了。"
+
+
 translate traditional_chinese episode006_1f12818c:
 
-    # l "But they're not showing you nightmares in the chair?"
-    l ""
 
-# game/episode006.rpy:535
+    l "但在椅子上他們沒讓你看噩夢？"
+
+
 translate traditional_chinese episode006_c8882506:
 
-    # c "No, I was a little afraid to tell you."
-    c ""
 
-# game/episode006.rpy:537
+    c "沒，我有點害怕告訴你。"
+
+
 translate traditional_chinese episode006_68e2a908:
 
-    # l "Why?"
-    l ""
 
-# game/episode006.rpy:538
+    l "爲什麼？"
+
+
 translate traditional_chinese episode006_2ec0dd7b:
 
-    # c "Because they're showing me some sort of twisted sex dream."
-    c ""
 
-# game/episode006.rpy:539
+    c "因爲他們讓我看了某種扭曲的春夢。"
+
+
 translate traditional_chinese episode006_45678e71:
 
-    # c "Two women, one exerts control over the other."
-    c ""
 
-# game/episode006.rpy:540
+    c "兩個女人，一個在控制另一個。"
+
+
 translate traditional_chinese episode006_8b9b23df:
 
-    # l "Damn, I get the nightmares and you get treated to wet dreams, I know what I'd prefer..."
-    l ""
 
-# game/episode006.rpy:542
+    l "該死的，我做噩夢，你卻享受春夢，我知道我更想選..."
+
+
 translate traditional_chinese episode006_7fab9531:
 
-    # "We lay down on the bed, Lilly lying on my stomach, probably still feeling a little rattled about what happened to her."
-    ""
 
-# game/episode006.rpy:543
+    "我們躺在牀上，莉莉趴在我肚子上，可能還對發生在她身上的事感到有點驚魂未定。"
+
+
 translate traditional_chinese episode006_d5a97b9c:
 
-    # l "You said you know about those memories that feel prohibited?"
-    l ""
 
-# game/episode006.rpy:544
+    l "你說你知道那些感覺被禁止的記憶？"
+
+
 translate traditional_chinese episode006_8a29e1eb:
 
-    # c "Yes, I do."
-    c ""
 
-# game/episode006.rpy:545
+    c "是的，我知道。"
+
+
 translate traditional_chinese episode006_cfbf5cc9:
 
-    # c "I know my own name, but nothing else."
-    c ""
 
-# game/episode006.rpy:547
+    c "我知道自己的名字，但除此之外什麼都不知道。"
+
+
 translate traditional_chinese episode006_1a12e453:
 
-    # l "But what about those suppressed memories, when did you experience those?"
-    l ""
 
-# game/episode006.rpy:548
+    l "但那些被壓抑的記憶呢，你是什麼時候經歷的？"
+
+
 translate traditional_chinese episode006_ac4ca94a:
 
-    # c "When I first saw you."
-    c ""
 
-# game/episode006.rpy:549
+    c "當我第一次見到你時。"
+
+
 translate traditional_chinese episode006_d80db94b:
 
-    # l "Really?"
-    l ""
 
-# game/episode006.rpy:550
+    l "真的嗎？"
+
+
 translate traditional_chinese episode006_c8dcfc0d:
 
-    # c "You sound surprised?"
-    c ""
 
-# game/episode006.rpy:551
+    c "你聽起來很驚訝？"
+
+
 translate traditional_chinese episode006_757d276a:
 
-    # l "Yes, because I had it too."
-    l ""
 
-# game/episode006.rpy:553
+    l "是的，因爲我也有過。"
+
+
 translate traditional_chinese episode006_bdf11531:
 
-    # l "Didn't you notice me gawking at you for several seconds?"
-    l ""
 
-# game/episode006.rpy:554
+    l "你沒注意到我傻盯着你看了好幾秒嗎？"
+
+
 translate traditional_chinese episode006_c9a884b9:
 
-    # c "I probably was too busy doing it myself."
-    c ""
 
-# game/episode006.rpy:556
+    c "我自己當時可能也忙着做同樣的事。"
+
+
 translate traditional_chinese episode006_936cc08c:
 
-    # l "Could you describe what happened when you first saw me?"
-    l ""
 
-# game/episode006.rpy:557
+    l "你能描述一下第一次見到我時發生了什麼嗎？"
+
+
 translate traditional_chinese episode006_57f30b2a:
 
-    # c "I don't know exactly."
-    c ""
 
-# game/episode006.rpy:558
+    c "我不太清楚。"
+
+
 translate traditional_chinese episode006_61c7d36d:
 
-    # c "Something pleasant welled up in my mind, but it didn't burst to the surface somehow."
-    c ""
 
-# game/episode006.rpy:560
+    c "某種愉快的東西在我心裡湧起，但不知爲什麼沒完全冒出來。"
+
+
 translate traditional_chinese episode006_53d24709:
 
-    # l "As if it was hidden under a thick blanket?"
-    l ""
 
-# game/episode006.rpy:561
+    l "就像是被藏在厚毯子底下？"
+
+
 translate traditional_chinese episode006_b443b849:
 
-    # c "Exactly like that."
-    c ""
 
-# game/episode006.rpy:562
+    c "就是這樣。"
+
+
 translate traditional_chinese episode006_0fed1e55:
 
-    # l "So maybe we knew each other before?"
-    l ""
 
-# game/episode006.rpy:563
+    l "所以或許我們以前認識？"
+
+
 translate traditional_chinese episode006_662fcb20:
 
-    # c "The thought crossed my mind."
-    c ""
 
-# game/episode006.rpy:565
+    c "我有過這個念頭。"
+
+
 translate traditional_chinese episode006_87b6964f:
 
-    # l "It makes sense."
-    l ""
 
-# game/episode006.rpy:566
+    l "這合情合理。"
+
+
 translate traditional_chinese episode006_def74ad9:
 
-    # l "I had the exact same feeling when I first saw you."
-    l ""
 
-# game/episode006.rpy:570
+    l "我第一次見到你時也有完全相同的感覺。"
+
+
 translate traditional_chinese episode006_f52aa78a:
 
-    # c "Maybe we're family or something?"
-    c ""
 
-# game/episode006.rpy:572
+    c "或許我們是家人什麼的？"
+
+
 translate traditional_chinese episode006_2c842622:
 
-    # l "Yeah right, distant family in that case, because I'm much cuter than you!"
-    l ""
 
-# game/episode006.rpy:573
+    l "沒錯，那算是遠房親戚關係吧，因爲我可比你可愛多了！"
+
+
 translate traditional_chinese episode006_6acdf356:
 
-    # c "Sure!"
-    c ""
 
-# game/episode006.rpy:576
+    c "當然！"
+
+
 translate traditional_chinese episode006_ec4b65ea:
 
-    # c "Maybe we're best friends or something?"
-    c ""
 
-# game/episode006.rpy:578
+    c "說不定我們是死黨之類的？"
+
+
 translate traditional_chinese episode006_589167f5:
 
-    # l "Could be, though it felt more complicated."
-    l ""
 
-# game/episode006.rpy:579
+    l "有可能，但感覺更複雜些。"
+
+
 translate traditional_chinese episode006_f48b47f2:
 
-    # c "Mortal enemies then?"
-    c ""
 
-# game/episode006.rpy:581
+    c "難道是死對頭？"
+
+
 translate traditional_chinese episode006_33b148f3:
 
-    # l "Haha, maybe something in between."
-    l ""
 
-# game/episode006.rpy:584
+    l "哈哈，或許是介於兩者之間。"
+
+
 translate traditional_chinese episode006_8e66b590:
 
-    # c "What did you feel exactly?"
-    c ""
 
-# game/episode006.rpy:586
+    c "你具體感覺到什麼了？"
+
+
 translate traditional_chinese episode006_9a96642a:
 
-    # l "I don't know..."
-    l ""
 
-# game/episode006.rpy:587
+    l "我不知道..."
+
+
 translate traditional_chinese episode006_27b23c4a:
 
-    # l "Something very strong and a kind of wild fluttering in my stomach."
-    l ""
 
-# game/episode006.rpy:588
+    l "強烈的情緒，還有種發狂般的胃部翻騰。"
+
+
 translate traditional_chinese episode006_e36643a3:
 
-    # c "Like butterflies?"
-    c ""
 
-# game/episode006.rpy:590
+    c "像蝴蝶亂飛？"
+
+
 translate traditional_chinese episode006_ebfedcc6:
 
-    # l "Like butterflies..."
-    l ""
 
-# game/episode006.rpy:592
+    l "像蝴蝶亂飛..."
+
+
 translate traditional_chinese episode006_843cecbd:
 
-    # l "You don't think..."
-    l ""
 
-# game/episode006.rpy:593
+    l "你該不會..."
+
+
 translate traditional_chinese episode006_d37701d0:
 
-    # c "It could be."
-    c ""
 
-# game/episode006.rpy:594
+    c "說不定。"
+
+
 translate traditional_chinese episode006_145b9d40:
 
-    # l "Love?"
-    l ""
 
-# game/episode006.rpy:595
+    l "愛嗎？"
+
+
 translate traditional_chinese episode006_9321a2d7:
 
-    # c "You sound really unsure."
-    c ""
 
-# game/episode006.rpy:597
+    c "怎麼說得這麼沒把握。"
+
+
 translate traditional_chinese episode006_7e911e2d:
 
-    # l "It's just, why would we forget something like that?"
-    l ""
 
-# game/episode006.rpy:598
+    l "我在想，我們爲什麼會忘記這種事？"
+
+
 translate traditional_chinese episode006_4ee21873:
 
-    # c "I'm not sure, but I don't think we forgot it willingly."
-    c ""
 
-# game/episode006.rpy:600
+    c "不清楚，但應該不是自願忘記的。"
+
+
 translate traditional_chinese episode006_a11c4511:
 
-    # l "Right."
-    l ""
 
-# game/episode006.rpy:601
+    l "對。"
+
+
 translate traditional_chinese episode006_03f2b0bf:
 
-    # c "But to be very honest, I don't hate having you close to me."
-    c ""
 
-# game/episode006.rpy:603
+    c "不過老實說，我不討厭跟你靠這麼近。"
+
+
 translate traditional_chinese episode006_650a49f8:
 
-    # l "Oh...{w} eh..."
-    l ""
 
-# game/episode006.rpy:604
+    l "噢...{w}呃..."
+
+
 translate traditional_chinese episode006_eae013fb:
 
-    # c "Are you blushing?"
-    c ""
 
-# game/episode006.rpy:606
+    c "你臉紅了？"
+
+
 translate traditional_chinese episode006_f91f079a:
 
-    # l "Just lay off, [p_name]!"
-    l ""
 
-# game/episode006.rpy:608
+    l "別鬧了，[p_name]！"
+
+
 translate traditional_chinese episode006_9c8deaed:
 
-    # l "You've gotten me all confused!"
-    l ""
 
-# game/episode006.rpy:609
+    l "你把我腦子都搞亂了！"
+
+
 translate traditional_chinese episode006_bc30dece:
 
-    # c "Sorry."
-    c ""
 
-# game/episode006.rpy:611
+    c "抱歉。"
+
+
 translate traditional_chinese episode006_517cb65b:
 
-    # l "Don't be."
-    l ""
 
-# game/episode006.rpy:612
+    l "別這樣。"
+
+
 translate traditional_chinese episode006_cb0e5944:
 
-    # l "I just need to think about it, that's all."
-    l ""
 
-# game/episode006.rpy:613
+    l "我只是需要想想而已。"
+
+
 translate traditional_chinese episode006_b8bd3301:
 
-    # l "Why don't we try and get some sleep."
-    l ""
 
-# game/episode006.rpy:614
+    l "我們不妨試試睡一會兒。"
+
+
 translate traditional_chinese episode006_5ad570ac:
 
-    # c "Sounds like a good idea."
-    c ""
 
-# game/episode006.rpy:616
+    c "聽起來是個好主意。"
+
+
 translate traditional_chinese episode006_d5d97710_1:
 
-    # l "Good night, [p_name]."
-    l ""
 
-# game/episode006.rpy:617
+    l "晚安, [p_name]."
+
+
 translate traditional_chinese episode006_9fcead47_1:
 
-    # c "Good night, Lilly."
-    c ""
 
-# game/episode006.rpy:622
+    c "晚安, 莉莉。"
+
+
 translate traditional_chinese episode006_ccd3fb46:
 
-    # "The lights dimmed automatically and Lilly's breathing became very regular after just a few minutes."
-    ""
 
-# game/episode006.rpy:623
+    "燈自動暗了下來，莉莉的呼吸在幾分鐘後就變得非常均勻了。"
+
+
 translate traditional_chinese episode006_908edb12:
 
-    # "I had more trouble falling asleep, mulling over what we just talked about."
-    ""
 
-# game/episode006.rpy:625
+    "我入睡更困難了，反覆琢磨我們剛才談的事情。"
+
+
 translate traditional_chinese episode006_6466ad86:
 
-    # "I was also acutely aware of the nearness of her body, feeling so comfortable against my own."
-    ""
 
-# game/episode006.rpy:627
+    "我也敏銳地意識到她身體的靠近，感覺靠在我身上如此舒適。"
+
+
 translate traditional_chinese episode006_8e04cb0e:
 
-    # "I was also acutely aware of the nearness of her body, our hands almost touching."
-    ""
 
-# game/episode006.rpy:629
+    "我也敏銳地意識到她身體的靠近，我們的手幾乎碰到一起。"
+
+
 translate traditional_chinese episode006_080fbe73:
 
-    # "Once I concentrated on her measured breathing I managed to fall asleep as well."
-    ""
 
-# game/episode006.rpy:631
+    "一旦我專注於她有節奏的呼吸，我也終於睡着了。"
+
+
 translate traditional_chinese episode006_14fe1284:
 
-    # "In pitch blackness I woke up to screams."
-    ""
 
-# game/episode006.rpy:633
+    "在一片漆黑中，我被尖叫聲驚醒。"
+
+
 translate traditional_chinese episode006_b94fa7e0:
 
-    # "It was Lilly."
-    ""
 
-# game/episode006.rpy:634
+    "是莉莉。"
+
+
 translate traditional_chinese episode006_c4b7d39a:
 
-    # "She was half-awake and sounded absolutely terrified."
-    ""
 
-# game/episode006.rpy:639
+    "她半睡半醒，聽起來完全被嚇壞了。"
+
+
 translate traditional_chinese episode006_7813d160:
 
-    # "As the ceiling light went on again, I reached for her and she gave herself over to my embrace, her last screams dying against my chest."
-    ""
 
-# game/episode006.rpy:641
+    "當頂燈又亮起來時，我伸手去抱她，她便依偎在我的懷抱中，她最後的尖叫聲埋在我的胸前。"
+
+
 translate traditional_chinese episode006_13152091:
 
-    # "Lilly sobbed and trembled, now fully awake, but still unable to speak."
-    ""
 
-# game/episode006.rpy:642
+    "莉莉在抽泣顫抖，現在完全醒了，但還說不出話來。"
+
+
 translate traditional_chinese episode006_f81bc802:
 
-    # c "Don't be afraid, I'm here for you."
-    c ""
 
-# game/episode006.rpy:643
+    c "別害怕，我在這兒陪着你。"
+
+
 translate traditional_chinese episode006_341cd9c2:
 
-    # c "There's nothing to be afraid of."
-    c ""
 
-# game/episode006.rpy:644
+    c "沒什麼好害怕的。"
+
+
 translate traditional_chinese episode006_af7f625d:
 
-    # "It took quite a while for the trembling to subside and her breathing to steady."
-    ""
 
-# game/episode006.rpy:646
+    "花了相當一段時間顫抖才平息，她的呼吸才穩定下來。"
+
+
 translate traditional_chinese episode006_cbd60b69:
 
-    # l "I saw it again, [p_name]."
-    l ""
 
-# game/episode006.rpy:647
+    l "我又看見它了, [p_name]."
+
+
 translate traditional_chinese episode006_13b17528:
 
-    # l "The house.{w} The buzzing..."
-    l ""
 
-# game/episode006.rpy:648
+    l "那房子.{w} 嗡嗡聲..."
+
+
 translate traditional_chinese episode006_95f514ee:
 
-    # l "I don't want to go to sleep again."
-    l ""
 
-# game/episode006.rpy:650
+    l "我不想再睡覺了。"
+
+
 translate traditional_chinese episode006_7114a1e4:
 
-    # l "I'm so afraid."
-    l ""
 
-# game/episode006.rpy:651
+    l "我好害怕。"
+
+
 translate traditional_chinese episode006_c15e72d0:
 
-    # "My words failing me, I stroked her hair and just held her."
-    ""
 
-# game/episode006.rpy:653
+    "我無言以對，於是輕撫她的頭髮，只是抱着她。"
+
+
 translate traditional_chinese episode006_98ece2d1:
 
-    # "Lilly looked up to me, her eyes reflecting a whole range of conflicting emotions."
-    ""
 
-# game/episode006.rpy:660
+    "莉莉抬頭望着我，眼中映出千般掙扎的情緒。"
+
+
 translate traditional_chinese episode006_2b18b476:
 
-    # "My lips reached for hers and we kissed."
-    ""
 
-# game/episode006.rpy:661
+    "我的脣尋到她的，我們吻在一起。"
+
+
 translate traditional_chinese episode006_0f7fe8e5:
 
-    # "We were careful at first, as if afraid one of us would pull away."
-    ""
 
-# game/episode006.rpy:662
+    "起初我們都小心翼翼，彷佛害怕對方退縮。"
+
+
 translate traditional_chinese episode006_2219664f:
 
-    # "When none of that happened, any reluctance dissolved in an instant."
-    ""
 
-# game/episode006.rpy:664
+    "當這擔憂未曾成真，最後那點遲疑霎時煙消雲散。"
+
+
 translate traditional_chinese episode006_75472daf:
 
-    # "Drawing in the smell of her hair, feeling the firmness of her body against mine, I kissed her over and over."
-    ""
 
-# game/episode006.rpy:665
+    "呼吸着她髮絲的馨香，感受她緊貼我身軀的曲線，我一遍遍親吻着她。"
+
+
 translate traditional_chinese episode006_c0b3af0b:
 
-    # "Her hands touched me all over my chest, pulling at me, as if wanting me ever closer."
-    ""
 
-# game/episode006.rpy:666
+    "她的手在我胸膛遊走，揪住我的衣衫，像是要把我揉進身體裡。"
+
+
 translate traditional_chinese episode006_64c5112a:
 
-    # "The desire to touch her, to meld together even, was overpowering, but at the same time another feeling struck me, for the first time, everything made perfect sense."
-    ""
 
-# game/episode006.rpy:667
+    "想要觸摸她、甚至與她融爲一體的渴望如此洶湧，但與此同時，某種感受第一次擊中了我——此刻萬物都變得合理。"
+
+
 translate traditional_chinese episode006_3e02de42:
 
-    # "Lilly was mine and I was hers."
-    ""
 
-# game/episode006.rpy:669
+    "莉莉屬於我，我亦屬於她。"
+
+
 translate traditional_chinese episode006_e61ac966:
 
-    # "She gasped when I cupped one of her breasts in my hand, but made no attempt to stop me."
-    ""
 
-# game/episode006.rpy:670
+    "當我手掌撫上她胸脯時她抽了口氣，但絲毫沒有阻止的意思。"
+
+
 translate traditional_chinese episode006_156ed934:
 
-    # "Almost regretting it, I parted my lips from hers and moved slowly downwards."
-    ""
 
-# game/episode006.rpy:672
+    "帶着近乎懊悔的心情，我離開她的脣瓣緩緩向下移動。"
+
+
 translate traditional_chinese episode006_5b425e1f:
 
-    # "She arched her back to allow me to brush her soft skin with my lips."
-    ""
 
-# game/episode006.rpy:673
+    "她弓起脊背任我的雙脣拂過柔嫩肌膚。"
+
+
 translate traditional_chinese episode006_551f028c:
 
-    # "I could feel her heart beating heavily as my caresses took her breath away."
-    ""
 
-# game/episode006.rpy:679
+    "我的愛撫令她氣息紊亂，我能聽見她怦怦作響的心跳。"
+
+
 translate traditional_chinese episode006_53c48ca2:
 
-    # "I kept holding and lay down with her again, her head resting on my chest."
-    ""
 
-# game/episode006.rpy:680
+    "我繼續擁着她躺下，讓她枕在我胸前。"
+
+
 translate traditional_chinese episode006_b30c6515:
 
-    # "Despite her fear, she couldn't fight the sleep and after a long time her eyelids became heavy again."
-    ""
 
-# game/episode006.rpy:682
+    "恐懼終究敵不過倦意，許久之後她的眼皮又開始打架。"
+
+
 translate traditional_chinese episode006_671de09d:
 
-    # "She fell asleep on my chest and I followed soon after."
-    ""
 
-# game/episode006.rpy:684
+    "她在我的胸膛睡着，很快我也沉入夢鄉。"
+
+
 translate traditional_chinese episode006_4256d248:
 
-    # "I thought it was better not to disturb her, maybe scaring her even more."
-    ""
 
-# game/episode006.rpy:686
+    "我覺得不該驚擾她，免得她更加害怕。"
+
+
 translate traditional_chinese episode006_fe03c3de:
 
-    # "The screaming subsided quickly and Lilly fell asleep with a whimper."
-    ""
 
-# game/episode006.rpy:690
+    "尖叫聲很快平息，莉莉嗚咽着睡着了。"
+
+
 translate traditional_chinese episode006_de0f8064:
 
-    # "Suddenly the lights went on."
-    ""
 
-# game/episode006.rpy:693
+    "燈光驟然亮起。"
+
+
 translate traditional_chinese episode006_1e4f4100:
 
-    # "We practically jumped up in shock, standing on both sides of the bed."
-    ""
 
-# game/episode006.rpy:696
+    "我們驚得從牀上跳起來，分立牀鋪兩側。"
+
+
 translate traditional_chinese episode006_481cd52d:
 
-    # "We were both awake in an instant."
-    ""
 
-# game/episode006.rpy:697
+    "兩人瞬間清醒。"
+
+
 translate traditional_chinese episode006_fcddab0e:
 
-    # "Four guards came in and walked towards us."
-    ""
 
-# game/episode006.rpy:699
+    "四名警衛衝進來逼近我們。"
+
+
 translate traditional_chinese episode006_5eea9806:
 
-    # l "Leave us alone!"
-    l ""
 
-# game/episode006.rpy:700
+    l "別碰我們！"
+
+
 translate traditional_chinese episode006_79231d8f:
 
-    # c "Get your fucking hands off her."
-    c ""
 
-# game/episode006.rpy:702
+    c "你他媽的把手從她身上拿開！"
+
+
 translate traditional_chinese episode006_ebf2ccc5:
 
-    # "The guards didn't understand us or clearly didn't care and grabbed us both."
-    ""
 
-# game/episode006.rpy:703
+    "警衛們聽不懂或根本不在乎，直接抓住了我們兩個。"
+
+
 translate traditional_chinese episode006_ff6b6855:
 
-    # "We were hauled outside and I fully expected them to take me to the room with the chair again."
-    ""
 
-# game/episode006.rpy:705
+    "我們被拖到外面，我完全以爲他們又要帶我去那個有椅子的房間了。"
+
+
 translate traditional_chinese episode006_440161aa:
 
-    # "Instead the two guards holding me followed their colleagues who had Lilly and together we went into a different direction."
-    ""
 
-# game/episode006.rpy:706
+    "但押着我的兩個警衛，跟着控制莉莉的同事，我們被一起帶往不同方向。"
+
+
 translate traditional_chinese episode006_d72629ce:
 
-    # l "Where are you taking us?"
-    l ""
 
-# game/episode006.rpy:707
+    l "你們要帶我們去哪？"
+
+
 translate traditional_chinese episode006_8f53ac6e:
 
-    # "The dread in Lilly's voice was palpable and a powerful hatred took root inside of me."
-    ""
 
-# game/episode006.rpy:708
+    "莉莉聲音裏的恐懼清晰可辨，我心中猛然燃起強烈的恨意。"
+
+
 translate traditional_chinese episode006_8f52c203:
 
-    # "I wanted to lash out at the people who'd done those things to her, treating us like lab animals to be experimented upon."
-    ""
 
-# game/episode006.rpy:710
+    "我恨不得痛揍那些傷害她的人，這羣把我們當實驗動物對待的混賬。"
+
+
 translate traditional_chinese episode006_fde45feb:
 
-    # "The guards must have sensed my growing tension, because they held me tighter and shoved me in front of them."
-    ""
 
-# game/episode006.rpy:712
+    "警衛們肯定察覺到我繃緊的身體，把我抓得更緊並往前猛推了一把。"
+
+
 translate traditional_chinese episode006_e4ff3f65:
 
-    # "We reached a door which opened automatically, giving way to another cell, much larger than ours."
-    ""
 
-# game/episode006.rpy:717
+    "自動門在我們面前滑開，露出比我們牢房大得多的新囚室。"
+
+
 translate traditional_chinese episode006_e54caacb:
 
-    # "Two women were sitting at a makeshift table together and looked very surprised to see us."
-    ""
 
-# game/episode006.rpy:718
+    "兩個女人正坐在臨時桌子旁，見到我們時滿臉錯愕。"
+
+
 translate traditional_chinese episode006_b694e15e:
 
-    # "We were pushed in and the door closed quickly behind us."
-    ""
 
-# game/episode006.rpy:720
+    "我們被推進門，鐵門在身後迅速關閉。"
+
+
 translate traditional_chinese episode006_e1608d0d:
 
-    # av "Great, roommates... now we have to share a bed."
-    av ""
 
-# game/episode006.rpy:722
+    av "好極了，新室友...現在還得共享牀鋪咯。"
+
+
 translate traditional_chinese episode006_aa5e5053:
 
-    # na "Be a little more polite, Aven."
-    na ""
 
-# game/episode006.rpy:724
+    na "說話客氣點，艾文。"
+
+
 translate traditional_chinese episode006_ff9bed56:
 
-    # av "You're not my mother, Nadya."
-    av ""
 
-# game/episode006.rpy:725
+    av "你又不是我媽，娜迪亞。"
+
+
 translate traditional_chinese episode006_f39fc7db:
 
-    # na "Well, we don't know that for sure."
-    na ""
 
-# game/episode006.rpy:726
+    na "嗯哼，這可說不準呢。"
+
+
 translate traditional_chinese episode006_335bb05c:
 
-    # na "My name is Nadya and this is Aven."
-    na ""
 
-# game/episode006.rpy:728
+    na "我是娜迪亞，這位是艾文。"
+
+
 translate traditional_chinese episode006_5aa2cfb0:
 
-    # l "Pleased to meet you, I'm Lilly and this is [p_name]."
-    l ""
 
-# game/episode006.rpy:730
+    l "很高興認識你們，我是莉莉，這位是[p_name]。"
+
+
 translate traditional_chinese episode006_cd822385:
 
-    # "Like first meeting Lilly, I was struck by something I couldn’t quite place."
-    ""
 
-# game/episode006.rpy:731
+    "和初見莉莉時相似，某種難以名狀的熟悉感擊中了我。"
+
+
 translate traditional_chinese episode006_fc1fabb3:
 
-    # "A clouded memory so vague I had no choice to just dismiss it."
-    ""
 
-# game/episode006.rpy:733
+    "模糊的記憶碎片朦朧不清，我只好甩甩頭不再深究。"
+
+
 translate traditional_chinese episode006_c86d59b5:
 
-    # "I was distracted by the girl named Aven anyway, who’d sauntered over and took a good look at us both."
-    ""
 
-# game/episode006.rpy:734
+    "反正我注意力很快被那個叫艾文的女孩吸引——她溜達過來仔細打量我倆。"
+
+
 translate traditional_chinese episode006_6905a079:
 
-    # "She hid her surprise well when she looked at me, but for a split second a look of shock marred her face when she looked right into my eyes."
-    ""
 
-# game/episode006.rpy:736
+    "她看我的時候掩飾得很好，但目光觸及我眼睛的剎那，震驚明顯破壞了她的表情。"
+
+
 translate traditional_chinese episode006_9ac59884:
 
-    # "I didn’t know whether it was recognition or some other realization, but it sure was weird."
-    ""
 
-# game/episode006.rpy:737
+    "不知道是認出了什麼還是突然想到別的，總之非常怪異。"
+
+
 translate traditional_chinese episode006_61c3208f:
 
-    # "The woman named Nadya looked at us for a long time before speaking again."
-    ""
 
-# game/episode006.rpy:739
+    "名叫娜迪亞的女人注視我們許久才再次開口。"
+
+
 translate traditional_chinese episode006_2ad2a63b:
 
-    # na "I trust you don't know how you got here as well?"
-    na ""
 
-# game/episode006.rpy:740
+    na "想必你們也搞不清怎麼來到這兒的吧？"
+
+
 translate traditional_chinese episode006_13329d00:
 
-    # c "Yes, we were in a similar cell together for a while."
-    c ""
 
-# game/episode006.rpy:741
+    c "嗯，我們之前也關在類似的牢房裡。"
+
+
 translate traditional_chinese episode006_1f27292d:
 
-    # c "Do they take you out for tests as well?"
-    c ""
 
-# game/episode006.rpy:743
+    c "他們也會帶你們出去做測試嗎？"
+
+
 translate traditional_chinese episode006_9b284407:
 
-    # av "Tests?"
-    av ""
 
-# game/episode006.rpy:745
+    av "測試？"
+
+
 translate traditional_chinese episode006_2b748d1c:
 
-    # na "Maybe they’re doing the same to them as they do to you?"
-    na ""
 
-# game/episode006.rpy:746
+    na "說不定他們對她做了和對你做的一樣的事？"
+
+
 translate traditional_chinese episode006_20e67fc0:
 
-    # av "I’ve told you before, as soon as they bring me into that room I lose consciousness."
-    av ""
 
-# game/episode006.rpy:747
+    av "我跟你說過的，他們一把我帶進那個房間我就失去意識了。"
+
+
 translate traditional_chinese episode006_77abd346:
 
-    # na "Right, so you’ve told me."
-    na ""
 
-# game/episode006.rpy:748
+    na "嗯對，你是這麼告訴過我。"
+
+
 translate traditional_chinese episode006_2fbcb783:
 
-    # na "Aven has been taken three times since we woke up here together."
-    na ""
 
-# game/episode006.rpy:750
+    na "從我們倆在這兒醒來開始，艾文已經被帶出去三次了。"
+
+
 translate traditional_chinese episode006_0b6e1102:
 
-    # av "The only other time the door has opened is when they brought you in and when they shove food inside."
-    av ""
 
-# game/episode006.rpy:751
+    av "這扇門開過的另外兩次就是他們押你進來和推進食物的時候。"
+
+
 translate traditional_chinese episode006_56f16e41:
 
-    # "I somehow got the feeling the girl wasn’t telling everything, but as I wasn’t in a position to confront her I shelved the thought for later."
-    ""
 
-# game/episode006.rpy:752
+    "我隱約覺得這姑娘沒全說實話，但現在不方便質問她，就先把疑問放在心裡。"
+
+
 translate traditional_chinese episode006_aac49d71:
 
-    # l "So you've been here all this time?"
-    l ""
 
-# game/episode006.rpy:753
+    l "所以這段時間你們一直待在這兒？"
+
+
 translate traditional_chinese episode006_ed03a1bd:
 
-    # av "Yes, Nadya and I woke up together in this room."
-    av ""
 
-# game/episode006.rpy:754
+    av "對，我和娜迪亞在這個房間裡同時醒來的。"
+
+
 translate traditional_chinese episode006_32e9c1a7:
 
-    # av "Though we don't know how long it's been and why we are together."
-    av ""
 
-# game/episode006.rpy:756
+    av "雖然我們也不清楚過了多久，更不知道爲什麼會被關在一起。"
+
+
 translate traditional_chinese episode006_c5df20b1:
 
-    # na "We'd just finished sleeping when you arrived."
-    na ""
 
-# game/episode006.rpy:757
+    na "你進來時我們剛睡醒。"
+
+
 translate traditional_chinese episode006_0b5c79d1:
 
-    # na "But what tests do they run on you, or are you unconscious just like Aven?"
-    na ""
 
-# game/episode006.rpy:758
+    na "但他們具體給你做什麼測試，還是說你也像艾文那樣直接昏過去了？"
+
+
 translate traditional_chinese episode006_7a54fd51:
 
-    # c "They make you see things, experience things."
-    c ""
 
-# game/episode006.rpy:759
+    c "他們讓你看到東西，經歷事情。"
+
+
 translate traditional_chinese episode006_916a9062:
 
-    # c "Scary stuff and some of it downright confusing."
-    c ""
 
-# game/episode006.rpy:760
+    c "全是些嚇人的玩意兒，有些簡直莫名其妙。"
+
+
 translate traditional_chinese episode006_76bb3a4d:
 
-    # na "Seems like the tests are different from person to person."
-    na ""
 
-# game/episode006.rpy:762
+    na "感覺測試內容因人而異。"
+
+
 translate traditional_chinese episode006_cecba5ab:
 
-    # av "All in all, it doesn't sound like a very nice break from all the boredom of being cooped up in here."
-    av ""
 
-# game/episode006.rpy:763
+    av "總而言之，比起困在這兒的無聊日子，這種'消遣'可不太妙。"
+
+
 translate traditional_chinese episode006_ce48b451:
 
-    # av "Anyway, I'd give you guys a guided tour of the place, but this is everything there is to see."
-    av ""
 
-# game/episode006.rpy:764
+    av "本來想帶你們參觀下這地方，但能看的玩意兒也就眼前這些了。"
+
+
 translate traditional_chinese episode006_77e279b3:
 
-    # av "Also, you probably already know, but be careful what you say in here, they're likely monitoring us."
-    av ""
 
-# game/episode006.rpy:765
+    av "另外你們估計也知道——在這兒說話當心點，他們八成在監控我們。"
+
+
 translate traditional_chinese episode006_9ddaeafe:
 
-    # c "I'm quite sure of it."
-    c ""
 
-# game/episode006.rpy:766
+    c "這點我非常確定。"
+
+
 translate traditional_chinese episode006_2b4a11eb:
 
-    # c "There are at least some automated systems in place which register our sleep and wake patterns."
-    c ""
 
-# game/episode006.rpy:768
+    c "至少有些自動系統在記錄我們的睡眠周期。"
+
+
 translate traditional_chinese episode006_0ee440d0:
 
-    # na "It's more than just that, I'm afraid."
-    na ""
 
-# game/episode006.rpy:769
+    na "恐怕還不止於此。"
+
+
 translate traditional_chinese episode006_1ca9f0fe:
 
-    # na "There was an incident..."
-    na ""
 
-# game/episode006.rpy:770
+    na "之前出過事..."
+
+
 translate traditional_chinese episode006_97bf16b8:
 
-    # na "We just woke up here and discussed our options."
-    na ""
 
-# game/episode006.rpy:771
+    na "我們在這兒醒來後商量過對策。"
+
+
 translate traditional_chinese episode006_32e7685f:
 
-    # na "Apparently, Aven was a little too proactive, because they came into the cell and beat her down."
-    na ""
 
-# game/episode006.rpy:772
+    na "顯然，艾文有點太積極了，因爲他們闖進牢房把她打倒了。"
+
+
 translate traditional_chinese episode006_b95ddeeb:
 
-    # c "They beat you, Aven?"
-    c ""
 
-# game/episode006.rpy:774
+    c "他們打你了，艾文？"
+
+
 translate traditional_chinese episode006_57045cfd:
 
-    # av "That's too big a word, they just subdued me very effectively..."
-    av ""
 
-# game/episode006.rpy:775
+    av "那說得太重了，他們只是非常有效地制服了我..."
+
+
 translate traditional_chinese episode006_aeb93a38:
 
-    # av "I guess they didn't like my investigation of the ceiling and cell door."
-    av ""
 
-# game/episode006.rpy:776
+    av "我猜他們不喜歡我檢查天花板和牢門。"
+
+
 translate traditional_chinese episode006_914b44a4:
 
-    # av "But it's pretty clear they know exactly what we're saying and doing in here."
-    av ""
 
-# game/episode006.rpy:778
+    av "不過很明顯，他們很清楚我們在這裡說的每一句話、做的每一件事。"
+
+
 translate traditional_chinese episode006_ff2c420b:
 
-    # "We talked some more and made sleeping arrangements."
-    ""
 
-# game/episode006.rpy:779
+    "我們又聊了一會兒，還安排了睡覺的地方。"
+
+
 translate traditional_chinese episode006_7921a520:
 
-    # "Lilly and I were allowed on one bed, while Nadya and Aven would share the other."
-    ""
 
-# game/episode006.rpy:783
+    "我和莉莉被允許睡一張牀，而娜迪亞和艾文則分享另一張。"
+
+
 translate traditional_chinese episode006_d7966680:
 
-    # "Despite the joy of having new people to talk to, I longed to be alone with Lilly again."
-    ""
 
-# game/episode006.rpy:784
+    "雖然能和新夥伴聊天是挺開心的，但我還是想再和莉莉獨處。"
+
+
 translate traditional_chinese episode006_c4deb087:
 
-    # "I desired her touch, wanted to hold her, tell her how beautiful she looked, even in her prison bodysuit."
-    ""
 
-# game/episode006.rpy:786
+    "我渴望她的觸碰，想抱着她，告訴她她有多美，哪怕穿着囚服也一樣。"
+
+
 translate traditional_chinese episode006_2ae7f574:
 
-    # "Lilly must have felt the same way, because she stayed close to me."
-    ""
 
-# game/episode006.rpy:787
+    "莉莉肯定也有同樣的感覺，因爲她一直靠在我身邊。"
+
+
 translate traditional_chinese episode006_78dffd4c:
 
-    # "At one point she touched my arm to get my attention, which had an electrifying effect on me."
-    ""
 
-# game/episode006.rpy:789
+    "有一次她碰了碰我的胳膊想引起我的注意，這讓我像觸電一樣。"
+
+
 translate traditional_chinese episode006_2159a383:
 
-    # "That's when I noticed Aven looking at us."
-    ""
 
-# game/episode006.rpy:790
+    "就是那時我注意到艾文在看着我們。"
+
+
 translate traditional_chinese episode006_5b8454a5:
 
-    # "I couldn't exactly place the look she wore on her face."
-    ""
 
-# game/episode006.rpy:791
+    "我猜不透她臉上的表情。"
+
+
 translate traditional_chinese episode006_4ae25d4b:
 
-    # "Was it envy, dismissal or just curiosity?"
-    ""
 
-# game/episode006.rpy:793
+    "那是嫉妒、輕蔑，還是純粹的好奇？"
+
+
 translate traditional_chinese episode006_b41fa3c4:
 
-    # "She quickly recovered and struck up a conversation with Nadya and the moment passed."
-    ""
 
-# game/episode006.rpy:794
+    "她很快就恢復過來，開始和娜迪亞搭話，那一刻就這麼過去了。"
+
+
 translate traditional_chinese episode006_f912e15e:
 
-    # "When we all ran out of stuff to talk about, we tried to pass the time in different ways."
-    ""
 
-# game/episode006.rpy:796
+    "等我們都沒話說了，大家就開始各玩各的消磨時間。"
+
+
 translate traditional_chinese episode006_cdd1b6a5:
 
-    # "Nadya just stared in the distance, while Aven pulled off a series of quick pushups."
-    ""
 
-# game/episode006.rpy:797
+    "娜迪亞就那麼發呆似的望着遠處，而艾文則開始快速做俯臥撐。"
+
+
 translate traditional_chinese episode006_29e19700:
 
-    # "Lilly seemed a little lost since we were transferred to the new cell, like she didn’t know how to behave around these two new women."
-    ""
 
-# game/episode006.rpy:799
+    "自從我們被關進這新牢房，莉莉就一直有點不知所措，好像是不知道怎麼和這兩個新女伴相處。"
+
+
 translate traditional_chinese episode006_106839b5:
 
-    # "She looked at me and I beckoned her."
-    ""
 
-# game/episode006.rpy:801
+    "她看向我，我就對她招了招手。"
+
+
 translate traditional_chinese episode006_637e9773:
 
-    # "After a moment’s hesitation she came and sat down next to me."
-    ""
 
-# game/episode006.rpy:803
+    "她猶豫了一下，然後走過來坐到我旁邊。"
+
+
 translate traditional_chinese episode006_970290a6:
 
-    # "I pulled her closer and she allowed her head to rest on my shoulder."
-    ""
 
-# game/episode006.rpy:804
+    "我把她拉近一點，她就靠在我肩膀上。"
+
+
 translate traditional_chinese episode006_95636ff3:
 
-    # c "How are you feeling?"
-    c ""
 
-# game/episode006.rpy:805
+    c "你現在感覺怎麼樣？"
+
+
 translate traditional_chinese episode006_8f10e609:
 
-    # l "Fine, a little tired after last night."
-    l ""
 
-# game/episode006.rpy:806
+    l "還行，就是昨晚之後有點累。"
+
+
 translate traditional_chinese episode006_e9d1b7b0:
 
-    # c "What do you think of the new roommates?"
-    c ""
 
-# game/episode006.rpy:807
+    c "你覺得這幾個新室友怎麼樣？"
+
+
 translate traditional_chinese episode006_0fa935bd:
 
-    # l "They seem nice..."
-    l ""
 
-# game/episode006.rpy:808
+    l "他們似乎挺好的..."
+
+
 translate traditional_chinese episode006_72e50f37:
 
-    # c "But?"
-    c ""
 
-# game/episode006.rpy:810
+    c "但是？"
+
+
 translate traditional_chinese episode006_a49f03ef:
 
-    # l "I don’t know... Do you think they look familiar?"
-    l ""
 
-# game/episode006.rpy:811
+    l "我不知道...你覺得他們看起來眼熟嗎？"
+
+
 translate traditional_chinese episode006_20b97949:
 
-    # c "Not exactly."
-    c ""
 
-# game/episode006.rpy:812
+    c "不完全。"
+
+
 translate traditional_chinese episode006_7815cc5b:
 
-    # c "I don’t think I remember their faces, but something is familiar about them."
-    c ""
 
-# game/episode006.rpy:813
+    c "我覺得我不記得他們的臉了，但有種熟悉感。"
+
+
 translate traditional_chinese episode006_ddf50bb8:
 
-    # l "Exactly."
-    l ""
 
-# game/episode006.rpy:814
+    l "沒錯。"
+
+
 translate traditional_chinese episode006_5d9754e6:
 
-    # c "Is that what’s bothering you?"
-    c ""
 
-# game/episode006.rpy:816
+    c "那就是你煩心的事嗎？"
+
+
 translate traditional_chinese episode006_22090e38:
 
-    # l "A little."
-    l ""
 
-# game/episode006.rpy:817
+    l "有點。"
+
+
 translate traditional_chinese episode006_fb66ad90:
 
-    # l "I was just starting to get used to living alone with you in one cell, if you know what I mean."
-    l ""
 
-# game/episode006.rpy:818
+    l "我剛開始習慣在一個牢房裡單獨和你一起生活，你懂的。"
+
+
 translate traditional_chinese episode006_b8cd546c:
 
-    # l "This changes the dynamic entirely and I’m not sure if I like it."
-    l ""
 
-# game/episode006.rpy:819
+    l "這徹底改變了局面，我不確定我喜不喜歡這樣。"
+
+
 translate traditional_chinese episode006_f9e4d86b:
 
-    # c "Right, prying eyes and all that."
-    c ""
 
-# game/episode006.rpy:820
+    c "是啊，窺探的目光諸如此類的。"
+
+
 translate traditional_chinese episode006_18eac2a1:
 
-    # l "Yes, that Aven doesn’t seem to miss much."
-    l ""
 
-# game/episode006.rpy:821
+    l "是的，艾文看起來沒漏掉多少。"
+
+
 translate traditional_chinese episode006_394fd691:
 
-    # l "Though we weren’t exactly alone in our previous cell either."
-    l ""
 
-# game/episode006.rpy:822
+    l "雖然在前一個牢房裡我們也不是完全獨處。"
+
+
 translate traditional_chinese episode006_f7fffef8:
 
-    # c "Yeah, the surveillance isn’t surprising, but disturbing nonetheless."
-    c ""
 
-# game/episode006.rpy:824
+    c "對，監控並不令人意外，但還是很煩人。"
+
+
 translate traditional_chinese episode006_8ed294e6:
 
-    # "Lilly sighed and pressed her body more firmly against mine."
-    ""
 
-# game/episode006.rpy:825
+    "莉莉嘆了口氣，將身體更用力地貼在我身上。"
+
+
 translate traditional_chinese episode006_d5398544:
 
-    # "I just enjoyed her nearness and watched Nadya lost in thought and Aven continue her exercising."
-    ""
 
-# game/episode006.rpy:826
+    "我只是享受着她的親近，看着娜迪亞陷入沉思，艾文繼續她的鍛煉。"
+
+
 translate traditional_chinese episode006_affda3c9:
 
-    # "Four trays of food eventually arrived and we all sat down for dinner."
-    ""
 
-# game/episode006.rpy:828
+    "終於送來了四盤食物，我們都坐下喫晚飯。"
+
+
 translate traditional_chinese episode006_ed1b070d:
 
-    # "To stave off the boredom we slowly ate our food and talked a lot about absolutely nothing, because we all couldn’t remember anything about our past lives."
-    ""
 
-# game/episode006.rpy:829
+    "爲了打發無聊，我們慢慢喫着飯，聊了很多廢話，因爲我們都不記得過去生活裏的事了。"
+
+
 translate traditional_chinese episode006_fa1ca252:
 
-    # "Coming up with fresh conversation topics turned out to be very tiresome for all of us after a while and we decided to go to sleep not long after clearing the trays."
-    ""
 
-# game/episode006.rpy:831
+    "過了一會兒，想出新話題變得很累人，收拾完盤子不久，我們就決定去睡覺了。"
+
+
 translate traditional_chinese episode006_989c8b5c:
 
-    # "Lilly and I took one of the beds as Nadya occupied the other one."
-    ""
 
-# game/episode006.rpy:832
+    "莉莉和我佔了張牀，娜迪亞佔了另一張。"
+
+
 translate traditional_chinese episode006_c04bab2e:
 
-    # "Aven said she wanted to take a shower first."
-    ""
 
-# game/episode006.rpy:834
+    "艾文說她要先淋浴。"
+
+
 translate traditional_chinese episode006_87475133:
 
-    # "Both Lilly and Nadya slept when the first streams of water started running."
-    ""
 
-# game/episode006.rpy:835
+    "水流一開始，莉莉和娜迪亞就都睡着了。"
+
+
 translate traditional_chinese episode006_6ff1150d:
 
-    # "Only the shower area was now lit, the rest of the room was wrapped in semi-darkness."
-    ""
 
-# game/episode006.rpy:836
+    "現在只有淋浴區亮着燈，房間裡其他部分都籠罩在半黑暗裡。"
+
+
 translate traditional_chinese episode006_86ae8885:
 
-    # "Despite having Lilly lying comfortably next to me, I couldn’t sleep."
-    ""
 
-# game/episode006.rpy:839
+    "儘管莉莉舒服地躺在我身邊，我還是睡不着。"
+
+
 translate traditional_chinese episode006_95d828fa:
 
-    # "Lilly amused herself by staring at the walls, while Nadya was lost in thought and Aven continued her exercising."
-    ""
 
-# game/episode006.rpy:841
+    "莉莉盯着牆壁自娛自樂，娜迪亞陷入沉思，而艾文繼續着她的運動。"
+
+
 translate traditional_chinese episode006_affda3c9_1:
 
-    # "Four trays of food eventually arrived and we all sat down for dinner."
-    ""
 
-# game/episode006.rpy:842
+    "四盤食物終於送來，我們圍坐着喫晚餐。"
+
+
 translate traditional_chinese episode006_ed1b070d_1:
 
-    # "To stave off the boredom we slowly ate our food and talked a lot about absolutely nothing, because we all couldn’t remember anything about our past lives."
-    ""
 
-# game/episode006.rpy:843
+    "爲驅散無聊感，我們邊慢吞吞喫飯邊漫無邊際閒聊——畢竟誰都記不清自己過去的事。"
+
+
 translate traditional_chinese episode006_fa1ca252_1:
 
-    # "Coming up with fresh conversation topics turned out to be very tiresome for all of us after a while and we decided to go to sleep not long after clearing the trays."
-    ""
 
-# game/episode006.rpy:845
+    "要不斷想新話題實在太累人，收拾完餐盤不久我們就決定睡覺。"
+
+
 translate traditional_chinese episode006_989c8b5c_1:
 
-    # "Lilly and I took one of the beds as Nadya occupied the other one."
-    ""
 
-# game/episode006.rpy:846
+    "莉莉和我睡一張牀，娜迪亞佔了另一張。"
+
+
 translate traditional_chinese episode006_c04bab2e_1:
 
-    # "Aven said she wanted to take a shower first."
-    ""
 
-# game/episode006.rpy:848
+    "艾文說她得先衝個澡。"
+
+
 translate traditional_chinese episode006_87475133_1:
 
-    # "Both Lilly and Nadya slept when the first streams of water started running."
-    ""
 
-# game/episode006.rpy:849
+    "當第一道水流聲響起時，莉莉和娜迪亞都已睡着。"
+
+
 translate traditional_chinese episode006_6ff1150d_1:
 
-    # "Only the shower area was now lit, the rest of the room was wrapped in semi-darkness."
-    ""
 
-# game/episode006.rpy:850
+    "此刻只有淋浴區亮着燈，房間其餘部分被半明半暗的光線包裹。"
+
+
 translate traditional_chinese episode006_c547b379:
 
-    # "Maybe it was because of Lilly lying next to me, but I couldn’t sleep."
-    ""
 
-# game/episode006.rpy:853
+    "也許是因爲莉莉睡在身旁，我竟毫無睡意。"
+
+
 translate traditional_chinese episode006_7b039bed:
 
-    # "After a while I heard Aven turn off the water and I expected her to emerge from the shower after a couple of minutes, but she didn’t."
-    ""
 
-# game/episode006.rpy:854
+    "過了會兒聽見艾文關水，原以爲她幾分鐘後就會出來，卻遲遲不見人影。"
+
+
 translate traditional_chinese episode006_93805115:
 
-    # "Above Lilly's light snoring I could eventually hear distinct sighs coming from the shower cubicle."
-    ""
 
-# game/episode006.rpy:855
+    "在莉莉輕微的鼾聲之上，我逐漸分辨出淋浴隔間裡傳來的清晰嘆息。"
+
+
 translate traditional_chinese episode006_038071d4:
 
-    # "When the sighing turned into frequent moans, I had a pretty clear idea what was happening."
-    ""
 
-# game/episode006.rpy:858
+    "當嘆息轉爲頻繁呻吟時，我立刻明白髮生了什麼。"
+
+
 translate traditional_chinese episode006_fde0ea75:
 
-    # "I just had to sate my curiosity and slipped out of bed."
-    ""
 
-# game/episode006.rpy:862
+    "我溜下牀滿足自己的好奇心。"
+
+
 translate traditional_chinese episode006_10b86817:
 
-    # "I had just returned when Aven emerged from the shower."
-    ""
 
-# game/episode006.rpy:863
+    "剛回到牀上艾文就出了淋浴間。"
+
+
 translate traditional_chinese episode006_b4bdfb10:
 
-    # "She hid her shock well when she noticed me looking at her."
-    ""
 
-# game/episode006.rpy:865
+    "她發現我注視她時，將驚愕掩飾得很好。"
+
+
 translate traditional_chinese episode006_3ce53e42:
 
-    # "I understood the urge to relieve the tension all too well and decided to leave Aven be for the moment."
-    ""
 
-# game/episode006.rpy:867
+    "我完全理解這種釋放緊張的衝動，決定暫時不打擾艾文。"
+
+
 translate traditional_chinese episode006_e224767d:
 
-    # "She must have brought herself to a very restrained climax quickly, because her return from the shower surprised me."
-    ""
 
-# game/episode006.rpy:868
+    "她準是很快達到了極度壓抑的高潮，因爲淋浴結束得比我預想的快。"
+
+
 translate traditional_chinese episode006_18cc04ce:
 
-    # "Aven hid her shock well when she noticed me looking at her."
-    ""
 
-# game/episode006.rpy:871
+    "艾文發現我正看着她，不動聲色地藏起驚詫。"
+
+
 translate traditional_chinese episode006_c6f6fd64:
 
-    # av "Can’t sleep?"
-    av ""
 
-# game/episode006.rpy:872
+    av "睡不着？"
+
+
 translate traditional_chinese episode006_72aabd53:
 
-    # "Not wanting to wake up Lilly, I slipped out of bed and shuffled towards Aven."
-    ""
 
-# game/episode006.rpy:873
+    "怕吵醒莉莉，我溜下牀拖着步子走向艾文。"
+
+
 translate traditional_chinese episode006_9a60c2bb:
 
-    # c "Nope."
-    c ""
 
-# game/episode006.rpy:875
+    c "是啊。"
+
+
 translate traditional_chinese episode006_e93e2c0a:
 
-    # av "I’d offer you something to drink, but I already drank my entire water ration for the day."
-    av ""
 
-# game/episode006.rpy:876
+    av "我倒是想給你倒點喝的，可惜今天的配額飲水都讓我喝完了。"
+
+
 translate traditional_chinese episode006_8e3f75dd:
 
-    # c "Some hard alcohol would be nice right about now, yeah..."
-    c ""
 
-# game/episode006.rpy:877
+    c "現在來點烈酒倒是挺不錯，對吧..."
+
+
 translate traditional_chinese episode006_1b0e988e:
 
-    # av "I hear you."
-    av ""
 
-# game/episode006.rpy:878
+    av "我懂。"
+
+
 translate traditional_chinese episode006_3c8630fb:
 
-    # "The girl sighed and stared into the distance."
-    ""
 
-# game/episode006.rpy:880
+    "女孩嘆息着望向遠方。"
+
+
 translate traditional_chinese episode006_56ff24a4:
 
-    # av "I don’t know how much longer I can take this."
-    av ""
 
-# game/episode006.rpy:881
+    av "真不知道自己還能熬多久。"
+
+
 translate traditional_chinese episode006_2cbeef8c:
 
-    # av "The empty conversations with Nadya and now with you guys, drawing a blank every time you try to think a little deeper about your own past."
-    av ""
 
-# game/episode006.rpy:883
+    av "和娜迪亞那些空洞的對話，現在又輪到你們，每次試圖深入回憶過去就腦子一片空白。"
+
+
 translate traditional_chinese episode006_57e38ff2:
 
-    # av "I fucking hate it."
-    av ""
 
-# game/episode006.rpy:884
+    av "操，真他媽受夠了。"
+
+
 translate traditional_chinese episode006_f263d194:
 
-    # c "I feel the same."
-    c ""
 
-# game/episode006.rpy:886
+    c "我感同身受。"
+
+
 translate traditional_chinese episode006_81868736:
 
-    # c "There’s this promise of something lying just beneath the surface, but you just can’t reach it."
-    c ""
 
-# game/episode006.rpy:887
+    c "總覺得有什麼東西藏在表象之下觸手可及，可就是無法觸及。"
+
+
 translate traditional_chinese episode006_8f032a56:
 
-    # av "Right."
-    av ""
 
-# game/episode006.rpy:888
+    av "沒錯。"
+
+
 translate traditional_chinese episode006_e4b84a32:
 
-    # c "I felt it strongly with Lilly and again with you and Nadya."
-    c ""
 
-# game/episode006.rpy:890
+    c "當初和莉莉是這樣，現在跟你們和娜迪亞又這樣感受強烈。"
+
+
 translate traditional_chinese episode006_59c5c765:
 
-    # av "Really?"
-    av ""
 
-# game/episode006.rpy:891
+    av "是嗎？"
+
+
 translate traditional_chinese episode006_fd858d90:
 
-    # av "What’s the deal with you and Lilly anyway?"
-    av ""
 
-# game/episode006.rpy:896
+    av "話說你和莉莉到底怎麼回事？"
+
+
 translate traditional_chinese episode006_9c16d513:
 
-    # c "We’re in love."
-    c ""
 
-# game/episode006.rpy:898
+    c "我們相愛了。"
+
+
 translate traditional_chinese episode006_98b83b29:
 
-    # av "How do you know that?"
-    av ""
 
-# game/episode006.rpy:899
+    av "你怎麼確定的？"
+
+
 translate traditional_chinese episode006_62be3a44:
 
-    # c "Because we both felt something so strongly when we first met here."
-    c ""
 
-# game/episode006.rpy:901
+    c "因爲我們初次相遇時，彼此都有過極其強烈的悸動。"
+
+
 translate traditional_chinese episode006_1e143715:
 
-    # c "It’s complicated."
-    c ""
 
-# game/episode006.rpy:903
+    c "挺複雜的。"
+
+
 translate traditional_chinese episode006_7660ded2:
 
-    # av "Isn’t it always?"
-    av ""
 
-# game/episode006.rpy:904
+    av "可不都這樣嗎？"
+
+
 translate traditional_chinese episode006_b11da41f:
 
-    # c "We both had strong feelings we couldn’t place when we first saw each other."
-    c ""
 
-# game/episode006.rpy:907
+    c "初次見面時我們都懷着強烈的悸動，卻不知緣由。"
+
+
 translate traditional_chinese episode006_7d457afd:
 
-    # av "You did?"
-    av ""
 
-# game/episode006.rpy:908
+    av "當真？"
+
+
 translate traditional_chinese episode006_3d0ec595:
 
-    # c "You sound skeptical?"
-    c ""
 
-# game/episode006.rpy:909
+    c "你好像不太信？"
+
+
 translate traditional_chinese episode006_8d7bf56e:
 
-    # av "I do?"
-    av ""
 
-# game/episode006.rpy:911
+    av "有嗎？"
+
+
 translate traditional_chinese episode006_af539df2:
 
-    # av "Sorry."
-    av ""
 
-# game/episode006.rpy:912
+    av "抱歉。"
+
+
 translate traditional_chinese episode006_1a8fd0df:
 
-    # av "I didn’t mean to."
-    av ""
 
-# game/episode006.rpy:913
+    av "我並非有意。"
+
+
 translate traditional_chinese episode006_d366d7a4:
 
-    # c "I saw you looking at us earlier."
-    c ""
 
-# game/episode006.rpy:915
+    c "我看見你剛才在看我們。"
+
+
 translate traditional_chinese episode006_181d9441:
 
-    # av "So, we’re in a cramped cell, where else was I supposed to look?"
-    av ""
 
-# game/episode006.rpy:916
+    av "那麼，我們在一個狹窄的牢房裡，我還能看哪兒呢？"
+
+
 translate traditional_chinese episode006_a73a4055:
 
-    # c "Look, I didn’t mean to put you on the defensive here..."
-    c ""
 
-# game/episode006.rpy:918
+    c "聽着，我不是故意讓你防備的。"
+
+
 translate traditional_chinese episode006_6b63a4d5:
 
-    # av "I know you didn’t."
-    av ""
 
-# game/episode006.rpy:919
+    av "我知道你不是故意的。"
+
+
 translate traditional_chinese episode006_c8c112ec:
 
-    # av "Fuck."
-    av ""
 
-# game/episode006.rpy:921
+    av "操。"
+
+
 translate traditional_chinese episode006_7a26a643:
 
-    # av "When you first got here you told us they were doing tests on you, right?"
-    av ""
 
-# game/episode006.rpy:922
+    av "你來這兒的時候告訴過我們他們在你身上做實驗，對吧？"
+
+
 translate traditional_chinese episode006_5e9d22e2:
 
-    # av "Making you experience things?"
-    av ""
 
-# game/episode006.rpy:923
+    av "讓你經歷事情？"
+
+
 translate traditional_chinese episode006_8d06aa26:
 
-    # c "Yes, that’s right."
-    c ""
 
-# game/episode006.rpy:924
+    c "是的，對。"
+
+
 translate traditional_chinese episode006_d2c5d25e:
 
-    # av "I lied to Nadya."
-    av ""
 
-# game/episode006.rpy:925
+    av "我對娜迪亞說了謊。"
+
+
 translate traditional_chinese episode006_f237e6a4:
 
-    # av "I’ve been fully conscious for every test they administered."
-    av ""
 
-# game/episode006.rpy:926
+    av "他們對我的每次實驗，我都全程清醒。"
+
+
 translate traditional_chinese episode006_deb64cd7:
 
-    # c "Really, why would you lie?"
-    c ""
 
-# game/episode006.rpy:927
+    c "真的？你爲什麼要說謊？"
+
+
 translate traditional_chinese episode006_8b49607e:
 
-    # av "The same reason why you’re so vague about it, I reckon."
-    av ""
 
-# game/episode006.rpy:928
+    av "我猜，原因和你爲什麼這麼含糊其辭一樣。"
+
+
 translate traditional_chinese episode006_0ac3a7af:
 
-    # av "Because it’s invasive and confusing and...{w} Sexual..."
-    av ""
 
-# game/episode006.rpy:929
+    av "因爲它侵犯性強又令人困惑...{w}性方面的..."
+
+
 translate traditional_chinese episode006_76c33bf2:
 
-    # c "You too?"
-    c ""
 
-# game/episode006.rpy:931
+    c "你也一樣？"
+
+
 translate traditional_chinese episode006_77274c31:
 
-    # av "Yes."
-    av ""
 
-# game/episode006.rpy:932
+    av "是的。"
+
+
 translate traditional_chinese episode006_a473cfcd:
 
-    # av "So that means they’re making you see stuff too?"
-    av ""
 
-# game/episode006.rpy:937
+    av "所以這就是說他們也讓你看到一些東西？"
+
+
 translate traditional_chinese episode006_2c3ff88b:
 
-    # c "They do."
-    c ""
 
-# game/episode006.rpy:938
+    c "是的。"
+
+
 translate traditional_chinese episode006_9582b215:
 
-    # c "It’s different for all of us I think, because Lilly is experiencing nightmares."
-    c ""
 
-# game/episode006.rpy:939
+    c "我覺得對我們每個人都不一樣，因爲莉莉經歷的是做噩夢。"
+
+
 translate traditional_chinese episode006_0d8a1839:
 
-    # c "I just see more or less the same scene played out between two women, some sort of sexual powerplay."
-    c ""
 
-# game/episode006.rpy:941
+    c "我只是看到大致相同的一幕在兩個女人之間上演，某種性權力遊戲。"
+
+
 translate traditional_chinese episode006_892fb38d:
 
-    # av "Wow."
-    av ""
 
-# game/episode006.rpy:942
+    av "哇。"
+
+
 translate traditional_chinese episode006_db5d6cd6:
 
-    # av "Do you know those women?"
-    av ""
 
-# game/episode006.rpy:943
+    av "你認識那些女人嗎？"
+
+
 translate traditional_chinese episode006_fcb8fc21:
 
-    # c "I haven’t got a clue, because I can’t remember anything."
-    c ""
 
-# game/episode006.rpy:945
+    c "我一無所知，因爲我什麼都不記得。"
+
+
 translate traditional_chinese episode006_0f9368de:
 
-    # av "Same here."
-    av ""
 
-# game/episode006.rpy:946
+    av "我也是。"
+
+
 translate traditional_chinese episode006_076afeb8:
 
-    # av "With me they’re feeding me images of myself and a man."
-    av ""
 
-# game/episode006.rpy:947
+    av "在我這兒，他們給我灌輸我和一個男人的圖像。"
+
+
 translate traditional_chinese episode006_ffd11c5d:
 
-    # av "We’re both naked and I’m lying down and he’s kissing me all over."
-    av ""
 
-# game/episode006.rpy:948
+    av "我們兩個都赤裸着，我躺着，他吻遍我全身。"
+
+
 translate traditional_chinese episode006_fe1fd99d:
 
-    # av "The scene plays out with some variations, but right at the moment where things start to get good everything stops."
-    av ""
 
-# game/episode006.rpy:949
+    av "場景有些變化地播放着，但正當事情要開始變得爽的時候，一切都停了。"
+
+
 translate traditional_chinese episode006_71512ae5:
 
-    # c "Bummer."
-    c ""
 
-# game/episode006.rpy:951
+    c "掃興。"
+
+
 translate traditional_chinese episode006_e7589e6a:
 
-    # av "Yeah."
-    av ""
 
-# game/episode006.rpy:953
+    av "是啊。"
+
+
 translate traditional_chinese episode006_3154c3d3:
 
-    # av "Thing is though, the guy in that simulation...{w} It’s you."
-    av ""
 
-# game/episode006.rpy:954
+    av "問題是，那個模擬中的男人...{w} 是你。"
+
+
 translate traditional_chinese episode006_0c4aa7c1:
 
-    # av "So you might imagine why I looked like a ghost had just entered my cell a while back."
-    av ""
 
-# game/episode006.rpy:955
+    av "所以你大概能想象爲什麼我剛才像是見到鬼一樣走進房間。"
+
+
 translate traditional_chinese episode006_a1f0da02:
 
-    # c "Yeah..."
-    c ""
 
-# game/episode006.rpy:960
+    c "啊..."
+
+
 translate traditional_chinese episode006_65e32b2c:
 
-    # c "Are you all right?"
-    c ""
 
-# game/episode006.rpy:962
+    c "你沒事吧？"
+
+
 translate traditional_chinese episode006_4b3755de:
 
-    # av "Why wouldn’t I be?"
-    av ""
 
-# game/episode006.rpy:964
+    av "爲什麼我會不好？"
+
+
 translate traditional_chinese episode006_9939bff2:
 
-    # av "I didn’t say it was unpleasant, did I?"
-    av ""
 
-# game/episode006.rpy:965
+    av "我沒說那是不愉快的，不是嗎？"
+
+
 translate traditional_chinese episode006_f0f2060d:
 
-    # c "No, but meeting me like that, it must have been scary."
-    c ""
 
-# game/episode006.rpy:967
+    c "不，但那樣見到我，肯定挺嚇人的。"
+
+
 translate traditional_chinese episode006_9dd99f8f:
 
-    # av "Scary?"
-    av ""
 
-# game/episode006.rpy:968
+    av "嚇人？"
+
+
 translate traditional_chinese episode006_3582f270:
 
-    # c "Hell, I don’t know."
-    c ""
 
-# game/episode006.rpy:969
+    c "靠，我也不知道。"
+
+
 translate traditional_chinese episode006_5ce62ee1:
 
-    # c "You’re being fed these images to your brain and all of a sudden the subject is walking through that door."
-    c ""
 
-# game/episode006.rpy:971
+    c "你腦中被灌輸這些畫面，突然對象就走過那扇門進來了。"
+
+
 translate traditional_chinese episode006_1027f841:
 
-    # av "Scared is not what I felt."
-    av ""
 
-# game/episode006.rpy:972
+    av "害怕不是我感受到的。"
+
+
 translate traditional_chinese episode006_b151a147:
 
-    # c "What did you feel then?"
-    c ""
 
-# game/episode006.rpy:973
+    c "那你感覺到什麼？"
+
+
 translate traditional_chinese episode006_b2699c02:
 
-    # av "I don’t know...{w} Fuck..."
-    av ""
 
-# game/episode006.rpy:975
+    av "我不知道...{w} 媽的..."
+
+
 translate traditional_chinese episode006_59ca72ee:
 
-    # av "Happy, I guess?"
-    av ""
 
-# game/episode006.rpy:976
+    av "開心，我猜？"
+
+
 translate traditional_chinese episode006_61cdaf0f:
 
-    # c "Happy?"
-    c ""
 
-# game/episode006.rpy:978
+    c "開心？"
+
+
 translate traditional_chinese episode006_94c8536c:
 
-    # av "Right, that really doesn’t cover it."
-    av ""
 
-# game/episode006.rpy:979
+    av "對，那樣根本概括不了。"
+
+
 translate traditional_chinese episode006_56abba17:
 
-    # av "I had more or less the same feeling when I saw Nadya for the first time."
-    av ""
 
-# game/episode006.rpy:980
+    av "我第一次見到娜迪亞時，也差不多有同樣的感覺。"
+
+
 translate traditional_chinese episode006_dfaf45a0:
 
-    # av "But with you it’s different, stronger, almost something electric."
-    av ""
 
-# game/episode006.rpy:981
+    av "但跟你不一樣，更強烈，幾乎是觸電的感覺。"
+
+
 translate traditional_chinese episode006_019bb1e0:
 
-    # av "I don’t know how else to explain it."
-    av ""
 
-# game/episode006.rpy:985
+    av "我不知道還能怎麼解釋。"
+
+
 translate traditional_chinese episode006_306795e3:
 
-    # c "I know what you mean."
-    c ""
 
-# game/episode006.rpy:987
+    c "我懂你的意思。"
+
+
 translate traditional_chinese episode006_82de7ed1:
 
-    # av "You do?"
-    av ""
 
-# game/episode006.rpy:988
+    av "你真這麼想？"
+
+
 translate traditional_chinese episode006_7b0e6af1:
 
-    # av "But you never saw me before right?"
-    av ""
 
-# game/episode006.rpy:989
+    av "但你以前從沒見過我對吧？"
+
+
 translate traditional_chinese episode006_441fdfd2:
 
-    # c "Not that I can remember and not in any simulation either."
-    c ""
 
-# game/episode006.rpy:990
+    c "反正我不記得，模擬訓練裏也沒見過。"
+
+
 translate traditional_chinese episode006_e30caf9d:
 
-    # c "There was something though when I first saw you."
-    c ""
 
-# game/episode006.rpy:991
+    c "不過初次見面時確實有感應。"
+
+
 translate traditional_chinese episode006_5f58d915:
 
-    # c "A spark."
-    c ""
 
-# game/episode006.rpy:993
+    c "就像電火花。"
+
+
 translate traditional_chinese episode006_8a3c7169:
 
-    # av "Something deep inside your stomach, something indefinable, but not unwelcome?"
-    av ""
 
-# game/episode006.rpy:994
+    av "那種從胃底竄上來的、說不清道不明卻又莫名舒坦的感覺？"
+
+
 translate traditional_chinese episode006_d81d6bda:
 
-    # c "Pretty much, yes."
-    c ""
 
-# game/episode006.rpy:995
+    c "差不多就是這麼回事。"
+
+
 translate traditional_chinese episode006_d987648f:
 
-    # av "So I either hated your guts before and they’re trying to re-educate me, or there was something else."
-    av ""
 
-# game/episode006.rpy:996
+    av "所以要麼我以前恨透了你，他們現在想改造我思想；要麼就是另有隱情。"
+
+
 translate traditional_chinese episode006_70817656:
 
-    # c "I really hope it’s the latter, to be honest."
-    c ""
 
-# game/episode006.rpy:998
+    c "說真的，我寧願是後者。"
+
+
 translate traditional_chinese episode006_adb27249:
 
-    # av "Haha, I bet you do."
-    av ""
 
-# game/episode006.rpy:1000
+    av "哈，你當然巴不得是後者。"
+
+
 translate traditional_chinese episode006_0ab58abd:
 
-    # av "But [p_name], if you felt a spark...{w} what does that say about Lilly?"
-    av ""
 
-# game/episode006.rpy:1002
+    av "但[p_name]，如果你有觸電反應...{w}莉莉算什麼？"
+
+
 translate traditional_chinese episode006_a5cd15a3:
 
-    # c "Fuck..."
-    c ""
 
-# game/episode006.rpy:1003
+    c "靠..."
+
+
 translate traditional_chinese episode006_94d375f8:
 
-    # c "It’s all too complicated."
-    c ""
 
-# game/episode006.rpy:1005
+    c "太他媽複雜了。"
+
+
 translate traditional_chinese episode006_914a50fc:
 
-    # c "What about her?"
-    c ""
 
-# game/episode006.rpy:1006
+    c "她又怎麼了？"
+
+
 translate traditional_chinese episode006_84444371:
 
-    # c "I already told you we aren’t together."
-    c ""
 
-# game/episode006.rpy:1008
+    c "我告訴過你我們並沒有在一起。"
+
+
 translate traditional_chinese episode006_43408479:
 
-    # "Aven nudged closer to me, until our knees almost touched."
-    ""
 
-# game/episode006.rpy:1009
+    "艾文的膝蓋蹭近了些，幾乎要碰到我的。"
+
+
 translate traditional_chinese episode006_6fc6a941:
 
-    # "I could smell the shampoo she’d just used in the shower and felt the comfortable warmth she emanated."
-    ""
 
-# game/episode006.rpy:1011
+    "能聞到她剛洗澡用的洗髮水味，暖融融的氣息撲面而來。"
+
+
 translate traditional_chinese episode006_fa24f611:
 
-    # av "Prison might not be the best place to start a relationship, I agree."
-    av ""
 
-# game/episode006.rpy:1012
+    av "牢裡確實不適合搞對象，我同意。"
+
+
 translate traditional_chinese episode006_32d17609:
 
-    # av "Maybe we should make a deal."
-    av ""
 
-# game/episode006.rpy:1013
+    av "不如我們做個約定？"
+
+
 translate traditional_chinese episode006_04913ed8:
 
-    # c "A deal?"
-    c ""
 
-# game/episode006.rpy:1015
+    c "約定？"
+
+
 translate traditional_chinese episode006_33cef3a6:
 
-    # av "When we get out of here, yes when, we’re going to have a serious talk about this."
-    av ""
 
-# game/episode006.rpy:1016
+    av "等越獄成功——對，必須成功——我們倆得好好談談這事。"
+
+
 translate traditional_chinese episode006_dc794b6f:
 
-    # av "Away from Nadya and Lilly and the fuckers who are listening in on us at the moment."
-    av ""
 
-# game/episode006.rpy:1017
+    av "要避開娜迪亞和莉莉，還有現在偷聽的那羣混球。"
+
+
 translate traditional_chinese episode006_51e1a649_1:
 
-    # c "Deal."
-    c ""
 
-# game/episode006.rpy:1019
+    c "成交。"
+
+
 translate traditional_chinese episode006_34b77c41:
 
-    # av "I’m going to try and get some sleep now, I think."
-    av ""
 
-# game/episode006.rpy:1021
+    av "我想現在該試着睡會兒了。"
+
+
 translate traditional_chinese episode006_9e2aace1:
 
-    # av "Oh and [p_name], I’m glad I met you today."
-    av ""
 
-# game/episode006.rpy:1023
+    av "哦，還有[p_name]，今天能遇到你我真高興。"
+
+
 translate traditional_chinese episode006_56319c46:
 
-    # "When Aven stood up she bowed towards my cheek and brushed it with her soft lips."
-    ""
 
-# game/episode006.rpy:1024
+    "當艾文站起來時，她朝我的臉頰彎下腰，用柔軟的嘴脣輕擦而過。"
+
+
 translate traditional_chinese episode006_ddfe1df7:
 
-    # av "Sleep well."
-    av ""
 
-# game/episode006.rpy:1026
+    av "睡個好覺。"
+
+
 translate traditional_chinese episode006_e60c219c:
 
-    # "A little dumbfounded I watched her lie down next to Nadya and go to sleep."
-    ""
 
-# game/episode006.rpy:1027
+    "我有點發懵地看着她躺到娜迪亞身邊睡着了。"
+
+
 translate traditional_chinese episode006_6f8da157:
 
-    # "I followed not long after, but it took a long while before I actually fell asleep."
-    ""
 
-# game/episode006.rpy:1029
+    "我不久後也跟着躺下，但過了好久才真正睡着。"
+
+
 translate traditional_chinese episode006_bb78aab7:
 
-    # c "I know."
-    c ""
 
-# game/episode006.rpy:1030
+    c "我知道。"
+
+
 translate traditional_chinese episode006_0a183c61:
 
-    # c "It’s hard to put something like this into words."
-    c ""
 
-# game/episode006.rpy:1032
+    c "這種事很難用言語描述。"
+
+
 translate traditional_chinese episode006_94256cee:
 
-    # av "Yeah..."
-    av ""
 
-# game/episode006.rpy:1033
+    av "是啊..."
+
+
 translate traditional_chinese episode006_7eb511a5:
 
-    # av "Hey, if you don’t mind I’m going to get some sleep."
-    av ""
 
-# game/episode006.rpy:1035
+    av "嘿，如果你不介意的話，我想睡會兒了。"
+
+
 translate traditional_chinese episode006_3382d724:
 
-    # av "Good night."
-    av ""
 
-# game/episode006.rpy:1036
+    av "晚安。"
+
+
 translate traditional_chinese episode006_54c8f013:
 
-    # c "Sleep well."
-    c ""
 
-# game/episode006.rpy:1038
+    c "睡個好覺。"
+
+
 translate traditional_chinese episode006_5bf3aec5:
 
-    # c "So, that was awkward."
-    c ""
 
-# game/episode006.rpy:1040
+    c "所以，那真是尷尬。"
+
+
 translate traditional_chinese episode006_fb3c05e7:
 
-    # av "You could say so."
-    av ""
 
-# game/episode006.rpy:1041
+    av "可以這麼說。"
+
+
 translate traditional_chinese episode006_685db49f:
 
-    # c "I hope I didn’t give you too much of a scare."
-    c ""
 
-# game/episode006.rpy:1043
+    c "希望我沒把你嚇得太慘。"
+
+
 translate traditional_chinese episode006_1afd6936:
 
-    # av "No, it’s okay."
-    av ""
 
-# game/episode006.rpy:1044
+    av "沒，沒關係。"
+
+
 translate traditional_chinese episode006_a4177b40:
 
-    # c "Those fuckers, messing around in our heads like that!"
-    c ""
 
-# game/episode006.rpy:1046
+    c "那些混蛋，居然這樣在我們腦子裡胡搞！"
+
+
 translate traditional_chinese episode006_94256cee_1:
 
-    # av "Yeah..."
-    av ""
 
-# game/episode006.rpy:1047
+    av "是啊..."
+
+
 translate traditional_chinese episode006_7eb511a5_1:
 
-    # av "Hey, if you don’t mind I’m going to get some sleep."
-    av ""
 
-# game/episode006.rpy:1048
+    av "嘿，如果你不介意的話，我想睡會兒了。"
+
+
 translate traditional_chinese episode006_3382d724_1:
 
-    # av "Good night."
-    av ""
 
-# game/episode006.rpy:1049
+    av "晚安。"
+
+
 translate traditional_chinese episode006_54c8f013_1:
 
-    # c "Sleep well."
-    c ""
 
-# game/episode006.rpy:1051
+    c "睡個好覺。"
+
+
 translate traditional_chinese episode006_2c3ff88b_1:
 
-    # c "They do."
-    c ""
 
-# game/episode006.rpy:1052
+    c "是的。"
+
+
 translate traditional_chinese episode006_9de79bf4:
 
-    # c "But I think it’s different for all of us."
-    c ""
 
-# game/episode006.rpy:1053
+    c "但我覺得每個人的狀況都不一樣。"
+
+
 translate traditional_chinese episode006_b145dfdb:
 
-    # c "Lilly is experiencing nightmares."
-    c ""
 
-# game/episode006.rpy:1054
+    c "莉莉正在經歷噩夢。"
+
+
 translate traditional_chinese episode006_c7ae0918:
 
-    # c "Mine are just these weird fever dreams."
-    c ""
 
-# game/episode006.rpy:1056
+    c "我的只是些奇怪的發熱夢。"
+
+
 translate traditional_chinese episode006_8f1572b3:
 
-    # av "Hmmm, weird."
-    av ""
 
-# game/episode006.rpy:1057
+    av "嗯，奇怪。"
+
+
 translate traditional_chinese episode006_2783b941:
 
-    # av "Why would it differ so much per person?"
-    av ""
 
-# game/episode006.rpy:1058
+    av "爲什麼它在每個人身上都這麼不同？"
+
+
 translate traditional_chinese episode006_3a85b0d1:
 
-    # c "Probably part of some psychological evaluation or something."
-    c ""
 
-# game/episode006.rpy:1059
+    c "可能是某種心理評估的一部分什麼的。"
+
+
 translate traditional_chinese episode006_70b15a70:
 
-    # av "Must be."
-    av ""
 
-# game/episode006.rpy:1064
+    av "肯定是。"
+
+
 translate traditional_chinese episode006_9d76bcf9:
 
-    # "I was hoping for a quiet and lazy morning, but instead two guards walked in and manhandled me off the bed."
-    ""
 
-# game/episode006.rpy:1065
+    "我本希望有一個安靜懶散的早晨，但兩個守衛走進來強行把我拽下牀。"
+
+
 translate traditional_chinese episode006_cd948191:
 
-    # "Lilly was awake instantly and started screaming."
-    ""
 
-# game/episode006.rpy:1067
+    "莉莉立刻醒來，開始尖叫。"
+
+
 translate traditional_chinese episode006_547dbf29:
 
-    # l "Get your fucking hands off him!"
-    l ""
 
-# game/episode006.rpy:1069
+    l "把你他媽的手從他身上拿開！"
+
+
 translate traditional_chinese episode006_5a8db084:
 
-    # "She hit one of the guards and her nails raked the cheek of the other one leaving bloody gashes."
-    ""
 
-# game/episode006.rpy:1070
+    "她打了其中一個守衛一巴掌，指甲劃破了另一個守衛的臉頰，留下血淋淋的傷口。"
+
+
 translate traditional_chinese episode006_696fd543:
 
-    # "The guards let go of me and turned their attention to Lilly."
-    ""
 
-# game/episode006.rpy:1072
+    "守衛放開了我，轉而關注莉莉。"
+
+
 translate traditional_chinese episode006_c053e723:
 
-    # "The guard reached for his gun and stunned the raging girl into submission."
-    ""
 
-# game/episode006.rpy:1073
+    "那個守衛伸手拿槍，電擊了這個狂怒的女孩，讓她屈服。"
+
+
 translate traditional_chinese episode006_70b55b88:
 
-    # "They proceeded to wrestle me towards the exit."
-    ""
 
-# game/episode006.rpy:1074
+    "他們繼續拖拽着我向出口走去。"
+
+
 translate traditional_chinese episode006_db2000f6:
 
-    # "Nadya and Aven looked at me in fear and disbelief as I was dragged from the cell."
-    ""
 
-# game/episode006.rpy:1076
+    "當我被從牢房裡拖出來時，娜迪亞和艾文看着我，臉上帶着恐懼和不信。"
+
+
 translate traditional_chinese episode006_acd4c0d4:
 
-    # c "Don't worry about me, take care of Lilly, please!"
-    c ""
 
-# game/episode006.rpy:1077
+    c "別擔心我，照顧好莉莉，拜託了！"
+
+
 translate traditional_chinese episode006_a4e420cd:
 
-    # "Walking at a very brisk pace, the guards took me to a section of the facility I hadn't been before."
-    ""
 
-# game/episode006.rpy:1079
+    "守衛們快步走着，帶我去設施的一個我之前沒去過的地方。"
+
+
 translate traditional_chinese episode006_194055c9:
 
-    # "They guided me into what looked like an office."
-    ""
 
-# game/episode006.rpy:1080
+    "他們把我帶進了一個看起來像辦公室的地方。"
+
+
 translate traditional_chinese episode006_20e38ee9:
 
-    # "That probably meant no simulated wet dreams for me today..."
-    ""
 
-# game/episode006.rpy:1082
+    "那可能意味着我今天不會有模擬春夢了..."
+
+
 translate traditional_chinese episode006_f49db23a:
 
-    # "The guards forced me down into a chair and positioned themselves near the door."
-    ""
 
-# game/episode006.rpy:1087
+    "守衛們強行把我按到椅子上，然後站在門口附近。"
+
+
 translate traditional_chinese episode006_97c58786:
 
-    # "A woman entered."
-    ""
 
-# game/episode006.rpy:1088
+    "一個女人進來了。"
+
+
 translate traditional_chinese episode006_c447ce3e:
 
-    # "She had strikingly pale skin and eyes that were like a gateway to unknown depths."
-    ""
 
-# game/episode006.rpy:1089
+    "她的皮膚白得驚人，眼睛像通往未知深淵的入口。"
+
+
 translate traditional_chinese episode006_2e76c751:
 
-    # "The woman looked eerily familiar, but again my memory failed me."
-    ""
 
-# game/episode006.rpy:1092
+    "那個女人看起來詭異得熟悉，但我的記憶又一次失敗了。"
+
+
 translate traditional_chinese episode006_8a038470:
 
-    # chrone "Mr. Valenmann de Lonval."
-    chrone ""
 
-# game/episode006.rpy:1093
+    chrone "瓦倫曼·德·隆瓦爾先生。"
+
+
 translate traditional_chinese episode006_121950be:
 
-    # c "That's my name, I guess?"
-    c ""
 
-# game/episode006.rpy:1094
+    c "那是我的名字，我猜？"
+
+
 translate traditional_chinese episode006_9950598a:
 
-    # chrone "Right, I forgot about your...{w} condition."
-    chrone ""
 
-# game/episode006.rpy:1095
+    chrone "對，我忘了你的...{w}情況。"
+
+
 translate traditional_chinese episode006_c6204d4e:
 
-    # c "Bullshit."
-    c ""
 
-# game/episode006.rpy:1097
+    c "放屁。"
+
+
 translate traditional_chinese episode006_4b2ac33e:
 
-    # chrone "Quite."
-    chrone ""
 
-# game/episode006.rpy:1099
+    chrone "沒錯。"
+
+
 translate traditional_chinese episode006_08067aac:
 
-    # chrone "My name is Dr. Moora."
-    chrone ""
 
-# game/episode006.rpy:1113
+    chrone "我的名字是穆娜醫生。"
+
+
 translate traditional_chinese episode006_c8db814a:
 
-    # chrone "I'm going to ask you a few questions."
-    chrone ""
 
-# game/episode006.rpy:1114
+    chrone "我要問你幾個問題。"
+
+
 translate traditional_chinese episode006_5289563d:
 
-    # c "Why would I answer them?"
-    c ""
 
-# game/episode006.rpy:1115
+    c "我爲什麼要回答？"
+
+
 translate traditional_chinese episode006_24a727e4:
 
-    # chrone "Because it's the right thing to do?"
-    chrone ""
 
-# game/episode006.rpy:1116
+    chrone "因爲這是正確的事？"
+
+
 translate traditional_chinese episode006_c6204d4e_1:
 
-    # c "Bullshit."
-    c ""
 
-# game/episode006.rpy:1118
+    c "放屁。"
+
+
 translate traditional_chinese episode006_63a9128b:
 
-    # chrone "That word again."
-    chrone ""
 
-# game/episode006.rpy:1119
+    chrone "又來了。"
+
+
 translate traditional_chinese episode006_af4b234f:
 
-    # chrone "We could also torture you."
-    chrone ""
 
-# game/episode006.rpy:1121
+    chrone "我們也可以拷打你。"
+
+
 translate traditional_chinese episode006_77fca7ea:
 
-    # chrone "Now. Question 1."
-    chrone ""
 
-# game/episode006.rpy:1122
+    chrone "現在。問題一。"
+
+
 translate traditional_chinese episode006_84a8094e:
 
-    # chrone "Do you enjoy sex?"
-    chrone ""
 
-# game/episode006.rpy:1127
+    chrone "你喜歡性嗎？"
+
+
 translate traditional_chinese episode006_21599725:
 
-    # c "Who doesn't?"
-    c ""
 
-# game/episode006.rpy:1130
+    c "誰不喜歡呢？"
+
+
 translate traditional_chinese episode006_8a29e1eb_1:
 
-    # c "Yes, I do."
-    c ""
 
-# game/episode006.rpy:1132
+    c "是的，我喜歡。"
+
+
 translate traditional_chinese episode006_b1c69ee9:
 
-    # c "My libido is incredibly low, so no."
-    c ""
 
-# game/episode006.rpy:1134
+    c "我的性慾超低，所以不喜歡。"
+
+
 translate traditional_chinese episode006_0c58b2a8:
 
-    # chrone "Have you ever experienced forbidden urges?"
-    chrone ""
 
-# game/episode006.rpy:1135
+    chrone "你曾有過禁忌的衝動嗎？"
+
+
 translate traditional_chinese episode006_99b5ef5a:
 
-    # c "What the fuck is that supposed to mean?"
-    c ""
 
-# game/episode006.rpy:1137
+    c "這他媽的是什麼意思？"
+
+
 translate traditional_chinese episode006_4bde3cc5:
 
-    # chrone "Let me rephrase."
-    chrone ""
 
-# game/episode006.rpy:1139
+    chrone "讓我換個說法。"
+
+
 translate traditional_chinese episode006_51e04a79:
 
-    # chrone "Have you ever had sexual urges that defied the social norms of your society?"
-    chrone ""
 
-# game/episode006.rpy:1144
+    chrone "你曾有過違背社會規範的性衝動嗎？"
+
+
 translate traditional_chinese episode006_cc5a20b9:
 
-    # c "The place where I come from is pretty puritanical, so yes, I have."
-    c ""
 
-# game/episode006.rpy:1146
+    c "我來自的地方很清教徒式，所以是，我有過。"
+
+
 translate traditional_chinese episode006_54b1df5d:
 
-    # c "No, I haven't."
-    c ""
 
-# game/episode006.rpy:1147
+    c "不，我沒有。"
+
+
 translate traditional_chinese episode006_4633d67c:
 
-    # c "What kind of question is that?"
-    c ""
 
-# game/episode006.rpy:1149
+    c "這是什麼問題？"
+
+
 translate traditional_chinese episode006_ce1987ab:
 
-    # chrone "Do you masturbate often?"
-    chrone ""
 
-# game/episode006.rpy:1150
+    chrone "你經常自慰嗎？"
+
+
 translate traditional_chinese episode006_bd7ad31c:
 
-    # c "Why is that important?"
-    c ""
 
-# game/episode006.rpy:1152
+    c "爲什麼那很重要？"
+
+
 translate traditional_chinese episode006_20d7d51c:
 
-    # chrone "Just answer the questions."
-    chrone ""
 
-# game/episode006.rpy:1157
+    chrone "直接回答問題。"
+
+
 translate traditional_chinese episode006_3486b112:
 
-    # c "Yes, often."
-    c ""
 
-# game/episode006.rpy:1159
+    c "是的，經常。"
+
+
 translate traditional_chinese episode006_2d1cbf61:
 
-    # c "No, not a lot."
-    c ""
 
-# game/episode006.rpy:1162
+    c "不，不多。"
+
+
 translate traditional_chinese episode006_aa8cf9f0:
 
-    # chrone "Are you sexually attracted to the redheaded girl you share a cell with?"
-    chrone ""
 
-# game/episode006.rpy:1169
+    chrone "和你同住一室的紅髮女孩對你有性吸引力嗎？"
+
+
 translate traditional_chinese episode006_36391c9b:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode006.rpy:1171
+    c "是的。"
+
+
 translate traditional_chinese episode006_8277cb72:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1174
+    c "不。"
+
+
 translate traditional_chinese episode006_8277cb72_1:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1176
+    c "不。"
+
+
 translate traditional_chinese episode006_621a5670:
 
-    # chrone "Are you sexually attracted to the brunette girl known as Aven?"
-    chrone ""
 
-# game/episode006.rpy:1183
+    chrone "那個叫艾文的黑髮女孩對你有性吸引力嗎？"
+
+
 translate traditional_chinese episode006_36391c9b_1:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode006.rpy:1185
+    c "是的。"
+
+
 translate traditional_chinese episode006_8277cb72_2:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1188
+    c "不。"
+
+
 translate traditional_chinese episode006_8277cb72_3:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1190
+    c "不。"
+
+
 translate traditional_chinese episode006_b9ba462c:
 
-    # chrone "Are you sexually attracted to the older woman Nadya?"
-    chrone ""
 
-# game/episode006.rpy:1197
+    chrone "年齡更大的女人娜迪亞對你有性吸引力嗎？"
+
+
 translate traditional_chinese episode006_36391c9b_2:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode006.rpy:1199
+    c "是的。"
+
+
 translate traditional_chinese episode006_8277cb72_4:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1202
+    c "不。"
+
+
 translate traditional_chinese episode006_8277cb72_5:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1204
+    c "不。"
+
+
 translate traditional_chinese episode006_9846b57b:
 
-    # chrone "Are you sexually attracted to me?"
-    chrone ""
 
-# game/episode006.rpy:1210
+    chrone "我對你有性吸引力嗎？"
+
+
 translate traditional_chinese episode006_36391c9b_3:
 
-    # c "Yes, I am."
-    c ""
 
-# game/episode006.rpy:1212
+    c "是的。"
+
+
 translate traditional_chinese episode006_8277cb72_6:
 
-    # c "No, I'm not."
-    c ""
 
-# game/episode006.rpy:1214
+    c "不。"
+
+
 translate traditional_chinese episode006_c447ac89:
 
-    # chrone "Have the past few days heightened or lowered you sexual desires?"
-    chrone ""
 
-# game/episode006.rpy:1219
+    chrone "過去幾天你的性慾增強了還是減弱了？"
+
+
 translate traditional_chinese episode006_ff32a3e5:
 
-    # c "They've increased."
-    c ""
 
-# game/episode006.rpy:1220
+    c "它們增強了。"
+
+
 translate traditional_chinese episode006_2bcd025f:
 
-    # c "Do you know how frustrating it is to be locked up in a cell and be subjected to hardcore pornography once in a while while strapped to a chair?"
-    c ""
 
-# game/episode006.rpy:1222
+    c "你知道被關在牢房裡，時不時被迫看硬核色情片還綁在椅子上有多煩人嗎？"
+
+
 translate traditional_chinese episode006_57a46b0c:
 
-    # c "Lowered."
-    c ""
 
-# game/episode006.rpy:1223
+    c "減弱了。"
+
+
 translate traditional_chinese episode006_dd948abb:
 
-    # c "You have no idea how much that hardcore pornography you've subjected me to has desensitized me to anything erotic."
-    c ""
 
-# game/episode006.rpy:1225
+    c "你根本不知道你讓我看的那些硬核色情片讓我對任何情色東西都麻木了多少。"
+
+
 translate traditional_chinese episode006_a6745631:
 
-    # c "I don't think there's been any change, to be honest."
-    c ""
 
-# game/episode006.rpy:1229
+    c "說實話，我覺得沒什麼變化。"
+
+
 translate traditional_chinese episode006_c3e120b4:
 
-    # chrone "If I were to offer you my body, would you take advantage?"
-    chrone ""
 
-# game/episode006.rpy:1230
+    chrone "如果我獻身給你，你會趁機而爲嗎？"
+
+
 translate traditional_chinese episode006_ab37254d:
 
-    # c "Wait a minute, are we still talking hypotheticals here?"
-    c ""
 
-# game/episode006.rpy:1232
+    c "等一下，我們還在說假設嗎？"
+
+
 translate traditional_chinese episode006_dbea7768:
 
-    # chrone "Please answer the question."
-    chrone ""
 
-# game/episode006.rpy:1237
+    chrone "請回答這個問題。"
+
+
 translate traditional_chinese episode006_0de2deac:
 
-    # c "Yes, I would."
-    c ""
 
-# game/episode006.rpy:1238
+    c "是的，我會。"
+
+
 translate traditional_chinese episode006_12474fde:
 
-    # chrone "How would you fuck me?"
-    chrone ""
 
-# game/episode006.rpy:1239
+    chrone "你會怎麼操我？"
+
+
 translate traditional_chinese episode006_bdae5aab:
 
-    # c "I'd tear that skimpy uniform you're wearing from your body and force you to bend over."
-    c ""
 
-# game/episode006.rpy:1240
+    c "我會把你穿的這件緊身的制服撕開，強迫你彎下腰。"
+
+
 translate traditional_chinese episode006_bf753f73:
 
-    # c "Grabbing you by the hair, I'd ram my cock inside you."
-    c ""
 
-# game/episode006.rpy:1241
+    c "抓住你的頭髮，我會把我的雞巴猛插進你裡面。"
+
+
 translate traditional_chinese episode006_ad032698:
 
-    # c "Then I'd hate-fuck you until you begged for me to cum."
-    c ""
 
-# game/episode006.rpy:1243
+    c "然後我會恨恨地操你，直到你求我射出來。"
+
+
 translate traditional_chinese episode006_cb3deecb:
 
-    # c "Does that satisfy your curiosity?"
-    c ""
 
-# game/episode006.rpy:1244
+    c "這滿足你的好奇心了嗎？"
+
+
 translate traditional_chinese episode006_6c858c9a:
 
-    # chrone "A little."
-    chrone ""
 
-# game/episode006.rpy:1246
+    chrone "一點點。"
+
+
 translate traditional_chinese episode006_d6d133cb:
 
-    # chrone "It's all talk though..."
-    chrone ""
 
-# game/episode006.rpy:1247
+    chrone "但這只是說說而已..."
+
+
 translate traditional_chinese episode006_7175dc08:
 
-    # c "Send away your guards and find out how much of it is true."
-    c ""
 
-# game/episode006.rpy:1249
+    c "把你的守衛叫走，然後看看有多少是真的。"
+
+
 translate traditional_chinese episode006_0787cd9f:
 
-    # chrone "I'm afraid that won't happen, as it would be far too easy for you to overpower me and use me as a hostage."
-    chrone ""
 
-# game/episode006.rpy:1251
+    chrone "我恐怕這不會發生，因爲你要制服我並且把我當人質用太過容易了。"
+
+
 translate traditional_chinese episode006_dbe9bfe8:
 
-    # chrone "Follow me to the examination table."
-    chrone ""
 
-# game/episode006.rpy:1252
+    chrone "跟我到檢查臺去。"
+
+
 translate traditional_chinese episode006_01cda52e:
 
-    # "Expecting a physical exam, I followed her hesitantly."
-    ""
 
-# game/episode006.rpy:1253
+    "以爲是要體檢，我猶豫地跟着她。"
+
+
 translate traditional_chinese episode006_67853530:
 
-    # "She nodded at the guards and they shifted positions, their backs turned to us."
-    ""
 
-# game/episode006.rpy:1259
+    "她朝守衛點了點頭，他們就換了個位置，背對着我們。"
+
+
 translate traditional_chinese episode006_57e5dc05:
 
-    # chrone "Thank you for answering my questions so thoroughly."
-    chrone ""
 
-# game/episode006.rpy:1260
+    chrone "謝謝你這麼認真地回答了我的問題。"
+
+
 translate traditional_chinese episode006_ecd813b0:
 
-    # chrone "We’ll move the conversation back to my desk so we can wrap things up."
-    chrone ""
 
-# game/episode006.rpy:1261
+    chrone "我們把談話挪回到我的辦公桌，這樣我們可以結束這事。"
+
+
 translate traditional_chinese episode006_98db9245:
 
-    # "Before I fucked her brains out, I’d been eyeing a pen on the doctor’s desk."
-    ""
 
-# game/episode006.rpy:1263
+    "在我操到她不省人事之前，我一直在盯着醫生桌上的筆。"
+
+
 translate traditional_chinese episode006_60dde2ba:
 
-    # "I couldn’t really make a move during the interview, but I really wanted to palm that thing somehow and now was as good a time as any."
-    ""
 
-# game/episode006.rpy:1264
+    "在面試期間我實在沒法行動，但我真的很想偷偷把筆摸走，現在是最好的時機。"
+
+
 translate traditional_chinese episode006_ac9b6b51:
 
-    # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
 
-# game/episode006.rpy:1265
+    "我們需要一個優勢，像筆這樣的小東西可以偷運、削尖，當作武器用。"
+
+
 translate traditional_chinese episode006_193355f5:
 
-    # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
 
-# game/episode006.rpy:1267
+    "是啊，我並沒有什麼把握，但我還能怎麼做？"
+
+
 translate traditional_chinese episode006_3e8859d4:
 
-    # "She let me walk in front of her, busying herself with the buttons of her dress."
-    ""
 
-# game/episode006.rpy:1268
+    "她讓我走在她前面，自己忙着整理連衣裙的紐扣。"
+
+
 translate traditional_chinese episode006_3a69f482:
 
-    # "When I reached the desk I quickly covered the pen with the palm of my hand and stuck it between the waistband of my jumpsuit."
-    ""
 
-# game/episode006.rpy:1269
+    "走到桌邊時，我迅速用手掌蓋住筆，然後塞進我的連身褲的腰帶裏。"
+
+
 translate traditional_chinese episode006_5b3aeebd:
 
-    # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
 
-# game/episode006.rpy:1270
+    "守衛從來沒有進行過裸體搜查，所以我很有信心能把筆偷運到我們的牢房裡去。"
+
+
 translate traditional_chinese episode006_29e44a64:
 
-    # c "Are we done here, doc?"
-    c ""
 
-# game/episode006.rpy:1271
+    c "我們完事了嗎，醫生？"
+
+
 translate traditional_chinese episode006_63e1a3ff:
 
-    # chrone "Yes, we are."
-    chrone ""
 
-# game/episode006.rpy:1272
+    chrone "是的，結束了。"
+
+
 translate traditional_chinese episode006_5c825ed7:
 
-    # "She called the guards who either hadn’t noticed the vigorous fucking that had gone on in the office or simply didn’t give a shit."
-    ""
 
-# game/episode006.rpy:1274
+    "她叫來了警衛——那些傢伙要麼是沒注意到辦公室裏發生的激烈性交，要麼純粹他媽的不在乎。"
+
+
 translate traditional_chinese episode006_6de3e462:
 
-    # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
 
-# game/episode006.rpy:1276
+    "如我所願，他們沒再檢查就把我押回了牢房。"
+
+
 translate traditional_chinese episode006_02b377e9:
 
-    # c "No, I wouldn't."
-    c ""
 
-# game/episode006.rpy:1277
+    c "不，我不會。"
+
+
 translate traditional_chinese episode006_26dc1492:
 
-    # chrone "You harbor a grudge against me?"
-    chrone ""
 
-# game/episode006.rpy:1278
+    chrone "你對我懷恨在心？"
+
+
 translate traditional_chinese episode006_606d9475:
 
-    # c "Of course I fucking do, you’re the reason why I’m locked up here in the first place."
-    c ""
 
-# game/episode006.rpy:1280
+    c "去你媽的當然恨你！老子會被關在這兒全拜你所賜。"
+
+
 translate traditional_chinese episode006_38425ee8:
 
-    # "While the doctor was droning on with her useless questions I’d eyed a pen on her desk."
-    ""
 
-# game/episode006.rpy:1281
+    "醫生絮絮叨叨着無聊問題時，我早盯上了她桌上的鋼筆。"
+
+
 translate traditional_chinese episode006_f694079b:
 
-    # "Her attention was fully on me, so I couldn’t really make a move, but I really wanted to palm that thing somehow."
-    ""
 
-# game/episode006.rpy:1282
+    "她死盯着我不好下手，可我非得把這玩意兒弄到手不可。"
+
+
 translate traditional_chinese episode006_ac9b6b51_1:
 
-    # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
 
-# game/episode006.rpy:1283
+    "我們需要一個優勢，鋼筆這種小東西能偷帶回去，磨尖了就能當武器使。"
+
+
 translate traditional_chinese episode006_193355f5_1:
 
-    # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
 
-# game/episode006.rpy:1285
+    "是，我他媽也沒把握，但還能怎麼辦？"
+
+
 translate traditional_chinese episode006_e42ada7a:
 
-    # chrone "We’re done with the interview."
-    chrone ""
 
-# game/episode006.rpy:1286
+    chrone "面談結束了。"
+
+
 translate traditional_chinese episode006_128f2394:
 
-    # c "Finally."
-    c ""
 
-# game/episode006.rpy:1287
+    c "可算完了。"
+
+
 translate traditional_chinese episode006_11794256:
 
-    # chrone "You may stand up."
-    chrone ""
 
-# game/episode006.rpy:1289
+    chrone "你可以起身了。"
+
+
 translate traditional_chinese episode006_5e3894cf:
 
-    # "I did so and pretended to buckle forward, steadying myself on the edges of the desk."
-    ""
 
-# game/episode006.rpy:1290
+    "我假裝踉蹌，撐住桌沿穩住身子。"
+
+
 translate traditional_chinese episode006_ccdc1fb7:
 
-    # "I heard the guards behind me tense and draw their weapons."
-    ""
 
-# game/episode006.rpy:1291
+    "聽見身後警衛咔噠拔出武器。"
+
+
 translate traditional_chinese episode006_04497ddc:
 
-    # c "You really need to invest in more comfortable furniture."
-    c ""
 
-# game/episode006.rpy:1293
+    c "你們真該置辦點舒服的家具。"
+
+
 translate traditional_chinese episode006_3506d5be:
 
-    # "As she looked me in the eyes sneeringly, I quickly covered the pen with my hand and stuck it between the waistband of my jumpsuit."
-    ""
 
-# game/episode006.rpy:1294
+    "趁她譏諷地盯着我時，我用手掌壓住鋼筆塞進連體褲腰帶。"
+
+
 translate traditional_chinese episode006_5b3aeebd_1:
 
-    # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
 
-# game/episode006.rpy:1296
+    "警衛從不裸身搜查，我肯定能把東西偷運回牢房。"
+
+
 translate traditional_chinese episode006_6de3e462_1:
 
-    # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
 
-# game/episode006.rpy:1299
+    "如我所願，他們沒再檢查就把我押回了牢房。"
+
+
 translate traditional_chinese episode006_38425ee8_1:
 
-    # "While the doctor was droning on with her useless questions I’d eyed a pen on her desk."
-    ""
 
-# game/episode006.rpy:1300
+    "醫生絮絮叨叨着無聊問題時，我早盯上了她桌上的鋼筆。"
+
+
 translate traditional_chinese episode006_f694079b_1:
 
-    # "Her attention was fully on me, so I couldn’t really make a move, but I really wanted to palm that thing somehow."
-    ""
 
-# game/episode006.rpy:1301
+    "她死盯着我不好下手，可我非得把這玩意兒弄到手不可。"
+
+
 translate traditional_chinese episode006_ac9b6b51_2:
 
-    # "We needed an edge and something small like a pen could be smuggled, sharpened and maybe used as a weapon."
-    ""
 
-# game/episode006.rpy:1302
+    "我們需要一個優勢，鋼筆這種小東西能偷帶回去，磨尖了就能當武器使。"
+
+
 translate traditional_chinese episode006_193355f5_2:
 
-    # "Yeah, I didn’t have a fucking clue, but what else was I supposed to do?"
-    ""
 
-# game/episode006.rpy:1304
+    "是啊，我並沒什麼把握，但不然我還能怎麼辦？"
+
+
 translate traditional_chinese episode006_e42ada7a_1:
 
-    # chrone "We’re done with the interview."
-    chrone ""
 
-# game/episode006.rpy:1305
+    chrone "面談結束了。"
+
+
 translate traditional_chinese episode006_128f2394_1:
 
-    # c "Finally."
-    c ""
 
-# game/episode006.rpy:1306
+    c "總算完了。"
+
+
 translate traditional_chinese episode006_11794256_1:
 
-    # chrone "You may stand up."
-    chrone ""
 
-# game/episode006.rpy:1308
+    chrone "你可以起身了。"
+
+
 translate traditional_chinese episode006_5e3894cf_1:
 
-    # "I did so and pretended to buckle forward, steadying myself on the edges of the desk."
-    ""
 
-# game/episode006.rpy:1309
+    "我照做並假裝向前踉蹌，雙手撐住桌子邊緣穩住身子。"
+
+
 translate traditional_chinese episode006_ccdc1fb7_1:
 
-    # "I heard the guards behind me tense and draw their weapons."
-    ""
 
-# game/episode006.rpy:1310
+    "聽見身後警衛猛地繃緊神經拔出武器。"
+
+
 translate traditional_chinese episode006_04497ddc_1:
 
-    # c "You really need to invest in more comfortable furniture."
-    c ""
 
-# game/episode006.rpy:1312
+    c "你們真該花錢弄點舒服的家具。"
+
+
 translate traditional_chinese episode006_3506d5be_1:
 
-    # "As she looked me in the eyes sneeringly, I quickly covered the pen with my hand and stuck it between the waistband of my jumpsuit."
-    ""
 
-# game/episode006.rpy:1313
+    "她嘲弄地盯着我眼睛時，我迅速用手蓋住鋼筆插進連體褲腰封。"
+
+
 translate traditional_chinese episode006_5b3aeebd_2:
 
-    # "The guards never strip-searched us, so I was pretty confident I could smuggle the thing into our cell."
-    ""
 
-# game/episode006.rpy:1315
+    "警衛從沒給我們脫光搜身過，所以我挺有把握能把那東西偷運進牢房。"
+
+
 translate traditional_chinese episode006_6de3e462_2:
 
-    # "Like I hoped, they took me back to the cell without any further inspection."
-    ""
 
-# game/episode006.rpy:1320
+    "正如我所希望的，他們沒再檢查就把我帶回牢房了。"
+
+
 translate traditional_chinese episode006_1fa69c0a:
 
-    # "When they dumped me back into the cell all three women rushed towards me."
-    ""
 
-# game/episode006.rpy:1321
+    "當他們把我丟回牢房時，三個女人全向我衝了過來。"
+
+
 translate traditional_chinese episode006_26fd0081:
 
-    # l "Are you okay, [p_name]?"
-    l ""
 
-# game/episode006.rpy:1322
+    l "你還好嗎，[p_name]？"
+
+
 translate traditional_chinese episode006_af110abf:
 
-    # av "Did they hurt you?"
-    av ""
 
-# game/episode006.rpy:1323
+    av "他們傷着你沒？"
+
+
 translate traditional_chinese episode006_d3e72ce0:
 
-    # na "Let him sit down girls and get his bearings."
-    na ""
 
-# game/episode006.rpy:1326
+    na "讓他坐下定定神吧姑娘們。"
+
+
 translate traditional_chinese episode006_8dc4bb04:
 
-    # "Instead of following Nadya’s advice, I embraced Lilly and whispered something in her ear."
-    ""
 
-# game/episode006.rpy:1327
+    "我沒聽從娜迪亞的建議，而是抱住了莉莉在她耳邊低語。"
+
+
 translate traditional_chinese episode006_e5fffa40:
 
-    # c "We’re breaking out, wait for my signal."
-    c ""
 
-# game/episode006.rpy:1328
+    c "我們要越獄了，等我信號。"
+
+
 translate traditional_chinese episode006_e433901d:
 
-    # "Lilly looked into my eyes and nodded."
-    ""
 
-# game/episode006.rpy:1330
+    "莉莉直視着我的眼睛點了點頭。"
+
+
 translate traditional_chinese episode006_32b7c5c9:
 
-    # "I turned towards Aven and embraced her too."
-    ""
 
-# game/episode006.rpy:1331
+    "我轉向艾文也擁抱了她。"
+
+
 translate traditional_chinese episode006_dc3e30da:
 
-    # c "Take this, we’re breaking out, wait for Lilly and me to start making some noise."
-    c ""
 
-# game/episode006.rpy:1334
+    c "拿好這個，我們準備突圍，等莉莉和我先鬧出動靜。"
+
+
 translate traditional_chinese episode006_83b59d64:
 
-    # "Instead of following Nadya’s advice, I embraced Aven and whispered something in her ear."
-    ""
 
-# game/episode006.rpy:1335
+    "我沒聽娜迪亞的建議，反而擁抱住艾文在她耳邊低語了幾句。"
+
+
 translate traditional_chinese episode006_dc3e30da_1:
 
-    # c "Take this, we’re breaking out, wait for Lilly and me to start making some noise."
-    c ""
 
-# game/episode006.rpy:1336
+    c "拿着這個，我們準備突圍，等莉莉和我先鬧出動靜。"
+
+
 translate traditional_chinese episode006_c84f7339:
 
-    # "Aven took the offered pen and hid slipped it into her sleeve."
-    ""
 
-# game/episode006.rpy:1338
+    "艾文接過遞來的筆藏進了袖子裡。"
+
+
 translate traditional_chinese episode006_d7cbaffd:
 
-    # "I turned towards Lilly and embraced her too."
-    ""
 
-# game/episode006.rpy:1339
+    "我轉向莉莉也擁抱了她。"
+
+
 translate traditional_chinese episode006_e5fffa40_1:
 
-    # c "We’re breaking out, wait for my signal."
-    c ""
 
-# game/episode006.rpy:1341
+    c "我們準備行動，等我信號。"
+
+
 translate traditional_chinese episode006_b1e9e58b:
 
-    # "I embraced Nadya too for good measure, though she was a little hesitant to return the gesture."
-    ""
 
-# game/episode006.rpy:1342
+    "我也順便擁抱了娜迪亞，雖然她猶豫着沒怎麼回應我的擁抱。"
+
+
 translate traditional_chinese episode006_b96cf30f:
 
-    # c "We’re breaking out, wait for us to make a move."
-    c ""
 
-# game/episode006.rpy:1343
+    c "我們要越獄了，等我們行動的信號。"
+
+
 translate traditional_chinese episode006_ec1edef6:
 
-    # "Nadya didn’t give any hint she understood me, but didn’t break my cover either."
-    ""
 
-# game/episode006.rpy:1345
+    "娜迪亞沒顯露聽懂了我的暗示，但也沒揭穿我的僞裝。"
+
+
 translate traditional_chinese episode006_5fd2d8c4:
 
-    # "We fell into our routine and waited for the right moment."
-    ""
 
-# game/episode006.rpy:1350
+    "我們照常行事，等待着合適時機。"
+
+
 translate traditional_chinese episode006_484edd25:
 
-    # "Eventually, the food arrived."
-    ""
 
-# game/episode006.rpy:1352
+    "終於，食物送來了。"
+
+
 translate traditional_chinese episode006_a4b253e9:
 
-    # "I walked towards the trays of food and picked one up and threw it against the wall."
-    ""
 
-# game/episode006.rpy:1354
+    "我走向餐盤堆，抓起一盤狠狠砸向牆壁。"
+
+
 translate traditional_chinese episode006_94c37dbf:
 
-    # l "What the fuck are you doing?!"
-    l ""
 
-# game/episode006.rpy:1355
+    l "你他媽在搞什麼鬼?!"
+
+
 translate traditional_chinese episode006_064c68eb:
 
-    # "Before she could approach me I threw another tray against the wall."
-    ""
 
-# game/episode006.rpy:1357
+    "趁她還沒靠近，我又摔碎第二盤餐食。"
+
+
 translate traditional_chinese episode006_d83d8f9b:
 
-    # "Lilly shrieked and rushed towards me as I was about to throw the third tray against the wall."
-    ""
 
-# game/episode006.rpy:1358
+    "當我抓起第三盤準備砸牆時，莉莉尖叫着向我衝來。"
+
+
 translate traditional_chinese episode006_ecf2092b:
 
-    # l "No!{w} That's our food, you lunatic!"
-    l ""
 
-# game/episode006.rpy:1359
+    l "不！{w}那是我們的食物啊，瘋子！"
+
+
 translate traditional_chinese episode006_2e8b2924:
 
-    # "She pulled at my arm and made a whole lot of noise."
-    ""
 
-# game/episode006.rpy:1361
+    "她死命拽我胳膊，鬧出好大動靜。"
+
+
 translate traditional_chinese episode006_e00a13e0:
 
-    # "When my eyes met hers a mischievous smile briefly crept across her face."
-    ""
 
-# game/episode006.rpy:1362
+    "當我和她四目相對時，她臉上倏地掠過狡黠的壞笑。"
+
+
 translate traditional_chinese episode006_bfce2bc0:
 
-    # "During all the commotion, Aven had positioned herself beside the door."
-    ""
 
-# game/episode006.rpy:1364
+    "混亂中，艾文早已站到門邊。"
+
+
 translate traditional_chinese episode006_015749c6:
 
-    # "That's when the guards arrived to break up the fight."
-    ""
 
-# game/episode006.rpy:1366
+    "恰在此時警衛衝進來制止鬥毆。"
+
+
 translate traditional_chinese episode006_8eea2543:
 
-    # "As they tried to grab me I swung the tray I'd picked up and struck one of the guards right across his face."
-    ""
 
-# game/episode006.rpy:1368
+    "他們撲上來抓我，我掄起餐盤砸中其中一人的面門。"
+
+
 translate traditional_chinese episode006_f7e26a24:
 
-    # "Meanwhile, Aven took one of the other guards in a chokehold and held the pen I stole inches above one of the poor fellow's arteries."
-    ""
 
-# game/episode006.rpy:1370
+    "同時艾文用鎖喉術制住另一名警衛，將我偷來的筆尖懸在那倒黴鬼動脈上方。"
+
+
 translate traditional_chinese episode006_165a3a80:
 
-    # "Lilly pulled the gun from the unfortunate guard's holster and stunned him with his own weapon."
-    ""
 
-# game/episode006.rpy:1372
+    "莉莉從被制伏的警衛槍套裏拔出配槍，用電擊槍功能放倒了武器主人。"
+
+
 translate traditional_chinese episode006_3b6f8d3e:
 
-    # "That left one guard, who was about to assault Lilly when Nadya ran up behind him and thrashed him on the head with one of the dinner trays I had thrown against the wall."
-    ""
 
-# game/episode006.rpy:1374
+    "剩下那個警衛正要襲擊莉莉，娜迪亞從背後衝出，用我先前砸牆的餐盤猛擊他後腦。"
+
+
 translate traditional_chinese episode006_c01e97ef:
 
-    # "More guards would surely arrive now, so we worked quickly and retrieved all the weapons the guards carried."
-    ""
 
-# game/episode006.rpy:1375
+    "增援隨時會到，我們火速收繳了所有警衛的武器。"
+
+
 translate traditional_chinese episode006_179e225f:
 
-    # "One of them also carried a set of keys which we took."
-    ""
 
-# game/episode006.rpy:1376
+    "其中一人還帶着鑰匙串，也被我們拿下。"
+
+
 translate traditional_chinese episode006_fecc9c3a:
 
-    # "The door was still open, so we ran out in the corridor, leaving the unconscious guards behind."
-    ""
 
-# game/episode006.rpy:1377
+    "牢門仍敞開着，我們衝出走廊，只留下滿地昏迷的警衛。"
+
+
 translate traditional_chinese episode006_c1da87dd:
 
-    # "Though there were no alarms audible, we knew it was a matter of time before more guards would arrive."
-    ""
 
-# game/episode006.rpy:1378
+    "儘管聽不到警報聲，但我們知道守衛增援到來只是時間問題。"
+
+
 translate traditional_chinese episode006_0014444b:
 
-    # "We had to think fast."
-    ""
 
-# game/episode006.rpy:1380
+    "我們得快點想辦法。"
+
+
 translate traditional_chinese episode006_a611d2c5:
 
-    # "The way to the doctor's office still fresh in my memory, I took the lead."
-    ""
 
-# game/episode006.rpy:1382
+    "通往醫生辦公室的路我還記得很清楚，便帶頭前進。"
+
+
 translate traditional_chinese episode006_2c381165:
 
-    # "With our weapons drawn we slammed open the door and moved inside."
-    ""
 
-# game/episode006.rpy:1383
+    "我們舉着武器猛地撞開門衝了進去。"
+
+
 translate traditional_chinese episode006_55d2cedf:
 
-    # "The doctor nearly fell from her chair in shock and was quickly overpowered by Aven."
-    ""
 
-# game/episode006.rpy:1385
+    "醫生嚇得差點從椅子上摔下來，隨即就被艾文制服了。"
+
+
 translate traditional_chinese episode006_1706e547:
 
-    # c "Are we being watched here?"
-    c ""
 
-# game/episode006.rpy:1386
+    c "這裡有監控嗎？"
+
+
 translate traditional_chinese episode006_91c61d31:
 
-    # chrone "I..."
-    chrone ""
 
-# game/episode006.rpy:1387
+    chrone "我..."
+
+
 translate traditional_chinese episode006_be17ee9b:
 
-    # c "Answer the question."
-    c ""
 
-# game/episode006.rpy:1388
+    c "回答問題。"
+
+
 translate traditional_chinese episode006_a5fc7df9:
 
-    # chrone "No, the surveillance is limited to the cells."
-    chrone ""
 
-# game/episode006.rpy:1389
+    chrone "沒有，監控只覆蓋牢房區域。"
+
+
 translate traditional_chinese episode006_f2f42cdc:
 
-    # c "Back when we were here and you were asking me all kinds of impertinent questions, the guards seemed to obey you."
-    c ""
 
-# game/episode006.rpy:1390
+    c "之前我們在這裡時，你問我各種亂七八糟的問題，守衛們似乎都聽命於你。"
+
+
 translate traditional_chinese episode006_dc698127:
 
-    # c "You're their superior, aren't you?"
-    c ""
 
-# game/episode006.rpy:1392
+    c "你是他們的上級，對吧？"
+
+
 translate traditional_chinese episode006_d9b94556:
 
-    # chrone "I am."
-    chrone ""
 
-# game/episode006.rpy:1393
+    chrone "是的。"
+
+
 translate traditional_chinese episode006_d83da912:
 
-    # c "In that case, tell them to stand down immediately."
-    c ""
 
-# game/episode006.rpy:1394
+    c "那就立刻下令讓他們解除戒備。"
+
+
 translate traditional_chinese episode006_4c219fb0:
 
-    # chrone "I don't know if I can, the whole base is on full alert."
-    chrone ""
 
-# game/episode006.rpy:1395
+    chrone "現在整個基地處於最高警戒狀態，我未必能行。"
+
+
 translate traditional_chinese episode006_78a8a61c:
 
-    # c "Try anyway."
-    c ""
 
-# game/episode006.rpy:1396
+    c "儘管試試。"
+
+
 translate traditional_chinese episode006_4c07f644:
 
-    # c "And if you try anything stupid, Aven will fry your brain with that shiny gun she's holding."
-    c ""
 
-# game/episode006.rpy:1398
+    c "要是敢耍花招，艾文就會用她手裡那把亮閃閃的槍轟掉你的腦袋。"
+
+
 translate traditional_chinese episode006_963fdc82:
 
-    # "The doctor moved to the comm console and pressed one of the speaker buttons."
-    ""
 
-# game/episode006.rpy:1399
+    "醫生挪到通訊控制臺前，按下某個擴音鍵。"
+
+
 translate traditional_chinese episode006_497e6699:
 
-    # chrone "Guards in Sector Gamma, stand down at once."
-    chrone ""
 
-# game/episode006.rpy:1400
+    chrone "Gamma區域的守衛，立刻解除戒備。"
+
+
 translate traditional_chinese episode006_673ca4b4:
 
-    # chrone "Prisoner escape drill has been completed."
-    chrone ""
 
-# game/episode006.rpy:1401
+    chrone "囚犯逃脫演習已結束。"
+
+
 translate traditional_chinese episode006_1351268a:
 
-    # chrone "Stand down at once."
-    chrone ""
 
-# game/episode006.rpy:1403
+    chrone "立即解除戒備。"
+
+
 translate traditional_chinese episode006_d6f89a9c:
 
-    # chrone "There, I did it."
-    chrone ""
 
-# game/episode006.rpy:1404
+    chrone "好了，通知到了。"
+
+
 translate traditional_chinese episode006_081de6ac:
 
-    # c "We'll have to take that risk."
-    c ""
 
-# game/episode006.rpy:1405
+    c "這個險必須冒。"
+
+
 translate traditional_chinese episode006_da9de6ca:
 
-    # c "Now you’re going to tell us where we are."
-    c ""
 
-# game/episode006.rpy:1406
+    c "現在告訴我們這是什麼地方。"
+
+
 translate traditional_chinese episode006_e8ae2899:
 
-    # chrone "At a research facility."
-    chrone ""
 
-# game/episode006.rpy:1408
+    chrone "一座研究設施。"
+
+
 translate traditional_chinese episode006_e8957c8f:
 
-    # "Before I could say anything, Aven cracked the butt of the pistol against the woman’s head."
-    ""
 
-# game/episode006.rpy:1409
+    "在我能開口之前，艾文就用手槍槍託猛地砸中了那個女人的頭。"
+
+
 translate traditional_chinese episode006_deb9a107:
 
-    # av "Tell us something we don’t know."
-    av ""
 
-# game/episode006.rpy:1410
+    av "說點我們不知道的吧。"
+
+
 translate traditional_chinese episode006_129b6ab7:
 
-    # c "You heard the lady."
-    c ""
 
-# game/episode006.rpy:1411
+    c "你聽到那位女士的話了。"
+
+
 translate traditional_chinese episode006_54b93d98:
 
-    # c "Which research station?"
-    c ""
 
-# game/episode006.rpy:1413
+    c "哪個研究站？"
+
+
 translate traditional_chinese episode006_e31cddfd:
 
-    # chrone "Höfel MDCL, built on an asteroid deep inside the Heveliun Belt."
-    chrone ""
 
-# game/episode006.rpy:1432
+    chrone "霍菲爾記憶控制實驗室，建在赫維留天體帶深處的一顆小行星上。"
+
+
 translate traditional_chinese episode006_dd603b64:
 
-    # c "Who runs this place?"
-    c ""
 
-# game/episode006.rpy:1433
+    c "誰管這個地方？"
+
+
 translate traditional_chinese episode006_95622a6a:
 
-    # chrone "A large company, they do research into immersive simulations."
-    chrone ""
 
-# game/episode006.rpy:1434
+    chrone "一家大公司，他們研究沉浸式模擬。"
+
+
 translate traditional_chinese episode006_0330f543:
 
-    # c "So we’re all lab rats?"
-    c ""
 
-# game/episode006.rpy:1436
+    c "所以我們都成實驗室耗子了？"
+
+
 translate traditional_chinese episode006_b10027a8:
 
-    # chrone "I wouldn’t call it that..."
-    chrone ""
 
-# game/episode006.rpy:1438
+    chrone "我不會那麼說..."
+
+
 translate traditional_chinese episode006_4f9680ef:
 
-    # "That statement earned her another hit from Aven with the pistol."
-    ""
 
-# game/episode006.rpy:1439
+    "那句話讓她又挨了艾文用手槍的一記重擊。"
+
+
 translate traditional_chinese episode006_56d5655e:
 
-    # c "How did we all get here?"
-    c ""
 
-# game/episode006.rpy:1441
+    c "我們是怎麼到這兒的？"
+
+
 translate traditional_chinese episode006_0da426d1:
 
-    # chrone "You all arrived together on a ship."
-    chrone ""
 
-# game/episode006.rpy:1442
+    chrone "你們都是坐一艘船一起到的。"
+
+
 translate traditional_chinese episode006_4edc52f4:
 
-    # c "Us four?"
-    c ""
 
-# game/episode006.rpy:1443
+    c "我們四個？"
+
+
 translate traditional_chinese episode006_eb785b3b:
 
-    # chrone "No, there were others with you."
-    chrone ""
 
-# game/episode006.rpy:1444
+    chrone "不，還有別人和你們在一起。"
+
+
 translate traditional_chinese episode006_58b7e315:
 
-    # c "So we were a crew."
-    c ""
 
-# game/episode006.rpy:1445
+    c "所以我們是一隊機組成員。"
+
+
 translate traditional_chinese episode006_3d11d0fd:
 
-    # c "Where are they now?"
-    c ""
 
-# game/episode006.rpy:1447
+    c "他們現在在哪兒？"
+
+
 translate traditional_chinese episode006_9797359e:
 
-    # chrone "Elsewhere on this floor, I can show you where."
-    chrone ""
 
-# game/episode006.rpy:1448
+    chrone "就在這層的別處，我可以帶你們去看。"
+
+
 translate traditional_chinese episode006_45c34acb:
 
-    # c "What did you do to our memories?"
-    c ""
 
-# game/episode006.rpy:1449
+    c "你對我們記憶做了什麼？"
+
+
 translate traditional_chinese episode006_c468e28f:
 
-    # chrone "They’re temporarily suppressed, the effect will wear off when the chemicals leave your body."
-    chrone ""
 
-# game/episode006.rpy:1450
+    chrone "它們是暫時壓抑了，等那些化學物離開你們身體，效果就會消失。"
+
+
 translate traditional_chinese episode006_ed268e68:
 
-    # c "Chemicals?{w} You drugged us?"
-    c ""
 
-# game/episode006.rpy:1451
+    c "化學物？{w} 你們給我們下藥了？"
+
+
 translate traditional_chinese episode006_72fdb1f9:
 
-    # chrone "We administer a solution via the meals we provide in order to have the most clear response to the simulations."
-    chrone ""
 
-# game/episode006.rpy:1452
+    chrone "我們通過提供的餐點添加一種溶液，以便在模擬中獲得最清晰的響應。"
+
+
 translate traditional_chinese episode006_b8ae7812:
 
-    # c "So you take us prisoner, pry into our brains, drug us, subject us to mind games..."
-    c ""
 
-# game/episode006.rpy:1453
+    c "所以你們抓我們當囚犯，窺探我們大腦，給我們下藥，強迫我們玩心理遊戲..."
+
+
 translate traditional_chinese episode006_f982afd9:
 
-    # c "Aven, what would be the effect of that blaster at point blank range on the doctor’s skull?"
-    c ""
 
-# game/episode006.rpy:1454
+    c "艾文，那把爆能槍在近距離開火打到醫生頭骨上會是什麼效果？"
+
+
 translate traditional_chinese episode006_762e5b97:
 
-    # av "I think the only way to describe that would be ‘messy’."
-    av ""
 
-# game/episode006.rpy:1455
+    av "我想唯一能形容那場景的就是『稀巴爛』。"
+
+
 translate traditional_chinese episode006_1a6b77ee:
 
-    # c "Goodbye, doctor."
-    c ""
 
-# game/episode006.rpy:1457
+    c "再見，醫生。"
+
+
 translate traditional_chinese episode006_052e3dc3:
 
-    # chrone "No!{w} Wait!{w} I can get you out of here!"
-    chrone ""
 
-# game/episode006.rpy:1458
+    chrone "不！{w}等等！{w}我能帶你離開這裡！"
+
+
 translate traditional_chinese episode006_e73101f1:
 
-    # chrone "Please don’t kill me!"
-    chrone ""
 
-# game/episode006.rpy:1459
+    chrone "請不要殺我！"
+
+
 translate traditional_chinese episode006_5785b452:
 
-    # "I signalled Aven to give the doctor a chance to explain herself."
-    ""
 
-# game/episode006.rpy:1461
+    "我示意艾文給醫生一個機會來解釋自己。"
+
+
 translate traditional_chinese episode006_60fa186f:
 
-    # chrone "Your ship is still stationed in the company docks."
-    chrone ""
 
-# game/episode006.rpy:1462
+    chrone "你的船還停在公司碼頭。"
+
+
 translate traditional_chinese episode006_ee987867:
 
-    # chrone "I can show you where your friends are and help you reach your ship."
-    chrone ""
 
-# game/episode006.rpy:1463
+    chrone "我能告訴你們朋友在哪，並幫你們到達船那裡。"
+
+
 translate traditional_chinese episode006_aef22107:
 
-    # c "Keep talking."
-    c ""
 
-# game/episode006.rpy:1464
+    c "繼續說。"
+
+
 translate traditional_chinese episode006_8444a66d:
 
-    # chrone "There’s a locker room two doors down from here where you’ll find lab coats and armor."
-    chrone ""
 
-# game/episode006.rpy:1465
+    chrone "從這裡下去兩扇門，有個更衣室，在那裡你們能找到實驗服和盔甲。"
+
+
 translate traditional_chinese episode006_a7bc2f13:
 
-    # chrone "If you wear those the station’s personnel will not suspect you."
-    chrone ""
 
-# game/episode006.rpy:1466
+    chrone "如果你們穿那些，站點人員就不會懷疑你們。"
+
+
 translate traditional_chinese episode006_ea4cd7ef:
 
-    # c "All of the guards were aliens, doesn’t that raise any alarms?"
-    c ""
 
-# game/episode006.rpy:1467
+    c "所有守衛都是外星人，這不是很可疑嗎？"
+
+
 translate traditional_chinese episode006_2c4cd81e:
 
-    # chrone "Only on this floor, on the others it’s more mixed."
-    chrone ""
 
-# game/episode006.rpy:1468
+    chrone "只有在這個樓層是那樣，其他樓層更混雜一些。"
+
+
 translate traditional_chinese episode006_0ba88062:
 
-    # chrone "Your friends are in cell block Z-X17 and storage bay G-N135."
-    chrone ""
 
-# game/episode006.rpy:1469
+    chrone "你們的朋友在牢房區 Z-X17 和儲存艙 G-N135。"
+
+
 translate traditional_chinese episode006_906113ad:
 
-    # c "A storage bay?"
-    c ""
 
-# game/episode006.rpy:1470
+    c "一個儲存艙？"
+
+
 translate traditional_chinese episode006_aaa01342:
 
-    # chrone "Yes, some of you didn’t respond well enough to our research."
-    chrone ""
 
-# game/episode006.rpy:1471
+    chrone "是的，有些人對我們的研究響應得不夠好。"
+
+
 translate traditional_chinese episode006_533f5cfa:
 
-    # c "So you put them in cold storage?"
-    c ""
 
-# game/episode006.rpy:1473
+    c "那你們就把他們冷藏起來了？"
+
+
 translate traditional_chinese episode006_7ce43f8a:
 
-    # chrone "In a sense."
-    chrone ""
 
-# game/episode006.rpy:1474
+    chrone "從某種意義上講是那樣。"
+
+
 translate traditional_chinese episode006_005ae020:
 
-    # chrone "They should be up and running in no time."
-    chrone ""
 
-# game/episode006.rpy:1475
+    chrone "他們應該很快就能起來了。"
+
+
 translate traditional_chinese episode006_43fbbee2:
 
-    # c "Gee, that’s a relief, doc!"
-    c ""
 
-# game/episode006.rpy:1477
+    c "哈，這可鬆了一口氣了，醫生！"
+
+
 translate traditional_chinese episode006_f58d982d:
 
-    # chrone "You’ll need this card to override the locks on the doors."
-    chrone ""
 
-# game/episode006.rpy:1478
+    chrone "你們需要這張卡來繞過門上的鎖。"
+
+
 translate traditional_chinese episode006_710573b7:
 
-    # c "Good, anything else we should know?"
-    c ""
 
-# game/episode006.rpy:1479
+    c "好，還有別的我們需要知道的嗎？"
+
+
 translate traditional_chinese episode006_7c6d3fa6:
 
-    # chrone "Yes, the station has weaponry to deal with escapees, so you’ll need a clearance code in order to leave on your ship."
-    chrone ""
 
-# game/episode006.rpy:1480
+    chrone "是的，站點有武器對付逃脫者，所以你們需要清除代碼才能開船離開。"
+
+
 translate traditional_chinese episode006_cd96310f:
 
-    # c "How do we get one?"
-    c ""
 
-# game/episode006.rpy:1481
+    c "我們怎麼得到一個？"
+
+
 translate traditional_chinese episode006_dedefb9e:
 
-    # chrone "The docking bay office should have a console where you can generate a code."
-    chrone ""
 
-# game/episode006.rpy:1482
+    chrone "船塢辦公室應該有個控制臺，可以在那生成代碼。"
+
+
 translate traditional_chinese episode006_bef26e49:
 
-    # c "So that’s all?"
-    c ""
 
-# game/episode006.rpy:1484
+    c "那就這些了？"
+
+
 translate traditional_chinese episode006_9cdd94fa:
 
-    # chrone "Yes, that’s all I know."
-    chrone ""
 
-# game/episode006.rpy:1485
+    chrone "是的，我就知道這些。"
+
+
 translate traditional_chinese episode006_41426dbd:
 
-    # c "Alright then."
-    c ""
 
-# game/episode006.rpy:1486
+    c "好吧，就這樣。"
+
+
 translate traditional_chinese episode006_f43ef03f:
 
-    # c "Aven, please stun the good doctor into unconsciousness."
-    c ""
 
-# game/episode006.rpy:1488
+    c "艾文，請擊暈這位好醫生讓她失去意識。"
+
+
 translate traditional_chinese episode006_a1ddcdae:
 
-    # "After setting the gun to stun, Aven blasted the doctor far too many times than necessary."
-    ""
 
-# game/episode006.rpy:1489
+    "在將槍設置爲擊暈模式後，艾文向醫生開了太多槍，遠超過必要次數。"
+
+
 translate traditional_chinese episode006_ca639642:
 
-    # "The woman fell from the chair and Nadya took her pulse and checked her eyes."
-    ""
 
-# game/episode006.rpy:1491
+    "那個女人從椅子上摔下來，娜迪亞檢查了她的脈搏和眼睛。"
+
+
 translate traditional_chinese episode006_c9cafdcf:
 
-    # na "She’s unconscious."
-    na ""
 
-# game/episode006.rpy:1492
+    na "她昏迷了。"
+
+
 translate traditional_chinese episode006_16a4b3be:
 
-    # c "Good. You and Lilly stow her in that closet, while Aven and I go get the clothing from the locker room."
-    c ""
 
-# game/episode006.rpy:1494
+    c "好。你和莉莉把她藏到那個柜子裏，同時我和艾文去更衣室拿衣服。"
+
+
 translate traditional_chinese episode006_5ea7537e:
 
-    # "We found the lockers soon enough and rummaged through them in search for clothing that would fit us."
-    ""
 
-# game/episode006.rpy:1495
+    "我們很快找到了柜子，並在裡面翻找能穿的衣服。"
+
+
 translate traditional_chinese episode006_b7650380:
 
-    # "After some searching we found two lab coats, a couple of shoes and two sets of armor that fit us nicely."
-    ""
 
-# game/episode006.rpy:1496
+    "找了一會兒，我們找到了兩件實驗服、幾雙鞋子和兩套合身的盔甲。"
+
+
 translate traditional_chinese episode006_b12d34a3:
 
-    # "Aven and I hurried back to the doctor’s office and were nearly blasted by Lilly when we entered."
-    ""
 
-# game/episode006.rpy:1498
+    "我和艾文匆忙趕回醫生的辦公室，差點被莉莉開槍擊中。"
+
+
 translate traditional_chinese episode006_32f6128c:
 
-    # l "Fuck!"
-    l ""
 
-# game/episode006.rpy:1499
+    l "操！"
+
+
 translate traditional_chinese episode006_1e59594e:
 
-    # l "Shouldn’t we have practiced a secret knock or something?"
-    l ""
 
-# game/episode006.rpy:1500
+    l "我們難道不應該搞一個祕密敲門暗號嗎？"
+
+
 translate traditional_chinese episode006_2a164af8:
 
-    # l "I nearly stunned you both!"
-    l ""
 
-# game/episode006.rpy:1501
+    l "我差點把你們都擊暈了！"
+
+
 translate traditional_chinese episode006_83bb6a1d:
 
-    # c "Right, glad you didn’t."
-    c ""
 
-# game/episode006.rpy:1502
+    c "確實，幸好你沒有。"
+
+
 translate traditional_chinese episode006_ca48b624:
 
-    # c "We brought two lab coats and shoes, better put them on."
-    c ""
 
-# game/episode006.rpy:1504
+    c "我們帶來了兩件實驗服和鞋子，最好穿上它們。"
+
+
 translate traditional_chinese episode006_68d175e6:
 
-    # "Both women dressed and we headed out into the corridor towards the cell block where part of our crew was supposedly held."
-    ""
 
-# game/episode006.rpy:1506
+    "兩個女人穿好衣服，我們走出走廊，向據說關着我們機組成員的牢房區走去。"
+
+
 translate traditional_chinese episode006_764bf067:
 
-    # "We passed rows and rows of doors as we made our way through the complex."
-    ""
 
-# game/episode006.rpy:1507
+    "我們穿過一排又一排的門，通過這個大樓。"
+
+
 translate traditional_chinese episode006_306ea4ab:
 
-    # l "Do you think all these cells are occupied?"
-    l ""
 
-# game/episode006.rpy:1508
+    l "你認爲所有這些牢房都有人嗎？"
+
+
 translate traditional_chinese episode006_8770ce89:
 
-    # c "I sincerely hope not, there are so many doors..."
-    c ""
 
-# game/episode006.rpy:1509
+    c "我真心希望沒有，門太多了..."
+
+
 translate traditional_chinese episode006_57d8e5ea:
 
-    # "Block Z-X17 wasn’t too far away and we opened the door with the keycard the doctor so generously provided us with."
-    ""
 
-# game/episode006.rpy:1511
+    "Z-X17區並不太遠，我們用醫生慷慨提供的門禁卡打開了門。"
+
+
 translate traditional_chinese episode006_742b6da3:
 
-    # "When we opened the door the cell’s occupants, two humans and a green-skinned woman looked at us in fear, soon mixed with bewilderedness."
-    ""
 
-# game/episode006.rpy:1512
+    "我們一開門，牢房的居住者——兩個人類和一個綠皮膚女人——恐懼地看着我們，很快又混合了困惑。"
+
+
 translate traditional_chinese episode006_3025911d:
 
-    # c "We’re not actual guards, we’ve come to get you out of here."
-    c ""
 
-# game/episode006.rpy:1513
+    c "我們不是真正的守衛，我們來把你帶出去。"
+
+
 translate traditional_chinese episode006_539ebd2a:
 
-    # ce "Thank heavens!"
-    ce ""
 
-# game/episode006.rpy:1515
+    ce "謝天謝地！"
+
+
 translate traditional_chinese episode006_9a051432:
 
-    # j "But we need to find Vess, they just took her away."
-    j ""
 
-# game/episode006.rpy:1516
+    j "但我們得找到薇絲，他們剛把她帶走了。"
+
+
 translate traditional_chinese episode006_2c159504:
 
-    # c "Where to?"
-    c ""
 
-# game/episode006.rpy:1517
+    c "去哪兒了？"
+
+
 translate traditional_chinese episode006_b8e8fa71:
 
-    # j "To some sort of simulation room and not for the first time either."
-    j ""
 
-# game/episode006.rpy:1518
+    j "去某種模擬室，而且不是第一次了。"
+
+
 translate traditional_chinese episode006_638449d5:
 
-    # j "I think she said it was sixteen doors down from here."
-    j ""
 
-# game/episode006.rpy:1519
+    j "我想她說過，從這裡下去十六扇門。"
+
+
 translate traditional_chinese episode006_c7a1fc60:
 
-    # c "Let’s go get her then."
-    c ""
 
-# game/episode006.rpy:1520
+    c "那我們去救她吧。"
+
+
 translate traditional_chinese episode006_c07d21fc:
 
-    # c "I’m [p_name], this is Lilly, Nadya and Aven."
-    c ""
 
-# game/episode006.rpy:1521
+    c "我是[p_name]，這是莉莉、娜迪亞和艾文。"
+
+
 translate traditional_chinese episode006_9e392b11:
 
-    # c "We’ve all suffered memory loss, which will fade over time."
-    c ""
 
-# game/episode006.rpy:1522
+    c "我們都遭受了記憶喪失，這會隨着時間消退。"
+
+
 translate traditional_chinese episode006_766c6bdd:
 
-    # c "We came here together on a ship as its crew."
-    c ""
 
-# game/episode006.rpy:1523
+    c "我們作爲機組成員一起乘船來到這裡。"
+
+
 translate traditional_chinese episode006_f5ad28be:
 
-    # c "Wait here while Aven and me go find Vess."
-    c ""
 
-# game/episode006.rpy:1525
+    c "你們在這兒等着，艾文和我去找薇絲。"
+
+
 translate traditional_chinese episode006_d5155f1b:
 
-    # "They did as they were told and we sprinted towards the room indicated by the green-skinned girl."
-    ""
 
-# game/episode006.rpy:1526
+    "他們按吩咐做了，我們朝綠皮膚女孩指的房間跑去。"
+
+
 translate traditional_chinese episode006_05b44bf8:
 
-    # "Two guards were in front of the door."
-    ""
 
-# game/episode006.rpy:1527
+    "兩個守衛在門前。"
+
+
 translate traditional_chinese episode006_57ae17d7:
 
-    # c "Open that door at once."
-    c ""
 
-# game/episode006.rpy:1529
+    c "立刻打開那扇門。"
+
+
 translate traditional_chinese episode006_7fb4c69c:
 
-    # "The guard mumbled something in a language I didn’t understand, probably challenging my authority or something."
-    ""
 
-# game/episode006.rpy:1531
+    "那個守衛用一種我聽不懂的語言嘟囔着什麼，大概在挑戰我的權威或什麼的。"
+
+
 translate traditional_chinese episode006_4bd9a7fa:
 
-    # "That’s when he was hit square in the chest by Aven’s blaster."
-    ""
 
-# game/episode006.rpy:1532
+    "就在那時，他被艾文的爆破槍直直打中胸口。"
+
+
 translate traditional_chinese episode006_50fa0f37:
 
-    # "I took care of the other guard who didn’t even have time to draw his weapon."
-    ""
 
-# game/episode006.rpy:1533
+    "我收拾了另一個守衛，他連拔武器的機會都沒有。"
+
+
 translate traditional_chinese episode006_38cb9356:
 
-    # c "You move the bodies, I’m getting the girl out of that chair."
-    c ""
 
-# game/episode006.rpy:1535
+    c "你挪開屍體，我去把那女孩從椅子上弄出來。"
+
+
 translate traditional_chinese episode006_327ca919:
 
-    # "Aven started dragging the unconscious guards inside the simulation room after I opened the door."
-    ""
 
-# game/episode006.rpy:1537
+    "我開門後，艾文開始把昏過去的守衛拖進模擬室。"
+
+
 translate traditional_chinese episode006_d6722431:
 
-    # "The room was completely dark, save for a chair illuminated by a vivid simulation playing out in front of it."
-    ""
 
-# game/episode006.rpy:1539
+    "房間一片漆黑，只有一個椅子，前面播放的鮮活模擬照在它上面。"
+
+
 translate traditional_chinese episode006_914044b5:
 
-    # "A blonde girl was seated in the chair."
-    ""
 
-# game/episode006.rpy:1540
+    "一位金髮女孩坐在椅子上。"
+
+
 translate traditional_chinese episode006_8c50f75b:
 
-    # "Tears were streaming down her cheeks as she was forced to look at the realistic imagery."
-    ""
 
-# game/episode006.rpy:1542
+    "她被迫看着逼真畫面，淚水流下臉頰。"
+
+
 translate traditional_chinese episode006_db411c2b:
 
-    # "A man and a woman were hunched over a crib, playing with a newborn child."
-    ""
 
-# game/episode006.rpy:1544
+    "一男一女彎着腰在搖籃旁，逗着一個新生兒。"
+
+
 translate traditional_chinese episode006_c1bdaee2:
 
-    # "They laughed and the baby crowed with pleasure as it tried to grab the finger dangling in front of her face."
-    ""
 
-# game/episode006.rpy:1546
+    "他們笑了，小寶寶高興地咯咯叫，試圖去抓懸在她臉前的手指。"
+
+
 translate traditional_chinese episode006_bc9ebdbe:
 
-    # "The happy scene was marred by the sadness radiating from the blonde girl in the chair."
-    ""
 
-# game/episode006.rpy:1547
+    "那快樂場景被椅子上金髮女孩散發的悲傷攪亂了。"
+
+
 translate traditional_chinese episode006_2e369043:
 
-    # "She cried and fought against her restraints and mumbled two words over and over again."
-    ""
 
-# game/episode006.rpy:1548
+    "她哭着掙扎反抗束縛，一遍遍嘟囔着兩個字。"
+
+
 translate traditional_chinese episode006_2e68e3f4:
 
-    # ve "Mom!"
-    ve ""
 
-# game/episode006.rpy:1549
+    ve "媽媽！"
+
+
 translate traditional_chinese episode006_560f870b:
 
-    # ve "Dad!"
-    ve ""
 
-# game/episode006.rpy:1551
+    ve "父親！"
+
+
 translate traditional_chinese episode006_2c40e6c3:
 
-    # "I couldn’t find a way to turn off the simulation, so I approached the chair carefully."
-    ""
 
-# game/episode006.rpy:1552
+    "我找不到關閉模擬的方法，於是小心翼翼地走近椅子。"
+
+
 translate traditional_chinese episode006_10cc2776:
 
-    # c "Vess, can you hear me?"
-    c ""
 
-# game/episode006.rpy:1553
+    c "薇絲，你能聽到我嗎？"
+
+
 translate traditional_chinese episode006_3779a7f5:
 
-    # ve "Who’s there?"
-    ve ""
 
-# game/episode006.rpy:1554
+    ve "誰在那裡？"
+
+
 translate traditional_chinese episode006_d531af89:
 
-    # ve "Grandfather?"
-    ve ""
 
-# game/episode006.rpy:1555
+    ve "祖父？"
+
+
 translate traditional_chinese episode006_6821b150:
 
-    # c "No, I’m [p_name]."
-    c ""
 
-# game/episode006.rpy:1556
+    c "不，我是[p_name]。"
+
+
 translate traditional_chinese episode006_3a7c3963:
 
-    # c "I’m going to release you from this chair and take you out of here."
-    c ""
 
-# game/episode006.rpy:1558
+    c "我要把你從椅子上放出來，帶你離開這裡。"
+
+
 translate traditional_chinese episode006_50c3dff1:
 
-    # "She didn’t reply, but I couldn’t waste more time on talking and started undoing the straps that bound her to the chair."
-    ""
 
-# game/episode006.rpy:1560
+    "她沒有回應，但我不能再浪費交談時間，開始解開綁住她的椅帶。"
+
+
 translate traditional_chinese episode006_0881f730:
 
-    # "Still crying, I helped her stand and supported her while we walked towards the door, the simulation still playing in the background."
-    ""
 
-# game/episode006.rpy:1561
+    "她仍在哭泣，我扶她起身靠着我，朝門口走去時背景裏的模擬影像還在繼續播放。"
+
+
 translate traditional_chinese episode006_4b9e0353:
 
-    # c "Are you alright?"
-    c ""
 
-# game/episode006.rpy:1562
+    c "你還好嗎？"
+
+
 translate traditional_chinese episode006_863a114b:
 
-    # ve "I think so."
-    ve ""
 
-# game/episode006.rpy:1563
+    ve "應該還好。"
+
+
 translate traditional_chinese episode006_c3d2a2e3:
 
-    # c "Did you recognize those people in the simulation?"
-    c ""
 
-# game/episode006.rpy:1564
+    c "你認出模擬影像裏那些人了嗎？"
+
+
 translate traditional_chinese episode006_3a0a4bfc:
 
-    # ve "I think they were my parents, but I can’t remember them."
-    ve ""
 
-# game/episode006.rpy:1565
+    ve "我覺得他們是我父母，可我想不起來了。"
+
+
 translate traditional_chinese episode006_10c1c912:
 
-    # c "There’s a lot of that going on around here..."
-    c ""
 
-# game/episode006.rpy:1566
+    c "這種事在這兒發生了很多..."
+
+
 translate traditional_chinese episode006_81267b66:
 
-    # c "Let’s go find the others."
-    c ""
 
-# game/episode006.rpy:1568
+    c "我們去找其他人吧。"
+
+
 translate traditional_chinese episode006_7d6b6015:
 
-    # "Aven joined us and we ran back to the cell where the others waited."
-    ""
 
-# game/episode006.rpy:1570
+    "艾文加入了我們，一起跑回其他人等待的牢房。"
+
+
 translate traditional_chinese episode006_02cb2752:
 
-    # c "Our next stop is a storage bay where the rest of our crew is being held."
-    c ""
 
-# game/episode006.rpy:1571
+    c "下一站是儲存倉，我們其餘的機組成員正關押在那裡。"
+
+
 translate traditional_chinese episode006_074e20fe:
 
-    # c "Just follow us."
-    c ""
 
-# game/episode006.rpy:1573
+    c "跟着我們就行。"
+
+
 translate traditional_chinese episode006_5911ec47:
 
-    # "The storage units were not far from our location."
-    ""
 
-# game/episode006.rpy:1574
+    "倉儲單元離我們不遠。"
+
+
 translate traditional_chinese episode006_d121ba32:
 
-    # "Thankfully the keycard worked on the entrance door as well."
-    ""
 
-# game/episode006.rpy:1576
+    "幸虧鑰匙卡在入口大門也管用。"
+
+
 translate traditional_chinese episode006_c482057a:
 
-    # "Storage bay G-N135 wasn’t that large and held five suspension pods, one of them empty."
-    ""
 
-# game/episode006.rpy:1577
+    "G-N135號儲存倉不算大，擺放着五個休眠艙，其中一個空着。"
+
+
 translate traditional_chinese episode006_fb571ab6:
 
-    # "We hit the release button on the four occupied pods and they cycled through their revivification cycles quickly."
-    ""
 
-# game/episode006.rpy:1579
+    "按下四個被佔休眠艙的釋放鈕，它們快速完成了甦醒過程。"
+
+
 translate traditional_chinese episode006_b6c08b72:
 
-    # "A woman with purple skin was the first to come staggering out of the pod."
-    ""
 
-# game/episode006.rpy:1580
+    "最先踉蹌爬出艙的是個紫色皮膚的女人。"
+
+
 translate traditional_chinese episode006_0fe204b1:
 
-    # zi "Am I glad to see you all."
-    zi ""
 
-# game/episode006.rpy:1581
+    zi "見到你們可真叫我開心。"
+
+
 translate traditional_chinese episode006_bab220f1:
 
-    # l "You know who we are?"
-    l ""
 
-# game/episode006.rpy:1582
+    l "你知道我們是誰嗎？"
+
+
 translate traditional_chinese episode006_169d1556:
 
-    # zi "Errr....{w} You don’t?"
-    zi ""
 
-# game/episode006.rpy:1583
+    zi "呃....{w} 你不知道嗎？"
+
+
 translate traditional_chinese episode006_a54b5720:
 
-    # c "We’ve been given drugs that repress our memories."
-    c ""
 
-# game/episode006.rpy:1584
+    c "我們被打了壓抑記憶的藥。"
+
+
 translate traditional_chinese episode006_70e3cb07:
 
-    # zi "Right, that must be confusing."
-    zi ""
 
-# game/episode006.rpy:1585
+    zi "好吧，那一定很混亂。"
+
+
 translate traditional_chinese episode006_01aeb64b:
 
-    # zi "Until you can remember me, I’m Ziv, one of your crew mates."
-    zi ""
 
-# game/episode006.rpy:1586
+    zi "在你記起我之前，我是基芙，你的機組成員之一。"
+
+
 translate traditional_chinese episode006_4c62cc06:
 
-    # zi "Those other pods likely hold Raene, Thyia and Thim."
-    zi ""
 
-# game/episode006.rpy:1588
+    zi "那些其他休眠艙裏很可能裝着蕾妮、塞婭和蒂姆。"
+
+
 translate traditional_chinese episode006_abcd9a96:
 
-    # "Ziv was interrupted by a black woman vomiting bile on the floor as she crawled from her storage pod."
-    ""
 
-# game/episode006.rpy:1590
+    "基芙被一個黑人女子打斷，她正從她的儲藏艙爬出，同時在地板上嘔吐膽汁。"
+
+
 translate traditional_chinese episode006_fb3f4f56:
 
-    # th "I fucking hate induced cryo sleep."
-    th ""
 
-# game/episode006.rpy:1591
+    th "我他媽恨誘導式冷凍睡眠。"
+
+
 translate traditional_chinese episode006_06cb59a8:
 
-    # th "Oh...{w} Hi all."
-    th ""
 
-# game/episode006.rpy:1592
+    th "哦...{w} 大家好。"
+
+
 translate traditional_chinese episode006_ebc7a156:
 
-    # zi "Are you alright, Thyia?"
-    zi ""
 
-# game/episode006.rpy:1593
+    zi "你沒事吧，塞婭？"
+
+
 translate traditional_chinese episode006_5dbdda39:
 
-    # th "I feel fine, other than the nausea."
-    th ""
 
-# game/episode006.rpy:1594
+    th "除了噁心，我感覺還好。"
+
+
 translate traditional_chinese episode006_95c88f1e:
 
-    # th "Why are you staring at me all glassy-eyed?"
-    th ""
 
-# game/episode006.rpy:1595
+    th "你爲什麼都眼睛發直地盯着我看？"
+
+
 translate traditional_chinese episode006_79115353:
 
-    # zi "Most of the crew have lost their memory."
-    zi ""
 
-# game/episode006.rpy:1596
+    zi "多數機組成員都失去了記憶。"
+
+
 translate traditional_chinese episode006_9613b925:
 
-    # th "Fuck.{w} Temporarily I hope?"
-    th ""
 
-# game/episode006.rpy:1597
+    th "操。{w} 希望是暫時的？"
+
+
 translate traditional_chinese episode006_c5d523cb:
 
-    # zi "It seems so."
-    zi ""
 
-# game/episode006.rpy:1599
+    zi "似乎是這樣的。"
+
+
 translate traditional_chinese episode006_80c3d9f9:
 
-    # "The two remaining persons woke up and started heaving while steadying themselves against one of the sides of the pod."
-    ""
 
-# game/episode006.rpy:1600
+    "那剩下的兩人醒來了，開始嘔吐，同時靠着艙的側邊支撐自己。"
+
+
 translate traditional_chinese episode006_cce936dc:
 
-    # t "Wh-where the fuck am I?"
-    t ""
 
-# game/episode006.rpy:1601
+    t "我他媽在哪？"
+
+
 translate traditional_chinese episode006_1dfc86f5:
 
-    # c "We’re on a research station."
-    c ""
 
-# game/episode006.rpy:1602
+    c "我們在一個研究站上。"
+
+
 translate traditional_chinese episode006_5477877f:
 
-    # c "You four were kept on ice, while we were used as lab animals."
-    c ""
 
-# game/episode006.rpy:1604
+    c "你們四個被冷凍保存，而我們被當作實驗動物使用。"
+
+
 translate traditional_chinese episode006_0d8852c7:
 
-    # ra "Lab animals?"
-    ra ""
 
-# game/episode006.rpy:1605
+    ra "實驗動物？"
+
+
 translate traditional_chinese episode006_4dffd701:
 
-    # ra "What did they do to you?"
-    ra ""
 
-# game/episode006.rpy:1607
+    ra "他們對你做了什麼？"
+
+
 translate traditional_chinese episode006_592e5391:
 
-    # av "They put us through various simulations."
-    av ""
 
-# game/episode006.rpy:1608
+    av "他們讓我們經歷各種模擬。"
+
+
 translate traditional_chinese episode006_b0e80dca:
 
-    # av "Probably to measure our responses to them."
-    av ""
 
-# game/episode006.rpy:1610
+    av "可能是爲了測量我們的反應。"
+
+
 translate traditional_chinese episode006_501aff60:
 
-    # th "They just plucked us out of space and did clandestine experiments on us?"
-    th ""
 
-# game/episode006.rpy:1611
+    th "他們就這樣把我們從太空擄走，並對我們進行祕密實驗？"
+
+
 translate traditional_chinese episode006_c65a59dc:
 
-    # c "Well, we don’t have time to appreciate what assholes these people are."
-    c ""
 
-# game/episode006.rpy:1612
+    c "唉，我們沒時間討論這幫人渣有多混蛋。"
+
+
 translate traditional_chinese episode006_9e664bcc:
 
-    # c "Our ship is on one of the higher levels of this facility."
-    c ""
 
-# game/episode006.rpy:1613
+    c "我們的飛船在這個設施較高的一層。"
+
+
 translate traditional_chinese episode006_5db6ef28:
 
-    # c "As we appear to have our crew all together, I think it’s time to get the hell out of here."
-    c ""
 
-# game/episode006.rpy:1615
+    c "既然我們所有成員都在了，我覺得是時候趕緊離開這裡了。"
+
+
 translate traditional_chinese episode006_6f284d30:
 
-    # "The order to stand down the doctor gave earlier must have worked, because we didn’t encounter any guards on alert as we ran back towards the locker room."
-    ""
 
-# game/episode006.rpy:1620
+    "醫生早前下達撤銷警戒的命令一定起了作用，因爲我們跑回更衣室時沒遇到任何警戒的警衛。"
+
+
 translate traditional_chinese episode006_de36ac6a:
 
-    # "Thim and Ziv found two suits of armor that fit them."
-    ""
 
-# game/episode006.rpy:1622
+    "蒂姆和基芙找到了兩件適合他們的盔甲。"
+
+
 translate traditional_chinese episode006_5b066d7e:
 
-    # "The others were all trying on lab coats when I noticed Raene was missing."
-    ""
 
-# game/episode006.rpy:1624
+    "其他人在試穿實驗服時，我注意到蕾妮不見了。"
+
+
 translate traditional_chinese episode006_666dce73:
 
-    # "While the others busied themselves, I walked into the showers and found Raene there looking distraught."
-    ""
 
-# game/episode006.rpy:1629
+    "其他人忙着的時候，我走進淋浴間，發現蕾妮在那裡一臉焦慮。"
+
+
 translate traditional_chinese episode006_3502305f:
 
-    # c "What's the matter?"
-    c ""
 
-# game/episode006.rpy:1630
+    c "怎麼了？"
+
+
 translate traditional_chinese episode006_e1704afb:
 
-    # ra "Nothing, I'll be fine in a moment."
-    ra ""
 
-# game/episode006.rpy:1631
+    ra "沒事，我過一會兒就好了。"
+
+
 translate traditional_chinese episode006_b7811993:
 
-    # c "You can tell me."
-    c ""
 
-# game/episode006.rpy:1634
+    c "你可以告訴我。"
+
+
 translate traditional_chinese episode006_43a47050:
 
-    # ra "It's silly, really."
-    ra ""
 
-# game/episode006.rpy:1635
+    ra "真的很傻。"
+
+
 translate traditional_chinese episode006_907f922b:
 
-    # c "Try me."
-    c ""
 
-# game/episode006.rpy:1636
+    c "儘管說吧。"
+
+
 translate traditional_chinese episode006_a42db1a3:
 
-    # ra "I...{w} Just look at me, [p_name_short]!"
-    ra ""
 
-# game/episode006.rpy:1637
+    ra "我...{w} 看看我，[p_name_short]！"
+
+
 translate traditional_chinese episode006_947b5b65:
 
-    # "That's when I noticed she was wearing the same clothes as I was."
-    ""
 
-# game/episode006.rpy:1642
+    "那時我注意到她穿的和我的衣服一樣。"
+
+
 translate traditional_chinese episode006_dc066b23:
 
-    # c "So they assumed you were a boy?"
-    c ""
 
-# game/episode006.rpy:1643
+    c "所以他們以爲你是個男孩？"
+
+
 translate traditional_chinese episode006_1486adf3:
 
-    # c "In case you haven't noticed, we're trying to get out of here..."
-    c ""
 
-# game/episode006.rpy:1644
+    c "以防你沒注意到，我們現在正想辦法從這裡出去..."
+
+
 translate traditional_chinese episode006_36df3daf:
 
-    # c "So stop making a fuss and get a grip."
-    c ""
 
-# game/episode006.rpy:1646
+    c "所以別大驚小怪，控制住自己。"
+
+
 translate traditional_chinese episode006_50b1f720:
 
-    # ra "I know."
-    ra ""
 
-# game/episode006.rpy:1647
+    ra "我知道。"
+
+
 translate traditional_chinese episode006_79f219c1:
 
-    # ra "I said it was silly."
-    ra ""
 
-# game/episode006.rpy:1648
+    ra "我說了這很傻。"
+
+
 translate traditional_chinese episode006_85b17f7b:
 
-    # ra "I'll be fine in a moment."
-    ra ""
 
-# game/episode006.rpy:1649
+    ra "我過一會兒就好了。"
+
+
 translate traditional_chinese episode006_829993f4:
 
-    # ra "It won't happen again."
-    ra ""
 
-# game/episode006.rpy:1650
+    ra "不會再發生了。"
+
+
 translate traditional_chinese episode006_d9865c81:
 
-    # c "Good, I'll see you in a minute."
-    c ""
 
-# game/episode006.rpy:1652
+    c "好，過一會兒我再見你。"
+
+
 translate traditional_chinese episode006_1170d454:
 
-    # c "Oh...{w} fuck...{w} they assumed you were..."
-    c ""
 
-# game/episode006.rpy:1654
+    c "哦...{w} 操...{w} 他們以爲你是..."
+
+
 translate traditional_chinese episode006_ddcbea9f:
 
-    # ra "Yes, they did."
-    ra ""
 
-# game/episode006.rpy:1655
+    ra "是的，他們確實這麼認爲。"
+
+
 translate traditional_chinese episode006_2fdaef54:
 
-    # ra "And I hate that it affects me so much, especially considering our circumstances."
-    ra ""
 
-# game/episode006.rpy:1656
+    ra "我恨這影響我這麼深，尤其是在我們這種情況下。"
+
+
 translate traditional_chinese episode006_40df868c:
 
-    # ra "But it was just too much all at once."
-    ra ""
 
-# game/episode006.rpy:1657
+    ra "但這一切來得太突然了。"
+
+
 translate traditional_chinese episode006_5ba0dc4e:
 
-    # ra "As I said, I'll be fine in a moment."
-    ra ""
 
-# game/episode006.rpy:1658
+    ra "如我所說，我一會兒就好。"
+
+
 translate traditional_chinese episode006_780502a8:
 
-    # c "Right, take whatever time you need."
-    c ""
 
-# game/episode006.rpy:1659
+    c "好的，你需要多少時間就花多少。"
+
+
 translate traditional_chinese episode006_9c7095f8:
 
-    # c "But promise me we'll talk further once we're safe?"
-    c ""
 
-# game/episode006.rpy:1661
+    c "但答應我，一旦我們安全了，我們再好好談談？"
+
+
 translate traditional_chinese episode006_0c584d5e:
 
-    # ra "I promise."
-    ra ""
 
-# game/episode006.rpy:1662
+    ra "我答應你。"
+
+
 translate traditional_chinese episode006_5732231b:
 
-    # ra "Thank you, [p_name_short]."
-    ra ""
 
-# game/episode006.rpy:1663
+    ra "謝謝你，[p_name_short]。"
+
+
 translate traditional_chinese episode006_5101fbef:
 
-    # c "Don't worry about it."
-    c ""
 
-# game/episode006.rpy:1666
+    c "別擔心。"
+
+
 translate traditional_chinese episode006_baaa5545:
 
-    # ra "Just leave me here for a minute, I'll be fine."
-    ra ""
 
-# game/episode006.rpy:1667
+    ra "就讓我在這兒待一會兒，我會沒事的。"
+
+
 translate traditional_chinese episode006_3588663a:
 
-    # c "Suit yourself."
-    c ""
 
-# game/episode006.rpy:1670
+    c "隨你便。"
+
+
 translate traditional_chinese episode006_f706961f:
 
-    # "I didn't want to disturb her private moment and left to join the others before she noticed me."
-    ""
 
-# game/episode006.rpy:1673
+    "我不想打擾她的私人時刻，所以在她注意到我之前離開去找其他人了。"
+
+
 translate traditional_chinese episode006_db81638a:
 
-    # "Raene joined us and picked a suit of armor and soon we had a battalion of doctors and a couple of guards."
-    ""
 
-# game/episode006.rpy:1674
+    "蕾妮加入了我們，挑了一件盔甲，很快我們就有了一大幫醫生和幾個警衛。"
+
+
 translate traditional_chinese episode006_e6e528b8:
 
-    # c "I think we’re ready to board that elevator."
-    c ""
 
-# game/episode006.rpy:1676
+    c "我覺得我們準備好上那個電梯了。"
+
+
 translate traditional_chinese episode006_0d7633d3:
 
-    # "Luckily the elevator wasn’t guarded and was large enough to carry us all."
-    ""
 
-# game/episode006.rpy:1677
+    "幸好電梯沒人看守，而且夠大，能裝下我們所有人。"
+
+
 translate traditional_chinese episode006_cdde3bea:
 
-    # "A helpful schematic told us which floor we needed to punch in."
-    ""
 
-# game/episode006.rpy:1678
+    "一個有用的示意圖告訴我們需要輸入哪個樓層。"
+
+
 translate traditional_chinese episode006_c4386b1f:
 
-    # "The facility turned out to be very large and we were on one of the lower floors."
-    ""
 
-# game/episode006.rpy:1680
+    "這個設施原來非常大，而我們在其中一層低層。"
+
+
 translate traditional_chinese episode006_b1ce3e40:
 
-    # "We were almost overwhelmed by vertigo, because the elevator moved very fast towards its destination."
-    ""
 
-# game/episode006.rpy:1682
+    "我們差點被眩暈感淹沒，因爲電梯往目的地移動得很快。"
+
+
 translate traditional_chinese episode006_705d6e1c:
 
-    # "Just before the doors slid open, a memory from my youth welled up all of a sudden."
-    ""
 
-# game/episode006.rpy:1683
+    "就在門滑開之前，我童年的記憶突然湧上心頭。"
+
+
 translate traditional_chinese episode006_a5c15a1d:
 
-    # "And then it began crashing in all at once."
-    ""
 
-# game/episode006.rpy:1685
+    "然後一切突然開始湧入。"
+
+
 translate traditional_chinese episode006_15be2895:
 
-    # "The events on Lanan, deserting, life at the Academy, life on Tuolovi, stealing the larvae on Sagueliath."
-    ""
 
-# game/episode006.rpy:1686
+    "發生在拉南星的事件、叛逃、在學院的生活、在託洛維星的生活、在森厄星偷幼獸的事。"
+
+
 translate traditional_chinese episode006_7a15edd4:
 
-    # "The flood of memories was an assault on all the senses and I retched."
-    ""
 
-# game/episode006.rpy:1688
+    "記憶的洪流衝擊着我的所有感官，我乾嘔起來。"
+
+
 translate traditional_chinese episode006_f362db7e:
 
-    # "Bleary-eyed I looked up and saw Lilly bent over in much the same state as I was."
-    ""
 
-# game/episode006.rpy:1692
+    "我淚眼朦朧地抬頭看，看見莉莉也像我一樣彎着腰。"
+
+
 translate traditional_chinese episode006_80797549:
 
-    # "Then the realization hit me, the girl I’d loved for the past few days was my own sister."
-    ""
 
-# game/episode006.rpy:1694
+    "然後我猛然意識到，過去幾天我愛上的那個女孩是我的親妹妹。"
+
+
 translate traditional_chinese episode006_d191f728:
 
-    # "Then the realization hit me, the girl I’d loved for the past few days was my childhood friend."
-    ""
 
-# game/episode006.rpy:1695
+    "然後我猛然意識到，過去幾天我愛上的那個女孩是我童年的朋友。"
+
+
 translate traditional_chinese episode006_fdcd6565:
 
-    # "She wouldn’t meet my eyes, but I’d gathered she went through much the same horrifying process as I was."
-    ""
 
-# game/episode006.rpy:1697
+    "她躲閃着我的目光，但我能猜到她經歷了跟我同樣可怕的遭遇。"
+
+
 translate traditional_chinese episode006_a867fe82:
 
-    # "How wrong we’d been about each other, mistaking our sibling bond for true love."
-    ""
 
-# game/episode006.rpy:1699
+    "我們錯得多麼離譜啊，竟把兄妹之情錯認成了真愛。"
+
+
 translate traditional_chinese episode006_5af9ccd5:
 
-    # "How wrong we’d been about each other, mistaking our bond of friendship for true love."
-    ""
 
-# game/episode006.rpy:1703
+    "我們錯得多麼離譜啊，竟把青梅竹馬之情錯認成了真愛。"
+
+
 translate traditional_chinese episode006_06b15e8f:
 
-    # "Then the realization hit me, how wrong we’d been about each other, being brother and sister instead of just friends."
-    ""
 
-# game/episode006.rpy:1705
+    "這時我才猛然醒悟，我們錯得多麼離譜——我們不是朋友，而是親兄妹。"
+
+
 translate traditional_chinese episode006_d74133d3:
 
-    # "Then the realization hit me, how right we’d been about each other, being brother and sister."
-    ""
 
-# game/episode006.rpy:1708
+    "這時我才猛然醒悟，我們的直覺完全正確——我們就是親兄妹。"
+
+
 translate traditional_chinese episode006_1fcf77e5:
 
-    # "Then the realization hit me, how wrong we’d been about each other, being friends instead of brother and sister."
-    ""
 
-# game/episode006.rpy:1710
+    "這時我才猛然醒悟，我們錯得多麼離譜——我們明明是朋友，卻誤以爲是兄妹。"
+
+
 translate traditional_chinese episode006_057c8209:
 
-    # "Then the realization hit me, how right we’d been about each other, being childhood friends."
-    ""
 
-# game/episode006.rpy:1713
+    "這時我才猛然醒悟，我們的直覺完全正確——我們就是青梅竹馬。"
+
+
 translate traditional_chinese episode006_8d455db8:
 
-    # "Aven had to steady herself against the wall and looked at me intently through tear-filled eyes."
-    ""
 
-# game/episode006.rpy:1714
+    "艾文扶着牆穩住身子，盈滿淚水的雙眼直直望向我。"
+
+
 translate traditional_chinese episode006_9cdd9c6c:
 
-    # "Was she ashamed of herself, of the feelings she confessed to me when we were just strangers in a cell together?"
-    ""
 
-# game/episode006.rpy:1715
+    "她是在爲自己羞愧嗎？羞愧當初關在牢房裡萍水相逢時，對我袒露的那些情愫？"
+
+
 translate traditional_chinese episode006_3a289b85:
 
-    # "The sound of a station broadcast disturbed my thoughts and put me back in the here and now."
-    ""
 
-# game/episode006.rpy:1716
+    "空間站的廣播聲打斷思緒，將我拽回此時此地。"
+
+
 translate traditional_chinese episode006_8c19a991:
 
-    # "When I felt my legs could carry me again I motioned the others to follow me."
-    ""
 
-# game/episode006.rpy:1718
+    "感覺雙腿恢復氣力後，我示意其他人跟上。"
+
+
 translate traditional_chinese episode006_3cdba977:
 
-    # "We walked unsteadily through a long corridor to find a large plaza."
-    ""
 
-# game/episode006.rpy:1719
+    "我們踉蹌着穿過長長的走廊，眼前豁然出現寬闊的廣場。"
+
+
 translate traditional_chinese episode006_616056ee:
 
-    # "That’s when another realization hit me square in the face."
-    ""
 
-# game/episode006.rpy:1720
+    "就在此刻，另一個真相狠狠扇了我一記耳光。"
+
+
 translate traditional_chinese episode006_3ac3e988:
 
-    # "A huge wall dominated the plaza, covered in huge lettering announcing the name of company in charge of this research station."
-    ""
 
-# game/episode006.rpy:1722
+    "廣場中央赫然矗立着巨牆，牆上大字標着負責研究基地的公司名稱。"
+
+
 translate traditional_chinese episode006_7efc1202:
 
-    # "The doctor had already mentioned the name ConVitæ before, but I was too drugged to make any kind of mental connection."
-    ""
 
-# game/episode006.rpy:1723
+    "醫生早前提過\"康維泰\"這名字，但當時藥物讓我渾渾噩噩，根本沒法思考關聯。"
+
+
 translate traditional_chinese episode006_87e0065a:
 
-    # "With the haze of the drugs cleared, I remembered the name ConVitæ well enough."
-    ""
 
-# game/episode006.rpy:1725
+    "藥效退去後，\"康維泰\"這個名字在我腦中逐漸清晰起來。"
+
+
 translate traditional_chinese episode006_f154266b:
 
-    # "I very much regretted signing that ConVitæ paperwork back on Verdant Station."
-    ""
 
-# game/episode006.rpy:1726
+    "我腸子都悔青了，當初就不該在\"翠綠\"空間站籤\"康維泰\"那份破文件。"
+
+
 translate traditional_chinese episode006_271bbdbc:
 
-    # "In retrospect, everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
 
-# game/episode006.rpy:1728
+    "現在想來，那些破事全都透着股『邪惡企業』的味兒，他們倒真沒辱沒這名號。"
+
+
 translate traditional_chinese episode006_67a4ee4c:
 
-    # "I was glad I didn’t sign any of the paperwork on Verdant Station."
-    ""
 
-# game/episode006.rpy:1729
+    "謝天謝地，當初在\"翠綠\"空間站沒籤任何文件。"
+
+
 translate traditional_chinese episode006_49d96e8c:
 
-    # "I had a feeling those fuckers weren’t to be trusted."
-    ""
 
-# game/episode006.rpy:1730
+    "我早覺着那羣王八蛋信不過。"
+
+
 translate traditional_chinese episode006_99887822:
 
-    # "Everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
 
-# game/episode006.rpy:1732
+    "那些破事全都透着股『邪惡企業』的味兒，他們倒真沒辱沒這名號。"
+
+
 translate traditional_chinese episode006_e7323c32:
 
-    # "I already knew back on Verdant Station that those fuckers weren’t to be trusted."
-    ""
 
-# game/episode006.rpy:1733
+    "我在\"翠綠\"空間站時就知道這幫該死的傢伙不能相信。"
+
+
 translate traditional_chinese episode006_99887822_1:
 
-    # "Everything just screamed ‘evil corporation’ and they’d sure honored that reputation."
-    ""
 
-# game/episode006.rpy:1734
+    "那些破事全都透着股『邪惡企業』的味兒，他們倒真沒辱沒這名號。"
+
+
 translate traditional_chinese episode006_43b36aae:
 
-    # "This was probably one of the facilities where they tested out new simulated experiences and did fuck knows what else."
-    ""
 
-# game/episode006.rpy:1768
+    "這鬼地方八成是他們測試新模擬體驗的設施，還他媽不知道搞些什麼勾當。"
+
+
 translate traditional_chinese episode006_4412b89a:
 
-    # c "We must keep moving."
-    c ""
 
-# game/episode006.rpy:1769
+    c "我們得繼續前進。"
+
+
 translate traditional_chinese episode006_8af9e72e:
 
-    # c "There's another elevator on this floor that will take us to the docks."
-    c ""
 
-# game/episode006.rpy:1770
+    c "這層還有部電梯能直達船塢。"
+
+
 translate traditional_chinese episode006_fe29fe49:
 
-    # c "We might encounter more people on this level, so try to act natural."
-    c ""
 
-# game/episode006.rpy:1772
+    c "這層可能撞見更多人，都給我裝自然點。"
+
+
 translate traditional_chinese episode006_28d3b9ab:
 
-    # "We entered the plaza and tried to blend in."
-    ""
 
-# game/episode006.rpy:1773
+    "我們溜進廣場想混入人羣。"
+
+
 translate traditional_chinese episode006_b570ae1d:
 
-    # "Jade, Céline and Nadya feigned an animated conversation about some made-up scientific topic, while the others looked determined and cut a confident path across the square."
-    ""
 
-# game/episode006.rpy:1775
+    "傑德、瑟琳和娜迪亞假裝熱火朝天討論僞科學話題，其他人則橫穿廣場擺出殺氣騰騰的架勢。"
+
+
 translate traditional_chinese episode006_427fa76b:
 
-    # "Nobody paid any attention to us as we neared the elevator."
-    ""
 
-# game/episode006.rpy:1776
+    "快蹭到電梯口時根本沒人注意我們。"
+
+
 translate traditional_chinese episode006_cb1db3ce:
 
-    # "At least, that's what we thought."
-    ""
 
-# game/episode006.rpy:1780
+    "至少我們當時是這麼想的。"
+
+
 translate traditional_chinese episode006_3a32af89:
 
-    # man "You there."
-    man ""
 
-# game/episode006.rpy:1781
+    man "那邊那個。"
+
+
 translate traditional_chinese episode006_8304187f:
 
-    # man "We need you on Sublevel 11-XXXVIII."
-    man ""
 
-# game/episode006.rpy:1786
+    man "立刻去地下11-XXXVIII層報到。"
+
+
 translate traditional_chinese episode006_cad617fb:
 
-    # c "We have orders to escort these scientists to the docks, on the double."
-    c ""
 
-# game/episode006.rpy:1788
+    c "我們奉命護送這批科學家去船塢，十萬火急。"
+
+
 translate traditional_chinese episode006_c4a36093:
 
-    # man "The docks?"
-    man ""
 
-# game/episode006.rpy:1789
+    man "船塢？"
+
+
 translate traditional_chinese episode006_0849740e:
 
-    # man "Why would they need to go there?"
-    man ""
 
-# game/episode006.rpy:1790
+    man "他們跑那兒幹嘛？"
+
+
 translate traditional_chinese episode006_36477d49:
 
-    # c "They're assigned to some special project, I think."
-    c ""
 
-# game/episode006.rpy:1791
+    c "據說是參與什麼特殊項目。"
+
+
 translate traditional_chinese episode006_b824c28b:
 
-    # man "First I've heard about it."
-    man ""
 
-# game/episode006.rpy:1792
+    man "我第一次聽說這個。"
+
+
 translate traditional_chinese episode006_e0db08fb:
 
-    # man "What kind of project?"
-    man ""
 
-# game/episode006.rpy:1793
+    man "哪類項目？"
+
+
 translate traditional_chinese episode006_f2c0c113:
 
-    # c "Beats me, they never tell you anything do they?"
-    c ""
 
-# game/episode006.rpy:1795
+    c "問我有屁用，那幫貨色什麼時候透過底？"
+
+
 translate traditional_chinese episode006_4ddd702b:
 
-    # man "Right, bunch of stuck-up cunts."
-    man ""
 
-# game/episode006.rpy:1796
+    man "可不，全他媽是羣裝腔作勢的狗屁東西。"
+
+
 translate traditional_chinese episode006_f9c698b6:
 
-    # c "Exactly."
-    c ""
 
-# game/episode006.rpy:1797
+    c "完全正確。"
+
+
 translate traditional_chinese episode006_92f45d3b:
 
-    # man "On your way then."
-    man ""
 
-# game/episode006.rpy:1799
+    man "那趕緊帶路吧。"
+
+
 translate traditional_chinese episode006_2eb1b545:
 
-    # c "I'm tasked with escorting these scientists to the docking bay."
-    c ""
 
-# game/episode006.rpy:1800
+    c "我的任務是押送這批科學家去泊船區。"
+
+
 translate traditional_chinese episode006_f8bbe063:
 
-    # man "And I'm ordering you to come with me."
-    man ""
 
-# game/episode006.rpy:1801
+    man "而且我現在命令你跟我走。"
+
+
 translate traditional_chinese episode006_e69e42b8:
 
-    # c "No."
-    c ""
 
-# game/episode006.rpy:1802
+    c "不。"
+
+
 translate traditional_chinese episode006_a9ddb992:
 
-    # man "Who's your superior?"
-    man ""
 
-# game/episode006.rpy:1803
+    man "你上級是誰？"
+
+
 translate traditional_chinese episode006_06b47e62:
 
-    # c "None of your fucking business."
-    c ""
 
-# game/episode006.rpy:1805
+    c "關你屁事。"
+
+
 translate traditional_chinese episode006_d3d83811:
 
-    # man "I ought to report you!"
-    man ""
 
-# game/episode006.rpy:1806
+    man "我該舉報你！"
+
+
 translate traditional_chinese episode006_6aa2ddc5:
 
-    # c "You really don't."
-    c ""
 
-# game/episode006.rpy:1807
+    c "你最好別。"
+
+
 translate traditional_chinese episode006_b6fffb31:
 
-    # c "Now fuck off and let me do my job."
-    c ""
 
-# game/episode006.rpy:1808
+    c "現在滾開，讓我幹我的事情。"
+
+
 translate traditional_chinese episode006_232ab2ea:
 
-    # "The guard stared long and hard at me, but turned on his heel eventually."
-    ""
 
-# game/episode006.rpy:1810
+    "守衛狠狠瞪了我很久，但最終還是轉身離開。"
+
+
 translate traditional_chinese episode006_14ed197c:
 
-    # av "Fuck, I really thought he was going to punch you in the face or something."
-    av ""
 
-# game/episode006.rpy:1811
+    av "靠，我真以爲他要往你臉上來一拳之類的。"
+
+
 translate traditional_chinese episode006_ce675839:
 
-    # c "That would have been rude..."
-    c ""
 
-# game/episode006.rpy:1814
+    c "那就太失禮了..."
+
+
 translate traditional_chinese episode006_569a3708:
 
-    # c "Let's go inside that elevator before more of his friends start to get ideas and order us around."
-    c ""
 
-# game/episode006.rpy:1815
+    c "趁他更多同夥冒出使喚我們的念頭前，快進電梯。"
+
+
 translate traditional_chinese episode006_2f5e8679:
 
-    # "We entered the large elevator and the doors started to close agonizingly slow."
-    ""
 
-# game/episode006.rpy:1817
+    "我們走進巨型電梯，門以令人抓狂的慢速開始閉合。"
+
+
 translate traditional_chinese episode006_76917802:
 
-    # "The elevator ride itself was very fast and we were greeted by the smell of engine fuel, oil and metal as soon as the doors opened."
-    ""
 
-# game/episode006.rpy:1818
+    "電梯運行倒很快，門剛開就聞到引擎燃料、機油和金屬的味道。"
+
+
 translate traditional_chinese episode006_30f1af24:
 
-    # "The Bastard was docked here together with several other ships."
-    ""
 
-# game/episode006.rpy:1820
+    "\"私生子\"號和幾艘其他艦船停泊在此。"
+
+
 translate traditional_chinese episode006_1b7b8ac2:
 
-    # "Our vessel didn't look that much worse for wear, at least not more than it usually did."
-    ""
 
-# game/episode006.rpy:1821
+    "我們的船看起來也沒多破舊，至少不比平時更糟。"
+
+
 translate traditional_chinese episode006_f3c5a2a4:
 
-    # c "We need that identification code, it's on a computer here somewhere."
-    c ""
 
-# game/episode006.rpy:1823
+    c "需要身份識別碼，就在這兒某臺電腦裏。"
+
+
 translate traditional_chinese episode006_76e9fee0:
 
-    # j "I guess I might be able to help with that."
-    j ""
 
-# game/episode006.rpy:1824
+    j "這事我大概能幫上忙。"
+
+
 translate traditional_chinese episode006_87c27547:
 
-    # j "Unless there are a lot of guards..."
-    j ""
 
-# game/episode006.rpy:1826
+    j "除非守衛很多..."
+
+
 translate traditional_chinese episode006_3c6d92b0:
 
-    # av "We'll handle those."
-    av ""
 
-# game/episode006.rpy:1827
+    av "我們來解決。"
+
+
 translate traditional_chinese episode006_f5f7c27d:
 
-    # c "Right."
-    c ""
 
-# game/episode006.rpy:1828
+    c "明白。"
+
+
 translate traditional_chinese episode006_fa09410f:
 
-    # c "Jade, Aven and me will try and find that docking computer."
-    c ""
 
-# game/episode006.rpy:1829
+    c "傑德、艾文和我去找對接計算機。"
+
+
 translate traditional_chinese episode006_3903b797:
 
-    # c "Everyone else, take up position near the Bastard and try to gain access."
-    c ""
 
-# game/episode006.rpy:1831
+    c "其他人到\"私生子\"號附近就位，想辦法進入。"
+
+
 translate traditional_chinese episode006_8e27dd67:
 
-    # "A central command post looked out over all the docking bays and that would be our best bet to gain access to the computer system."
-    ""
 
-# game/episode006.rpy:1832
+    "中央指揮站俯瞰所有泊位，那是接入系統的最佳突破口。"
+
+
 translate traditional_chinese episode006_1f579bc6:
 
-    # "Trying to look confident we marched towards the entrance door and barged in."
-    ""
 
-# game/episode006.rpy:1834
+    "我們佯裝鎮定走向入口，猛然闖了進去。"
+
+
 translate traditional_chinese episode006_e4f2b911:
 
-    # "I was ready to bark orders to the any surprised guards, but there weren't any, the control post was completely empty."
-    ""
 
-# game/episode006.rpy:1836
+    "我準備好向那些驚訝的警衛吼出命令了，但一個人都沒有，控制站完全空蕩蕩的。"
+
+
 translate traditional_chinese episode006_36ab23c0:
 
-    # av "Shouldn't someone be monitoring stuff?"
-    av ""
 
-# game/episode006.rpy:1837
+    av "不應該有人在這值班嗎？"
+
+
 translate traditional_chinese episode006_0fb2215c:
 
-    # c "Maybe they're on a lunch break?"
-    c ""
 
-# game/episode006.rpy:1838
+    c "也許他們在喫午飯休息？"
+
+
 translate traditional_chinese episode006_8fa99572:
 
-    # av "Yeah...{w} I don't like this."
-    av ""
 
-# game/episode006.rpy:1839
+    av "是啊...{w} 我不喜歡這感覺。"
+
+
 translate traditional_chinese episode006_ab21e5d1:
 
-    # "We pulled our guns and cased the area."
-    ""
 
-# game/episode006.rpy:1841
+    "我們掏出了槍，搜查了這個區域。"
+
+
 translate traditional_chinese episode006_6ddfa9cc:
 
-    # j "There's a computer console over there."
-    j ""
 
-# game/episode006.rpy:1842
+    j "那邊有個電腦控制臺。"
+
+
 translate traditional_chinese episode006_c7418ef7:
 
-    # c "You might as well take advantage of the situation and start working."
-    c ""
 
-# game/episode006.rpy:1843
+    c "你不如趁這機會開始幹活兒。"
+
+
 translate traditional_chinese episode006_72cfe61b:
 
-    # j "Right away."
-    j ""
 
-# game/episode006.rpy:1845
+    j "馬上就好。"
+
+
 translate traditional_chinese episode006_8dbef54d:
 
-    # av "Why isn't anyone here?"
-    av ""
 
-# game/episode006.rpy:1846
+    av "怎麼沒人在這兒？"
+
+
 translate traditional_chinese episode006_a0068289:
 
-    # "Right at that moment I heard a distinct yelp coming from a backroom."
-    ""
 
-# game/episode006.rpy:1847
+    "就在那一刻，我聽到從後臺傳來一聲清晰的叫聲。"
+
+
 translate traditional_chinese episode006_224dcd90:
 
-    # c "Over here!"
-    c ""
 
-# game/episode006.rpy:1849
+    c "這邊！"
+
+
 translate traditional_chinese episode006_a655d576:
 
-    # "We carefully approached the door leading to a maintenance room."
-    ""
 
-# game/episode006.rpy:1850
+    "我們小心地走近通向維修室的門。"
+
+
 translate traditional_chinese episode006_aa98ddbb:
 
-    # "There were sounds coming from behind it."
-    ""
 
-# game/episode006.rpy:1851
+    "門後面有聲音傳出來。"
+
+
 translate traditional_chinese episode006_ac69e335:
 
-    # av "Either someone is in pain or they're having a good time."
-    av ""
 
-# game/episode006.rpy:1852
+    av "要不是有人疼得直叫喚，就是他們在爽翻天。"
+
+
 translate traditional_chinese episode006_0e898381:
 
-    # "I opened the door slightly and saw two guards hunched over the screen of a handheld device."
-    ""
 
-# game/episode006.rpy:1854
+    "我悄悄把門開了條縫，看到兩個警衛貓着腰在看掌上設備的屏幕。"
+
+
 translate traditional_chinese episode006_472b3a15:
 
-    # man "Fuck!{w} Is that thing really going in there?!"
-    man ""
 
-# game/episode006.rpy:1855
+    man "操！{w} 那玩意兒真的能塞進去嗎？！"
+
+
 translate traditional_chinese episode006_b0e77dbc:
 
-    # man "No, she didn't!"
-    man ""
 
-# game/episode006.rpy:1856
+    man "不，她居然這麼玩！"
+
+
 translate traditional_chinese episode006_04ec5fe6:
 
-    # man "All the way?{w} Damn!"
-    man ""
 
-# game/episode006.rpy:1861
+    man "整個進去了？{w} 臥槽！"
+
+
 translate traditional_chinese episode006_82b0f6d8:
 
-    # "I closed the door softly and left the guards to whatever nasty pornography they were admiring."
-    ""
 
-# game/episode006.rpy:1862
+    "我輕輕關上門，讓那兩個警衛自己欣賞他們那噁心的色情片吧。"
+
+
 translate traditional_chinese episode006_8eb2c00b:
 
-    # c "Let's leave them to it and hurry the fuck up."
-    c ""
 
-# game/episode006.rpy:1864
+    c "讓他們忙活去吧，我們趕緊他媽行動。"
+
+
 translate traditional_chinese episode006_cd7d03e2:
 
-    # "Jade was still hovered over the console when we got back."
-    ""
 
-# game/episode006.rpy:1865
+    "我們回來時傑德還在控制臺前忙活着。"
+
+
 translate traditional_chinese episode006_27dd7033:
 
-    # j "Just a couple of minutes."
-    j ""
 
-# game/episode006.rpy:1866
+    j "再等幾分鐘就好。"
+
+
 translate traditional_chinese episode006_b8e151f6:
 
-    # c "I hope the boys will be occupied long enough back there."
-    c ""
 
-# game/episode006.rpy:1867
+    c "希望後面那幾個傢伙夠忙活一陣子。"
+
+
 translate traditional_chinese episode006_31bc1b1f:
 
-    # j "Boys?"
-    j ""
 
-# game/episode006.rpy:1868
+    j "什麼傢伙？"
+
+
 translate traditional_chinese episode006_c63e21ab:
 
-    # c "Never mind, just focus on getting us those access codes."
-    c ""
 
-# game/episode006.rpy:1870
+    c "沒事，專心給我們搞到那些授權碼吧。"
+
+
 translate traditional_chinese episode006_b6f186f4:
 
-    # "Jade's fingers danced frantically over the keyboard and she sighed in frustration multiple times."
-    ""
 
-# game/episode006.rpy:1871
+    "傑德的手指在鍵盤上瘋狂地舞動，她還沮喪地嘆了好幾口氣。"
+
+
 translate traditional_chinese episode006_addf2625:
 
-    # "The system evidently resisted her attempts to gain entry and I started to fear we'd get caught."
-    ""
 
-# game/episode006.rpy:1873
+    "系統顯然不讓她入侵，我開始擔心我們會被抓。"
+
+
 translate traditional_chinese episode006_b6589d01:
 
-    # j "Nearly got it!"
-    j ""
 
-# game/episode006.rpy:1874
+    j "快成功了！"
+
+
 translate traditional_chinese episode006_fca7018f:
 
-    # "We heard the closet door slide open and the two guards emerged."
-    ""
 
-# game/episode006.rpy:1875
+    "我們聽見櫃門滑開了，兩個警衛冒出來了。"
+
+
 translate traditional_chinese episode006_b437b351_1:
 
-    # c "Fuck."
-    c ""
 
-# game/episode006.rpy:1877
+    c "操。"
+
+
 translate traditional_chinese episode006_7ab67169:
 
-    # man "What are you doing here?!"
-    man ""
 
-# game/episode006.rpy:1881
+    man "你們在這兒幹什麼？！"
+
+
 translate traditional_chinese episode006_420a2edd:
 
-    # c "We're to relieve you."
-    c ""
 
-# game/episode006.rpy:1883
+    c "我們是來替你們的班的。"
+
+
 translate traditional_chinese episode006_ad2df50a:
 
-    # man "Nonsense, that's only supposed to happen in an hour."
-    man ""
 
-# game/episode006.rpy:1884
+    man "胡說，那應該再過一小時才會發生。"
+
+
 translate traditional_chinese episode006_9b357a07:
 
-    # c "Plans have changed, command tried to contact you, but got no response."
-    c ""
 
-# game/episode006.rpy:1885
+    c "計劃變了，指揮部試着聯繫你們，但沒回應。"
+
+
 translate traditional_chinese episode006_4694d46a:
 
-    # c "You probably had a good reason for leaving your post, didn't you?"
-    c ""
 
-# game/episode006.rpy:1886
+    c "你們可能得有一個好理由擅離職守，對吧？"
+
+
 translate traditional_chinese episode006_b5181e0b:
 
-    # man "I'm going to call command and sort this mess out."
-    man ""
 
-# game/episode006.rpy:1887
+    man "我這就聯繫指揮部，搞清楚情況。"
+
+
 translate traditional_chinese episode006_b437b351_2:
 
-    # c "Fuck."
-    c ""
 
-# game/episode006.rpy:1889
+    c "操。"
+
+
 translate traditional_chinese episode006_42f0aee3:
 
-    # "I shot him in the face before the guard could bring his communicator to his mouth."
-    ""
 
-# game/episode006.rpy:1891
+    "在那警衛舉起通訊器之前，我一槍打中了他的臉。"
+
+
 translate traditional_chinese episode006_0adfeca7:
 
-    # "Aven took care of the other guard who dropped with a shocked look on his face."
-    ""
 
-# game/episode006.rpy:1892
+    "艾文處理了另一個警衛，他一臉震驚地倒下了。"
+
+
 translate traditional_chinese episode006_5c981ec1:
 
-    # "Just as the men both hit the floor Jade exclaimed her success."
-    ""
 
-# game/episode006.rpy:1895
+    "就在兩人倒地時，傑德大喊她成功了。"
+
+
 translate traditional_chinese episode006_f9cdf1f9:
 
-    # "Before the guard could say anything else I shot him in the face."
-    ""
 
-# game/episode006.rpy:1897
+    "在那警衛說別的之前，我一槍打中了他的臉。"
+
+
 translate traditional_chinese episode006_a6ca2945:
 
-    # "The other guard attempted to bring his communicator to his mouth, but was caught by a blast from Aven's gun."
-    ""
 
-# game/episode006.rpy:1898
+    "另一個警衛試圖舉起通訊器，但被艾文的槍擊中了。"
+
+
 translate traditional_chinese episode006_5c981ec1_1:
 
-    # "Just as the men both hit the floor Jade exclaimed her success."
-    ""
 
-# game/episode006.rpy:1900
+    "就在兩人倒地時，傑德大喊她成功了。"
+
+
 translate traditional_chinese episode006_eb7774b9:
 
-    # j "I've got it!"
-    j ""
 
-# game/episode006.rpy:1901
+    j "搞定了！"
+
+
 translate traditional_chinese episode006_4f204449:
 
-    # j "I've got the codes and we're cleared for launch."
-    j ""
 
-# game/episode006.rpy:1903
+    j "我拿到代碼了，啓動批准了。"
+
+
 translate traditional_chinese episode006_7b1b4587:
 
-    # "Only then she seemed to notice the shooting that had just happened and her face contorted in disgust."
-    ""
 
-# game/episode006.rpy:1904
+    "直到這時她才注意到剛才的開槍，她的臉扭曲着，顯出厭惡。"
+
+
 translate traditional_chinese episode006_30333273:
 
-    # av "Fuck, what a mess."
-    av ""
 
-# game/episode006.rpy:1905
+    av "操，真是一團糟。"
+
+
 translate traditional_chinese episode006_9bd157a4:
 
-    # c "Let's leave here quickly, hopefully the others are already on the Bastard."
-    c ""
 
-# game/episode006.rpy:1908
+    c "我們快離開這兒，希望其他人已經在\"私生子\"號上了。"
+
+
 translate traditional_chinese episode006_a89325b1:
 
-    # "Much to Aven's shock I kicked the door in."
-    ""
 
-# game/episode006.rpy:1910
+    "讓艾文大喫一驚的是我踹開了門。"
+
+
 translate traditional_chinese episode006_df0e55c0:
 
-    # c "What the fuck do you think you're doing here?"
-    c ""
 
-# game/episode006.rpy:1911
+    c "你們他媽以爲自己在這裡幹什麼？"
+
+
 translate traditional_chinese episode006_b5afd43a:
 
-    # "The guards were startled beyond belief and stared at us with mouths agape."
-    ""
 
-# game/episode006.rpy:1912
+    "警衛們驚呆了，難以置信地盯着我們，嘴巴張得大大的。"
+
+
 translate traditional_chinese episode006_06aff4b6:
 
-    # "One of them still held the tablet showing a woman stuffing her butthole with an incredibly large dildo."
-    ""
 
-# game/episode006.rpy:1914
+    "其中一個還拿着平板，上面顯示一個女人正用一個巨大的假陽具塞她的屁眼。"
+
+
 translate traditional_chinese episode006_572f12a8:
 
-    # man "Sir...{w} we..."
-    man ""
 
-# game/episode006.rpy:1915
+    man "長官...{w}我們..."
+
+
 translate traditional_chinese episode006_fcc6ed6e:
 
-    # c "You both abandoned your posts to lock yourself up in a closet and look at porn?!"
-    c ""
 
-# game/episode006.rpy:1916
+    c "你們兩個拋下崗位職責，把自己鎖在衣櫥裏看黃片？！"
+
+
 translate traditional_chinese episode006_6bb53a7f:
 
-    # c "I should shoot you on sight."
-    c ""
 
-# game/episode006.rpy:1917
+    c "我應該就地槍決你們。"
+
+
 translate traditional_chinese episode006_76c85855:
 
-    # man "Please...{w} sir..."
-    man ""
 
-# game/episode006.rpy:1918
+    man "求您...{w}長官..."
+
+
 translate traditional_chinese episode006_db096f3d:
 
-    # c "Shut the fuck up."
-    c ""
 
-# game/episode006.rpy:1919
+    c "閉嘴吧操。"
+
+
 translate traditional_chinese episode006_c2dfb571:
 
-    # c "Report to your commander immediately and make sure to tell him everything."
-    c ""
 
-# game/episode006.rpy:1920
+    c "馬上去向你們的指揮官報告，務必告訴他所有事情。"
+
+
 translate traditional_chinese episode006_17951023:
 
-    # c "Make sure to tell him everything, because I intend to verify your story once my guard shift here is done."
-    c ""
 
-# game/episode006.rpy:1922
+    c "務必告訴他所有事，因爲等我換崗結束，我會去核實你們的說辭。"
+
+
 translate traditional_chinese episode006_307edfac:
 
-    # man "But sir, we weren't supposed to be relieved until the next hour."
-    man ""
 
-# game/episode006.rpy:1923
+    man "但是長官，我們本該下一個小時才被換崗。"
+
+
 translate traditional_chinese episode006_3544b32a:
 
-    # c "Do I look like I care?"
-    c ""
 
-# game/episode006.rpy:1924
+    c "我看起來像在乎的樣子嗎？"
+
+
 translate traditional_chinese episode006_e9bff769:
 
-    # c "Get the fuck out of here at once!"
-    c ""
 
-# game/episode006.rpy:1926
+    c "趕緊給我他媽滾出去！"
+
+
 translate traditional_chinese episode006_7e01a0ae:
 
-    # "The guards were too flustered to really think about the whole situation and hurried out in shame."
-    ""
 
-# game/episode006.rpy:1927
+    "警衛們太慌亂，根本來不及考慮整個情況，就羞愧地匆匆離開了。"
+
+
 translate traditional_chinese episode006_fe1562e4:
 
-    # "They didn't even notice Jade working on the console on their way out."
-    ""
 
-# game/episode006.rpy:1929
+    "他們離開時甚至沒注意到傑德正在操控控制臺。"
+
+
 translate traditional_chinese episode006_005a529d:
 
-    # av "Damn, you really made them shit their britches, [p_name_short]."
-    av ""
 
-# game/episode006.rpy:1931
+    av "靠，你真把他們嚇尿了，[p_name_short]。"
+
+
 translate traditional_chinese episode006_71f42dd3:
 
-    # j "What was that about?"
-    j ""
 
-# game/episode006.rpy:1932
+    j "怎麼回事？"
+
+
 translate traditional_chinese episode006_cd447b3c:
 
-    # c "Just some guys slacking off at work."
-    c ""
 
-# game/episode006.rpy:1933
+    c "就是幾個傢伙在偷懶。"
+
+
 translate traditional_chinese episode006_47cf5a4a:
 
-    # c "I put them in their place."
-    c ""
 
-# game/episode006.rpy:1934
+    c "我把他們治住了。"
+
+
 translate traditional_chinese episode006_3c2ad325:
 
-    # j "You sure did."
-    j ""
 
-# game/episode006.rpy:1935
+    j "確實如此。"
+
+
 translate traditional_chinese episode006_d0c204fa:
 
-    # j "Just a couple of minutes and we should have those access codes."
-    j ""
 
-# game/episode006.rpy:1937
+    j "再幾分鐘我們就能弄到那些授權碼。"
+
+
 translate traditional_chinese episode006_b6f186f4_1:
 
-    # "Jade's fingers danced frantically over the keyboard and she sighed in frustration multiple times."
-    ""
 
-# game/episode006.rpy:1938
+    "傑德的手指在鍵盤上狂舞，她挫敗地嘆息了好幾次。"
+
+
 translate traditional_chinese episode006_addf2625_1:
 
-    # "The system evidently resisted her attempts to gain entry and I started to fear we'd get caught."
-    ""
 
-# game/episode006.rpy:1939
+    "系統明顯抵制她試圖進入，我開始擔心我們會被抓到。"
+
+
 translate traditional_chinese episode006_b6589d01_1:
 
-    # j "Nearly got it!"
-    j ""
 
-# game/episode006.rpy:1940
+    j "差不多了！"
+
+
 translate traditional_chinese episode006_0d6af297:
 
-    # "I just hoped the guards we dismissed didn't get any second thoughts and mess things up for us."
-    ""
 
-# game/episode006.rpy:1941
+    "我只希望我們解散的那些守衛沒起任何念頭，給我們惹麻煩。"
+
+
 translate traditional_chinese episode006_32fc5984:
 
-    # "Luckily, nobody disturbed us."
-    ""
 
-# game/episode006.rpy:1943
+    "幸運的是，沒人打擾我們。"
+
+
 translate traditional_chinese episode006_eb7774b9_1:
 
-    # j "I've got it!"
-    j ""
 
-# game/episode006.rpy:1944
+    j "我搞定了！"
+
+
 translate traditional_chinese episode006_4f204449_1:
 
-    # j "I've got the codes and we're cleared for launch."
-    j ""
 
-# game/episode006.rpy:1945
+    j "我拿到了密碼，我們被批准啓動了。"
+
+
 translate traditional_chinese episode006_d7c74fc4:
 
-    # c "Great work!"
-    c ""
 
-# game/episode006.rpy:1946
+    c "幹得漂亮！"
+
+
 translate traditional_chinese episode006_9bd157a4_1:
 
-    # c "Let's leave here quickly, hopefully the others are already on the Bastard."
-    c ""
 
-# game/episode006.rpy:1949
+    c "我們快點離開這兒，希望其他人已經在\"私生子\"號上了。"
+
+
 translate traditional_chinese episode006_dd9d84ae:
 
-    # "We hurried down towards the Iron Bastard."
-    ""
 
-# game/episode006.rpy:1950
+    "我們急忙趕往\"鋼鐵私生子\"號。"
+
+
 translate traditional_chinese episode006_074b6572:
 
-    # "Nobody opposed us and the few maintenance droids stalking the premises didn't even register us."
-    ""
 
-# game/episode006.rpy:1951
+    "沒人反對我們，而那少數幾個在巡邏的維護機器人甚至都沒注意到我們。"
+
+
 translate traditional_chinese episode006_cabef848:
 
-    # "There was nobody in the vicinity of the Bastard and the entrance hatch was open."
-    ""
 
-# game/episode006.rpy:1952
+    "\"私生子\"號附近沒人，入口艙門是開着的。"
+
+
 translate traditional_chinese episode006_7a4feae0:
 
-    # c "Everyone's already inside, let's get the fuck out of here."
-    c ""
 
-# game/episode006.rpy:1953
+    c "所有人都在裡面了，我們他媽趕緊離開這兒。"
+
+
 translate traditional_chinese episode006_f5bbacc1:
 
-    # "The hatch closed immediately after we climbed aboard the ship."
-    ""
 
-# game/episode006.rpy:1954
+    "我們一登船，艙門立即關上了。"
+
+
 translate traditional_chinese episode006_a86a4eb0:
 
-    # "We rushed towards the bridge to find Céline and the others already strapped in."
-    ""
 
-# game/episode006.rpy:1956
+    "我們衝向艦橋，發現瑟琳和其他人已經系好安全帶了。"
+
+
 translate traditional_chinese episode006_d86f1932:
 
-    # ce "Ready for take-off."
-    ce ""
 
-# game/episode006.rpy:1957
+    ce "準備起飛。"
+
+
 translate traditional_chinese episode006_843dd4f2:
 
-    # "The Iron Bastard hummed as Céline started the engines and the docking bay doors opened."
-    ""
 
-# game/episode006.rpy:1958
+    "\"鋼鐵私生子\"號嗡鳴着，瑟琳啓動了引擎，船塢大門打開了。"
+
+
 translate traditional_chinese episode006_31642874:
 
-    # "No alarms interrupted us and we sped outside the docking bay in seconds."
-    ""
 
-# game/episode006.rpy:1960
+    "沒有警報幹擾我們，我們在幾秒鐘內加速出了船塢。"
+
+
 translate traditional_chinese episode006_3dd61539:
 
-    # "The ship prompted us for an identification code which Jade recited to Céline."
-    ""
 
-# game/episode006.rpy:1961
+    "飛船提示我們輸入識別碼，傑德把它念給了瑟琳。"
+
+
 translate traditional_chinese episode006_31483359:
 
-    # "After punching in the code we had to wait for a number of agonizing seconds until the screen turned green in approval."
-    ""
 
-# game/episode006.rpy:1962
+    "輸入密碼後，我們得等上幾秒煎熬的時間，直到屏幕變綠表示批准。"
+
+
 translate traditional_chinese episode006_b50af0ec:
 
-    # "Full thrust, we flew back into the asteroid field and left the station behind."
-    ""
 
-# game/episode006.rpy:1963
+    "全速推進，我們飛回小行星帶，把空間站甩在了後面。"
+
+
 translate traditional_chinese episode006_d3a9ae72:
 
-    # c "Set a course for Almagest."
-    c ""
 
-# game/episode006.rpy:1965
+    c "設定航向到文典星。"
+
+
 translate traditional_chinese episode006_89df5ed2:
 
-    # ce "Uh, [p_name_short]...{w} about that..."
-    ce ""
 
-# game/episode006.rpy:1966
+    ce "呃，[p_name_short]...{w} 關於那個..."
+
+
 translate traditional_chinese episode006_3502305f_1:
 
-    # c "What's the matter?"
-    c ""
 
-# game/episode006.rpy:1967
+    c "怎麼了？"
+
+
 translate traditional_chinese episode006_15fe7996:
 
-    # ce "I had a look at the ship's records to find the date we were captured."
-    ce ""
 
-# game/episode006.rpy:1968
+    ce "我看了看飛船的記錄，想找出我們被俘的日期。"
+
+
 translate traditional_chinese episode006_49d3f91d:
 
-    # c "And?"
-    c ""
 
-# game/episode006.rpy:1970
+    c "然後呢？"
+
+
 translate traditional_chinese episode006_476d42f6:
 
-    # ce "That was almost six months ago."
-    ce ""
 
-# game/episode006.rpy:1972
+    ce "那已經是差不多六個月前的事了。"
+
+
 translate traditional_chinese episode006_5796059d:
 
-    # c "Six months?"
-    c ""
 
-# game/episode006.rpy:1973
+    c "六個月？"
+
+
 translate traditional_chinese episode006_3ac6f83d:
 
-    # c "That can't be true."
-    c ""
 
-# game/episode006.rpy:1974
+    c "那不可能是真的。"
+
+
 translate traditional_chinese episode006_a704c68f:
 
-    # ce "I double-checked it."
-    ce ""
 
-# game/episode006.rpy:1976
+    ce "我仔細核對過了。"
+
+
 translate traditional_chinese episode006_e8017228:
 
-    # "The thought of losing almost half a year sent me reeling and I had to support myself by grabbing hold of a chair."
-    ""
 
-# game/episode006.rpy:1977
+    "想到幾乎失去半年的時光讓我頭暈目眩，我不得不抓住椅子支撐自己。"
+
+
 translate traditional_chinese episode006_14cae485:
 
-    # c "We'll find a way to deal with this."
-    c ""
 
-# game/episode006.rpy:1978
+    c "我們會找到辦法解決的。"
+
+
 translate traditional_chinese episode006_ad34098a:
 
-    # c "Plot a course to Almagest, we'll get that information one way or another."
-    c ""
 
-# game/episode006.rpy:1980
+    c "設定航線去文典星，我們無論如何都要拿到那份情報。"
+
+
 translate traditional_chinese episode006_20f7f609:
 
-    # ki "We could turn back Barranthis, maybe ask that Vitriv for help again?"
-    ki ""
 
-# game/episode006.rpy:1982
+    ki "我們可以轉回巴蘭西斯星，也許再去找那個維特裏夫幫忙？"
+
+
 translate traditional_chinese episode006_7dcb9eef:
 
-    # th "I'm not sure we're going to find him that easily."
-    th ""
 
-# game/episode006.rpy:1983
+    th "我不確定我們能那麼容易找到他。"
+
+
 translate traditional_chinese episode006_9d7b937d:
 
-    # th "Also, you can bet on Doarn giving us a warm welcome, we've made a powerful enemy there."
-    th ""
 
-# game/episode006.rpy:1984
+    th "而且，你可以打賭多恩會熱烈歡迎我們，我們在那樹了個強敵。"
+
+
 translate traditional_chinese episode006_875acc8c:
 
-    # c "I don't want to waste more time, we'll think of something once we reach Almagest."
-    c ""
 
-# game/episode006.rpy:1986
+    c "我不想再浪費時間了，等我們到了文典星再想辦法。"
+
+
 translate traditional_chinese episode006_b4059751:
 
-    # "Once Céline fed the Bastard the coordinates to the Psi1-Draconis system and we were in for a long journey through several jumpgates."
-    ""
 
-# game/episode006.rpy:1987
+    "一旦瑟琳給\"私生子\"號輸入了PSI1-天龍座星系的坐標，我們就得通過幾個跳躍門開始漫長旅程。"
+
+
 translate traditional_chinese episode006_ee8427c1:
 
-    # "Now was as good a time as any to settle a few things with some of my crew mates."
-    ""
 
-# game/episode006.rpy:2003
+    "現在正是好時候和幾個我的機組成員解決點事情。"
+
+
 translate traditional_chinese ep006_sim_01_b57ea409:
 
-    # "Suddenly I was overwhelmed by a familiar nausea."
-    ""
 
-# game/episode006.rpy:2005
+    "突然間，我一陣熟悉的噁心感襲來。"
+
+
 translate traditional_chinese ep006_sim_01_392b6e31:
 
-    # "The darkness in front of me was pierced by several spotlights and I saw two figures, unmistakably female."
-    ""
 
-# game/episode006.rpy:2007
+    "我面前的黑暗被幾道聚光燈刺穿，我看到了兩個人影，千真萬確是個女的。"
+
+
 translate traditional_chinese ep006_sim_01_4847d439:
 
-    # "One of the women was completely naked and kneeling, her shapely ass turned towards me."
-    ""
 
-# game/episode006.rpy:2009
+    "其中一個女人完全赤裸着跪在地上，她曲線優美的屁股對着我。"
+
+
 translate traditional_chinese ep006_sim_01_924d11fc:
 
-    # "The other woman was scantly clad and walking circles around the naked woman, carrying a whip."
-    ""
 
-# game/episode006.rpy:2011
+    "另一個女人穿着暴露的衣服，在裸體女人周圍轉圈，手裡拿着一根鞭子。"
+
+
 translate traditional_chinese ep006_sim_01_908e3894:
 
-    # "When her face was illuminated by one of the spotlights a wave of emotion coursed through me."
-    ""
 
-# game/episode006.rpy:2012
+    "當她的臉被一盞聚光燈照亮時，一股情緒湧過我全身。"
+
+
 translate traditional_chinese ep006_sim_01_99abf4fa:
 
-    # "I felt I should recognize the woman because of the ferociousness of my feelings, a burning hatred, but my mind drew a blank."
-    ""
 
-# game/episode006.rpy:2014
+    "我感覺我該認得這個女人，因爲我感情太強烈了，一股灼熱的仇恨，但腦子一片空白。"
+
+
 translate traditional_chinese ep006_sim_01_3ed1407d:
 
-    # "The woman let the whip touch the skin of the other woman's back."
-    ""
 
-# game/episode006.rpy:2015
+    "那個女人讓鞭子碰到另一個女人後背的皮膚。"
+
+
 translate traditional_chinese ep006_sim_01_f744b2fa:
 
-    # "I heard her whimper."
-    ""
 
-# game/episode006.rpy:2016
+    "我聽到她嗚咽了一聲。"
+
+
 translate traditional_chinese ep006_sim_01_0ffe782f:
 
-    # "The other woman spoke, she had a commanding voice that brooked no contradiction."
-    ""
 
-# game/episode006.rpy:2018
+    "另一個女人說話了，她聲音霸道不容反駁。"
+
+
 translate traditional_chinese ep006_sim_01_b5221fa6:
 
-    # woman2 "Do you deny you're a slut?"
-    woman2 ""
 
-# game/episode006.rpy:2019
+    woman2 "你否認自己是個蕩婦嗎？"
+
+
 translate traditional_chinese ep006_sim_01_36b150fa:
 
-    # "The woman on the floor replied in a whisper as she shirked away from the tip of the whip."
-    ""
 
-# game/episode006.rpy:2020
+    "地板上的女人低聲回應道，同時畏縮着避開鞭梢。"
+
+
 translate traditional_chinese ep006_sim_01_cd7621ce:
 
-    # "Her long blonde hair fell as a waterfall on the floor."
-    ""
 
-# game/episode006.rpy:2021
+    "她金色的長髮如瀑布般灑落在地板上。"
+
+
 translate traditional_chinese ep006_sim_01_d405f583:
 
-    # woman2 "I can't hear you, slut."
-    woman2 ""
 
-# game/episode006.rpy:2022
+    woman2 "我聽不清，蕩婦。"
+
+
 translate traditional_chinese ep006_sim_01_2f7c9f17:
 
-    # woman2 "Speak up!"
-    woman2 ""
 
-# game/episode006.rpy:2025
+    woman2 "大聲點！"
+
+
 translate traditional_chinese ep006_sim_01_e7bac75e:
 
-    # yve "I'm not a slut!"
-    yve ""
 
-# game/episode006.rpy:2026
+    yve "我不是蕩婦！"
+
+
 translate traditional_chinese ep006_sim_01_e6f9af68:
 
-    # "With a flick of her wrist the woman attacked with her whip."
-    ""
 
-# game/episode006.rpy:2027
+    "那女人手腕一抖，鞭子便甩了出去。"
+
+
 translate traditional_chinese ep006_sim_01_e9224166:
 
-    # "I saw her buttocks clench as the coarse leather lashed viciously against the helpless slave."
-    ""
 
-# game/episode006.rpy:2029
+    "當粗糙的皮鞭兇狠地抽向無助的奴隸時，我看到她的臀部繃緊了。"
+
+
 translate traditional_chinese ep006_sim_01_4c4cd46a:
 
-    # woman2 "You will address me as Mistress!"
-    woman2 ""
 
-# game/episode006.rpy:2033
+    woman2 "你該叫我夫人！"
+
+
 translate traditional_chinese ep006_sim_01_e2d13523:
 
-    # yve "I'm not a slut, Mistress."
-    yve ""
 
-# game/episode006.rpy:2035
+    yve "夫人，我不是蕩婦。"
+
+
 translate traditional_chinese ep006_sim_01_962c0ec1:
 
-    # woman2 "But you are."
-    woman2 ""
 
-# game/episode006.rpy:2036
+    woman2 "可你就是。"
+
+
 translate traditional_chinese ep006_sim_01_f4bdcf85:
 
-    # woman2 "You've slept with so many men."
-    woman2 ""
 
-# game/episode006.rpy:2037
+    woman2 "你和那麼多男人睡過。"
+
+
 translate traditional_chinese ep006_sim_01_f2f6681e:
 
-    # woman2 "Or should I say boys?"
-    woman2 ""
 
-# game/episode006.rpy:2038
+    woman2 "或許我該說男孩們？"
+
+
 translate traditional_chinese ep006_sim_01_63e4a576:
 
-    # woman2 "You like those eighteen and nineteen-year olds, don't you, because they still have the stamina to fuck you all night?"
-    woman2 ""
 
-# game/episode006.rpy:2039
+    woman2 "你就喜歡那些十八九歲的對吧？因爲他們還能有體力操你一整夜？"
+
+
 translate traditional_chinese ep006_sim_01_616568d0:
 
-    # woman2 "Admit it!"
-    woman2 ""
 
-# game/episode006.rpy:2040
+    woman2 "承認吧！"
+
+
 translate traditional_chinese ep006_sim_01_2a0cc03a:
 
-    # "The Mistress lashed her slave several times before she could answer."
-    ""
 
-# game/episode006.rpy:2041
+    "奴隸還未來得及回答，夫人又抽了她好幾鞭。"
+
+
 translate traditional_chinese ep006_sim_01_51287ce6:
 
-    # woman2 "Stand up, slut."
-    woman2 ""
 
-# game/episode006.rpy:2042
+    woman2 "站起來，蕩婦。"
+
+
 translate traditional_chinese ep006_sim_01_1fb9b302:
 
-    # "The blonde slave just whimpered which earned her two slaps on the bare soles of her feet."
-    ""
 
-# game/episode006.rpy:2044
+    "金髮奴隸只是嗚咽了一聲，結果她光着的腳底又挨了兩下。"
+
+
 translate traditional_chinese ep006_sim_01_c404da9f:
 
-    # "She yelped and struggled to get up."
-    ""
 
-# game/episode006.rpy:2045
+    "她痛叫一聲，掙扎着爬起來。"
+
+
 translate traditional_chinese ep006_sim_01_630d7c6a:
 
-    # "Her long hair covered most of her well-sculpted back and stopped just above her ass."
-    ""
 
-# game/episode006.rpy:2047
+    "她的長髮遮掩了大半線條優美的背部，發尾恰停在臀瓣上方。"
+
+
 translate traditional_chinese ep006_sim_01_b62c829c:
 
-    # woman2 "Face me, whore."
-    woman2 ""
 
-# game/episode006.rpy:2048
+    woman2 "賤貨，面對我。"
+
+
 translate traditional_chinese ep006_sim_01_ad593ad2:
 
-    # "The slave finally turned around, the harsh light hitting her face."
-    ""
 
-# game/episode006.rpy:2050
+    "奴隸終於轉身，強光刺在她臉上。"
+
+
 translate traditional_chinese ep006_sim_01_16942a61:
 
-    # "I was struck with another torrent of emotions, a little more ambivalent than what I felt for the Mistress."
-    ""
 
-# game/episode006.rpy:2051
+    "我又被另一股情緒的洪流擊中，這種感情比我對這個女主人的感情更加矛盾。"
+
+
 translate traditional_chinese ep006_sim_01_d16c867e:
 
-    # "A weird kind of affection and familiarity, mixed with the same hatred I felt for the other woman."
-    ""
 
-# game/episode006.rpy:2052
+    "某種怪異的親近熟悉感，混雜着對另一個女人同樣的憎惡。"
+
+
 translate traditional_chinese ep006_sim_01_d9a0b16d:
 
-    # "Strangely, both women also aroused me."
-    ""
 
-# game/episode006.rpy:2053
+    "奇怪的是，這兩個女人都讓我興奮。"
+
+
 translate traditional_chinese ep006_sim_01_e5bf9c77:
 
-    # "My erection was straining against the coverall I was wearing."
-    ""
 
-# game/episode006.rpy:2055
+    "我的勃起正隔着連體工作服緊緊地頂着。"
+
+
 translate traditional_chinese ep006_sim_01_ffe88ddc:
 
-    # woman2 "You love to be fucked by teenage cocks, don't you?"
-    woman2 ""
 
-# game/episode006.rpy:2056
+    woman2 "你喜歡被青少年的大屌幹吧？"
+
+
 translate traditional_chinese ep006_sim_01_f0f84cda:
 
-    # woman2 "Say it."
-    woman2 ""
 
-# game/episode006.rpy:2058
+    woman2 "說。"
+
+
 translate traditional_chinese ep006_sim_01_cd553726:
 
-    # yve "No, mistress."
-    yve ""
 
-# game/episode006.rpy:2062
+    yve "不，主人。"
+
+
 translate traditional_chinese ep006_sim_01_aca3baa2:
 
-    # "The Mistress savagely whipped her slave's buttocks and I saw the blonde woman clench her teeth to deal with the pain."
-    ""
 
-# game/episode006.rpy:2063
+    "主人粗暴地鞭打奴隸的臀部，我看到金髮女人咬緊牙關忍受疼痛。"
+
+
 translate traditional_chinese ep006_sim_01_0d3fd0cd:
 
-    # woman2 "You love to get fucked."
-    woman2 ""
 
-# game/episode006.rpy:2064
+    woman2 "你喜歡被幹。"
+
+
 translate traditional_chinese ep006_sim_01_f0f84cda_1:
 
-    # woman2 "Say it."
-    woman2 ""
 
-# game/episode006.rpy:2066
+    woman2 "說。"
+
+
 translate traditional_chinese ep006_sim_01_d7fb4683:
 
-    # "The woman now faced her captive and she stroked the woman's hard nipples with the tip of the whip."
-    ""
 
-# game/episode006.rpy:2067
+    "女人此刻正面對着俘虜，她用鞭梢摩挲着對方硬挺的乳頭。"
+
+
 translate traditional_chinese ep006_sim_01_f0f84cda_2:
 
-    # woman2 "Say it."
-    woman2 ""
 
-# game/episode006.rpy:2069
+    woman2 "說。"
+
+
 translate traditional_chinese ep006_sim_01_141f506c:
 
-    # yve "I love to get fucked."
-    yve ""
 
-# game/episode006.rpy:2070
+    yve "我喜歡被幹。"
+
+
 translate traditional_chinese ep006_sim_01_4c439d83:
 
-    # "A vicious slap and the blonde woman's large breasts were marked with the whip's red mark."
-    ""
 
-# game/episode006.rpy:2071
+    "一記兇狠的抽打，金髮女人豐滿的乳房留下鞭梢紅痕。"
+
+
 translate traditional_chinese ep006_sim_01_e7514b56:
 
-    # woman2 "Louder!"
-    woman2 ""
 
-# game/episode006.rpy:2072
+    woman2 "大聲點！"
+
+
 translate traditional_chinese ep006_sim_01_58c20422:
 
-    # yve "I love to get fucked!"
-    yve ""
 
-# game/episode006.rpy:2073
+    yve "我喜歡被幹！"
+
+
 translate traditional_chinese ep006_sim_01_7f85e1e2:
 
-    # woman2 "Because you're a slut."
-    woman2 ""
 
-# game/episode006.rpy:2074
+    woman2 "因爲你是個蕩婦。"
+
+
 translate traditional_chinese ep006_sim_01_57bd48d1:
 
-    # yve "Because I'm a slut!"
-    yve ""
 
-# game/episode006.rpy:2075
+    yve "因爲我是個蕩婦！"
+
+
 translate traditional_chinese ep006_sim_01_f00e60f8:
 
-    # woman2 "Good girl."
-    woman2 ""
 
-# game/episode006.rpy:2077
+    woman2 "乖女孩。"
+
+
 translate traditional_chinese ep006_sim_01_8fd28141:
 
-    # "The whip was now between the trembling slave's legs and the Mistress slowly stroked her inner thighs."
-    ""
 
-# game/episode006.rpy:2078
+    "鞭子此刻抵在顫抖的奴隸腿間，主人緩緩摩挲她的大腿內側。"
+
+
 translate traditional_chinese ep006_sim_01_614a6f0b:
 
-    # "She swished the instrument upwards and lightly touched the slave's cunt."
-    ""
 
-# game/episode006.rpy:2079
+    "她嗖地抽過刑具，輕觸奴隸的陰部。"
+
+
 translate traditional_chinese ep006_sim_01_3e19e7c3:
 
-    # woman2 "Again."
-    woman2 ""
 
-# game/episode006.rpy:2081
+    woman2 "再說。"
+
+
 translate traditional_chinese ep006_sim_01_71655d73:
 
-    # yve "I love to get fucked, because I'm a slut!"
-    yve ""
 
-# game/episode006.rpy:2082
+    yve "我喜歡被幹，因爲我是個蕩婦！"
+
+
 translate traditional_chinese ep006_sim_01_b53206e9:
 
-    # woman2 "Good, very good."
-    woman2 ""
 
-# game/episode006.rpy:2083
+    woman2 "很好，非常好。"
+
+
 translate traditional_chinese ep006_sim_01_a5f37088:
 
-    # woman2 "You're learning to be a good pet."
-    woman2 ""
 
-# game/episode006.rpy:2084
+    woman2 "你正在學習成爲一個好寵物。"
+
+
 translate traditional_chinese ep006_sim_01_51a1a140:
 
-    # woman2 "But you have a lot to atone for, so on your knees again."
-    woman2 ""
 
-# game/episode006.rpy:2096
+    woman2 "但你還有很多要贖罪的，重新跪下。"
+
+
 translate traditional_chinese ep006_sim_02_56542ee7:
 
-    # woman2 "Are you ready to be punished again, slut?"
-    woman2 ""
 
-# game/episode006.rpy:2097
+    woman2 "準備好再挨罰了嗎，蕩婦？"
+
+
 translate traditional_chinese ep006_sim_02_91ff76f5:
 
-    # yve "No, mistress, I'm not."
-    yve ""
 
-# game/episode006.rpy:2098
+    yve "不，主人，我沒有。"
+
+
 translate traditional_chinese ep006_sim_02_103cc940:
 
-    # woman2 "Sure you are."
-    woman2 ""
 
-# game/episode006.rpy:2099
+    woman2 "你當然有。"
+
+
 translate traditional_chinese ep006_sim_02_2db11677:
 
-    # woman2 "You've trained your holes so well, letting all those boys use you like a common whore."
-    woman2 ""
 
-# game/episode006.rpy:2101
+    woman2 "你把身上的洞調教得這麼乖，讓所有男孩把你當公用妓女使喚。"
+
+
 translate traditional_chinese ep006_sim_02_73b5fd72:
 
-    # yve "Yes, mistress."
-    yve ""
 
-# game/episode006.rpy:2102
+    yve "是的，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_8abd302f:
 
-    # woman2 "Tell me, did you like all that seed running from your gash onto your thighs?"
-    woman2 ""
 
-# game/episode006.rpy:2103
+    woman2 "告訴我，那些從你騷縫流到大腿上的種，你喜歡嗎？"
+
+
 translate traditional_chinese ep006_sim_02_ba8a6e84:
 
-    # woman2 "Did you relish swallowing the cum from all those hard cocks you took so eagerly in your mouth?"
-    woman2 ""
 
-# game/episode006.rpy:2105
+    woman2 "你那麼饑渴地吞吐那些硬雞巴時，很享受咽下精液的感覺吧？"
+
+
 translate traditional_chinese ep006_sim_02_e838809b:
 
-    # yve "I did, mistress."
-    yve ""
 
-# game/episode006.rpy:2106
+    yve "是的，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_6f97dfb1:
 
-    # woman2 "Of course you did."
-    woman2 ""
 
-# game/episode006.rpy:2107
+    woman2 "你當然喜歡。"
+
+
 translate traditional_chinese ep006_sim_02_40082d24:
 
-    # woman2 "There won't be any cock for you now though."
-    woman2 ""
 
-# game/episode006.rpy:2109
+    woman2 "不過現在沒雞巴給你用了。"
+
+
 translate traditional_chinese ep006_sim_02_48eb56b0:
 
-    # woman2 "Just this."
-    woman2 ""
 
-# game/episode006.rpy:2110
+    woman2 "只有這個。"
+
+
 translate traditional_chinese ep006_sim_02_f1b24185:
 
-    # yve "Mistress, please, it's too big!"
-    yve ""
 
-# game/episode006.rpy:2111
+    yve "主人饒了我吧，這太大了！"
+
+
 translate traditional_chinese ep006_sim_02_258f3e23:
 
-    # woman2 "Nonsense."
-    woman2 ""
 
-# game/episode006.rpy:2112
+    woman2 "扯淡。"
+
+
 translate traditional_chinese ep006_sim_02_5bf31b38:
 
-    # woman2 "Kneel."
-    woman2 ""
 
-# game/episode006.rpy:2113
+    woman2 "跪下。"
+
+
 translate traditional_chinese ep006_sim_02_7d2f34de:
 
-    # woman2 "Ass in the air."
-    woman2 ""
 
-# game/episode006.rpy:2115
+    woman2 "屁股撅起來。"
+
+
 translate traditional_chinese ep006_sim_02_d55a4ace:
 
-    # "The blonde slave obliged, giving me a perfect view of her buttocks."
-    ""
 
-# game/episode006.rpy:2117
+    "金髮女奴順從照辦，讓我將她臀瓣盡收眼底。"
+
+
 translate traditional_chinese ep006_sim_02_c40c3dc5:
 
-    # "The Mistress slapped them lightly with the flat of her hand."
-    ""
 
-# game/episode006.rpy:2118
+    "女主人的手掌輕輕拍打臀肉。"
+
+
 translate traditional_chinese ep006_sim_02_cc90bc91:
 
-    # woman2 "Such a sturdy ass."
-    woman2 ""
 
-# game/episode006.rpy:2119
+    woman2 "好結實的屁股。"
+
+
 translate traditional_chinese ep006_sim_02_5d7438a8:
 
-    # woman2 "Did you like it when you got fucked from behind?"
-    woman2 ""
 
-# game/episode006.rpy:2120
+    woman2 "被從後面操爽不爽？"
+
+
 translate traditional_chinese ep006_sim_02_12898e17:
 
-    # yve "No, mistress, I didn't."
-    yve ""
 
-# game/episode006.rpy:2121
+    yve "不，主人，我不喜歡。"
+
+
 translate traditional_chinese ep006_sim_02_931bd414:
 
-    # woman2 "Don't lie, you loved a big fat cock inside your asshole, didn't you?"
-    woman2 ""
 
-# game/episode006.rpy:2123
+    woman2 "少裝蒜，你最愛粗雞巴塞屁眼兒的滋味了，對吧？"
+
+
 translate traditional_chinese ep006_sim_02_41c3cfea:
 
-    # "She slapped the woman's ass hard leaving a red impression of her hand."
-    ""
 
-# game/episode006.rpy:2125
+    "她狠狠掌摑女奴臀瓣，留下鮮紅的掌印。"
+
+
 translate traditional_chinese ep006_sim_02_0618abe9:
 
-    # "The girl yelped in pain as the Mistress roughly shoved her hand across her cunt."
-    ""
 
-# game/episode006.rpy:2126
+    "當女主人粗暴地用手划過她騷逼時，女孩痛叫出聲。"
+
+
 translate traditional_chinese ep006_sim_02_4e23c136:
 
-    # woman2 "You can try all you want, but your body is not going to lie."
-    woman2 ""
 
-# game/episode006.rpy:2128
+    woman2 "儘管嘴硬，可你身體可不會撒謊。"
+
+
 translate traditional_chinese ep006_sim_02_ff711c01:
 
-    # "The slave whimpered as she eyed the large toy the Mistress held in her fist."
-    ""
 
-# game/episode006.rpy:2129
+    "看着女主人攥在手裡的巨大玩具，女奴發出嗚咽。"
+
+
 translate traditional_chinese ep006_sim_02_4291b66a:
 
-    # "The domineering woman spat between the kneeling slave's butt cheeks and spread the saliva with her finger around the asshole."
-    ""
 
-# game/episode006.rpy:2130
+    "強勢的女人朝跪奴臀縫間吐了口唾沫，用手指將唾液在屁眼兒周圍抹勻。"
+
+
 translate traditional_chinese ep006_sim_02_a97fa081:
 
-    # "Tenderly, she stroked the blonde woman's anus, making it open very slightly."
-    ""
 
-# game/episode006.rpy:2132
+    "她溫柔地撫摸着金髮女子的屁眼，讓它微微張開。"
+
+
 translate traditional_chinese ep006_sim_02_df8dff42:
 
-    # woman2 "See, you're opening up to me already."
-    woman2 ""
 
-# game/episode006.rpy:2133
+    woman2 "看吧，你已經爲我張開了。"
+
+
 translate traditional_chinese ep006_sim_02_a5668f80:
 
-    # yve "No, I'm not, Mistress, mercy! Please!"
-    yve ""
 
-# game/episode006.rpy:2134
+    yve "沒有，女主人，求您開恩！求求您！"
+
+
 translate traditional_chinese ep006_sim_02_ed611fd3:
 
-    # "My hard cock pressed violently against the taut fabric of my coverall."
-    ""
 
-# game/episode006.rpy:2135
+    "我硬邦邦的雞巴猛烈頂在連體服緊繃的布料上。"
+
+
 translate traditional_chinese ep006_sim_02_5caf56c3:
 
-    # "If my arms weren't restrained to the chair I would've masturbated at the sight of those two depraved women."
-    ""
 
-# game/episode006.rpy:2136
+    "要不是雙臂被綁在椅子上，看到這兩個下流女人的樣子我早打飛機了。"
+
+
 translate traditional_chinese ep006_sim_02_2fc70138:
 
-    # "The only thing I could do now was look."
-    ""
 
-# game/episode006.rpy:2138
+    "現在我只能幹瞪眼瞧着。"
+
+
 translate traditional_chinese ep006_sim_02_1ec2dcce:
 
-    # "The Mistress had pressed the dildo against the folds of the slave's butthole."
-    ""
 
-# game/episode006.rpy:2139
+    "女主人把仿真陽具抵在性奴屁眼的褶皺上。"
+
+
 translate traditional_chinese ep006_sim_02_08aa66ab:
 
-    # "The blonde woman had balled her hands to fists and waited for the toy to enter her rectum."
-    ""
 
-# game/episode006.rpy:2141
+    "金髮女子攥緊拳頭，等待着玩具插進自己直腸。"
+
+
 translate traditional_chinese ep006_sim_02_ba1d25e2:
 
-    # "Little by little the Mistress slid the toy inside the other woman's asshole."
-    ""
 
-# game/episode006.rpy:2142
+    "女主人一點點把玩具滑進女人的屁眼裡。"
+
+
 translate traditional_chinese ep006_sim_02_c73ac607:
 
-    # woman2 "Look at that."
-    woman2 ""
 
-# game/episode006.rpy:2143
+    woman2 "看啊。"
+
+
 translate traditional_chinese ep006_sim_02_7b7bf952:
 
-    # woman2 "Look at that big thing sliding so easily inside your hole."
-    woman2 ""
 
-# game/episode006.rpy:2144
+    woman2 "看看這大傢伙在你洞裡進得多順溜。"
+
+
 translate traditional_chinese ep006_sim_02_6851149d:
 
-    # woman2 "Too big you said!"
-    woman2 ""
 
-# game/episode006.rpy:2145
+    woman2 "剛才你還說太大呢！"
+
+
 translate traditional_chinese ep006_sim_02_6f3c9b8d:
 
-    # woman2 "A lying whore, that's what you are."
-    woman2 ""
 
-# game/episode006.rpy:2147
+    woman2 "撒謊的婊子，說的就是你。"
+
+
 translate traditional_chinese ep006_sim_02_60370707:
 
-    # "The toy was now fully inside of her and the slave gritted her teeth as the cold dildo probed her asshole."
-    ""
 
-# game/episode006.rpy:2148
+    "當冰冷陽具捅進屁眼時，玩具已完全沒入體內，性奴咬緊了牙關。"
+
+
 translate traditional_chinese ep006_sim_02_22169240:
 
-    # woman2 "Do you like that thing inside your ass, slut?"
-    woman2 ""
 
-# game/episode006.rpy:2149
+    woman2 "賤貨，喜歡那玩意插在屁眼裡嗎？"
+
+
 translate traditional_chinese ep006_sim_02_cd553726:
 
-    # yve "No, mistress."
-    yve ""
 
-# game/episode006.rpy:2150
+    yve "不喜歡，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_d1020d45:
 
-    # woman2 "Don't lie."
-    woman2 ""
 
-# game/episode006.rpy:2152
+    woman2 "少撒謊。"
+
+
 translate traditional_chinese ep006_sim_02_02987887:
 
-    # yve "It's so big, mistress."
-    yve ""
 
-# game/episode006.rpy:2153
+    yve "它實在太大了，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_03546510:
 
-    # woman2 "Answer me!"
-    woman2 ""
 
-# game/episode006.rpy:2154
+    woman2 "回答我！"
+
+
 translate traditional_chinese ep006_sim_02_8971a691:
 
-    # woman2 "Do you like that thing stuffed inside of you?"
-    woman2 ""
 
-# game/episode006.rpy:2156
+    woman2 "喜歡那玩意兒塞在你身體裡嗎？"
+
+
 translate traditional_chinese ep006_sim_02_5dc84c7b:
 
-    # yve "Yes, I do, mistress."
-    yve ""
 
-# game/episode006.rpy:2157
+    yve "喜歡，我喜歡，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_1305a76d:
 
-    # woman2 "Do you want to get fucked in your ass?"
-    woman2 ""
 
-# game/episode006.rpy:2159
+    woman2 "想被操屁眼嗎？"
+
+
 translate traditional_chinese ep006_sim_02_73b5fd72_1:
 
-    # yve "Yes, mistress."
-    yve ""
 
-# game/episode006.rpy:2161
+    yve "想的，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_0ff66f74:
 
-    # "The Mistress grinned and she began to move the dildo up and down inside the slave's anal cavity."
-    ""
 
-# game/episode006.rpy:2162
+    "女主人咧嘴一笑，開始在性奴的肛穴裏上下抽動仿真陽具。"
+
+
 translate traditional_chinese ep006_sim_02_311c3532:
 
-    # "Sighs and moans could be heard from the blonde woman as her asshole was fucked by the ribbed toy."
-    ""
 
-# game/episode006.rpy:2164
+    "那個金髮女人的屁眼被帶棱紋的玩具操着時，傳出了陣陣呻吟聲。"
+
+
 translate traditional_chinese ep006_sim_02_df179411:
 
-    # woman2 "You want to cum, don't you?"
-    woman2 ""
 
-# game/episode006.rpy:2165
+    woman2 "你想高潮了，對吧？"
+
+
 translate traditional_chinese ep006_sim_02_49f95b94:
 
-    # yve "Yes!"
-    yve ""
 
-# game/episode006.rpy:2166
+    yve "是！"
+
+
 translate traditional_chinese ep006_sim_02_28105156:
 
-    # woman2 "Yes, what?!"
-    woman2 ""
 
-# game/episode006.rpy:2168
+    woman2 "是，什麼？！"
+
+
 translate traditional_chinese ep006_sim_02_b455e77b:
 
-    # "The Mistress suddenly rammed the full length of the dildo inside the other woman's asshole."
-    ""
 
-# game/episode006.rpy:2169
+    "女主人突然將整個假陽具猛地插進女人的屁眼裡。"
+
+
 translate traditional_chinese ep006_sim_02_7917f805:
 
-    # yve "Ahh!{w} Yes, mistress."
-    yve ""
 
-# game/episode006.rpy:2170
+    yve "啊！{w}是，女主人。"
+
+
 translate traditional_chinese ep006_sim_02_045c42ab:
 
-    # "Satisfied by the answer, the Mistress continued fucking the slave's ass with the dildo."
-    ""
 
-# game/episode006.rpy:2172
+    "對這回答滿意，女主人繼續用假陽具操奴隸的屁股。"
+
+
 translate traditional_chinese ep006_sim_02_9d4403a9:
 
-    # woman2 "Tell me you love getting fucked like this."
-    woman2 ""
 
-# game/episode006.rpy:2173
+    woman2 "告訴我你喜歡被這樣操。"
+
+
 translate traditional_chinese ep006_sim_02_ccbad0fb:
 
-    # yve "I love it, mistress!"
-    yve ""
 
-# game/episode006.rpy:2174
+    yve "我愛死它了，女主人！"
+
+
 translate traditional_chinese ep006_sim_02_4e52b883:
 
-    # yve "I love it!"
-    yve ""
 
-# game/episode006.rpy:2175
+    yve "我愛死它了！"
+
+
 translate traditional_chinese ep006_sim_02_f00e60f8:
 
-    # woman2 "Good girl."
-    woman2 ""
 
-# game/episode006.rpy:2176
+    woman2 "好女孩。"
+
+
 translate traditional_chinese ep006_sim_02_a74fd788:
 
-    # woman2 "You're allowed to cum."
-    woman2 ""
 
-# game/episode006.rpy:2178
+    woman2 "允許你泄了。"
+
+
 translate traditional_chinese ep006_sim_02_deac4bb1:
 
-    # "Using her fingers, it took just a few flicks of the blonde woman's clit and she convulsed violently."
-    ""
 
-# game/episode006.rpy:2179
+    "用手指輕彈了幾下金髮女人的陰蒂，她就猛烈地抽搐起來。"
+
+
 translate traditional_chinese ep006_sim_02_9ff1c556:
 
-    # "The strength of her orgasm nearly made the dominant woman lose grip on the dildo, but she managed to keep fucking the slave's ass while she climaxed wildly."
-    ""
 
-# game/episode006.rpy:2181
+    "高潮的力道差點讓主導的女人抓不住手中的假陽具，但她還是設法在奴隸瘋狂到達高潮時繼續操她的屁股。"
+
+
 translate traditional_chinese ep006_sim_02_a9df961a:
 
-    # "Completely spent, the blonde woman collapsed to the floor, the dildo still sticking out of her ass."
-    ""
 
-# game/episode006.rpy:2184
+    "完全精疲力竭的金髮女人癱倒在地板上，假陽具還插在她屁股裏。"
+
+
 translate traditional_chinese ep006_sim_02_6bfda001:
 
-    # "That's when the lights blinked out and moments later I was alone in my chair again, my boner still raging between my legs."
-    ""
 
-# game/episode006.rpy:2195
+    "就在這時燈滅了，片刻後我又獨自坐在椅子上，雙腿間的老二還硬得要命。"
+
+
 translate traditional_chinese ep006_sim_03_83d1282d:
 
-    # "The slave lay helpless on the floor, her arms and legs spread wide, while her captor circled her."
-    ""
 
-# game/episode006.rpy:2196
+    "奴隸無助地躺在地板上，手臂和腿張得大開，而她的捕獲者圍着她轉。"
+
+
 translate traditional_chinese ep006_sim_03_8c5230b0:
 
-    # "The whip flashed multiple times and left marks on the blonde woman's breasts and her inner thighs."
-    ""
 
-# game/episode006.rpy:2197
+    "鞭子閃了多次，在金髮女人的乳房和大腿內側留下了印記。"
+
+
 translate traditional_chinese ep006_sim_03_c8fbb229:
 
-    # woman2 "You're going to satisfy me with that whore mouth of yours again."
-    woman2 ""
 
-# game/episode006.rpy:2199
+    woman2 "你要再一次用你那騷嘴來滿足我。"
+
+
 translate traditional_chinese ep006_sim_03_73b5fd72:
 
-    # yve "Yes, mistress."
-    yve ""
 
-# game/episode006.rpy:2201
+    yve "是，女主人。"
+
+
 translate traditional_chinese ep006_sim_03_d4941165:
 
-    # "Without giving her slave time to adjust, the Mistress squatted on the woman's face."
-    ""
 
-# game/episode006.rpy:2202
+    "沒給奴隸時間適應，女主人就蹲在了女人的臉上。"
+
+
 translate traditional_chinese ep006_sim_03_a08e8edb:
 
-    # woman2 "Lick!"
-    woman2 ""
 
-# game/episode006.rpy:2203
+    woman2 "舔！"
+
+
 translate traditional_chinese ep006_sim_03_ae4f9ade:
 
-    # woman2 "That's right!"
-    woman2 ""
 
-# game/episode006.rpy:2204
+    woman2 "對了！"
+
+
 translate traditional_chinese ep006_sim_03_84089f03:
 
-    # woman2 "Faster!"
-    woman2 ""
 
-# game/episode006.rpy:2206
+    woman2 "快點！"
+
+
 translate traditional_chinese ep006_sim_03_4e70c60c:
 
-    # "I heard the blonde woman slobber and suck eagerly at her mistress' cunt."
-    ""
 
-# game/episode006.rpy:2208
+    "我聽見金髮女子貪婪地舔舐吮吸着她女主人的私處。"
+
+
 translate traditional_chinese ep006_sim_03_3d1dd5d7:
 
-    # "The squatting woman rocked back and forth while amusing herself by playing with the breasts of her prisoner."
-    ""
 
-# game/episode006.rpy:2209
+    "蹲着的女人前後搖晃着，一邊玩弄俘虜的胸脯自得其樂。"
+
+
 translate traditional_chinese ep006_sim_03_d5bcf4e1:
 
-    # "I saw the blonde woman's cunt starting to glisten in the spotlight, as she became more and more aroused."
-    ""
 
-# game/episode006.rpy:2210
+    "我看到金髮女子的私處在聚光燈下開始溼潤發亮，她變得越來越亢奮。"
+
+
 translate traditional_chinese ep006_sim_03_2ca5cb2c:
 
-    # woman2 "Deeper!"
-    woman2 ""
 
-# game/episode006.rpy:2211
+    woman2 "再深一點！"
+
+
 translate traditional_chinese ep006_sim_03_77aa4aff:
 
-    # woman2 "Make me cum with that slutty mouth of yours."
-    woman2 ""
 
-# game/episode006.rpy:2213
+    woman2 "用你那浪蕩的小嘴讓我高潮。"
+
+
 translate traditional_chinese ep006_sim_03_76060f7f:
 
-    # "The Mistress pressed her wet gash even more forceful on her slave's mouth."
-    ""
 
-# game/episode006.rpy:2215
+    "女主人將她溼漉漉的陰戶更用力地壓在奴隸嘴上。"
+
+
 translate traditional_chinese ep006_sim_03_fae9d957:
 
-    # "She kneaded the blonde woman's large breasts, leaving aggressive marks in the luscious flesh."
-    ""
 
-# game/episode006.rpy:2216
+    "她揉捏着金髮女子豐滿的胸脯，在雪白肌膚上留下施虐的印記。"
+
+
 translate traditional_chinese ep006_sim_03_2aa193e4:
 
-    # "The wet sounds of the woman's tongue lapping at the Mistress' cunt were muffled now, but the slave's fervor didn't seem diminished."
-    ""
 
-# game/episode006.rpy:2217
+    "女人舔舐女主人陰戶的淫靡水聲此刻變得沉悶，但奴隸的狂熱似乎絲毫未減。"
+
+
 translate traditional_chinese ep006_sim_03_fac772f5:
 
-    # woman2 "Yes!{w} Yes!{w} Oh yes!"
-    woman2 ""
 
-# game/episode006.rpy:2219
+    woman2 "對！{w}對！{w}噢對！"
+
+
 translate traditional_chinese ep006_sim_03_f956c482:
 
-    # "The Mistress began to shudder and a torrent of ejaculate squirted out of her mound, drenching the slave's body."
-    ""
 
-# game/episode006.rpy:2221
+    "女主人開始顫抖，洶湧的蜜汁從她私處噴湧而出，淋溼了奴隸的身體。"
+
+
 translate traditional_chinese ep006_sim_03_571654d5:
 
-    # "Her face was flooded with pussy juice and she drank eagerly while her mistress moaned loudly."
-    ""
 
-# game/episode006.rpy:2222
+    "她臉上滿是愛液卻仍饑渴啜飲，女主人的嬌喘聲在浴室裏迴蕩。"
+
+
 translate traditional_chinese ep006_sim_03_03111b4f:
 
-    # "Only when the blonde slave had cleaned the other woman's dripping slit was she allowed to sit up and breathe freely."
-    ""
 
-# game/episode006.rpy:2224
+    "直到金髮奴隸將對方滴水的私處舔淨，才被允許坐起身自由呼吸。"
+
+
 translate traditional_chinese ep006_sim_03_827b9594:
 
-    # woman2 "Good work, little whore."
-    woman2 ""
 
-# game/episode006.rpy:2227
+    woman2 "幹得好，小賤貨。"
+
+
 translate traditional_chinese ep006_sim_03_c620064b:
 
-    # "The women suddenly disappeared and I was alone in the chair again."
-    ""
 
-# game/episode006.rpy:2235
+    "兩個女人忽然消失，我又獨自坐在椅子上。"
+
+
 translate traditional_chinese ep006_aven_shower_6efb30ee:
 
-    # "Aven was resting against one of the walls of the shower, her legs spread."
-    ""
 
-# game/episode006.rpy:2236
+    "艾文正叉開雙腿靠在淋浴間的牆壁上。"
+
+
 translate traditional_chinese ep006_aven_shower_1fa92f91:
 
-    # "She had her eyes closed and rocked back and forth while her fingers massaged her slit."
-    ""
 
-# game/episode006.rpy:2237
+    "她閉眼前後晃動着身體，手指揉弄着自己的私處。"
+
+
 translate traditional_chinese ep006_aven_shower_d5b590b0:
 
-    # "Her moans were louder now and she whispered softly."
-    ""
 
-# game/episode006.rpy:2239
+    "她的呻吟愈發響亮，還夾雜着輕柔的呢喃。"
+
+
 translate traditional_chinese ep006_aven_shower_c2fd6fb8:
 
-    # "She massaged one of her firm breasts, twisting her hard nipples between thumb and finger."
-    ""
 
-# game/episode006.rpy:2241
+    "她撫弄着自己堅挺的乳房，用拇指和食指捻弄發硬的乳頭。"
+
+
 translate traditional_chinese ep006_aven_shower_db3dc4de:
 
-    # av "Mmmm, oh yes, touch me there...{w} oh!"
-    av ""
 
-# game/episode006.rpy:2242
+    av "嗯嗯，對，就是那裡...{w}啊！"
+
+
 translate traditional_chinese ep006_aven_shower_60b1ee4b:
 
-    # "It almost seemed as if she was imagining someone else touching her intimately."
-    ""
 
-# game/episode006.rpy:2244
+    "她仿佛正想象着別人在愛撫她的身體。"
+
+
 translate traditional_chinese ep006_aven_shower_1f6019e9:
 
-    # "Two fingers were now lingering in the vicinity of her clitoris."
-    ""
 
-# game/episode006.rpy:2246
+    "此刻她的兩根手指正流連在陰蒂周圍。"
+
+
 translate traditional_chinese ep006_aven_shower_148c2432:
 
-    # "When she applied pressure, Aven gasped, her eyes still closed and her hand still massaging her breast."
-    ""
 
-# game/episode006.rpy:2247
+    "當手指用力時艾文猛然抽氣，雙眼緊閉，揉胸的手卻未停歇。"
+
+
 translate traditional_chinese ep006_aven_shower_718cf991:
 
-    # av "Right there...{w} mmmmm!"
-    av ""
 
-# game/episode006.rpy:2249
+    av "就是那兒...{w}嗯哼！"
+
+
 translate traditional_chinese ep006_aven_shower_128dce78:
 
-    # "The girl was now bringing herself ever closer to her inevitable climax."
-    ""
 
-# game/episode006.rpy:2251
+    "此刻女孩離那無可避免的高潮越來越近了。"
+
+
 translate traditional_chinese ep006_aven_shower_ba65b11c:
 
-    # "Her breathing became labored as the juices from her pussy mixed with the water of the shower still pearling her skin."
-    ""
 
-# game/episode006.rpy:2252
+    "淋浴的水珠還掛在她肌膚上，而她下體滲出的汁液混在其中，令她的呼吸變得愈發急促。"
+
+
 translate traditional_chinese ep006_aven_shower_4b594ff9:
 
-    # av "Yes! Touch me right there!"
-    av ""
 
-# game/episode006.rpy:2253
+    av "對！就是那兒…摸我！"
+
+
 translate traditional_chinese ep006_aven_shower_7703ce8a:
 
-    # av "Right there!"
-    av ""
 
-# game/episode006.rpy:2255
+    av "就是那兒！"
+
+
 translate traditional_chinese ep006_aven_shower_2cda2007:
 
-    # av "Oh [p_name]!"
-    av ""
 
-# game/episode006.rpy:2257
+    av "哦[p_name]！"
+
+
 translate traditional_chinese ep006_aven_shower_58ab19f8:
 
-    # "The mention of my name sent an electric shock through my body."
-    ""
 
-# game/episode006.rpy:2258
+    "聽見我的名字被喊出時，全身像過電般震顫。"
+
+
 translate traditional_chinese ep006_aven_shower_4c7ab9fc:
 
-    # "All the while she'd been thinking of me..."
-    ""
 
-# game/episode006.rpy:2259
+    "原來她全程都在想着我…"
+
+
 translate traditional_chinese ep006_aven_shower_7e8acc4f:
 
-    # "She'd been acting strange ever since Lilly and I entered the cell, but was that enough to explain this behavior?"
-    ""
 
-# game/episode006.rpy:2261
+    "自從我和莉莉進了牢房她就舉止反常——但這就解釋得了她此刻的行爲嗎？"
+
+
 translate traditional_chinese ep006_aven_shower_bcf7d5ad:
 
-    # "Aven let out a very restrained moan as her body shuddered against the wall."
-    ""
 
-# game/episode006.rpy:2262
+    "艾文抵着牆壁渾身顫慄，喉間擠出極度壓抑的呻吟。"
+
+
 translate traditional_chinese ep006_aven_shower_877c74b0:
 
-    # "She climaxed with my name on her lips."
-    ""
 
-# game/episode006.rpy:2264
+    "她念着我的名字攀上高潮。"
+
+
 translate traditional_chinese ep006_aven_shower_ddd52310:
 
-    # "As she sat there, her hand still between her legs, I decided it was safer to slip back into my bed."
-    ""
 
-# game/episode006.rpy:2273
+    "看她仍岔開雙腿坐在地上，我決定悄聲溜回牀上更穩妥。"
+
+
 translate traditional_chinese ep006_doctor_sex_5148b937:
 
-    # "When I looked at the doctor, she was unbuttoning her dress."
-    ""
 
-# game/episode006.rpy:2278
+    "轉頭看向女醫生時，她正在解自己的衣裙紐扣。"
+
+
 translate traditional_chinese ep006_doctor_sex_fef76619:
 
-    # "My cock already stirred when the dress fell to her ankles."
-    ""
 
-# game/episode006.rpy:2279
+    "當連衣裙滑落腳踝的瞬間，我胯下雞巴已悄然挺立。"
+
+
 translate traditional_chinese ep006_doctor_sex_6f9f2d31:
 
-    # chrone "Time to show me if you can deliver on those promises."
-    chrone ""
 
-# game/episode006.rpy:2281
+    chrone "該讓我驗收你的承諾是否能兌現了。"
+
+
 translate traditional_chinese ep006_doctor_sex_bed522b4:
 
-    # "Eyeing her naked body, I quickly undressed myself."
-    ""
 
-# game/episode006.rpy:2282
+    "盯着她赤裸的胴體，我迅速褪盡衣物。"
+
+
 translate traditional_chinese ep006_doctor_sex_81b54d58:
 
-    # "I could see a glint of approval when I revealed my hardened cock to her."
-    ""
 
-# game/episode006.rpy:2283
+    "當我向她展示挺立的陽具時，瞥見了她眼中讚許的微光。"
+
+
 translate traditional_chinese ep006_doctor_sex_9fce1da5:
 
-    # "With two steps I crossed the distance between her and me."
-    ""
 
-# game/episode006.rpy:2285
+    "兩個箭步就跨過和她之間的空隙。"
+
+
 translate traditional_chinese ep006_doctor_sex_c76bf970:
 
-    # "I seized her arms and spun her around, forcing her to lean on the examination chair."
-    ""
 
-# game/episode006.rpy:2287
+    "我鉗住她的雙臂將她旋身壓住，迫使她弓身趴在診療椅上。"
+
+
 translate traditional_chinese ep006_doctor_sex_ab5a5989:
 
-    # "She gasped when I shoved her legs apart and felt between them with my fingers."
-    ""
 
-# game/episode006.rpy:2288
+    "當我分開她的雙腿用手指探入時，她猛地倒吸了口氣。"
+
+
 translate traditional_chinese ep006_doctor_sex_b14a1d55:
 
-    # c "You're wet, doctor."
-    c ""
 
-# game/episode006.rpy:2290
+    c "你溼透了，醫生。"
+
+
 translate traditional_chinese ep006_doctor_sex_7126bcce:
 
-    # "The woman only gasped, because she felt the tip of my dick against her moist lips."
-    ""
 
-# game/episode006.rpy:2292
+    "這女人只能喘着氣——因爲我的龜頭正抵住她溼漉漉的脣瓣。"
+
+
 translate traditional_chinese ep006_doctor_sex_6d95fdce:
 
-    # "Holding her flanks, I parted her lower lips with the tip of my cock and speared her pussy in one swift motion."
-    ""
 
-# game/episode006.rpy:2293
+    "握住她的髖部，我用陽具尖端挑開兩片嫩肉，猛一發力貫穿她的肉穴。"
+
+
 translate traditional_chinese ep006_doctor_sex_51f7d323:
 
-    # "She clenched her teeth as my balls slapped against her soft flesh."
-    ""
 
-# game/episode006.rpy:2294
+    "當我的睾丸拍打在她柔軟的下體時，她死死咬緊牙關。"
+
+
 translate traditional_chinese ep006_doctor_sex_ea9e53e3:
 
-    # c "How does that feel, doctor?"
-    c ""
 
-# game/episode006.rpy:2296
+    c "這滋味如何啊，醫生？"
+
+
 translate traditional_chinese ep006_doctor_sex_da829244:
 
-    # "I didn't wait for her answer, but started fucking her hard."
-    ""
 
-# game/episode006.rpy:2297
+    "我沒有等她的回答，而是開始用力幹她。"
+
+
 translate traditional_chinese ep006_doctor_sex_acfeab02:
 
-    # "The woman had to steady herself against the creaking chair, her hands buried deeply in the leather cushions."
-    ""
 
-# game/episode006.rpy:2299
+    "那個女人不得不靠在吱嘎作響的椅子上穩住身子，她的手深深埋入皮革墊子裡。"
+
+
 translate traditional_chinese ep006_doctor_sex_88bd2662:
 
-    # "Because of the violence of my thrusts, her moans came out haltingly, as if she were stuttering."
-    ""
 
-# game/episode006.rpy:2300
+    "由於我抽插的猛烈程度，她的呻吟聲斷斷續續，仿佛結巴了一樣。"
+
+
 translate traditional_chinese ep006_doctor_sex_e0c19877:
 
-    # "The guards still had their backs turned towards us and remained silent."
-    ""
 
-# game/episode006.rpy:2301
+    "警衛們依然背對着我們，保持沉默。"
+
+
 translate traditional_chinese ep006_doctor_sex_1d2d6ff8:
 
-    # "The only thing that could be heard where the doctor's moans and the sounds of my cock plunging wetly into her depths."
-    ""
 
-# game/episode006.rpy:2303
+    "唯一能聽到的地方是醫生的呻吟聲，以及我的雞巴溼漉漉地刺入她深處的聲響。"
+
+
 translate traditional_chinese ep006_doctor_sex_86b12a4d:
 
-    # "I grabbed her braids and pulled her towards me, her back straining to arch towards me."
-    ""
 
-# game/episode006.rpy:2305
+    "我抓住她的辮子，把她拉向我，她的背緊繃着朝我弓起。"
+
+
 translate traditional_chinese ep006_doctor_sex_a8200921:
 
-    # "Holding her upper body in a strangled embrace, I buried my cock to the root inside her cunt."
-    ""
 
-# game/episode006.rpy:2307
+    "用窒息般的擁抱按住她的上半身，我把雞巴埋到她的逼裏直到根部。"
+
+
 translate traditional_chinese ep006_doctor_sex_b0e95a1d:
 
-    # "The doctor's panting and moans were tinged with a raw edge of pain, but she allowed me keep fucking her mercilessly."
-    ""
 
-# game/episode006.rpy:2308
+    "醫生的喘息和呻吟帶着一種隱隱的疼痛，但她允許我繼續毫不留情地操她。"
+
+
 translate traditional_chinese ep006_doctor_sex_2ac72686:
 
-    # c "Do you like that pain, doc?"
-    c ""
 
-# game/episode006.rpy:2310
+    c "你喜歡那種痛嗎，醫生？"
+
+
 translate traditional_chinese ep006_doctor_sex_67774d3a:
 
-    # chrone "I...{w} I...{w} I fucking love it!"
-    chrone ""
 
-# game/episode006.rpy:2311
+    chrone "我...{w}我...{w}我他媽的超喜歡！"
+
+
 translate traditional_chinese ep006_doctor_sex_cca0abd8:
 
-    # chrone "Keep fucking me with that hard dick!"
-    chrone ""
 
-# game/episode006.rpy:2313
+    chrone "繼續用那根硬雞巴幹我！"
+
+
 translate traditional_chinese ep006_doctor_sex_8f26a3b2:
 
-    # "I had no intention of doing otherwise, but right at that moment my cock slipped from her wet gash."
-    ""
 
-# game/episode006.rpy:2314
+    "我本就不打算做別的，但就在那一刻我的雞巴從她溼滑的縫裡滑了出來。"
+
+
 translate traditional_chinese ep006_doctor_sex_85595d8c:
 
-    # chrone "Put it back in, quickly!"
-    chrone ""
 
-# game/episode006.rpy:2321
+    chrone "快點插回去！"
+
+
 translate traditional_chinese ep006_doctor_sex_c5d398ac:
 
-    # "I was about to stuff her pussy again, when I got a better idea."
-    ""
 
-# game/episode006.rpy:2323
+    "我正要再次塞進她的逼裏，這時我有了更好的主意。"
+
+
 translate traditional_chinese ep006_doctor_sex_dcb4bf25:
 
-    # "Forcing her lower body down, I pushed against the folds of her anus."
-    ""
 
-# game/episode006.rpy:2325
+    "按低她的下半身，我推向她肛門的褶皺。"
+
+
 translate traditional_chinese ep006_doctor_sex_7f1fb118:
 
-    # chrone "Wrong entrance!"
-    chrone ""
 
-# game/episode006.rpy:2326
+    chrone "入口錯了！"
+
+
 translate traditional_chinese ep006_doctor_sex_b4409624:
 
-    # "The doctor tried to guide my cock inside her pussy again, but I slapped her hand away."
-    ""
 
-# game/episode006.rpy:2328
+    "醫生試圖引導我的雞巴再次進入她的逼裏，但我拍開了她的手。"
+
+
 translate traditional_chinese ep006_doctor_sex_9552ae32:
 
-    # "Grabbing her arms together, I stuffed my throbbing cock inside her asshole."
-    ""
 
-# game/episode006.rpy:2329
+    "抓住她的胳膊合在一起，我把勃動的雞巴塞進她的屁眼裡。"
+
+
 translate traditional_chinese ep006_doctor_sex_534e713f:
 
-    # "The woman yelped in pain as the first inches slid inside her and she tried speak."
-    ""
 
-# game/episode006.rpy:2330
+    "當最初的幾英寸滑入她體內時，那個女人痛得叫了起來，她試圖說話。"
+
+
 translate traditional_chinese ep006_doctor_sex_034f3156:
 
-    # "Whatever she wanted to say got lost as my entire length disappeared into her rectum."
-    ""
 
-# game/episode006.rpy:2331
+    "她無論想說什麼，都隨着我整根消失在直腸裏而消失了。"
+
+
 translate traditional_chinese ep006_doctor_sex_4b7062d7:
 
-    # "Instead she tried to back away and let my cock slip from her ass."
-    ""
 
-# game/episode006.rpy:2332
+    "反而她試圖後退，讓我的雞巴從她屁股裏滑出。"
+
+
 translate traditional_chinese ep006_doctor_sex_2cefec47:
 
-    # "I wouldn't let her."
-    ""
 
-# game/episode006.rpy:2334
+    "我不會讓她這樣做的。"
+
+
 translate traditional_chinese ep006_doctor_sex_5f792dac:
 
-    # "So I held her down and started to thrust."
-    ""
 
-# game/episode006.rpy:2335
+    "所以我按住她並開始抽插。"
+
+
 translate traditional_chinese ep006_doctor_sex_04800e68:
 
-    # "The first few attempts I encountered too much friction, but by the fourth trust she relaxed her asshole and I slid in and out with ease."
-    ""
 
-# game/episode006.rpy:2337
+    "前幾次嘗試我遇到太多摩擦，但到第四次信任時她放鬆了屁眼兒，我輕鬆地進進出出。"
+
+
 translate traditional_chinese ep006_doctor_sex_3306fa15:
 
-    # chrone "Fuck!{w} You're so big."
-    chrone ""
 
-# game/episode006.rpy:2338
+    chrone "操！{w} 你太大了。"
+
+
 translate traditional_chinese ep006_doctor_sex_c08ab861:
 
-    # chrone "You're burning me up!"
-    chrone ""
 
-# game/episode006.rpy:2340
+    chrone "你讓我慾火中燒！"
+
+
 translate traditional_chinese ep006_doctor_sex_bc34b78f:
 
-    # "Her ass was still tight as hell, but I could fuck her as deeply as before, no doubt helped by her pussy juice coating my dick."
-    ""
 
-# game/episode006.rpy:2342
+    "她的屁股還是緊得要命，但我能像之前那樣深插她，這無疑多得她的屄水裹着我的雞巴。"
+
+
 translate traditional_chinese ep006_doctor_sex_e0053171:
 
-    # "Getting a little tired of remaining in the same position, I shoved her on top of me while I sat down on the chair."
-    ""
 
-# game/episode006.rpy:2344
+    "我有點膩了待在同個姿勢，於是坐在椅子上把她推到我上面。"
+
+
 translate traditional_chinese ep006_doctor_sex_fb1e9988:
 
-    # "She was forced to ride me cowgirl, my cock still firmly rooted inside her ass."
-    ""
 
-# game/episode006.rpy:2345
+    "她被迫用女上位騎我，我的雞巴還深深插在她屁股裏。"
+
+
 translate traditional_chinese ep006_doctor_sex_dfdac521:
 
-    # "Her firm butt hit on my stomach time and time again, until my cock began to twitch."
-    ""
 
-# game/episode006.rpy:2351
+    "她結實的屁股一次次撞在我肚子上，直到我的雞巴開始抽動。"
+
+
 translate traditional_chinese ep006_doctor_sex_db7bc209:
 
-    # "Without warning I was about to cum, I held her fast and thrust my cock deep inside her ass and warm cum started to flow in thick waves."
-    ""
 
-# game/episode006.rpy:2354
+    "毫無預警地我快要射了，我死死按住她，把雞巴狠狠插進她屁股深處，熱乎乎的精液開始濃稠湧出。"
+
+
 translate traditional_chinese ep006_doctor_sex_f4bf31d1:
 
-    # "When my cock slipped from her asshole, a stream of cum dripped down on the chair."
-    ""
 
-# game/episode006.rpy:2355
+    "當我雞巴從她屁眼兒滑出時，一股精液滴到椅子上。"
+
+
 translate traditional_chinese ep006_doctor_sex_315913bc:
 
-    # "The doctor rested for a while on the chair, playing with the cum oozing from her butthole."
-    ""
 
-# game/episode006.rpy:2360
+    "醫生在椅子上歇了會兒，玩弄從她肛門滲出的精液。"
+
+
 translate traditional_chinese ep006_doctor_sex_a7a5603c:
 
-    # "Without warning I was about to cum, I pushed her off me and sprayed her butt and lower back with wave after wave of warm cum."
-    ""
 
-# game/episode006.rpy:2361
+    "毫無預警地我快要射了，我推開了她，一浪接一浪噴射熱精液澆滿她屁股和下背。"
+
+
 translate traditional_chinese ep006_doctor_sex_4138b00a:
 
-    # "The doctor rested for a while on the chair, playing with the cum splashed on her body."
-    ""
 
-# game/episode006.rpy:2365
+    "醫生在椅子上歇了會兒，玩弄濺在她身上的精液。"
+
+
 translate traditional_chinese ep006_doctor_sex_a9a37055:
 
-    # "I pushed her flat on her stomach on the chair and re-entered her."
-    ""
 
-# game/episode006.rpy:2366
+    "我把她按平趴在椅子上，重新插進去。"
+
+
 translate traditional_chinese ep006_doctor_sex_457479ed:
 
-    # "Using the full weight of my body, I pinned her down and fucked her with short, aggressive strokes."
-    ""
 
-# game/episode006.rpy:2368
+    "用我全身重量，我壓住她，用短促粗暴的抽插來操她。"
+
+
 translate traditional_chinese ep006_doctor_sex_fa33ce3b:
 
-    # "The force of my thrusts drove her into the leather cushions of the chair and muffled any cries she let out."
-    ""
 
-# game/episode006.rpy:2369
+    "我抽插的力道把她頂進椅子皮革墊子裡，淹沒了她發出的任何叫喊。"
+
+
 translate traditional_chinese ep006_doctor_sex_bb662d01:
 
-    # "She was incredibly wet and I drove my cock deeper and deeper inside of her."
-    ""
 
-# game/episode006.rpy:2370
+    "她溼得驚人，我把雞巴推得越來越深。"
+
+
 translate traditional_chinese ep006_doctor_sex_ca4be0b1:
 
-    # "The doctor struggled under me and tried to get upright."
-    ""
 
-# game/episode006.rpy:2372
+    "醫生在我下面掙扎，想爬起來。"
+
+
 translate traditional_chinese ep006_doctor_sex_0a0c5302:
 
-    # "When I let her, she moaned loudly, almost out of breath."
-    ""
 
-# game/episode006.rpy:2374
+    "我放她起來時，她大聲呻吟着，幾乎喘不過氣。"
+
+
 translate traditional_chinese ep006_doctor_sex_3165461a:
 
-    # chrone "Fuck me!{w} Fuck me harder!"
-    chrone ""
 
-# game/episode006.rpy:2376
+    chrone "操我！{w} 再用力點操我！"
+
+
 translate traditional_chinese ep006_doctor_sex_416c1702:
 
-    # "I pulled the woman on her side to get better access to her large breasts."
-    ""
 
-# game/episode006.rpy:2377
+    "我把女人拉到她側邊，好更方便玩她的大奶子。"
+
+
 translate traditional_chinese ep006_doctor_sex_b10a0bea:
 
-    # "Still driving myself mercilessly inside her wet cunt, I began kneading her breasts."
-    ""
 
-# game/episode006.rpy:2379
+    "我仍在她溼漉漉的嫩穴裏毫不留情地抽插，同時開始揉捏她的雙乳。"
+
+
 translate traditional_chinese ep006_doctor_sex_22c2e8bb:
 
-    # "Her closed eyes blinked open when I pinched and twisted her nipples."
-    ""
 
-# game/episode006.rpy:2380
+    "當我掐擰她的乳頭時，她緊閉的雙眼猛地睜開。"
+
+
 translate traditional_chinese ep006_doctor_sex_54fbd294:
 
-    # chrone "Oh!{w} What are you doing?"
-    chrone ""
 
-# game/episode006.rpy:2382
+    chrone "哦！{w}你幹什麼？"
+
+
 translate traditional_chinese ep006_doctor_sex_146cb315:
 
-    # "I looked her in the eye and slapped her breasts."
-    ""
 
-# game/episode006.rpy:2383
+    "我直視她的雙眼，扇打着她的乳房。"
+
+
 translate traditional_chinese ep006_doctor_sex_431d9661:
 
-    # "She tried to look away, but I grabbed hold of her chin and continued to torment her nipple with my other hand."
-    ""
 
-# game/episode006.rpy:2384
+    "她想別過臉去，但我鉗住她的下巴，另一隻手繼續折磨她的乳頭。"
+
+
 translate traditional_chinese ep006_doctor_sex_8e5370ea:
 
-    # c "I told you this was going to be a hate-fuck."
-    c ""
 
-# game/episode006.rpy:2386
+    c "早就告訴過你，這次會是場恨意十足的性愛。"
+
+
 translate traditional_chinese ep006_doctor_sex_3410072a:
 
-    # chrone "I don't care, just don't stop!"
-    chrone ""
 
-# game/episode006.rpy:2387
+    chrone "我不在乎，只要你別停下！"
+
+
 translate traditional_chinese ep006_doctor_sex_1c36719e:
 
-    # "That was a request I could honor and I kept drilling her cunt as it leaked pussy juice all over her thighs."
-    ""
 
-# game/episode006.rpy:2389
+    "這要求我欣然應允，繼續抽插她不斷淌出蜜汁的嫩穴，汁液浸滿她的大腿。"
+
+
 translate traditional_chinese ep006_doctor_sex_728172bb:
 
-    # "At long last, I knew I was about to cum."
-    ""
 
-# game/episode006.rpy:2394
+    "終於，我意識到自己即將爆發。"
+
+
 translate traditional_chinese ep006_doctor_sex_1bfda6f0:
 
-    # "Without warning I was about to cum, I held her fast and thrust my cock deep inside her vagina and warm cum started to flow in thick waves."
-    ""
 
-# game/episode006.rpy:2397
+    "毫無預警地，我在即將射精時死死按住她，將肉棒深深頂入她陰道，灼熱濃精噴湧而出。"
+
+
 translate traditional_chinese ep006_doctor_sex_03afd984:
 
-    # "When my cock slipped from her wet slit, a stream of cum dripped down on the chair."
-    ""
 
-# game/episode006.rpy:2399
+    "當我的肉棒從她溼滑的肉縫滑出時，一股精液滴落在椅子上。"
+
+
 translate traditional_chinese ep006_doctor_sex_30434966:
 
-    # "The doctor rested for a while on the chair, playing with the cum oozing from her cunt."
-    ""
 
-# game/episode006.rpy:2404
+    "醫生靠在椅中休息，手指撥弄着從嫩穴滲出的精液。"
+
+
 translate traditional_chinese ep006_doctor_sex_37684756:
 
-    # "Without warning I was about to cum, I pulled out of her and coated her back with wave after wave of warm cum."
-    ""
 
-# game/episode006.rpy:2406
+    "毫無預警地，我在射精前拔出陽具，一波波滾燙精液盡數噴灑在她背上。"
+
+
 translate traditional_chinese ep006_doctor_sex_4138b00a_1:
 
-    # "The doctor rested for a while on the chair, playing with the cum splashed on her body."
-    ""
+
+    "醫生靠在椅中休憩，指尖玩弄着濺落在身上的精液。"
 
 translate traditional_chinese strings:
 
-    # game/episode006.rpy:87
+
     old "Barranthis Asteroid Belt"
-    new ""
+    new "巴蘭西斯星小行星帶"
 
-    # game/episode006.rpy:214
+
     old "Ignore the women"
-    new ""
+    new "無視那些女人"
 
-    # game/episode006.rpy:214
+
     old "Look at them"
-    new ""
+    new "看向她們"
 
-    # game/episode006.rpy:283
+
     old "Look at her"
-    new ""
+    new "注視她"
 
-    # game/episode006.rpy:283
+
     old "Leave her to it"
-    new ""
+    new "別管她"
 
-    # game/episode006.rpy:297
+
     old "Remain seated"
-    new ""
+    new "繼續坐着"
 
-    # game/episode006.rpy:324
+
     old "You can have it"
-    new ""
+    new "拿去吧"
 
-    # game/episode006.rpy:324
+
     old "Sleep together"
-    new ""
+    new "一起睡"
 
-    # game/episode006.rpy:407
+
     old "Push her away"
-    new ""
+    new "推開她"
 
-    # game/episode006.rpy:407
+
     old "Pull her closer"
-    new ""
+    new "拉近她"
 
-    # game/episode006.rpy:441
+
     old "Watch"
-    new ""
+    new "看着"
 
-    # game/episode006.rpy:441
+
     old "Think of other things"
-    new ""
+    new "想想別的事情"
 
-    # game/episode006.rpy:567
+
     old "Maybe we're family"
-    new ""
+    new "也許我們是家人"
 
-    # game/episode006.rpy:567
+
     old "Maybe we're friends"
-    new ""
+    new "也許我們是朋友"
 
-    # game/episode006.rpy:567
+
     old "Maybe we're in love"
-    new ""
+    new "也許我們相愛着"
 
-    # game/episode006.rpy:635
+
     old "Let her sleep"
-    new ""
+    new "讓她睡吧"
 
-    # game/episode006.rpy:655
+
     old "Keep holding her"
-    new ""
+    new "繼續抱着她"
 
-    # game/episode006.rpy:856
+
     old "Remain in bed"
-    new ""
+    new "呆在牀上"
 
-    # game/episode006.rpy:893
+
     old "We’re in love"
-    new ""
+    new "我們相愛了"
 
-    # game/episode006.rpy:893
+
     old "I don’t know"
-    new ""
+    new "我不知道"
 
-    # game/episode006.rpy:957
+
     old "Ask about her feelings"
-    new ""
+    new "問問她的感受"
 
-    # game/episode006.rpy:957
+
     old "Ignore her feelings"
-    new ""
+    new "無視她的感受"
 
-    # game/episode006.rpy:982
+
     old "Acknowledge the feeling"
-    new ""
+    new "承認這個感覺"
 
-    # game/episode006.rpy:982
+
     old "Don’t talk about it"
-    new ""
+    new "別談這個了"
 
-    # game/episode006.rpy:1103
+
     old "Dr. Moora"
-    new ""
+    new "穆娜醫生"
 
-    # game/episode006.rpy:1103
+
     old "A doctor at the mysterious science facility where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "在機組成員從巴蘭西斯星逃脫時飛入小行星帶後被關押的神祕科學設施裏的一名醫生。"
 
-    # game/episode006.rpy:1164
+
     old "No (Lie)"
-    new ""
+    new "不(撒謊)"
 
-    # game/episode006.rpy:1216
+
     old "Heightened"
-    new ""
+    new "升高了"
 
-    # game/episode006.rpy:1216
+
     old "Lowered"
-    new ""
+    new "降低了"
 
-    # game/episode006.rpy:1216
+
     old "No change"
-    new ""
+    new "無變化"
 
-    # game/episode006.rpy:1416
+
     old "A doctor at the Höfel MDCL science facility where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "在\"霍菲爾記憶控制實驗室\"科學設施裏的一名醫生，機組成員從巴蘭西斯星逃脫時飛入小行星帶後被關押在那裡。"
 
-    # game/episode006.rpy:1422
-    old "Höfel MDCL"
-    new ""
 
-    # game/episode006.rpy:1422
     old "Location: Heveliun Belt"
-    new ""
+    new "位置：赫維留天體帶"
 
-    # game/episode006.rpy:1422
+
     old "A science facility operated by ConVitæ where the crew was held after flying into an asteroid field as part of their escape from Barranthis."
-    new ""
+    new "由\"康維泰\"運營的科學設施，機組成員從巴蘭西斯星逃脫時飛入小行星帶後被關押在那裡。"
 
-    # game/episode006.rpy:1625
+
     old "Ignore her"
-    new ""
+    new "無視她"
 
-    # game/episode006.rpy:1639
+
     old "Berate her"
-    new ""
+    new "呵斥她"
 
-    # game/episode006.rpy:1738
+
     old "ConVitæ"
-    new ""
+    new "\"康維泰\""
 
-    # game/episode006.rpy:1738
+
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station where [p_name] was part of a voluntary experiment involving simulation research."
-    new ""
+    new "這家研究公司主要致力於開發沉浸式模擬器。公司在\"翠綠\"空間站設有小型辦公室，[p_name]曾在此自願參與模擬研究實驗。"
 
-    # game/episode006.rpy:1738
+
     old "The company also maintained the Höfel MDCL research base where the crew of the Iron Bastard was held against their will and experimented upon."
-    new ""
+    new "該公司還管理着\"霍菲爾記憶控制實驗室\"研究基地，\"鋼鐵私生子\"號機組人員在此遭囚禁並被迫接受實驗。"
 
-    # game/episode006.rpy:1748
+
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station where [p_name] was declined to be part of a voluntary experiment involving simulation research."
-    new ""
+    new "這家研究公司主要致力於開發沉浸式模擬器。公司在\"翠綠\"空間站設有小型辦公室，[p_name]曾拒絕參與此處的沉浸式模擬研究自願實驗。"
 
-    # game/episode006.rpy:1758
+
     old "A research company primarily interested in creating immersive sims. The company had a small office on Verdant Station."
-    new ""
+    new "這家研究公司主要致力於開發沉浸式模擬器，在\"翠綠\"空間站設有小型辦公室。"
 
-    # game/episode006.rpy:1783
+
     old "Bluff"
-    new ""
+    new "虛張聲勢"
 
-    # game/episode006.rpy:1783
+
     old "Intimidate"
-    new ""
+    new "威懾"
 
-    # game/episode006.rpy:1857
+
     old "Close the door"
-    new ""
+    new "關門"
 
-    # game/episode006.rpy:1857
+
     old "Confront the guards"
-    new ""
+    new "對抗守衛"
 
-    # game/episode006.rpy:1879
+
     old "Shoot them"
-    new ""
+    new "開槍射擊"
 
-    # game/episode006.rpy:2316
+
     old "Blowjob"
-    new ""
+    new "口交"
 
-    # game/episode006.rpy:2316
+
     old "Anal"
-    new ""
+    new "肛交"
 
-    # game/episode006.rpy:2316
+
     old "Vaginal"
-    new ""
-
+    new "陰道交"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

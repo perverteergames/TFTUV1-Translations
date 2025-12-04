@@ -1,7860 +1,7860 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-# game/episode012a.rpy:44
+
+
 translate traditional_chinese episode012a_248470f3:
 
-    # centered "{=chapter_heading}EPISODE 12{/=chapter_heading}"
-    centered ""
 
-# game/episode012a.rpy:49
+    centered "{=chapter_heading}第12集{/=chapter_heading}"
+
+
 translate traditional_chinese episode012a_d96288ee:
 
-    # co "You promised me the girl."
-    co ""
 
-# game/episode012a.rpy:51
+    co "你答應過把那女孩交給我。"
+
+
 translate traditional_chinese episode012a_350693bf:
 
-    # er "I did no such thing."
-    er ""
 
-# game/episode012a.rpy:52
+    er "我根本沒做過這種承諾。"
+
+
 translate traditional_chinese episode012a_f33ef276:
 
-    # er "Thanks to your sudden invasion, we had to move fast, accelerate our original plans."
-    er ""
 
-# game/episode012a.rpy:53
+    er "託你們突然入侵的福，我們不得不加速推進原定計劃。"
+
+
 translate traditional_chinese episode012a_fba7c781:
 
-    # er "That’s the only reason why the warrior caste could gain the upper hand for a short while."
-    er ""
 
-# game/episode012a.rpy:55
+    er "這才是戰士團能暫時佔上風的唯一原因。"
+
+
 translate traditional_chinese episode012a_e5efecda:
 
-    # er "We have successfully driven back Rahia and her warriors into the jungle, but the girl has fled with their help."
-    er ""
 
-# game/episode012a.rpy:56
+    er "我們雖成功把拉希婭和她的戰士逼回叢林，但那女孩在他們的協助下逃脫了。"
+
+
 translate traditional_chinese episode012a_a91bffcd:
 
-    # er "Your heavy-handedness-"
-    er ""
 
-# game/episode012a.rpy:58
+    er "都怪你們行事莽——"
+
+
 translate traditional_chinese episode012a_446daea3:
 
-    # co "I couldn’t care less about who’s responsible, it’s imperative we get the girl."
-    co ""
 
-# game/episode012a.rpy:60
+    co "我根本不在乎誰該負責，必須抓住那女孩。"
+
+
 translate traditional_chinese episode012a_dc2f6bca:
 
-    # er "And so we shall."
-    er ""
 
-# game/episode012a.rpy:61
+    er "正該如此。"
+
+
 translate traditional_chinese episode012a_5c66725d:
 
-    # er "I suggest we send out a collective force of my best priestesses and your handmaidens to find their trail."
-    er ""
 
-# game/episode012a.rpy:62
+    er "我建議派遣精英祭司和你的侍女組成聯合部隊追蹤。"
+
+
 translate traditional_chinese episode012a_ba164597:
 
-    # er "We also have warships at our disposal with the ousting of the warrior caste."
-    er ""
 
-# game/episode012a.rpy:64
+    er "驅逐戰士團後，戰艦也歸我們調遣了。"
+
+
 translate traditional_chinese episode012a_1bbfbacf:
 
-    # co "Suggestion noted."
-    co ""
 
-# game/episode012a.rpy:66
+    co "建議收到。"
+
+
 translate traditional_chinese episode012a_262c299c:
 
-    # er "You don’t agree?"
-    er ""
 
-# game/episode012a.rpy:68
+    er "你有異議？"
+
+
 translate traditional_chinese episode012a_613dc453:
 
-    # co "The entire priest caste, you included, will join me on the hunt for the girl."
-    co ""
 
-# game/episode012a.rpy:70
+    co "全體祭司——包括你——都得隨我去追捕那女孩。"
+
+
 translate traditional_chinese episode012a_e3ace908:
 
-    # er "I cannot leave this place."
-    er ""
 
-# game/episode012a.rpy:71
+    er "我不能離開此地。"
+
+
 translate traditional_chinese episode012a_f838b7bd:
 
-    # er "With Erigone in turmoil, we need to solidify our base of power, root out the warrior caste..."
-    er ""
 
-# game/episode012a.rpy:73
+    er "厄裏戈涅星動蕩之際，我們需鞏固權力根基，肅清戰士團..."
+
+
 translate traditional_chinese episode012a_9d24c786:
 
-    # co "Small-minded political games, you disappoint me Erylin."
-    co ""
 
-# game/episode012a.rpy:75
+    co "狹隘的政治把戲，艾瑞琳，你太令我失望了。"
+
+
 translate traditional_chinese episode012a_61b580d1:
 
-    # er "How so?"
-    er ""
 
-# game/episode012a.rpy:77
+    er "此話怎講？"
+
+
 translate traditional_chinese episode012a_ddfa7641:
 
-    # co "I’d thought you a woman of far-sighted intellect, but instead you want to busy yourself with political squabbles on a backwater planet nobody even dares to approach."
-    co ""
 
-# game/episode012a.rpy:78
+    co "本以爲你是個有遠見的智者，結果你卻只想在這無人問津的蠻荒星球搞政治鬥爭。"
+
+
 translate traditional_chinese episode012a_7cca35b3:
 
-    # er "What is your alternative?"
-    er ""
 
-# game/episode012a.rpy:80
+    er "那你的做法呢？"
+
+
 translate traditional_chinese episode012a_df8403d2:
 
-    # er "Chasing some girl across the galaxy, based on the interpretation of some vague prophecy?!"
-    er ""
 
-# game/episode012a.rpy:81
+    er "就憑几句模糊預言，滿星系追捕個小姑娘？!"
+
+
 translate traditional_chinese episode012a_465917a5:
 
-    # co "Didn’t you find, the very same girl, your Virgin Queen, because of another prophecy?"
-    co ""
 
-# game/episode012a.rpy:82
+    co "當初不也是因爲預言，你才找到那個\"處女之王\"的麼？"
+
+
 translate traditional_chinese episode012a_f0376ca5:
 
-    # er "That was a different matter entirely, a political play."
-    er ""
 
-# game/episode012a.rpy:83
+    er "那完全是場政治作秀。"
+
+
 translate traditional_chinese episode012a_42a298b1:
 
-    # er "You, you’re a believer."
-    er ""
 
-# game/episode012a.rpy:84
+    er "而你，是真心信這個的。"
+
+
 translate traditional_chinese episode012a_2b9f3ce6:
 
-    # co "I am."
-    co ""
 
-# game/episode012a.rpy:86
+    co "我是。"
+
+
 translate traditional_chinese episode012a_7ccbce1c:
 
-    # co "And I’m confident you will be too, when you learn of the unbridled power represented by that girl...{w} represented by her genes."
-    co ""
 
-# game/episode012a.rpy:97
+    co "而且我堅信等你見識到那女孩代表的…{w}她基因代表的無上力量後，你也會認同我的。"
+
+
 translate traditional_chinese episode012a_52fc908c:
 
-    # "Reprogramming the Bastard’s signature took a few days until Thyia declared that the ship would probably pass the routine checks commonly in place at security checkpoints."
-    ""
 
-# game/episode012a.rpy:99
+    "重新編程\"私生子\"號的識別信號花了幾天時間，直到塞婭宣布這艘船應該能通過安檢點常規檢查。"
+
+
 translate traditional_chinese episode012a_671e8e9e:
 
-    # "The night before our departure to Kepler, I didn’t get much sleep."
-    ""
 
-# game/episode012a.rpy:100
+    "前往開普勒星的前夜，我幾乎沒合眼。"
+
+
 translate traditional_chinese episode012a_a855d575:
 
-    # "I was certain we’d be captured the minute we entered Sovereignty space."
-    ""
 
-# game/episode012a.rpy:101
+    "我認定只要進入\"至高權域\"領空，我們就會立即被捕。"
+
+
 translate traditional_chinese episode012a_0971cde8:
 
-    # "Or maybe we’d reach the moon’s surface, only to be whisked away by some vigilant security detail."
-    ""
 
-# game/episode012a.rpy:103
+    "說不定剛抵達衛星表面，就會被警戒安保當場拿下。"
+
+
 translate traditional_chinese episode012a_006361e2:
 
-    # "When the morning finally arrived, I hauled myself to the bridge to find Céline already there."
-    ""
 
-# game/episode012a.rpy:105
+    "晨光熹微時，我拖着身子來到艦橋，發現瑟琳早已就位。"
+
+
 translate traditional_chinese episode012a_3b2180f3:
 
-    # ce "Ready?"
-    ce ""
 
-# game/episode012a.rpy:106
+    ce "準備好了嗎？"
+
+
 translate traditional_chinese episode012a_89773762:
 
-    # c "Not really, but let’s do this anyway."
-    c ""
 
-# game/episode012a.rpy:107
+    c "並沒有，但是先幹了再說吧。"
+
+
 translate traditional_chinese episode012a_6d342a2c:
 
-    # ce "Aye-aye."
-    ce ""
 
-# game/episode012a.rpy:109
+    ce "遵命。"
+
+
 translate traditional_chinese episode012a_f6cf063d:
 
-    # "Céline punched in our destination and off we went."
-    ""
 
-# game/episode012a.rpy:111
+    "瑟琳輸入目的地坐標，我們啓程了。"
+
+
 translate traditional_chinese episode012a_502d41b2:
 
-    # "After a series of jumps we arrived at the final gate which would take us inside the Sovereignty."
-    ""
 
-# game/episode012a.rpy:113
+    "連續躍遷後，抵達通往\"至高權域\"境內的最後一道星門。"
+
+
 translate traditional_chinese episode012a_54c76dce:
 
-    # c "If Sovereignty forces destroy us immediately after exiting that gate, I just wanted to say: I love you."
-    c ""
 
-# game/episode012a.rpy:115
+    c "要是剛出星門就被\"至高權域\"部隊轟成渣，我只想說：我愛你。"
+
+
 translate traditional_chinese episode012a_e787ccd1:
 
-    # ce "Oh, how morbid and yet so sweet."
-    ce ""
 
-# game/episode012a.rpy:117
+    ce "哦，多麼病態卻又甜蜜。"
+
+
 translate traditional_chinese episode012a_51f4d4cb:
 
-    # c "If Sovereignty forces destroy us immediately after exiting that gate, I just wanted to say: it was nice knowing you."
-    c ""
 
-# game/episode012a.rpy:119
+    c "要是剛出星門就被\"至高權域\"部隊轟成渣，我只想說：認識你很高興。"
+
+
 translate traditional_chinese episode012a_a9e7a471:
 
-    # ce "Oh, how morbid and yet so thoughtful."
-    ce ""
 
-# game/episode012a.rpy:121
+    ce "哦，多麼病態卻又體貼。"
+
+
 translate traditional_chinese episode012a_e4b73adf:
 
-    # "Céline took the Bastard through the final jumpgate."
-    ""
 
-# game/episode012a.rpy:122
+    "瑟琳操縱\"私生子\"號穿過最後的躍遷門。"
+
+
 translate traditional_chinese episode012a_104f7c26:
 
-    # "I held my breath until we emerged on the other side."
-    ""
 
-# game/episode012a.rpy:124
+    "我屏住呼吸直到艦體完全穿越。"
+
+
 translate traditional_chinese episode012a_73febdd6:
 
-    # "No disciplinary force was waiting for us to take us in, other than the regular Sovereignty defensive troops guarding the gate."
-    ""
 
-# game/episode012a.rpy:125
+    "除了守衛星門的常規\"至高權域\"防禦部隊，並沒有懲戒部隊等着逮捕我們。"
+
+
 translate traditional_chinese episode012a_3e4de243:
 
-    # "A long line of ships was waiting to pass the first checkpoint, Céline steered the Bastard towards the queue."
-    ""
 
-# game/episode012a.rpy:127
+    "安檢口排着長龍，瑟琳將\"私生子\"號駛入等候隊列。"
+
+
 translate traditional_chinese episode012a_0e17f1cb:
 
-    # ce "No total annihilation so far."
-    ce ""
 
-# game/episode012a.rpy:128
+    ce "目前還沒有化爲宇宙塵埃。"
+
+
 translate traditional_chinese episode012a_9a60c2bb:
 
-    # c "Nope."
-    c ""
 
-# game/episode012a.rpy:129
+    c "暫時平安。"
+
+
 translate traditional_chinese episode012a_1c601491:
 
-    # c "We still have to clear that checkpoint though."
-    c ""
 
-# game/episode012a.rpy:131
+    c "但還得通過那個安檢口。"
+
+
 translate traditional_chinese episode012a_4de86c3e:
 
-    # "After the initial excitement of passing the jump-gate unharmed, a long and excruciatingly boring wait began."
-    ""
 
-# game/episode012a.rpy:132
+    "成功穿越躍遷門的短暫興奮過後，開始了漫長又煎熬的無聊等待。"
+
+
 translate traditional_chinese episode012a_92361ec7:
 
-    # "Processing the line of ships took several hours."
-    ""
 
-# game/episode012a.rpy:133
+    "處理排隊等候的飛船花了幾個小時。"
+
+
 translate traditional_chinese episode012a_f1198ecf:
 
-    # "I’d nearly fallen asleep when a bored voice sounded over the internal comms."
-    ""
 
-# game/episode012a.rpy:136
+    "我差點睡着時，一個無聊的聲音在內置通訊器裏響了起來。"
+
+
 translate traditional_chinese episode012a_a07bd56c:
 
-    # woman "State your name and business."
-    woman ""
 
-# game/episode012a.rpy:137
+    woman "報上姓名和來意。"
+
+
 translate traditional_chinese episode012a_63e19dda:
 
-    # c "Captain Idaho of the vessel Sulaco."
-    c ""
 
-# game/episode012a.rpy:138
+    c "蘇拉科號飛船的愛達荷艦長。"
+
+
 translate traditional_chinese episode012a_47c49d46:
 
-    # c "We’re bound for a tourist run to Kepler XIV."
-    c ""
 
-# game/episode012a.rpy:139
+    c "我們此行是前往開普勒14號星的旅遊航行。"
+
+
 translate traditional_chinese episode012a_670a0990:
 
-    # woman "Acknowledged Sulaco.{w} Please standby for verification."
-    woman ""
 
-# game/episode012a.rpy:140
+    woman "收到，蘇拉科號。{w}請等待核實。"
+
+
 translate traditional_chinese episode012a_ec32a2ed:
 
-    # "A moment of silence stretched out for what seemed like hours."
-    ""
 
-# game/episode012a.rpy:141
+    "一陣沉默被拉長得像是過了好幾個小時。"
+
+
 translate traditional_chinese episode012a_018fe1f6:
 
-    # "There was a crackle over the comms and the bored voice returned."
-    ""
 
-# game/episode012a.rpy:142
+    "通訊器裏傳來一陣刺啦聲，那個無聊的聲音又回來了。"
+
+
 translate traditional_chinese episode012a_121ce59f:
 
-    # woman "Sulaco, you may proceed into Sovereignty space, a copy of the rules and regulations governing your visit will be uploaded to your ship shortly."
-    woman ""
 
-# game/episode012a.rpy:143
+    woman "蘇拉科號，你可以進入\"至高權域\"的空間了，有關你方來訪的規章制度副本將很快上傳至你的飛船。"
+
+
 translate traditional_chinese episode012a_21063726:
 
-    # c "Thank you, Sulaco out."
-    c ""
 
-# game/episode012a.rpy:144
+    c "謝謝，蘇拉科號完畢。"
+
+
 translate traditional_chinese episode012a_e9ecc5d6:
 
-    # "A chime announced the receival of the documents mentioned by the Sovereignty official and from that moment we were officially inside enemy territory."
-    ""
 
-# game/episode012a.rpy:146
+    "一聲鈴響宣告收到了那位\"至高權域\"官員提到的文件，從那一刻起我們正式進入了敵方的地盤。"
+
+
 translate traditional_chinese episode012a_0c019a45:
 
-    # "Several more checkpoints followed, each one growing less nerve-wracking."
-    ""
 
-# game/episode012a.rpy:147
+    "接着又過了好幾個檢查站，每一個都沒那麼讓人緊張了。"
+
+
 translate traditional_chinese episode012a_d2a26ecb:
 
-    # "I’d forgotten how disinterested the Sovereignty administration could be."
-    ""
 
-# game/episode012a.rpy:148
+    "我都忘了\"至高權域\"的行政管理會如此漠不關心。"
+
+
 translate traditional_chinese episode012a_4d4e941f:
 
-    # "A physical search would have been a huge problem, as aliens normally weren’t allowed in any Sovereignty controlled territory."
-    ""
 
-# game/episode012a.rpy:149
+    "因爲通常情況下，外星人是不被允許進入任何\"至高權域\"控制的區域的。"
+
+
 translate traditional_chinese episode012a_5570e7f5:
 
-    # "As long as we didn’t raise any red flags, our stay on Kepler would probably be without issues."
-    ""
 
-# game/episode012a.rpy:150
+    "只要我們別惹是生非，在開普勒星的逗留應該就不會有問題。"
+
+
 translate traditional_chinese episode012a_e26cef17:
 
-    # "Ziv would have to stay indoors though, her presence wouldn’t be as easily explained as Jade’s."
-    ""
 
-# game/episode012a.rpy:152
+    "不過基芙得待在室內，她的存在可不像傑德那樣容易解釋過去。"
+
+
 translate traditional_chinese episode012a_7c3d8a5d:
 
-    # "Reaching Kepler’s perimeter took hours and were immediately hailed by an orbital security station."
-    ""
 
-# game/episode012a.rpy:154
+    "花了幾個小時才抵達開普勒星的外圍，立馬被一個軌道安全站呼叫了。"
+
+
 translate traditional_chinese episode012a_ffbfc63f:
 
-    # man "Name."
-    man ""
 
-# game/episode012a.rpy:155
+    man "名字。"
+
+
 translate traditional_chinese episode012a_110b1a41:
 
-    # c "Captain Idaho of the Sulaco."
-    c ""
 
-# game/episode012a.rpy:156
+    c "蘇拉科號的愛達荷艦長。"
+
+
 translate traditional_chinese episode012a_e503ed0f:
 
-    # man "Business or pleasure?"
-    man ""
 
-# game/episode012a.rpy:157
+    man "公事還是娛樂？"
+
+
 translate traditional_chinese episode012a_6e14fb1a:
 
-    # c "Pleasure."
-    c ""
 
-# game/episode012a.rpy:158
+    c "娛樂。"
+
+
 translate traditional_chinese episode012a_1d15b84e:
 
-    # man "Standby."
-    man ""
 
-# game/episode012a.rpy:159
+    man "稍候。"
+
+
 translate traditional_chinese episode012a_c52b2ace:
 
-    # man "Sulaco, you’re good to go."
-    man ""
 
-# game/episode012a.rpy:160
+    man "蘇拉科號，你可以通行了。"
+
+
 translate traditional_chinese episode012a_fc9d63d2:
 
-    # c "Many thanks, Sulaco out."
-    c ""
 
-# game/episode012a.rpy:162
+    c "多謝，蘇拉科號完畢。"
+
+
 translate traditional_chinese episode012a_0f35d945:
 
-    # "The last checkpoint cleared, we started making our descent towards the coordinates Thim gave us."
-    ""
 
-# game/episode012a.rpy:164
+    "最後一個檢查點通過後, 我們開始向蒂姆給我們的坐標下降。"
+
+
 translate traditional_chinese episode012a_fe46a4c8:
 
-    # "The last checkpoint cleared, we started making our descent towards the coordinates Thyia picked for us."
-    ""
 
-# game/episode012a.rpy:166
+    "最後一個檢查點通過後, 我們開始向塞婭爲我們挑選的坐標下降。"
+
+
 translate traditional_chinese episode012a_655fe808:
 
-    # "When Kepler’s golden coasts swept into view, I was once again struck by how beautiful the moon was."
-    ""
 
-# game/episode012a.rpy:167
+    "當開普勒星的金色海岸線映入眼帘時, 我又一次被這顆衛星的美麗所震撼。"
+
+
 translate traditional_chinese episode012a_feff3a10:
 
-    # "Sure, on the surface below the same roiling mixture of corruption and depravity teemed like elsewhere in the Sovereignty, but from up high it sure looked utopian."
-    ""
 
-# game/episode012a.rpy:168
+    "當然, 在下面的地表上, 腐敗和墮落的翻滾混合物照樣洶湧, 就像\"至高權域\"的其他地方一樣, 但從高處看它確實像烏託邦。"
+
+
 translate traditional_chinese episode012a_81bcaecc:
 
-    # "Kepler provided entertainment in a myriad of ways."
-    ""
 
-# game/episode012a.rpy:169
+    "開普勒星以無數種方式提供娛樂。"
+
+
 translate traditional_chinese episode012a_f0b9e4e7:
 
-    # "Families could enjoy the sun and beaches, but if mommy or daddy wanted some less innocent amusements, the many brothels and casinos serviced every need."
-    ""
 
-# game/episode012a.rpy:171
+    "家庭可以享受陽光和海灘, 但如果媽咪或爹地想找些不那麼清白的樂子, 數量龐大的妓院和賭場就能滿足一切需求。"
+
+
 translate traditional_chinese episode012a_16041deb:
 
-    # "Céline took us to a more remote area of the moon, where several large mansions were clustered."
-    ""
 
-# game/episode012a.rpy:172
+    "瑟琳帶我們到衛星的一個更偏遠地區, 那裡聚集着幾座大莊園。"
+
+
 translate traditional_chinese episode012a_fccee1db:
 
-    # "The elite had of course usurped the best beaches on Kepler and built grand estates to enjoy their stay in private."
-    ""
 
-# game/episode012a.rpy:174
+    "精英們當然霸佔了開普勒星上最好的海灘, 並建了豪華莊園來私享他們的停留。"
+
+
 translate traditional_chinese episode012a_a8baf43f:
 
-    # "The Von Skandersfelt estate was one of the largest and remotest on Kepler."
-    ""
 
-# game/episode012a.rpy:176
+    "馮·斯坎德斯菲爾特莊園是開普勒星上最大和最偏遠的莊園之一。"
+
+
 translate traditional_chinese episode012a_e7137156:
 
-    # "The estate was one of the remotest on Kepler."
-    ""
 
-# game/episode012a.rpy:178
+    "該莊園是開普勒星上最偏遠的莊園之一。"
+
+
 translate traditional_chinese episode012a_c79e01d7:
 
-    # "The Bastard cruised towards a large landing pad, which was thankfully devoid of any living thing."
-    ""
 
-# game/episode012a.rpy:180
+    "\"私生子\"號巡航向一個大型登陸場, 謝天謝地那裡空無一人。"
+
+
 translate traditional_chinese episode012a_5d2b0e6e:
 
-    # "Thim had assured us that no support staff would be on call and the codes he provided took care of any security measures."
-    ""
 
-# game/episode012a.rpy:182
+    "蒂姆向我們保證不會有支持人員待命, 他給的代碼能搞定所有安保措施。"
+
+
 translate traditional_chinese episode012a_8664562e:
 
-    # "No support staff came streaming out of the house to welcome us, nor did we encounter security measures."
-    ""
 
-# game/episode012a.rpy:183
+    "沒有支持人員衝出來歡迎我們, 我們也沒碰上任何安保措施。"
+
+
 translate traditional_chinese episode012a_de198cd6:
 
-    # "I’d thought the rich would be more paranoid, but securing a remote coastal estate wasn’t very high on their list of priorities, apparently."
-    ""
 
-# game/episode012a.rpy:184
+    "我本以爲富人會更疑神疑鬼, 但顯然, 確保一個偏遠海濱莊園的安全不是他們的頭等大事。"
+
+
 translate traditional_chinese episode012a_9e20b973:
 
-    # "Kepler also had a very quiet history, nothing ever really happened on the moon."
-    ""
 
-# game/episode012a.rpy:185
+    "開普勒星的歷史也很太平, 衛星上從未真發生過什麼事。"
+
+
 translate traditional_chinese episode012a_9eb2233b:
 
-    # "I was pretty sure we were about to change that."
-    ""
 
-# game/episode012a.rpy:187
+    "我相當確定我們就要改變這點了。"
+
+
 translate traditional_chinese episode012a_2685af58:
 
-    # c "Time to explore our new holiday cottage."
-    c ""
 
-# game/episode012a.rpy:188
+    c "該去探索我們的新度假小屋了。"
+
+
 translate traditional_chinese episode012a_3bcaea33:
 
-    # "We left Céline on the bridge, in case we needed to take off in a hurry."
-    ""
 
-# game/episode012a.rpy:190
+    "我們把瑟琳留在艦橋上, 以防我們要緊急起飛。"
+
+
 translate traditional_chinese episode012a_b42d5d1b:
 
-    # "The grounds of the estate were lush and vaguely reminded me of our own gardens on Tuolovi, but grander in scale."
-    ""
 
-# game/episode012a.rpy:191
+    "莊園的場地鬱鬱蔥蔥，模糊地讓我想起了我們在託洛維星的自家花園，但規模更大。"
+
+
 translate traditional_chinese episode012a_d6aa3455:
 
-    # "The house was surprisingly modern, I’d expected some pastiche of a bygone era, but not everyone seemed enamored with that building style."
-    ""
 
-# game/episode012a.rpy:193
+    "房子出奇地現代，我本以爲會是對過往時代的某種模仿，但不是每個人都迷上那種建築風格。"
+
+
 translate traditional_chinese episode012a_2de1d937:
 
-    # "With the help of Thim, we entered the house."
-    ""
 
-# game/episode012a.rpy:195
+    "在蒂姆的幫助下，我們進入了房子。"
+
+
 translate traditional_chinese episode012a_0e488574:
 
-    # "With the help of Thyia’s lockpicking skills, we entered the house."
-    ""
 
-# game/episode012a.rpy:197
+    "在塞婭的開鎖技能幫助下，我們進入了房子。"
+
+
 translate traditional_chinese episode012a_aa2c7dd4:
 
-    # "Everything was eerily silent and covered in a layer of dust."
-    ""
 
-# game/episode012a.rpy:198
+    "一切都很詭異寂靜，覆蓋着一層灰塵。"
+
+
 translate traditional_chinese episode012a_6bbadc49:
 
-    # c "Make yourselves comfortable boys and girls, we might be here for a while."
-    c ""
 
-# game/episode012a.rpy:200
+    c "讓自己舒服點，夥計們和姑娘們，我們可能會在這兒待一會兒。"
+
+
 translate traditional_chinese episode012a_7bfce62f:
 
-    # "The crew fanned out and explored the building."
-    ""
 
-# game/episode012a.rpy:231
+    "機組成員分散開來，探索了建築物。"
+
+
 translate traditional_chinese ep012a_kepler_conversations_b4d9b843:
 
-    # "The early morning sun woke me."
-    ""
 
-# game/episode012a.rpy:233
+    "清晨的陽光喚醒了我。"
+
+
 translate traditional_chinese ep012a_kepler_conversations_5bc95d9b:
 
-    # "The house was still quiet, with everyone asleep, so I decided to take a stroll through the large garden bordering the estate."
-    ""
 
-# game/episode012a.rpy:234
+    "房子依然安靜，大家都睡着了，所以我決定在莊園邊界的大花園裡散散步。"
+
+
 translate traditional_chinese ep012a_kepler_conversations_17ee5151:
 
-    # "I’d barely stepped foot into the garden when I heard the sound of splashing water."
-    ""
 
-# game/episode012a.rpy:264
+    "我剛踏進花園，就聽見濺水聲。"
+
+
 translate traditional_chinese ep012a_kepler_conversations_be4ae1a5:
 
-    # "Later that evening Aven and I got ready to head downtown and meet Yve."
-    ""
 
-# game/episode012a.rpy:277
+    "那天傍晚晚些時候，艾文和我準備好去市中心見伊芙。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_69acd7ec:
 
-    # c "Nice house."
-    c ""
 
-# game/episode012a.rpy:278
+    c "漂亮的房子。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_e110d072:
 
-    # t "I’m sure my family would call it modest."
-    t ""
 
-# game/episode012a.rpy:279
+    t "我相信我的家人會稱之爲一般般。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_f8246994:
 
-    # c "No happy memories?"
-    c ""
 
-# game/episode012a.rpy:281
+    c "沒有快樂的回憶嗎？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_b40814f9:
 
-    # t "I’m not sure I’ve ever been here."
-    t ""
 
-# game/episode012a.rpy:282
+    t "我不確定我以前來過這裡。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_d619a47c:
 
-    # t "The place looks very similar to the other properties my family owns."
-    t ""
 
-# game/episode012a.rpy:283
+    t "這地方看起來非常像我家擁有的其他地產。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_bec423c8:
 
-    # t "Too much space, too much luxury..."
-    t ""
 
-# game/episode012a.rpy:284
+    t "太多空間，太奢華..."
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a6ef8869:
 
-    # c "I’d thought you’d lavish in your family’s wealth."
-    c ""
 
-# game/episode012a.rpy:286
+    c "我本以爲你會沉溺在你家的財富中。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_44799a76:
 
-    # t "You don’t either, do you?"
-    t ""
 
-# game/episode012a.rpy:287
+    t "你也不這樣，對吧？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_4e17fa21:
 
-    # c "Fair point, but we’re piss-poor compared to the Von Skandersfelts."
-    c ""
 
-# game/episode012a.rpy:288
+    c "說得是，但和馮·斯坎德斯菲爾特家比，我們窮得叮噹響。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_b5454397:
 
-    # t "That’s probably true for a lot of people, which is exactly the problem."
-    t ""
 
-# game/episode012a.rpy:290
+    t "對很多人來說，這可能是真的，這正是問題所在。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_2e597705:
 
-    # t "I was fucking lonely."
-    t ""
 
-# game/episode012a.rpy:291
+    t "我真他媽孤獨。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a4d4764a:
 
-    # t "Which is weird, considering I was surrounded by staff the whole day and had to attend more parties than considered healthy for any sane person."
-    t ""
 
-# game/episode012a.rpy:292
+    t "這很奇怪，因爲我整天都被工作人員包圍着，不得不參加比正常人認爲健康的更多的派對。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_19645c49:
 
-    # t "The fucking vapidness of it all was just mind-boggling."
-    t ""
 
-# game/episode012a.rpy:293
+    t "這一切他媽的空虛簡直令人發瘋。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_40302be9:
 
-    # c "You didn’t have any rich friends?"
-    c ""
 
-# game/episode012a.rpy:294
+    c "你難道沒有什麼富有的朋友嗎？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_eafb0427:
 
-    # t "I knew other rich people, that’s true, but I wouldn’t call them friends."
-    t ""
 
-# game/episode012a.rpy:296
+    t "我認識其他有錢人，那是真的，但我不把他們稱作朋友。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a54fc5e1:
 
-    # t "Mostly, conversation consisted of boasting about what brand of concept car you were driving, or how much money you wasted in some stimulant sim."
-    t ""
 
-# game/episode012a.rpy:297
+    t "大部分時候，談話都是吹噓你開什麼品牌的概念車，或者你在某個刺激模擬遊戲上浪費了多少錢。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_f559102f:
 
-    # t "In the end, it all comes down to how much influence you have, how much you have to spend to stay important."
-    t ""
 
-# game/episode012a.rpy:298
+    t "到頭來，這一切都取決於你有多少影響力，以及你必須花多少錢來保持重要性。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_70e2e714:
 
-    # c "That sounds familiar."
-    c ""
 
-# game/episode012a.rpy:299
+    c "這聽起來很熟悉。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_4cf168c3:
 
-    # c "My father was very preoccupied with his image as an important businessman of noble birth."
-    c ""
 
-# game/episode012a.rpy:300
+    c "我父親很在意他作爲一個出身高貴的重要商人的形象。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_631e2153:
 
-    # c "Looking back at it, he did just about anything to raise his profile, to look more important."
-    c ""
 
-# game/episode012a.rpy:302
+    c "回想起來，他幾乎做了所有事來提升自己的形象，讓自己看起來更顯赫。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_949dee5e:
 
-    # t "That’s why he married a popsinger, probably?"
-    t ""
 
-# game/episode012a.rpy:303
+    t "這就是爲什麼他娶了個流行歌手，可能吧？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_5d150f3f:
 
-    # c "I have no doubt that marrying my mother was another ploy to advance his social status."
-    c ""
 
-# game/episode012a.rpy:304
+    c "我毫不懷疑，娶我母親是另一個提升他社會地位的手段。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_9ae2dbc2:
 
-    # c "Of course, my mother’s career tanked completely after they were married."
-    c ""
 
-# game/episode012a.rpy:306
+    c "當然，我母親的事業在他們結婚後徹底垮了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_cde47e6b:
 
-    # t "Yeah, well, it never changes."
-    t ""
 
-# game/episode012a.rpy:307
+    t "是啊，那從來不會變的。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_094ad4ee:
 
-    # t "There comes a point where you have everything, own everything and still want more."
-    t ""
 
-# game/episode012a.rpy:308
+    t "總會這樣，你擁有一切，掌控一切，卻還想要更多。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a9f0fad5:
 
-    # t "My family is a prime example."
-    t ""
 
-# game/episode012a.rpy:310
+    t "我的家庭就是一個典型的例子。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_1034d9d4:
 
-    # t "I’m sure that if anybody dared to look, some nasty skeletons would come tumbling out of the Von Skandersfelt closet."
-    t ""
 
-# game/episode012a.rpy:311
+    t "我敢肯定，如果有人敢去查，一些齷齪的醜聞會從馮·斯坎德斯菲爾特的壁櫥裏掉出來。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_e5882bc4:
 
-    # c "No doubt."
-    c ""
 
-# game/episode012a.rpy:313
+    c "毫無疑問。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_9fa986eb:
 
-    # t "Anyway, I’m going to enjoy the hell out of the wine cellar that’s stocked with all these crazy vintages."
-    t ""
 
-# game/episode012a.rpy:314
+    t "總之，我要好好享用那個裝滿了所有這些瘋狂陳釀的酒窖。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a61fe48f:
 
-    # t "You’re welcome to join me if you want to."
-    t ""
 
-# game/episode012a.rpy:315
+    t "如果你想來，歡迎加入我。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_c1f19e47:
 
-    # c "Wine-tasting?{w} Lead the way!"
-    c ""
 
-# game/episode012a.rpy:317
+    c "品酒？{w} 帶路！"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_284c1612:
 
-    # "I followed Thim to the wine cellar of the estate where he selected a few nice bottles."
-    ""
 
-# game/episode012a.rpy:318
+    "我跟着蒂姆去了莊園的酒窖，他在那兒挑了幾瓶好酒。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_91d6b6f6:
 
-    # "We tried an impressive array of wines in quick succession."
-    ""
 
-# game/episode012a.rpy:320
+    "我們一連品嘗了一排令人印象深刻的葡萄酒。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_0ed0e139:
 
-    # "Thim and I ignored the spit bucket and finished the entire contents of each bottle quite thoroughly."
-    ""
 
-# game/episode012a.rpy:322
+    "蒂姆和我忽略了吐酒桶，把每瓶酒都喝得一滴不剩。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_174f3400:
 
-    # t "Do you know what you’re going to do about Vess?"
-    t ""
 
-# game/episode012a.rpy:323
+    t "你想好打算怎麼處理薇絲了嗎？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_15b5c979:
 
-    # c "I’m not sure, for now she stays a prisoner."
-    c ""
 
-# game/episode012a.rpy:325
+    c "我不確定，目前她還是個囚犯。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_b4f3febb:
 
-    # t "Her betrayal was a nasty surprise."
-    t ""
 
-# game/episode012a.rpy:326
+    t "她的背叛是個令人不快的意外。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_8aec53f1:
 
-    # c "It sure was."
-    c ""
 
-# game/episode012a.rpy:328
+    c "確實如此。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_55faa0dd:
 
-    # t "I thought she was a friend, but now I’m not so sure."
-    t ""
 
-# game/episode012a.rpy:330
+    t "我以爲她是朋友，但現在我不那麼確定了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_314af9ad:
 
-    # t "I was fucking devastated by her betrayal."
-    t ""
 
-# game/episode012a.rpy:331
+    t "我他媽的被她的背叛搞得徹底崩潰。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_2137acba:
 
-    # c "You two were close?"
-    c ""
 
-# game/episode012a.rpy:333
+    c "你們倆很親密？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_dfe64d3c:
 
-    # t "I thought so, now I’m not so sure."
-    t ""
 
-# game/episode012a.rpy:334
+    t "我原以爲是的，現在可說不準了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a82019d4:
 
-    # c "She says her stay with the crew changed her."
-    c ""
 
-# game/episode012a.rpy:335
+    c "她說和機組成員相處改變了她。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_d32eeb85:
 
-    # c "That it made her unsure of what she had to do for the Confessor."
-    c ""
 
-# game/episode012a.rpy:336
+    c "這讓她不確定該爲\"懺悔者\"做什麼了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_21ef606c:
 
-    # t "Do you believe her?"
-    t ""
 
-# game/episode012a.rpy:337
+    t "你信她嗎？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_59a5b8d9:
 
-    # c "I don’t know..."
-    c ""
 
-# game/episode012a.rpy:338
+    c "我不知道..."
+
+
 translate traditional_chinese ep012_kepler_thim_talk_307fe1aa:
 
-    # c "I mean, she could be saying all those things just to save her own skin."
-    c ""
 
-# game/episode012a.rpy:340
+    c "要我說，她說這些可能完全是爲了自保。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_4f77686e:
 
-    # t "Could be."
-    t ""
 
-# game/episode012a.rpy:342
+    t "有可能。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_a0fac9e8:
 
-    # t "Time will tell, maybe?"
-    t ""
 
-# game/episode012a.rpy:343
+    t "也許時間會證明？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_51bfcd49:
 
-    # t "Or don’t you want to give her a second chance?"
-    t ""
 
-# game/episode012a.rpy:347
+    t "還是說你不想給她第二次機會？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_13312960:
 
-    # c "I might."
-    c ""
 
-# game/episode012a.rpy:348
+    c "我或許會。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_2c642f49:
 
-    # c "I mean, she says she wanted out at some point, because she couldn’t do it anymore."
-    c ""
 
-# game/episode012a.rpy:349
+    c "她說自己中途想過退出，因爲實在幹不下去了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_36633031:
 
-    # c "Apparently she was blackmailed by the Confessor by that point, says he has her mother locked up somewhere."
-    c ""
 
-# game/episode012a.rpy:351
+    c "很明顯那時\"懺悔者\"脅迫了她，說把她母親關在什麼地方。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_6a3c430c:
 
-    # t "Shit."
-    t ""
 
-# game/episode012a.rpy:352
+    t "操。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_825ae430:
 
-    # t "Do you think she’s telling the truth?"
-    t ""
 
-# game/episode012a.rpy:353
+    t "你覺得她說的是真話？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_cbdd5dab:
 
-    # c "She seemed pretty genuine."
-    c ""
 
-# game/episode012a.rpy:354
+    c "她看起來挺真誠的。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_bc12c845:
 
-    # c "It doesn’t erase the fact that she sold us out."
-    c ""
 
-# game/episode012a.rpy:356
+    c "但這改變不了她出賣我們的事實。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_4420e28a:
 
-    # t "I guess that’s true."
-    t ""
 
-# game/episode012a.rpy:359
+    t "確實。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_540a29b7:
 
-    # c "She betrayed us, plain and simple."
-    c ""
 
-# game/episode012a.rpy:360
+    c "她背叛了我們，明明白白的事。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_9efb1b4d:
 
-    # c "No second chances for traitors."
-    c ""
 
-# game/episode012a.rpy:363
+    c "叛徒不配擁有第二次機會。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_dbe164b0:
 
-    # c "But did you think you had a chance with her?"
-    c ""
 
-# game/episode012a.rpy:365
+    c "但你覺得自己有沒有機會拿下她？"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_fbabc5cf:
 
-    # t "Hell, I don’t know."
-    t ""
 
-# game/episode012a.rpy:366
+    t "天啊，我真不知道。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_0c215893:
 
-    # t "I mean, she’s a pretty girl and I thought she enjoyed talking to me."
-    t ""
 
-# game/episode012a.rpy:368
+    t "我是說，她是個漂亮姑娘，我以爲她挺喜歡和我聊天的。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_f8c64063:
 
-    # t "For all I know, she could have been pumping me for information."
-    t ""
 
-# game/episode012a.rpy:370
+    t "搞不好她就是在套我的話呢。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_9ccbf664:
 
-    # "Our conversation turned a little morose after that."
-    ""
 
-# game/episode012a.rpy:371
+    "之後我倆的對話就有點鬱悶了。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_0e016696:
 
-    # "We did get to finish a couple of bottles worth more than the entire estate we were currently occupying, so that put a silver lining on things."
-    ""
 
-# game/episode012a.rpy:372
+    "不過我們確實幹掉了好幾瓶酒——那幾瓶抵得上我們現在所在的整個莊園的價值，也算不幸中的萬幸。"
+
+
 translate traditional_chinese ep012_kepler_thim_talk_7e04b72c:
 
-    # "Thoroughly drunk, we stumbled towards the quarters we assigned ourselves."
-    ""
 
-# game/episode012a.rpy:377
+    "喝得爛醉的我們踉蹌地朝自己分到的房間走去。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_d2cdef92:
 
-    # "Lilly and Eva were sitting in the sun at one of the swimming pools of the estate."
-    ""
 
-# game/episode012a.rpy:379
+    "莉莉和伊娃正坐在莊園某個泳池邊曬太陽。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_a84a7f3e:
 
-    # l "I know we should be searching for Dad and be all grim about it, but I’d much rather relax at this pool for the duration, to be honest."
-    l ""
 
-# game/episode012a.rpy:381
+    l "我知道我們該去找父親，還得整天垂頭喪氣的，不過老實說，我更想在這泳池裡躺平度過這段時間。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_9d2ffb67:
 
-    # l "I know we should be searching for your dad and be all grim about it, but I’d much rather relax at this pool for the duration, to be honest."
-    l ""
 
-# game/episode012a.rpy:382
+    l "我知道我們該去找你父親，還得整天垂頭喪氣的，不過老實說，我更想在這泳池裡躺平度過這段時間。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_db12cc23:
 
-    # c "I think we’ve earned a little downtime."
-    c ""
 
-# game/episode012a.rpy:383
+    c "我覺得我們該稍微喘口氣了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_c63ec6a3:
 
-    # c "We can’t stay here forever though, the risk of someone returning here is too great."
-    c ""
 
-# game/episode012a.rpy:384
+    c "但我們不能永遠待在這兒，這地方太容易被人發現了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_8e93b499:
 
-    # l "I know, but it’s nice to dream."
-    l ""
 
-# game/episode012a.rpy:387
+    l "我知道啊，但做做夢也挺好。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_d1d89747:
 
-    # l "Do you have a plan yet on how to find Dad?"
-    l ""
 
-# game/episode012a.rpy:389
+    l "你有如何找到父親的計劃了嗎？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_dc6c762d:
 
-    # l "Do you have a plan yet on how to find your dad?"
-    l ""
 
-# game/episode012a.rpy:390
+    l "你有如何找到你父親的計劃了嗎？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_8d2f15e2:
 
-    # c "Hit the casinos maybe?"
-    c ""
 
-# game/episode012a.rpy:391
+    c "查查賭場？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_0c1e14df:
 
-    # c "Thing is, I don’t really know where Mom and Dad hung out when we stayed here."
-    c ""
 
-# game/episode012a.rpy:393
+    c "問題是，我真不記得當年住這時父母親常去哪兒混。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_525d47fd:
 
-    # c "We were always together with Aunt Nadya."
-    c ""
 
-# game/episode012a.rpy:395
+    c "我們總跟娜迪亞阿姨待在一塊兒。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_f12f8837:
 
-    # c "We were always together with Nadya."
-    c ""
 
-# game/episode012a.rpy:396
+    c "我們總跟娜迪亞待在一塊兒。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_e446a769:
 
-    # l "I mostly remember Kepler’s beaches, we were all too young to enjoy the nightlife here."
-    l ""
 
-# game/episode012a.rpy:399
+    l "我主要就記得開普勒星的海灘，當年我們都太小，享受不了這兒的夜生活。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_7b764e83:
 
-    # e "Maybe Aunt Nadya knows?"
-    e ""
 
-# game/episode012a.rpy:401
+    e "也許娜迪亞阿姨知道？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_4f147139:
 
-    # e "Maybe Nadya knows?"
-    e ""
 
-# game/episode012a.rpy:402
+    e "也許娜迪亞知道？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_403702ae:
 
-    # c "Yeah, I’ll ask her later."
-    c ""
 
-# game/episode012a.rpy:403
+    c "是啊，我等會兒問問她。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_6279e8ec:
 
-    # c "How do you like your rooms?"
-    c ""
 
-# game/episode012a.rpy:405
+    c "你們房間住得還滿意嗎？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_b63ddb27:
 
-    # l "They’re gigantic!"
-    l ""
 
-# game/episode012a.rpy:407
+    l "大得要命！"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_c288309f:
 
-    # l "I knew Thim was filthy rich, but I didn’t know he was that rich."
-    l ""
 
-# game/episode012a.rpy:409
+    l "我知道蒂姆非常有錢，但不知道他有那麼有錢。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_344daac1:
 
-    # l "I didn’t realize the owners where this rich."
-    l ""
 
-# game/episode012a.rpy:411
+    l "我沒意識到房主這麼有錢。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_8d492bfe:
 
-    # e "Two bathrooms per bedroom seems a little excessive."
-    e ""
 
-# game/episode012a.rpy:412
+    e "每個臥室配兩個衛生間似乎有點過頭了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_80595b25:
 
-    # l "The private beach, several swimming pools, multiple landing pads and the sheer size of the house didn’t strike you as excessive at first glance?"
-    l ""
 
-# game/episode012a.rpy:414
+    l "私人海灘、幾個遊泳池、多個直升機停機坪和房子的巨大規模，第一眼沒讓你覺得過分嗎？"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_b3336059:
 
-    # e "That too, yeah."
-    e ""
 
-# game/episode012a.rpy:416
+    e "是啊，那也過頭了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_aef3fec0:
 
-    # c "There’s a huge VR-room too, maybe we should have some fun there at some point."
-    c ""
 
-# game/episode012a.rpy:418
+    c "還有個大VR房間，也許我們該找時間去那兒玩玩。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_f3bf0e06:
 
-    # l "Oooh yes!{w} I wonder if they have that game we played when we were younger."
-    l ""
 
-# game/episode012a.rpy:419
+    l "哦耶！{w} 我好奇他們有沒有我們小時候玩的那個遊戲。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_6925dc5e:
 
-    # c "I’ll find out."
-    c ""
 
-# game/episode012a.rpy:421
+    c "我去查查看。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_859f0b2b:
 
-    # "Lilly had taken my hand in her enthusiasm and was squeezing it affectionately."
-    ""
 
-# game/episode012a.rpy:422
+    "莉莉在熱情中抓住我的手，還親切地捏着。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_bddb8a23:
 
-    # "I was unable to pull away before Eva’s curious glance brushed over it."
-    ""
 
-# game/episode012a.rpy:424
+    "我在伊娃好奇的目光掃過前沒來得及抽開。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_a6ef2a57:
 
-    # e "You know, guys, I’m happy you two get along so well now."
-    e ""
 
-# game/episode012a.rpy:426
+    e "嘿，夥計們，我很高興你們倆現在這麼合得來。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_0bdcd75f:
 
-    # "Shocked, Lilly yanked away her hand, which made the entire gesture even more suspicious."
-    ""
 
-# game/episode012a.rpy:428
+    "莉莉震驚地猛地抽回手，這讓整個動作更可疑了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_c5f2742c:
 
-    # "Eva didn’t seem to have noticed though, smiling at us both."
-    ""
 
-# game/episode012a.rpy:429
+    "不過伊娃似乎沒注意到，還對我們倆笑。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_974cde26:
 
-    # c "We had a lot of time to talk things over."
-    c ""
 
-# game/episode012a.rpy:430
+    c "我們過去有很多時間來處理好關係。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_2024a4bc:
 
-    # e "Well, I’m glad that you did."
-    e ""
 
-# game/episode012a.rpy:432
+    e "嗯，我很高興你們處理好了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_5097759f:
 
-    # "Eva went back to sun-bathing and as she closed her eyes, Lilly and I exchanged worried glances."
-    ""
 
-# game/episode012a.rpy:433
+    "伊娃回到日光浴上，當她閉上眼睛時，莉莉和我交換了擔憂的眼神。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_ff8314d9:
 
-    # c "Enjoy the sun!"
-    c ""
 
-# game/episode012a.rpy:434
+    c "享受陽光吧！"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_69456e20:
 
-    # e "We will!"
-    e ""
 
-# game/episode012a.rpy:437
+    e "我們會！"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_6c95d8d4:
 
-    # "Lilly mouthed an ‘I love you’, before lying back on her sun bed next to her sister."
-    ""
 
-# game/episode012a.rpy:439
+    "莉莉做了個『我愛你』的口型，然後躺回她妹妹旁邊的太陽椅。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_0e6af69a:
 
-    # "Lilly mouthed an ‘I love you’, before lying back on her sun bed next to her friend."
-    ""
 
-# game/episode012a.rpy:442
+    "莉莉做了個『我愛你』的口型，然後躺回她朋友旁邊的太陽椅。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_95422887:
 
-    # "Both girls went back to sun-bathing as I left them."
-    ""
 
-# game/episode012a.rpy:443
+    "當我離開時，兩個女孩都回到享受日光浴去了。"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_ff8314d9_1:
 
-    # c "Enjoy the sun!"
-    c ""
 
-# game/episode012a.rpy:444
+    c "享受陽光吧！"
+
+
 translate traditional_chinese ep012_kepler_lilly_eva_talk_69456e20_1:
 
-    # e "We will!"
-    e ""
 
-# game/episode012a.rpy:449
+    e "我們會！"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_e0fda7e5:
 
-    # "I’d expected to find Aven somewhere outside in the sun, but she wasn’t."
-    ""
 
-# game/episode012a.rpy:451
+    "我本以爲會在外面陽光下找到艾文，但她不在。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b32e31f8:
 
-    # "After asking around, I found her working out in the gym of the estate."
-    ""
 
-# game/episode012a.rpy:452
+    "打聽了半天，我在莊園的健身房裡發現她正在鍛煉。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_7f94f54c:
 
-    # c "Considering all the running, jumping, shooting and crashing space ships on planets we did, I’d have thought you would want some quiet time."
-    c ""
 
-# game/episode012a.rpy:454
+    c "考慮到所有我們在行星上做的跑跳、射擊和飛船墜毀的破事，我還以爲你會想清淨一會兒。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_168e298d:
 
-    # av "Have to stay in shape."
-    av ""
 
-# game/episode012a.rpy:455
+    av "得保持身材啊。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b365ae78:
 
-    # c "I’m not complaining."
-    c ""
 
-# game/episode012a.rpy:460
+    c "我不是在抱怨。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_53b9cee3:
 
-    # "She noticed me looking at the curves of her body, accentuated by the tight sportswear."
-    ""
 
-# game/episode012a.rpy:462
+    "她發現我在看她身體的曲線，那些被緊身運動服凸顯出來的地方。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_98ca23da:
 
-    # av "Why don’t you join me, instead of perving from a distance."
-    av ""
 
-# game/episode012a.rpy:463
+    av "與其遠遠地偷看，不如加入我吧。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ff2eef49:
 
-    # c "Ouch."
-    c ""
 
-# game/episode012a.rpy:464
+    c "哎喲。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_7b379b6d:
 
-    # c "You want to use me as a punching bag?"
-    c ""
 
-# game/episode012a.rpy:466
+    c "你想把我當沙袋用？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_151e611d:
 
-    # av "Well, it’s up to you of course, but I expect you to defend yourself."
-    av ""
 
-# game/episode012a.rpy:467
+    av "當然，由你決定，但我希望你保護好自己。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_01a1a014:
 
-    # c "Why not."
-    c ""
 
-# game/episode012a.rpy:468
+    c "爲什麼不呢。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_533982a9:
 
-    # c "Though I can’t promise I fight fair."
-    c ""
 
-# game/episode012a.rpy:470
+    c "雖然我不能保證會公平地打。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_6f500b74:
 
-    # av "We’ll see about that."
-    av ""
 
-# game/episode012a.rpy:473
+    av "我們拭目以待。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_561e6f6d:
 
-    # "Aven stowed the punching bag while I prepared myself."
-    ""
 
-# game/episode012a.rpy:475
+    "艾文收起了沙袋，我則在做準備。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_2d043a14:
 
-    # "Once I stepped onto the mat, we both fell into fighting stances."
-    ""
 
-# game/episode012a.rpy:477
+    "我一踏上墊子，我們就都擺出了戰鬥姿勢。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_efb79f69:
 
-    # "I pulled my punches at first, but when I noticed Aven didn’t, I became a little more daring."
-    ""
 
-# game/episode012a.rpy:478
+    "起初我收着點打，但注意到艾文沒留情後，我就大膽了一點兒。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_5930bd6a:
 
-    # "What Aven lacked in weight and power, she made up in speed and agility."
-    ""
 
-# game/episode012a.rpy:480
+    "艾文在體重和力量上不足，但在速度和敏捷上全補回來了。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_50cb78bb:
 
-    # "I landed quite a few punches, but often she was just in time to block me or evade my blows altogether."
-    ""
 
-# game/episode012a.rpy:481
+    "我確實打中了好幾拳，但她常常及時擋開或完全躲開我的攻擊。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_9ee8932c:
 
-    # "Smiling she continued to bait me and wear me out."
-    ""
 
-# game/episode012a.rpy:483
+    "她笑着繼續逗我，把我累趴下。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_aa41cba2:
 
-    # "When that tactic didn’t seem to pay off, she tried to hook her leg around mine to trip me up."
-    ""
 
-# game/episode012a.rpy:484
+    "見這招不見效，她就想勾我的腿絆倒我。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_91dfa5ff:
 
-    # av "Never said I’d fight fair either."
-    av ""
 
-# game/episode012a.rpy:485
+    av "我也沒說過會公平打。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_bfeeb8a3:
 
-    # c "Well, in that case."
-    c ""
 
-# game/episode012a.rpy:487
+    c "那好吧。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_21c6dc94:
 
-    # av "What?!"
-    av ""
 
-# game/episode012a.rpy:488
+    av "什麼？！"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_443c7b5a:
 
-    # av "Hey!"
-    av ""
 
-# game/episode012a.rpy:489
+    av "嘿！"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_51154ce0:
 
-    # av "Hahaha!"
-    av ""
 
-# game/episode012a.rpy:491
+    av "哈哈！"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_6d1c6c4d:
 
-    # "If anyone had seen us at that moment, it would have looked as if we’d just invented some new form of wrestling."
-    ""
 
-# game/episode012a.rpy:492
+    "要是有人那時瞧見我們，八成以爲我倆剛發明了種新式摔跤。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_d4e3942c:
 
-    # "Aven was giggling all the while, while we tried to disentangle ourselves from each other."
-    ""
 
-# game/episode012a.rpy:494
+    "我倆正互相掙脫呢，艾文全程咯咯笑個不停。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_4934983a:
 
-    # "We’d lost our boxing gloves at some point and it didn’t take long before our altercation became sexually charged."
-    ""
 
-# game/episode012a.rpy:496
+    "拳擊手套早不知甩哪兒去了，沒過多久我們倆的扭打就染上性意味。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b920699d:
 
-    # "Aven deliberately rubbed her ass against my groin, while I groped her breasts."
-    ""
 
-# game/episode012a.rpy:498
+    "艾文故意用屁股磨蹭我襠部，我趁機抓捏她的乳房。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_d2ade67c:
 
-    # "We kissed, as my hand disappeared between her legs, feeling her pussy under the thin layer of fabric of her sports clothing."
-    ""
 
-# game/episode012a.rpy:500
+    "我們擁吻時，我的手滑進她雙腿間，隔着薄薄的運動服布料揉弄她的私處。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_96129ede:
 
-    # av "Mmmm, I really like training with you..."
-    av ""
 
-# game/episode012a.rpy:502
+    av "嗯啊…我真喜歡跟你訓練..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_6603ec8f:
 
-    # "I revealed her breasts and dared to slip a hand inside her shorts."
-    ""
 
-# game/episode012a.rpy:503
+    "我扯開她上衣，手大膽鑽進她短褲裏。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_cabde6b5:
 
-    # av "Oh, [p_name], I..."
-    av ""
 
-# game/episode012a.rpy:511
+    av "啊，[p_name]，我..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_2764abab:
 
-    # na "Aven?"
-    na ""
 
-# game/episode012a.rpy:513
+    na "艾文？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_af452f8a:
 
-    # "Nadya’s voice was still far away, but we scrambled to get dressed and appear normal again."
-    ""
 
-# game/episode012a.rpy:514
+    "娜迪亞聲音還遠着，我們卻已手忙腳亂穿好衣服裝沒事。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_9dcfc81f:
 
-    # av "Fuck!{w} Fuck!"
-    av ""
 
-# game/episode012a.rpy:516
+    av "操！{w} 操！"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_9038f5d0:
 
-    # "We’d just fallen back into a half-hearted fighting stance when Nadya entered."
-    ""
 
-# game/episode012a.rpy:518
+    "剛擺出心不在焉的對打姿勢，娜迪亞就推門進來了。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ae2ea625:
 
-    # na "Oh, there you are."
-    na ""
 
-# game/episode012a.rpy:520
+    na "哦，原來你們在這兒。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_882b5d43:
 
-    # na "Is he wearing you out, Aven, you look flustered?"
-    na ""
 
-# game/episode012a.rpy:521
+    na "他把你累壞了吧艾文？瞧你臉紅的。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_d2708711:
 
-    # "Aven’s face reddened even more and I tried to distract Nadya by making a feint."
-    ""
 
-# game/episode012a.rpy:523
+    "艾文臉蛋更燙了，我趕緊做個假動作轉移娜迪亞注意。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b206784f:
 
-    # av "Did you need me for something?"
-    av ""
 
-# game/episode012a.rpy:525
+    av "你找我有事？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_62015d55:
 
-    # na "Yes, could you help me go over some research data later on?"
-    na ""
 
-# game/episode012a.rpy:527
+    na "對啦，待會兒能幫我核對研究數據嗎？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_bae8e437:
 
-    # na "Once you finish training of course, don’t hurry on my part."
-    na ""
 
-# game/episode012a.rpy:529
+    na "當然等你練完再說，不用趕。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_7b7952a2:
 
-    # av "Of course..."
-    av ""
 
-# game/episode012a.rpy:531
+    av "當然可以..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_135dff00:
 
-    # na "I’ll leave you two to it."
-    na ""
 
-# game/episode012a.rpy:533
+    na "不打擾你們啦。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_eb5c2aa8:
 
-    # "Once Nadya was out of earshot, Aven collapsed against the wall."
-    ""
 
-# game/episode012a.rpy:535
+    "娜迪亞剛走遠，艾文就癱靠在牆上。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b34e7a73:
 
-    # av "Fuck, that was so close."
-    av ""
 
-# game/episode012a.rpy:536
+    av "靠，差點露餡。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_a6150db4:
 
-    # c "She could have just messaged you?"
-    c ""
 
-# game/episode012a.rpy:538
+    c "她明明能發消息找你啊？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_0f23f524:
 
-    # av "Yeah, Mom likes to deal with these things in person, for some reason."
-    av ""
 
-# game/episode012a.rpy:540
+    av "是啊，我媽就愛當面說事，也不知爲什麼。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_6c5151a1:
 
-    # av "Yeah, Nadya likes to deal with these things in person, for some reason."
-    av ""
 
-# game/episode012a.rpy:542
+    av "是啊，娜迪亞就愛當面說事，也不知爲什麼。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_be517962:
 
-    # av "Fuck, I’m shaking all over."
-    av ""
 
-# game/episode012a.rpy:543
+    av "媽的，我渾身都在發抖。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ae486232:
 
-    # av "What if she had walked in on us?"
-    av ""
 
-# game/episode012a.rpy:545
+    av "萬一她撞見我們怎麼辦？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_a15f8ceb:
 
-    # c "That would have been hard to explain."
-    c ""
 
-# game/episode012a.rpy:546
+    c "那可就不好解釋了。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_3fc15ae0:
 
-    # c "Are you okay?"
-    c ""
 
-# game/episode012a.rpy:548
+    c "你還好嗎？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ae193711:
 
-    # av "No...{w} Yes..."
-    av ""
 
-# game/episode012a.rpy:550
+    av "不...{w}還好..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_59ab2c57:
 
-    # av "Sometimes I forget that what we’re doing is considered wrong."
-    av ""
 
-# game/episode012a.rpy:551
+    av "有時我會忘記我們做的事在世人眼裡是錯的。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_f3e5d7a7:
 
-    # av "I mean, we’re first cousins, nobody is going to accept this...{w} Us."
-    av ""
 
-# game/episode012a.rpy:552
+    av "畢竟我們是表兄妹，沒人會接受這種...{w}我們的關係。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_1d9b3f9d:
 
-    # c "Yeah, I try not to think about it much."
-    c ""
 
-# game/episode012a.rpy:554
+    c "是啊，我儘量不去多想。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_7df5ad0e:
 
-    # c "We’d have to do some explaining in that case."
-    c ""
 
-# game/episode012a.rpy:555
+    c "真到那時我們可有得解釋了。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ec7f538f:
 
-    # c "I’m not sure what the others would think of fraternization among the crew."
-    c ""
 
-# game/episode012a.rpy:557
+    c "不知道其他人會怎麼看機組人員間的親密關係。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_fa5bd1f2:
 
-    # av "It happens all the time, doesn’t it?"
-    av ""
 
-# game/episode012a.rpy:558
+    av "這種事常有不是嗎？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_f189cce0:
 
-    # c "True, but with our history..."
-    c ""
 
-# game/episode012a.rpy:560
+    c "話是沒錯，但考慮到我們的過往..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b721d1aa:
 
-    # av "Some might be jealous, maybe?"
-    av ""
 
-# game/episode012a.rpy:561
+    av "說不定有人會嫉妒？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_18b744a0:
 
-    # c "Could be, they’d have to adjust..."
-    c ""
 
-# game/episode012a.rpy:563
+    c "有可能，他們得學會適應..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_0f0b3e53:
 
-    # av "Do we have a future, [p_name]?"
-    av ""
 
-# game/episode012a.rpy:566
+    av "[p_name]，我們會有未來嗎？"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_708400eb:
 
-    # c "Yes, we do."
-    c ""
 
-# game/episode012a.rpy:568
+    c "當然會有。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_78a8f62f:
 
-    # c "I don’t care what others think of us and our love is not going to be ruined because of some ancient taboo."
-    c ""
 
-# game/episode012a.rpy:570
+    c "我不管別人怎麼看，我們的愛情絕不會被那些古老禁忌摧毀。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_2f4150ed:
 
-    # c "And we’re going to tell the others soon."
-    c ""
 
-# game/episode012a.rpy:572
+    c "而且我們很快就會公開關係。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_b0a22d8e:
 
-    # "Aven didn’t reply, but the kiss she gave me spoke volumes."
-    ""
 
-# game/episode012a.rpy:573
+    "艾文沒有回答，但她的親吻說明了一切。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_0bd98939:
 
-    # "In an instant, we forgot our surroundings and we were nearly ready to finish what we’d started before Nadya’s intervention."
-    ""
 
-# game/episode012a.rpy:574
+    "剎那間我們忘卻周遭，差點就要繼續娜迪亞出現前沒做完的事。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_2482881b:
 
-    # "Voices in the hallway made us break away."
-    ""
 
-# game/episode012a.rpy:576
+    "走廊的說話聲讓我們猛然分開。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_ffcae3b5:
 
-    # av "This mansion is gigantic and yet everybody seems to clutter together in the same wing."
-    av ""
 
-# game/episode012a.rpy:578
+    av "這宅子那麼廣闊，可大家偏都擠在同一側。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_505f6ad6:
 
-    # av "Promise me we’re going to find some quiet time during the night."
-    av ""
 
-# game/episode012a.rpy:579
+    av "答應我今晚一定要找個沒人打擾的時間。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_a44ccf78:
 
-    # c "I promise."
-    c ""
 
-# game/episode012a.rpy:582
+    c "我保證。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_652f6c7e:
 
-    # c "I’m not sure."
-    c ""
 
-# game/episode012a.rpy:584
+    c "我不確定。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_64040a7e:
 
-    # av "Oh..."
-    av ""
 
-# game/episode012a.rpy:586
+    av "哦..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_f19509f0:
 
-    # c "We’ll have to make the best with what we have right now."
-    c ""
 
-# game/episode012a.rpy:589
+    c "我們現在就得用現有的東西湊合一下。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_f295e662:
 
-    # c "We’ll have to keep it a secret for a while longer."
-    c ""
 
-# game/episode012a.rpy:591
+    c "我們得再保密一段時間。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_94256cee:
 
-    # av "Yeah..."
-    av ""
 
-# game/episode012a.rpy:592
+    av "是啊..."
+
+
 translate traditional_chinese ep012_kepler_aven_talk_e6d82690:
 
-    # c "We’ll make it up to each other some time during the night."
-    c ""
 
-# game/episode012a.rpy:594
+    c "我們會找個晚上時間互相補償的。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_a1be5d84:
 
-    # av "I’d like that."
-    av ""
 
-# game/episode012a.rpy:596
+    av "我喜歡那樣。"
+
+
 translate traditional_chinese ep012_kepler_aven_talk_010ca790:
 
-    # "I left Aven to train, though I could tell from the sound of her half-hearted punches, her mind was elsewhere."
-    ""
 
-# game/episode012a.rpy:603
+    "我把艾文留下訓練了，不過從她心不在焉的拳擊聲中，我能聽出來她心思不在這兒。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_fbc384b2:
 
-    # "Eva was making herself something to eat in the kitchen of the estate."
-    ""
 
-# game/episode012a.rpy:604
+    "伊娃在莊園的廚房裡給自己做了點兒喫的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_5c393a24:
 
-    # c "Enjoy your lunch."
-    c ""
 
-# game/episode012a.rpy:606
+    c "享受你的午餐吧。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_66fc3a5a:
 
-    # e "Thanks!"
-    e ""
 
-# game/episode012a.rpy:607
+    e "謝謝！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ef939393:
 
-    # e "I’m glad the food stores of this place are still stocked, despite nobody being here normally."
-    e ""
 
-# game/episode012a.rpy:608
+    e "我很高興這個地方的食物儲備還滿滿當當的，儘管平時沒人在這兒。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1fe1e1e1:
 
-    # c "Yeah, that’s a stroke of luck."
-    c ""
 
-# game/episode012a.rpy:609
+    c "是啊，那真是運氣好。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_78a6766c:
 
-    # c "Say, would you like to come to the beach with me?"
-    c ""
 
-# game/episode012a.rpy:611
+    c "嘿，要不要和我一起去沙灘？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c4d0fffe:
 
-    # e "Uh...{w} Our private beach?"
-    e ""
 
-# game/episode012a.rpy:612
+    e "呃...{w}我們的私人沙灘？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_da03b046:
 
-    # c "No, the public one, where we went as children."
-    c ""
 
-# game/episode012a.rpy:614
+    c "不是，是公共那個，我們小時候去過的那片。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_703d9afb:
 
-    # e "Were not going on some nostalgia trip, are we?"
-    e ""
 
-# game/episode012a.rpy:616
+    e "我們不是要去什麼懷舊之旅，對吧？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_499a1a62:
 
-    # c "I thought maybe we could find something on Dad’s whereabouts, the nostalgia is just a bonus."
-    c ""
 
-# game/episode012a.rpy:618
+    c "我想或許我們能找到關於父親行蹤的線索，懷舊只是額外的好處。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_60082eca:
 
-    # c "I thought maybe we could find something on my dad’s whereabouts, the nostalgia is just a bonus."
-    c ""
 
-# game/episode012a.rpy:620
+    c "我想或許我們能找到關於我父親行蹤的線索，懷舊只是額外的好處。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_89a7695e:
 
-    # e "Seems like a longshot."
-    e ""
 
-# game/episode012a.rpy:621
+    e "似乎希望不大。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_99fed3e9:
 
-    # c "It is, but I feel a little lost here."
-    c ""
 
-# game/episode012a.rpy:623
+    c "沒錯，但我在這兒有點不知所措了。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1d3f1051:
 
-    # c "Dad could be anywhere."
-    c ""
 
-# game/episode012a.rpy:625
+    c "父親可能在任何一個地方。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_b055fc1e:
 
-    # c "Agust could be anywhere."
-    c ""
 
-# game/episode012a.rpy:626
+    c "阿古斯特可能在任何一個地方。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d2707df3:
 
-    # c "Hell, he could even be in another system entirely!"
-    c ""
 
-# game/episode012a.rpy:627
+    c "見鬼，他甚至可能完全在另一個星系！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a4a53336:
 
-    # c "Nadya mentioned a nightclub as well, it’s near the beach."
-    c ""
 
-# game/episode012a.rpy:629
+    c "娜迪亞也提到了一個夜總會，就在海灘附近。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a6ff29cc:
 
-    # e "A nightclub?"
-    e ""
 
-# game/episode012a.rpy:630
+    e "夜總會？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0de418db:
 
-    # c "Yeah, mom used to go there, apparently."
-    c ""
 
-# game/episode012a.rpy:632
+    c "是啊，媽媽以前常去那裡，顯然。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0e88de7f:
 
-    # e "Interesting, we might not be as lost as you fear."
-    e ""
 
-# game/episode012a.rpy:633
+    e "有意思，我們可能沒你想的那麼迷路。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_8df14573:
 
-    # e "With you in a sec, I’m going to get into something more fitting for a beach."
-    e ""
 
-# game/episode012a.rpy:635
+    e "馬上就來，我去換件更適合海灘的衣服。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0d2a1121:
 
-    # "Eva ran upstairs and returned wearing a bikini."
-    ""
 
-# game/episode012a.rpy:636
+    "伊娃跑上樓去，穿着比基尼回來了。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1db2b9e6:
 
-    # e "All set!"
-    e ""
 
-# game/episode012a.rpy:638
+    e "都準備好了！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d82153ff:
 
-    # "Using one of the estate’s transporters, we reached the public beach in minutes and parked there."
-    ""
 
-# game/episode012a.rpy:639
+    "用了一棟別墅的傳送器，我們幾分鐘就到了公共海灘並在那兒停車。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1f4d8906:
 
-    # "Just like Nadya said, the beach was divided into tiers, admission to be paid at a booth on the border of the town."
-    ""
 
-# game/episode012a.rpy:641
+    "就像娜迪亞說的那樣，海灘被分成好幾層，入場的費用得在鎮子邊的一個小亭那兒付。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c9220d4c:
 
-    # "Luckily, we had enough funds to buy the beach tier we went to as kids."
-    ""
 
-# game/episode012a.rpy:642
+    "幸運的是，我們有足夠的錢支付我們小時候去的那層海灘。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_8c64bee9:
 
-    # "I didn’t really know what we were doing here, but the change of scenery was rather nice."
-    ""
 
-# game/episode012a.rpy:644
+    "我真的不知道我們來這兒幹什麼，但景色變化還挺不錯的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_526ba448:
 
-    # "The place was teeming with beautiful people showing off their beach bodies, having fun in the water and just enjoying Kepler’s mild climate."
-    ""
 
-# game/episode012a.rpy:646
+    "這地方擠滿了帥哥美女，炫耀着自己的沙灘身材，在水裡玩得開心，就是享受開普勒星的溫和氣候。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_87eebb15:
 
-    # "Our beach tier wasn’t one of the priciest, resulting in a mixture of people coming from almost all walks of life."
-    ""
 
-# game/episode012a.rpy:647
+    "我們的海灘層不算最貴的那種，結果就是來自五湖四海的人都有。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_94cf2c6d:
 
-    # "There were middle class families, just having a day at the beach, queueing to get an ice cream at one of the many stalls littering the beach front."
-    ""
 
-# game/episode012a.rpy:649
+    "那裡有中產階級家庭，他們只是在海灘上度過一天，在海灘上亂擺的許多攤位之一前排隊買冰淇淋。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d42041dd:
 
-    # "The more well to do portion of the Sovereignty was also present, clearly showing off their expensive body sculpts in swimwear as tight as they were revealing."
-    ""
 
-# game/episode012a.rpy:651
+    "\"至高權域\"的那些更富有的那羣人也在場，穿着緊身又暴露的泳衣，清楚地炫耀着他們昂貴的體雕。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_302a40a3:
 
-    # e "This place hasn’t changed one bit!"
-    e ""
 
-# game/episode012a.rpy:652
+    e "這地方一點兒都沒變！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_9352ed71:
 
-    # c "It sure hasn’t."
-    c ""
 
-# game/episode012a.rpy:654
+    c "確實沒變。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_25b89c66:
 
-    # e "The only thing I miss is that large bag Aunt Nadya always carried around."
-    e ""
 
-# game/episode012a.rpy:656
+    e "我唯一想念的就是娜迪亞阿姨總帶着的那個大袋子。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_647a7e1a:
 
-    # e "The only thing I miss is that large bag Nadya always carried around."
-    e ""
 
-# game/episode012a.rpy:657
+    e "我唯一想念的就是娜迪亞總帶着的那個大袋子。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ed08b1d2:
 
-    # c "The one with all the food, drinks and sweets?"
-    c ""
 
-# game/episode012a.rpy:658
+    c "就是裝滿了喫的、喝的和糖果的那個？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a1ddc4fa:
 
-    # e "Yup, that one."
-    e ""
 
-# game/episode012a.rpy:660
+    e "嗯，就是那個。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4cd6f9c4:
 
-    # e "We used to stare at that bag like predatory animals, until Aunt Nadya got fed up with it and gave us something."
-    e ""
 
-# game/episode012a.rpy:662
+    e "我們過去像肉食動物一樣盯着那個袋子看，直到娜迪亞阿姨受不了了，給我們點東西。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c00fc186:
 
-    # e "We used to stare at that bag like predatory animals, until Nadya got fed up with it and gave us something."
-    e ""
 
-# game/episode012a.rpy:663
+    e "我們以前像肉食動物一樣盯着那個袋子，直到娜迪亞受不了了，給我們點東西。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ca4114cb:
 
-    # c "Nothing beats eating chocolate mixed with some sand."
-    c ""
 
-# game/episode012a.rpy:665
+    c "沒有什麼比喫混着點沙子的巧克力更棒了。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_3d87dd61:
 
-    # "Eva sat down and I did the same next to her."
-    ""
 
-# game/episode012a.rpy:667
+    "伊娃坐了下來，我也跟着坐到了她旁邊。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_542551cd:
 
-    # e "This is nice."
-    e ""
 
-# game/episode012a.rpy:668
+    e "這感覺真好。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_f8c714f3:
 
-    # e "Just a quiet moment."
-    e ""
 
-# game/episode012a.rpy:670
+    e "一個安靜的時刻。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d9c2a812:
 
-    # "That statement was a little strange considering the amount of people surrounding us, but I understood the sentiment."
-    ""
 
-# game/episode012a.rpy:671
+    "考慮到我們周圍那麼多人，這話有點怪，但我理解那種感受。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4f270a8f:
 
-    # c "Brings back memories, doesn’t it?"
-    c ""
 
-# game/episode012a.rpy:673
+    c "讓人想起往事，對吧？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_12e45feb:
 
-    # e "I remember staying up late, eating ice cream on the beach, watching the sun go down."
-    e ""
 
-# game/episode012a.rpy:675
+    e "我記得熬夜在海灘上喫冰激淋，看着太陽下山。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_62168fd9:
 
-    # c "Aunt Nadya sure let go of the reigns on Kepler, didn’t she?"
-    c ""
 
-# game/episode012a.rpy:677
+    c "娜迪亞阿姨在開普勒星肯定放任自流了，對吧？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_b20f1637:
 
-    # c "Nadya sure let go of the reigns on Kepler, didn’t she?"
-    c ""
 
-# game/episode012a.rpy:680
+    c "娜迪亞在開普勒星肯定放任自流了，對吧？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ccb1ec10:
 
-    # e "Well, Mom and Dad weren’t much help, so she had to do it all on her own."
-    e ""
 
-# game/episode012a.rpy:681
+    e "好吧，父母親也沒幫上什麼忙，所以她不得不全靠自己來做。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c031b90f:
 
-    # c "Yeah, you wonder why they ever chose to have children in the first place."
-    c ""
 
-# game/episode012a.rpy:683
+    c "是啊，真不明白他們當初爲什麼要生孩子。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a7363d1e:
 
-    # e "Well, your mom and dad weren’t much help, so she had to do it all on her own."
-    e ""
 
-# game/episode012a.rpy:684
+    e "好吧，你父母也沒幫上什麼忙，所以她不得不全靠自己來做。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0f039b05:
 
-    # c "Yeah, you wonder why they ever chose to have me in the first place."
-    c ""
 
-# game/episode012a.rpy:686
+    c "是啊，真不明白他們當初爲什麼要生我。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_983c6b68:
 
-    # e "Prestige, probably, or securing their pedigree?"
-    e ""
 
-# game/episode012a.rpy:687
+    e "大概是爲了名聲，或者確保他們的血統？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_e4929077:
 
-    # e "I have no doubt it enhanced their social status in some way."
-    e ""
 
-# game/episode012a.rpy:689
+    e "我敢肯定這在某種程度上提升了他們的社會地位。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_5e0c855a:
 
-    # c "Well, you can say what you like about Mom and Pop, but they’re nothing if not consistent."
-    c ""
 
-# game/episode012a.rpy:691
+    c "好吧，關於父母親你可以隨便說什麼，但他們確實是非常一致的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_6468cb0e:
 
-    # c "Well, you can say what you like about my mom and pop, but they’re nothing if not consistent."
-    c ""
 
-# game/episode012a.rpy:692
+    c "好吧，關於我父母親你可以隨便說什麼，但他們確實是非常一致的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4c766141:
 
-    # c "We should maybe check out that nightclub Nadya mentioned?"
-    c ""
 
-# game/episode012a.rpy:694
+    c "我們也許該去娜迪亞提到的那個夜店看看？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_83738b48:
 
-    # e "Could we just do one thing, for old time’s sake?"
-    e ""
 
-# game/episode012a.rpy:695
+    e "爲了舊時光，我們做一件事怎麼樣？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_7ec4e1dc:
 
-    # c "You want ice cream, don’t you?"
-    c ""
 
-# game/episode012a.rpy:697
+    c "你想要冰激淋，對吧？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_6a69158a:
 
-    # e "Yeah, I kinda do."
-    e ""
 
-# game/episode012a.rpy:698
+    e "是啊，有點想。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_74c8362f:
 
-    # e "Or do you think it’s too dangerous to linger here?"
-    e ""
 
-# game/episode012a.rpy:699
+    e "還是你覺得呆在這兒太危險了？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a104b033:
 
-    # c "We’re quite anonymous here and I don’t see any security around."
-    c ""
 
-# game/episode012a.rpy:701
+    c "我們在這兒挺匿名的，而且周圍我沒看到任何警衛。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1b31075a:
 
-    # "Eva and I waited in line to get our ice cream."
-    ""
 
-# game/episode012a.rpy:703
+    "我和伊娃排隊等着買冰淇淋。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4ed44afe:
 
-    # "Once we had our two cones, we ate them while walking through the surf."
-    ""
 
-# game/episode012a.rpy:704
+    "拿到兩支甜筒後，我們踩着浪花邊逛邊喫。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_880bdbff:
 
-    # "We didn’t speak until we were both nearly finished with our ice cream."
-    ""
 
-# game/episode012a.rpy:706
+    "直到快喫完冰淇淋時，我們才開口說話。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_872f87ee:
 
-    # e "Just like I remember it."
-    e ""
 
-# game/episode012a.rpy:710
+    e "就像我記得的那樣。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_25eb4652:
 
-    # c "Do you remember this as well?"
-    c ""
 
-# game/episode012a.rpy:712
+    c "你也記得這個場景嗎？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_212d5ac0:
 
-    # e "Wah...?"
-    e ""
 
-# game/episode012a.rpy:714
+    e "哇…？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c164d1c2:
 
-    # "Scooping up sea water, I splashed her."
-    ""
 
-# game/episode012a.rpy:715
+    "我掬起海水潑向她。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_2f2e5868:
 
-    # e "Brrrr, that’s cold!"
-    e ""
 
-# game/episode012a.rpy:718
+    e "嗚哇，好涼！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4e4576a2:
 
-    # e "And yes, I remember a certain brother who was always teasing his younger sisters relentlessly."
-    e ""
 
-# game/episode012a.rpy:720
+    e "是啊，我記得某個哥哥總是無情地捉弄妹妹們。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_3672418d:
 
-    # e "And yes, I remember a certain boy who was always teasing his friends relentlessly."
-    e ""
 
-# game/episode012a.rpy:721
+    e "是啊，我記得某個男孩總是無情地捉弄朋友們。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_2b0f11a5:
 
-    # c "I’m sure they had it coming!"
-    c ""
 
-# game/episode012a.rpy:722
+    c "我得說他們活該！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_7e3f6ffc:
 
-    # e "Well, he certainly did."
-    e ""
 
-# game/episode012a.rpy:724
+    e "咳，他肯定最該被整。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_022f1f46:
 
-    # "Eva made a move and I thought she’d splash me too, but instead she shoved me and I lost my balance."
-    ""
 
-# game/episode012a.rpy:725
+    "伊娃作勢要潑我，卻突然猛推讓我失去平衡。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ce4030e7:
 
-    # e "Hahaha!{w} Got you!"
-    e ""
 
-# game/episode012a.rpy:726
+    e "哈！哈！哈！{w}得手了！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a8d9611c:
 
-    # "Eva was right, the water was cold, but revenge was more important."
-    ""
 
-# game/episode012a.rpy:728
+    "伊娃說得對，海水確實涼，但報復更重要。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_462d4f05:
 
-    # "While she still laughed, I grabbed her leg and pulled."
-    ""
 
-# game/episode012a.rpy:729
+    "趁她還在笑，我抓住她的腿往後拽。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d0b6cc05:
 
-    # "Eva went down, her laugh drowned in a spray of sea water."
-    ""
 
-# game/episode012a.rpy:731
+    "伊娃摔進海水裡，笑聲被浪花吞沒。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1f585327:
 
-    # "When she came up, she was still laughing and tried to stand up."
-    ""
 
-# game/episode012a.rpy:733
+    "她鑽出水面時仍在笑，掙扎着想站起來。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0c87f752:
 
-    # "Instead, she slipped and fell on top of me."
-    ""
 
-# game/episode012a.rpy:735
+    "結果腳下一滑，整個人摔在我身上。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ec23f91a:
 
-    # "Images of my time with virtual Eva flashed past me."
-    ""
 
-# game/episode012a.rpy:737
+    "和虛擬伊娃相處的記憶片段掠過腦海。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_dbc3059a:
 
-    # "Our gazes locked for far too long, until Eva broke away."
-    ""
 
-# game/episode012a.rpy:739
+    "我們對視得太久，直到伊娃猛然別開臉。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_836b3655:
 
-    # e "Wow, what exactly was in those ice cream cones?"
-    e ""
 
-# game/episode012a.rpy:741
+    e "唔，那些冰淇淋甜筒裏到底加了什麼料？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_26e94257:
 
-    # c "I just hope it isn’t some mushroom native to Erigone..."
-    c ""
 
-# game/episode012a.rpy:743
+    c "可別是厄裏戈涅星特產的某種蘑菇..."
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1d9c1b62:
 
-    # c "I just hope it isn’t some hallucinogenic liqueur."
-    c ""
 
-# game/episode012a.rpy:745
+    c "可別是摻了什麼致幻利口酒。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ccfcbaee:
 
-    # c "Yup, pretty much."
-    c ""
 
-# game/episode012a.rpy:746
+    c "是啊，差不多吧。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_ee43e482:
 
-    # c "The ice cream tasted better back then though."
-    c ""
 
-# game/episode012a.rpy:748
+    c "不過那時的冰淇淋味道更好。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_7eef2035:
 
-    # e "Maybe, yeah."
-    e ""
 
-# game/episode012a.rpy:750
+    e "可能吧，嗯。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_356a70b8:
 
-    # c "Ready to head to town?"
-    c ""
 
-# game/episode012a.rpy:751
+    c "準備好進城了嗎？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_f3848a2b:
 
-    # e "Yup, let’s find that nightclub."
-    e ""
 
-# game/episode012a.rpy:753
+    e "是啊，我們去找那家夜總會吧。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_6b2c3fb7:
 
-    # "Smiling, we left the beach, our skin drying in Kepler’s moderate sun."
-    ""
 
-# game/episode012a.rpy:755
+    "我們微笑着離開海灘，皮膚在開普勒星的溫和陽光下乾燥着。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_8325eef4:
 
-    # "After enjoying our ice cream and taking a quick swim, we left the beach, enjoying Kepler’s moderate sun."
-    ""
 
-# game/episode012a.rpy:757
+    "在享受完冰淇淋和快速遊個泳後，我們離開了海灘，享受着開普勒星的溫和陽光。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_78f4c9f2:
 
-    # "Kepler’s major town consisted mostly of clubs, restaurants and casinos, and was mostly deserted during the day."
-    ""
 
-# game/episode012a.rpy:758
+    "開普勒星的主要城鎮主要由俱樂部、餐館和賭場組成，白天大多沒有營業。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_865a641a:
 
-    # "Nobody had lived on the moon prior to Sovereignty occupation, so many of the structures were distinctly human."
-    ""
 
-# game/episode012a.rpy:759
+    "在\"至高權域\"佔領之前，這個衛星上沒人居住過，所以許多建築物都很有人類特色。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_8e08aff7:
 
-    # "Some gaudy architect had decided the whole town should resemble some vaguely European place which had never existed."
-    ""
 
-# game/episode012a.rpy:761
+    "某個俗氣的建築師決定讓整個城鎮模仿某個從未存在過的模糊的歐洲地方風格。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a6ab8e49:
 
-    # "The whole thing felt extremely quaint and I thoroughly hated it."
-    ""
 
-# game/episode012a.rpy:762
+    "整個地方感覺極其古怪，而我徹底討厭它。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_0e3ae75f:
 
-    # "Even the seedier neighborhoods of Kepler felt fake, but I knew things happened there that would get you a one-way ticket to solitary confinement in one of the Sovereignty prisons."
-    ""
 
-# game/episode012a.rpy:764
+    "就連開普勒星那些更陰暗的街區也感覺假假的，但我知道那裡發生的事情能讓你直接被送進\"至高權域\"監獄的單人禁閉室。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_338043d1:
 
-    # e "I think I see a swan!"
-    e ""
 
-# game/episode012a.rpy:765
+    e "我覺得我看到一隻天鵝！"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_42410935:
 
-    # "Eva’s voice yanked me out of my introspective mood."
-    ""
 
-# game/episode012a.rpy:766
+    "伊娃的聲音把我從自我沉思中拉了出來。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_1ccb4892:
 
-    # "I was a little confused at first, until I saw her pointing at a light fixture shaped like a swan."
-    ""
 
-# game/episode012a.rpy:768
+    "起初我有點困惑，直到看到她指着那個天鵝形狀的燈飾。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_daeba19a:
 
-    # "We’d found the Neon Swan alright."
-    ""
 
-# game/episode012a.rpy:769
+    "我們終於找到了\"霓虹天鵝\"。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_2205469c:
 
-    # "The immediate surroundings of the nightclub beheld a sight which I wasn’t prepared to see."
-    ""
 
-# game/episode012a.rpy:771
+    "夜總會周圍我看到了一個我沒準備好的景象。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_711c8125:
 
-    # "My mother’s face was plastered all over the building and various billboards."
-    ""
 
-# game/episode012a.rpy:772
+    "我母親的臉貼滿了建築物和各個廣告牌上。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_4221f991:
 
-    # "The words ‘glorious comeback’ and ‘legend’ were prominently featured."
-    ""
 
-# game/episode012a.rpy:775
+    "『華麗復出』和『傳奇』這些詞被突出展示。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_c633e141:
 
-    # e "So I guess Mom is trying to relaunch her career?"
-    e ""
 
-# game/episode012a.rpy:777
+    e "所以我猜媽媽在試圖復出？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_90826fe2:
 
-    # e "So I guess Yve is trying to relaunch her career?"
-    e ""
 
-# game/episode012a.rpy:778
+    e "所以我猜伊芙在試圖復出？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_5c6ffcbe:
 
-    # c "Seems like it."
-    c ""
 
-# game/episode012a.rpy:779
+    c "看起來是這麼回事。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_772e783b:
 
-    # c "I can’t think of anything I’d be less enthusiastic about."
-    c ""
 
-# game/episode012a.rpy:781
+    c "我想不到還有什麼能讓我更提不起興趣的事了。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_00e67ab3:
 
-    # e "I’m struggling as well."
-    e ""
 
-# game/episode012a.rpy:784
+    e "我也是這麼覺得。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_a9320587:
 
-    # e "But it confirms they’re on Kepler, or at least Mom is."
-    e ""
 
-# game/episode012a.rpy:785
+    e "但這確認了他們都在開普勒星上，或者至少媽媽在。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_31de64a0:
 
-    # c "Big chance Dad is here somewhere too."
-    c ""
 
-# game/episode012a.rpy:786
+    c "很大的可能性父親也在這裡的某個地方。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_aed9f7fb:
 
-    # c "It might be interesting to ask Mom a few questions."
-    c ""
 
-# game/episode012a.rpy:788
+    c "去問媽媽幾個問題可能挺有意思的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_9767d652:
 
-    # e "But it confirms they’re on Kepler, or at least Yve is."
-    e ""
 
-# game/episode012a.rpy:789
+    e "但這確認了他們都在開普勒星上，或者至少伊芙在。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_d6518823:
 
-    # c "Big chance my dad is here somewhere too."
-    c ""
 
-# game/episode012a.rpy:790
+    c "很可能我父親也在這裡的某個地方。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_71dfda15:
 
-    # c "It might be interesting to ask my mom a few questions."
-    c ""
 
-# game/episode012a.rpy:792
+    c "去問我媽媽幾個問題可能挺有意思的。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_02c4df3f:
 
-    # e "Now?"
-    e ""
 
-# game/episode012a.rpy:793
+    e "現在？"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_88f78f4d:
 
-    # c "After she gives one of those ‘glorious’ and ‘legendary’ performances mentioned on those billboards."
-    c ""
 
-# game/episode012a.rpy:795
+    c "在她進行完其中一場那些廣告牌上提到的『輝煌』而『傳奇』的表演之後。"
+
+
 translate traditional_chinese ep012_kepler_eva_talk_b47f7881:
 
-    # "Eva and I headed back to the estate where we brought the others up to speed."
-    ""
 
-# game/episode012a.rpy:800
+    "伊娃和我返回了那座大宅，我們讓其他人了解了情況。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_45449f8b:
 
-    # "Vess had been hauled last from the Bastard and thrown in an upstairs bedroom that could easily be locked."
-    ""
 
-# game/episode012a.rpy:802
+    "薇絲最後才從\"私生子\"號上被拖出來，然後被扔進了一個很容易上鎖的樓上臥室。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_4ef61257:
 
-    # "When I entered, the girl sat huddled on the bed, staring into nothingness."
-    ""
 
-# game/episode012a.rpy:805
+    "當我進去時，女孩蜷縮在牀上，茫然地凝視着虛無。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_e2bbe147:
 
-    # "When I entered, she looked at me with a sadness that would have cut through anything, if it weren’t for the rage I felt towards her."
-    ""
 
-# game/episode012a.rpy:807
+    "當我進去時，她看着我，那種悲傷足以穿透一切，如果不是因爲我對她的怒火的話。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_22a36e5e:
 
-    # "When I entered she looked at me with a sadness that cut through anything."
-    ""
 
-# game/episode012a.rpy:809
+    "當我進去時她看着我，帶着一種能穿透一切的悲傷。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_7135f769:
 
-    # "After closing the door, I took a chair and sat opposite her."
-    ""
 
-# game/episode012a.rpy:811
+    "關上門後，我拿了把椅子坐在她對面。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_3eb31a40:
 
-    # c "You’ll answer more questions."
-    c ""
 
-# game/episode012a.rpy:812
+    c "你會回答更多問題。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_b719726c:
 
-    # ve "Yes."
-    ve ""
 
-# game/episode012a.rpy:814
+    ve "是。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_77883191:
 
-    # c "I have more questions."
-    c ""
 
-# game/episode012a.rpy:815
+    c "我有更多問題。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_3f82738e:
 
-    # ve "Of course, ask."
-    ve ""
 
-# game/episode012a.rpy:816
+    ve "當然，問吧。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_1db1c0f4:
 
-    # c "The Confessor, where does he come from, where does he live?"
-    c ""
 
-# game/episode012a.rpy:818
+    c "\"懺悔者\"，他從哪裡來，他住在哪裡？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_ab6e39f1:
 
-    # ve "I don’t know where he comes from, but he lives on his ship."
-    ve ""
 
-# game/episode012a.rpy:819
+    ve "我不知道他從哪裡來，但他住在他的飛船上。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_c20503dd:
 
-    # ve "It just drifts and drifts, until his handmaidens have found another lead and then they set out to investigate."
-    ve ""
 
-# game/episode012a.rpy:820
+    ve "它就那樣漂來漂去，直到他的侍女們找到另一個線索然後他們就出發去調查。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_36f02c10:
 
-    # c "He’s been doing this for a long time then?"
-    c ""
 
-# game/episode012a.rpy:822
+    c "那他做這件事很長時間了？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_546980a2:
 
-    # ve "For as long as I’ve known him."
-    ve ""
 
-# game/episode012a.rpy:823
+    ve "自我認識他以來就這樣了。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_18940ede:
 
-    # c "He has a fleet of ships?"
-    c ""
 
-# game/episode012a.rpy:824
+    c "他有一支艦隊的飛船？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_66484226:
 
-    # ve "He does."
-    ve ""
 
-# game/episode012a.rpy:825
+    ve "嗯。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_418de1da:
 
-    # c "How does he manage that, I mean the upkeep of those ships alone must cost a fortune?"
-    c ""
 
-# game/episode012a.rpy:827
+    c "他是怎麼做到的？光是養那些船的維護費就得天價吧？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_05190cad:
 
-    # ve "I know he’s wealthy and other than that he does what any leader of a cult does, solicit for money."
-    ve ""
 
-# game/episode012a.rpy:828
+    ve "我知道他很有錢，再說了，他跟所有邪教頭子一樣——四處斂財。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_1ad98d37:
 
-    # ve "Every single ship is staffed and maintained by people who believe in him."
-    ve ""
 
-# game/episode012a.rpy:829
+    ve "每條船都由信徒負責人員配備和日常維護。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_3fae25b7:
 
-    # c "But only women?"
-    c ""
 
-# game/episode012a.rpy:830
+    c "但只有女人？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_8e0384c1:
 
-    # ve "Yes, from all over the galaxy."
-    ve ""
 
-# game/episode012a.rpy:831
+    ve "對，從全星系招募來的。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_3ba900cf:
 
-    # ve "The call of the Confessor’s message is so strong that husbands even allow their wives to become handmaidens."
-    ve ""
 
-# game/episode012a.rpy:832
+    ve "\"懺悔者\"的教義感召力太強，丈夫們甚至允許妻子成爲侍女。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_7d5c51b6:
 
-    # c "What is his message, really?"
-    c ""
 
-# game/episode012a.rpy:833
+    c "他的核心教義究竟是什麼？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_fde6ec78:
 
-    # ve "I only know that Eva is the key to a better future, she’s the usher of some transformative event."
-    ve ""
 
-# game/episode012a.rpy:834
+    ve "我只知道伊娃是開啓美好未來的關鍵，她是某種變革的引路人。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_5aff388b:
 
-    # ve "The finer points of the Confessor’s philosophy are only available to the fiercely loyal."
-    ve ""
 
-# game/episode012a.rpy:835
+    ve "\"懺悔者\"的深奧哲理只向最狂熱的信徒開放。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_5c6d3be2:
 
-    # c "You weren’t one of those?"
-    c ""
 
-# game/episode012a.rpy:837
+    c "你不夠格？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_836024fd:
 
-    # ve "I was a special case...{w} The Confessor certainly didn’t trust me with everything."
-    ve ""
 
-# game/episode012a.rpy:838
+    ve "我是特例...{w} 他當然不會把所有事都告訴我。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_fe390d5c:
 
-    # ve "Higher modes of learning were supposedly available for the true believers, incidentally the ones who brought the most money to the table."
-    ve ""
 
-# game/episode012a.rpy:839
+    ve "據說真信徒能接觸進階教義——順便說下，就是那些掏錢最多的人。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_9bb3f71d:
 
-    # c "Convenient."
-    c ""
 
-# game/episode012a.rpy:840
+    c "這麼簡單。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_d84076a9:
 
-    # c "Sounds like a classic cult."
-    c ""
 
-# game/episode012a.rpy:842
+    c "聽着就是經典邪教套路。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_67fff4c1:
 
-    # ve "Yes, I guess it does."
-    ve ""
 
-# game/episode012a.rpy:844
+    ve "是啊，確實像。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_d354da3c:
 
-    # "We were both silent and Vess resumed staring at the wall."
-    ""
 
-# game/episode012a.rpy:845
+    "兩人都陷入沉默，薇絲繼續盯着牆壁發呆。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_40665412:
 
-    # "I was about to leave the room, when she turned her head towards me and spoke."
-    ""
 
-# game/episode012a.rpy:847
+    "我剛要離開房間，她卻突然轉頭對我開口。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_50109ba5:
 
-    # ve "What are you going to do with me, [p_name]?"
-    ve ""
 
-# game/episode012a.rpy:848
+    ve "你打算怎麼處置我，[p_name]？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_8b12fc0a:
 
-    # c "I haven’t decided yet."
-    c ""
 
-# game/episode012a.rpy:850
+    c "還沒決定。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_a06e8651:
 
-    # ve "I could be useful, you know."
-    ve ""
 
-# game/episode012a.rpy:852
+    ve "我能派上用場的。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_4a8fc142:
 
-    # ve "I know you don’t trust me, but if you were to allow me just one chance..."
-    ve ""
 
-# game/episode012a.rpy:853
+    ve "我知道你不信任我，但只要給我一次機會..."
+
+
 translate traditional_chinese ep012_kepler_vess_talk_a8d48ea3:
 
-    # c "And risk you contacting the Confessor again?"
-    c ""
 
-# game/episode012a.rpy:855
+    c "然後冒險讓你再聯繫\"懺悔者\"？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_e8216936:
 
-    # ve "I won’t, I swear!"
-    ve ""
 
-# game/episode012a.rpy:856
+    ve "我發誓絕不會！"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_55556f14:
 
-    # c "You told me he’s supposedly holding your mother prisoner."
-    c ""
 
-# game/episode012a.rpy:857
+    c "你跟我說過，他據說在扣留你的母親當人質。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_c1e8148d:
 
-    # c "You’re telling me you don’t care about that anymore?"
-    c ""
 
-# game/episode012a.rpy:859
+    c "你是說你現在一點兒也不在乎那事了？"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_97296e52:
 
-    # ve "Of course I do!"
-    ve ""
 
-# game/episode012a.rpy:860
+    ve "我當然在乎！"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_650e7857:
 
-    # ve "But...{w} I’ve come to realize the chances of seeing her again are becoming slimmer by the day, if there ever was a chance."
-    ve ""
 
-# game/episode012a.rpy:862
+    ve "可是...{w} 我漸漸明白再次見到她的機會日復一日地渺茫了，假如真有過什麼機會的話。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_168386a9:
 
-    # ve "All my life, I’ve thought that the Confessor loved me as a grandchild."
-    ve ""
 
-# game/episode012a.rpy:864
+    ve "我這一生，都以爲\"懺悔者\"像疼愛孫輩那樣疼愛我。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_42216557:
 
-    # ve "It wasn’t until I met you that I knew the true value of friendship, of love..."
-    ve ""
 
-# game/episode012a.rpy:867
+    ve "直到遇見你，我才明白了友誼和愛的真諦..."
+
+
 translate traditional_chinese ep012_kepler_vess_talk_7b2f162e:
 
-    # ve "Nadya’s love for you as a nephew feels so real, so unconditional."
-    ve ""
 
-# game/episode012a.rpy:869
+    ve "娜迪亞視你如外甥那般對你的愛，感覺如此真實、如此無條件。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_2597ea17:
 
-    # ve "Nadya’s love for you feels so real, so unconditional."
-    ve ""
 
-# game/episode012a.rpy:871
+    ve "娜迪亞對你的愛感覺如此真實、如此無條件。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_0d8b5479:
 
-    # ve "Nothing was unconditional during my childhood."
-    ve ""
 
-# game/episode012a.rpy:872
+    ve "在我的童年裡，沒有任何東西是無條件的。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_de106b68:
 
-    # ve "The Confessor raised me as a tool to wield and I outgrew my usefulness as soon as I was caught by the Acarhyn."
-    ve ""
 
-# game/episode012a.rpy:873
+    ve "\"懺悔者\"將我當作工具撫養長大，我一被阿卡海茵人抓住，就失去了利用價值。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_aef3ed67:
 
-    # ve "Even if I wanted to, contacting the Confessor would be useless."
-    ve ""
 
-# game/episode012a.rpy:874
+    ve "即便我真心想聯繫\"懺悔者\"，也毫無用處。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_7669bf05:
 
-    # ve "There’s nothing left for me...{w} Anywhere..."
-    ve ""
 
-# game/episode012a.rpy:875
+    ve "對我來說已經什麼都不剩了...{w} 哪兒都沒有了..."
+
+
 translate traditional_chinese ep012_kepler_vess_talk_4ef07b3f:
 
-    # ve "Whatever friendship I felt spending time with you all, that’s what I cling to."
-    ve ""
 
-# game/episode012a.rpy:877
+    ve "和你們相處時感受到的那種情誼，就是我緊緊抓住的唯一東西。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_e2f0fa9d:
 
-    # ve "I want to earn it back."
-    ve ""
 
-# game/episode012a.rpy:882
+    ve "我想重新贏回它。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_8f240135:
 
-    # c "Not going to happen."
-    c ""
 
-# game/episode012a.rpy:884
+    c "不會發生了。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_ca2151fe:
 
-    # ve "I...{w} I have to believe otherwise."
-    ve ""
 
-# game/episode012a.rpy:885
+    ve "我...{w} 我不這麼認爲。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_2c591940:
 
-    # c "Sure you do."
-    c ""
 
-# game/episode012a.rpy:886
+    c "你當然會這樣想了。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_dd9502f7:
 
-    # c "Bye Vess."
-    c ""
 
-# game/episode012a.rpy:888
+    c "再見薇絲。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_3a9846b4:
 
-    # "Her lip trembled as I turned my back on her."
-    ""
 
-# game/episode012a.rpy:889
+    "當我背對她的時候，她的嘴脣在顫抖。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_40ca4532:
 
-    # "The sound of the the door slamming shut behind me echoed the same feeling of finality as my goodbye."
-    ""
 
-# game/episode012a.rpy:892
+    "在我身後摔門而去的巨響，如我道別時那股決絕感一般，久久迴蕩。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_efe4eb65:
 
-    # c "I’m not sure you can."
-    c ""
 
-# game/episode012a.rpy:894
+    c "我不信你能做到。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_83f75e03:
 
-    # c "That’s going to take a lot."
-    c ""
 
-# game/episode012a.rpy:896
+    c "那可得付出不少努力。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_39d41770:
 
-    # ve "I know."
-    ve ""
 
-# game/episode012a.rpy:898
+    ve "我知道。"
+
+
 translate traditional_chinese ep012_kepler_vess_talk_a920639b:
 
-    # ve "But I aim to try regardless."
-    ve ""
 
-# game/episode012a.rpy:904
+    ve "但無論如何，我打算去嘗試。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_a8311116:
 
-    # "Thyia had taken the opportunity to go sunbathing during the free time we allowed ourselves after landing on Kepler."
-    ""
 
-# game/episode012a.rpy:905
+    "在我們登陸開普勒星後給我們的空閒時間裡，塞婭抓住機會去做日光浴了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_3ae1db1f:
 
-    # c "I didn’t know you liked the sun so much."
-    c ""
 
-# game/episode012a.rpy:907
+    c "我不知道你這麼喜歡太陽。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4e6f9eb4:
 
-    # th "I didn’t either."
-    th ""
 
-# game/episode012a.rpy:908
+    th "我也不知道。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_976ef583:
 
-    # th "Turns out it’s the perfect activity to clear your head."
-    th ""
 
-# game/episode012a.rpy:909
+    th "結果證明這是清空思緒的最佳活動。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2c992148:
 
-    # c "Mind if I join you?"
-    c ""
 
-# game/episode012a.rpy:911
+    c "介意我加入你嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_b06569d2:
 
-    # th "Not at all, though you’re lacking a swimsuit."
-    th ""
 
-# game/episode012a.rpy:912
+    th "完全不介意，不過你缺件泳衣。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_b15b4698:
 
-    # c "No interest in frying myself under the hot sun, just wanted to talk."
-    c ""
 
-# game/episode012a.rpy:914
+    c "沒興趣在烈日下烤自己，只是想聊聊天。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_3cd9c9f2:
 
-    # th "Have you decided what to do yet?"
-    th ""
 
-# game/episode012a.rpy:915
+    th "你決定好要做什麼了嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_f41ba07d:
 
-    # c "Not yet."
-    c ""
 
-# game/episode012a.rpy:916
+    c "還沒。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_faa9eb3b:
 
-    # c "We might need to hit the town and get a lay of the land."
-    c ""
 
-# game/episode012a.rpy:918
+    c "我們可能需要進城去了解一下情況。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_62587514:
 
-    # th "You really think your father is somewhere here on Kepler?"
-    th ""
 
-# game/episode012a.rpy:919
+    th "你真的認爲你父親在開普勒星上的某個地方嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_b7e11173:
 
-    # c "Yes, unless he changed habits and went somewhere else entirely."
-    c ""
 
-# game/episode012a.rpy:920
+    c "是的，除非他改變習慣，去了完全不同的地方。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_cbd0bc7c:
 
-    # c "Unlikely though, this time of year is the best way to suck up to the rich and famous."
-    c ""
 
-# game/episode012a.rpy:922
+    c "不過不太可能，這個季節是巴結富人和名人的最佳時機。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_96d608d7:
 
-    # th "Can’t pass up on a good bit of sucking."
-    th ""
 
-# game/episode012a.rpy:923
+    th "不能錯過一個好的奉承機會。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_cfc438cf:
 
-    # c "Indeed."
-    c ""
 
-# game/episode012a.rpy:925
+    c "確實。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_eafa45c1:
 
-    # c "How are you holding up, Thyia?"
-    c ""
 
-# game/episode012a.rpy:926
+    c "塞婭，你還好嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_1326b39c:
 
-    # th "I’m swell."
-    th ""
 
-# game/episode012a.rpy:928
+    th "我棒極了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_30aa2c57:
 
-    # th "Why do you keep asking me questions like that?"
-    th ""
 
-# game/episode012a.rpy:929
+    th "你爲什麼老是問我那樣的問題？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_58f9d158:
 
-    # c "Because I care for you."
-    c ""
 
-# game/episode012a.rpy:930
+    c "因爲我在意你。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_598ff6fd:
 
-    # c "Does that make you uncomfortable?"
-    c ""
 
-# game/episode012a.rpy:932
+    c "那讓你不舒服嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_c8c04bb4:
 
-    # th "Forget I asked."
-    th ""
 
-# game/episode012a.rpy:933
+    th "忘了我的問題吧。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_61e8d7a4:
 
-    # c "No, I’m not doing this again."
-    c ""
 
-# game/episode012a.rpy:934
+    c "不，我不會再這麼做了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_d8577f5b:
 
-    # c "Back in the park on Shuty Station, I saw how all that affected you."
-    c ""
 
-# game/episode012a.rpy:935
+    c "在夏提空間站的那個公園時，我看到了那一切對你的影響。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2051358b:
 
-    # th "So?"
-    th ""
 
-# game/episode012a.rpy:936
+    th "所以呢？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_ec8bfd23:
 
-    # c "Yet, you seem to gloss over big things like that in a heartbeat. "
-    c ""
 
-# game/episode012a.rpy:937
+    c "然而，你似乎一下子就忘了這些大事。 "
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4e5a4202:
 
-    # c "Why?"
-    c ""
 
-# game/episode012a.rpy:939
+    c "爲什麼？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_f125ecc5:
 
-    # th "Just leave, [p_name], you’re blocking my sunlight."
-    th ""
 
-# game/episode012a.rpy:940
+    th "請離開吧，[p_name]，你擋着我的陽光了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_c6204d4e:
 
-    # c "Bullshit."
-    c ""
 
-# game/episode012a.rpy:941
+    c "胡說。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2684eb4d:
 
-    # c "We’ve been intimate on several occasions, held each other, kissed each other...{w} but in the end, you always back away."
-    c ""
 
-# game/episode012a.rpy:942
+    c "我們曾親密過幾次，擁抱過，親吻過...{w}但到頭來，你總是後退。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4e5a4202_1:
 
-    # c "Why?"
-    c ""
 
-# game/episode012a.rpy:944
+    c "爲什麼？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_da14fb3f:
 
-    # th "I don’t...{w} I...{w}"
-    th ""
 
-# game/episode012a.rpy:946
+    th "我不...{w}我...{w}"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2cf178a8:
 
-    # th "Stay the hell away from me!"
-    th ""
 
-# game/episode012a.rpy:948
+    th "離我遠點！"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_d22ddfcf:
 
-    # "Thyia was about to stand up and run when I caught her wrist."
-    ""
 
-# game/episode012a.rpy:949
+    "塞婭剛要站起來逃跑，我抓住了她的手腕。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_b59bf0b1:
 
-    # "She didn’t tear away, but sank down next to me, tears in her eyes."
-    ""
 
-# game/episode012a.rpy:951
+    "她沒有掙脫，而是在我旁邊坐下，眼裡含着淚。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_b22aa526:
 
-    # th "It’s just who I am, [p_name_short], I can’t help it."
-    th ""
 
-# game/episode012a.rpy:952
+    th "我就是這樣的人，[p_name_short]，我控制不了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_ab4762d3:
 
-    # th "When things get too real, when someone gets too close, I shut it down."
-    th ""
 
-# game/episode012a.rpy:953
+    th "當事情變得太真實，當有人靠得太近，我就關閉它。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_970256ef:
 
-    # th "It’s been that way ever since Shuty Station...{w} Ever since Tyber."
-    th ""
 
-# game/episode012a.rpy:955
+    th "從夏提空間站開始就這樣...{w}自從泰伯後。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_1dc4e7a3:
 
-    # th "Maybe even before that, I don’t know."
-    th ""
 
-# game/episode012a.rpy:956
+    th "也許在那之前就開始了，我不知道。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_35f28169:
 
-    # c "You’re scared you’ll be disappointed again?"
-    c ""
 
-# game/episode012a.rpy:958
+    c "你害怕再次失望？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_6579a1be:
 
-    # th "Disappointment doesn’t even begin to cover it."
-    th ""
 
-# game/episode012a.rpy:960
+    th "失望都談不上這個詞。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4fea09fb:
 
-    # th "After Tyber, I vowed never to be used like that again."
-    th ""
 
-# game/episode012a.rpy:961
+    th "泰伯之後，我發誓不再被那樣利用。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_7d9f707f:
 
-    # th "Then the opportunity to buy that workshop on Vulpes Velox and everything seemed suddenly to work out."
-    th ""
 
-# game/episode012a.rpy:962
+    th "然後隨着有機會在迅狐星買下那個工場，一切似乎突然都解決了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_7168affb:
 
-    # th "Loaning money from a guy like Glixken wasn’t the wisest choice, of course...{w} but for a short while, life was good."
-    th ""
 
-# game/episode012a.rpy:963
+    th "向格裏克森那樣的人借錢當然不是最明智的選擇...{w}但短暫的時間裡，生活還不錯。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_982ff6c6:
 
-    # th "I kept everyone at a distance, because it felt safe."
-    th ""
 
-# game/episode012a.rpy:965
+    th "我把所有人都保持距離，因爲那樣感覺安全。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_c328e4ae:
 
-    # th "Then you came around and had to fuck it all up."
-    th ""
 
-# game/episode012a.rpy:967
+    th "然後你出現了，非得把一切都搞砸了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2e31835b:
 
-    # "Thyia smiled at me and looked out over the sea."
-    ""
 
-# game/episode012a.rpy:969
+    "塞婭朝我笑了笑，望向大海。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_5b48b346:
 
-    # th "Joking, the situation with Glixken would have exploded at some point."
-    th ""
 
-# game/episode012a.rpy:970
+    th "開玩笑，格裏克森的情況遲早會在某個時刻爆發的。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_7a7edcdf:
 
-    # th "I’m just glad you were around to give me a ride out of there."
-    th ""
 
-# game/episode012a.rpy:971
+    th "我很慶幸你當時在場能帶我離開那兒。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_e0224be1:
 
-    # c "Me too."
-    c ""
 
-# game/episode012a.rpy:972
+    c "我也是。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_fb535046:
 
-    # c "I just hope Glixken got a sudden heart-attack while humping one of those whores he seemed to like so much."
-    c ""
 
-# game/episode012a.rpy:974
+    c "我真心希望格裏克森在他那麼喜歡的婊子身上發泄時突然心臟病發作。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_77d53587:
 
-    # th "Yeah, that would be a fitting end."
-    th ""
 
-# game/episode012a.rpy:975
+    th "是啊，那還真是個合適的結局。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_53c78fe6:
 
-    # c "So, where are you now, with me having fucked everything up?"
-    c ""
 
-# game/episode012a.rpy:977
+    c "所以，在我把一切都搞砸之後，你現在如何定位自己？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4a2811af:
 
-    # th "At first I could do the same with you like I did with everyone."
-    th ""
 
-# game/episode012a.rpy:978
+    th "起初我可以像對待別人一樣對待你。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_37ad54f9:
 
-    # th "A friendly talk here and there, a bit of fun between the sheets, nothing too serious."
-    th ""
 
-# game/episode012a.rpy:980
+    th "偶爾閒聊幾句，牀上玩一玩，都不是什麼嚴肅的事。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_d66c547a:
 
-    # th "Then you made me break my own rule and things just kept...{w} happening."
-    th ""
 
-# game/episode012a.rpy:982
+    th "然後你讓我打破了自己的規矩，事情就接連不斷...{w}發生。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4e08ccd9:
 
-    # th "You don’t know half how scary a simple question like “how are you doing” can be."
-    th ""
 
-# game/episode012a.rpy:983
+    th "你根本不知道像\"過得怎麼樣\"這麼簡單的問題有多嚇人。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_be8b7287:
 
-    # c "How so?"
-    c ""
 
-# game/episode012a.rpy:985
+    c "怎麼會這樣？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_2c9b9fbf:
 
-    # th "Because it becomes harder and harder to brush you off."
-    th ""
 
-# game/episode012a.rpy:986
+    th "因爲這讓我越來越難甩開你。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_e8923008:
 
-    # th "And if I start telling you personal things and you abandon me or decide you’ve enough of me..."
-    th ""
 
-# game/episode012a.rpy:988
+    th "如果我開始向你傾訴心事，你卻拋棄我或覺得受夠了我..."
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_f2562dd7:
 
-    # th "I don’t want to feel hurt like that again."
-    th ""
 
-# game/episode012a.rpy:989
+    th "我不想再那樣受傷了。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_d0003181:
 
-    # c "Have I disappointed you so far."
-    c ""
 
-# game/episode012a.rpy:991
+    c "我到現在爲止讓你失望了嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_e7b5fdc8:
 
-    # th "No."
-    th ""
 
-# game/episode012a.rpy:992
+    th "沒有。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_6d0d61e4:
 
-    # c "Do you trust me?"
-    c ""
 
-# game/episode012a.rpy:994
+    c "你信任我嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_91030a4f:
 
-    # th "Yes, I think so."
-    th ""
 
-# game/episode012a.rpy:995
+    th "是的，我想是的。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_5599d4bd:
 
-    # c "Do you believe me if I say I’ll never abandon you willingly?"
-    c ""
 
-# game/episode012a.rpy:996
+    c "如果我說我永遠都不會主動放棄你，你相信嗎？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_3a259bed:
 
-    # c "That I won’t betray you, or cast you aside as if you’re nothing?"
-    c ""
 
-# game/episode012a.rpy:998
+    c "我不會背叛你，也不會把你當垃圾一樣丟棄？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_4cccafe5:
 
-    # th "I...{w} I do."
-    th ""
 
-# game/episode012a.rpy:1004
+    th "我...{w}我相信。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_1ee5b468:
 
-    # c "The only thing I can’t promise is that you’ll be the only one I’ll love."
-    c ""
 
-# game/episode012a.rpy:1006
+    c "唯一我不能保證的是你會是我唯一愛的人。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_82e163e8:
 
-    # th "Oh..."
-    th ""
 
-# game/episode012a.rpy:1007
+    th "哦..."
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_3945315f:
 
-    # c "You disapprove?"
-    c ""
 
-# game/episode012a.rpy:1009
+    c "你不贊同？"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_a8b74014:
 
-    # th "No, I’m just surprised."
-    th ""
 
-# game/episode012a.rpy:1011
+    th "不，我只是驚訝。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_83386ca2:
 
-    # th "I don’t care though, as long as you don’t neglect me in any way."
-    th ""
 
-# game/episode012a.rpy:1014
+    th "不過我不在乎，只要你不會冷落我就好。"
+
+
 translate traditional_chinese ep012_kepler_thyia_talk_34516059:
 
-    # "Telling her about [girls] didn’t seem like the best idea at the time."
-    ""
 
-# game/episode012a.rpy:1025
+    "當時告訴她有關[girls]的事似乎不是最好的主意。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_dd327fb0:
 
-    # "I found Nadya in the gardens, admiring the many wildflower beds that were in desperate need of maintenance."
-    ""
 
-# game/episode012a.rpy:1027
+    "我在花園裡找到了娜迪亞，她正欣賞那些急需維護的許多野花牀。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_e4f4abde:
 
-    # na "It’s so quiet here."
-    na ""
 
-# game/episode012a.rpy:1028
+    na "這裡好安靜啊。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_3a58c053:
 
-    # na "A far cry from the place we used to go here on Kepler."
-    na ""
 
-# game/episode012a.rpy:1029
+    na "和我們以前在開普勒星去的那個地方差太多了。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_b2bf53b0:
 
-    # c "I just remember the beach."
-    c ""
 
-# game/episode012a.rpy:1030
+    c "我只記得海灘。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_97d3dcfa:
 
-    # na "I think we could afford access to a beach in the higher mid-tier ranges."
-    na ""
 
-# game/episode012a.rpy:1031
+    na "我覺得我們能負擔得起中高檔海灘的費用。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_7ee4f727:
 
-    # c "There are beach tiers?"
-    c ""
 
-# game/episode012a.rpy:1033
+    c "海灘還有等級？"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_1467b792:
 
-    # na "Everything has a price in the Sovereignty."
-    na ""
 
-# game/episode012a.rpy:1034
+    na "在\"至高權域\"，所有東西都有價碼。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_b67610f2:
 
-    # na "And if you have a lot of money, you can afford your own private beach, like the people who own this estate."
-    na ""
 
-# game/episode012a.rpy:1035
+    na "如果你有很多錢，就能買得起自己的私人海灘，就像擁有這個地產的人一樣。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_a1c86418:
 
-    # c "Yet they can’t afford permanent security staff to secure their own property."
-    c ""
 
-# game/episode012a.rpy:1037
+    c "然而，他們負擔不起常駐保安來保護自己的房產。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_f053aebe:
 
-    # na "I guess they never think anyone would be so bold to squat a beach property on a pleasure moon."
-    na ""
 
-# game/episode012a.rpy:1038
+    na "我猜他們從沒想過有人會如此大膽在度假衛星上霸佔海灘房產。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_4d3470c1:
 
-    # na "Or they’re too trusting of the authorities, I’ve yet to see any Sovereignty patrol around here."
-    na ""
 
-# game/episode012a.rpy:1039
+    na "或者他們太信任當局了，我一直沒見過這附近有任何\"至高權域\"的巡邏隊。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_9e2134d1:
 
-    # c "Let’s keep it that way."
-    c ""
 
-# game/episode012a.rpy:1040
+    c "就讓我們保持這樣吧。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_6d5e535f:
 
-    # c "I wanted to ask you, if we’re going to find my father, where would I find him?"
-    c ""
 
-# game/episode012a.rpy:1041
+    c "我想問你，如果我們要找我父親，我該去哪兒找他？"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_b3e87b62:
 
-    # c "As I said, I only remember the beach here and so do Lilly and Eva."
-    c ""
 
-# game/episode012a.rpy:1042
+    c "如我所言，我只記得這裡的海灘，莉莉和伊娃也是。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_2eb9479c:
 
-    # c "You were always around, while Mom and Dad just fucked off to wherever they pleased."
-    c ""
 
-# game/episode012a.rpy:1044
+    c "你總在我身邊，而父母親卻他媽的甩手不管，愛去哪兒去哪兒。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_89cc6361:
 
-    # na "They went out together, but I’m not sure it stayed that way as soon as they hit the town."
-    na ""
 
-# game/episode012a.rpy:1045
+    na "他們一起出門的，但我不確定他們一進城還會不會在一起。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_04ab8408:
 
-    # na "I don’t know any specifics either, but if I were to look for him, I’d hit the more expensive clubs."
-    na ""
 
-# game/episode012a.rpy:1047
+    na "我也不知道具體細節，但要是我的話，會去那些費用更昂貴的俱樂部找他。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_20f338bb:
 
-    # na "One name I do remember, but it concerns Yve."
-    na ""
 
-# game/episode012a.rpy:1049
+    na "我確實記得一個名字，但和伊芙有關。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_64888364:
 
-    # na "There was one time I had to take you three into town in the middle of the night."
-    na ""
 
-# game/episode012a.rpy:1050
+    na "有一次我不得不在半夜帶你們三個進城。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_390e5705:
 
-    # na "Yve had called me from a place called the Neon Swan, a nightclub."
-    na ""
 
-# game/episode012a.rpy:1051
+    na "伊芙從一個叫\"霓虹天鵝\"的地方給我打電話，那是個夜總會。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_5bee672c:
 
-    # na "She was dead-drunk and I could hear her yelling at people over the phone."
-    na ""
 
-# game/episode012a.rpy:1052
+    na "她爛醉如泥，我都能聽到她在電話裏對別人大喊大叫。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_7eefd1e6:
 
-    # na "They were about to throw her out, because of some heated disagreement over paying the tab."
-    na ""
 
-# game/episode012a.rpy:1053
+    na "他們正要攆她出去，就因爲付賬時發生了激烈的爭執。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_826f1338:
 
-    # na "Law enforcement had already tagged her as aggressive on behalf of the club, so no taxi would take her home."
-    na ""
 
-# game/episode012a.rpy:1055
+    na "執法部門已替俱樂部給她貼上了暴力標籤，所以沒出租車肯載她回家。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_4cf141ca:
 
-    # na "You were so little back then, so I carried you to the family car from your bed and drove into town."
-    na ""
 
-# game/episode012a.rpy:1056
+    na "你那時還那麼小，我直接從牀上抱起你塞進家庭轎車，開車進了城。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_86d665ea:
 
-    # na "I paid what Yve owed the club, hauled her to the car, where she passed out in the front seat and drove back with you three in the back."
-    na ""
 
-# game/episode012a.rpy:1058
+    na "我付清伊芙欠俱樂部的賬，把她拖上車，她就在前排癱倒了，載着你們仨在後座原路返回。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_107f39fb:
 
-    # na "Crazy, now that I think of it."
-    na ""
 
-# game/episode012a.rpy:1059
+    na "現在回想起來真是瘋狂。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_684c5a3c:
 
-    # c "I don’t think I would have been so helpful in your shoes."
-    c ""
 
-# game/episode012a.rpy:1061
+    c "換作是我處在你的位置，未必能這麼不辭勞苦地相助。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_b67703c1:
 
-    # na "She sounded really panicked on the phone, but it turned out it was all part of the tantrum she threw in the club."
-    na ""
 
-# game/episode012a.rpy:1062
+    na "電話裏她聽着驚慌失措，結果全是她在俱樂部撒潑的戲碼。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_980a40d4:
 
-    # na "But yeah, the Neon Swan."
-    na ""
 
-# game/episode012a.rpy:1063
+    na "不過，確實，\"霓虹天鵝\"。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_97b5b7ea:
 
-    # na "I’m not sure if Agust ever went to that club, but it might be worthwhile to start your search there."
-    na ""
 
-# game/episode012a.rpy:1064
+    na "我不確定阿古斯特去過那家店沒，但你從那兒開始找線索準沒錯。"
+
+
 translate traditional_chinese ep012_kepler_nadya_talk_7f63a5b3:
 
-    # c "Thanks, that might be a useful avenue to explore."
-    c ""
 
-# game/episode012a.rpy:1070
+    c "謝謝，這倒是個值得深挖的渠道。"
+
+
 translate traditional_chinese ep012_club_4f5416d5:
 
-    # "Together with Aven, I headed out towards Kepler town."
-    ""
 
-# game/episode012a.rpy:1071
+    "我和艾文直奔開普勒星的城鎮。"
+
+
 translate traditional_chinese ep012_club_b5644cd2:
 
-    # "We were dressed for the occasion, Aven wearing a beautiful black dress I’d never seen her wear before."
-    ""
 
-# game/episode012a.rpy:1073
+    "我們都穿了應景的行頭，艾文那條漂亮黑裙子我從未見她穿過。"
+
+
 translate traditional_chinese ep012_club_4acd4b49:
 
-    # "My mother’s leering gaze greeted us, this time lit by numerous spotlights."
-    ""
 
-# game/episode012a.rpy:1074
+    "我媽不懷好意的目光迎上來，這次還點綴着無數聚光燈。"
+
+
 translate traditional_chinese ep012_club_8777d903:
 
-    # c "So my mother took up singing again..."
-    c ""
 
-# game/episode012a.rpy:1075
+    c "看來她又重操舊業當起歌星了..."
+
+
 translate traditional_chinese ep012_club_f52d0c78:
 
-    # av "Let’s hope it isn’t sold out."
-    av ""
 
-# game/episode012a.rpy:1076
+    av "但願門票沒賣光。"
+
+
 translate traditional_chinese ep012_club_deb56b93:
 
-    # c "Be careful what you wish for, but I don’t think it will be busy..."
-    c ""
 
-# game/episode012a.rpy:1078
+    c "願望雖好別太當真，不過估摸着也沒多少人捧場..."
+
+
 translate traditional_chinese ep012_club_26222636:
 
-    # "The concert wasn’t starting for a couple of hours, so Aven and I hung out at the bar for a while."
-    ""
 
-# game/episode012a.rpy:1079
+    "離演唱會開場還有幾小時，我和艾文就泡在酒吧打發時間。"
+
+
 translate traditional_chinese ep012_club_f05382cd:
 
-    # "As time passed, a small crowd gathered inside the club, much to my amazement."
-    ""
 
-# game/episode012a.rpy:1080
+    "眼見着俱樂部裏人越聚越多，真是出乎我意料。"
+
+
 translate traditional_chinese ep012_club_fa9dcd65:
 
-    # "Surely those people weren’t coming to hear my mother croak a few of her old semi-popular songs?"
-    ""
 
-# game/episode012a.rpy:1081
+    "總不會真有人花錢聽我媽瞎嚎她那幾首半紅不紫的老歌吧？"
+
+
 translate traditional_chinese ep012_club_2a9c846f:
 
-    # "At present, a DJ was mixing a string of hits from various eras together."
-    ""
 
-# game/episode012a.rpy:1084
+    "這會兒DJ正串燒着各個年代的熱門金曲。"
+
+
 translate traditional_chinese ep012_club_ce3d8a2d:
 
-    # "I suddenly felt Aven tugging at my elbow and she pulled me towards the dance floor."
-    ""
 
-# game/episode012a.rpy:1085
+    "艾文突然拽我手肘，把我往舞池方向拉。"
+
+
 translate traditional_chinese ep012_club_b1b865f6:
 
-    # av "We might as well have some fun!"
-    av ""
 
-# game/episode012a.rpy:1087
+    av "我們也去嗨一會兒！"
+
+
 translate traditional_chinese ep012_club_b00367ee:
 
-    # "Amidst a small crowd, Aven and I danced."
-    ""
 
-# game/episode012a.rpy:1088
+    "在攢動的人頭中，我和艾文縱情熱舞。"
+
+
 translate traditional_chinese ep012_club_e2e5e999:
 
-    # "We only had eyes for each other, dancing intimately."
-    ""
 
-# game/episode012a.rpy:1089
+    "我們眼裡只有彼此，親密地跳舞。"
+
+
 translate traditional_chinese ep012_club_ddd136d6:
 
-    # "Resting my hands on her hips, I felt her ass grind against my crotch as she leaned back against me."
-    ""
 
-# game/episode012a.rpy:1091
+    "我的手搭在她的臀部上，當她靠在我身上時，我感覺到她的屁股磨蹭着我的褲襠。"
+
+
 translate traditional_chinese ep012_club_e96875c2:
 
-    # "I kissed her neck and met her lips to exchange a heartfelt tongue kiss."
-    ""
 
-# game/episode012a.rpy:1093
+    "我親吻她的脖子，然後湊近她的嘴脣交換了一個深情的舌吻。"
+
+
 translate traditional_chinese ep012_club_8f653fba:
 
-    # av "I wish we could go somewhere more private..."
-    av ""
 
-# game/episode012a.rpy:1094
+    av "我希望我們能去更私密的地方..."
+
+
 translate traditional_chinese ep012_club_4a4b8748:
 
-    # c "We could, the main act isn’t coming for more than an hour."
-    c ""
 
-# game/episode012a.rpy:1096
+    c "我們可以，主要表演者還有一個多小時才來。"
+
+
 translate traditional_chinese ep012_club_20e5e720:
 
-    # "Aven bit her lip and led me from the dance floor to the outside of the club."
-    ""
 
-# game/episode012a.rpy:1099
+    "艾文咬着嘴脣，領着我從舞池走到俱樂部外頭。"
+
+
 translate traditional_chinese ep012_club_33469192:
 
-    # "Holding hands, we found a back alley and hid in the shadows."
-    ""
 
-# game/episode012a.rpy:1106
+    "手牽着手，我們找到了一條後巷，藏在了陰影裏。"
+
+
 translate traditional_chinese ep012_club_bd3b3949:
 
-    # "The crowd had grown considerably when we returned, but our strategic spot at the bar was still available."
-    ""
 
-# game/episode012a.rpy:1107
+    "當我們返回時，人羣已經變得相當龐大，但我們在酒吧的有利位置還在空着。"
+
+
 translate traditional_chinese ep012_club_b15d6f0a:
 
-    # "We could oversee the entire stage from back there."
-    ""
 
-# game/episode012a.rpy:1113
+    "從那兒後面，我們可以俯瞰整個舞臺。"
+
+
 translate traditional_chinese ep012_club_2dc8dc97:
 
-    # "The crowd grew considerably during the hours remaining until my mother’s performance."
-    ""
 
-# game/episode012a.rpy:1114
+    "在我母親表演前的剩餘時間裡，人羣明顯增加了。"
+
+
 translate traditional_chinese ep012_club_23aa15d1:
 
-    # "From our strategic place at the bar, we could oversee the entire stage."
-    ""
 
-# game/episode012a.rpy:1115
+    "從酒吧的有利位置，我們可以俯瞰整個舞臺。"
+
+
 translate traditional_chinese ep012_club_4aeeb8d9:
 
-    # "A good portion of the audience was made up of young men, probably not surprising considering my mothers appetites."
-    ""
 
-# game/episode012a.rpy:1117
+    "相當一部分觀衆是年輕男子，考慮到我母親的胃口，這或許不令人驚訝。"
+
+
 translate traditional_chinese ep012_club_61aa27d6:
 
-    # "There was some commotion as a sweaty man approached the bar and starting making demands of the barkeeper."
-    ""
 
-# game/episode012a.rpy:1119
+    "當一個大汗淋淋的男人走近吧檯並對酒保提出要求時，有些騷動。"
+
+
 translate traditional_chinese ep012_club_e18fbf36:
 
-    # man "She demands more ice!"
-    man ""
 
-# game/episode012a.rpy:1120
+    man "她要求更多冰塊！"
+
+
 translate traditional_chinese ep012_club_1bd10798:
 
-    # man "Yve will not perform without drinking at least one cosmo at the perfect temperature."
-    man ""
 
-# game/episode012a.rpy:1121
+    man "伊芙不會在不喝一杯溫度完美的柯斯莫酒的情況下表演。"
+
+
 translate traditional_chinese ep012_club_e7277d29:
 
-    # "That demand packaged as a threat totally sounded like something Yve would come up with before a performance, so I guessed this guy was her new manager."
-    ""
 
-# game/episode012a.rpy:1122
+    "那個包裝成威脅的要求聽起來完全像是伊芙在表演前會想出來的東西，所以我猜這傢伙是她的新經理。"
+
+
 translate traditional_chinese ep012_club_919e2d1f:
 
-    # "My mother had gone through a staggering amount of managers, who’d fall from grace faster than she changed shoes."
-    ""
 
-# game/episode012a.rpy:1123
+    "我的母親換過驚人的經理數量，他們失去恩寵的速度比她換鞋還快。"
+
+
 translate traditional_chinese ep012_club_be987324:
 
-    # "The obese toad demanding ice must have been the latest wannabe who thought he could revive the desiccated corpse that was my mother’s singing career."
-    ""
 
-# game/episode012a.rpy:1124
+    "那個要求冰塊的肥胖癩蛤蟆，肯定是最新的妄想能復活我母親死去的歌唱事業的人。"
+
+
 translate traditional_chinese ep012_club_2d5b81f7:
 
-    # "However, judging by the turn-out he wasn’t half as bad at his job than I’d thought possible."
-    ""
 
-# game/episode012a.rpy:1126
+    "不過，從現場來看，他的工作能力並不像我可能想象中那麼糟糕。"
+
+
 translate traditional_chinese ep012_club_1900cf10:
 
-    # "The barkeeper filled a bucket of ice that was apparently to the manager’s satisfaction and I watched him waddle backstage."
-    ""
 
-# game/episode012a.rpy:1127
+    "酒保裝滿了一桶冰塊，那顯然讓經理滿意了，我看着他蹣跚地走向後臺。"
+
+
 translate traditional_chinese ep012_club_19a9e42d:
 
-    # c "I think we’re in for an unforgettable performance."
-    c ""
 
-# game/episode012a.rpy:1129
+    c "我覺得我們將迎來一場難忘的表演。"
+
+
 translate traditional_chinese ep012_club_40b84f44:
 
-    # av "No doubt."
-    av ""
 
-# game/episode012a.rpy:1130
+    av "毫無疑問。"
+
+
 translate traditional_chinese ep012_club_2069776c:
 
-    # av "What are we going to do once she arrives?"
-    av ""
 
-# game/episode012a.rpy:1131
+    av "等她到了我們該做什麼？"
+
+
 translate traditional_chinese ep012_club_37b15f1e:
 
-    # av "We can’t approach her on stage, obviously."
-    av ""
 
-# game/episode012a.rpy:1132
+    av "顯然，我們不能在舞臺上接近她。"
+
+
 translate traditional_chinese ep012_club_6355a081:
 
-    # c "I’m hoping we can somehow get to her when she’s backstage again, pose as fans, maybe?"
-    c ""
 
-# game/episode012a.rpy:1134
+    c "我希望我們能等她再次到後臺時想辦法接觸她，裝成粉絲之類的？"
+
+
 translate traditional_chinese ep012_club_783a5517:
 
-    # av "She has fans?"
-    av ""
 
-# game/episode012a.rpy:1135
+    av "她有粉絲？"
+
+
 translate traditional_chinese ep012_club_6e2b3616:
 
-    # c "She does."
-    c ""
 
-# game/episode012a.rpy:1137
+    c "她有。"
+
+
 translate traditional_chinese ep012_club_99184199:
 
-    # "Yve must have had that cosmo she so craved, because at that moment the lights went out and the stage was filled with smoke."
-    ""
 
-# game/episode012a.rpy:1138
+    "伊芙一定喝了她渴望的那杯柯斯莫酒，因爲在那時燈滅了，舞臺充滿了煙霧。"
+
+
 translate traditional_chinese ep012_club_d1148106:
 
-    # "Pumping beats flooded the room and the crowd went ecstatic."
-    ""
 
-# game/episode012a.rpy:1139
+    "強勁的節拍淹沒了房間，人羣瘋狂了。"
+
+
 translate traditional_chinese ep012_club_dc1edb91:
 
-    # "Aven and I watched everything unfold with bemused detachment."
-    ""
 
-# game/episode012a.rpy:1141
+    "艾文和我看着一切發生，帶着一點困惑的疏離感。"
+
+
 translate traditional_chinese ep012_club_06e6544c:
 
-    # av "She really has fans..."
-    av ""
 
-# game/episode012a.rpy:1143
+    av "她真的有粉絲..."
+
+
 translate traditional_chinese ep012_club_42935fdc:
 
-    # "My mother made an entrance, wearing the pop star attire I knew from the photos from her heydays."
-    ""
 
-# game/episode012a.rpy:1144
+    "我母親登臺了，穿着我從她巔峯期照片中見過的流行歌星裝束。"
+
+
 translate traditional_chinese ep012_club_cff2469d:
 
-    # "Her looks harkened back to a time where showing off as much skin as possible was very much in fashion."
-    ""
 
-# game/episode012a.rpy:1145
+    "她的樣子讓人想起那個以暴露儘可能多肌膚爲時尚的時代。"
+
+
 translate traditional_chinese ep012_club_aea74a74:
 
-    # "That said, for a woman her age, my mother didn’t look all that bad, which was a compliment to either herself or her team of plastic surgeons."
-    ""
 
-# game/episode012a.rpy:1147
+    "話雖如此，以她的年齡來說，我母親看起來並不那麼糟，這對她自己或她的整形醫生團隊都是種誇獎。"
+
+
 translate traditional_chinese ep012_club_0e82e680:
 
-    # "Yve launched straight into a song I neither recognized or wished to recognize."
-    ""
 
-# game/episode012a.rpy:1148
+    "伊芙直接唱起一首我既不認識也不想認識的歌。"
+
+
 translate traditional_chinese ep012_club_9cd517a1:
 
-    # "Her singing wasn’t terrible, but clearly AI-enhanced."
-    ""
 
-# game/episode012a.rpy:1149
+    "她的唱功不算太差，但顯然是AI增強過的。"
+
+
 translate traditional_chinese ep012_club_97c83efc:
 
-    # "The confidence with which she sang the most inane lyrics certainly commanded a lot of respect..."
-    ""
 
-# game/episode012a.rpy:1150
+    "她以那種自信唱出最愚蠢的歌詞，確實讓人不得不尊重..."
+
+
 translate traditional_chinese ep012_club_4f3e1593:
 
-    # "When the initial shock of seeing my mother sing on a stage had subsided, the wait for the performance to end began."
-    ""
 
-# game/episode012a.rpy:1152
+    "最初看到我母親在舞臺上唱歌的震驚消退後，等待演出結束的煎熬開始了。"
+
+
 translate traditional_chinese ep012_club_807c4554:
 
-    # "Yve’s dance routine would have been truly scandalous in another age and mostly resembled someone making passionate love to thin air."
-    ""
 
-# game/episode012a.rpy:1153
+    "伊芙的舞蹈動作在另一個時代肯定會引起公憤，而且很像一個人在對着空氣熱情示愛。"
+
+
 translate traditional_chinese ep012_club_f70291b9:
 
-    # "My mother’s redeeming qualities, all physical in nature, were on full display."
-    ""
 
-# game/episode012a.rpy:1155
+    "我母親的救贖點，純粹是物理上的優點，完全展現出來了。"
+
+
 translate traditional_chinese ep012_club_09c6afbe:
 
-    # "For more than an hour, she bounced, twerked and frolicked."
-    ""
 
-# game/episode012a.rpy:1156
+    "一個多小時裡，她蹦蹦跳跳、甩臀、嬉戲。"
+
+
 translate traditional_chinese ep012_club_9c4d57ff:
 
-    # "When first notes of the only hit she ever had resounded, the increasingly disinterested crowd suddenly went wild."
-    ""
 
-# game/episode012a.rpy:1158
+    "當她那首唯一的熱門歌的前奏響起，越來越沒興趣的人羣突然瘋狂起來。"
+
+
 translate traditional_chinese ep012_club_f756eec6:
 
-    # "That last song assured the thunderous applause she received, our cue to move backstage and attempt a meet and greet."
-    ""
 
-# game/episode012a.rpy:1159
+    "最後一首歌確保了雷鳴般的掌聲，提示我們該去後臺嘗試見面打招呼了。"
+
+
 translate traditional_chinese ep012_club_e539b0c9:
 
-    # "Wading through the cheering fans we were waived through the backstage door and entered a drab hallway."
-    ""
 
-# game/episode012a.rpy:1161
+    "我們擠過歡呼的粉絲，被揮手讓進後臺門，進入一個單調的走廊。"
+
+
 translate traditional_chinese ep012_club_688880d1:
 
-    # "Several people were already waiting in front of what I assumed was Yve’s dressing room door."
-    ""
 
-# game/episode012a.rpy:1162
+    "我猜伊芙的更衣室門前已經有人在等着了。"
+
+
 translate traditional_chinese ep012_club_387d67ca:
 
-    # av "I guess there aren’t a lot of women who want an autograph."
-    av ""
 
-# game/episode012a.rpy:1163
+    av "我猜沒多少女性想要籤名吧。"
+
+
 translate traditional_chinese ep012_club_00aa047c:
 
-    # c "No, mother always cherished her male audience far more..."
-    c ""
 
-# game/episode012a.rpy:1165
+    c "不，母親總是更珍惜她的男觀衆們..."
+
+
 translate traditional_chinese ep012_club_b8896ec3:
 
-    # "Several people suddenly jerked into action when Yve arrived backstage."
-    ""
 
-# game/episode012a.rpy:1166
+    "當伊芙回到後臺時，幾個人突然激動起來。"
+
+
 translate traditional_chinese ep012_club_97f4c190:
 
-    # "Her manager guided her through the crowd and I was amazed to see several people actually request an autograph."
-    ""
 
-# game/episode012a.rpy:1167
+    "她的經紀人帶她穿過人羣，我驚訝地看到幾個人真的請求籤名。"
+
+
 translate traditional_chinese ep012_club_02ca275b:
 
-    # "Yve flashed a quick smile and disappeared inside her dressing room without signing anything or taking photo ops."
-    ""
 
-# game/episode012a.rpy:1169
+    "伊芙迅速露個笑臉，就消失在更衣室裏，沒籤名也沒合照。"
+
+
 translate traditional_chinese ep012_club_2e0ca0a9:
 
-    # av "I guess she isn’t in a cherishing mood in general today?"
-    av ""
 
-# game/episode012a.rpy:1170
+    av "我猜她今天根本就沒那心情？"
+
+
 translate traditional_chinese ep012_club_2e3e6041:
 
-    # c "I wouldn’t be too sure, let’s move a little bit closer."
-    c ""
 
-# game/episode012a.rpy:1171
+    c "我可不敢確定，我們靠近點看。"
+
+
 translate traditional_chinese ep012_club_02082d00:
 
-    # "We mingled with the rest of the crowd and waited."
-    ""
 
-# game/episode012a.rpy:1173
+    "我們和其他觀衆混在一起，等着。"
+
+
 translate traditional_chinese ep012_club_c8bcd373:
 
-    # "After a good while, the manager emerged from the dressing room."
-    ""
 
-# game/episode012a.rpy:1174
+    "過了一陣子，經紀人從更衣室出來了。"
+
+
 translate traditional_chinese ep012_club_391b61ce:
 
-    # "He looked over all the people gathered around him, as if appraising them."
-    ""
 
-# game/episode012a.rpy:1176
+    "他打量着聚集在他周圍的所有人，好像在評估他們。"
+
+
 translate traditional_chinese ep012_club_89191353:
 
-    # man "You and you, follow me."
-    man ""
 
-# game/episode012a.rpy:1178
+    man "你和你，跟我來。"
+
+
 translate traditional_chinese ep012_club_5f11ea96:
 
-    # "The two young males who were pointed out by the manager followed the guy inside the dressing room."
-    ""
 
-# game/episode012a.rpy:1179
+    "經紀人點名的兩個年輕男性跟着那個人進了更衣室。"
+
+
 translate traditional_chinese ep012_club_1d0f33cb:
 
-    # "I had an inkling of what was about to transpire..."
-    ""
 
-# game/episode012a.rpy:1181
+    "我有點預感要發生什麼了..."
+
+
 translate traditional_chinese ep012_club_8339b7e1:
 
-    # av "This is going to be a long night, isn’t it?"
-    av ""
 
-# game/episode012a.rpy:1182
+    av "今晚會很漫長，對吧？"
+
+
 translate traditional_chinese ep012_club_a1f0da02:
 
-    # c "Yeah..."
-    c ""
 
-# game/episode012a.rpy:1183
+    c "是啊..."
+
+
 translate traditional_chinese ep012_club_2dcade88:
 
-    # av "What’s the plan here?"
-    av ""
 
-# game/episode012a.rpy:1184
+    av "我們有什麼計劃？"
+
+
 translate traditional_chinese ep012_club_0c276ed6:
 
-    # c "I was hoping to get noticed next time."
-    c ""
 
-# game/episode012a.rpy:1186
+    c "我希望下次能引起注意。"
+
+
 translate traditional_chinese ep012_club_5de1e624:
 
-    # av "That’s insane, you can’t go in there!"
-    av ""
 
-# game/episode012a.rpy:1187
+    av "你瘋了，不能進去！"
+
+
 translate traditional_chinese ep012_club_fb5dc886:
 
-    # c "I just want to talk in private, this seems like the best opportunity."
-    c ""
 
-# game/episode012a.rpy:1189
+    c "我只是想私下談談，這似乎是最好機會。"
+
+
 translate traditional_chinese ep012_club_872f7bb3:
 
-    # av "I thought we’d make an appointment or something, pretend we’re press."
-    av ""
 
-# game/episode012a.rpy:1190
+    av "我還以爲我們可以預約什麼的，假裝是記者。"
+
+
 translate traditional_chinese ep012_club_b2f3bfee:
 
-    # c "That might work, though I’m not sure if she’s in the mood for questions."
-    c ""
 
-# game/episode012a.rpy:1194
+    c "或許可以，不過我不確定她現在有沒心情回答問題。"
+
+
 translate traditional_chinese ep012_club_fc890072:
 
-    # c "I really think I should try this alone."
-    c ""
 
-# game/episode012a.rpy:1195
+    c "我真的覺得應該我自己試試。"
+
+
 translate traditional_chinese ep012_club_f8b910be:
 
-    # av "You’re crazy, but okay."
-    av ""
 
-# game/episode012a.rpy:1196
+    av "你瘋了，但好吧。"
+
+
 translate traditional_chinese ep012_club_d91cbad7:
 
-    # "Aven and I strong-armed our way through the crowd and took up position near the door."
-    ""
 
-# game/episode012a.rpy:1198
+    "艾文和我強行穿過人羣，在門邊佔了個位置。"
+
+
 translate traditional_chinese ep012_club_a3c16178:
 
-    # "When the door opened again, the two men who’d gone in before wore self-satisfied smirks and headed towards the exit."
-    ""
 
-# game/episode012a.rpy:1199
+    "門再次打開時，之前進去的兩個男人掛着自鳴得意的笑容，朝出口走去。"
+
+
 translate traditional_chinese ep012_club_48646271:
 
-    # "Aven had slinked away into the background and I awaited the manager’s return outwardly beaming feigned confidence."
-    ""
 
-# game/episode012a.rpy:1200
+    "艾文已經溜進後臺中，我面帶虛僞的自信笑容，等待着經理回來。"
+
+
 translate traditional_chinese ep012_club_8b024958:
 
-    # "I caught the fat man’s eye immediately when he stepped into the hallway."
-    ""
 
-# game/episode012a.rpy:1201
+    "當他走進走廊時，我立刻吸引了那個胖男人的目光。"
+
+
 translate traditional_chinese ep012_club_e407b6db:
 
-    # "Pointing a sausage-like digit into my general direction, he signaled me to follow him into a small antechamber."
-    ""
 
-# game/episode012a.rpy:1203
+    "他用一根像香腸一樣的手指指向我的大致方向，示意我跟他進一個小前廳。"
+
+
 translate traditional_chinese ep012_club_39765e22:
 
-    # man "Didn’t see you there before."
-    man ""
 
-# game/episode012a.rpy:1204
+    man "之前沒看見你在那兒。"
+
+
 translate traditional_chinese ep012_club_12b99085:
 
-    # man "I’m sure she’s going to like you."
-    man ""
 
-# game/episode012a.rpy:1205
+    man "我肯定她會喜歡你。"
+
+
 translate traditional_chinese ep012_club_60f01bff:
 
-    # man "Don’t expect any payment or compensation, just have a good time and make sure Yve has a good time too."
-    man ""
 
-# game/episode012a.rpy:1206
+    man "別指望任何報酬或補償，只管玩得開心，確保伊芙也玩得開心。"
+
+
 translate traditional_chinese ep012_club_bc427136:
 
-    # man "Try to hurt her in any way and I’ll cut off your balls with a dull knife."
-    man ""
 
-# game/episode012a.rpy:1207
+    man "如果你敢用任何方式傷害她，我就用一把鈍刀割掉你的蛋蛋。"
+
+
 translate traditional_chinese ep012_club_ed2dfe00:
 
-    # man "Understood?"
-    man ""
 
-# game/episode012a.rpy:1208
+    man "明白了嗎？"
+
+
 translate traditional_chinese ep012_club_7963cf59:
 
-    # c "Understood."
-    c ""
 
-# game/episode012a.rpy:1209
+    c "明白了。"
+
+
 translate traditional_chinese ep012_club_4c9a84e8:
 
-    # "The fat man opened the door to Yve’s dressing room with a flourish and allowed me to enter."
-    ""
 
-# game/episode012a.rpy:1211
+    "那個胖男人花枝招展地打開伊芙更衣室的門，讓我進去了。"
+
+
 translate traditional_chinese ep012_club_8ad68b3d:
 
-    # c "Let’s try your idea."
-    c ""
 
-# game/episode012a.rpy:1212
+    c "試試你的主意吧。"
+
+
 translate traditional_chinese ep012_club_d91cbad7_1:
 
-    # "Aven and I strong-armed our way through the crowd and took up position near the door."
-    ""
 
-# game/episode012a.rpy:1214
+    "艾文和我強行穿過人羣，在門邊佔了個位置。"
+
+
 translate traditional_chinese ep012_club_a3c16178_1:
 
-    # "When the door opened again, the two men who’d gone in before wore self-satisfied smirks and headed towards the exit."
-    ""
 
-# game/episode012a.rpy:1215
+    "門再次打開時，之前進去的兩個男人掛着自鳴得意的笑容，朝出口走去。"
+
+
 translate traditional_chinese ep012_club_bd5e20aa:
 
-    # "We immediately crowded the manager, Aven flashing some plastic card in his face."
-    ""
 
-# game/episode012a.rpy:1216
+    "我們立刻擠到經理身邊，艾文在他面前晃了晃一張塑料卡片。"
+
+
 translate traditional_chinese ep012_club_546b7b10:
 
-    # c "We’re with the Kepler Gazette."
-    c ""
 
-# game/episode012a.rpy:1217
+    c "我們是開普勒星報的。"
+
+
 translate traditional_chinese ep012_club_1c43f6e6:
 
-    # av "Could you please grant us an interview with Miss Yve?"
-    av ""
 
-# game/episode012a.rpy:1218
+    av "能請你批准我們對伊芙小姐的採訪嗎？"
+
+
 translate traditional_chinese ep012_club_46f00927:
 
-    # "The manager looked a little surprised at us and frowned."
-    ""
 
-# game/episode012a.rpy:1219
+    "經理看起來有點喫驚地看着我們，皺起了眉。"
+
+
 translate traditional_chinese ep012_club_52c32f54:
 
-    # man "Follow me."
-    man ""
 
-# game/episode012a.rpy:1220
+    man "跟我來。"
+
+
 translate traditional_chinese ep012_club_76e8d070:
 
-    # "He brought us both into a small antechamber."
-    ""
 
-# game/episode012a.rpy:1222
+    "他把我們倆帶進了一個小前廳。"
+
+
 translate traditional_chinese ep012_club_5b36c0a0:
 
-    # man "Yve will answer a few questions, but only one of you can be present."
-    man ""
 
-# game/episode012a.rpy:1223
+    man "伊芙會回答幾個問題，但只能有一個在場。"
+
+
 translate traditional_chinese ep012_club_3244d33e:
 
-    # man "Please stay here, miss."
-    man ""
 
-# game/episode012a.rpy:1224
+    man "小姐，請留在這兒。"
+
+
 translate traditional_chinese ep012_club_3e1ae3e8:
 
-    # "I shot a glance at Aven who shrugged helplessly and I followed the fat man into Yve’s dressing room."
-    ""
 
-# game/episode012a.rpy:1229
+    "我瞥了艾文一眼，她無奈地聳聳肩，我就跟着胖男人進了伊芙的更衣室。"
+
+
 translate traditional_chinese ep012_club_186ef94c:
 
-    # "The air inside was thick with incense, sweat and the smell of sex."
-    ""
 
-# game/episode012a.rpy:1230
+    "室內瀰漫着濃厚的薰香味、汗味和性氣味。"
+
+
 translate traditional_chinese ep012_club_b08b2714:
 
-    # "Yve lay draped on a large bed smiling lazily in the general direction of the door that had just opened."
-    ""
 
-# game/episode012a.rpy:1231
+    "伊芙癱在一張大牀上，朝着剛打開的門慵懶地微笑。"
+
+
 translate traditional_chinese ep012_club_ac94a20e:
 
-    # "There was no spark of recognition in her eyes, even when I approached her."
-    ""
 
-# game/episode012a.rpy:1232
+    "即使我走到她面前，她眼中也沒有一絲認出我的神色。"
+
+
 translate traditional_chinese ep012_club_7d08ff12:
 
-    # "That wasn’t the only fact that lead me to conclude that Yve was drugged up to her tits."
-    ""
 
-# game/episode012a.rpy:1236
+    "這不是讓我斷定伊芙嗑藥嗑嗨的唯一跡象。"
+
+
 translate traditional_chinese ep012_club_ee3ca180:
 
-    # yve "Another gorgeous stud!"
-    yve ""
 
-# game/episode012a.rpy:1238
+    yve "又是個極品猛男！"
+
+
 translate traditional_chinese ep012_club_8bcd14ba:
 
-    # yve "Antoine didn’t tell me you were gorgeous."
-    yve ""
 
-# game/episode012a.rpy:1239
+    yve "安託萬沒說你這麼俊呢。"
+
+
 translate traditional_chinese ep012_club_7786825b:
 
-    # "Yve’s speech was slurred, her eyes unfocused."
-    ""
 
-# game/episode012a.rpy:1241
+    "伊芙口齒含混不清，眼神渙散失焦。"
+
+
 translate traditional_chinese ep012_club_3272a433:
 
-    # yve "Would you like to use something?"
-    yve ""
 
-# game/episode012a.rpy:1243
+    yve "想來點助興的麼？"
+
+
 translate traditional_chinese ep012_club_4943abfc:
 
-    # yve "Ask away!"
-    yve ""
 
-# game/episode012a.rpy:1247
+    yve "儘管問！"
+
+
 translate traditional_chinese ep012_club_c005ed2e:
 
-    # c "No thanks, miss."
-    c ""
 
-# game/episode012a.rpy:1249
+    c "不用了，小姐。"
+
+
 translate traditional_chinese ep012_club_bdcb5278:
 
-    # c "Of course, miss."
-    c ""
 
-# game/episode012a.rpy:1250
+    c "遵命，小姐。"
+
+
 translate traditional_chinese ep012_club_2bae4233:
 
-    # yve "Please, call me Yve."
-    yve ""
 
-# game/episode012a.rpy:1251
+    yve "叫我伊芙就好。"
+
+
 translate traditional_chinese ep012_club_47ed351e:
 
-    # yve "And what do I call you?"
-    yve ""
 
-# game/episode012a.rpy:1252
+    yve "那我該怎麼稱呼你？"
+
+
 translate traditional_chinese ep012_club_c74301cf:
 
-    # c "My name is Duncan."
-    c ""
 
-# game/episode012a.rpy:1254
+    c "我叫鄧肯。"
+
+
 translate traditional_chinese ep012_club_ae758c51:
 
-    # "Yve looked at me and frowned and I was afraid she’d come to a realization right then and there, but she looked past me and her brows shot up in surprise."
-    ""
 
-# game/episode012a.rpy:1255
+    "伊芙皺眉盯着我，我生怕她當場認出我來，但她目光越過我時突然驚訝地揚起眉毛。"
+
+
 translate traditional_chinese ep012_club_52291664:
 
-    # yve "Do you hear the birds?"
-    yve ""
 
-# game/episode012a.rpy:1256
+    yve "聽見鳥叫聲沒？"
+
+
 translate traditional_chinese ep012_club_92461607:
 
-    # c "Birds?"
-    c ""
 
-# game/episode012a.rpy:1258
+    c "鳥叫？"
+
+
 translate traditional_chinese ep012_club_f892add3:
 
-    # yve "I’m in a beautiful garden."
-    yve ""
 
-# game/episode012a.rpy:1259
+    yve "我躺在漂亮的花園裡呢。"
+
+
 translate traditional_chinese ep012_club_19845e0d:
 
-    # yve "There are birds and bees everywhere."
-    yve ""
 
-# game/episode012a.rpy:1260
+    yve "到處是鳥語花香。"
+
+
 translate traditional_chinese ep012_club_982b5dea:
 
-    # yve "Do you know the story about the birds and the bees, Duncan?"
-    yve ""
 
-# game/episode012a.rpy:1261
+    yve "知道小鳥和蜜蜂的傳說嗎，鄧肯？"
+
+
 translate traditional_chinese ep012_club_632aa88c:
 
-    # "Inwardly, I rolled my eyes, but kept a pleasant smile plastered across my face."
-    ""
 
-# game/episode012a.rpy:1265
+    "我在心裡直翻白眼，臉上仍掛着禮貌的微笑。"
+
+
 translate traditional_chinese ep012_club_ed7662ee:
 
-    # "I knew that what I was about to do was wrong on so many levels."
-    ""
 
-# game/episode012a.rpy:1266
+    "我明白接下來要做的事大錯特錯。"
+
+
 translate traditional_chinese ep012_club_7a4485f6:
 
-    # "For all her faults, Yve was still my mother..."
-    ""
 
-# game/episode012a.rpy:1267
+    "儘管她劣跡斑斑，伊芙終究是我母親⋯⋯"
+
+
 translate traditional_chinese ep012_club_f9a02e4b:
 
-    # "The hunger in her wanton stare captivated me, lured me in."
-    ""
 
-# game/episode012a.rpy:1268
+    "她放蕩眼神中的饑渴攝住我的心魂，誘我沉淪。"
+
+
 translate traditional_chinese ep012_club_8cfcc529:
 
-    # "I wanted to posses her, squeeze the flesh of her silicone breasts, punish her pussy."
-    ""
 
-# game/episode012a.rpy:1269
+    "我想佔有她，擠壓她硅膠乳房的肉，懲罰她的陰部。"
+
+
 translate traditional_chinese ep012_club_d1114d0a:
 
-    # "Pushing any doubts firmly to the back of my mind, my smile widened."
-    ""
 
-# game/episode012a.rpy:1270
+    "把任何疑慮都硬塞回腦子裡，我的笑容咧得更開了。"
+
+
 translate traditional_chinese ep012_club_6ac0886e:
 
-    # c "It sounds like you want to educate me on the subject, Yve."
-    c ""
 
-# game/episode012a.rpy:1271
+    c "聽起來你是想在這個話題上教育我，伊芙。"
+
+
 translate traditional_chinese ep012_club_c205f266:
 
-    # yve "I sure do."
-    yve ""
 
-# game/episode012a.rpy:1272
+    yve "當然啦。"
+
+
 translate traditional_chinese ep012_club_87c9e47f:
 
-    # yve "I love young studs like you, always so eager to learn."
-    yve ""
 
-# game/episode012a.rpy:1273
+    yve "我就喜歡你這樣的小夥子，總那麼渴望學東西。"
+
+
 translate traditional_chinese ep012_club_3ab851a3:
 
-    # "I knew how much my mother valued her young looks, so I decided a bit of ass-kissing was in order."
-    ""
 
-# game/episode012a.rpy:1274
+    "我知道我老媽多在意她年輕貌美，所以得拍點兒馬屁才合適。"
+
+
 translate traditional_chinese ep012_club_60389f53:
 
-    # c "I might be young, but you don’t look over thirty yourself."
-    c ""
 
-# game/episode012a.rpy:1275
+    c "我可能年輕，但你自己看着也不過三十出頭呢。"
+
+
 translate traditional_chinese ep012_club_4f650bb8:
 
-    # yve "Flatterer, you could be my son."
-    yve ""
 
-# game/episode012a.rpy:1277
+    yve "馬屁精，你這歲數都快夠當我兒子了。"
+
+
 translate traditional_chinese ep012_club_9a48b1f7:
 
-    # yve "Do you know I have a son?"
-    yve ""
 
-# game/episode012a.rpy:1278
+    yve "你知道我有個兒子沒？"
+
+
 translate traditional_chinese ep012_club_50337939:
 
-    # yve "Or people think I have...?"
-    yve ""
 
-# game/episode012a.rpy:1280
+    yve "還是別人覺得我有...？"
+
+
 translate traditional_chinese ep012_club_752b88af:
 
-    # yve "It’s the joke of the century!"
-    yve ""
 
-# game/episode012a.rpy:1281
+    yve "這真是世紀大笑話！"
+
+
 translate traditional_chinese ep012_club_26a78f0e:
 
-    # "Yve burst out laughing at that point, leaving me rather dumbfounded."
-    ""
 
-# game/episode012a.rpy:1282
+    "伊芙那時爆笑出聲，搞得我當場懵圈了。"
+
+
 translate traditional_chinese ep012_club_58c8e0c7:
 
-    # "My mother was the first to regain her composure and regarded me hungrily."
-    ""
 
-# game/episode012a.rpy:1284
+    "我老媽先緩過勁兒來，眼巴巴地瞪着我。"
+
+
 translate traditional_chinese ep012_club_aab22dd9:
 
-    # yve "I think you should lose some clothes."
-    yve ""
 
-# game/episode012a.rpy:1285
+    yve "我覺得你該脫點衣服了。"
+
+
 translate traditional_chinese ep012_club_6c36c16d:
 
-    # c "My, my, Yve, that’s very forward of you."
-    c ""
 
-# game/episode012a.rpy:1286
+    c "哎呀，哎呀，伊芙，你這也太直白了吧。"
+
+
 translate traditional_chinese ep012_club_c10b3118:
 
-    # c "What would your husband say of all this?"
-    c ""
 
-# game/episode012a.rpy:1288
+    c "你家老公會怎麼看這事？"
+
+
 translate traditional_chinese ep012_club_18019aa8:
 
-    # yve "Hah!{w} My husband doesn’t care one bit."
-    yve ""
 
-# game/episode012a.rpy:1290
+    yve "哈！{w}我老公一丁點兒都不在乎。"
+
+
 translate traditional_chinese ep012_club_8e241670:
 
-    # yve "He’s probably fucking his own plaything somewhere inside that Tyuarene bordello."
-    yve ""
 
-# game/episode012a.rpy:1291
+    yve "他可能正躲在哪個秋雅潤人的妓院裡，操他自己的玩具呢。"
+
+
 translate traditional_chinese ep012_club_df2f1707:
 
-    # "My heart skipped a beat, because in that single sentence Yve had revealed everything I needed to know."
-    ""
 
-# game/episode012a.rpy:1292
+    "我心頭猛跳，就憑那一句話，伊芙把該知道的都抖出來了。"
+
+
 translate traditional_chinese ep012_club_aba87ea8:
 
-    # "Tyuarene were a species that had devoted themselves to gaining intimate knowledge of the pleasure centres of every known species in existence."
-    ""
 
-# game/episode012a.rpy:1293
+    "秋雅潤人這種種族，專門鑽研每個現存物種快樂中心的那點事。"
+
+
 translate traditional_chinese ep012_club_97cfca4a:
 
-    # "As such, the Tyuarene were highly sought after and more than often worked as sex workers."
-    ""
 
-# game/episode012a.rpy:1294
+    "所以啊，秋雅潤人搶手得很，十有八九都乾性工作者這行當。"
+
+
 translate traditional_chinese ep012_club_3411311d:
 
-    # "I knew the brothel Yve was referring to, as it had quite the reputation even outside Kepler."
-    ""
 
-# game/episode012a.rpy:1295
+    "我知道伊芙提的那個妓院，因爲它在開普勒星外面都名聲響亮。"
+
+
 translate traditional_chinese ep012_club_66ab9d8f:
 
-    # "Storing this vital piece of information for later, I watched my mother undress before me."
-    ""
 
-# game/episode012a.rpy:1310
+    "把這條重要情報記牢後，我瞧着我老媽在我面前脫衣服。"
+
+
 translate traditional_chinese ep012_club_80110824:
 
-    # "Composing myself, I walked out of the room into the antechamber."
-    ""
 
-# game/episode012a.rpy:1316
+    "定了定神，我走出房間進了前廳。"
+
+
 translate traditional_chinese ep012_club_0d3fdd34:
 
-    # "Ignoring her very loaded question, I decided to play my part as a journalist."
-    ""
 
-# game/episode012a.rpy:1317
+    "無視她那個別有深意的問題，我決定演好記者這個角色。"
+
+
 translate traditional_chinese ep012_club_8e54cf8a:
 
-    # c "So, Yve, how did you like performing for so many people tonight?"
-    c ""
 
-# game/episode012a.rpy:1318
+    c "那麼伊芙，今晚爲這麼多人表演感覺如何？"
+
+
 translate traditional_chinese ep012_club_75bb0084:
 
-    # yve "I loved it, it always gives me such energy?"
-    yve ""
 
-# game/episode012a.rpy:1319
+    yve "太棒了，觀衆總能給我能量？"
+
+
 translate traditional_chinese ep012_club_2afaa160:
 
-    # c "First time on Kepler?"
-    c ""
 
-# game/episode012a.rpy:1321
+    c "第一次來開普勒星？"
+
+
 translate traditional_chinese ep012_club_4ac4fb3e:
 
-    # yve "No, not at all."
-    yve ""
 
-# game/episode012a.rpy:1322
+    yve "才不是呢。"
+
+
 translate traditional_chinese ep012_club_fe95b662:
 
-    # yve "We come here every year."
-    yve ""
 
-# game/episode012a.rpy:1323
+    yve "我們每年都來。"
+
+
 translate traditional_chinese ep012_club_9c15e2b1:
 
-    # "Yve had trouble focusing and her voice was unsteady, often trailing off at the end of a sentence."
-    ""
 
-# game/episode012a.rpy:1324
+    "伊芙注意力渙散，聲音發飄，句尾常常含糊帶過。"
+
+
 translate traditional_chinese ep012_club_9af86250:
 
-    # c "Family holidays, I take it, enjoying the beach with your husband and children?"
-    c ""
 
-# game/episode012a.rpy:1325
+    c "家庭假期對吧，和丈夫孩子享受沙灘？"
+
+
 translate traditional_chinese ep012_club_d08f8827:
 
-    # "Yve began to giggle and I could only barely contain myself not to shake her bodily into focus."
-    ""
 
-# game/episode012a.rpy:1326
+    "伊芙咯咯笑起來，我差點就要按住她肩膀晃醒她。"
+
+
 translate traditional_chinese ep012_club_67e1c340:
 
-    # c "Did I say something to offend?"
-    c ""
 
-# game/episode012a.rpy:1328
+    c "我說錯話冒犯您了？"
+
+
 translate traditional_chinese ep012_club_a5aac48b:
 
-    # yve "Haha, not at all."
-    yve ""
 
-# game/episode012a.rpy:1329
+    yve "哈哈，怎麼會。"
+
+
 translate traditional_chinese ep012_club_ae6bbbf5:
 
-    # yve "It’s just...{w} I don’t have any children, yet people assume I do."
-    yve ""
 
-# game/episode012a.rpy:1331
+    yve "只是...{w}我根本沒孩子，可大家都覺得我有。"
+
+
 translate traditional_chinese ep012_club_752b88af_1:
 
-    # yve "It’s the joke of the century!"
-    yve ""
 
-# game/episode012a.rpy:1332
+    yve "簡直是世紀大笑話！"
+
+
 translate traditional_chinese ep012_club_134dfcf7:
 
-    # "Yve burst out laughing again at that point, leaving me rather dumbfounded."
-    ""
 
-# game/episode012a.rpy:1333
+    "伊芙說到這兒又爆笑起來，我徹底懵了。"
+
+
 translate traditional_chinese ep012_club_e7588adc:
 
-    # "A proper reporter would probably have pursued that line of questioning, but I was after different information."
-    ""
 
-# game/episode012a.rpy:1334
+    "稱職的記者本該追問下去，但我要挖的是別的料。"
+
+
 translate traditional_chinese ep012_club_091a51ab:
 
-    # "The drugs had clearly broken away any social restraints my mother had left and I was glad her revelations wouldn’t be published in any tabloid."
-    ""
 
-# game/episode012a.rpy:1335
+    "毒品顯然摧毀了母親僅存的社交約束，幸好這些勁爆自白不會登上任何小報。"
+
+
 translate traditional_chinese ep012_club_285f25cd:
 
-    # c "You are married aren’t you?"
-    c ""
 
-# game/episode012a.rpy:1337
+    c "您結婚了對吧？"
+
+
 translate traditional_chinese ep012_club_d395621a:
 
-    # yve "Oh, I am."
-    yve ""
 
-# game/episode012a.rpy:1339
+    yve "噢，當然。"
+
+
 translate traditional_chinese ep012_club_dae0b6b4:
 
-    # yve "Though my marriage is another colossal joke."
-    yve ""
 
-# game/episode012a.rpy:1341
+    yve "不過我的婚姻也是個天大笑話。"
+
+
 translate traditional_chinese ep012_club_62c3884d:
 
-    # yve "I’m sure my dear husband is fucking some plaything somewhere inside that Tyuarene bordello. "
-    yve ""
 
-# game/episode012a.rpy:1342
+    yve "我敢打賭親愛的丈夫，這會兒正在秋雅潤妓院裡操着哪個玩物呢。 "
+
+
 translate traditional_chinese ep012_club_15f43b42:
 
-    # "With that one sentence, Yve had revealed everything I needed to know."
-    ""
 
-# game/episode012a.rpy:1354
+    "就這一句話，伊芙透露了我需要知道的一切。"
+
+
 translate traditional_chinese ep012_club_3574906b:
 
-    # "The manager opened the door and peeked through."
-    ""
 
-# game/episode012a.rpy:1356
+    "經理推開門縫張望。"
+
+
 translate traditional_chinese ep012_club_224fce95:
 
-    # man "Everything okay, Miss Yve?"
-    man ""
 
-# game/episode012a.rpy:1358
+    man "伊芙小姐還好嗎？"
+
+
 translate traditional_chinese ep012_club_830d5ea3:
 
-    # yve "Antoine, this is boring me."
-    yve ""
 
-# game/episode012a.rpy:1359
+    yve "安託萬，真無聊。"
+
+
 translate traditional_chinese ep012_club_c04bc7d3:
 
-    # yve "I want a proper stud."
-    yve ""
 
-# game/episode012a.rpy:1361
+    yve "我想要一個真正的猛男。"
+
+
 translate traditional_chinese ep012_club_b3ee7b4a:
 
-    # man "Right, time to leave."
-    man ""
 
-# game/episode012a.rpy:1362
+    man "好吧，該離開了。"
+
+
 translate traditional_chinese ep012_club_441da412:
 
-    # c "But the interview has just started."
-    c ""
 
-# game/episode012a.rpy:1364
+    c "但採訪才剛剛開始。"
+
+
 translate traditional_chinese ep012_club_b67cab43:
 
-    # man "Yve isn’t in the mood for more questions."
-    man ""
 
-# game/episode012a.rpy:1365
+    man "伊芙沒心情再回答問題了。"
+
+
 translate traditional_chinese ep012_club_6f73e9c9:
 
-    # man "Go now."
-    man ""
 
-# game/episode012a.rpy:1367
+    man "趕緊走吧。"
+
+
 translate traditional_chinese ep012_club_2eeefcbc:
 
-    # "Feigning irritation I stomped past Yve’s manager back into the antechamber."
-    ""
 
-# game/episode012a.rpy:1369
+    "假裝惱火我跺着腳走過伊芙的經理回到前廳。"
+
+
 translate traditional_chinese ep012_club_52af9158:
 
-    # "It was hard to ignore her very loaded question, but I had to think of something."
-    ""
 
-# game/episode012a.rpy:1370
+    "很難忽視她那個話中有話的問題，但我得想點什麼。"
+
+
 translate traditional_chinese ep012_club_58fa796d:
 
-    # c "I’m sure your husband wouldn’t agree."
-    c ""
 
-# game/episode012a.rpy:1372
+    c "我敢肯定你老公不會同意。"
+
+
 translate traditional_chinese ep012_club_18019aa8_1:
 
-    # yve "Hah!{w} My husband doesn’t care one bit."
-    yve ""
 
-# game/episode012a.rpy:1374
+    yve "哈！{w}我老公一點都不關心。"
+
+
 translate traditional_chinese ep012_club_8e241670_1:
 
-    # yve "He’s probably fucking his own plaything somewhere inside that Tyuarene bordello."
-    yve ""
 
-# game/episode012a.rpy:1375
+    yve "他可能在那個秋雅潤人的妓院裡某處操他自己的玩物。"
+
+
 translate traditional_chinese ep012_club_df2f1707_1:
 
-    # "My heart skipped a beat, because in that single sentence Yve had revealed everything I needed to know."
-    ""
 
-# game/episode012a.rpy:1376
+    "我的心跳漏了一拍，因爲在那句話裏伊芙透露了我需要知道的一切。"
+
+
 translate traditional_chinese ep012_club_aba87ea8_1:
 
-    # "Tyuarene were a species that had devoted themselves to gaining intimate knowledge of the pleasure centres of every known species in existence."
-    ""
 
-# game/episode012a.rpy:1377
+    "秋雅潤人是一個種族，致力於獲取所有現存物種快樂中心的親暱知識。"
+
+
 translate traditional_chinese ep012_club_97cfca4a_1:
 
-    # "As such, the Tyuarene were highly sought after and more than often worked as sex workers."
-    ""
 
-# game/episode012a.rpy:1378
+    "因此，秋雅潤人備受追捧，常作爲性工作者。"
+
+
 translate traditional_chinese ep012_club_3411311d_1:
 
-    # "I knew the brothel Yve was referring to, as it had quite the reputation even outside Kepler."
-    ""
 
-# game/episode012a.rpy:1391
+    "我知道伊芙指的妓院，因爲它即使在開普勒星之外也超有名。"
+
+
 translate traditional_chinese ep012_club_10815cf3:
 
-    # yve "Am I too old for you?"
-    yve ""
 
-# game/episode012a.rpy:1392
+    yve "我是不是太老了不適合你？"
+
+
 translate traditional_chinese ep012_club_c03c55fb:
 
-    # "I didn’t like the predatory look in my mother’s eyes and wanted to get out of the room as soon as possible."
-    ""
 
-# game/episode012a.rpy:1393
+    "我不喜歡母親眼中那種捕獵般的目光想儘快逃離房間。"
+
+
 translate traditional_chinese ep012_club_8fd5ccda:
 
-    # c "Of course not, you don’t look over thirty yourself."
-    c ""
 
-# game/episode012a.rpy:1394
+    c "當然不是，你自己看起來也不超過三十歲。"
+
+
 translate traditional_chinese ep012_club_4f650bb8_1:
 
-    # yve "Flatterer, you could be my son."
-    yve ""
 
-# game/episode012a.rpy:1396
+    yve "馬屁精，你都快能當我兒子了。"
+
+
 translate traditional_chinese ep012_club_9a48b1f7_1:
 
-    # yve "Do you know I have a son?"
-    yve ""
 
-# game/episode012a.rpy:1397
+    yve "你知道嗎我有個兒子？"
+
+
 translate traditional_chinese ep012_club_50337939_1:
 
-    # yve "Or people think I have...?"
-    yve ""
 
-# game/episode012a.rpy:1399
+    yve "還是人們認爲我有...？"
+
+
 translate traditional_chinese ep012_club_752b88af_2:
 
-    # yve "It’s the joke of the century!"
-    yve ""
 
-# game/episode012a.rpy:1400
+    yve "這簡直是世紀大笑話！"
+
+
 translate traditional_chinese ep012_club_26a78f0e_1:
 
-    # "Yve burst out laughing at that point, leaving me rather dumbfounded."
-    ""
 
-# game/episode012a.rpy:1401
+    "伊芙在那時突然大笑起來讓我相當目瞪口呆。"
+
+
 translate traditional_chinese ep012_club_8d3607bd:
 
-    # c "I’m sorry but I just came here for an autograph."
-    c ""
 
-# game/episode012a.rpy:1403
+    c "抱歉但我來這裡只是想籤個名。"
+
+
 translate traditional_chinese ep012_club_7c4e3141:
 
-    # yve "ANTOINE!!!"
-    yve ""
 
-# game/episode012a.rpy:1404
+    yve "安託萬！！！"
+
+
 translate traditional_chinese ep012_club_aff68857:
 
-    # "The manager rushed into Yve’s dressing room almost immediately."
-    ""
 
-# game/episode012a.rpy:1406
+    "經理幾乎立刻衝進了伊芙的更衣室。"
+
+
 translate traditional_chinese ep012_club_579ae0e7:
 
-    # man "Yes, Miss Yve."
-    man ""
 
-# game/episode012a.rpy:1408
+    man "是的，伊芙小姐。"
+
+
 translate traditional_chinese ep012_club_ccce151d:
 
-    # yve "Find me a real stud, this one doesn’t want to play."
-    yve ""
 
-# game/episode012a.rpy:1410
+    yve "給我找個真正的猛男，這個不想玩。"
+
+
 translate traditional_chinese ep012_club_5950590d:
 
-    # man "Of course, miss."
-    man ""
 
-# game/episode012a.rpy:1412
+    man "當然，小姐。"
+
+
 translate traditional_chinese ep012_club_d3ada438:
 
-    # man "Leave."
-    man ""
 
-# game/episode012a.rpy:1413
+    man "離開。"
+
+
 translate traditional_chinese ep012_club_0e3fb662:
 
-    # c "But my autograph!"
-    c ""
 
-# game/episode012a.rpy:1415
+    c "但我的籤名！"
+
+
 translate traditional_chinese ep012_club_802055ed:
 
-    # man "Now!"
-    man ""
 
-# game/episode012a.rpy:1417
+    man "現在！"
+
+
 translate traditional_chinese ep012_club_2eeefcbc_1:
 
-    # "Feigning irritation I stomped past Yve’s manager back into the antechamber."
-    ""
 
-# game/episode012a.rpy:1420
+    "假裝惱怒，我跺腳走過伊芙的經理回到了前廳。"
+
+
 translate traditional_chinese ep012_club_00f6b3e9:
 
-    # c "It’s me, mother."
-    c ""
 
-# game/episode012a.rpy:1422
+    c "是我，媽媽。"
+
+
 translate traditional_chinese ep012_club_846a0dc8:
 
-    # yve "Mother?"
-    yve ""
 
-# game/episode012a.rpy:1423
+    yve "媽媽？"
+
+
 translate traditional_chinese ep012_club_753c490b:
 
-    # c "I’m [p_name], your son."
-    c ""
 
-# game/episode012a.rpy:1425
+    c "我是[p_name]，你的兒子。"
+
+
 translate traditional_chinese ep012_club_a4864f10:
 
-    # yve "I don’t have a son...{w} people only think I do."
-    yve ""
 
-# game/episode012a.rpy:1427
+    yve "我沒有兒子...{w} 人們只是以爲我有。"
+
+
 translate traditional_chinese ep012_club_752b88af_3:
 
-    # yve "It’s the joke of the century!"
-    yve ""
 
-# game/episode012a.rpy:1428
+    yve "這真是世紀大笑話！"
+
+
 translate traditional_chinese ep012_club_26a78f0e_2:
 
-    # "Yve burst out laughing at that point, leaving me rather dumbfounded."
-    ""
 
-# game/episode012a.rpy:1430
+    "伊芙在那個時刻突然大笑起來，讓我感到相當困惑。"
+
+
 translate traditional_chinese ep012_club_52291664_1:
 
-    # yve "Do you hear the birds?"
-    yve ""
 
-# game/episode012a.rpy:1431
+    yve "你聽到鳥兒的聲音了嗎？"
+
+
 translate traditional_chinese ep012_club_92461607_1:
 
-    # c "Birds?"
-    c ""
 
-# game/episode012a.rpy:1433
+    c "鳥兒？"
+
+
 translate traditional_chinese ep012_club_f892add3_1:
 
-    # yve "I’m in a beautiful garden."
-    yve ""
 
-# game/episode012a.rpy:1435
+    yve "我在一個美麗的花園裡。"
+
+
 translate traditional_chinese ep012_club_8fbf28ef:
 
-    # "I grabbed her by the shoulders and made her look at me."
-    ""
 
-# game/episode012a.rpy:1437
+    "我抓住她的肩膀，讓她看着我。"
+
+
 translate traditional_chinese ep012_club_b9537b5a:
 
-    # "Slow realization crept across her face and her eyes widened."
-    ""
 
-# game/episode012a.rpy:1438
+    "慢慢地她明白了過來，眼睛瞪大了。"
+
+
 translate traditional_chinese ep012_club_1544980f:
 
-    # yve "It is you!"
-    yve ""
 
-# game/episode012a.rpy:1439
+    yve "是你！"
+
+
 translate traditional_chinese ep012_club_17e3154b:
 
-    # c "Yes, it’s me."
-    c ""
 
-# game/episode012a.rpy:1440
+    c "是的，是我。"
+
+
 translate traditional_chinese ep012_club_5481ee3a:
 
-    # yve "Wha-what are you doing here?"
-    yve ""
 
-# game/episode012a.rpy:1441
+    yve "你-你在這裡做什麼？"
+
+
 translate traditional_chinese ep012_club_2a3e0410:
 
-    # c "I need to know where Dad is."
-    c ""
 
-# game/episode012a.rpy:1442
+    c "我需要知道父親在哪裡。"
+
+
 translate traditional_chinese ep012_club_aec23036:
 
-    # yve "You deserted from the Navy, why are you back?"
-    yve ""
 
-# game/episode012a.rpy:1444
+    yve "你從艦隊叛逃了，爲什麼回來了？"
+
+
 translate traditional_chinese ep012_club_9a37184f:
 
-    # "I noted the distinct lack of concern for me or my sisters and repeated my question."
-    ""
 
-# game/episode012a.rpy:1446
+    "我注意她到對我和我妹妹們明顯的漠不關心，就又問了一遍。"
+
+
 translate traditional_chinese ep012_club_1adac256:
 
-    # "I noted the distinct lack of concern for me and repeated my question."
-    ""
 
-# game/episode012a.rpy:1447
+    "我注意到她對我明顯第漠不關心，就又問了一遍。"
+
+
 translate traditional_chinese ep012_club_7cf94ad5:
 
-    # c "Where’s Dad?"
-    c ""
 
-# game/episode012a.rpy:1449
+    c "父親在哪？"
+
+
 translate traditional_chinese ep012_club_bf20b0a5:
 
-    # yve "Why should I know where Agust hangs around, he’s probably fucking some plaything inside a Tyuarene bordello."
-    yve ""
 
-# game/episode012a.rpy:1450
+    yve "我幹嘛要知道阿古斯特在哪閒晃，他多半在某個秋雅潤妓院裡正在操着個小玩物呢。"
+
+
 translate traditional_chinese ep012_club_15f43b42_1:
 
-    # "With that one sentence, Yve had revealed everything I needed to know."
-    ""
 
-# game/episode012a.rpy:1451
+    "就憑這一句話，伊芙就透露了我需要知道的一切。"
+
+
 translate traditional_chinese ep012_club_aba87ea8_2:
 
-    # "Tyuarene were a species that had devoted themselves to gaining intimate knowledge of the pleasure centres of every known species in existence."
-    ""
 
-# game/episode012a.rpy:1452
+    "秋雅潤人是一個種族，他們致力於獲取所有現有物種快感中心的親密知識。"
+
+
 translate traditional_chinese ep012_club_97cfca4a_2:
 
-    # "As such, the Tyuarene were highly sought after and more than often worked as sex workers."
-    ""
 
-# game/episode012a.rpy:1453
+    "因此，秋雅潤人非常搶手，常常充當性工作者。"
+
+
 translate traditional_chinese ep012_club_3411311d_2:
 
-    # "I knew the brothel Yve was referring to, as it had quite the reputation even outside Kepler."
-    ""
 
-# game/episode012a.rpy:1466
+    "我知道伊芙指的是哪家妓院，因爲它在開普勒星之外都很有名。"
+
+
 translate traditional_chinese ep012_club_4bc37cb3:
 
-    # c "I’ll leave you to your hobbies."
-    c ""
 
-# game/episode012a.rpy:1467
+    c "我就讓你繼續你的愛好吧。"
+
+
 translate traditional_chinese ep012_club_518c2647:
 
-    # c "Bye Mom, hope I never see you again."
-    c ""
 
-# game/episode012a.rpy:1468
+    c "再見，媽媽，希望再也不用見到你了。"
+
+
 translate traditional_chinese ep012_club_bd64a731:
 
-    # yve "[p_name], wait!"
-    yve ""
 
-# game/episode012a.rpy:1469
+    yve "[p_name], 等等!"
+
+
 translate traditional_chinese ep012_club_fbba1099:
 
-    # yve "What do you want with Agust?"
-    yve ""
 
-# game/episode012a.rpy:1470
+    yve "你到底想對阿古斯特做什麼？"
+
+
 translate traditional_chinese ep012_club_c4dfef14:
 
-    # "I knew telling her my identity was probably a mistake."
-    ""
 
-# game/episode012a.rpy:1472
+    "我就知道告訴她我的身份可能是個錯誤。"
+
+
 translate traditional_chinese ep012_club_9a2c6683:
 
-    # "Maybe her drug-addled mind would forget me as soon as I had left her dressing room, but it was more likely that she’d alert Agust."
-    ""
 
-# game/episode012a.rpy:1474
+    "或許她吸毒搞暈了的腦袋等我離開化妝室就會忘了我，但更可能她會通知阿古斯特。"
+
+
 translate traditional_chinese ep012_club_0676fc58:
 
-    # "I nodded at Aven and she took the hint, leaving together with me."
-    ""
 
-# game/episode012a.rpy:1477
+    "我衝艾文點點頭，她領會了，和我一起走了。"
+
+
 translate traditional_chinese ep012_club_1daff6d9:
 
-    # av "You were gone long."
-    av ""
 
-# game/episode012a.rpy:1478
+    av "你去得真久。"
+
+
 translate traditional_chinese ep012_club_d2e95c16:
 
-    # "I sincerely hoped she didn’t hear us, because neither of us had kept particularly quiet."
-    ""
 
-# game/episode012a.rpy:1479
+    "我真希望她沒聽見我們說話，因爲我們倆誰也沒特別安靜。"
+
+
 translate traditional_chinese ep012_club_75671b59:
 
-    # c "Yve wasn’t all that coherent."
-    c ""
 
-# game/episode012a.rpy:1481
+    c "伊芙說話不太清醒。"
+
+
 translate traditional_chinese ep012_club_2e388c08:
 
-    # av "You weren’t gone long."
-    av ""
 
-# game/episode012a.rpy:1482
+    av "你沒去多久。"
+
+
 translate traditional_chinese ep012_club_f4de5eac:
 
-    # c "Yve wasn’t interested anymore."
-    c ""
 
-# game/episode012a.rpy:1483
+    c "伊芙不感興趣了。"
+
+
 translate traditional_chinese ep012_club_ffe7c000:
 
-    # av "Did you get something out of her?"
-    av ""
 
-# game/episode012a.rpy:1484
+    av "你從她那套出什麼了嗎？"
+
+
 translate traditional_chinese ep012_club_929e12d4:
 
-    # c "I sure did."
-    c ""
 
-# game/episode012a.rpy:1486
+    c "當然套到了。"
+
+
 translate traditional_chinese ep012_club_b11297dc:
 
-    # "Together with Aven I left the club."
-    ""
 
-# game/episode012a.rpy:1493
+    "我和艾文一起離開了俱樂部。"
+
+
 translate traditional_chinese ep012_mansion_e43fefc9:
 
-    # "When Aven and I returned from sampling Kepler’s nightlife, we met up with Nadya, Eva and Lilly."
-    ""
 
-# game/episode012a.rpy:1495
+    "當我和艾文從體驗開普勒星的夜生活回來後，我們就遇見了娜迪亞、伊娃和莉莉。"
+
+
 translate traditional_chinese ep012_mansion_0d899b6c:
 
-    # e "Did you learn anything?"
-    e ""
 
-# game/episode012a.rpy:1496
+    e "你查到什麼了嗎？"
+
+
 translate traditional_chinese ep012_mansion_c1ef4f76:
 
-    # c "Yes, Mom still can’t sing."
-    c ""
 
-# game/episode012a.rpy:1498
+    c "是啊，老媽還是不會唱歌。"
+
+
 translate traditional_chinese ep012_mansion_f9f8321a:
 
-    # l "She’s really here on Kepler?"
-    l ""
 
-# game/episode012a.rpy:1499
+    l "她真在開普勒星上？"
+
+
 translate traditional_chinese ep012_mansion_bc5c3ad3:
 
-    # c "She is and I’ve met her."
-    c ""
 
-# game/episode012a.rpy:1501
+    c "是的，我還見過她了。"
+
+
 translate traditional_chinese ep012_mansion_a911bb69:
 
-    # e "How was she?"
-    e ""
 
-# game/episode012a.rpy:1503
+    e "她怎麼樣？"
+
+
 translate traditional_chinese ep012_mansion_4b55ace6:
 
-    # "I thought it best not to answer that question in full."
-    ""
 
-# game/episode012a.rpy:1504
+    "我覺得最好不要完整回答那個問題。"
+
+
 translate traditional_chinese ep012_mansion_36802745:
 
-    # c "Still her regular old self."
-    c ""
 
-# game/episode012a.rpy:1506
+    c "還是她平常那副老樣子。"
+
+
 translate traditional_chinese ep012_mansion_d495703d:
 
-    # na "Did she reveal anything about Agust?"
-    na ""
 
-# game/episode012a.rpy:1507
+    na "她有沒有透露任何關於阿古斯特的事？"
+
+
 translate traditional_chinese ep012_mansion_c6892b0b:
 
-    # c "Yes, they’re both staying here on Kepler, but enjoying the many delights of this place separate from each other."
-    c ""
 
-# game/episode012a.rpy:1508
+    c "是的，他們兩個都在這開普勒星上，不過各自忙着享受這個地方的樂子。"
+
+
 translate traditional_chinese ep012_mansion_cc28b714:
 
-    # c "Seems mother is preoccupied with relaunching her singing career, while Dad is enjoying the company of various Tyuarene."
-    c ""
 
-# game/episode012a.rpy:1510
+    c "好像母親忙着重出江湖唱歌，父親卻和各式秋雅潤人打得火熱。"
+
+
 translate traditional_chinese ep012_mansion_35b01185:
 
-    # l "Tyuarene?!{w} But they’re...{w} You know..."
-    l ""
 
-# game/episode012a.rpy:1512
+    l "秋雅潤人？！{w} 但他們...{w} 你知道..."
+
+
 translate traditional_chinese ep012_mansion_ffcedf46:
 
-    # av "High-end prostitutes."
-    av ""
 
-# game/episode012a.rpy:1513
+    av "高端妓女。"
+
+
 translate traditional_chinese ep012_mansion_f56350a6:
 
-    # c "Not all of them, of course, but I’m pretty sure the ones Dad likes to spend his time with are."
-    c ""
 
-# game/episode012a.rpy:1516
+    c "當然不是所有人，但我敢打賭父親喜歡打交道的那批肯定是。"
+
+
 translate traditional_chinese ep012_mansion_01ad3b7d:
 
-    # l "Dad, visiting prostitutes?"
-    l ""
 
-# game/episode012a.rpy:1518
+    l "父親在泡妓女？"
+
+
 translate traditional_chinese ep012_mansion_2d157834:
 
-    # l "Your dad, visiting prostitutes?"
-    l ""
 
-# game/episode012a.rpy:1519
+    l "你父親在泡妓女？"
+
+
 translate traditional_chinese ep012_mansion_c0d3e785:
 
-    # c "Not a very outlandish vice, considering the recent revelations about him, wouldn’t you say?"
-    c ""
 
-# game/episode012a.rpy:1520
+    c "考慮到最近對他的了解，這也不算太古怪的惡習了，你不這麼認爲嗎？"
+
+
 translate traditional_chinese ep012_mansion_1982f0fc:
 
-    # l "No, but..."
-    l ""
 
-# game/episode012a.rpy:1522
+    l "不，但是..."
+
+
 translate traditional_chinese ep012_mansion_e13547f9:
 
-    # na "There’s only one Tyuarene Theater of Senses on a moon orbiting Kepler, very high-end."
-    na ""
 
-# game/episode012a.rpy:1524
+    na "環開普勒星的衛星上就只有一家秋雅潤人開的\"迷魂會所\"，非常高端。"
+
+
 translate traditional_chinese ep012_mansion_b7471454:
 
-    # av "The fact that it’s called a ‘theater of senses’ screams high-end pompous brothel."
-    av ""
 
-# game/episode012a.rpy:1525
+    av "還叫\"迷魂會所\"呢，一聽就是那種高端裝模作樣的妓院。"
+
+
 translate traditional_chinese ep012_mansion_84002f8b:
 
-    # c "Just the thing Dad likes."
-    c ""
 
-# game/episode012a.rpy:1545
+    c "正是父親喜歡的那種調調。"
+
+
 translate traditional_chinese ep012_mansion_5e1a62c3:
 
-    # e "Could we not dwell too long on the illicit things Dad likes?"
-    e ""
 
-# game/episode012a.rpy:1547
+    e "我們能不能別太糾纏於父親喜歡的那些破事了？"
+
+
 translate traditional_chinese ep012_mansion_8b8887c5:
 
-    # e "Could we not dwell too long on the illicit things your dad likes?"
-    e ""
 
-# game/episode012a.rpy:1548
+    e "我們能不能別太糾纏於你父親喜歡的那些破事了？"
+
+
 translate traditional_chinese ep012_mansion_6fdbcd68:
 
-    # e "It makes my skin crawl."
-    e ""
 
-# game/episode012a.rpy:1549
+    e "聽得我直起雞皮疙瘩。"
+
+
 translate traditional_chinese ep012_mansion_ec8c8885:
 
-    # c "Yeah, down to business."
-    c ""
 
-# game/episode012a.rpy:1550
+    c "是啊，還是談正事吧。"
+
+
 translate traditional_chinese ep012_mansion_a6c016b3:
 
-    # c "The Tyuarene offer multi-day treatments, so it’s likely Dad is still staying there."
-    c ""
 
-# game/episode012a.rpy:1551
+    c "秋雅潤人提供長住服務，所以很可能父親還住在那裡。"
+
+
 translate traditional_chinese ep012_mansion_6c0e5ba0:
 
-    # c "I’m planning on visiting the place and finding out more."
-    c ""
 
-# game/episode012a.rpy:1553
+    c "我打算去那裡看看，了解更多情況。"
+
+
 translate traditional_chinese ep012_mansion_5a4c2dc4:
 
-    # na "Will they let you in?"
-    na ""
 
-# game/episode012a.rpy:1554
+    na "他們會讓你進去嗎？"
+
+
 translate traditional_chinese ep012_mansion_378edb86:
 
-    # c "That’s something I need to figure out."
-    c ""
 
-# game/episode012a.rpy:1555
+    c "這正是我需要弄清楚的事。"
+
+
 translate traditional_chinese ep012_mansion_e58bb6be:
 
-    # c "They only let you in if you’re some lecherous big wig carrying fat stacks of cash."
-    c ""
 
-# game/episode012a.rpy:1557
+    c "只有當你是一些好色的大佬，帶着大把鈔票時，他們才會讓你進去。"
+
+
 translate traditional_chinese ep012_mansion_33dee6ca:
 
-    # av "I’m sure you’ll nail being some horny big shot, but the money is going to be a problem."
-    av ""
 
-# game/episode012a.rpy:1558
+    av "我相信你會勝任扮演性饑渴的大人物，但錢會是個問題。"
+
+
 translate traditional_chinese ep012_mansion_25e9635c:
 
-    # c "Right..."
-    c ""
 
-# game/episode012a.rpy:1559
+    c "對呀..."
+
+
 translate traditional_chinese ep012_mansion_bbe89def:
 
-    # c "So, I’m going to book a transport to scout the place out first and see if there’s another in."
-    c ""
 
-# game/episode012a.rpy:1561
+    c "所以，我要訂個交通工具先偵察一下那個地方，看看有沒有其他進去的辦法。"
+
+
 translate traditional_chinese ep012_mansion_08d38006:
 
-    # e "Good, let us know if you need something."
-    e ""
 
-# game/episode012a.rpy:1563
+    e "好的，如果你需要什麼，告訴我們。"
+
+
 translate traditional_chinese ep012_mansion_5e046908:
 
-    # l "Maybe Jade can try something with their computer systems."
-    l ""
 
-# game/episode012a.rpy:1564
+    l "或許傑德可以試試弄一下他們的電腦系統。"
+
+
 translate traditional_chinese ep012_mansion_10591d7d:
 
-    # c "Maybe, but I don’t want to raise any alarms."
-    c ""
 
-# game/episode012a.rpy:1566
+    c "也許吧，但我不想驚動任何警報。"
+
+
 translate traditional_chinese ep012_mansion_10e047ab:
 
-    # c "Mom is probably going to tell Dad about me, so we’re on a strict timetable here..."
-    c ""
 
-# game/episode012a.rpy:1568
+    c "媽媽可能會告訴父親關於我的事，所以我們這時間緊迫..."
+
+
 translate traditional_chinese ep012_mansion_e57d50ff:
 
-    # c "I don’t want Sovereignty security after us."
-    c ""
 
-# game/episode012a.rpy:1569
+    c "我不希望\"至高權域\"的警衛追蹤我們。"
+
+
 translate traditional_chinese ep012_mansion_d027ea88:
 
-    # c "I’m going to freshen up a little and head out in half an hour."
-    c ""
 
-# game/episode012a.rpy:1574
+    c "我要稍微梳洗一下，半小時後出發。"
+
+
 translate traditional_chinese ep012_mansion_1e05bf59:
 
-    # "All the women left the room to give me some privacy, except for Nadya, who lingered at the door."
-    ""
 
-# game/episode012a.rpy:1580
+    "所有女人都離開了房間，給了我一些隱私，除了娜迪亞，她在門口徘徊。"
+
+
 translate traditional_chinese ep012_nadya_reveal_356d6c6c:
 
-    # c "Is something the matter, Aunt Nadya?"
-    c ""
 
-# game/episode012a.rpy:1582
+    c "有什麼事嗎，娜迪亞阿姨？"
+
+
 translate traditional_chinese ep012_nadya_reveal_b41f1dca:
 
-    # c "Is something the matter, Nadya?"
-    c ""
 
-# game/episode012a.rpy:1583
+    c "有什麼事嗎，娜迪亞？"
+
+
 translate traditional_chinese ep012_nadya_reveal_fd38e1dd:
 
-    # "Nadya hesitated, turned to go after the others, but ultimately closed the door and walked towards me."
-    ""
 
-# game/episode012a.rpy:1585
+    "娜迪亞猶豫了一下，轉身想跟着其他人走，但最終關上了門朝我走來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b6a2e70b:
 
-    # na "You seemed a little distraught just now."
-    na ""
 
-# game/episode012a.rpy:1586
+    na "你剛才好像有點心煩意亂的。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e9da0696:
 
-    # c "Did I?"
-    c ""
 
-# game/episode012a.rpy:1587
+    c "我有嗎？"
+
+
 translate traditional_chinese ep012_nadya_reveal_f97ff39c:
 
-    # c "Meeting Mom was a little weird, to be honest."
-    c ""
 
-# game/episode012a.rpy:1588
+    c "老實說，見到媽媽有點古怪。"
+
+
 translate traditional_chinese ep012_nadya_reveal_31e8ed9b:
 
-    # c "For one, she was drugged out of her skull."
-    c ""
 
-# game/episode012a.rpy:1590
+    c "首先，她嗑藥嗑糊塗了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b81295ce:
 
-    # na "That’s not much of a surprise."
-    na ""
 
-# game/episode012a.rpy:1591
+    na "這並不太意外。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ff43852a:
 
-    # na "But wasn’t she surprised to see you?"
-    na ""
 
-# game/episode012a.rpy:1593
+    na "但她見到你時不驚訝嗎？"
+
+
 translate traditional_chinese ep012_nadya_reveal_2c0378a0:
 
-    # c "Shocked might be a better word."
-    c ""
 
-# game/episode012a.rpy:1594
+    c "說震驚可能更貼切點。"
+
+
 translate traditional_chinese ep012_nadya_reveal_da41c5d1:
 
-    # c "At first she didn’t even recognize me."
-    c ""
 
-# game/episode012a.rpy:1596
+    c "起初她甚至沒認出我來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_88c5e65d:
 
-    # c "She didn’t recognize me."
-    c ""
 
-# game/episode012a.rpy:1598
+    c "她沒認出我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_249dd3d6:
 
-    # na "She was that far gone?"
-    na ""
 
-# game/episode012a.rpy:1599
+    na "她那樣嚴重了嗎？"
+
+
 translate traditional_chinese ep012_nadya_reveal_7f1f09e0:
 
-    # c "Apparently."
-    c ""
 
-# game/episode012a.rpy:1600
+    c "顯然是的。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c9ecf139:
 
-    # c "Didn’t make much sense either."
-    c ""
 
-# game/episode012a.rpy:1601
+    c "也沒什麼道理。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d16a68d6:
 
-    # c "Small wonder I got that tidbit about Dad."
-    c ""
 
-# game/episode012a.rpy:1602
+    c "怪不得我能打聽到關於父親的那點爛事。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1fdfb83c:
 
-    # c "She rambled about being in a garden and hearing birds."
-    c ""
 
-# game/episode012a.rpy:1604
+    c "她瞎扯一通，說什麼在花園裡聽到鳥叫。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ef9af7ec:
 
-    # na "At least she thought she was somewhere nice..."
-    na ""
 
-# game/episode012a.rpy:1606
+    na "至少她覺得她在個好地方..."
+
+
 translate traditional_chinese ep012_nadya_reveal_193ce9ac:
 
-    # c "There was one strange thing she mentioned though."
-    c ""
 
-# game/episode012a.rpy:1608
+    c "不過她提到了一件怪事。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9149406d:
 
-    # na "Oh?"
-    na ""
 
-# game/episode012a.rpy:1610
+    na "哦？"
+
+
 translate traditional_chinese ep012_nadya_reveal_94f34a7b:
 
-    # c " At one point, when I mentioned I was her son, she just burst out laughing."
-    c ""
 
-# game/episode012a.rpy:1612
+    c " 有一刻，當我說我是她兒子時，她就突然大笑起來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c4b3be1f:
 
-    # c "At one point, she mentioned only pretending to have a son."
-    c ""
 
-# game/episode012a.rpy:1613
+    c "有一刻，她提到她只是在假裝有個兒子。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b22cc6bf:
 
-    # c "Calling it the joke of the century."
-    c ""
 
-# game/episode012a.rpy:1614
+    c "說這是世紀大玩笑。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a2230c95:
 
-    # c "Might just be the drugs talking."
-    c ""
 
-# game/episode012a.rpy:1615
+    c "可能只是毒品導致的胡言亂語。"
+
+
 translate traditional_chinese ep012_nadya_reveal_367f32d5:
 
-    # c "Why are you looking at me like that?"
-    c ""
 
-# game/episode012a.rpy:1617
+    c "你爲什麼那樣看着我？"
+
+
 translate traditional_chinese ep012_nadya_reveal_e13e808f:
 
-    # na "Maybe we should sit down."
-    na ""
 
-# game/episode012a.rpy:1619
+    na "或許我們該坐下。"
+
+
 translate traditional_chinese ep012_nadya_reveal_27570376:
 
-    # "Weirded out, I sat down next to her."
-    ""
 
-# game/episode012a.rpy:1621
+    "覺得怪怪的，我在她旁邊坐了下來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ae0b4b15:
 
-    # na "I don’t know where to start exactly."
-    na ""
 
-# game/episode012a.rpy:1622
+    na "我不確切知道從哪兒說起。"
+
+
 translate traditional_chinese ep012_nadya_reveal_2b5034fd:
 
-    # c "Start where, about what?"
-    c ""
 
-# game/episode012a.rpy:1623
+    c "從哪兒說起，關於什麼事？"
+
+
 translate traditional_chinese ep012_nadya_reveal_022613dd:
 
-    # c "Is Yve not my mother?"
-    c ""
 
-# game/episode012a.rpy:1625
+    c "伊芙不是我媽嗎？"
+
+
 translate traditional_chinese ep012_nadya_reveal_24770b67:
 
-    # "Nadya looked up at me, swallowing a lump in her throat."
-    ""
 
-# game/episode012a.rpy:1627
+    "娜迪亞抬頭看着我，咽了一口唾沫。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7499f87a:
 
-    # na "No, she isn’t."
-    na ""
 
-# game/episode012a.rpy:1629
+    na "不，她不是。"
+
+
 translate traditional_chinese ep012_nadya_reveal_87ea5d75:
 
-    # na "I am your mother."
-    na ""
 
-# game/episode012a.rpy:1630
+    na "我才是你母親。"
+
+
 translate traditional_chinese ep012_nadya_reveal_bebdc1cd:
 
-    # c "But what...{w} How?!"
-    c ""
 
-# game/episode012a.rpy:1632
+    c "但是什麼...{w} 怎麼？！"
+
+
 translate traditional_chinese ep012_nadya_reveal_39be697e:
 
-    # na "Please, bear with me."
-    na ""
 
-# game/episode012a.rpy:1633
+    na "拜託了，請忍耐一下。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a3f3ef9a:
 
-    # "The world was suddenly spinning and it took me a good while to be able to focus on Nadya’s voice again."
-    ""
 
-# game/episode012a.rpy:1634
+    "世界突然旋轉起來，我花了好久才又能集中精神聽娜迪亞的聲音。"
+
+
 translate traditional_chinese ep012_nadya_reveal_12965b53:
 
-    # "Several thoughts raced through my head, the implications of her confession dawning on me all of a sudden."
-    ""
 
-# game/episode012a.rpy:1636
+    "一連串想法在腦中亂撞，她坦白的含義一下子在我腦海裏蹦出來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1c7ed14a:
 
-    # na "Agust and I were very close when we were younger."
-    na ""
 
-# game/episode012a.rpy:1637
+    na "我和阿古斯特年輕時特別親近。"
+
+
 translate traditional_chinese ep012_nadya_reveal_65ea4a3f:
 
-    # na "Inseparable really."
-    na ""
 
-# game/episode012a.rpy:1638
+    na "真的分不開。"
+
+
 translate traditional_chinese ep012_nadya_reveal_3661e575:
 
-    # na "He was a different man back then, or at least I think he was."
-    na ""
 
-# game/episode012a.rpy:1640
+    na "那時他還是另一個人，至少我是這麼想的。"
+
+
 translate traditional_chinese ep012_nadya_reveal_00823ca3:
 
-    # na "Maybe he hid that dark side from me, I don’t know."
-    na ""
 
-# game/episode012a.rpy:1641
+    na "或許他隱藏了那副黑暗面，不讓我知道，我不清楚。"
+
+
 translate traditional_chinese ep012_nadya_reveal_20a17aa3:
 
-    # na "Over time, I’m not sure when it started, we both came to the realization our feelings for one another weren’t proper for a brother and sister."
-    na ""
 
-# game/episode012a.rpy:1642
+    na "慢慢地，我說不準從什麼時候開始，我們兩個都明白彼此的感情不該是兄妹之間的。"
+
+
 translate traditional_chinese ep012_nadya_reveal_503798b9:
 
-    # na "We tried to deny those feelings, Agust even left Tuolovi for a while, to apprentice with some trade conglomerate."
-    na ""
 
-# game/episode012a.rpy:1644
+    na "我們試圖否認那些感情，阿古斯特還離開託洛維星一陣子，去某家貿易集團當學徒。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6af78157:
 
-    # na "When he eventually returned, our feelings had not diminished."
-    na ""
 
-# game/episode012a.rpy:1645
+    na "等他終於回來時，我們的感情一點沒淡。"
+
+
 translate traditional_chinese ep012_nadya_reveal_86ad6f72:
 
-    # na "So we began a relationship in secret."
-    na ""
 
-# game/episode012a.rpy:1647
+    na "於是我們偷偷開始了一段關係。"
+
+
 translate traditional_chinese ep012_nadya_reveal_3dfa4e74:
 
-    # na "Maybe I did notice that Agust had come back a different man, but I was too much in love to care."
-    na ""
 
-# game/episode012a.rpy:1649
+    na "也許我確實注意到阿古斯特回來變了個樣，但我太愛他了，沒當回事。"
+
+
 translate traditional_chinese ep012_nadya_reveal_75acbafa:
 
-    # na "We were happy for a couple of years, until your father started courting Yve."
-    na ""
 
-# game/episode012a.rpy:1650
+    na "我們開心地過了幾年，直到你父親開始追求伊芙。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6ee9ded2:
 
-    # na "According to him, their eventual relationship was necessary to keep others from finding out about the forbidden one we had struck up."
-    na ""
 
-# game/episode012a.rpy:1652
+    na "據他說，他們最終的關係是必要的，好讓人別發現我們倆搞出那檔子禁忌關係。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c731ecf5:
 
-    # na "I remained faithful to him, even when he married Yve."
-    na ""
 
-# game/episode012a.rpy:1653
+    na "我一直對他忠誠，哪怕他娶了伊芙也照樣。"
+
+
 translate traditional_chinese ep012_nadya_reveal_2d834562:
 
-    # na "That moment should have been a breaking point, but instead I clung to the memory of the happy times we’d spent together."
-    na ""
 
-# game/episode012a.rpy:1654
+    na "那一刻本應該是個裂痕，但我死抓着我們過去的美好回憶不放。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7bbcc750:
 
-    # na "Agust was always ambitious and concerned about his stature and legacy."
-    na ""
 
-# game/episode012a.rpy:1655
+    na "阿古斯特向來野心十足，總操心自己地位和傳承。"
+
+
 translate traditional_chinese ep012_nadya_reveal_58ed3c9c:
 
-    # na "Marrying a socialite fit with his plans, but so was upholding the lineage of the Valenmann de Lonval family."
-    na ""
 
-# game/episode012a.rpy:1657
+    na "娶個交際花符合他計劃，但維護瓦倫曼·德·隆瓦爾家族的譜系也一樣。"
+
+
 translate traditional_chinese ep012_nadya_reveal_91cd5d29:
 
-    # "Nadya hesitated at this point, a distant look crossing her face."
-    ""
 
-# game/episode012a.rpy:1658
+    "這時娜迪亞猶豫了一下，臉上閃過茫然的神情。"
+
+
 translate traditional_chinese ep012_nadya_reveal_01365013:
 
-    # "I was about to urge her on, when she spoke again."
-    ""
 
-# game/episode012a.rpy:1660
+    "我剛想催她繼續，她又開口了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ecfbf2b8:
 
-    # na "Just when I thought I’d lost him forever, he came back to me."
-    na ""
 
-# game/episode012a.rpy:1661
+    na "就在我以爲永遠失去他的時候，他又回到我身邊了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_cfbf9007:
 
-    # na "We rekindled our relationship, but I could tell he was distraught about something."
-    na ""
 
-# game/episode012a.rpy:1662
+    na "我們重燃愛火，但我能看出他正爲什麼事心煩意亂。"
+
+
 translate traditional_chinese ep012_nadya_reveal_cd6ad115:
 
-    # na "Eventually he confessed to me that doctors had found out Yve couldn’t conceive."
-    na ""
 
-# game/episode012a.rpy:1663
+    na "最終他向我坦白，醫生發現伊芙無法懷孕。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e0c786a1:
 
-    # na "We were meant to be together, he said, to continue the long family line."
-    na ""
 
-# game/episode012a.rpy:1665
+    na "他說我們註定在一起，爲延續家族香火。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b58467c8:
 
-    # na "I lapped all that nonsense up like the lovesick teenager that I was."
-    na ""
 
-# game/episode012a.rpy:1666
+    na "我像那個癡情的少女一樣，全盤相信這些胡話。"
+
+
 translate traditional_chinese ep012_nadya_reveal_58c72094:
 
-    # na "And so we went back to the glorious days of our youth."
-    na ""
 
-# game/episode012a.rpy:1667
+    na "於是我們回到了青春洋溢的美好時光。"
+
+
 translate traditional_chinese ep012_nadya_reveal_8b3e1e83:
 
-    # na "Agust didn’t see much of Yve and spent almost all of his free time with me."
-    na ""
 
-# game/episode012a.rpy:1669
+    na "阿古斯特很少見伊芙，幾乎把所有空閒時間都花在我身上。"
+
+
 translate traditional_chinese ep012_nadya_reveal_22895b10:
 
-    # na "My first pregnancy came as a surprise, but not an unwelcome one."
-    na ""
 
-# game/episode012a.rpy:1670
+    na "我第一次懷孕是個意外，但並非不受歡迎。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a40df594:
 
-    # na "Agust became a doting father-to-be, ever the gentleman he was before."
-    na ""
 
-# game/episode012a.rpy:1671
+    na "阿古斯特成了個寵愛孩子的準父親，就像他以前一直是個紳士那樣。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9c7870f6:
 
-    # na "I couldn’t wait to hold you in my arms."
-    na ""
 
-# game/episode012a.rpy:1672
+    na "我迫不及待地想把你抱在懷裡。"
+
+
 translate traditional_chinese ep012_nadya_reveal_de118ccc:
 
-    # na "When I finally did, I felt complete.{w} Your arrival completed me."
-    na ""
 
-# game/episode012a.rpy:1674
+    na "當我終於抱到你時，我感到了完滿。{w} 你的降臨使我圓滿。"
+
+
 translate traditional_chinese ep012_nadya_reveal_556bb83c:
 
-    # "Tears were in her eyes, but Nadya didn’t seek comfort, instead she soldiered on with her story."
-    ""
 
-# game/episode012a.rpy:1676
+    "她眼裡噙着淚水，但娜迪亞沒有尋求安慰，而是繼續講述她的故事。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d8138c7f:
 
-    # na "After you were born, things started to change."
-    na ""
 
-# game/episode012a.rpy:1677
+    na "你出生後，事情開始改變。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a5c403a5:
 
-    # na "Agust changed, or maybe he showed his true colors for the first time then."
-    na ""
 
-# game/episode012a.rpy:1678
+    na "阿古斯特變了，或者說他那時才第一次顯露了本性。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9e891a62:
 
-    # na "Yve had found out about our relationship and love child, he said, and was threatening to out everything."
-    na ""
 
-# game/episode012a.rpy:1680
+    na "他說伊芙發現了我們的關係和私生子，還威脅要捅出一切。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9723f365:
 
-    # na "The only way to ensure her silence was to give you up."
-    na ""
 
-# game/episode012a.rpy:1681
+    na "要讓她閉嘴的唯一辦法就是放棄你。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e86c298c:
 
-    # na "Of course he didn’t say those exact words, but the implication was clear."
-    na ""
 
-# game/episode012a.rpy:1682
+    na "當然他沒有明說，但意思很清楚。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f0229acd:
 
-    # na "Yve and Agust would raise you as their own, to avoid any suspicions."
-    na ""
 
-# game/episode012a.rpy:1684
+    na "伊芙和阿古斯特會把你當作親生骨肉撫養，以免惹人疑心。"
+
+
 translate traditional_chinese ep012_nadya_reveal_166e8c91:
 
-    # na "Later I learned they had it all planned out together, with Yve shunning the public eye for the duration of my pregnancy."
-    na ""
 
-# game/episode012a.rpy:1685
+    na "後來我才知道這一切都是他們策劃好的，在我懷孕期間伊芙避開了公衆視線。"
+
+
 translate traditional_chinese ep012_nadya_reveal_89c2b5ab:
 
-    # na "Yve conveniently emerged from her seclusion again when she could claim you as her own."
-    na ""
 
-# game/episode012a.rpy:1686
+    na "等到可以宣稱你是她親生的時候，伊芙便適時地重現世間。"
+
+
 translate traditional_chinese ep012_nadya_reveal_42940110:
 
-    # na "My ‘reward’ for keeping up with this whole charade was that I could live in the family home and see you every day."
-    na ""
 
-# game/episode012a.rpy:1688
+    na "我配合演這場戲的『獎勵』是能住在家裡，每天見到你。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9c02c029:
 
-    # na "Panic-stricken, I agreed."
-    na ""
 
-# game/episode012a.rpy:1690
+    na "驚慌失措之下，我同意了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_aca673a7:
 
-    # na "I didn’t see any other way out, stupid cow that I was."
-    na ""
 
-# game/episode012a.rpy:1692
+    na "我當時就是頭愚蠢的母牛，沒看出別的出路。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6648b10e:
 
-    # "Anger fought with deep sadness and Nadya was unable to speak for several minutes."
-    ""
 
-# game/episode012a.rpy:1693
+    "憤怒與深沉的悲傷在搏鬥，娜迪亞好幾分鐘都無力開口。"
+
+
 translate traditional_chinese ep012_nadya_reveal_583caca0:
 
-    # c "If Yve is barren, what about..."
-    c ""
 
-# game/episode012a.rpy:1695
+    c "既然伊芙不能生育，那......"
+
+
 translate traditional_chinese ep012_nadya_reveal_076a9d6c:
 
-    # "Nadya looked up at me with a sad smile."
-    ""
 
-# game/episode012a.rpy:1696
+    "娜迪亞抬起她哀傷的微笑凝視着我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_4b06ffba:
 
-    # na "Agust and I didn’t end things when I came to live with them."
-    na ""
 
-# game/episode012a.rpy:1698
+    na "當初搬過去住時，阿古斯特跟我的關係還沒結束。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1aaff590:
 
-    # na "You have to believe that I was still very much in love with him."
-    na ""
 
-# game/episode012a.rpy:1699
+    na "你得相信那時我依然深深愛着他。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d4dacedf:
 
-    # na "I was so much in love with him that I was pregnant with my second child soon after you were born."
-    na ""
 
-# game/episode012a.rpy:1700
+    na "我愛他愛得發狂，以致於在你出生不久後，我又懷上了第二個孩子。"
+
+
 translate traditional_chinese ep012_nadya_reveal_26fd754e:
 
-    # c "Aven..."
-    c ""
 
-# game/episode012a.rpy:1702
+    c "艾文......"
+
+
 translate traditional_chinese ep012_nadya_reveal_069d9e3c:
 
-    # na "That’s right."
-    na ""
 
-# game/episode012a.rpy:1703
+    na "沒錯。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b58be838:
 
-    # na "For some reason, Yve and Agust never claimed Aven as their own daughter."
-    na ""
 
-# game/episode012a.rpy:1705
+    na "不知爲何，伊芙和阿古斯特從未宣稱艾文是他們自己的女兒。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1183d391:
 
-    # na "Naive that I was, I thought they were satisfied with having their male heir and secretly thanked them for allowing me to dote on her."
-    na ""
 
-# game/episode012a.rpy:1706
+    na "那時我太天真了，只以爲他們是有了男性繼承人便心滿意足，還在心裡偷偷感激他們允許我寵愛艾文。"
+
+
 translate traditional_chinese ep012_nadya_reveal_85dfe2e3:
 
-    # na "The story of Aven’s parentage has always been that she was born with help of an anonymous donor."
-    na ""
 
-# game/episode012a.rpy:1707
+    na "艾文身世的那套說法一直都是說她是藉助匿名捐獻者才誕下的。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a6e9e4f7:
 
-    # c "What about Lilly and Eva?"
-    c ""
 
-# game/episode012a.rpy:1709
+    c "那莉莉和伊娃呢？"
+
+
 translate traditional_chinese ep012_nadya_reveal_5d6c82d9:
 
-    # na "Everything changed with my last pregnancy."
-    na ""
 
-# game/episode012a.rpy:1710
+    na "等到我最後一次懷孕時，一切就變了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d085d1df:
 
-    # na "Agust had grown more and more distant after Aven’s birth, but when he learned I carried twins, he suddenly became an overbearing tyrant."
-    na ""
 
-# game/episode012a.rpy:1711
+    na "艾文出生後，阿古斯特已經越來越疏遠我，可當他知道我懷的是雙胞胎後，一下子變成了個暴君。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c95ef881:
 
-    # na "We had fights like never before, especially after he made it clear that unlike with Aven, the twins weren’t mine to keep."
-    na ""
 
-# game/episode012a.rpy:1712
+    na "我們吵得比以往都兇，尤其是他明確說和艾文那次不同，這對雙胞胎我休想留下後。"
+
+
 translate traditional_chinese ep012_nadya_reveal_2d9139fe:
 
-    # na "He’d made a choice, he said, Yve would be their mother and I wasn’t allowed to tell anyone otherwise."
-    na ""
 
-# game/episode012a.rpy:1713
+    na "他說他已經決定好了，伊芙會當她們的母親，而我不準向任何人透露真相。"
+
+
 translate traditional_chinese ep012_nadya_reveal_69c72dbf:
 
-    # na "In exchange for my continued silence, I would be allowed to see you all grow up and play a part in your lives."
-    na ""
 
-# game/episode012a.rpy:1714
+    na "作爲保持緘默的交換條件，我可以看着你們長大，還能在你們的生活中充當一份角色。"
+
+
 translate traditional_chinese ep012_nadya_reveal_93ff0e0e:
 
-    # c "Why did you agree?"
-    c ""
 
-# game/episode012a.rpy:1716
+    c "那你爲什麼答應？"
+
+
 translate traditional_chinese ep012_nadya_reveal_cc2b0321:
 
-    # na "I didn’t at first."
-    na ""
 
-# game/episode012a.rpy:1717
+    na "起初我沒有。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9bfdf966:
 
-    # na "I raged, pleaded, threatened to run away with you all..."
-    na ""
 
-# game/episode012a.rpy:1719
+    na "我暴怒過，苦苦哀求過，還揚言要帶着你們全都逃掉......"
+
+
 translate traditional_chinese ep012_nadya_reveal_94010405:
 
-    # na "That’s when Agust truly scared me for the first time."
-    na ""
 
-# game/episode012a.rpy:1721
+    na "就在那時，阿古斯特頭一次真正讓我恐懼。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a9c921eb:
 
-    # na "He told me that if I fought him in any way, he’d kill me."
-    na ""
 
-# game/episode012a.rpy:1722
+    na "他對我說，要是敢作對，他就殺死我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_8f3cfa1b:
 
-    # na "The murder in his eyes made me back down."
-    na ""
 
-# game/episode012a.rpy:1724
+    na "他眼裡的殺意逼得我退縮了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_4a8e24fa:
 
-    # na "So I bore Eva and Lilly, watched you grow up, with Agust and Yve leaving me pretty much in charge of your upbringing."
-    na ""
 
-# game/episode012a.rpy:1725
+    na "所以我就生下了伊娃和莉莉，看着你們長大，阿古斯特和伊芙基本上也讓我負責照料你們。"
+
+
 translate traditional_chinese ep012_nadya_reveal_40bd7732:
 
-    # c "Why did you leave?"
-    c ""
 
-# game/episode012a.rpy:1727
+    c "爲什麼你要離開？"
+
+
 translate traditional_chinese ep012_nadya_reveal_a1055d4a:
 
-    # na "I know you all loved me very much, but it hurt to hear you refer to Yve as your mother and treating Aven as someone more distant than a sister."
-    na ""
 
-# game/episode012a.rpy:1728
+    na "我知道你們都很愛我，但聽到你們稱伊芙爲母親、把艾文當作比姐妹還疏遠的人，讓我很受傷。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d6f6a319:
 
-    # na "When I just couldn’t bear the whole charade anymore, I mustered the courage to leave Tuolovi."
-    na ""
 
-# game/episode012a.rpy:1730
+    na "當我再也無法忍受這裝腔作勢的生活時，終於鼓起勇氣離開託洛維星。"
+
+
 translate traditional_chinese ep012_nadya_reveal_26576f98:
 
-    # na "Together with some of the staff, I’d planned my escape, taking you all with me."
-    na ""
 
-# game/episode012a.rpy:1731
+    na "我和幾名傭人策劃了逃亡計劃，要帶你們所有人一起走。"
+
+
 translate traditional_chinese ep012_nadya_reveal_eaf96f9e:
 
-    # na "On that fateful night, we smuggled you all out of the mansion, loading you in two separate transports headed for Tuolovi Spaceport."
-    na ""
 
-# game/episode012a.rpy:1733
+    na "在那個決定命運的夜晚，我們偷偷把你們帶出宅邸，分別塞進兩輛開往託洛維太空港的運輸船。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1af2561b:
 
-    # na "Someone must have betrayed the whole plan to Agust, because the transport containing Eva, Lilly and you never arrived at the spaceport."
-    na ""
 
-# game/episode012a.rpy:1735
+    na "肯定有人向阿古斯特告密了，因爲載着伊娃、莉莉和你的那艘運輸船始終沒抵達太空港。"
+
+
 translate traditional_chinese ep012_nadya_reveal_55217186:
 
-    # na "I had to make a decision at that point and leave you on Tuolovi, something which I’ve regretted to this day."
-    na ""
 
-# game/episode012a.rpy:1737
+    na "那一刻我只能做出決定，把你們留在託洛維星——時至今日我仍在後悔這個選擇。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6b8645e2:
 
-    # "Nadya buried her head in her hands and cried silent tears."
-    ""
 
-# game/episode012a.rpy:1738
+    "娜迪亞把臉埋在雙手中，無聲地流着淚。"
+
+
 translate traditional_chinese ep012_nadya_reveal_03021452:
 
-    # c "Does Aven know about all this?"
-    c ""
 
-# game/episode012a.rpy:1740
+    c "艾文知道這些事嗎？"
+
+
 translate traditional_chinese ep012_nadya_reveal_cca0f4fc:
 
-    # na "She doesn’t."
-    na ""
 
-# game/episode012a.rpy:1741
+    na "她不知道。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7f5e3240:
 
-    # na "After we settled on Ryūjin Prime, Tuolovi soon became a distant memory."
-    na ""
 
-# game/episode012a.rpy:1742
+    na "我們在龍神主星安頓下來後，託洛維星很快成了遙遠的記憶。"
+
+
 translate traditional_chinese ep012_nadya_reveal_416bb034:
 
-    # na "I tried to keep in contact with you, but all my attempts were blocked."
-    na ""
 
-# game/episode012a.rpy:1743
+    na "我嘗試過聯繫你們，但所有努力都被阻斷了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7f0c8e05:
 
-    # na "At some point, someone arrived at my doorstep to threaten me if I didn’t stop..."
-    na ""
 
-# game/episode012a.rpy:1744
+    na "後來有人找上門威脅，說我再糾纏就要我好看..."
+
+
 translate traditional_chinese ep012_nadya_reveal_bc9f6026:
 
-    # na "So I buried myself in my work and watched Aven grow up into the woman she is now."
-    na ""
 
-# game/episode012a.rpy:1746
+    na "於是我埋頭工作，看着艾文長大成人變成了現在的樣子。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a02d6682:
 
-    # "Nadya’s voice had trailed off, leaving me alone with my thoughts."
-    ""
 
-# game/episode012a.rpy:1747
+    "娜迪亞的聲音越來越輕，留下我獨自消化這些信息。"
+
+
 translate traditional_chinese ep012_nadya_reveal_33080ed0:
 
-    # "It all made sense, but the implications were huge."
-    ""
 
-# game/episode012a.rpy:1748
+    "一切都能說通了，但這意味着驚天的變故。"
+
+
 translate traditional_chinese ep012_nadya_reveal_5e17946d:
 
-    # "Nadya, my real mother, Aven my sister..."
-    ""
 
-# game/episode012a.rpy:1750
+    "娜迪亞是我生母，艾文是我親妹..."
+
+
 translate traditional_chinese ep012_nadya_reveal_098b8621:
 
-    # "What effect would the revelation have on our relationship?"
-    ""
 
-# game/episode012a.rpy:1752
+    "真相大白會對我們的關係產生什麼影響？"
+
+
 translate traditional_chinese ep012_nadya_reveal_f731a649:
 
-    # "And what about what happened in the cave on Erigone, what kind of unconscious desire did Nadya give in to?"
-    ""
 
-# game/episode012a.rpy:1753
+    "還有厄裏戈涅星洞穴裏發生的事，娜迪亞當時屈從於什麼樣的無意識欲望？"
+
+
 translate traditional_chinese ep012_nadya_reveal_29402d89:
 
-    # c "I think Aven, Eva and Lilly have a right to know too."
-    c ""
 
-# game/episode012a.rpy:1755
+    c "我認爲艾文、伊娃和莉莉也有權知道真相。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c6448a5a:
 
-    # na "Yes, you’re right."
-    na ""
 
-# game/episode012a.rpy:1756
+    na "沒錯，你說得對。"
+
+
 translate traditional_chinese ep012_nadya_reveal_0e1e9152:
 
-    # na "I’ll tell them, it’s been long overdue."
-    na ""
 
-# game/episode012a.rpy:1757
+    na "我會告訴她們，這事早就該做了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_123c322e:
 
-    # c "Why tell me now though?"
-    c ""
 
-# game/episode012a.rpy:1758
+    c "但爲什麼現在才告訴我？"
+
+
 translate traditional_chinese ep012_nadya_reveal_abd06542:
 
-    # na "I’ve been meaning to tell you ever since you set foot in my apartment on Ryūjin Prime."
-    na ""
 
-# game/episode012a.rpy:1760
+    na "自從你踏進我在龍神主星上的公寓，我就一直想告訴你。"
+
+
 translate traditional_chinese ep012_nadya_reveal_4706829d:
 
-    # na "But I didn’t know how to approach the whole conversation, not to mention all of things that happened to us the past few months."
-    na ""
 
-# game/episode012a.rpy:1761
+    na "但我不知道怎麼開口，更別提過去幾個月我們遇到的那些事了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e35b2611:
 
-    # na "This place though, brings back so many memories."
-    na ""
 
-# game/episode012a.rpy:1762
+    na "不過這個地方勾起了好多回憶。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f182459a:
 
-    # na "When I heard you were going to visit Yve, everything came rushing back."
-    na ""
 
-# game/episode012a.rpy:1767
+    na "當我聽說你要去看伊芙，所有往事都湧上心頭。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6e2a4cd7:
 
-    # "Nadya let out a shuddering sigh when I took her in an embrace."
-    ""
 
-# game/episode012a.rpy:1768
+    "我擁抱她時，娜迪亞發出一陣顫抖的嘆息。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a148d737:
 
-    # c "I love you...{w} mom."
-    c ""
 
-# game/episode012a.rpy:1770
+    c "我愛你...{w}媽媽。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ebea6935:
 
-    # "She looked at me, her lip trembling and tears streaking her face."
-    ""
 
-# game/episode012a.rpy:1772
+    "她看着我，嘴脣顫抖，眼淚划過臉頰。"
+
+
 translate traditional_chinese ep012_nadya_reveal_4d635e1c:
 
-    # "Our lips met and we exchanged a lover’s kiss."
-    ""
 
-# game/episode012a.rpy:1773
+    "我們的嘴脣相碰，交換了一個情人之吻。"
+
+
 translate traditional_chinese ep012_nadya_reveal_5a0a93e8:
 
-    # "The moment lingered for a long time, until Nadya’s eyes grew wide with shock and jerked away."
-    ""
 
-# game/episode012a.rpy:1775
+    "那一刻持續了良久，直到娜迪亞瞪大雙眼，驚愕地抽開身。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b490d8e5:
 
-    # na "No...{w} This isn’t..."
-    na ""
 
-# game/episode012a.rpy:1777
+    na "不...{w}這不是..."
+
+
 translate traditional_chinese ep012_nadya_reveal_fcfeed77:
 
-    # "Distraught, she rushed out of the room."
-    ""
 
-# game/episode012a.rpy:1779
+    "她心煩意亂，衝出了房間。"
+
+
 translate traditional_chinese ep012_nadya_reveal_17b59bbc:
 
-    # "Confusion and elation warred inside me for a very long time after."
-    ""
 
-# game/episode012a.rpy:1782
+    "之後很長一段時間，困惑和狂喜在我心裡打仗。"
+
+
 translate traditional_chinese ep012_nadya_reveal_35f364dc:
 
-    # c "I never knew...{w} You’ve lived through so much..."
-    c ""
 
-# game/episode012a.rpy:1783
+    c "我從來不知道...{w}你經歷了這麼多..."
+
+
 translate traditional_chinese ep012_nadya_reveal_d90dc9c9:
 
-    # c "I always wondered why you both left, of course."
-    c ""
 
-# game/episode012a.rpy:1784
+    c "我一直在想你們倆爲什麼要離開。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f81e7754:
 
-    # c "Thank you for telling me."
-    c ""
 
-# game/episode012a.rpy:1786
+    c "謝謝你告訴我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_067c3f2b:
 
-    # na "I’m glad I did."
-    na ""
 
-# game/episode012a.rpy:1787
+    na "我很高興我這麼做了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_72bf2410:
 
-    # na "If you have more questions, I’m here."
-    na ""
 
-# game/episode012a.rpy:1788
+    na "如果你還有問題，我隨時在這兒。"
+
+
 translate traditional_chinese ep012_nadya_reveal_13184333:
 
-    # na "Well, I’ll leave you to prepare."
-    na ""
 
-# game/episode012a.rpy:1789
+    na "好吧，我就不打擾你準備了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a0befe42:
 
-    # na "Thank you for listening to me."
-    na ""
 
-# game/episode012a.rpy:1792
+    na "謝謝你聽我講述。"
+
+
 translate traditional_chinese ep012_nadya_reveal_39fdebf0:
 
-    # c "I still can’t believe you kept it from me for so long!"
-    c ""
 
-# game/episode012a.rpy:1794
+    c "我還是不敢相信你瞞了我這麼久！"
+
+
 translate traditional_chinese ep012_nadya_reveal_afef6f4a:
 
-    # na "I didn’t have a choice, [p_name_short]."
-    na ""
 
-# game/episode012a.rpy:1795
+    na "我沒有選擇，[p_name_short]。"
+
+
 translate traditional_chinese ep012_nadya_reveal_fb396629:
 
-    # c "You had a damn choice when we were reunited, but instead you dragged your feet."
-    c ""
 
-# game/episode012a.rpy:1797
+    c "你明明有選擇的，但我們重逢時你反倒拖拖拉拉。"
+
+
 translate traditional_chinese ep012_nadya_reveal_38b30412:
 
-    # na "I know...{w} I...{w} I’m sorry."
-    na ""
 
-# game/episode012a.rpy:1799
+    na "我知道...{w}我...{w}對不起。"
+
+
 translate traditional_chinese ep012_nadya_reveal_78f2f980:
 
-    # "Nadya rushed out of the room crying."
-    ""
 
-# game/episode012a.rpy:1801
+    "娜迪亞哭着衝出了房間。"
+
+
 translate traditional_chinese ep012_nadya_reveal_82c0e0eb:
 
-    # "The knot that had formed inside my stomach didn’t abate for a very long time."
-    ""
 
-# game/episode012a.rpy:1803
+    "我胃裡那團鬱結很久都沒消散。"
+
+
 translate traditional_chinese ep012_nadya_reveal_48cc88a1:
 
-    # c "You seem a little distraught yourself, to be honest."
-    c ""
 
-# game/episode012a.rpy:1804
+    c "說真的，你自己看着也有點心神不寧。"
+
+
 translate traditional_chinese ep012_nadya_reveal_55764e1f:
 
-    # "Nadya sighed and sat down on the bed."
-    ""
 
-# game/episode012a.rpy:1806
+    "娜迪亞嘆了口氣坐在牀上。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e00abf77:
 
-    # na "It’s this place, it brings back too many memories."
-    na ""
 
-# game/episode012a.rpy:1807
+    na "都怪這地方，勾起太多回憶了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_71a91e2a:
 
-    # na "Not all of them happy..."
-    na ""
 
-# game/episode012a.rpy:1808
+    na "不全是什麼美好回憶..."
+
+
 translate traditional_chinese ep012_nadya_reveal_f1ffaec3:
 
-    # c "Did something happen here?"
-    c ""
 
-# game/episode012a.rpy:1810
+    c "這兒發生過什麼事？"
+
+
 translate traditional_chinese ep012_nadya_reveal_1bb88470:
 
-    # na "That night, when I had to get a drunk Yve back from that nightclub, something else happened."
-    na ""
 
-# game/episode012a.rpy:1811
+    na "那晚我去夜店接醉酒的伊芙回家時，還出了其他狀況。"
+
+
 translate traditional_chinese ep012_nadya_reveal_046103af:
 
-    # na "After we’d returned and all went to sleep again, Agust came home."
-    na ""
 
-# game/episode012a.rpy:1812
+    na "等我們回來都睡下後，阿古斯特回家了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_fdce344e:
 
-    # na "He was drunk too, but still lucid enough to be the mean drunk he can be."
-    na ""
 
-# game/episode012a.rpy:1813
+    na "他也醉了，但還清醒到能像平常那樣撒酒瘋。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1ef4b0b7:
 
-    # na "Agust came into my room while I was changing into my night clothes."
-    na ""
 
-# game/episode012a.rpy:1814
+    na "我正換睡衣時，阿古斯特闖進了房間。"
+
+
 translate traditional_chinese ep012_nadya_reveal_28f618a9:
 
-    # na "Instead of excusing himself, he...{w} he...{w} he tried to rape me."
-    na ""
 
-# game/episode012a.rpy:1815
+    na "他非但沒道歉，反而...{w}他...{w}他企圖強姦我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b8707e0e:
 
-    # na "I was able to fight him off and run away, locking myself up in the bathroom."
-    na ""
 
-# game/episode012a.rpy:1816
+    na "我奮力反抗逃出來，把自己反鎖在浴室裏。"
+
+
 translate traditional_chinese ep012_nadya_reveal_5fac870d:
 
-    # na "He pursued me, pounding on the bathroom door, demanding to be let in."
-    na ""
 
-# game/episode012a.rpy:1818
+    na "他追過來猛捶浴室門，命令我開門。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a175220b:
 
-    # na "I was so scared."
-    na ""
 
-# game/episode012a.rpy:1819
+    na "我當時怕得要命。"
+
+
 translate traditional_chinese ep012_nadya_reveal_41b036b6:
 
-    # na "He was livid at first, called me names, demanded I obeyed him."
-    na ""
 
-# game/episode012a.rpy:1820
+    na "他起先暴跳如雷，罵罵咧咧要我服從。"
+
+
 translate traditional_chinese ep012_nadya_reveal_48e7e046:
 
-    # na "Then he threatened to do the same to me as he did to Aven’s mother."
-    na ""
 
-# game/episode012a.rpy:1822
+    na "後來又威脅說，要像對待艾文母親那樣對付我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_fd250e93:
 
-    # na "You know she disappeared after Aven’s birth, right?"
-    na ""
 
-# game/episode012a.rpy:1823
+    na "你知道她在艾文出生後就失蹤了吧？"
+
+
 translate traditional_chinese ep012_nadya_reveal_b184f765:
 
-    # c "I did, yes."
-    c ""
 
-# game/episode012a.rpy:1824
+    c "嗯，我知道。"
+
+
 translate traditional_chinese ep012_nadya_reveal_c4c08672:
 
-    # c "You’re saying Agust was involved somehow?"
-    c ""
 
-# game/episode012a.rpy:1826
+    c "你是說這事和阿古斯特有關？"
+
+
 translate traditional_chinese ep012_nadya_reveal_f8430cd8:
 
-    # na "Maybe?"
-    na ""
 
-# game/episode012a.rpy:1827
+    na "也許？"
+
+
 translate traditional_chinese ep012_nadya_reveal_3b79ff1b:
 
-    # na "To this day, I still don’t know."
-    na ""
 
-# game/episode012a.rpy:1829
+    na "到現在我也沒搞清楚。"
+
+
 translate traditional_chinese ep012_nadya_reveal_1454b2bd:
 
-    # na "All I know Agust is capable of anything."
-    na ""
 
-# game/episode012a.rpy:1830
+    na "我只知道阿古斯特什麼事都做得出來。"
+
+
 translate traditional_chinese ep012_nadya_reveal_242214b6:
 
-    # na "Eventually he grew more quiet, I even heard him snore."
-    na ""
 
-# game/episode012a.rpy:1831
+    na "最後他動靜小了，我甚至聽見打鼾聲。"
+
+
 translate traditional_chinese ep012_nadya_reveal_0f5dd5e4:
 
-    # na "Scared out of my mind, I waited until morning before leaving the bathroom, Agust was nowhere in sight."
-    na ""
 
-# game/episode012a.rpy:1832
+    na "我嚇得魂不守舍，挨到天亮才出浴室，阿古斯特早不見人影了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_375693ae:
 
-    # na "Living together with you all under one roof became unbearable from that day."
-    na ""
 
-# game/episode012a.rpy:1833
+    na "從那天起，和你們大家同一屋檐下生活變得難以忍受了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_e9c73987:
 
-    # na "I was too afraid to be alone in the same room with the man I thought knew for so long."
-    na ""
 
-# game/episode012a.rpy:1834
+    na "我太害怕和那個我以爲認識了那麼久的男人單獨在同一個房間裡了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_427d393a:
 
-    # na "I just couldn’t go on."
-    na ""
 
-# game/episode012a.rpy:1835
+    na "我實在堅持不下去了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f5ebb658:
 
-    # na "So I decided to run."
-    na ""
 
-# game/episode012a.rpy:1836
+    na "所以我決定逃跑。"
+
+
 translate traditional_chinese ep012_nadya_reveal_31c9b290:
 
-    # na "I took Aven, headed to Tuolovi spaceport and took the next spaceship off the planet."
-    na ""
 
-# game/episode012a.rpy:1838
+    na "我帶上艾文，前往託洛維星太空港，搭乘下一班飛船離開這個星球。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7f5e3240_1:
 
-    # na "After we settled on Ryūjin Prime, Tuolovi soon became a distant memory."
-    na ""
 
-# game/episode012a.rpy:1839
+    na "我們在龍神主星定居後，託洛維星很快就成了遙遠的回憶。"
+
+
 translate traditional_chinese ep012_nadya_reveal_416bb034_1:
 
-    # na "I tried to keep in contact with you, but all my attempts were blocked."
-    na ""
 
-# game/episode012a.rpy:1840
+    na "我試着和你保持聯繫，但我的所有嘗試都被阻止了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_7f0c8e05_1:
 
-    # na "At some point, someone arrived at my doorstep to threaten me if I didn’t stop..."
-    na ""
 
-# game/episode012a.rpy:1842
+    na "有一次，有人來到我家門口威脅我，如果我不停止..."
+
+
 translate traditional_chinese ep012_nadya_reveal_bc9f6026_1:
 
-    # na "So I buried myself in my work and watched Aven grow up into the woman she is now."
-    na ""
 
-# game/episode012a.rpy:1847
+    na "於是我埋頭於工作中，看着艾文長大成爲她現在的樣子。"
+
+
 translate traditional_chinese ep012_nadya_reveal_6e2a4cd7_1:
 
-    # "Nadya let out a shuddering sigh when I took her in an embrace."
-    ""
 
-# game/episode012a.rpy:1848
+    "當我擁抱娜迪亞時，她發出了一聲顫抖的嘆息。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b4b6abf9:
 
-    # c "I’ve missed you so much, Nadya."
-    c ""
 
-# game/episode012a.rpy:1849
+    c "我太想你了，娜迪亞。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f134e22c:
 
-    # c "I love you."
-    c ""
 
-# game/episode012a.rpy:1851
+    c "我愛你。"
+
+
 translate traditional_chinese ep012_nadya_reveal_ebea6935_1:
 
-    # "She looked at me, her lip trembling and tears streaking her face."
-    ""
 
-# game/episode012a.rpy:1853
+    "她看着我，嘴脣顫抖，淚水划過她的臉龐。"
+
+
 translate traditional_chinese ep012_nadya_reveal_4d635e1c_1:
 
-    # "Our lips met and we exchanged a lover’s kiss."
-    ""
 
-# game/episode012a.rpy:1854
+    "我們的嘴脣相觸，交換了一個戀人之吻。"
+
+
 translate traditional_chinese ep012_nadya_reveal_5a0a93e8_1:
 
-    # "The moment lingered for a long time, until Nadya’s eyes grew wide with shock and jerked away."
-    ""
 
-# game/episode012a.rpy:1856
+    "那一刻持續了很久，直到娜迪亞的眼睛因震驚而睜大，並猛然掙脫。"
+
+
 translate traditional_chinese ep012_nadya_reveal_b490d8e5_1:
 
-    # na "No...{w} This isn’t..."
-    na ""
 
-# game/episode012a.rpy:1858
+    na "不...{w} 這不是..."
+
+
 translate traditional_chinese ep012_nadya_reveal_fcfeed77_1:
 
-    # "Distraught, she rushed out of the room."
-    ""
 
-# game/episode012a.rpy:1860
+    "心亂如麻，她衝出了房間。"
+
+
 translate traditional_chinese ep012_nadya_reveal_17b59bbc_1:
 
-    # "Confusion and elation warred inside me for a very long time after."
-    ""
 
-# game/episode012a.rpy:1862
+    "之後很長一段時間裡，困惑和興奮在我內心交戰。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9bdce373:
 
-    # c "How awful, I really didn’t know."
-    c ""
 
-# game/episode012a.rpy:1863
+    c "太糟糕了，我真的不知道。"
+
+
 translate traditional_chinese ep012_nadya_reveal_d90dc9c9_1:
 
-    # c "I always wondered why you both left, of course."
-    c ""
 
-# game/episode012a.rpy:1865
+    c "當然，我一直想知道你們倆爲什麼離開。"
+
+
 translate traditional_chinese ep012_nadya_reveal_dbf8e768:
 
-    # na "I couldn’t tell you, because I’m pretty certain Agust wouldn’t have let us leave, just out of spite."
-    na ""
 
-# game/episode012a.rpy:1866
+    na "我不能告訴你，因爲我相當確定阿古斯特不會讓我們離開，純粹出於惡意。"
+
+
 translate traditional_chinese ep012_nadya_reveal_adfe223c:
 
-    # c "Probably yes and it doesn’t surprise me that he was capable of doing those other things either."
-    c ""
 
-# game/episode012a.rpy:1867
+    c "很可能是的，而且他能做出那些其他事情，我也不奇怪。"
+
+
 translate traditional_chinese ep012_nadya_reveal_f81e7754_1:
 
-    # c "Thank you for telling me."
-    c ""
 
-# game/episode012a.rpy:1869
+    c "謝謝你告訴我。"
+
+
 translate traditional_chinese ep012_nadya_reveal_067c3f2b_1:
 
-    # na "I’m glad I did."
-    na ""
 
-# game/episode012a.rpy:1870
+    na "我很高興我這麼做了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_13184333_1:
 
-    # na "Well, I’ll leave you to prepare."
-    na ""
 
-# game/episode012a.rpy:1871
+    na "好吧，我就不打擾你準備了。"
+
+
 translate traditional_chinese ep012_nadya_reveal_a0befe42_1:
 
-    # na "Thank you for listening to me."
-    na ""
 
-# game/episode012a.rpy:1873
+    na "謝謝你願意聽我講述。"
+
+
 translate traditional_chinese ep012_nadya_reveal_9394b2e9:
 
-    # "After Nadya left, I freshened up and prepared myself to attend, what was undoubtedly going to be a memorable performance at the Tyuarene Theater of Senses."
-    ""
 
-# game/episode012a.rpy:1882
+    "娜迪亞離開後，我簡單梳洗整理，準備前往秋雅潤人的\"迷魂會所\"——毫無疑問，那將是一場令人難忘的演出。"
+
+
 translate traditional_chinese ep012_thyia_sex_c7fe5e60:
 
-    # "She kissed me."
-    ""
 
-# game/episode012a.rpy:1884
+    "她吻了我。"
+
+
 translate traditional_chinese ep012_thyia_sex_42124ddf:
 
-    # "Her kiss led to an embrace and turned into something more hungry."
-    ""
 
-# game/episode012a.rpy:1886
+    "這個吻讓我們緊緊相擁，逐漸化作更貪婪的渴求。"
+
+
 translate traditional_chinese ep012_thyia_sex_c4fecc9b:
 
-    # "Thyia fiddled with my clothing, while I slipped her bikini top from her shoulders to free her breasts."
-    ""
 
-# game/episode012a.rpy:1887
+    "塞婭的手解着我的衣衫，我則從她肩頭扒下比基尼上衣，釋放那對豐乳。"
+
+
 translate traditional_chinese ep012_thyia_sex_53bbed86:
 
-    # "The soft wind brushed over her skin and she cast me an almost shy smile."
-    ""
 
-# game/episode012a.rpy:1889
+    "微風撫過她的肌膚，她朝我漾起近乎羞赧的笑意。"
+
+
 translate traditional_chinese ep012_thyia_sex_4849df5d:
 
-    # "I buried my head in her breasts, kissing and licking, taking the sand that got everywhere for granted."
-    ""
 
-# game/episode012a.rpy:1891
+    "我將臉埋進她胸脯又吻又舔，任憑細沙沾滿每一寸肌膚。"
+
+
 translate traditional_chinese ep012_thyia_sex_b759071b:
 
-    # "Her hands grabbed eagerly between my legs, where my erection had already reached its full strength."
-    ""
 
-# game/episode012a.rpy:1892
+    "她的手急切探向我腿間，那裡早已硬挺如鐵。"
+
+
 translate traditional_chinese ep012_thyia_sex_10d78cca:
 
-    # th "Mmmm, let me taste your cock."
-    th ""
 
-# game/episode012a.rpy:1894
+    th "嗯...讓我嘗嘗你的肉棒。"
+
+
 translate traditional_chinese ep012_thyia_sex_d79b5dc5:
 
-    # "Reluctant to release her breasts I held her close while she bowed her head between my legs."
-    ""
 
-# game/episode012a.rpy:1895
+    "我戀戀不捨地鬆開乳峯緊擁着她，看她俯首埋入我腿間。"
+
+
 translate traditional_chinese ep012_thyia_sex_c261850d:
 
-    # "Moments later, I felt her warm mouth wrap around my cock."
-    ""
 
-# game/episode012a.rpy:1897
+    "片刻後，灼熱口腔包裹住了我的陽具。"
+
+
 translate traditional_chinese ep012_thyia_sex_b39b9d65:
 
-    # "She began to suck me with long, lingering strokes."
-    ""
 
-# game/episode012a.rpy:1898
+    "她開始用綿長而留戀的節奏吞吐起來。"
+
+
 translate traditional_chinese ep012_thyia_sex_f97b54a6:
 
-    # c "Oh fuck, Thyia!"
-    c ""
 
-# game/episode012a.rpy:1900
+    c "操...塞婭！"
+
+
 translate traditional_chinese ep012_thyia_sex_949b65bd:
 
-    # "Thyia smiled, and doubled down on the intense blowjob she gave me."
-    ""
 
-# game/episode012a.rpy:1901
+    "塞婭脣角含笑，更加賣力地吸吮着。"
+
+
 translate traditional_chinese ep012_thyia_sex_14cbb3f2:
 
-    # "I placed my hands on her hips and pulled her pelvis towards me."
-    ""
 
-# game/episode012a.rpy:1903
+    "我扣住她的髖部往懷裡按。"
+
+
 translate traditional_chinese ep012_thyia_sex_da3e034f:
 
-    # "The earthy smell of her cunt filled my nostrils as I tasted her."
-    ""
 
-# game/episode012a.rpy:1904
+    "舔舐私處時，她小穴散發的濃鬱體味衝進鼻腔。"
+
+
 translate traditional_chinese ep012_thyia_sex_82ca444e:
 
-    # "It wasn’t much of a surprise to find her pussy dripping wet."
-    ""
 
-# game/episode012a.rpy:1906
+    "發現她私處早已溼透倒是毫不意外。"
+
+
 translate traditional_chinese ep012_thyia_sex_175d6f02:
 
-    # "Thyia moaned softly, my cock still firmly inside her mouth."
-    ""
 
-# game/episode012a.rpy:1908
+    "塞婭輕聲呻吟，而我的肉棒仍牢牢插在她嘴裡。"
+
+
 translate traditional_chinese ep012_thyia_sex_bb26aec8:
 
-    # "Working in unison, we brought each other to new heights."
-    ""
 
-# game/episode012a.rpy:1909
+    "交纏的肢體將彼此推向新的巔峯。"
+
+
 translate traditional_chinese ep012_thyia_sex_3e2ef37c:
 
-    # "Saliva dribbled down my shaft as Thyia took my entire length inside her mouth, urging me to eat her out with renewed fervor."
-    ""
 
-# game/episode012a.rpy:1911
+    "當整根陽具被她吞沒時，唾液沿着莖身流淌，刺激我以更狂熱的勁頭舔弄她。"
+
+
 translate traditional_chinese ep012_thyia_sex_7aff7280:
 
-    # "As I worked on her clit, Thyia let my cock slip from her mouth and moaned loudly."
-    ""
 
-# game/episode012a.rpy:1912
+    "我玩弄陰蒂時，肉棒滑出她的口腔，激得她高聲浪叫。"
+
+
 translate traditional_chinese ep012_thyia_sex_ed43d665:
 
-    # th "Oh [p_name_short], keep going like that."
-    th ""
 
-# game/episode012a.rpy:1913
+    th "噢[p_name_short]，別停..."
+
+
 translate traditional_chinese ep012_thyia_sex_54c3d908:
 
-    # th "Right there!{w} Harder!{w} Harder!"
-    th ""
 
-# game/episode012a.rpy:1914
+    th "就是那裡！{w}用力！{w}再用力！"
+
+
 translate traditional_chinese ep012_thyia_sex_62fd6696:
 
-    # th "Make me cum!"
-    th ""
 
-# game/episode012a.rpy:1916
+    th "讓我高潮吧！"
+
+
 translate traditional_chinese ep012_thyia_sex_267e89b5:
 
-    # "My tongue whirled over her pussy, stimulating her clitoris."
-    ""
 
-# game/episode012a.rpy:1917
+    "我的舌頭在她陰部打轉，刺激着她的陰蒂。"
+
+
 translate traditional_chinese ep012_thyia_sex_d6ee4dd3:
 
-    # "Pussy juice now flowed freely coating my mouth and face."
-    ""
 
-# game/episode012a.rpy:1918
+    "此時愛液不斷流淌，沾滿了我的嘴巴和臉頰。"
+
+
 translate traditional_chinese ep012_thyia_sex_ff9e89ab:
 
-    # "And then she orgasmed."
-    ""
 
-# game/episode012a.rpy:1920
+    "接着她達到了高潮。"
+
+
 translate traditional_chinese ep012_thyia_sex_91e3d7d8:
 
-    # th "Oh [p_name]!{w} [p_name_short]!"
-    th ""
 
-# game/episode012a.rpy:1921
+    th "噢 [p_name]！{w} [p_name_short]！"
+
+
 translate traditional_chinese ep012_thyia_sex_205870e6:
 
-    # "Her whole body shuddered and she nearly collapsed on top of me, pressing her convulsing slit against my face."
-    ""
 
-# game/episode012a.rpy:1922
+    "她全身顫慄，幾乎癱倒在我身上，抽搐的蜜穴緊壓着我的臉。"
+
+
 translate traditional_chinese ep012_thyia_sex_0f419926:
 
-    # th "I want you to fuck me so hard."
-    th ""
 
-# game/episode012a.rpy:1923
+    th "我要你狠狠幹我。"
+
+
 translate traditional_chinese ep012_thyia_sex_72b4ce45:
 
-    # th "I want that hard cock all the way inside me."
-    th ""
 
-# game/episode012a.rpy:1924
+    th "我要那根硬挺的肉棒完全插進來。"
+
+
 translate traditional_chinese ep012_thyia_sex_596ee34a:
 
-    # th "I want..."
-    th ""
 
-# game/episode012a.rpy:1926
+    th "我要..."
+
+
 translate traditional_chinese ep012_thyia_sex_0264f1ec:
 
-    # "She squealed in mock surprise as I pulled her on all fours by her waist."
-    ""
 
-# game/episode012a.rpy:1927
+    "當我掐着她的腰把她擺成跪趴姿勢時，她假裝驚訝地尖叫起來。"
+
+
 translate traditional_chinese ep012_thyia_sex_7922203b:
 
-    # "Thyia tensed as I mounted her, my cock slipping inside her until my lower body touched her voluptuous ass."
-    ""
 
-# game/episode012a.rpy:1929
+    "當我跨坐上去時塞婭繃緊身體，我的肉棒滑進她體內，直至下腹貼住她豐腴的臀。"
+
+
 translate traditional_chinese ep012_thyia_sex_c9ea2687:
 
-    # th "Oh yes, fuck me [p_name]."
-    th ""
 
-# game/episode012a.rpy:1931
+    th "噢對，幹我 [p_name]。"
+
+
 translate traditional_chinese ep012_thyia_sex_d1da4f2f:
 
-    # "Grabbing her by the hips I rode her hard, her deep moans urging me on."
-    ""
 
-# game/episode012a.rpy:1932
+    "我抓着她的臀胯猛烈抽送，她深沉的呻吟不斷刺激着我。"
+
+
 translate traditional_chinese ep012_thyia_sex_dc0c0240:
 
-    # "We were lucky the beach was devoid of other people, because the sounds of our love-making could be heard clearly above the lapping sea."
-    ""
 
-# game/episode012a.rpy:1934
+    "幸虧海灘上沒有其他人，我們交媾的聲響甚至蓋過了海浪聲。"
+
+
 translate traditional_chinese ep012_thyia_sex_b175e3f5:
 
-    # "Every time I drove my cock deep inside Thyia’s cunt, she ground her ass against my abdomen."
-    ""
 
-# game/episode012a.rpy:1936
+    "每當肉棒深深插入塞婭的私處，她就把臀部抵着我的小腹研磨。"
+
+
 translate traditional_chinese ep012_thyia_sex_fb60d9d6:
 
-    # "The majestic sight of her quivering ass nearly made me cum inside her."
-    ""
 
-# game/episode012a.rpy:1937
+    "她顫動的臀部構成宏偉景象，令人嘆爲觀止。"
+
+
 translate traditional_chinese ep012_thyia_sex_8501c955:
 
-    # "She noticed me struggling and inclined her head to my face, her words a breathless whisper."
-    ""
 
-# game/episode012a.rpy:1939
+    "她察覺我的掙扎，把臉湊近輕喘着低語。"
+
+
 translate traditional_chinese ep012_thyia_sex_a157313a:
 
-    # th "Turn me around, [p_name_short], I want to look at you when you cum."
-    th ""
 
-# game/episode012a.rpy:1941
+    th "把我轉過來，[p_name_short]，我要看着你射精的樣子。"
+
+
 translate traditional_chinese ep012_thyia_sex_e8cfe52c:
 
-    # "I flipped her over and reentered her, amazed by the tightness of her wet slit."
-    ""
 
-# game/episode012a.rpy:1943
+    "我把她翻過身再次進入，溼潤穴肉的緊緻感令我喫驚。"
+
+
 translate traditional_chinese ep012_thyia_sex_72e1d180:
 
-    # "She wrapped her legs around me, giving me room to bury myself deeper inside her."
-    ""
 
-# game/episode012a.rpy:1945
+    "她雙腿環住我的腰，讓我能埋得更深。"
+
+
 translate traditional_chinese ep012_thyia_sex_507e5a10:
 
-    # "Her arms firmly around my neck, we kissed passionately as we fucked."
-    ""
 
-# game/episode012a.rpy:1946
+    "我們激烈交合時，她雙臂緊鎖我的脖頸熱吻不休。"
+
+
 translate traditional_chinese ep012_thyia_sex_e4417e6b:
 
-    # "With each thrust, the sand shifted beneath her, driving her ass ever so slight into the surface."
-    ""
 
-# game/episode012a.rpy:1948
+    "每次挺進都讓她臀下的沙粒移位，臀肉微微陷入沙中。"
+
+
 translate traditional_chinese ep012_thyia_sex_396630c8:
 
-    # th "Harder, [p_name_short], harder."
-    th ""
 
-# game/episode012a.rpy:1949
+    th "用力些，[p_name_short]、再用力。"
+
+
 translate traditional_chinese ep012_thyia_sex_2af0d18c:
 
-    # th "Are you going to cum for me, baby?"
-    th ""
 
-# game/episode012a.rpy:1951
+    th "寶貝，你要爲我射出來嗎？"
+
+
 translate traditional_chinese ep012_thyia_sex_52b29a76:
 
-    # "I could only grunt in acknowledgment, being too focused on my onrushing climax."
-    ""
 
-# game/episode012a.rpy:1957
+    "我只能哼聲示意，太專注於我即將來臨的高潮了。"
+
+
 translate traditional_chinese ep012_thyia_sex_1ba8ec56:
 
-    # th "I want that hard cock deep inside me when you cum."
-    th ""
 
-# game/episode012a.rpy:1958
+    th "當你要射的時候，我要你那根硬硬的雞巴深插在我裡面。"
+
+
 translate traditional_chinese ep012_thyia_sex_90a309c6:
 
-    # th "Don’t pull out, please!"
-    th ""
 
-# game/episode012a.rpy:1959
+    th "別拔出來，求你了！"
+
+
 translate traditional_chinese ep012_thyia_sex_9e35e104:
 
-    # "There was no thought in my mind of leaving that deliciously tight hole of hers."
-    ""
 
-# game/episode012a.rpy:1961
+    "我腦子根本沒想到要離開她那美味緊緻的洞裡。"
+
+
 translate traditional_chinese ep012_thyia_sex_3e4f7cf8:
 
-    # "When my balls slapped against her pussy, a blast of warm cum flooded her vagina."
-    ""
 
-# game/episode012a.rpy:1964
+    "當我的球撞在她的逼上時，一股溫熱的精液湧入了她的陰道。"
+
+
 translate traditional_chinese ep012_thyia_sex_2509a8bc:
 
-    # "Despite her urging, she seemed happily surprised by the sudden warmth inside her body."
-    ""
 
-# game/episode012a.rpy:1965
+    "儘管她在催促，她似乎對體內突然的溫暖感到驚喜。"
+
+
 translate traditional_chinese ep012_thyia_sex_e431a320:
 
-    # "She pressed her body tightly against mine, long after my last orgasmic spasm."
-    ""
 
-# game/episode012a.rpy:1968
+    "在我最後的高潮抽搐之後很久，她仍把身體緊緊地貼在我的身上。"
+
+
 translate traditional_chinese ep012_thyia_sex_02450301:
 
-    # th "I want that warm cum all over my body."
-    th ""
 
-# game/episode012a.rpy:1969
+    th "我要那溫熱的精液灑滿我的全身。"
+
+
 translate traditional_chinese ep012_thyia_sex_6bcbbce4:
 
-    # th "Don’t waste a drop, please!"
-    th ""
 
-# game/episode012a.rpy:1970
+    th "一滴都別浪費，求你了！"
+
+
 translate traditional_chinese ep012_thyia_sex_5500af7d:
 
-    # "With reluctance I pulled out of that deliciously tight hole of hers."
-    ""
 
-# game/episode012a.rpy:1972
+    "我不情願地把那根從她那美味緊緻的洞裡拔出來。"
+
+
 translate traditional_chinese ep012_thyia_sex_283dfd43:
 
-    # "When my throbbing erection reappeared out of her depths, a blast of warm cum splashed on her belly and breasts."
-    ""
 
-# game/episode012a.rpy:1975
+    "當我那脈動的勃起從她深處抽出時，一股溫熱的精液濺灑在她的腹部和乳房上。"
+
+
 translate traditional_chinese ep012_thyia_sex_e9cfa979:
 
-    # "Despite her urging, she seemed happily surprised by the sudden warmth covering her body."
-    ""
 
-# game/episode012a.rpy:1976
+    "儘管她在催促，她似乎對覆蓋全身的突然溫暖感到驚喜。"
+
+
 translate traditional_chinese ep012_thyia_sex_bd8cd3f4:
 
-    # th "That’s it, baby!"
-    th ""
 
-# game/episode012a.rpy:1977
+    th "就是這樣，寶貝！"
+
+
 translate traditional_chinese ep012_thyia_sex_e431a320_1:
 
-    # "She pressed her body tightly against mine, long after my last orgasmic spasm."
-    ""
 
-# game/episode012a.rpy:1978
+    "在我最後的高潮抽搐之後很久，她仍把身體緊緊地貼在我的身上。"
+
+
 translate traditional_chinese ep012_thyia_sex_8270f1fd:
 
-    # "We didn’t say much, while locked in that embrace, but our smiles spoke volumes."
-    ""
 
-# game/episode012a.rpy:1980
+    "在緊緊擁抱時，我們沒說太多話，但我們的微笑說了千言萬語。"
+
+
 translate traditional_chinese ep012_thyia_sex_b95523a1:
 
-    # "After Thyia had cleaned herself up, she nestled herself in my arms."
-    ""
 
-# game/episode012a.rpy:1981
+    "塞婭把自己清理乾淨後，就依偎在我的懷裡。"
+
+
 translate traditional_chinese ep012_thyia_sex_9a16a6d7:
 
-    # "Together we watched the sun go down and remained entangled until the Kepler’s night temperature dropped and we couldn’t keep each other warm anymore."
-    ""
 
-# game/episode012a.rpy:1992
+    "我們一起看着太陽落山，繼續糾纏直到開普勒星的夜間溫度降下來，我們再也無法讓彼此溫暖了。"
+
+
 translate traditional_chinese ep012_aven_sex_dd4a6633:
 
-    # "I pushed Aven against the wall and kissed her."
-    ""
 
-# game/episode012a.rpy:1993
+    "我把艾文推到牆上，吻了她。"
+
+
 translate traditional_chinese ep012_aven_sex_9b067701:
 
-    # "Her breasts felt firm under the flimsy fabric of her dress."
-    ""
 
-# game/episode012a.rpy:1995
+    "她的乳房在她薄裙下感覺很豐滿緊實。"
+
+
 translate traditional_chinese ep012_aven_sex_59370ddd:
 
-    # av "I want you so much, [p_name_short]!"
-    av ""
 
-# game/episode012a.rpy:1996
+    av "我好想要你，[p_name_short]！"
+
+
 translate traditional_chinese ep012_aven_sex_f87e5d10:
 
-    # "Trailing the contour of her body, I reached down between her legs."
-    ""
 
-# game/episode012a.rpy:1998
+    "循着她身體輪廓向下，我的手伸向她兩腿之間。"
+
+
 translate traditional_chinese ep012_aven_sex_b00aa27b:
 
-    # "She gasped as my hand brushed the soft flesh of her thighs."
-    ""
 
-# game/episode012a.rpy:1999
+    "當我的手掃過她大腿的柔嫩肌膚時，她倒抽一口氣。"
+
+
 translate traditional_chinese ep012_aven_sex_106a9029:
 
-    # "Aven radiated heat and all but burned for me."
-    ""
 
-# game/episode012a.rpy:2001
+    "艾文散發出熱量，幾乎要爲我燃燒起來。"
+
+
 translate traditional_chinese ep012_aven_sex_39149510:
 
-    # "I was surprised to find she wasn’t wearing any panties."
-    ""
 
-# game/episode012a.rpy:2002
+    "我很驚訝地發現她沒穿內褲。"
+
+
 translate traditional_chinese ep012_aven_sex_99f95582:
 
-    # c "Now, who’s a naughty girl?"
-    c ""
 
-# game/episode012a.rpy:2003
+    c "現在，誰是調皮的小妞？"
+
+
 translate traditional_chinese ep012_aven_sex_abdf89a0:
 
-    # "Aven reddened even more and bit her lip."
-    ""
 
-# game/episode012a.rpy:2005
+    "艾文的臉更紅了，咬着自己的嘴脣。"
+
+
 translate traditional_chinese ep012_aven_sex_00eb83c8:
 
-    # "My fingers made a cursory exploration of the treasure between her legs and came back coated in wetness."
-    ""
 
-# game/episode012a.rpy:2006
+    "我的手指在她大腿間迅速探索了下那寶貝，然後沾滿溼溼的東西收了回來。"
+
+
 translate traditional_chinese ep012_aven_sex_7addc80d:
 
-    # av "I’m so ready for you, [p_name]."
-    av ""
 
-# game/episode012a.rpy:2009
+    av "我爲你等不及了，[p_name]。"
+
+
 translate traditional_chinese ep012_aven_sex_8e80df21:
 
-    # "My cousin freed my growing erection from my pants and started to jerk me off."
-    ""
 
-# game/episode012a.rpy:2011
+    "我表妹把我那硬起的傢伙從褲子裡解放出來，開始給我打手槍。"
+
+
 translate traditional_chinese ep012_aven_sex_fab45647:
 
-    # "My girl freed my growing erection from my pants and started to jerk me off."
-    ""
 
-# game/episode012a.rpy:2012
+    "我女友把我那硬起的傢伙從褲子裡弄出來，開始給我打手槍。"
+
+
 translate traditional_chinese ep012_aven_sex_1e311b9f:
 
-    # "I stepped in close and made Aven spread her legs for me."
-    ""
 
-# game/episode012a.rpy:2014
+    "我靠近了，讓艾文爲我張開雙腿。"
+
+
 translate traditional_chinese ep012_aven_sex_9a3015e1:
 
-    # "As I pushed her up against the wall, I entered her."
-    ""
 
-# game/episode012a.rpy:2016
+    "當我把她推到牆上時，我進入了她的身體。"
+
+
 translate traditional_chinese ep012_aven_sex_05326711:
 
-    # "Aven moaned and steadied herself against the brick wall of the alleyway."
-    ""
 
-# game/episode012a.rpy:2018
+    "艾文呻吟着，靠在小巷的磚牆上穩住自己。"
+
+
 translate traditional_chinese ep012_aven_sex_76c02839:
 
-    # "The warmth of her pussy felt incredible and made me pause for a second."
-    ""
 
-# game/episode012a.rpy:2020
+    "她那下面溫暖的感覺棒極了，讓我停頓了一秒。"
+
+
 translate traditional_chinese ep012_aven_sex_a1e36ccc:
 
-    # av "Fuck me, [p_name_short], please fuck me!"
-    av ""
 
-# game/episode012a.rpy:2022
+    av "幹我吧，[p_name_short]，請幹我吧！"
+
+
 translate traditional_chinese ep012_aven_sex_5ce68795:
 
-    # "I gave into the hoarse voice in my ear and began to thrust."
-    ""
 
-# game/episode012a.rpy:2023
+    "我屈服於耳邊嘶啞的聲音，開始抽插。"
+
+
 translate traditional_chinese ep012_aven_sex_2820ac5e:
 
-    # "The clothing we wore posed a serious impediment to our love-making, but it didn’t seem like a good idea to strip completely naked."
-    ""
 
-# game/episode012a.rpy:2025
+    "我們穿的衣服嚴重妨礙了做愛，但似乎沒必要全部脫光。"
+
+
 translate traditional_chinese ep012_aven_sex_7ea04f4f:
 
-    # "I did manage to reveal Aven’s breasts and promptly buried my face in them."
-    ""
 
-# game/episode012a.rpy:2027
+    "我還是設法露出了艾文的乳房，立刻埋入了其中。"
+
+
 translate traditional_chinese ep012_aven_sex_3b107bd5:
 
-    # "She dug her nails into my back as I drove her against the wall with my thrusts."
-    ""
 
-# game/episode012a.rpy:2028
+    "當我用抽插把她推到牆上時，她把手指甲摳進我的背裏。"
+
+
 translate traditional_chinese ep012_aven_sex_f13d7637:
 
-    # "As Aven let out a long moan, we were both startled by noises coming from the entrance of the alleyway."
-    ""
 
-# game/episode012a.rpy:2030
+    "當艾文發出長長的呻吟時，我們都被小巷入口傳來的聲音嚇了一跳。"
+
+
 translate traditional_chinese ep012_aven_sex_09c0f7d3:
 
-    # "We froze and exchanged panicked looks."
-    ""
 
-# game/episode012a.rpy:2032
+    "我們僵住了，交換驚恐的眼神。"
+
+
 translate traditional_chinese ep012_aven_sex_dd74dd64:
 
-    # "Two people were standing at the beginning of the alley and were probably smoking something."
-    ""
 
-# game/episode012a.rpy:2033
+    "兩個人站在小巷開端，可能是在抽什麼煙。"
+
+
 translate traditional_chinese ep012_aven_sex_12320ff3:
 
-    # "They didn’t appear to have noticed us."
-    ""
 
-# game/episode012a.rpy:2035
+    "他們似乎沒有注意到我們。"
+
+
 translate traditional_chinese ep012_aven_sex_c821b53f:
 
-    # "Aven looked a little shocked when she felt my hips begin to move again."
-    ""
 
-# game/episode012a.rpy:2036
+    "當艾文感覺到我臀部又開始動時，她看起來很震驚。"
+
+
 translate traditional_chinese ep012_aven_sex_05c49c43:
 
-    # av "W-what are you doing?"
-    av ""
 
-# game/episode012a.rpy:2038
+    av "你-你在幹什麼？"
+
+
 translate traditional_chinese ep012_aven_sex_25b838c3:
 
-    # c "Making love to my beautiful cousin?"
-    c ""
 
-# game/episode012a.rpy:2040
+    c "在和美麗的表妹做愛？"
+
+
 translate traditional_chinese ep012_aven_sex_c7875aad:
 
-    # c "Making love to my beautiful girlfriend?"
-    c ""
 
-# game/episode012a.rpy:2041
+    c "在和美麗的女友做愛？"
+
+
 translate traditional_chinese ep012_aven_sex_775772b0:
 
-    # av "But [p_name_short]...{w} Oh fuck, yes, right there!"
-    av ""
 
-# game/episode012a.rpy:2043
+    av "但是[p_name_short]...{w}哦操，是的，就是那兒！"
+
+
 translate traditional_chinese ep012_aven_sex_e38b4ffd:
 
-    # "Suppressing our moans and grunts was a challenge, but we somehow managed not to draw attention to ourselves."
-    ""
 
-# game/episode012a.rpy:2045
+    "壓抑呻吟和喘息真是煎熬，但我們還是控制住了沒引起旁人注意。"
+
+
 translate traditional_chinese ep012_aven_sex_b39e740f:
 
-    # "My cock slid in and out of her pussy, coming back wetter with each thrust."
-    ""
 
-# game/episode012a.rpy:2047
+    "我的雞巴在她屄裏抽送着，每次抽插都帶出更多淫水。"
+
+
 translate traditional_chinese ep012_aven_sex_bfca3035:
 
-    # "A sensation on the verge of being painful, Aven’s nails dug deeper into the skin of my back."
-    ""
 
-# game/episode012a.rpy:2049
+    "近乎疼痛的快感讓艾文指甲深深陷進我後背的皮肉裏。"
+
+
 translate traditional_chinese ep012_aven_sex_b2c5738a:
 
-    # av "Don’t stop, I’m going to..."
-    av ""
 
-# game/episode012a.rpy:2051
+    av "別停...我快要..."
+
+
 translate traditional_chinese ep012_aven_sex_f301754c:
 
-    # "She came."
-    ""
 
-# game/episode012a.rpy:2052
+    "她高潮了。"
+
+
 translate traditional_chinese ep012_aven_sex_1bc94253:
 
-    # "Burying her face against my chest to silence her screams, she orgasmed."
-    ""
 
-# game/episode012a.rpy:2053
+    "她把臉埋進我胸口悶住尖叫，整個人劇烈痙攣着。"
+
+
 translate traditional_chinese ep012_aven_sex_dbdc087e:
 
-    # "I held her spasming body firmly, otherwise Aven would have lost her balance, such was the ferocity of her climax."
-    ""
 
-# game/episode012a.rpy:2055
+    "我緊緊摟住她顫抖的身體，要不是這樣艾文早就癱軟在地——她高潮來得實在太兇了。"
+
+
 translate traditional_chinese ep012_aven_sex_0f174310:
 
-    # "While she showered me with grateful kisses, I managed a few strokes until the sensation of her tight pussy proved too much for me."
-    ""
 
-# game/episode012a.rpy:2060
+    "趁她密密麻麻地親我，我又頂弄幾下，可她那穴實在太緊..."
+
+
 translate traditional_chinese ep012_aven_sex_ff425c1e:
 
-    # "Frenzied, I speared her one last time, driving her up the wall and came inside her."
-    ""
 
-# game/episode012a.rpy:2063
+    "我發狂似地最後一捅，把她操到牆上射在了裡面。"
+
+
 translate traditional_chinese ep012_aven_sex_b9762a2a:
 
-    # "She held me close, until I stopped twitching."
-    ""
 
-# game/episode012a.rpy:2066
+    "她緊緊抱着我，直到我停止抽動。"
+
+
 translate traditional_chinese ep012_aven_sex_fcebb1e3:
 
-    # "Frenzied, I pulled Aven off my cock and made her kneel."
-    ""
 
-# game/episode012a.rpy:2069
+    "我猛地將艾文從雞巴上扯開，按着她跪倒在地。"
+
+
 translate traditional_chinese ep012_aven_sex_4a446529:
 
-    # "One second later and I would have made a mess of my girl, but Aven managed to catch my entire load inside her mouth."
-    ""
 
-# game/episode012a.rpy:2071
+    "再晚一秒我就射得她渾身都是，但她張嘴接住了全部精液。"
+
+
 translate traditional_chinese ep012_aven_sex_1d615c5f:
 
-    # "She smiled at me and swallowed."
-    ""
 
-# game/episode012a.rpy:2073
+    "她衝我一笑，咕嚕咽了下去。"
+
+
 translate traditional_chinese ep012_aven_sex_39cdac10:
 
-    # "After one last kiss, we adjusted our clothing and walked towards the mouth of the alleyway, holding hands again."
-    ""
 
-# game/episode012a.rpy:2075
+    "最後吻了一下，我們理好衣服牽着手走出巷子。"
+
+
 translate traditional_chinese ep012_aven_sex_270da546:
 
-    # "The two men engaged in a conversation were startled to see two people emerge from a cul-de-sac."
-    ""
 
-# game/episode012a.rpy:2076
+    "正在聊天的兩個男人看見死胡同裏鑽出人來，嚇得渾身一抖。"
+
+
 translate traditional_chinese ep012_aven_sex_2e5ba063:
 
-    # c "Good evening, gentlemen."
-    c ""
 
-# game/episode012a.rpy:2078
+    c "晚上好啊，兩位。"
+
+
 translate traditional_chinese ep012_aven_sex_8615b9a0:
 
-    # "Aven squeezed my shoulder and giggled as we entered the club again."
-    ""
 
-# game/episode012a.rpy:2088
+    "重回夜店時艾文捏了下我肩膀，撲哧一聲笑了出來。"
+
+
 translate traditional_chinese ep012_yve_sex_ca7e8c55:
 
-    # yve "You should know I’m a very naughty girl..."
-    yve ""
 
-# game/episode012a.rpy:2089
+    yve "你需要知道我是個很淘氣的女孩..."
+
+
 translate traditional_chinese ep012_yve_sex_1a015b10:
 
-    # yve "I really love cock...{w} Do you want me to be your cock slut, Duncan?"
-    yve ""
 
-# game/episode012a.rpy:2090
+    yve "最喜歡大雞巴了...{w}要我當你專屬的雞巴妓女嗎，鄧肯？"
+
+
 translate traditional_chinese ep012_yve_sex_dccb92a1:
 
-    # c "I’m going to treat you to every hard inch."
-    c ""
 
-# game/episode012a.rpy:2092
+    c "我會用那根硬傢伙把你伺候得舒舒服服。"
+
+
 translate traditional_chinese ep012_yve_sex_112aa151:
 
-    # yve "Mmmm, I like that."
-    yve ""
 
-# game/episode012a.rpy:2093
+    yve "唔嗯～人家好喜歡這樣。"
+
+
 translate traditional_chinese ep012_yve_sex_0fdcad12:
 
-    # yve "Allow me to freshen up first, I suggest you make yourself comfortable."
-    yve ""
 
-# game/episode012a.rpy:2097
+    yve "我先補個妝，建議你趁機調整下狀態。"
+
+
 translate traditional_chinese ep012_yve_sex_e69e42b8:
 
-    # c "No."
-    c ""
 
-# game/episode012a.rpy:2099
+    c "不行。"
+
+
 translate traditional_chinese ep012_yve_sex_ef62debe:
 
-    # yve "No?"
-    yve ""
 
-# game/episode012a.rpy:2100
+    yve "不行？"
+
+
 translate traditional_chinese ep012_yve_sex_8f419ae5:
 
-    # c "Cock whores like yourself don’t get to use the bathroom."
-    c ""
 
-# game/episode012a.rpy:2101
+    c "像你這種雞巴妓女不配用洗手間。"
+
+
 translate traditional_chinese ep012_yve_sex_bc703e95:
 
-    # "Yve was taken aback at first, but as the implications dawned on her, a smile touched the corners of her mouth."
-    ""
 
-# game/episode012a.rpy:2103
+    "伊芙先是愣了一下，隨即意會過來，嘴角勾起一抹笑意。"
+
+
 translate traditional_chinese ep012_yve_sex_4935074f:
 
-    # yve "You want me to soil myself?"
-    yve ""
 
-# game/episode012a.rpy:2104
+    yve "你想讓我尿在褲子裡？"
+
+
 translate traditional_chinese ep012_yve_sex_26eefe0a:
 
-    # c "Yes."
-    c ""
 
-# game/episode012a.rpy:2106
+    c "是。"
+
+
 translate traditional_chinese ep012_yve_sex_2dea7f4b:
 
-    # "Visibly intrigued, Yve undressed herself and squatted on the bed while touching her pussy."
-    ""
 
-# game/episode012a.rpy:2107
+    "伊芙饒有興致地褪去衣衫蹲在牀上，手指撫弄着陰戶。"
+
+
 translate traditional_chinese ep012_yve_sex_d97685f8:
 
-    # yve "Everything will be wet and dirty, you know."
-    yve ""
 
-# game/episode012a.rpy:2108
+    yve "所有東西都會被弄溼弄髒哦。"
+
+
 translate traditional_chinese ep012_yve_sex_722320ee:
 
-    # c "Just like the dirty slut you are."
-    c ""
 
-# game/episode012a.rpy:2110
+    c "正配你這個髒婊子。"
+
+
 translate traditional_chinese ep012_yve_sex_ef26f6fc:
 
-    # yve "Ah yes...{w} Here it comes."
-    yve ""
 
-# game/episode012a.rpy:2112
+    yve "啊對...{w}要來了。"
+
+
 translate traditional_chinese ep012_yve_sex_b3918af2:
 
-    # "A thick stream of urine spouted from my mother’s cunt, soiling the bedsheets and her thighs."
-    ""
 
-# game/episode012a.rpy:2113
+    "濃稠尿液從我媽媽陰道噴湧而出，浸透了牀單和大腿。"
+
+
 translate traditional_chinese ep012_yve_sex_566f0f13:
 
-    # "She rubbed her pussy while the piss still flowed, causing urine to spray all over herself."
-    ""
 
-# game/episode012a.rpy:2115
+    "她趁着尿流未歇揉搓陰部，把尿液濺得滿身都是。"
+
+
 translate traditional_chinese ep012_yve_sex_214ecf4b:
 
-    # yve "Oh fuck yes."
-    yve ""
 
-# game/episode012a.rpy:2116
+    yve "操他媽的真爽。"
+
+
 translate traditional_chinese ep012_yve_sex_08f1f9ea:
 
-    # yve "Do you enjoy watching me get all wet and filthy?"
-    yve ""
 
-# game/episode012a.rpy:2117
+    yve "看我被淋得又溼又髒，你很享受吧？"
+
+
 translate traditional_chinese ep012_yve_sex_bac7c198:
 
-    # c "Yes, you truly are a slut, aren’t you?"
-    c ""
 
-# game/episode012a.rpy:2119
+    c "當然，你可真是天生的騷貨。"
+
+
 translate traditional_chinese ep012_yve_sex_d3318211:
 
-    # yve "I am."
-    yve ""
 
-# game/episode012a.rpy:2121
+    yve "確實。"
+
+
 translate traditional_chinese ep012_yve_sex_a1f62adf:
 
-    # "Yve smiled as she forced the last droplets of piss out of her slit."
-    ""
 
-# game/episode012a.rpy:2122
+    "伊芙笑着從逼縫擠出最後幾滴尿液。"
+
+
 translate traditional_chinese ep012_yve_sex_b0cb5931:
 
-    # yve "There, all done."
-    yve ""
 
-# game/episode012a.rpy:2123
+    yve "喏，尿完了。"
+
+
 translate traditional_chinese ep012_yve_sex_4de9af3f:
 
-    # yve "I’m ready to get fucked."
-    yve ""
 
-# game/episode012a.rpy:2124
+    yve "準備好挨操了。"
+
+
 translate traditional_chinese ep012_yve_sex_9d311c77:
 
-    # c "No, you’re not."
-    c ""
 
-# game/episode012a.rpy:2125
+    c "不，還不夠。"
+
+
 translate traditional_chinese ep012_yve_sex_38969d20:
 
-    # c "Lie down."
-    c ""
 
-# game/episode012a.rpy:2127
+    c "躺下。"
+
+
 translate traditional_chinese ep012_yve_sex_9301e56b:
 
-    # "Yve obeyed, the smile on her face never faltering, even when a steady stream of my piss covered her body."
-    ""
 
-# game/episode012a.rpy:2129
+    "伊芙順從躺倒，當我的尿液覆蓋她全身時，臉上的笑容始終未變。"
+
+
 translate traditional_chinese ep012_yve_sex_bd0037b2:
 
-    # "When I showered her breasts, she opened her mouth to receive a good portion of warm pee."
-    ""
 
-# game/episode012a.rpy:2130
+    "尿液衝刷胸脯時，她甚至張嘴接住溫熱的尿液。"
+
+
 translate traditional_chinese ep012_yve_sex_53141bb7:
 
-    # c "Swallow."
-    c ""
 
-# game/episode012a.rpy:2132
+    c "咽下去。"
+
+
 translate traditional_chinese ep012_yve_sex_1e1a039c:
 
-    # "My mother looked at me in shock at first, but closed her mouth and ingested everything I’d gifted her."
-    ""
 
-# game/episode012a.rpy:2134
+    "媽媽先是震驚地瞪着我，但隨即閉口咽下了這份饋贈。"
+
+
 translate traditional_chinese ep012_yve_sex_cece7935:
 
-    # "Yve was now completely drenched in piss, her body glistening in the light."
-    ""
 
-# game/episode012a.rpy:2136
+    "此刻伊芙渾身浸透尿液，肌膚在燈光下泛起水光。"
+
+
 translate traditional_chinese ep012_yve_sex_2eaea787:
 
-    # c "Don’t be too long."
-    c ""
 
-# game/episode012a.rpy:2138
+    c "別待太久。"
+
+
 translate traditional_chinese ep012_yve_sex_3fd1db4a:
 
-    # yve "Oh, I won’t, you can be sure of that."
-    yve ""
 
-# game/episode012a.rpy:2140
+    yve "哦，我不會的，你可以放心。"
+
+
 translate traditional_chinese ep012_yve_sex_61fec9ce:
 
-    # "Yve disappeared inside the adjoining bathroom and reappeared moments later, no doubt snorting some of the stuff she’d been using beforehand."
-    ""
 
-# game/episode012a.rpy:2142
+    "伊芙消失在隔壁的浴室裏，片刻後又出現了，無疑是在吸食她之前用過的那種東西。"
+
+
 translate traditional_chinese ep012_yve_sex_996d955d:
 
-    # "Also, she was completely naked."
-    ""
 
-# game/episode012a.rpy:2144
+    "而且，她完全赤裸。"
+
+
 translate traditional_chinese ep012_yve_sex_b0cb5931_1:
 
-    # yve "There, all done."
-    yve ""
 
-# game/episode012a.rpy:2145
+    yve "好了，都搞定了。"
+
+
 translate traditional_chinese ep012_yve_sex_4de9af3f_1:
 
-    # yve "I’m ready to get fucked."
-    yve ""
 
-# game/episode012a.rpy:2147
+    yve "我已經準備好被幹了。"
+
+
 translate traditional_chinese ep012_yve_sex_e95acf0e:
 
-    # "I kneeled next to her face, offering her my cock."
-    ""
 
-# game/episode012a.rpy:2148
+    "我跪在她臉旁，遞給她我的雞巴。"
+
+
 translate traditional_chinese ep012_yve_sex_f5921543:
 
-    # c "Let’s see you taste that cock."
-    c ""
 
-# game/episode012a.rpy:2150
+    c "讓我們看看你品嘗這根雞巴。"
+
+
 translate traditional_chinese ep012_yve_sex_78777347:
 
-    # "Yve hadn’t been lying about loving cock, because she all but devoured my member after wrapping her mouth around it."
-    ""
 
-# game/episode012a.rpy:2151
+    "伊芙確實沒有在說愛雞巴這件事上撒謊，因爲她幾乎是吞噬了我的傢伙，在把它含進嘴裡後。"
+
+
 translate traditional_chinese ep012_yve_sex_3d7aa3d4:
 
-    # "My mother treated me to one of the most intense blowjobs I’d ever experienced, her sucking almost painful at times."
-    ""
 
-# game/episode012a.rpy:2152
+    "我母親給我來了一個我經歷過的最激烈的口交，她的吮吸有時幾乎到了疼的程度。"
+
+
 translate traditional_chinese ep012_yve_sex_be83f802:
 
-    # c "That’s it, good little whore."
-    c ""
 
-# game/episode012a.rpy:2154
+    c "就是這樣，好小騷貨。"
+
+
 translate traditional_chinese ep012_yve_sex_c8751894:
 
-    # "Yve kept working on my cock, her ferocity never diminishing."
-    ""
 
-# game/episode012a.rpy:2155
+    "伊芙繼續對付我的雞巴，她的兇猛從未減弱。"
+
+
 translate traditional_chinese ep012_yve_sex_5cb9ad69:
 
-    # "Saliva coated my shaft and flowed from the corners of her mouth."
-    ""
 
-# game/episode012a.rpy:2157
+    "唾液覆蓋了我的陰莖杆，從她嘴角流下。"
+
+
 translate traditional_chinese ep012_yve_sex_bae21460:
 
-    # "She gagged multiple times as the tip hit the back of her throat, but that didn’t stop her from swallowing the entire length every time."
-    ""
 
-# game/episode012a.rpy:2158
+    "她多次作嘔，因爲龜頭碰到她喉嚨後部，但那並沒有阻止她每次都吞入整個長度。"
+
+
 translate traditional_chinese ep012_yve_sex_26f1ec10:
 
-    # c "Do you want to get fucked?"
-    c ""
 
-# game/episode012a.rpy:2159
+    c "你想被幹嗎？"
+
+
 translate traditional_chinese ep012_yve_sex_298bc4f4:
 
-    # "Yve made some affirming noises before letting my dick escape from her mouth."
-    ""
 
-# game/episode012a.rpy:2161
+    "伊芙在讓我的雞巴從她嘴裡逃出之前，發出了一些肯定的聲音。"
+
+
 translate traditional_chinese ep012_yve_sex_ee434dd7:
 
-    # yve "I’d love to get fucked."
-    yve ""
 
-# game/episode012a.rpy:2163
+    yve "我很想被幹。"
+
+
 translate traditional_chinese ep012_yve_sex_a6fdb4cf:
 
-    # "Roughly, I grabbed her and flipped her around, pushing her upper body down towards the bed."
-    ""
 
-# game/episode012a.rpy:2164
+    "粗暴地，我抓住她並把她翻過來，把她上身推向牀鋪。"
+
+
 translate traditional_chinese ep012_yve_sex_7206f801:
 
-    # "Her round ass rose proudly in the air."
-    ""
 
-# game/episode012a.rpy:2166
+    "她圓圓的屁股自豪地翹在空中。"
+
+
 translate traditional_chinese ep012_yve_sex_6e6012c3:
 
-    # "I slapped her buttocks firmly, leaving red marks on her alabaster skin."
-    ""
 
-# game/episode012a.rpy:2167
+    "我使勁拍了她的屁股，在她白瓷般的皮膚上留下了紅印。"
+
+
 translate traditional_chinese ep012_yve_sex_7addf9dd:
 
-    # c "I’d say this slut needs to be punished."
-    c ""
 
-# game/episode012a.rpy:2168
+    c "我可以說，這個婊子需要被懲罰。"
+
+
 translate traditional_chinese ep012_yve_sex_564333ea:
 
-    # yve "Yes, make my pussy pay, Duncan, I deserve it."
-    yve ""
 
-# game/episode012a.rpy:2170
+    yve "是的，讓我的小穴付出代價，鄧肯，我應得的。"
+
+
 translate traditional_chinese ep012_yve_sex_e34519bd:
 
-    # "My fingers digging into her flesh, I rubbed my cock across her lower lips."
-    ""
 
-# game/episode012a.rpy:2171
+    "我的手指陷進她肉裏，我用雞巴摩擦她的陰脣。"
+
+
 translate traditional_chinese ep012_yve_sex_b705aa9c:
 
-    # "With some satisfaction I noticed she was very wet for me."
-    ""
 
-# game/episode012a.rpy:2172
+    "帶着些許滿足感，我注意到她爲我非常溼了。"
+
+
 translate traditional_chinese ep012_yve_sex_f9eb8697:
 
-    # yve "Oh!{w} Put it in!{w} Please!"
-    yve ""
 
-# game/episode012a.rpy:2173
+    yve "哦!{w} 插進來!{w} 求你了!"
+
+
 translate traditional_chinese ep012_yve_sex_205a41e2:
 
-    # "Yve’s outcry got her another slap across the buttocks, which she took with a sharp moan."
-    ""
 
-# game/episode012a.rpy:2175
+    "伊芙的叫喊換來屁股上又一記巴掌，她挨打時發出尖銳的呻吟。"
+
+
 translate traditional_chinese ep012_yve_sex_705e92d0:
 
-    # "My mother grabbed the bed sheets as I stuffed her fuck hole with my throbbing cock."
-    ""
 
-# game/episode012a.rpy:2176
+    "當我用搏動的肉棒塞滿母親的騷穴時，她死死攥住了牀單。"
+
+
 translate traditional_chinese ep012_yve_sex_c7af1cfd:
 
-    # "I could feel Yve relished the feeling of having my dick inside her to the root."
-    ""
 
-# game/episode012a.rpy:2178
+    "我能感覺到伊芙在享受我整根陽具埋進她體內的充實感。"
+
+
 translate traditional_chinese ep012_yve_sex_5c151154:
 
-    # c "How do you like to get filled up, you piss-drenched whore?"
-    c ""
 
-# game/episode012a.rpy:2180
+    c "被填滿的滋味如何啊，你這尿騷婊子？"
+
+
 translate traditional_chinese ep012_yve_sex_dda7dc9c:
 
-    # c "How do you like to get filled up, you dirty whore?"
-    c ""
 
-# game/episode012a.rpy:2182
+    c "被填滿的滋味如何啊，你這髒貨婊子？"
+
+
 translate traditional_chinese ep012_yve_sex_6fda2705:
 
-    # yve "I love it!{w} I love it so much!"
-    yve ""
 
-# game/episode012a.rpy:2184
+    yve "我愛死了!{w} 實在太爽了!"
+
+
 translate traditional_chinese ep012_yve_sex_3d64285f:
 
-    # "Wrapping my arm around her neck, I proceeded to pound her cunt."
-    ""
 
-# game/episode012a.rpy:2186
+    "我用手臂鎖住她脖子，開始猛操她的屄。"
+
+
 translate traditional_chinese ep012_yve_sex_77755a17:
 
-    # "The flow of air restricted, my mother could only let out jagged moans as her ass quivered with each sharp thrust."
-    ""
 
-# game/episode012a.rpy:2187
+    "氣管受制的母親只能斷續呻吟，每次猛烈抽插都讓她臀肉亂顫。"
+
+
 translate traditional_chinese ep012_yve_sex_255be47a:
 
-    # "She grabbed at my arm, not to remove it, but to press it tighter against her throat."
-    ""
 
-# game/episode012a.rpy:2188
+    "她抓住我胳膊，不是要推開，反而往自己喉嚨上勒得更緊。"
+
+
 translate traditional_chinese ep012_yve_sex_58d0fc72:
 
-    # yve "You feel...{w} So good inside me..."
-    yve ""
 
-# game/episode012a.rpy:2190
+    yve "你的雞巴...{w} 插得我好舒服..."
+
+
 translate traditional_chinese ep012_yve_sex_dd05e51f:
 
-    # "Yve gasped when I finally eased the pressure on her windpipe."
-    ""
 
-# game/episode012a.rpy:2191
+    "當我終於鬆開她氣管時，伊芙猛地抽了口氣。"
+
+
 translate traditional_chinese ep012_yve_sex_8e4790ac:
 
-    # "Instead, I grabbed at her perfectly sculpted breasts, kneading their flesh and pinching her nipples."
-    ""
 
-# game/episode012a.rpy:2193
+    "轉而抓住她曲線完美的奶子揉捏，手指夾着乳頭拉扯。"
+
+
 translate traditional_chinese ep012_yve_sex_94b4c88d:
 
-    # yve "Don’t stop now!"
-    yve ""
 
-# game/episode012a.rpy:2194
+    yve "現在不準停！"
+
+
 translate traditional_chinese ep012_yve_sex_7a6af9cc:
 
-    # "My mother ground her ass against me as I kept slamming my cock deep inside her."
-    ""
 
-# game/episode012a.rpy:2196
+    "母親扭着屁股迎合，任我繼續將陽具深深搗進她體內。"
+
+
 translate traditional_chinese ep012_yve_sex_c4dd1779:
 
-    # "The room smelled of sweat, piss and sex, an aroma that only seemed to heighten our debauchery."
-    ""
 
-# game/episode012a.rpy:2198
+    "房間瀰漫着汗味、尿臊和精液氣息，這味道反而助長了我們的淫慾。"
+
+
 translate traditional_chinese ep012_yve_sex_b378cc89:
 
-    # "The room smelled of sweat and sex, an aroma that only seemed to heighten our debauchery."
-    ""
 
-# game/episode012a.rpy:2199
+    "房間瀰漫着汗味和精液氣息，這味道反而助長了我們的淫亂。"
+
+
 translate traditional_chinese ep012_yve_sex_da449fe9:
 
-    # "My cock slipped out of the wet mess that had become her pussy at some point."
-    ""
 
-# game/episode012a.rpy:2201
+    "肉棒從她溼濘不堪的屄裏滑了出來。"
+
+
 translate traditional_chinese ep012_yve_sex_0f38801f:
 
-    # "Yve looked a little annoyed, but that soon faded once she beheld my naked body."
-    ""
 
-# game/episode012a.rpy:2202
+    "伊芙略顯惱火，但看見我赤裸的身體後又轉怒爲喜。"
+
+
 translate traditional_chinese ep012_yve_sex_5573cc2b:
 
-    # yve "You’re such a nice stud."
-    yve ""
 
-# game/episode012a.rpy:2203
+    yve "真是頭好種馬。"
+
+
 translate traditional_chinese ep012_yve_sex_318b8be7:
 
-    # "She turned towards me and fingered herself while taking in every inch of my naked form."
-    ""
 
-# game/episode012a.rpy:2205
+    "她轉身面對我，邊自慰邊打量我赤裸的每一寸肌膚。"
+
+
 translate traditional_chinese ep012_yve_sex_d29aab37:
 
-    # yve "Mmmm, here comes more."
-    yve ""
 
-# game/episode012a.rpy:2207
+    yve "嗯嗯，又要來了。"
+
+
 translate traditional_chinese ep012_yve_sex_b5346000:
 
-    # "Urine gushed from her slit, coating her pussy and thighs."
-    ""
 
-# game/episode012a.rpy:2208
+    "尿液從她腿縫湧出，塗滿陰部和大腿。"
+
+
 translate traditional_chinese ep012_yve_sex_d6bf4dc5:
 
-    # "Dripping with wetness she lay there, her legs splayed, penetrating her cunt with almost her entire hand."
-    ""
 
-# game/episode012a.rpy:2210
+    "她渾身溼透地躺在那裡，雙腿張開，幾乎整個手都插進了她的陰道。"
+
+
 translate traditional_chinese ep012_yve_sex_7eb9007e:
 
-    # yve "I want that big cock inside me again."
-    yve ""
 
-# game/episode012a.rpy:2211
+    yve "我想讓那個大雞巴再進到我裡面。"
+
+
 translate traditional_chinese ep012_yve_sex_e0e7ffb7:
 
-    # c "Have you been a good slut, Yve?"
-    c ""
 
-# game/episode012a.rpy:2212
+    c "你一直是個好婊子嗎，伊芙？"
+
+
 translate traditional_chinese ep012_yve_sex_addca66f:
 
-    # yve "Oh yes, I think so."
-    yve ""
 
-# game/episode012a.rpy:2213
+    yve "哦是的，我想是的。"
+
+
 translate traditional_chinese ep012_yve_sex_a906cd98:
 
-    # c "You like being filled up, don’t you?"
-    c ""
 
-# game/episode012a.rpy:2214
+    c "你喜歡被填滿，不是嗎？"
+
+
 translate traditional_chinese ep012_yve_sex_c604745e:
 
-    # yve "I do!{w} I do!"
-    yve ""
 
-# game/episode012a.rpy:2216
+    yve "我是！{w} 我是！"
+
+
 translate traditional_chinese ep012_yve_sex_476892c5:
 
-    # "I managed to get a startled look from my mother as I pushed my half-erect member inside her."
-    ""
 
-# game/episode012a.rpy:2217
+    "當我把我半勃的雞巴推進她裡面時，我設法讓母親露出了驚訝的表情。"
+
+
 translate traditional_chinese ep012_yve_sex_f73cfd94:
 
-    # yve "Don’t you want me to make you hard again?"
-    yve ""
 
-# game/episode012a.rpy:2218
+    yve "你不想讓我讓你再次硬起來嗎？"
+
+
 translate traditional_chinese ep012_yve_sex_4834a857:
 
-    # "I just grinned and unleashed the stream of piss I’d been holding back."
-    ""
 
-# game/episode012a.rpy:2220
+    "我只是咧嘴一笑，然後釋放了我憋住的小便流。"
+
+
 translate traditional_chinese ep012_yve_sex_0706bf16:
 
-    # "My mother’s eyes widened as I filled her pussy with warm liquid."
-    ""
 
-# game/episode012a.rpy:2221
+    "當我用溫熱的液體填滿她的陰道時，我母親的眼睛睜大了。"
+
+
 translate traditional_chinese ep012_yve_sex_67f34d45:
 
-    # yve "You’re filling me up?{w} Oh, you’re filling me up!"
-    yve ""
 
-# game/episode012a.rpy:2222
+    yve "你在填滿我嗎？{w} 哦，你在填滿我！"
+
+
 translate traditional_chinese ep012_yve_sex_d0ab9797:
 
-    # "Piss already started gushing out of her overflowing pussy."
-    ""
 
-# game/episode012a.rpy:2224
+    "小便已經從她滿溢的陰道湧出了。"
+
+
 translate traditional_chinese ep012_yve_sex_6948c5a9:
 
-    # "When I took my stiffening cock out of her, a torrent of pee followed."
-    ""
 
-# game/episode012a.rpy:2225
+    "當我把硬起來的雞巴從她裡面抽出來時，一股小便隨之流出。"
+
+
 translate traditional_chinese ep012_yve_sex_0f66c45d:
 
-    # "Yve’s fingers found her clitoris and she masturbated while pushing out the piss inside her vaginal tract."
-    ""
 
-# game/episode012a.rpy:2226
+    "伊芙的手指找到了她的陰蒂，她一邊自慰，一邊擠出她陰道裏的小便。"
+
+
 translate traditional_chinese ep012_yve_sex_e3f3a315:
 
-    # "It didn’t take long for her whole body to shudder."
-    ""
 
-# game/episode012a.rpy:2228
+    "她全身很快就顫抖起來。"
+
+
 translate traditional_chinese ep012_yve_sex_59c85cd2:
 
-    # "She screamed loudly as an orgasm overtook her."
-    ""
 
-# game/episode012a.rpy:2229
+    "高潮來襲時，她尖叫起來。"
+
+
 translate traditional_chinese ep012_yve_sex_3018c19a:
 
-    # "More piss was forced out of her cunt, caused by the violent convulsions wracking her body."
-    ""
 
-# game/episode012a.rpy:2231
+    "更多的小便被從她的陰道擠出來，是由她身體顫抖的劇烈痙攣造成的。"
+
+
 translate traditional_chinese ep012_yve_sex_9302d0f6:
 
-    # "Yve’s fingers found her clitoris and she masturbated while looking at me intently."
-    ""
 
-# game/episode012a.rpy:2232
+    "伊芙的手指找到了她的陰蒂，她一邊自慰，一邊專注地看着我。"
+
+
 translate traditional_chinese ep012_yve_sex_e3f3a315_1:
 
-    # "It didn’t take long for her whole body to shudder."
-    ""
 
-# game/episode012a.rpy:2234
+    "她全身很快就顫抖起來。"
+
+
 translate traditional_chinese ep012_yve_sex_b909fd2f:
 
-    # "She screamed loudly as an orgasm overtook her, the convulsions wracking her body."
-    ""
 
-# game/episode012a.rpy:2239
+    "高潮來襲時，她尖叫起來，痙攣折磨着她的身體。"
+
+
 translate traditional_chinese ep012_yve_sex_e6770aa0:
 
-    # yve "Fuck me again, please!"
-    yve ""
 
-# game/episode012a.rpy:2241
+    yve "請再操我一次！"
+
+
 translate traditional_chinese ep012_yve_sex_94e90ccd:
 
-    # "Pushing past the tight entrance of her slit, I rammed my cock inside her again."
-    ""
 
-# game/episode012a.rpy:2242
+    "擠過她裂縫的緊入口，我又把雞巴猛地插入她裡面。"
+
+
 translate traditional_chinese ep012_yve_sex_43ba36aa:
 
-    # "Yve bit back the pain and wrapped her legs around me."
-    ""
 
-# game/episode012a.rpy:2244
+    "伊芙忍住疼痛，然後用雙腿纏繞住我。"
+
+
 translate traditional_chinese ep012_yve_sex_d65473ba:
 
-    # yve "Cum for me, baby, give me all of that hot cum."
-    yve ""
 
-# game/episode012a.rpy:2246
+    yve "爲我射精吧，寶貝，給我所有那熱精液。"
+
+
 translate traditional_chinese ep012_yve_sex_f38850a8:
 
-    # "I fucked her mercilessly for several minutes, the violence only allowing my mother to utter ragged moans."
-    ""
 
-# game/episode012a.rpy:2247
+    "我無情地幹了她好幾分鐘，暴力之下，我的母親只能發出斷續的呻吟聲。"
+
+
 translate traditional_chinese ep012_yve_sex_b6fa2bdf:
 
-    # yve "Don’t hold back, I want all of it inside me."
-    yve ""
 
-# game/episode012a.rpy:2249
+    yve "別忍着，我全都要插進我裡面。"
+
+
 translate traditional_chinese ep012_yve_sex_feeb0c19:
 
-    # "Warm semen flooded her vagina as I kept fucking her."
-    ""
 
-# game/episode012a.rpy:2252
+    "我繼續幹着她時，溫熱的精液湧滿了她的陰道。"
+
+
 translate traditional_chinese ep012_yve_sex_5f1e2a24:
 
-    # "When I dislodged my cock from her, cum immediately started to ooze from her slit."
-    ""
 
-# game/episode012a.rpy:2255
+    "當我把我的雞巴從她那裡拔出時，精液立刻從她的縫隙中滲出。"
+
+
 translate traditional_chinese ep012_yve_sex_8706eaae:
 
-    # yve "Now I want to suck that hard cock of yours."
-    yve ""
 
-# game/episode012a.rpy:2257
+    yve "現在我想吸你那硬硬的雞巴。"
+
+
 translate traditional_chinese ep012_yve_sex_6acee141:
 
-    # "My mother inched on top of me and took my member inside her mouth again."
-    ""
 
-# game/episode012a.rpy:2258
+    "我的母親慢慢爬到我身上，又把我的傢伙放進她嘴裡。"
+
+
 translate traditional_chinese ep012_yve_sex_a213853e:
 
-    # "After licking my shaft clean, she applied the same force as before, as if to suck me completely dry."
-    ""
 
-# game/episode012a.rpy:2259
+    "舔淨我的棒子後，她像以前一樣用力吸，似乎想把我吸乾。"
+
+
 translate traditional_chinese ep012_yve_sex_c63c0c8e:
 
-    # yve "I want that hot cum all over my face."
-    yve ""
 
-# game/episode012a.rpy:2260
+    yve "我要把那熱精塗滿我臉上。"
+
+
 translate traditional_chinese ep012_yve_sex_0e004aaf:
 
-    # yve "Can you do that for me?"
-    yve ""
 
-# game/episode012a.rpy:2262
+    yve "你能爲我這麼做嗎？"
+
+
 translate traditional_chinese ep012_yve_sex_ff932f3e:
 
-    # "I grunted in reply, making her suck my dick again."
-    ""
 
-# game/episode012a.rpy:2263
+    "我哼了一聲作爲回應，讓她又吸起我的雞巴。"
+
+
 translate traditional_chinese ep012_yve_sex_7d6c15b1:
 
-    # "The intensity of her blowjob had me on the verge of orgasm in minutes."
-    ""
 
-# game/episode012a.rpy:2264
+    "她口交的強度，幾分鐘就讓我瀕臨高潮。"
+
+
 translate traditional_chinese ep012_yve_sex_4a352439:
 
-    # "Yve must have felt I was ready, already tasting the saltiness of my precum."
-    ""
 
-# game/episode012a.rpy:2266
+    "伊芙肯定感覺到我準備好了，已經嘗到了我前列腺液的鹹味。"
+
+
 translate traditional_chinese ep012_yve_sex_de6d987e:
 
-    # "When I was about to explode, she pulled my cock from her mouth and made me unload on her face with one last jerk."
-    ""
 
-# game/episode012a.rpy:2269
+    "當我快要爆發時，她把我的雞巴從嘴裡拉出，最後一下讓我射在她臉上。"
+
+
 translate traditional_chinese ep012_yve_sex_2611082c:
 
-    # "Her entire face was covered in strings of warm semen."
-    ""
 
-# game/episode012a.rpy:2271
+    "她整個臉上蓋滿了一條條溫熱的精液。"
+
+
 translate traditional_chinese ep012_yve_sex_bfb97869:
 
-    # "Yve rocked back and forth in post-coital bliss and appeared to have forgotten me entirely until she looked up lazily at me."
-    ""
 
-# game/episode012a.rpy:2272
+    "伊芙在高潮後的幸福中來回搖擺，似乎完全忘了我，直到她慵懶地抬眼看向我。"
+
+
 translate traditional_chinese ep012_yve_sex_48db5f97:
 
-    # yve "That’s the best fuck I’ve had in a good long while."
-    yve ""
 
-# game/episode012a.rpy:2273
+    yve "這可是我這好長一段時間以來最爽的一次性交。"
+
+
 translate traditional_chinese ep012_yve_sex_8bba0dae:
 
-    # yve "On your way out, could you tell Antoine I’m ready for the next one?"
-    yve ""
 
-# game/episode012a.rpy:2274
+    yve "你出去的時候，能不能告訴安託萬我準備好下一個了？"
+
+
 translate traditional_chinese ep012_yve_sex_96fc2d72:
 
-    # "A little startled, I nodded and gathered my clothes."
-    ""
 
-# game/episode012a.rpy:2276
+    "我有點驚訝，點點頭，收拾起我的衣服。"
+
+
 translate traditional_chinese ep012_yve_sex_8fef2170:
 
-    # "Yve lounged on the bed, absentmindedly playing with herself."
-    ""
 
-# game/episode012a.rpy:2277
+    "伊芙懶洋洋地靠在牀上，心不在焉地自慰着。"
+
+
 translate traditional_chinese ep012_yve_sex_280ae275:
 
-    # "My mother, a slut indeed."
-    ""
+
+    "我的母親，確實是個蕩婦。"
 
 translate traditional_chinese strings:
 
-    # game/episode012a.rpy:48
+
     old "Erigone, Citadel"
-    new ""
+    new "厄裏戈涅星, 城堡"
 
-    # game/episode012a.rpy:89
+
     old "Unknown, En route to Kepler XIV"
-    new ""
+    new "未知, 前往開普勒14號星的路上。"
 
-    # game/episode012a.rpy:205
+
     old "Visit Lilly and Eva"
-    new ""
+    new "拜訪莉莉和伊娃。"
 
-    # game/episode012a.rpy:205
+
     old "Visit Thyia"
-    new ""
+    new "拜訪塞婭。"
 
-    # game/episode012a.rpy:344
+
     old "No chance"
-    new ""
+    new "不可能"
 
-    # game/episode012a.rpy:564
+
     old "Affirm"
-    new ""
+    new "確認"
 
-    # game/episode012a.rpy:878
+
     old "Shut her down"
-    new ""
+    new "把事情做絕(斷絕她念想)"
 
-    # game/episode012a.rpy:878
+
     old "Leave an opening"
-    new ""
+    new "做人留一線(給她機會)"
 
-    # game/episode012a.rpy:1001
+
     old "Tell her about the others"
-    new ""
+    new "告訴她關於其他人的事"
 
-    # game/episode012a.rpy:1001
+
     old "Don’t tell her about the others"
-    new ""
+    new "不要告訴她關於其他人的事"
 
-    # game/episode012a.rpy:1191
+
     old "Go as journalists"
-    new ""
+    new "以記者身份去"
 
-    # game/episode012a.rpy:1244
+
     old "Play along"
-    new ""
+    new "配合"
 
-    # game/episode012a.rpy:1244
+
     old "Tell her it’s you"
-    new ""
+    new "告訴她，是你"
 
-    # game/episode012a.rpy:1262
+
     old "Try to get information"
-    new ""
+    new "試圖獲取信息"
 
-    # game/episode012a.rpy:1298
+
     old "Tyuarene"
-    new ""
+    new "秋雅潤人"
 
-    # game/episode012a.rpy:1298
+
     old "The Tyuarene have devoted themselves to researching sexual pleasure among all of the known species in existence."
-    new ""
+    new "秋雅潤人致力於研究所有現存已知物種中的性快感。"
 
-    # game/episode012a.rpy:1528
+
     old "The Tyuarene have devoted themselves to researching sexual pleasure among all of the known species in existence. They also operate a number of brothels, or so-called 'Theaters of Senses', all around the galaxy."
-    new ""
+    new "秋雅潤人致力於研究所有現存已知物種中的性快感。他們還經營着一些妓院，即所謂的\"迷魂會所\"，遍布整個銀河。"
 
-    # game/episode012a.rpy:1534
+
     old "Theater of Senses (Kepler)"
-    new ""
+    new "\"迷魂會所\"(開普勒星)"
 
-    # game/episode012a.rpy:1534
+
     old "A high-end bordello situated on a moon orbiting Kepler XIV and operated by the Tyuarene."
-    new ""
+    new "一家高端妓院，位於圍繞開普勒14號星運行的一顆衛星上，並由秋雅潤人運營。"
 
-    # game/episode012a.rpy:2094
+
     old "Allow"
-    new ""
-
+    new "允許"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

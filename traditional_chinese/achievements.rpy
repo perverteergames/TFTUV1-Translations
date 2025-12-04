@@ -1,488 +1,488 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
+
 
 translate traditional_chinese strings:
 
-    # game/achievements.rpy:3
+
     old "Where no man has gone before"
-    new ""
+    new "勇闖無人涉足之境"
 
-    # game/achievements.rpy:3
+
     old "Something lost, something gained."
-    new ""
+    new "有失必有得。"
 
-    # game/achievements.rpy:3
+
     old "The Epicly Unspeakable Apple of Sin"
-    new ""
+    new "史詩般難以言喻的罪惡禁果"
 
-    # game/achievements.rpy:3
+
     old "You've tasted the unspeakable and undoubtedly crave for more."
-    new ""
+    new "你嘗過那禁忌滋味，現在無疑渴求更多。"
 
-    # game/achievements.rpy:3
+
     old "Locked and unloaded"
-    new ""
+    new "上鎖且未裝彈"
 
-    # game/achievements.rpy:3
+
     old "Took the potion offered one night on Erigone."
-    new ""
+    new "在厄裏戈涅星上飲下藥劑。"
 
-    # game/achievements.rpy:3
+
     old "Priestly Duties"
-    new ""
+    new "神職職責"
 
-    # game/achievements.rpy:3
+
     old "Spent the night with Erigone's priesthood."
-    new ""
+    new "與厄裏戈涅星祭司團徹夜共處。"
 
-    # game/achievements.rpy:3
+
     old "Warrior's Plight"
-    new ""
+    new "戰士的困境"
 
-    # game/achievements.rpy:3
+
     old "Erigone's warrior caste made love their battlefield."
-    new ""
+    new "厄裏戈涅星的戰士團將情愛化作戰場。"
 
-    # game/achievements.rpy:3
+
     old "Hero of the Common Folk"
-    new ""
+    new "平民英雄"
 
-    # game/achievements.rpy:3
+
     old "The desires of the common folk are often overlooked, but not by you."
-    new ""
+    new "平民的欲望常被忽視，但你未曾忽略。"
 
-    # game/achievements.rpy:3
+
     old "A Fine Vintage"
-    new ""
+    new "陳年佳釀"
 
-    # game/achievements.rpy:3
+
     old "Met Doarn and sampled some of his collection of exotic drinks."
-    new ""
+    new "邂逅多恩，品鑑了他收藏的異域佳飲。"
 
-    # game/achievements.rpy:3
+
     old "The Caves of Feel"
-    new ""
+    new "觸感之洞穴"
 
-    # game/achievements.rpy:3
+
     old "The R'o welcomed you in great numbers."
-    new ""
+    new "成羣的拉歐人熱烈歡迎了你。"
 
-    # game/achievements.rpy:3
+
     old "Loving Lanan"
-    new ""
+    new "愛滿拉南星"
 
-    # game/achievements.rpy:3
+
     old "Some might call it a dreary moon, but you and Céline made a dream come true there."
-    new ""
+    new "這顆衛星或許陰鬱，但你與瑟琳在此締造美夢。"
 
-    # game/achievements.rpy:3
+
     old "Jus Primae Noctis"
-    new ""
+    new "初夜權"
 
-    # game/achievements.rpy:3
+
     old "Leda and Berit enjoyed your noble privileges."
-    new ""
+    new "勒達與貝瑞特享用了你的貴族特權。"
 
-    # game/achievements.rpy:3
+
     old "Peasantly Pleasant"
-    new ""
+    new "鄉野愉情"
 
-    # game/achievements.rpy:3
+
     old "You were rewarded for your benevolence by Leda and Berit."
-    new ""
+    new "你的善舉贏得了勒達和貝瑞特的回報。"
 
-    # game/achievements.rpy:3
+
     old "Noble Friendship"
-    new ""
+    new "貴族情誼"
 
-    # game/achievements.rpy:3
+
     old "Against all odds, you and Thim have become friends."
-    new ""
+    new "衝破重重阻礙，你與蒂姆終成摯友。"
 
-    # game/achievements.rpy:3
+
     old "First Taste"
-    new ""
+    new "初嘗"
 
-    # game/achievements.rpy:3
+
     old "Luzane packed a surprise which you just had to sample in all its glory."
-    new ""
+    new "盧贊妮準備了一個驚喜，你正好得以盡情品嘗其所有的榮耀。"
 
-    # game/achievements.rpy:3
+
     old "Speaking In Tongues"
-    new ""
+    new "口吐異言"
 
-    # game/achievements.rpy:3
+
     old "The language of love doesn't need a translation."
-    new ""
+    new "愛的語言不需翻譯。"
 
-    # game/achievements.rpy:3
+
     old "Destroy The Milkman"
-    new ""
+    new "摧毀牛奶工"
 
-    # game/achievements.rpy:3
+
     old "Sabotaged Garomph's factory on Barranthis."
-    new ""
+    new "在巴蘭西斯星上破壞了加羅姆夫的工廠。"
 
-    # game/achievements.rpy:3
+
     old "Spanner in the Works"
-    new ""
+    new "搞砸計劃"
 
-    # game/achievements.rpy:3
+
     old "Repairs, loving maintenance and a little extra service."
-    new ""
+    new "維修，愛心保養，還有一點額外服務。"
 
-    # game/achievements.rpy:3
+
     old "Greasing the Wheels"
-    new ""
+    new "潤滑輪子"
 
-    # game/achievements.rpy:3
+
     old "Thyia and the mechanic found a common passion."
-    new ""
+    new "塞婭和機修工找到了共同的激情。"
 
-    # game/achievements.rpy:3
+
     old "Don't you remember me?"
-    new ""
+    new "你不記得我嗎？"
 
-    # game/achievements.rpy:3
+
     old "Had fun with an oblivious Yve."
-    new ""
+    new "和懵懂的伊芙玩得很開心。"
 
-    # game/achievements.rpy:3
+
     old "Nadya's Tale"
-    new ""
+    new "娜迪亞的故事"
 
-    # game/achievements.rpy:3
+
     old "Nadya told you a shocking story."
-    new ""
+    new "娜迪亞告訴你一個震撼的故事。"
 
-    # game/achievements.rpy:3
+
     old "Doctor's Orders"
-    new ""
+    new "醫生指令"
 
-    # game/achievements.rpy:3
+
     old "Dr. Chrone is renowned for her thorough and in-depth examinations."
-    new ""
+    new "克羅恩醫生以其全面和深入的檢查而聞名。"
 
-    # game/achievements.rpy:3
+
     old "'Twas but a kiss"
-    new ""
+    new "不過一吻而已"
 
-    # game/achievements.rpy:3
+
     old "You kissed Lilly for the first time."
-    new ""
+    new "你第一次吻了莉莉。"
 
-    # game/achievements.rpy:3
+
     old "Exit the Matrix"
-    new ""
+    new "退出矩陣"
 
-    # game/achievements.rpy:3
+
     old "You deleted the simulation on the Iron Bastard."
-    new ""
+    new "你在\"鋼鐵私生子\"號上刪除了模擬程序。"
 
-    # game/achievements.rpy:3
+
     old "Snu snu"
-    new ""
+    new "激情交融"
 
-    # game/achievements.rpy:3
+
     old "Inspected the troops together with Rahia."
-    new ""
+    new "和拉希婭一起檢閱部隊。"
 
-    # game/achievements.rpy:3
+
     old "Spelunking"
-    new ""
+    new "洞穴探祕"
 
-    # game/achievements.rpy:3
+
     old "Who knew caves could have such an effect on women?"
-    new ""
+    new "誰知道洞穴能對女人有這種影響？"
 
-    # game/achievements.rpy:3
+
     old "Tinkle, Tinkle, Little Popstar"
-    new ""
+    new "叮叮噹，叮叮噹，小流行歌星"
 
-    # game/achievements.rpy:3
+
     old "Yve enjoyed an evening of happy accidents."
-    new ""
+    new "伊芙享受了一夜的意外驚喜。"
 
-    # game/achievements.rpy:3
+
     old "For Duty and Honor"
-    new ""
+    new "爲了職責和榮耀"
 
-    # game/achievements.rpy:3
+
     old "Aligned with the warrior caste on Erigone."
-    new ""
+    new "與厄裏戈涅星的戰士團結盟。"
 
-    # game/achievements.rpy:3
+
     old "For God and Glory"
-    new ""
+    new "爲了神和榮耀"
 
-    # game/achievements.rpy:3
+
     old "Allied with the priest caste on Erigone."
-    new ""
+    new "與厄裏戈涅星的祭司團結盟。"
 
-    # game/achievements.rpy:3
+
     old "Go your own way"
-    new ""
+    new "走你自己的路"
 
-    # game/achievements.rpy:3
+
     old "Remained neutral on Erigone."
-    new ""
+    new "在厄裏戈涅星保持中立。"
 
-    # game/achievements.rpy:3
+
     old "Accosting The Acolyte"
-    new ""
+    new "搭訕助理祭司"
 
-    # game/achievements.rpy:3
+
     old "Keodele learned a valuable lesson."
-    new ""
+    new "克歐德勒學到了寶貴的一課。"
 
-    # game/achievements.rpy:3
+
     old "Bug Hunt"
-    new ""
+    new "獵蟲行動"
 
-    # game/achievements.rpy:3
+
     old "Participated in the Hunt on Erigone."
-    new ""
+    new "參與在厄裏戈涅星的狩獵。"
 
-    # game/achievements.rpy:3
+
     old "Release the Hounds"
-    new ""
+    new "放狗"
 
-    # game/achievements.rpy:3
+
     old "Shared a special moment with Kvi."
-    new ""
+    new "與克薇共享了一個特別時刻。"
 
-    # game/achievements.rpy:3
+
     old "Theatrical Entrance"
-    new ""
+    new "戲劇性入場"
 
-    # game/achievements.rpy:3
+
     old "You've made it to the Theater of Senses."
-    new ""
+    new "你成功抵達了迷魂會所。"
 
-    # game/achievements.rpy:3
+
     old "Garden of Eden"
-    new ""
+    new "伊甸園"
 
-    # game/achievements.rpy:3
+
     old "You met with Ziv in the Grove on Erigone."
-    new ""
+    new "你在厄裏戈涅星的小樹林中遇見了基芙。"
 
-    # game/achievements.rpy:3
+
     old "Pie in the Sky"
-    new ""
+    new "天上的餡餅"
 
-    # game/achievements.rpy:3
+
     old "The entire galaxy enjoys cream-filled delights of any kind."
-    new ""
+    new "整個星系都喜歡各種奶油填充的美味。"
 
-    # game/achievements.rpy:3
+
     old "The Princess Kneels Before You"
-    new ""
+    new "公主在你面前跪下。"
 
-    # game/achievements.rpy:3
+
     old "Jade will obey you, no matter what you demand."
-    new ""
+    new "無論你要求什麼，傑德都會服從你。"
 
-    # game/achievements.rpy:3
+
     old "Celestial Bodies"
-    new ""
+    new "天體"
 
-    # game/achievements.rpy:3
+
     old "When the body just needs that extra touch."
-    new ""
+    new "當身體需要額外的撫摸時。"
 
-    # game/achievements.rpy:3
+
     old "Hasta la vista, baby"
-    new ""
+    new "再見，寶貝"
 
-    # game/achievements.rpy:3
+
     old "The face is but a canvas to enliven and enhance."
-    new ""
+    new "面容不過是張等待煥發生機的畫布。"
 
-    # game/achievements.rpy:3
+
     old "I'll be in my bunk"
-    new ""
+    new "我在鋪位等你"
 
-    # game/achievements.rpy:3
+
     old "Jade helped you relax."
-    new ""
+    new "傑德幫你放鬆了身心。"
 
-    # game/achievements.rpy:3
+
     old "Rhenkoy Companionship, Level 69"
-    new ""
+    new "倫科伊族親密關係·69級"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Ziv."
-    new ""
+    new "愛上了基芙。"
 
-    # game/achievements.rpy:3
+
     old "Rhenkoy Divorce, Level -69"
-    new ""
+    new "倫科伊族離婚事件·負69級"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Ziv."
-    new ""
+    new "和基芙分手了。"
 
-    # game/achievements.rpy:3
+
     old "Heart to Heart"
-    new ""
+    new "敞開心扉"
 
-    # game/achievements.rpy:3
+
     old "Had a good talk with Raene."
-    new ""
+    new "和蕾妮進行了深入交流。"
 
-    # game/achievements.rpy:3
+
     old "Aven Amor"
-    new ""
+    new "艾文之戀"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Aven."
-    new ""
+    new "愛上了艾文。"
 
-    # game/achievements.rpy:3
+
     old "Adieu Aven"
-    new ""
+    new "永別了艾文"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Aven."
-    new ""
+    new "和艾文分手了。"
 
-    # game/achievements.rpy:3
+
     old "Lilly of My Valley"
-    new ""
+    new "幽谷百合"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Lilly."
-    new ""
+    new "愛上了莉莉。"
 
-    # game/achievements.rpy:3
+
     old "Leaving Lilly"
-    new ""
+    new "告別莉莉"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Lilly."
-    new ""
+    new "和莉莉分手了。"
 
-    # game/achievements.rpy:3
+
     old "An Early Romance"
-    new ""
+    new "早綻情愫"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Céline."
-    new ""
+    new "愛上了瑟琳。"
 
-    # game/achievements.rpy:3
+
     old "Troubles are as endless as pleasures are brief..."
-    new ""
+    new "歡愉短暫愁緒長..."
 
-    # game/achievements.rpy:3
+
     old "Broke up with Céline."
-    new ""
+    new "和瑟琳分手了。"
 
-    # game/achievements.rpy:3
+
     old "Prophecy Girl"
-    new ""
+    new "預言之女"
 
-    # game/achievements.rpy:3
+
     old "Discussed the prophecy with Eva."
-    new ""
+    new "與伊娃探討了預言。"
 
-    # game/achievements.rpy:3
+
     old "Without Breaking Any Eggs"
-    new ""
+    new "不打破雞蛋"
 
-    # game/achievements.rpy:3
+
     old "Attended the ceremony at Cetruvar's mansion."
-    new ""
+    new "出席了塞特魯瓦宅邸的典禮。"
 
-    # game/achievements.rpy:3
+
     old "Galactic Virgin"
-    new ""
+    new "星系處子"
 
-    # game/achievements.rpy:3
+
     old "Didn't give into carnal desires throughout the game."
-    new ""
+    new "在整個遊戲中都未屈服於肉慾。"
 
-    # game/achievements.rpy:3
+
     old "Party Hard"
-    new ""
+    new "派對狂歡"
 
-    # game/achievements.rpy:3
+
     old "They sure know how to party on Verdant Station."
-    new ""
+    new "他們在\"翠綠\"空間站開派對可真有一套。"
 
-    # game/achievements.rpy:3
+
     old "Chosen One"
-    new ""
+    new "天選之人"
 
-    # game/achievements.rpy:3
+
     old "Only had a relationship with one love interest."
-    new ""
+    new "僅與一位可攻略對象發展戀情。"
 
-    # game/achievements.rpy:3
+
     old "She's got a bad feeling about this"
-    new ""
+    new "她對此有強烈的不祥預感"
 
-    # game/achievements.rpy:3
+
     old "Some of Erigone's flora is very touchy-feely."
-    new ""
+    new "厄裏戈涅星上有些植物敏感兮兮的。"
 
-    # game/achievements.rpy:3
+
     old "Kith and..."
-    new ""
+    new "親緣與..."
 
-    # game/achievements.rpy:3
+
     old "You've only romanced Aven and Lilly."
-    new ""
+    new "你只攻略過艾文和莉莉。"
 
-    # game/achievements.rpy:3
+
     old "Friends Forever"
-    new ""
+    new "永遠的朋友"
 
-    # game/achievements.rpy:3
+
     old "Space is a vast, cold place..."
-    new ""
+    new "太空真是廣闊又冰冷..."
 
-    # game/achievements.rpy:3
+
     old "You've completed the entire first season of the game."
-    new ""
+    new "你已完成遊戲整個第一章的劇情。"
 
-    # game/achievements.rpy:3
+
     old "Breaker of Chains"
-    new ""
+    new "鎖鏈粉碎者"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Jade."
-    new ""
+    new "愛上了傑德。"
 
-    # game/achievements.rpy:3
+
     old "There's No I In Team"
-    new ""
+    new "團隊無我"
 
-    # game/achievements.rpy:3
+
     old "You and Kit shared a night to remember."
-    new ""
+    new "你和基特共度了難忘一夜。"
 
-    # game/achievements.rpy:3
+
     old "All Hail the Queen"
-    new ""
+    new "女王萬歲"
 
-    # game/achievements.rpy:3
+
     old "You met the fabled Queen of the Acarhyn."
-    new ""
+    new "你見到了傳說中的阿卡海茵人女王。"
 
-    # game/achievements.rpy:3
+
     old "Only For Tonight?"
-    new ""
+    new "僅限今夜？"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Vess."
-    new ""
+    new "愛上了薇絲。"
 
-    # game/achievements.rpy:3
+
     old "Thyia's Trust"
-    new ""
+    new "塞婭的信任"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Thyia."
-    new ""
-
+    new "愛上了塞婭。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

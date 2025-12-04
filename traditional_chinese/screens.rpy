@@ -1,536 +1,555 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
 
-translate traditional_chinese python:
-    gui.text_font = "fonts/NotoSansTC-Regular.ttf"
-    gui.choice_button_text_font = "fonts/NotoSansTC-Regular.ttf"
 
 translate traditional_chinese strings:
 
-    # game/screens.rpy:292
+
     old "Back"
-    new ""
+    new "返回"
 
-    # game/screens.rpy:293
+
     old "History"
-    new ""
+    new "歷史"
 
-    # game/screens.rpy:294
+
     old "Skip"
-    new ""
+    new "跳過"
 
-    # game/screens.rpy:295
+
     old "Auto"
-    new ""
+    new "自動"
 
-    # game/screens.rpy:296
+
     old "Save"
-    new ""
+    new "保存"
 
-    # game/screens.rpy:297
+
     old "Q.Save"
-    new ""
+    new "快速保存"
 
-    # game/screens.rpy:298
+
     old "Q.Load"
-    new ""
+    new "快速讀取"
 
-    # game/screens.rpy:300
+
     old "Codex"
-    new ""
+    new "百科"
 
-    # game/screens.rpy:301
+
     old "Prefs"
-    new ""
+    new "設置"
 
-    # game/screens.rpy:361
+
     old "Start"
-    new ""
+    new "開始"
 
-    # game/screens.rpy:363
+
     old "Continue"
-    new ""
+    new "繼續"
 
-    # game/screens.rpy:371
+
+    old "Choices"
+    new "選項"
+
+
     old "Load"
-    new ""
+    new "讀取"
 
-    # game/screens.rpy:376
+
     old "Preferences"
-    new ""
+    new "首選項"
 
-    # game/screens.rpy:380
+
     old "End Replay"
-    new ""
+    new "結束回放"
 
-    # game/screens.rpy:383
+
     old "Scene Gallery"
-    new ""
+    new "場景鑑賞"
 
-    # game/screens.rpy:386
+
     old "Achievements"
-    new ""
+    new "成就"
 
-    # game/screens.rpy:389
+
     old "Bonus"
-    new ""
+    new "附加內容"
 
-    # game/screens.rpy:393
+
     old "Main Menu"
-    new ""
+    new "主菜單"
 
-    # game/screens.rpy:395
+
     old "About"
-    new ""
+    new "關於"
 
-    # game/screens.rpy:400
+
     old "Help"
-    new ""
+    new "幫助"
 
-    # game/screens.rpy:622
+
     old "Return"
-    new ""
+    new "返回"
 
-    # game/screens.rpy:779
+
     old "Relationships"
-    new ""
+    new "關係譜"
 
-    # game/screens.rpy:785
+
     old "Close"
-    new ""
+    new "關閉"
 
-    # game/screens.rpy:817
+
     old "Relationship: %s"
-    new ""
+    new "關係：%s"
 
-    # game/screens.rpy:819
+
     old "Pregnant: %s"
-    new ""
+    new "懷孕：%s"
 
-    # game/screens.rpy:899
+
     old "View by: "
-    new ""
+    new "瀏覽方式： "
 
-    # game/screens.rpy:901
+
     old "character"
-    new ""
+    new "角色"
 
-    # game/screens.rpy:903
+
     old "episode"
-    new ""
+    new "集"
 
-    # game/screens.rpy:949
+
     old "Extras"
-    new ""
+    new "附加內容"
 
-    # game/screens.rpy:951
+
     old "Ep"
-    new ""
+    new "集"
 
-    # game/screens.rpy:1048
+
     old "Achievements Unlocked: %d / %d"
-    new ""
+    new "解鎖成就：%d / %d"
 
-    # game/screens.rpy:1081
+
     old "Version "
-    new ""
+    new "版本 "
 
-    # game/screens.rpy:1081
+
     old "[config.version!t]\n"
-    new ""
+    new "[config.version!t]\n"
 
-    # game/screens.rpy:1087
+
     old "Translations"
-    new ""
+    new "翻譯"
 
-    # game/screens.rpy:1090
+
     old "Music"
-    new ""
+    new "音樂"
 
-    # game/screens.rpy:1109
-    old "{a=[track[website]]}[track[website]]{/a}"
-    new ""
 
-    # game/screens.rpy:1110
     old "License: "
-    new ""
+    new "許可證： "
 
-    # game/screens.rpy:1110
-    old "{a=[track[license_url]]}[track[license]]{/a}"
-    new ""
 
-    # game/screens.rpy:1112
     old "Website: "
-    new ""
+    new "網站： "
 
-    # game/screens.rpy:1112
-    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
-    new ""
 
-    # game/screens.rpy:1116
     old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
-    new ""
+    new "{size=-8}使用了由jsfehler創建的{a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a}的部分內容"
 
-    # game/screens.rpy:1117
+
     old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
-    new ""
+    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
 
-    # game/screens.rpy:1118
+
     old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-    new ""
+    new "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
 
-    # game/screens.rpy:1119
+
     old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # game/screens.rpy:1157
+
     old "Page {}"
-    new ""
+    new "頁 {}"
 
-    # game/screens.rpy:1157
+
     old "Automatic saves"
-    new ""
+    new "自動存檔"
 
-    # game/screens.rpy:1157
+
     old "Quick saves"
-    new ""
+    new "快速存檔"
 
-    # game/screens.rpy:1193
+
     old "Jump to page: "
-    new ""
+    new "跳轉到頁： "
 
-    # game/screens.rpy:1223
+
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
-    # game/screens.rpy:1223
+
     old "empty slot"
-    new ""
+    new "空槽位"
 
-    # game/screens.rpy:1264
+
     old "<"
-    new ""
+    new "<"
 
-    # game/screens.rpy:1267
+
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
-    # game/screens.rpy:1270
+
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
-    # game/screens.rpy:1276
+
     old ">"
-    new ""
+    new ">"
 
-    # game/screens.rpy:1334
+
     old "Please name your save:"
-    new ""
+    new "請命名你的存檔："
 
-    # game/screens.rpy:1351
+
     old "Save game"
-    new ""
+    new "保存遊戲"
 
-    # game/screens.rpy:1385
+
     old "Player Names"
-    new ""
+    new "玩家名稱"
 
-    # game/screens.rpy:1386
+
     old "Name: "
-    new ""
+    new "名稱： "
 
-    # game/screens.rpy:1387
+
     old "Nickname: "
-    new ""
+    new "暱稱： "
 
-    # game/screens.rpy:1393
+
     old "Display"
-    new ""
+    new "顯示"
 
-    # game/screens.rpy:1394
+
     old "Window"
-    new ""
+    new "窗口"
 
-    # game/screens.rpy:1395
+
     old "Fullscreen"
-    new ""
+    new "全屏"
 
-    # game/screens.rpy:1399
+
     old "Rollback Side"
-    new ""
+    new "回滾側"
 
-    # game/screens.rpy:1400
+
     old "Disable"
-    new ""
+    new "禁用"
 
-    # game/screens.rpy:1401
+
     old "Left"
-    new ""
+    new "左"
 
-    # game/screens.rpy:1402
+
     old "Right"
-    new ""
+    new "右"
 
-    # game/screens.rpy:1407
+
     old "Unseen Text"
-    new ""
+    new "未讀文本"
 
-    # game/screens.rpy:1408
+
     old "After Choices"
-    new ""
+    new "選擇後"
 
-    # game/screens.rpy:1409
+
     old "Transitions"
-    new ""
+    new "過渡效果"
 
-    # game/screens.rpy:1416
-    old "Language"
-    new ""
 
-    # game/screens.rpy:1417
-    old "English"
-    new ""
-
-    # game/screens.rpy:1418
-    old "Italian"
-    new ""
-
-    # game/screens.rpy:1419
-    old "Polish (partial)"
-    new ""
-
-    # game/screens.rpy:1420
-    old "Portuguese"
-    new ""
-
-    # game/screens.rpy:1421
-    old "Russian"
-    new ""
-
-    # game/screens.rpy:1422
-    old "Spanish"
-    new ""
-
-    # game/screens.rpy:1423
-    old "Turkish"
-    new ""
-
-    # game/screens.rpy:1430
-    old "Notifications"
-    new ""
-
-    # game/screens.rpy:1431
-    old "Show"
-    new ""
-
-    # game/screens.rpy:1432
-    old "Hide"
-    new ""
-
-    # game/screens.rpy:1437
-    old "Incest"
-    new ""
-
-    # game/screens.rpy:1438
-    old "Enable"
-    new ""
-
-    # game/screens.rpy:1450
     old "Show Portraits"
-    new ""
+    new "顯示肖像"
 
-    # game/screens.rpy:1462
+
+    old "Show"
+    new "顯示"
+
+
+    old "Hide"
+    new "隱藏"
+
+
+    old "Notifications"
+    new "通知"
+
+
+    old "Incest"
+    new "亂倫"
+
+
+    old "Enable"
+    new "啓用"
+
+
+    old "Language"
+    new "語言"
+
+
+    old "English"
+    new "英語"
+
+
+    old "Italiano"
+    new "意大利語"
+
+
+    old "Português"
+    new "葡萄牙語"
+
+
+    old "Français"
+    new "法語"
+
+
+    old "Русский"
+    new "俄語"
+
+
+    old "Español"
+    new "西班牙語"
+
+
+    old "Türkçe"
+    new "土耳其語"
+
+
+    old "Polski (częściowo)"
+    new "波蘭語 (部分)"
+
+
+    old "Lovense"
+    new "Lovense"
+
+
+    old "Connect your toy"
+    new "連接你的玩具"
+
+
     old "Dialog Box Visibility"
-    new ""
+    new "對話框可見度"
 
-    # game/screens.rpy:1466
+
     old "Text Speed"
-    new ""
+    new "文本速度"
 
-    # game/screens.rpy:1470
+
     old "Auto-Forward Time"
-    new ""
+    new "自動前進時間"
 
-    # game/screens.rpy:1477
+
     old "Music Volume"
-    new ""
+    new "音樂音量"
+
+
+    old "Sound Volume"
+    new "音效音量"
+
+
+    old "Test"
+    new "測試"
+
+
+    old "Voice Volume"
+    new "語音音量"
+
+
+    old "Mute All"
+    new "全部靜音"
+
+
+    old "The dialogue history is empty."
+    new "對話歷史是空的。"
+
+
+    old "Keyboard"
+    new "鍵盤"
+
+
+    old "Mouse"
+    new "鼠標"
+
+
+    old "Gamepad"
+    new "遊戲手柄"
+
+
+    old "Enter"
+    new "回車"
+
+
+    old "Advances dialogue and activates the interface."
+    new "推進對話並激活界面。"
+
+
+    old "Space"
+    new "空格"
+
+
+    old "Advances dialogue without selecting choices."
+    new "直接推進對話，無需選擇選項。"
+
+
+    old "Arrow Keys"
+    new "方向鍵"
+
+
+    old "Navigate the interface."
+    new "導航界面。"
+
+
+    old "Escape"
+    new "Esc鍵"
+
+
+    old "Accesses the game menu."
+    new "訪問遊戲菜單。"
+
+
+    old "Ctrl"
+    new "Ctrl"
+
+
+    old "Skips dialogue while held down."
+    new "按住時可跳過對話。"
+
+
+    old "Tab"
+    new "Tab"
+
+
+    old "Toggles dialogue skipping."
+    new "切換對話跳過功能。"
+
+
+    old "Page Up"
+    new "上一頁"
+
+
+    old "Rolls back to earlier dialogue."
+    new "回滾到之前的對話。"
+
+
+    old "Page Down"
+    new "下一頁"
+
+
+    old "Rolls forward to later dialogue."
+    new "前進到後續對話。"
+
+
+    old "Hides the user interface."
+    new "隱藏用戶界面。"
+
+
+    old "Takes a screenshot."
+    new "截圖。"
+
+
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "切換輔助的 {a=https://www.renpy.org/l/voicing}自我語音{/a}功能。"
+
+
+    old "Shows the relationships screen"
+    new "顯示關係界面。"
+
+
+    old "Shows the codex"
+    new "顯示百科。"
+
+
+    old "Left Click"
+    new "左鍵點擊"
+
+
+    old "Middle Click"
+    new "中鍵點擊"
+
+
+    old "Right Click"
+    new "右鍵點擊"
+
+
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "鼠標滾輪向上\n點擊回滾側邊欄。"
+
+
+    old "Mouse Wheel Down"
+    new "鼠標滾輪向下"
+
+
+    old "Right Trigger\nA/Bottom Button"
+    new "右扳機\nA/底部按鈕"
+
+
+    old "Left Trigger\nLeft Shoulder"
+    new "左扳機\n左肩鍵"
+
+
+    old "Right Shoulder"
+    new "右肩鍵"
+
+
+    old "D-Pad, Sticks"
+    new "方向鍵, 搖杆"
+
+
+    old "Start, Guide"
+    new "開始, 指南"
+
+
+    old "Y/Top Button"
+    new "Y/頂部按鈕"
+
+
+    old "Calibrate"
+    new "校準"
+
+
+    old "Yes"
+    new "是"
+
+
+    old "No"
+    new "否"
+
+
+    old "Skipping"
+    new "跳過"
+
+
+    old "Menu"
+    new "菜單"
+
+
+translate traditional_chinese strings:
+
+
+    old "簡體中文"
+    new "簡體中文"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:23
+
+translate traditional_chinese strings:
 
     # game/screens.rpy:1484
-    old "Sound Volume"
-    new ""
+    old "简体中文"
+    new "简体中文"
 
-    # game/screens.rpy:1490
-    old "Test"
-    new ""
-
-    # game/screens.rpy:1494
-    old "Voice Volume"
-    new ""
-
-    # game/screens.rpy:1505
-    old "Mute All"
-    new ""
-
-    # game/screens.rpy:1627
-    old "The dialogue history is empty."
-    new ""
-
-    # game/screens.rpy:1697
-    old "Keyboard"
-    new ""
-
-    # game/screens.rpy:1698
-    old "Mouse"
-    new ""
-
-    # game/screens.rpy:1701
-    old "Gamepad"
-    new ""
-
-    # game/screens.rpy:1714
-    old "Enter"
-    new ""
-
-    # game/screens.rpy:1715
-    old "Advances dialogue and activates the interface."
-    new ""
-
-    # game/screens.rpy:1718
-    old "Space"
-    new ""
-
-    # game/screens.rpy:1719
-    old "Advances dialogue without selecting choices."
-    new ""
-
-    # game/screens.rpy:1722
-    old "Arrow Keys"
-    new ""
-
-    # game/screens.rpy:1723
-    old "Navigate the interface."
-    new ""
-
-    # game/screens.rpy:1726
-    old "Escape"
-    new ""
-
-    # game/screens.rpy:1727
-    old "Accesses the game menu."
-    new ""
-
-    # game/screens.rpy:1730
-    old "Ctrl"
-    new ""
-
-    # game/screens.rpy:1731
-    old "Skips dialogue while held down."
-    new ""
-
-    # game/screens.rpy:1734
-    old "Tab"
-    new ""
-
-    # game/screens.rpy:1735
-    old "Toggles dialogue skipping."
-    new ""
-
-    # game/screens.rpy:1738
-    old "Page Up"
-    new ""
-
-    # game/screens.rpy:1739
-    old "Rolls back to earlier dialogue."
-    new ""
-
-    # game/screens.rpy:1742
-    old "Page Down"
-    new ""
-
-    # game/screens.rpy:1743
-    old "Rolls forward to later dialogue."
-    new ""
-
-    # game/screens.rpy:1747
-    old "Hides the user interface."
-    new ""
-
-    # game/screens.rpy:1751
-    old "Takes a screenshot."
-    new ""
-
-    # game/screens.rpy:1755
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new ""
-
-    # game/screens.rpy:1759
-    old "Shows the relationships screen"
-    new ""
-
-    # game/screens.rpy:1763
-    old "Shows the codex"
-    new ""
-
-    # game/screens.rpy:1769
-    old "Left Click"
-    new ""
-
-    # game/screens.rpy:1773
-    old "Middle Click"
-    new ""
-
-    # game/screens.rpy:1777
-    old "Right Click"
-    new ""
-
-    # game/screens.rpy:1781
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new ""
-
-    # game/screens.rpy:1785
-    old "Mouse Wheel Down"
-    new ""
-
-    # game/screens.rpy:1792
-    old "Right Trigger\nA/Bottom Button"
-    new ""
-
-    # game/screens.rpy:1796
-    old "Left Trigger\nLeft Shoulder"
-    new ""
-
-    # game/screens.rpy:1800
-    old "Right Shoulder"
-    new ""
-
-    # game/screens.rpy:1805
-    old "D-Pad, Sticks"
-    new ""
-
-    # game/screens.rpy:1809
-    old "Start, Guide"
-    new ""
-
-    # game/screens.rpy:1813
-    old "Y/Top Button"
-    new ""
-
-    # game/screens.rpy:1816
-    old "Calibrate"
-    new ""
-
-    # game/screens.rpy:1881
-    old "Yes"
-    new ""
-
-    # game/screens.rpy:1882
-    old "No"
-    new ""
-
-    # game/screens.rpy:1929
-    old "Skipping"
-    new ""
-
-    # game/screens.rpy:2152
-    old "Menu"
-    new ""
+    # game/screens.rpy:1485
+    old "繁体中文"
+    new "繁体中文"
 

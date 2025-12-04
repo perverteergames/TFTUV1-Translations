@@ -1,380 +1,332 @@
-﻿# TODO: Translation updated at 2024-01-10 16:09
+
 
 translate traditional_chinese strings:
 
-    # game/scenes.rpy:3
+
     old "Extra Scenes"
-    new ""
+    new "額外場景"
 
-    # game/scenes.rpy:3
+
     old "Hands on with Céline"
-    new ""
+    new "手放在瑟琳身上"
 
-    # game/scenes.rpy:3
+
     old "Shower with Jade"
-    new ""
+    new "與傑德淋浴"
 
-    # game/scenes.rpy:3
+
     old "The fingers of D'ee"
-    new ""
+    new "迪伊的手指"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fun on Verdant Station #1"
-    new ""
+    new "\"翠綠\"空間站上的女同性戀樂趣 #1"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fun on Verdant Station #2"
-    new ""
+    new "\"翠綠\"空間站上的女同性戀樂趣 #2"
 
-    # game/scenes.rpy:3
+
     old "Quickie #1"
-    new ""
+    new "速戰#1"
 
-    # game/scenes.rpy:3
+
     old "Quickie #2"
-    new ""
+    new "速戰#2"
 
-    # game/scenes.rpy:3
+
     old "Twi'll Throat"
-    new ""
+    new "特維爾人的喉嚨"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fountains"
-    new ""
+    new "女同性戀噴泉"
 
-    # game/scenes.rpy:3
+
     old "A wet lesson"
-    new ""
+    new "一堂溼課"
 
-    # game/scenes.rpy:3
+
     old "Master & Commander"
-    new ""
+    new "主人與指揮官"
 
-    # game/scenes.rpy:3
+
     old "Let it go"
-    new ""
+    new "隨它去"
 
-    # game/scenes.rpy:3
+
     old "O Captain! My Captain!"
-    new ""
+    new "哦，艦長！我的艦長！"
 
-    # game/scenes.rpy:3
+
     old "Shiny!"
-    new ""
+    new "閃亮的！"
 
-    # game/scenes.rpy:3
+
     old "Better Together"
-    new ""
+    new "一起更好"
 
-    # game/scenes.rpy:3
+
     old "The Cave Sucks"
-    new ""
+    new "洞穴吮吸着"
 
-    # game/scenes.rpy:3
+
     old "Groovin' in the grove"
-    new ""
+    new "在小樹林裡搖擺"
 
-    # game/scenes.rpy:3
+
     old "Riding the tower"
-    new ""
+    new "騎乘高塔"
 
-    # game/scenes.rpy:3
+
     old "To her bosom"
-    new ""
+    new "進入她的懷抱"
 
-    # game/scenes.rpy:3
+
     old "It's a kind of magic"
-    new ""
+    new "這是一種魔法"
 
-    # game/scenes.rpy:3
+
     old "Squat Commander"
-    new ""
+    new "小組指揮官"
 
-    # game/scenes.rpy:3
+
     old "Water Wrestling"
-    new ""
+    new "水中摔跤"
 
-    # game/scenes.rpy:3
+
     old "Fertile Garden"
-    new ""
+    new "肥沃的花園"
 
-    # game/scenes.rpy:3
+
     old "Licking Lilly"
-    new ""
+    new "舔莉莉"
 
-    # game/scenes.rpy:3
+
     old "One out of three"
-    new ""
+    new "三個中的一個"
 
-    # game/scenes.rpy:3
-    old "Episode #1"
-    new ""
 
-    # game/scenes.rpy:3
     old "Sleeping with Céline"
-    new ""
+    new "和瑟琳睡覺"
 
-    # game/scenes.rpy:3
+
     old "Jade's handjob"
-    new ""
+    new "傑德的手交"
 
-    # game/scenes.rpy:3
-    old "Episode #2"
-    new ""
 
-    # game/scenes.rpy:3
     old "A sweet deal with Thyia"
-    new ""
+    new "和塞婭的甜蜜交易"
 
-    # game/scenes.rpy:3
+
     old "R'o Orgy"
-    new ""
+    new "拉歐人羣交"
 
-    # game/scenes.rpy:3
+
     old "Dreaming with Céline"
-    new ""
+    new "和瑟琳做夢"
 
-    # game/scenes.rpy:3
+
     old "Jade and the captain"
-    new ""
+    new "傑德和艦長"
 
-    # game/scenes.rpy:3
-    old "Episode #3"
-    new ""
 
-    # game/scenes.rpy:3
     old "Party at Verdant Station"
-    new ""
+    new "在\"翠綠\"空間站的派對"
 
-    # game/scenes.rpy:3
+
     old "Threesome with Leda and Berit (Soft)"
-    new ""
+    new "與勒達和貝瑞特的三人行(軟)"
 
-    # game/scenes.rpy:3
+
     old "Threesome with Leda and Berit (Hard)"
-    new ""
+    new "與勒達和貝瑞特的三人行(硬)"
 
-    # game/scenes.rpy:3
+
     old "Fucking Leda"
-    new ""
+    new "操勒達"
 
-    # game/scenes.rpy:3
+
     old "Fucking Berit"
-    new ""
+    new "操貝瑞特"
 
-    # game/scenes.rpy:3
-    old "Episode #4"
-    new ""
 
-    # game/scenes.rpy:3
     old "Licking Luzane"
-    new ""
+    new "舔盧贊妮"
 
-    # game/scenes.rpy:3
+
     old "Blowing Luzane"
-    new ""
+    new "口交盧贊妮"
 
-    # game/scenes.rpy:3
+
     old "Hello Hannah"
-    new ""
+    new "你好漢娜"
 
-    # game/scenes.rpy:3
+
     old "Jade Anal (Soft)"
-    new ""
+    new "傑德肛交(軟)"
 
-    # game/scenes.rpy:3
+
     old "Jade Anal (Hard)"
-    new ""
+    new "傑德肛交(硬)"
 
-    # game/scenes.rpy:3
-    old "Episode #5"
-    new ""
 
-    # game/scenes.rpy:3
     old "Footsie Céline"
-    new ""
+    new "腳交瑟琳"
 
-    # game/scenes.rpy:3
+
     old "Sex Workshop"
-    new ""
+    new "性愛工場"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Mechanics"
-    new ""
+    new "女同機修工"
 
-    # game/scenes.rpy:3
+
     old "Kualtha Juicing"
-    new ""
+    new "庫爾薩汁"
 
-    # game/scenes.rpy:3
+
     old "Breed! Breed! Breed!"
-    new ""
+    new "繁殖！繁殖！繁殖！"
 
-    # game/scenes.rpy:3
+
     old "Foursome on the bridge"
-    new ""
+    new "在船橋上的四人行"
 
-    # game/scenes.rpy:3
-    old "Episode #6"
-    new ""
 
-    # game/scenes.rpy:3
     old "Discipline #1"
-    new ""
+    new "訓練 #1"
 
-    # game/scenes.rpy:3
+
     old "Discipline #2"
-    new ""
+    new "訓練 #2"
 
-    # game/scenes.rpy:3
+
     old "Discipline #3"
-    new ""
+    new "訓練 #3"
 
-    # game/scenes.rpy:3
+
     old "Showerly Lust"
-    new ""
+    new "淋浴間的貪歡"
 
-    # game/scenes.rpy:3
+
     old "Thorough Examination"
-    new ""
+    new "全身細緻檢查"
 
-    # game/scenes.rpy:3
-    old "Episode #7"
-    new ""
 
-    # game/scenes.rpy:3
     old "Scrambled Eggs"
-    new ""
+    new "艱難的產卵"
 
-    # game/scenes.rpy:3
+
     old "The Rub"
-    new ""
+    new "關鍵一步"
 
-    # game/scenes.rpy:3
+
     old "A welcome distraction"
-    new ""
+    new "來得正好的分心事"
 
-    # game/scenes.rpy:3
+
     old "Ave Aven"
-    new ""
+    new "艾文萬歲"
 
-    # game/scenes.rpy:3
-    old "Episode #8"
-    new ""
 
-    # game/scenes.rpy:3
     old "Inside Aven"
-    new ""
+    new "深入艾文"
 
-    # game/scenes.rpy:3
+
     old "Bath Time"
-    new ""
+    new "洗澡時刻"
 
-    # game/scenes.rpy:3
+
     old "Acarhyn Action"
-    new ""
+    new "阿卡海茵行動"
 
-    # game/scenes.rpy:3
-    old "Episode #9"
-    new ""
 
-    # game/scenes.rpy:3
     old "Lilly's Grind"
-    new ""
+    new "莉莉的扭動"
 
-    # game/scenes.rpy:3
+
     old "Washing Up"
-    new ""
+    new "清洗"
 
-    # game/scenes.rpy:3
+
     old "Speleology"
-    new ""
+    new "洞穴探險"
 
-    # game/scenes.rpy:3
-    old "Episode #10"
-    new ""
 
-    # game/scenes.rpy:3
     old "Rooftop Rumba"
-    new ""
+    new "屋頂倫巴舞"
 
-    # game/scenes.rpy:3
+
     old "Religious Instruction"
-    new ""
+    new "宗教指引"
 
-    # game/scenes.rpy:3
+
     old "Saying Yes To Vess"
-    new ""
+    new "對薇絲說願意"
 
-    # game/scenes.rpy:3
+
     old "Rhenkoy Companionship"
-    new ""
+    new "倫科伊族的陪伴"
 
-    # game/scenes.rpy:3
+
     old "Boffing Botany"
-    new ""
+    new "激烈的植物"
 
-    # game/scenes.rpy:3
-    old "Episode #11"
-    new ""
 
-    # game/scenes.rpy:3
     old "Orgy-porgy"
-    new ""
+    new "羣體歡愉儀式"
 
-    # game/scenes.rpy:3
+
     old "Jumping on Jade"
-    new ""
+    new "撲上傑德"
 
-    # game/scenes.rpy:3
+
     old "Jiggering Jade"
-    new ""
+    new "擺弄傑德"
 
-    # game/scenes.rpy:3
+
     old "Pick a Lilly"
-    new ""
+    new "採擷莉莉"
 
-    # game/scenes.rpy:3
-    old "Episode #12"
-    new ""
 
-    # game/scenes.rpy:3
     old "Beach Offensive"
-    new ""
+    new "海灘攻勢"
 
-    # game/scenes.rpy:3
+
     old "Up Her Alley"
-    new ""
+    new "直通她的小巷"
 
-    # game/scenes.rpy:3
+
     old "Popping that Popstar"
-    new ""
+    new "爆開那個流行明星"
 
-    # game/scenes.rpy:3
+
     old "Lilly's Farewell"
-    new ""
+    new "莉莉的告別"
 
-    # game/scenes.rpy:3
+
     old "Sampling the wares"
-    new ""
+    new "嘗鮮商品"
 
-    # game/scenes.rpy:3
+
     old "Sampling the all of the wares"
-    new ""
+    new "嘗遍所有商品"
 
-    # game/scenes.rpy:3
+
     old "Shuttlecock"
-    new ""
+    new "羽毛球"
 
-    # game/scenes.rpy:3
+
     old "Clogging the drain"
-    new ""
+    new "堵塞排水管"
 
-    # game/scenes.rpy:3
+
     old "Fun on Kepler XIV"
-    new ""
+    new "開普勒14號星的樂趣"
 
-    # game/scenes.rpy:3
+
     old "Bunk Bonanza"
-    new ""
-
+    new "鋪位的小幸運"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
