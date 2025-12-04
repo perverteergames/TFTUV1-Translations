@@ -1,2328 +1,2328 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
 
-# game/episode008_conversations.rpy:48
+
+
 translate turkish ep008_aven_talk_2cadf1e2:
 
-    # "Aven occupied my thoughts almost completely and I found myself wandering towards her quarters."
-    "Aven düşüncelerimi neredeyse tamamen işgal etti ve kendimi mahallelerine doğru dolaşırken buldum."
 
-# game/episode008_conversations.rpy:50
+    "Aven neredeyse tamamen düşüncelerimi işgal etmişti ve kendimi onun odasına doğru yürürken buldum."
+
+
 translate turkish ep008_aven_talk_44491caf:
 
-    # "I encountered her in one of the corridors."
-    "Onunla koridorlardan birinde karşılaştım."
 
-# game/episode008_conversations.rpy:52
+    "Onu koridorlardan birinde gördüm."
+
+
 translate turkish ep008_aven_talk_8b326850:
 
-    # "Her eyes lit up and she smiled warmly."
-    "Gözleri aydınlandı ve sıcak bir şekilde gülümsedi."
 
-# game/episode008_conversations.rpy:54
+    "Gözleri parladı ve sıcak bir şekilde gülümsedi."
+
+
 translate turkish ep008_aven_talk_5f1704b1:
 
-    # av "I was just on my way to the med bay to see Jade."
-    av "Jade'i görmek için sadece Med Körfezi'ne gidiyorum."
 
-# game/episode008_conversations.rpy:56
+    av "Jade'i görmek için revire gidiyordum."
+
+
 translate turkish ep008_aven_talk_2114ddcc:
 
-    # av "I was just on my way to the engine room to see Jade."
-    av "Jade'i görmek için sadece motor odasına gidiyordum."
 
-# game/episode008_conversations.rpy:57
+    av "Jade'i görmek için makine dairesine gidiyordum."
+
+
 translate turkish ep008_aven_talk_5b91f690:
 
-    # "An awkward silence followed."
-    "Garip bir sessizlik izledi."
 
-# game/episode008_conversations.rpy:59
+    "Garip bir sessizlik oldu."
+
+
 translate turkish ep008_aven_talk_5c66278f:
 
-    # "Aven, normally so confident, suddenly seemed so hesitant and unsure of herself."
-    "Normalde çok güvenen Aven, aniden çok tereddütlü ve kendinden emin görünüyordu."
 
-# game/episode008_conversations.rpy:61
+    "Normalde çok kendinden emin olan Aven, aniden tereddütlü ve kendinden emin olmayan birine dönüştü."
+
+
 translate turkish ep008_aven_talk_5ebb5390:
 
-    # "So we stood there for several seconds, smiling at each other like bumbling lovesick teenagers, until I held her close and kissed her."
-    "Bu yüzden orada birkaç saniye boyunca durduk, onu yakın tutup onu öpene kadar sevilen gençler gibi birbirimize gülümseyerek."
 
-# game/episode008_conversations.rpy:63
+    "Böylece orada birkaç saniye, aşık ergenler gibi birbirimize gülümseyerek durduk, ta ki onu yakınıma çekip öpene kadar."
+
+
 translate turkish ep008_aven_talk_d164c530:
 
-    # "She returned my kiss eagerly and all uncertainty evaporated."
-    "Öpücüğümü hevesle geri döndürdü ve tüm belirsizlik buharlaştı."
 
-# game/episode008_conversations.rpy:64
+    "Öpücüğüme hevesle karşılık verdi ve tüm belirsizlik yok oldu."
+
+
 translate turkish ep008_aven_talk_9f2a9def:
 
-    # "A door opened and footsteps could be heard startling us from our embrace."
-    "Bir kapı açıldı ve bizi kucaklamamızdan şaşırtan ayak sesleri duyulabilirdi."
 
-# game/episode008_conversations.rpy:66
+    "Bir kapı açıldı ve ayak sesleri duyuldu, bizi sarılmamızdan ürküttü."
+
+
 translate turkish ep008_aven_talk_0c02b439:
 
-    # "When Lilly turned the corner, Aven and I were already at an appropriate distance from each other."
-    "Lilly köşeyi döndüğünde, Aven ve ben zaten birbirimizden uygun bir mesafedeydik."
 
-# game/episode008_conversations.rpy:67
+    "Lilly köşeyi döndüğünde, Aven ve ben çoktan birbirimizden uygun bir mesafede duruyorduk."
+
+
 translate turkish ep008_aven_talk_ffeb9149:
 
-    # "I glanced at Aven, whose cheeks were flushed and tried to act normally."
-    "Yanakları kızarmış ve normal hareket etmeye çalışan Aven'e baktım."
 
-# game/episode008_conversations.rpy:69
+    "Yanakları kızarmış olan Aven'a baktım ve normal davranmaya çalıştım."
+
+
 translate turkish ep008_aven_talk_d404c18b:
 
-    # l "What are you two conspiring here in the hallway?"
-    l "Koridorda burada neyin komplo kuruyorsunuz?"
 
-# game/episode008_conversations.rpy:70
+    l "Siz ikiniz koridorda ne komplo kuruyorsunuz?"
+
+
 translate turkish ep008_aven_talk_d511b43e:
 
-    # c "We're planning a mutiny."
-    c "Bir isyan planlıyoruz."
 
-# game/episode008_conversations.rpy:71
+    c "İsyan planlıyoruz."
+
+
 translate turkish ep008_aven_talk_725dfbb0:
 
-    # "Aven's laugh sounded a little strained, but my comment had distracted Lilly enough to stop her from asking any more hard questions."
-    "Aven'in kahkahası biraz gergindi, ama yorumum Lilly'yi daha zor sorular sormasını engelleyecek kadar dikkatini dağıtmıştı."
 
-# game/episode008_conversations.rpy:73
+    "Aven'ın gülüşü biraz zoraki geldi, ama yorumum Lilly'nin daha fazla zor soru sormasını engellemek için yeterliydi."
+
+
 translate turkish ep008_aven_talk_b9d6e890:
 
-    # l "Last time I checked you were already acting like the captain of the ship around here, [p_name_short]."
-    l "En son kontrol ettiğimde, buradaki geminin kaptanı gibi davranıyordun, [p_name_short]."
 
-# game/episode008_conversations.rpy:74
+    l "Son kontrol ettiğimde zaten burada geminin kaptanı gibi davranıyordun, [p_name_short]."
+
+
 translate turkish ep008_aven_talk_f371910f:
 
-    # c "Right, I didn't really think through all those details, to be honest."
-    c "Doğru, dürüst olmak gerekirse, tüm bu ayrıntıları gerçekten düşünmedim."
 
-# game/episode008_conversations.rpy:75
+    c "Doğru, açıkçası tüm bu detayları pek düşünmedim."
+
+
 translate turkish ep008_aven_talk_d08a5fde:
 
-    # l "Well, in any case, if you're serious maybe you should admit yourself to the brig."
-    l "Her halükarda, eğer ciddiyseniz, belki kendinizi tugaya kabul etmelisiniz."
 
-# game/episode008_conversations.rpy:76
+    l "Her neyse, eğer ciddiysen belki de kendini hapse atmalısın."
+
+
 translate turkish ep008_aven_talk_6036cd2b:
 
-    # c "Noted, or walk myself out of an airlock."
-    c "Not etti ya da kendimi bir hava kilididen çıkar."
 
-# game/episode008_conversations.rpy:78
+    c "Not edildi, ya da kendimi hava kilidinden dışarı atabilirim."
+
+
 translate turkish ep008_aven_talk_7db0f7a9:
 
-    # av "That seems rather drastic."
-    av "Bu oldukça sert görünüyor."
 
-# game/episode008_conversations.rpy:80
+    av "Bu biraz aşırı görünüyor."
+
+
 translate turkish ep008_aven_talk_9fd23434:
 
-    # av "Anyway, Jade needed me in the med bay."
-    av "Her neyse, Jade'in Med Körfezi'nde bana ihtiyacı vardı."
 
-# game/episode008_conversations.rpy:82
+    av "Neyse, Jade beni revirde istiyordu."
+
+
 translate turkish ep008_aven_talk_e44fac5f:
 
-    # av "Anyway, Jade needed me in the engine room."
-    av "Her neyse, Jade'in bana motor odasında ihtiyacı vardı."
 
-# game/episode008_conversations.rpy:84
+    av "Neyse, Jade beni makine dairesinde istiyordu."
+
+
 translate turkish ep008_aven_talk_d3a70bd0:
 
-    # "Aven left me alone with Lilly."
+
     "Aven beni Lilly ile yalnız bıraktı."
 
-# game/episode008_conversations.rpy:86
+
 translate turkish ep008_aven_talk_ded38905:
 
-    # "My sister cast me one more questioning smile, but walked away when I didn't venture anything further."
-    "Kız kardeşim bana bir gülümseme daha yaptı, ama daha fazla girişimde bulunmadığımda uzaklaştı."
 
-# game/episode008_conversations.rpy:88
+    "Kız kardeşim bana bir sorgulayıcı gülümseme daha attı, ama ben başka bir şey söylemeyince uzaklaştı."
+
+
 translate turkish ep008_aven_talk_72b29002:
 
-    # "My friend cast me one more questioning smile, but walked away when I didn't venture anything further."
-    "Arkadaşım bana bir kez daha sorgulayan bir gülümseme yaptı, ama daha fazla girişimde bulunmadığımda uzaklaştı."
 
-# game/episode008_conversations.rpy:94
+    "Arkadaşım bana bir sorgulayıcı gülümseme daha attı, ama ben başka bir şey söylemeyince uzaklaştı."
+
+
 translate turkish ep008_kit_talk_b933c2b2:
 
-    # ki "I didn’t get a chance to tell you, but that little rock climbing excursion on Almagest was totally awesome."
-    ki "Size söyleme şansım olmadı, ama Almagest'teki o küçük kaya tırmanışı gezisi tamamen harikaydı."
 
-# game/episode008_conversations.rpy:95
+    ki "Sana söyleme fırsatım olmadı ama Almagest'teki o küçük kaya tırmanışı gezisi tam anlamıyla harikaydı."
+
+
 translate turkish ep008_kit_talk_6937e321:
 
-    # c "I knew you’d like it."
-    c "İstediğini biliyordum."
 
-# game/episode008_conversations.rpy:97
+    c "Hoşuna gideceğini biliyordum."
+
+
 translate turkish ep008_kit_talk_651a4c5f:
 
-    # ki "It was the first time in months I get to do something exciting."
-    ki "Aylar içinde ilk kez heyecan verici bir şey yapacağım."
 
-# game/episode008_conversations.rpy:98
+    ki "Aylardır ilk kez heyecan verici bir şey yapma fırsatım oldu."
+
+
 translate turkish ep008_kit_talk_21327d59:
 
-    # c "You say that, but I thought you handled that wheelchair with a lot of panache."
-    c "Bunu söylüyorsun, ama o tekerlekli sandalyeyi çok fazla panache ile ele aldığını düşündüm."
 
-# game/episode008_conversations.rpy:100
+    c "Öyle diyorsun ama o tekerlekli sandalyeyi çok şık bir şekilde kullandığını düşünüyorum."
+
+
 translate turkish ep008_kit_talk_1f6b3ca3:
 
-    # ki "Fuck you."
+
     ki "Siktir git."
 
-# game/episode008_conversations.rpy:102
+
 translate turkish ep008_kit_talk_2ff80c47:
 
-    # ki "I'm glad that I could dump that thing in the cargo bay."
-    ki "Kargo Körfezi'ne o şeyi dökebildiğim için mutluyum."
 
-# game/episode008_conversations.rpy:103
+    ki "O şeyi kargo bölmesine atabildiğim için mutluyum."
+
+
 translate turkish ep008_kit_talk_48690cf8:
 
-    # c "So you've completely healed?"
+
     c "Yani tamamen iyileştin mi?"
 
-# game/episode008_conversations.rpy:105
+
 translate turkish ep008_kit_talk_39270f12:
 
-    # ki "I have, all thanks to my great physique."
-    ki "Büyük fiziğim sayesinde var."
 
-# game/episode008_conversations.rpy:106
+    ki "Evet, hepsi muhteşem fiziğim sayesinde."
+
+
 translate turkish ep008_kit_talk_1ccb17b5:
 
-    # c "And six months of involuntary revalidation."
-    c "Ve altı aylık istemsiz revalidasyon."
 
-# game/episode008_conversations.rpy:108
+    c "Ve altı ay zorunlu rehabilitasyon."
+
+
 translate turkish ep008_kit_talk_20188bcb:
 
-    # ki "That too."
-    ki "O da."
 
-# game/episode008_conversations.rpy:109
+    ki "O da var."
+
+
 translate turkish ep008_kit_talk_e8a5213b:
 
-    # c "How did you cope with living inside that cell?"
-    c "O hücrenin içinde yaşamakla nasıl başa çıktınız?"
 
-# game/episode008_conversations.rpy:111
+    c "O hücrede yaşamakla nasıl başa çıktın?"
+
+
 translate turkish ep008_kit_talk_31386c12:
 
-    # ki "Well you know, lots of masturbating and waiting for the food to arrive."
-    ki "Biliyor musun, çok sayıda mastürbasyon ve yemeğin gelmesini bekliyor."
 
-# game/episode008_conversations.rpy:112
+    ki "Eh işte, bol bol 31 çekip yemeğin gelmesini bekledim."
+
+
 translate turkish ep008_kit_talk_65295d31:
 
-    # ki "Living with three women really helped as well."
+
     ki "Üç kadınla yaşamak da gerçekten yardımcı oldu."
 
-# game/episode008_conversations.rpy:113
+
 translate turkish ep008_kit_talk_8b91471e:
 
-    # c "You didn't?!"
-    c "Yapmadın mı?!"
 
-# game/episode008_conversations.rpy:115
+    c "Yapmadın değil mi?!"
+
+
 translate turkish ep008_kit_talk_a672f097:
 
-    # ki "No, of course I didn't!"
-    ki "Hayır, elbette yapmadım!"
 
-# game/episode008_conversations.rpy:116
+    ki "Hayır, tabii ki yapmadım!"
+
+
 translate turkish ep008_kit_talk_dd77e4f8:
 
-    # ki "Imagine hitting on my sister, that would have been very awkward."
-    ki "Kız kardeşime vurduğunuzu düşünün, bu çok garip olurdu."
 
-# game/episode008_conversations.rpy:118
+    ki "Kız kardeşime yürümeyi düşünsene, çok garip olurdu."
+
+
 translate turkish ep008_kit_talk_1ca78a1c:
 
-    # c "Yeah...."
+
     c "Evet...."
 
-# game/episode008_conversations.rpy:120
+
 translate turkish ep008_kit_talk_77e97780:
 
-    # ki "Why are you so worried all of a sudden?"
-    ki "Neden birdenbire bu kadar endişeleniyorsun?"
 
-# game/episode008_conversations.rpy:121
+    ki "Neden birden bu kadar endişelendin?"
+
+
 translate turkish ep008_kit_talk_26802957:
 
-    # c "Just curious."
-    c "Sadece merak."
 
-# game/episode008_conversations.rpy:123
+    c "Sadece merak ettim."
+
+
 translate turkish ep008_kit_talk_09ce36f5:
 
-    # ki "I know you and Céline have a thing, [p_name_short]."
-    ki "Seni ve céline'ın bir şeyleri olduğunu biliyorum [p_name_short]."
 
-# game/episode008_conversations.rpy:124
+    ki "Sen ve Céline'in arasında bir şeyler olduğunu biliyorum, [p_name_short]."
+
+
 translate turkish ep008_kit_talk_50f03aba:
 
-    # ki "She told me a while ago."
-    ki "Bana bir süre önce söyledi."
 
-# game/episode008_conversations.rpy:125
+    ki "Bir süre önce bana söyledi."
+
+
 translate turkish ep008_kit_talk_4bcb453b:
 
-    # c "Oh."
-    c "Ey."
 
-# game/episode008_conversations.rpy:126
+    c "Ah."
+
+
 translate turkish ep008_kit_talk_1115f649:
 
-    # ki "Yeah, though she didn’t really need to tell me."
-    ki "Evet, bana gerçekten söylemesi gerekmiyordu."
 
-# game/episode008_conversations.rpy:127
+    ki "Evet, gerçi bana söylemesine gerek yoktu."
+
+
 translate turkish ep008_kit_talk_1b761026:
 
-    # ki "I knew about your super top secret romance, which has been plainly visible for everyone with a set of working eyes."
-    ki "Bir dizi çalışan göze sahip herkes için açıkça görülebilen süper çok gizli romantizminizi biliyordum."
 
-# game/episode008_conversations.rpy:128
+    ki "Gözü olan herkesin görebildiği süper gizli ilişkinizi biliyordum."
+
+
 translate turkish ep008_kit_talk_4bcb453b_1:
 
-    # c "Oh."
-    c "Ey."
 
-# game/episode008_conversations.rpy:130
+    c "Ah."
+
+
 translate turkish ep008_kit_talk_fb232423:
 
-    # ki "But I’m happy for you both."
-    ki "Ama ikiniz için mutluyum."
 
-# game/episode008_conversations.rpy:131
+    ki "Ama ikiniz için de mutluyum."
+
+
 translate turkish ep008_kit_talk_1d65eb23:
 
-    # ki "And Céline has been chasing you for a long time, so I’m glad to see she finally got her claws in you."
-    ki "Ve Céline sizi uzun zamandır takip ediyor, bu yüzden sonunda pençelerini sana aldığını görmekten memnunum."
 
-# game/episode008_conversations.rpy:132
+    ki "Ve Céline uzun zamandır peşindeydi, sonunda seni yakaladığını görmek güzel."
+
+
 translate turkish ep008_kit_talk_98468ac4:
 
-    # c "You make it all sound so romantic."
-    c "Hepsini çok romantik hale getiriyorsun."
 
-# game/episode008_conversations.rpy:134
+    c "Her şeyi çok romantik gösteriyorsun."
+
+
 translate turkish ep008_kit_talk_a07af0ad:
 
-    # ki "People say I have a gift for that."
-    ki "İnsanlar bunun için bir hediyem olduğunu söylüyor."
 
-# game/episode008_conversations.rpy:135
+    ki "İnsanlar bunun için bir yeteneğim olduğunu söylüyor."
+
+
 translate turkish ep008_kit_talk_a21cfdc6:
 
-    # c "I’m sure they do."
-    c "Eminim yaparlar."
 
-# game/episode008_conversations.rpy:137
+    c "Eminim öyledir."
+
+
 translate turkish ep008_kit_talk_1ca78a1c_1:
 
-    # c "Yeah...."
+
     c "Evet...."
 
-# game/episode008_conversations.rpy:138
+
 translate turkish ep008_kit_talk_91cfe89c:
 
-    # "But Vess and Jade?"
-    "Ama vess ve yeşim?"
 
-# game/episode008_conversations.rpy:140
+    "Peki ya Vess ve Jade?"
+
+
 translate turkish ep008_kit_talk_77e97780_1:
 
-    # ki "Why are you so worried all of a sudden?"
-    ki "Neden birdenbire bu kadar endişeleniyorsun?"
 
-# game/episode008_conversations.rpy:141
+    ki "Neden birden bu kadar endişelendin?"
+
+
 translate turkish ep008_kit_talk_26802957_1:
 
-    # c "Just curious."
-    c "Sadece merak."
 
-# game/episode008_conversations.rpy:143
+    c "Sadece merak ettim."
+
+
 translate turkish ep008_kit_talk_d37c69c0:
 
-    # ki "Nothing happened on that research station."
+
     ki "O araştırma istasyonunda hiçbir şey olmadı."
 
-# game/episode008_conversations.rpy:144
+
 translate turkish ep008_kit_talk_e92b096d:
 
-    # ki "Céline and I bonded from day one, like we knew we were related, you know?"
-    ki "Céline ve ben ilk günden itibaren bağlandık, bildiğimiz gibi, biliyor musunuz?"
 
-# game/episode008_conversations.rpy:145
+    ki "Céline ve ben ilk günden kaynaştık, sanki akraba olduğumuzu biliyorduk, anlıyor musun?"
+
+
 translate turkish ep008_kit_talk_422d73ad:
 
-    # ki "Vess kept to herself, like she does here on the ship as well."
-    ki "Vess, burada olduğu gibi, kendi başına tuttu."
 
-# game/episode008_conversations.rpy:147
+    ki "Vess kendi halindeydi, tıpkı gemide olduğu gibi."
+
+
 translate turkish ep008_kit_talk_fff8b885:
 
-    # ki "But there was something strange about her, like she recognized us all."
-    ki "Ama hepimizi tanıdığı gibi onun hakkında garip bir şey vardı."
 
-# game/episode008_conversations.rpy:148
+    ki "Ama onda garip bir şey vardı, sanki hepimizi tanıyormuş gibiydi."
+
+
 translate turkish ep008_kit_talk_26d93bee:
 
-    # ki "I mean Céline, Jade and me clearly suffered from amnesia, but Vess..."
-    ki "Yani Céline, Jade ve ben açıkça amneziden muzdarip olduk, ama vess ..."
 
-# game/episode008_conversations.rpy:149
+    ki "Yani Céline, Jade ve ben açıkça amneziden muzdariptik, ama Vess..."
+
+
 translate turkish ep008_kit_talk_b78d6bd0:
 
-    # c "Could just be what she saw in that simulation."
-    c "Sadece bu simülasyonda gördüğü şey olabilirdi."
 
-# game/episode008_conversations.rpy:150
+    c "Belki de sadece simülasyonda gördüklerindendir."
+
+
 translate turkish ep008_kit_talk_8b26d813:
 
-    # c "She was pretty distraught."
-    c "Oldukça perişandı."
 
-# game/episode008_conversations.rpy:152
+    c "Oldukça sarsılmıştı."
+
+
 translate turkish ep008_kit_talk_bb195ef3:
 
-    # ki "Could be."
+
     ki "Olabilir."
 
-# game/episode008_conversations.rpy:153
+
 translate turkish ep008_kit_talk_3964ebc3:
 
-    # ki "Jade acted weirdly too, but it was kinda funny looking back at it."
-    ki "Jade de garip bir şekilde davrandı, ama ona bakmak çok komikti."
 
-# game/episode008_conversations.rpy:154
+    ki "Jade de garip davranıyordu, ama geriye dönüp bakınca biraz komikti."
+
+
 translate turkish ep008_kit_talk_be8b7287:
 
-    # c "How so?"
+
     c "Nasıl yani?"
 
-# game/episode008_conversations.rpy:156
+
 translate turkish ep008_kit_talk_58872ab1:
 
-    # ki "She was like really haughty, acting like she was a queen or something."
-    ki "Gerçekten kibirli gibiydi, kraliçe gibi davranıyordu."
 
-# game/episode008_conversations.rpy:157
+    ki "Çok kibirliydi, sanki bir kraliçeymiş gibi davranıyordu."
+
+
 translate turkish ep008_kit_talk_e302cf69:
 
-    # c "Well, she comes from a royal bloodline, you know."
-    c "Kraliyet kan çizgisinden geliyor, biliyorsun."
 
-# game/episode008_conversations.rpy:158
+    c "Eh, kraliyet soyundan geliyor, biliyorsun."
+
+
 translate turkish ep008_kit_talk_23cd0702:
 
-    # ki "So you've told me."
-    ki "Yani bana söyledin."
 
-# game/episode008_conversations.rpy:160
+    ki "Öyle söylemiştin."
+
+
 translate turkish ep008_kit_talk_c52ac64b:
 
-    # ki "Anyway, it seems that deep down somewhere, she's still very much that Twi'll princess."
-    ki "Her neyse, bir yerde derinlerde, hala prenses o kadar çok."
 
-# game/episode008_conversations.rpy:161
+    ki "Neyse, görünüşe göre içten içe hala tam bir Twi'll prensesi."
+
+
 translate turkish ep008_kit_talk_5bad782f:
 
-    # ki "It took a while to convince her we were not her servants."
-    ki "Onu hizmetkar olmadığımıza ikna etmek biraz zaman aldı."
 
-# game/episode008_conversations.rpy:162
+    ki "Ona hizmetçisi olmadığımızı anlatmak biraz zaman aldı."
+
+
 translate turkish ep008_kit_talk_7c42a31d:
 
-    # c "I didn't notice anything when we were in the middle of escaping."
-    c "Kaçmanın ortasındayken hiçbir şey fark etmedim."
 
-# game/episode008_conversations.rpy:163
+    c "Kaçarken hiçbir şey fark etmemiştim."
+
+
 translate turkish ep008_kit_talk_da142f05:
 
-    # ki "I think she was probably too busy saving her own skin instead of fussing over which one of us would bring her highness her food tray."
-    ki "Sanırım muhtemelen kendi cildini kurtarmak yerine kendi cildini kurtarmakla çok meşguldü."
 
-# game/episode008_conversations.rpy:164
+    ki "Sanırım majesteleri yemek tepsisini hangimizin getireceği konusunda endişelenmek yerine kendi canını kurtarmakla meşguldü."
+
+
 translate turkish ep008_kit_talk_b90fa848:
 
-    # c "I'll be sure to bow, next time I see her."
-    c "Bir dahaki sefere onu gördüğümde eğileceğimden emin olacağım."
 
-# game/episode008_conversations.rpy:166
+    c "Bir dahaki görüşmemizde eğilmeyi unutmam."
+
+
 translate turkish ep008_kit_talk_57c66071:
 
-    # ki "Good, just don't mention that I told you, because I think she was pretty embarrassed when we got our memories back."
-    ki "Güzel, sadece sana söylediğimden bahsetme, çünkü anılarımızı geri aldığımızda oldukça utanmıştı."
 
-# game/episode008_conversations.rpy:167
+    ki "İyi, ama sana söylediğimi söyleme, çünkü hafızamızı geri kazandığımızda oldukça utanmıştı."
+
+
 translate turkish ep008_kit_talk_54936f15:
 
-    # c "Weren't we all?"
-    c "Hepimiz değil miydik?"
 
-# game/episode008_conversations.rpy:168
+    c "Hepimiz öyle değil miydik?"
+
+
 translate turkish ep008_kit_talk_8259ef80:
 
-    # ki "Right."
+
     ki "Doğru."
 
-# game/episode008_conversations.rpy:170
+
 translate turkish ep008_kit_talk_1bb4cc23:
 
-    # ki "Listen, I'm going to get some food before we all die horribly in that irradiated hell dimension."
-    ki "Dinle, o ışınlanmış cehennem boyutunda hepimiz korkunç bir şekilde ölmeden önce biraz yiyecek alacağım."
 
-# game/episode008_conversations.rpy:171
+    ki "Dinle, o radyasyonlu cehennem boyutunda korkunç bir şekilde ölmeden önce biraz yemek alacağım."
+
+
 translate turkish ep008_kit_talk_2af2b3e7:
 
-    # c "Sounds like a plan, enjoy your last supper."
-    c "Bir plan gibi geliyor, son akşam yemeğinizin tadını çıkarın."
 
-# game/episode008_conversations.rpy:177
+    c "Kulağa iyi bir plan gibi geliyor, son yemeğinin tadını çıkar."
+
+
 translate turkish ep008_eva_talk_7622051c:
 
-    # "I dreaded going back into the simulation."
-    "Simülasyona geri dönmeyi hayal ettim."
 
-# game/episode008_conversations.rpy:178
+    "Simülasyona geri dönmekten korktum."
+
+
 translate turkish ep008_eva_talk_3c0eeba4:
 
-    # "Adding Lilly's profile might not have been the best idea."
-    "Lilly'nin profilini eklemek en iyi fikir olmayabilir."
 
-# game/episode008_conversations.rpy:179
+    "Lilly'nin profilini eklemek en iyi fikir olmayabilirdi."
+
+
 translate turkish ep008_eva_talk_1483f8c9:
 
-    # "My supposed abandonment of Eva had sparked such an increase in hostility from her."
-    "Eva'nın sözde terk edilmesi, ondan düşmanlıkta böyle bir artışa yol açmıştı."
 
-# game/episode008_conversations.rpy:181
+    "Eva'yı terk ettiğimi düşünmesi onun düşmanlığını bu kadar artırmıştı."
+
+
 translate turkish ep008_eva_talk_bfffcea2:
 
-    # "I was pretty sure she'd put my other sister against me too, making matters even worse."
-    "Diğer kız kardeşimi de bana karşı koyacağından emindim, meseleleri daha da kötüleştirdi."
 
-# game/episode008_conversations.rpy:183
+    "Diğer kız kardeşimi de bana karşı kışkırttığından emindim, bu işleri daha da kötüleştiriyordu."
+
+
 translate turkish ep008_eva_talk_bae90ac3:
 
-    # "I was pretty sure she'd put my friend against me too, making matters even worse."
-    "Arkadaşımı da bana karşı koyacağından emindim, meseleleri daha da kötüleştirdi."
 
-# game/episode008_conversations.rpy:184
+    "Arkadaşımı da bana karşı kışkırttığından emindim, bu işleri daha da kötüleştiriyordu."
+
+
 translate turkish ep008_eva_talk_5bd71234:
 
-    # "I wracked my brain to find a way to get to Eva and explain the situation to her, but I was sure I wouldn't get far with Lilly in the way."
-    "Eva'ya gidip durumu ona açıklamanın bir yolunu bulmak için beynimi sardım, ama Lilly ile yolda çok ileri gitmeyeceğimden emindim."
 
-# game/episode008_conversations.rpy:185
+    "Eva'ya ulaşıp durumu açıklamak için kafa patlattım ama Lilly'nin engellemesiyle bir yere varamayacağımdan emindim."
+
+
 translate turkish ep008_eva_talk_acef064a:
 
-    # "I could purge Lilly's profile from the system, but that would no doubt have a devastating effect on Eva."
-    "Lilly'nin profilini sistemden temizleyebilirim, ancak bunun şüphesiz EVA üzerinde yıkıcı bir etkisi olurdu."
 
-# game/episode008_conversations.rpy:187
+    "Lilly'nin profilini sistemden silebilirdim ama bunun Eva üzerinde yıkıcı bir etkisi olacağı kesindi."
+
+
 translate turkish ep008_eva_talk_09d28326:
 
-    # "First her brother leaving her and now her sister?"
-    "Önce erkek kardeşi onu ve şimdi kız kardeşi mi?"
 
-# game/episode008_conversations.rpy:189
+    "Önce erkek kardeşi onu terk etti, şimdi de kız kardeşi mi?"
+
+
 translate turkish ep008_eva_talk_7e1f8aa3:
 
-    # "First me leaving her and now one of her best friends?"
-    "Önce onu bırakıyorum ve şimdi en iyi arkadaşlarından biri mi?"
 
-# game/episode008_conversations.rpy:190
+    "Önce ben onu terk ettim, şimdi de en iyi arkadaşlarından biri mi?"
+
+
 translate turkish ep008_eva_talk_52f3f6a4:
 
-    # "Deleting Lilly was out of the question, so I'd have to resort to more subtle tactics."
-    "Lilly'yi silmek söz konusu değildi, bu yüzden daha ince taktiklere başvurmak zorunda kaldım."
 
-# game/episode008_conversations.rpy:192
+    "Lilly'yi silmek söz konusu bile olamazdı, bu yüzden daha incelikli taktiklere başvurmam gerekecekti."
+
+
 translate turkish ep008_eva_talk_54b2715f:
 
-    # "The simulation software featured an impressive array of configuration tools."
-    "Simülasyon yazılımı etkileyici bir yapılandırma araçları içeriyordu."
 
-# game/episode008_conversations.rpy:193
+    "Simülasyon yazılımı etkileyici bir dizi yapılandırma aracına sahipti."
+
+
 translate turkish ep008_eva_talk_4ca17fdf:
 
-    # "Apart from the more obvious things, like controlling the weather and scenery, it was also possible to alter parameters on a more detailed level."
-    "Hava ve manzarayı kontrol etmek gibi daha belirgin şeylerin yanı sıra, parametreleri daha ayrıntılı bir seviyede değiştirmek de mümkün oldu."
 
-# game/episode008_conversations.rpy:194
+    "Hava durumu ve manzara kontrolü gibi açık şeylerin yanı sıra, parametreleri daha detaylı bir seviyede değiştirmek de mümkündü."
+
+
 translate turkish ep008_eva_talk_b1db3580:
 
-    # "Each character profile in the simulation could be tweaked in certain ways, allowing characters to express different personalities."
-    "Simülasyondaki her karakter profili belirli şekillerde ayarlanabilir ve karakterlerin farklı kişilikleri ifade etmesine izin verir."
 
-# game/episode008_conversations.rpy:195
+    "Simülasyondaki her karakter profili belirli şekillerde ayarlanabiliyordu, bu da karakterlerin farklı kişilikler sergilemesine olanak tanıyordu."
+
+
 translate turkish ep008_eva_talk_64533f1d:
 
-    # "It was tempting to alter Lilly's profile to make her less hostile towards me."
-    "Lilly'nin profilini bana karşı daha az düşmanca hale getirmek için cazip geldi."
 
-# game/episode008_conversations.rpy:196
+    "Lilly'nin profilini bana karşı daha az düşmanca olacak şekilde değiştirmek cazip geliyordu."
+
+
 translate turkish ep008_eva_talk_81e16aae:
 
-    # "Doing this did have its dangers, simulation companies generally always warn people not to mess with the profiles of their simulated loved ones, as the results can be very unpredictable."
-    "Bunu yapmanın tehlikeleri vardı, simülasyon şirketleri genellikle insanları her zaman simüle edilmiş sevdiklerinin profilleriyle uğraşmamaları konusunda uyarıyor, çünkü sonuçlar çok öngörülemez olabilir."
 
-# game/episode008_conversations.rpy:197
+    "Bunu yapmanın tehlikeleri vardı, simülasyon şirketleri genellikle insanları sevdiklerinin profillerini kurcalamamaları konusunda uyarıyordu, çünkü sonuçlar çok öngörülemez olabilirdi."
+
+
 translate turkish ep008_eva_talk_0d926743:
 
-    # "However, I felt I had zero chance of reaching Eva with Lilly standing in my way."
-    "Ancak, Lilly'nin yolumda durmasıyla EVA'ya ulaşma şansım olduğunu hissettim."
 
-# game/episode008_conversations.rpy:199
+    "Yine de, Lilly yolumu kesiyorken Eva'ya ulaşma şansımın sıfır olduğunu hissediyordum."
+
+
 translate turkish ep008_eva_talk_1ecc5e5c:
 
-    # "Just before entering the simulation again, I opened up Lilly's profile and had a look at the long list of attributes that made up her personality."
-    "Simülasyona tekrar girmeden hemen önce, Lilly'nin profilini açtım ve kişiliğini oluşturan uzun özellik listesine bir göz attım."
 
-# game/episode008_conversations.rpy:200
+    "Simülasyona tekrar girmeden önce, Lilly'nin profilini açtım ve onun kişiliğini oluşturan uzun özellikler listesine göz attım."
+
+
 translate turkish ep008_eva_talk_beb1d720:
 
-    # "When I reached the \"Disposition\" heading of the list, I paused."
-    "Ulaştığımda \"Eğilim\" Listenin başlığı durakladım."
 
-# game/episode008_conversations.rpy:201
+    "Listenin \"Mizaç\" başlığına geldiğimde duraksadım."
+
+
 translate turkish ep008_eva_talk_2bdd7910:
 
-    # "Should I risk it?"
-    "Riske atmalı mıyım?"
 
-# game/episode008_conversations.rpy:205
+    "Bu riski almalı mıydım?"
+
+
 translate turkish ep008_eva_talk_6cb1f6ee:
 
-    # "Maybe Jade would be better at this, but I didn't feel like explaining it to her."
-    "Belki Jade bu konuda daha iyi olurdu, ama ona açıklamak istemiyordum."
 
-# game/episode008_conversations.rpy:206
+    "Belki Jade bu konuda daha iyi olurdu ama ona açıklamak içimden gelmedi."
+
+
 translate turkish ep008_eva_talk_c8042e20:
 
-    # "Resigned, I quickly made a few changes and committed the altered profile to the system's memory."
-    "İstifa ettim, hızla birkaç değişiklik yaptım ve değiştirilmiş profili sistemin belleğine taahhüt ettim."
 
-# game/episode008_conversations.rpy:208
+    "Çaresizce, hızlıca birkaç değişiklik yaptım ve değiştirilmiş profili sistemin belleğine kaydettim."
+
+
 translate turkish ep008_eva_talk_96bf5d04:
 
-    # "Tampering with something as delicate as a psychological profile didn’t sit right with me."
-    "Psikolojik bir profil kadar hassas bir şeyle uğraşmak benimle doğru oturmadı."
 
-# game/episode008_conversations.rpy:209
+    "Psikolojik profil gibi hassas bir şeyle oynamak içime sinmedi."
+
+
 translate turkish ep008_eva_talk_d2fc39b9:
 
-    # "I’d have to face whatever was waiting for me in the simulation without cheating."
-    "Hile yapmadan simülasyonda beni bekleyen her şeyle yüzleşmek zorunda kalacaktım."
 
-# game/episode008_conversations.rpy:210
+    "Simülasyonda beni bekleyen her neyse, hile yapmadan yüzleşmem gerekecekti."
+
+
 translate turkish ep008_eva_talk_33cd4130:
 
-    # "Taking a deep breath, I entered the simulation again."
-    "Derin bir nefes alarak simülasyona tekrar girdim."
 
-# game/episode008_conversations.rpy:215
+    "Derin bir nefes alarak, simülasyona tekrar girdim."
+
+
 translate turkish ep008_eva_talk_afcda01d:
 
-    # "I was back in the mansion again, the stairs looming before me."
-    "Tekrar konakta geri döndüm, merdivenler önümde görünüyordu."
 
-# game/episode008_conversations.rpy:216
+    "Yine malikanedeydim, merdivenler önümde yükseliyordu."
+
+
 translate turkish ep008_eva_talk_8eacb178:
 
-    # "As nobody came to greet me, I climbed them, lost in thought."
-    "Kimse beni selamlamaya geldikçe, onlara tırmandım, düşüncede kayboldum."
 
-# game/episode008_conversations.rpy:220
+    "Beni karşılamaya kimse gelmediği için, düşüncelere dalarak merdivenleri çıktım."
+
+
 translate turkish ep008_eva_talk_cbf34d98:
 
-    # l "[p_name_short]?!"
+
     l "[p_name_short]?!"
 
-# game/episode008_conversations.rpy:221
+
 translate turkish ep008_eva_talk_53e27ba3:
 
-    # "I expected to see her furious again and I was right, she looked absolutely livid."
-    "Onu tekrar öfkeli görmeyi bekliyordum ve haklıydım, kesinlikle canlı görünüyordu."
 
-# game/episode008_conversations.rpy:223
+    "Onu yine öfkeli göreceğimi tahmin etmiştim ve haklıydım, resmen deliye dönmüştü."
+
+
 translate turkish ep008_eva_talk_be682331:
 
-    # l "Why the fuck are you back?!"
-    l "Neden geri döndün?!"
 
-# game/episode008_conversations.rpy:224
+    l "Ne sikime geri geldin?!"
+
+
 translate turkish ep008_eva_talk_c46f14c9:
 
-    # l "Didn’t we tell you to leave us alone?"
-    l "Bizi yalnız bırakmanı söylemedik mi?"
 
-# game/episode008_conversations.rpy:225
+    l "Bizi rahat bırakmanı söylememiş miydik?"
+
+
 translate turkish ep008_eva_talk_116d4076:
 
-    # l "I don’t want to see you ever again."
-    l "Seni bir daha görmek istemiyorum."
 
-# game/episode008_conversations.rpy:226
+    l "Bir daha yüzünü görmek istemiyorum."
+
+
 translate turkish ep008_eva_talk_8e352e23:
 
-    # l "The same goes for Eva."
-    l "Aynı şey Eva için de geçerli."
 
-# game/episode008_conversations.rpy:229
+    l "Eva için de aynısı geçerli."
+
+
 translate turkish ep008_eva_talk_ec972c7d:
 
-    # "Eva appeared in the hallway, next to her sister."
-    "Eva koridorda, kız kardeşinin yanında ortaya çıktı."
 
-# game/episode008_conversations.rpy:231
+    "Eva koridorda, kız kardeşinin yanında belirdi."
+
+
 translate turkish ep008_eva_talk_08ccc17a:
 
-    # "Eva appeared in the hallway, next to her friend."
-    "Eva koridorda, arkadaşının yanında göründü."
 
-# game/episode008_conversations.rpy:232
+    "Eva koridorda, arkadaşının yanında belirdi."
+
+
 translate turkish ep008_eva_talk_e368099d:
 
-    # c "Eva, I just want to talk to you."
+
     c "Eva, sadece seninle konuşmak istiyorum."
 
-# game/episode008_conversations.rpy:233
+
 translate turkish ep008_eva_talk_4d10e8fd:
 
-    # c "Explain..."
-    c "Açıklamak..."
 
-# game/episode008_conversations.rpy:234
+    c "Açıklamama izin ver..."
+
+
 translate turkish ep008_eva_talk_c188fe98:
 
-    # e "Don’t bother, [p_name]."
-    e "Zahmet etmeyin [p_name]."
 
-# game/episode008_conversations.rpy:235
+    e "Boşuna uğraşma, [p_name]."
+
+
 translate turkish ep008_eva_talk_6d357db4:
 
-    # e "Please go."
+
     e "Lütfen git."
 
-# game/episode008_conversations.rpy:237
+
 translate turkish ep008_eva_talk_1e695ece:
 
-    # "Frustrated, I pulled out of the simulation immediately."
-    "Hayal kırıklığına uğramış, hemen simülasyondan çıktım."
 
-# game/episode008_conversations.rpy:238
+    "Sinirle hemen simülasyondan çıktım."
+
+
 translate turkish ep008_eva_talk_f258fd4b:
 
-    # "The animosity displayed by both Eva and Lilly just hurt too much."
-    "Hem Eva hem de Lilly tarafından sergilenen düşmanlık çok fazla acıyor."
 
-# game/episode008_conversations.rpy:239
+    "Eva ve Lilly'nin gösterdiği düşmanlık çok canımı yakıyordu."
+
+
 translate turkish ep008_eva_talk_ea8cd30b:
 
-    # "I just didn’t see any way how to fix this."
-    "Bunu nasıl düzelteceğimi görmedim."
 
-# game/episode008_conversations.rpy:242
+    "Bunu düzeltmenin hiçbir yolunu göremiyordum."
+
+
 translate turkish ep008_eva_talk_cbf34d98_1:
 
-    # l "[p_name_short]?!"
+
     l "[p_name_short]?!"
 
-# game/episode008_conversations.rpy:243
+
 translate turkish ep008_eva_talk_a5b32a12:
 
-    # "The sharpness of Lilly’s voice startled me."
-    "Lilly’nin sesinin keskinliği beni şaşırttı."
 
-# game/episode008_conversations.rpy:244
+    "Lilly'nin sesindeki keskinlik beni ürküttü."
+
+
 translate turkish ep008_eva_talk_c2aefceb:
 
-    # "I expected to see her furious again, instead she rushed up to me."
-    "Onu tekrar öfkeli görmeyi bekliyordum, bunun yerine bana koştu."
 
-# game/episode008_conversations.rpy:246
+    "Onu yine öfkeli göreceğimi sanmıştım ama bunun yerine bana doğru koştu."
+
+
 translate turkish ep008_eva_talk_409bdb77:
 
-    # "And hugged me without restraint."
-    "Ve bana kısıtlamadan sarıldı."
 
-# game/episode008_conversations.rpy:247
+    "Ve hiç çekinmeden bana sarıldı."
+
+
 translate turkish ep008_eva_talk_d82b42cc:
 
-    # l "You’re back!"
-    l "Döndün!"
 
-# game/episode008_conversations.rpy:248
+    l "Geri döndün!"
+
+
 translate turkish ep008_eva_talk_274cbd2d:
 
-    # "She clung to me and forced my arm around her."
-    "Bana yapıştı ve kolumu etrafına zorladı."
 
-# game/episode008_conversations.rpy:250
+    "Bana sıkıca yapıştı ve kolumu zorla kendine sardırdı."
+
+
 translate turkish ep008_eva_talk_0ca8c7d8:
 
-    # l "I was thinking we could take a walk together."
-    l "Birlikte yürüyüş yapabileceğimizi düşünüyordum."
 
-# game/episode008_conversations.rpy:251
+    l "Birlikte yürüyüşe çıkabiliriz diye düşünüyordum."
+
+
 translate turkish ep008_eva_talk_3f4bbf53:
 
-    # l "Just us."
-    l "Sadece biz."
 
-# game/episode008_conversations.rpy:252
+    l "Sadece ikimiz."
+
+
 translate turkish ep008_eva_talk_fc716cb0:
 
-    # c "Isn’t Eva around?"
-    c "Eva etrafta değil mi?"
 
-# game/episode008_conversations.rpy:254
+    c "Eva buralarda değil mi?"
+
+
 translate turkish ep008_eva_talk_04a41a5c:
 
-    # l "Probably, but who cares?"
+
     l "Muhtemelen, ama kimin umurunda?"
 
-# game/episode008_conversations.rpy:255
+
 translate turkish ep008_eva_talk_06f9bed3:
 
-    # c "I was hoping to talk to her."
+
     c "Onunla konuşmayı umuyordum."
 
-# game/episode008_conversations.rpy:256
+
 translate turkish ep008_eva_talk_bfb5662c:
 
-    # c "Is she alright?"
+
     c "İyi mi?"
 
-# game/episode008_conversations.rpy:257
+
 translate turkish ep008_eva_talk_8ff79d30:
 
-    # l "She’s fine."
-    l "O iyi."
 
-# game/episode008_conversations.rpy:258
+    l "İyi."
+
+
 translate turkish ep008_eva_talk_d9f3f7ad:
 
-    # c "Is she still upset with me?"
-    c "Hala bana üzülüyor mu?"
 
-# game/episode008_conversations.rpy:259
+    c "Hala bana kızgın mı?"
+
+
 translate turkish ep008_eva_talk_ed2bfdba:
 
-    # l "She was, for a time, but I convinced her it wasn’t your fault."
-    l "Bir süredir öyleydi, ama onu sizin hatan olmadığına ikna ettim."
 
-# game/episode008_conversations.rpy:260
+    l "Bir süre öyleydi ama senin hatan olmadığına ikna ettim."
+
+
 translate turkish ep008_eva_talk_20d31919:
 
-    # c "You did?"
-    c "Yaptın?"
 
-# game/episode008_conversations.rpy:261
+    c "Öyle mi?"
+
+
 translate turkish ep008_eva_talk_c57e7e6c:
 
-    # l "Yeah, is that so surprising?"
-    l "Evet, bu çok şaşırtıcı mı?"
 
-# game/episode008_conversations.rpy:262
+    l "Evet, bu çok mu şaşırtıcı?"
+
+
 translate turkish ep008_eva_talk_2c7aed64:
 
-    # "The change in behavior weirded me out a little, but was to be expected after messing with her profile's parameters."
-    "Davranıştaki değişiklik beni biraz terk etti, ancak profilinin parametrelerini bozduktan sonra beklenecekti."
 
-# game/episode008_conversations.rpy:263
+    "Davranışlarındaki değişiklik beni biraz tuhaf hissettirdi ama profil parametrelerini değiştirdikten sonra beklenmedik değildi."
+
+
 translate turkish ep008_eva_talk_8ecef790:
 
-    # c "She was really upset."
-    c "Gerçekten üzgündü."
 
-# game/episode008_conversations.rpy:265
+    c "Gerçekten çok üzgündü."
+
+
 translate turkish ep008_eva_talk_0d762219:
 
-    # l "And now she isn't, why are we still talking about this?"
-    l "Ve şimdi değil, neden hala bundan bahsediyoruz?"
 
-# game/episode008_conversations.rpy:267
+    l "Artık değil, neden hala bunun hakkında konuşuyoruz?"
+
+
 translate turkish ep008_eva_talk_4f2ad2dc:
 
-    # e "[p_name_short]?"
+
     e "[p_name_short]?"
 
-# game/episode008_conversations.rpy:268
+
 translate turkish ep008_eva_talk_312d6bf9:
 
-    # e "You're back!"
-    e "Döndün!"
 
-# game/episode008_conversations.rpy:269
+    e "Geri döndün!"
+
+
 translate turkish ep008_eva_talk_b63d6bf3:
 
-    # c "I am."
-    c "Ben."
 
-# game/episode008_conversations.rpy:270
-translate turkish ep008_eva_talk_aa752ce1:
-
-    # c "I came to find you earlier, but-"
-    c "Seni daha önce bulmaya geldim ama-"
-
-# game/episode008_conversations.rpy:272
-translate turkish ep008_eva_talk_bd1661fc:
-
-    # e "I know."
-    e "Biliyorum."
-
-# game/episode008_conversations.rpy:273
-translate turkish ep008_eva_talk_0b4d1905:
-
-    # e "You went away for all those months without saying goodbye, I just couldn't deal with it."
-    e "Hoşçakal demeden tüm bu aylar boyunca gittin, onunla başa çıkamadım."
-
-# game/episode008_conversations.rpy:274
-translate turkish ep008_eva_talk_723670b1:
-
-    # c "I was wondering if you'd be willing to spend some time together."
-    c "Birlikte biraz zaman geçirmeye istekli olup olmadığını merak ediyordum."
-
-# game/episode008_conversations.rpy:276
-translate turkish ep008_eva_talk_a678692c:
-
-    # e "Of course I would."
-    e "Tabi ki isterim."
-
-# game/episode008_conversations.rpy:278
-translate turkish ep008_eva_talk_d8679691:
-
-    # l "Uh, hello?!"
-    l "Uh, merhaba?!"
-
-# game/episode008_conversations.rpy:279
-translate turkish ep008_eva_talk_8e870b01:
-
-    # l "You just promised we were going for a walk together, just you and me."
-    l "Sadece birlikte yürüyüşe çıkacağımıza söz verdin, sadece sen ve ben."
-
-# game/episode008_conversations.rpy:280
-translate turkish ep008_eva_talk_a636e731:
-
-    # c "No, I didn't."
-    c "Hayır, yapmadım."
-
-# game/episode008_conversations.rpy:281
-translate turkish ep008_eva_talk_6a67a40b:
-
-    # c "Eva, will you join us?"
-    c "Eva, bize katılacak mısın?"
-
-# game/episode008_conversations.rpy:283
-translate turkish ep008_eva_talk_2e84d8e2:
-
-    # e "Gladly."
-    e "Memnuniyetle."
-
-# game/episode008_conversations.rpy:285
-translate turkish ep008_eva_talk_ed9aefda:
-
-    # "Lilly glared out of the corner of her eye, but much of her scorn was surprisingly directed at Eva."
-    "Lilly gözünün köşesinden baktı, ancak küçümsemesinin çoğu şaşırtıcı bir şekilde Eva'ya yöneldi."
-
-# game/episode008_conversations.rpy:286
-translate turkish ep008_eva_talk_484d0f21:
-
-    # "We set out towards the garden, Lilly trailing after us in a foul mood."
-    "Bahçeye doğru yola çıktık, Lilly kötü bir ruh hali içinde peşimizden takip ediyoruz."
-
-# game/episode008_conversations.rpy:291
-translate turkish ep008_eva_talk_039c3394:
-
-    # c "Listen, Eva, I shouldn't have left you like that."
-    c "Dinle Eva, seni böyle bırakmamalıydım."
-
-# game/episode008_conversations.rpy:292
-translate turkish ep008_eva_talk_1933729f:
-
-    # c "My sudden disappearance must have been awful for you."
-    c "Aniden kaybolmam senin için korkunç olmalı."
-
-# game/episode008_conversations.rpy:293
-translate turkish ep008_eva_talk_eea66b6e:
-
-    # c "I had no control over the situation, no means of getting a message to you, but I'm sorry nonetheless."
-    c "Durum üzerinde hiçbir kontrolüm yoktu, size mesaj almanın bir yolu yoktu, ama yine de üzgünüm."
-
-# game/episode008_conversations.rpy:295
-translate turkish ep008_eva_talk_5587fd67:
-
-    # e "Thank you, [p_name_short]."
-    e "Teşekkür ederim, [p_name_short]."
-
-# game/episode008_conversations.rpy:297
-translate turkish ep008_eva_talk_1dade95c:
-
-    # e "I was worried sick, but Lilly got me through."
-    e "Endişeliydim, ama Lilly beni geçti."
-
-# game/episode008_conversations.rpy:298
-translate turkish ep008_eva_talk_15455bae:
-
-    # e "I heard you when you finally came to visit."
-    e "Sonunda ziyarete geldiğinde seni duydum."
-
-# game/episode008_conversations.rpy:299
-translate turkish ep008_eva_talk_b17caabe:
-
-    # e "I was angry with you then, returning like nothing had happened."
-    e "O zaman sana kızdım, hiçbir şey olmamışmış gibi geri döndüm."
-
-# game/episode008_conversations.rpy:300
-translate turkish ep008_eva_talk_822eeae6:
-
-    # e "When I had finally mustered the courage to confront you, Lilly had already taken matters into her own hands."
-    e "Sonunda seninle yüzleşmek için cesareti topladığımda, Lilly meseleleri zaten kendi ellerine almıştı."
-
-# game/episode008_conversations.rpy:301
-translate turkish ep008_eva_talk_985d1d63:
-
-    # e "So I'm sorry I just let her send you away, I really don't want you out of my life."
-    e "Bu yüzden üzgünüm, seni göndermesine izin verdiğim için, seni gerçekten hayatımdan istemiyorum."
-
-# game/episode008_conversations.rpy:302
-translate turkish ep008_eva_talk_ac2bea30:
-
-    # c "Me neither."
-    c "Ben de değil."
-
-# game/episode008_conversations.rpy:305
-translate turkish ep008_eva_talk_a9b58ead:
-
-    # e "You came back..."
-    e "Geri geldin..."
-
-# game/episode008_conversations.rpy:306
-translate turkish ep008_eva_talk_ca9570cc:
-
-    # c "You sound a little surprised."
-    c "Biraz şaşırdın."
-
-# game/episode008_conversations.rpy:307
-translate turkish ep008_eva_talk_a7069ad0:
-
-    # e "Can you blame me?"
-    e "Beni suçlayabilir misin?"
-
-# game/episode008_conversations.rpy:308
-translate turkish ep008_eva_talk_bbee7c1a:
-
-    # c "I guess I can't."
-    c "Sanırım yapamam."
-
-# game/episode008_conversations.rpy:309
-translate turkish ep008_eva_talk_3fbe77c8:
-
-    # c "Just know that I had no control over my absence all those months."
-    c "Sadece bu aylar boyunca yokluğum üzerinde hiçbir kontrolüm olmadığını biliyorum."
-
-# game/episode008_conversations.rpy:310
-translate turkish ep008_eva_talk_0d046334:
-
-    # c "I couldn't even get a message out to you."
-    c "Sana mesaj bile alamadım."
-
-# game/episode008_conversations.rpy:311
-translate turkish ep008_eva_talk_9ec10ae1:
-
-    # e "Did you try?"
-    e "Denedin mi?"
-
-# game/episode008_conversations.rpy:312
-translate turkish ep008_eva_talk_fb12cde9:
-
-    # c "You have to realize it was very complicated, but I did everything in my power to get back to you as soon as possible."
-    c "Bunun çok karmaşık olduğunu fark etmelisiniz, ancak en kısa sürede size geri dönmek için elimden gelen her şeyi yaptım."
-
-# game/episode008_conversations.rpy:313
-translate turkish ep008_eva_talk_2db71c36:
-
-    # e "After several months..."
-    e "Birkaç ay sonra ..."
-
-# game/episode008_conversations.rpy:314
-translate turkish ep008_eva_talk_d78dc6ef:
-
-    # c "After several months."
-    c "Birkaç ay sonra."
-
-# game/episode008_conversations.rpy:315
-translate turkish ep008_eva_talk_1a6d04a4:
-
-    # c "I wanted to explain to you before, but-"
-    c "Sana daha önce açıklamak istedim ama-"
-
-# game/episode008_conversations.rpy:317
-translate turkish ep008_eva_talk_e3a58387:
-
-    # e "But I didn't want to see you."
-    e "Ama seni görmek istemedim."
-
-# game/episode008_conversations.rpy:318
-translate turkish ep008_eva_talk_3ebd7dee:
-
-    # c "So Lilly told me in no uncertain terms."
-    c "Lilly bana belirsiz bir terimle söylemedi."
-
-# game/episode008_conversations.rpy:319
-translate turkish ep008_eva_talk_9e3681a1:
-
-    # e "I'm not proud of that moment, to be honest."
-    e "Dürüst olmak gerekirse o andan gurur duymuyorum."
-
-# game/episode008_conversations.rpy:321
-translate turkish ep008_eva_talk_b17caabe_1:
-
-    # e "I was angry with you then, returning like nothing had happened."
-    e "O zaman sana kızdım, hiçbir şey olmamışmış gibi geri döndüm."
-
-# game/episode008_conversations.rpy:322
-translate turkish ep008_eva_talk_822eeae6_1:
-
-    # e "When I had finally mustered the courage to confront you, Lilly had already taken matters into her own hands."
-    e "Sonunda seninle yüzleşmek için cesareti topladığımda, Lilly meseleleri zaten kendi ellerine almıştı."
-
-# game/episode008_conversations.rpy:323
-translate turkish ep008_eva_talk_f5f9bfb4:
-
-    # e "She's been really there for me these past few months."
-    e "Geçtiğimiz birkaç ay benim için gerçekten oradaydı."
-
-# game/episode008_conversations.rpy:324
-translate turkish ep008_eva_talk_d480f87a:
-
-    # c "I'm glad to hear that."
-    c "Bunu duyduğuma sevindim."
-
-# game/episode008_conversations.rpy:326
-translate turkish ep008_eva_talk_803c2ebf:
-
-    # l "What are you two talking about?"
-    l "Neden sizden bahsediyorsunuz?"
-
-# game/episode008_conversations.rpy:327
-translate turkish ep008_eva_talk_527d5a27:
-
-    # "Lilly clearly got over her dampened spirits and possessively took my other arm."
-    "Lilly net bir şekilde nemlendirilmiş ruhlarını aştı ve diğer kolumu sahipti."
-
-# game/episode008_conversations.rpy:328
-translate turkish ep008_eva_talk_ef538d63:
-
-    # l "Every time I walk out here, I'm amazed by all the shit we own."
-    l "Buraya her yürüdüğümde, sahip olduğumuz tüm boklara hayran kaldım."
-
-# game/episode008_conversations.rpy:330
-translate turkish ep008_eva_talk_72415ab1:
-
-    # e "I think there are places on the estate I have never even explored."
-    e "Sanırım mülkte hiç keşfetmediğim yerler var."
-
-# game/episode008_conversations.rpy:332
-translate turkish ep008_eva_talk_90c4aa54:
-
-    # c "Dad does have that reputation as a grandiose landed gentleman to uphold."
-    c "Babam, büyük bir inişli beyefendi olarak bu üne sahip."
-
-# game/episode008_conversations.rpy:333
-translate turkish ep008_eva_talk_63cad487:
-
-    # l "He sure does seem less interested nowadays, than he did when we were younger."
-    l "Bugünlerde, daha gençken olduğundan daha az ilgileniyor gibi görünüyor."
-
-# game/episode008_conversations.rpy:335
-translate turkish ep008_eva_talk_3505fb66:
-
-    # c "My dad does have that reputation as a grandiose landed gentleman to uphold."
-    c "Babam, korunması için görkemli bir beyefendi olarak üne sahip."
-
-# game/episode008_conversations.rpy:337
-translate turkish ep008_eva_talk_ccd866df:
-
-    # e "Guys?!"
-    e "Çocuklar?!"
-
-# game/episode008_conversations.rpy:338
-translate turkish ep008_eva_talk_5fc898b1:
-
-    # e "Isn't this the perfect spot for a picnic?"
-    e "Bu bir piknik için mükemmel bir yer değil mi?"
-
-# game/episode008_conversations.rpy:339
-translate turkish ep008_eva_talk_3f172346:
-
-    # l "It sure is, just a shame we didn't bring anything."
-    l "Kesinlikle, sadece bir şey getirmediğimiz için bir utanç."
-
-# game/episode008_conversations.rpy:340
-translate turkish ep008_eva_talk_6dd00e73:
-
-    # e "No matter, I'll go back and raid the kitchens."
-    e "Olursa olsun, geri dönüp mutfaklara baskın yapacağım."
-
-# game/episode008_conversations.rpy:341
-translate turkish ep008_eva_talk_ba8b3db9:
-
-    # c "Want me to come with you?"
-    c "Seninle gelmemi ister misin?"
-
-# game/episode008_conversations.rpy:343
-translate turkish ep008_eva_talk_b68fda56:
-
-    # e "No, I'll be back in no time."
-    e "Hayır, hiçbir zaman geri döneceğim."
-
-# game/episode008_conversations.rpy:344
-translate turkish ep008_eva_talk_9198bc72:
-
-    # "I really wanted to go after her, but Lilly pulled me down to the ground while Eva left the clearing."
-    "Gerçekten onun peşinden gitmek istedim, ama Eva açıklığı bırakırken Lilly beni yere indirdi."
-
-# game/episode008_conversations.rpy:346
-translate turkish ep008_eva_talk_5b960d64:
-
-    # l "Good, now I've got you all to myself."
-    l "Güzel, şimdi hepinizi kendime götürdüm."
-
-# game/episode008_conversations.rpy:348
-translate turkish ep008_eva_talk_ca4c8ebe:
-
-    # "My sister sat really close to me, her shoulder touching mine."
-    "Kız kardeşim bana gerçekten yakın oturdu, omzu benimkine dokundu."
-
-# game/episode008_conversations.rpy:350
-translate turkish ep008_eva_talk_b956f86f:
-
-    # "My friend sat really close to me, her shoulder touching mine."
-    "Arkadaşım bana gerçekten yakın oturdu, omzu benimkine dokundu."
-
-# game/episode008_conversations.rpy:351
-translate turkish ep008_eva_talk_0d98f15b:
-
-    # "The whole scene evoked memories of the moments I shared with the real Lilly back in our cell on the research station."
-    "Tüm sahne, araştırma istasyonundaki hücremizdeki gerçek Lilly ile paylaştığım anların anılarını uyandırdı."
-
-# game/episode008_conversations.rpy:352
-translate turkish ep008_eva_talk_bbd21317:
-
-    # "In this case, it made me a little uncomfortable, partly because the change in behavior was so abrupt and of my doing."
-    "Bu durumda, kısmen davranıştaki değişiklik çok ani ve yaptığım için beni biraz rahatsız etti."
-
-# game/episode008_conversations.rpy:353
-translate turkish ep008_eva_talk_fba75cb1:
-
-    # "I sat with her, silently cursing my decision to alter virtual Lilly's psychological profile."
-    "Onunla oturdum, sanal Lilly'nin psikolojik profilini değiştirme kararımı sessizce lanetledim."
-
-# game/episode008_conversations.rpy:354
-translate turkish ep008_eva_talk_d3091233:
-
-    # "We sat there for several long minutes, looking out over the grasslands."
-    "Orada birkaç dakika oturduk, otlaklara baktık."
-
-# game/episode008_conversations.rpy:356
-translate turkish ep008_eva_talk_66282f9b:
-
-    # l "Why are you so distracted?"
-    l "Neden bu kadar dikkatiniz dağılmış?"
-
-# game/episode008_conversations.rpy:357
-translate turkish ep008_eva_talk_e110a90f:
-
-    # c "Distracted, I-"
-    c "Dikkati dağılmış, ben-"
-
-# game/episode008_conversations.rpy:358
-translate turkish ep008_eva_talk_b4d7f180:
-
-    # l "Don't deny it."
-    l "İnkar etmeyin."
-
-# game/episode008_conversations.rpy:359
-translate turkish ep008_eva_talk_cac486ec:
-
-    # c "I was just thinking about some things."
-    c "Sadece bazı şeyleri düşünüyordum."
-
-# game/episode008_conversations.rpy:360
-translate turkish ep008_eva_talk_a165a6db:
-
-    # l "'Thinking about some things', could you be any more vague?!"
-    l "'Bazı şeyleri düşünüyorum', daha belirsiz olabilir misin?!"
-
-# game/episode008_conversations.rpy:362
-translate turkish ep008_eva_talk_c7fa39e2:
-
-    # l "You're thinking of her, aren't you?"
-    l "Onu düşünüyorsun, değil mi?"
-
-# game/episode008_conversations.rpy:363
-translate turkish ep008_eva_talk_a367db62:
-
-    # l "You'd rather have gone with Eva."
-    l "Eva ile gitmeyi tercih edersin."
-
-# game/episode008_conversations.rpy:365
-translate turkish ep008_eva_talk_f26d8121:
-
-    # l "Making a fucking picnic basket!"
-    l "Lanet bir piknik sepeti yapmak!"
-
-# game/episode008_conversations.rpy:368
-translate turkish ep008_eva_talk_534a9821:
-
-    # c "Yes, I would have."
-    c "Evet, sahip olurdum."
-
-# game/episode008_conversations.rpy:370
-translate turkish ep008_eva_talk_85cd6b8e:
-
-    # l "It just isn't fair!"
-    l "Sadece adil değil!"
-
-# game/episode008_conversations.rpy:373
-translate turkish ep008_eva_talk_896843ff:
-
-    # c "No, I-"
-    c "Hayır, ben-"
-
-# game/episode008_conversations.rpy:375
-translate turkish ep008_eva_talk_db706fd2:
-
-    # l "Don't lie to me!"
-    l "Bana yalan söyleme!"
-
-# game/episode008_conversations.rpy:376
-translate turkish ep008_eva_talk_eba0f63a:
-
-    # "By then, tears rimmed her eyes, fighting to replace her unleashed rage."
-    "O zamana kadar gözyaşları gözlerini çevreledi, serbest öfkesini değiştirmek için savaştı."
-
-# game/episode008_conversations.rpy:377
-translate turkish ep008_eva_talk_ab89619a:
-
-    # l "Why do you want to be with her and not me?!"
-    l "Neden onunla olmak istiyorsun, benimle değil?!"
-
-# game/episode008_conversations.rpy:378
-translate turkish ep008_eva_talk_a41be52b:
-
-    # c "It isn't like th-"
-    c "Bu gibi değil-"
-
-# game/episode008_conversations.rpy:380
-translate turkish ep008_eva_talk_68a53e43:
-
-    # l "Don't you love me?"
-    l "Beni sevmiyor musun?"
-
-# game/episode008_conversations.rpy:382
-translate turkish ep008_eva_talk_ce6a2c14:
-
-    # "While I was struggling to come up with a response, she advanced on me and pushed herself against me."
-    "Ben bir yanıt almak için mücadele ederken, bana ilerledi ve kendini bana karşı itti."
-
-# game/episode008_conversations.rpy:383
-translate turkish ep008_eva_talk_005f18df:
-
-    # "We were in quite an awkward position."
-    "Oldukça garip bir konumdaydık."
-
-# game/episode008_conversations.rpy:384
-translate turkish ep008_eva_talk_2f114776:
-
-    # l "I love you, [p_name_short]."
-    l "Seni seviyorum, [p_name_short]."
-
-# game/episode008_conversations.rpy:385
-translate turkish ep008_eva_talk_5c2c6408:
-
-    # l "I always have."
-    l "Her zaman var."
-
-# game/episode008_conversations.rpy:386
-translate turkish ep008_eva_talk_8179b31a:
-
-    # l "I love you."
-    l "Seni seviyorum."
-
-# game/episode008_conversations.rpy:387
-translate turkish ep008_eva_talk_8de9cac4:
-
-    # "Her last statement was almost a plea."
-    "Son ifadesi neredeyse bir itirazdı."
-
-# game/episode008_conversations.rpy:388
-translate turkish ep008_eva_talk_21616114:
-
-    # "Lilly looked up at me, meeting my eyes."
-    "Lilly bana baktı, gözlerimle buluştu."
-
-# game/episode008_conversations.rpy:390
-translate turkish ep008_eva_talk_3c5c3f25:
-
-    # "Her mouth sought mine and she suddenly kissed me."
-    "Ağzı benimkini aradı ve aniden beni öptü."
-
-# game/episode008_conversations.rpy:395
-translate turkish ep008_eva_talk_9a144844:
-
-    # "The feelings that were awakened after the kiss I'd shared with Lilly on the research station burst into my mind again."
-    "Araştırma istasyonunda Lilly ile paylaştığım öpücükten sonra uyanan duygular tekrar aklıma geldi."
-
-# game/episode008_conversations.rpy:397
-translate turkish ep008_eva_talk_31008480:
-
-    # "My feelings for Lilly were undeniable and burst into my mind with overwhelming intensity."
-    "Lilly için duygularım inkar edilemezdi ve ezici bir yoğunlukla aklıma geldi."
-
-# game/episode008_conversations.rpy:399
-translate turkish ep008_eva_talk_6beadf4a:
-
-    # "I kissed her back without reservations."
-    "Rezervasyon yapmadan onu öptüm."
-
-# game/episode008_conversations.rpy:401
-translate turkish ep008_eva_talk_678b98a8:
-
-    # "Feeling the wrongness of what we were about to do, I tried to push Lilly back."
-    "Yapacağımız şeyin yanlışlığını hissederek Lilly'yi geri itmeye çalıştım."
-
-# game/episode008_conversations.rpy:402
-translate turkish ep008_eva_talk_36a3b2ac:
-
-    # "She held onto me with such strength, I was afraid I'd harm her if I pushed her away more violently."
-    "Bana böyle bir güçle tuttu, onu daha şiddetli bir şekilde itersem ona zarar vereceğimden korkuyordum."
-
-# game/episode008_conversations.rpy:403
-translate turkish ep008_eva_talk_ff742714:
-
-    # "Lilly ignored my struggles and covered my lips with kisses, despite never finding reciprocation."
-    "Lilly mücadelelerimi görmezden geldi ve asla karşılıklı bulmasına rağmen dudaklarımı öpücüklerle kapladı."
-
-# game/episode008_conversations.rpy:405
-translate turkish ep008_eva_talk_82beb61b:
-
-    # "Just at that moment, Eva arrived on the scene, carrying a picnic basket."
-    "Tam o anda Eva, bir piknik sepeti taşıyarak olay yerine geldi."
-
-# game/episode008_conversations.rpy:407
-translate turkish ep008_eva_talk_51eae7f1:
-
-    # "Aghast, she dropped the basket and backed away."
-    "Aghast, sepeti düşürdü ve geri çekildi."
-
-# game/episode008_conversations.rpy:409
-translate turkish ep008_eva_talk_1d153adc:
-
-    # "When Lilly and I became aware of her, she'd already ran back towards the mansion, evidently distraught."
-    "Lilly ve ben onun farkına vardığımızda, zaten perişan, açıklıkla perişan olarak geri koşmuştu."
-
-# game/episode008_conversations.rpy:410
-translate turkish ep008_eva_talk_4e725f66:
-
-    # c "Eva?!"
-    c "Eva?!"
-
-# game/episode008_conversations.rpy:412
-translate turkish ep008_eva_talk_efcacde0:
-
-    # l "Let her run."
-    l "Bırak koşmasına izin ver."
-
-# game/episode008_conversations.rpy:413
-translate turkish ep008_eva_talk_5bcdc724:
-
-    # l "Just stay with me."
-    l "Sadece benimle kal."
-
-# game/episode008_conversations.rpy:414
-translate turkish ep008_eva_talk_458d82d6:
-
-    # "Lilly took my arm in a painful grip, but I wrenched free."
-    "Lilly kolumu acı verici bir kavrayışla aldı, ama serbest kaldım."
-
-# game/episode008_conversations.rpy:420
-translate turkish ep008_eva_talk_cd36235d:
-
-    # "I bolted before Lilly could respond and ran in the direction Eva had gone."
-    "Lilly cevap vermeden önce cıvatalandım ve Eva'nın gittiği yönde koştu."
-
-# game/episode008_conversations.rpy:421
-translate turkish ep008_eva_talk_5c511fc0:
-
-    # "She had a good head start, so when I reached the outskirts of the forest she'd already entered the mansion."
-    "İyi bir başlangıcı vardı, bu yüzden ormanın eteklerine ulaştığımda konaktan zaten girmişti."
-
-# game/episode008_conversations.rpy:422
-translate turkish ep008_eva_talk_6910cf34:
-
-    # "As I entered the building I heard one of the doors upstairs slam shut."
-    "Binaya girerken üst kattaki kapılardan birini duydum."
-
-# game/episode008_conversations.rpy:424
-translate turkish ep008_eva_talk_504fca27:
-
-    # "Hastily I ran up the stairs and paused before Eva's bedroom door."
-    "Aceleyle merdivenlerden yukarı çıktım ve Eva'nın yatak odası kapısından önce durakladım."
-
-# game/episode008_conversations.rpy:431
-translate turkish ep008_eva_talk_5c46fc8b:
-
-    # "Disgusted at what just happened, I pulled out of the simulation."
-    "Yeni olana tiksinti, simülasyondan çekildim."
-
-# game/episode008_conversations.rpy:432
-translate turkish ep008_eva_talk_21406c92:
-
-    # "My changes to Lilly's psych profile had clearly fucked things up majorly."
-    "Lilly'nin psişik profilindeki değişikliklerim bir şeyleri büyük ölçüde becermişti."
-
-# game/episode008_conversations.rpy:433
-translate turkish ep008_eva_talk_7a90a67c:
-
-    # "The thought of reverting the profile to its prior state crossed my mind, but then it hit me that I had no way of knowing what the consequences of that would be."
-    "Profili önceki durumuna geri döndürme düşüncesi aklımı geçti, ama sonra bunun sonuçlarının ne olacağını bilmenin hiçbir yolu olmadığı için bana vurdu."
-
-# game/episode008_conversations.rpy:434
-translate turkish ep008_eva_talk_62498a08:
-
-    # "Considering what just happened, how would Lilly react when she was her old self?"
-    "Ne olduğunu düşünürsek, Lilly eski benliği iken nasıl tepki verirdi?"
-
-# game/episode008_conversations.rpy:435
-translate turkish ep008_eva_talk_f39bf988:
-
-    # "The damage to Eva's trust was another thing I didn't know how to fix."
-    "Eva'nın güvenine verilen hasar, nasıl düzeltileceğini bilmediğim başka bir şeydi."
-
-# game/episode008_conversations.rpy:441
-translate turkish ep008_eva_talk_33de1bef:
-
-    # "Right then and there, I made a difficult decision, this couldn't continue."
-    "Tam o sırada zor bir karar verdim, bu devam edemedi."
-
-# game/episode008_conversations.rpy:443
-translate turkish ep008_eva_talk_c8aebec1:
-
-    # "Digging into the simulation's settings I found the controls to erase everything."
-    "Simülasyonun ayarlarına girerken, her şeyi silmek için kontrolleri buldum."
-
-# game/episode008_conversations.rpy:445
-translate turkish ep008_eva_talk_5761670b:
-
-    # "Initiating all this had brought me nothing but stress and the simulated versions of my sisters weren't happy either."
-    "Tüm bunları başlatmak bana stresden başka bir şey getirmemişti ve kız kardeşlerimin simüle versiyonları da mutlu değildi."
-
-# game/episode008_conversations.rpy:447
-translate turkish ep008_eva_talk_6f3e998f:
-
-    # "Initiating all this had brought me nothing but stress and the simulated versions of my friends weren't happy either."
-    "Tüm bunları başlatmak bana stresden başka bir şey getirmemişti ve arkadaşlarımın simüle versiyonları da mutlu değildi."
-
-# game/episode008_conversations.rpy:448
-translate turkish ep008_eva_talk_cb973884:
-
-    # "Steeling myself, I hit the delete button and watched the simulation initiate a full system wipe."
-    "Kendimi çelik olarak, Sil düğmesine bastım ve simülasyonun tam bir sistem silme işlemini başlattığını izledim."
-
-# game/episode008_conversations.rpy:449
-translate turkish ep008_eva_talk_942f0d6c:
-
-    # "It took a while for it to complete, but then the system was blank again."
-    "Tamamlanması biraz zaman aldı, ancak sistem tekrar boştu."
-
-# game/episode008_conversations.rpy:451
-translate turkish ep008_eva_talk_76ee115a:
-
-    # "I didn't know what to feel when I left the simulation room and when I got back to my quarters a numb sleep soon overtook me."
-    "Simülasyon odasından ayrıldığımda ne hissedeceğimi bilmiyordum ve mahallelerime döndüğümde yakında uyuşmuş bir uyku beni geçti."
-
-# game/episode008_conversations.rpy:457
-translate turkish ep008_eva_talk_cb9413b0:
-
-    # "Right then and there, I made a difficult decision."
-    "Tam o sırada zor bir karar verdim."
-
-# game/episode008_conversations.rpy:458
-translate turkish ep008_eva_talk_ae47c43e:
-
-    # "The simulation had an option to wipe the entire system."
-    "Simülasyonun tüm sistemi silme seçeneği vardı."
-
-# game/episode008_conversations.rpy:459
-translate turkish ep008_eva_talk_c864b528:
-
-    # "Although Eva and Lilly were digital copies in that simulation, I couldn't bear wiping out their existence."
-    "Eva ve Lilly bu simülasyonda dijital kopyalar olmasına rağmen, varlıklarını yok etmeye dayanamadım."
-
-# game/episode008_conversations.rpy:460
-translate turkish ep008_eva_talk_b0fd3b89:
-
-    # "Neither could I go back into the viper's nest the simulation had become."
-    "Ben de simülasyonun engüsünün yuvasına geri dönemedim."
-
-# game/episode008_conversations.rpy:461
-translate turkish ep008_eva_talk_fb4b3151:
-
-    # "So I took the coward's way out and put the system on standby."
-    "Bu yüzden korkak yolunu çıkardım ve sistemi beklemeye koydum."
-
-# game/episode008_conversations.rpy:463
-translate turkish ep008_eva_talk_76ee115a_1:
-
-    # "I didn't know what to feel when I left the simulation room and when I got back to my quarters a numb sleep soon overtook me."
-    "Simülasyon odasından ayrıldığımda ne hissedeceğimi bilmiyordum ve mahallelerime döndüğümde yakında uyuşmuş bir uyku beni geçti."
-
-# game/episode008_conversations.rpy:465
-translate turkish ep008_eva_talk_5bd47bc8:
-
-    # "A pang of regret, suddenly coursed through me."
-    "Bir aniden içimde pişirilmiş bir pişmanlık."
-
-# game/episode008_conversations.rpy:466
-translate turkish ep008_eva_talk_75d11133:
-
-    # "The whole mess in the simulation was of my own creation, so I needed to take action and resolve it."
-    "Simülasyondaki tüm karmaşa kendi yaratımımdı, bu yüzden harekete geçmem ve çözmem gerekiyordu."
-
-# game/episode008_conversations.rpy:467
-translate turkish ep008_eva_talk_adae1e6e:
-
-    # "Resolved, I went back into the simulation in search of Eva."
-    "Çözüldü, EVA arayışında simülasyona geri döndüm."
-
-# game/episode008_conversations.rpy:469
-translate turkish ep008_eva_talk_5611ee7b:
-
-    # "Again, I found myself in the clearing, but Lilly was nowhere in sight."
-    "Yine kendimi açıklıkta buldum, ama Lilly hiçbir yerde görünmüyordu."
-
-# game/episode008_conversations.rpy:470
-translate turkish ep008_eva_talk_6ae6eba1:
-
-    # "With lead-filled shoes I made my way out of the forest and back to the mansion."
-    "Kurşun dolu ayakkabılarla ormandan çıkıp konağa geri döndüm."
-
-# game/episode008_conversations.rpy:471
-translate turkish ep008_eva_talk_1d532b83:
-
-    # "Eva was nowhere to be found on the ground floor of the house."
-    "Eva, evin zemin katında bulunacak hiçbir yer değildi."
-
-# game/episode008_conversations.rpy:473
-translate turkish ep008_eva_talk_aaa1bc78:
-
-    # "I walked up the stairs and paused before Eva's bedroom door."
-    "Merdivenlerden yukarı çıktım ve Eva'nın yatak odası kapısından önce durakladım."
-
-# game/episode008_conversations.rpy:483
-translate turkish ep008_simulation_room_b3e5f9d5:
-
-    # c "Eva?"
-    c "Eva?"
-
-# game/episode008_conversations.rpy:484
-translate turkish ep008_simulation_room_1756dfb5:
-
-    # c "Can I come in?"
-    c "Girebilir miyim?"
-
-# game/episode008_conversations.rpy:485
-translate turkish ep008_simulation_room_0c848c2e:
-
-    # "She didn't respond."
-    "Cevap vermedi."
-
-# game/episode008_conversations.rpy:489
-translate turkish ep008_simulation_room_d2322e5a:
-
-    # "Resolved, I pushed open the door."
-    "Çözüldü, kapıyı açtım."
-
-# game/episode008_conversations.rpy:491
-translate turkish ep008_simulation_room_0eaf6b80:
-
-    # "Eva was lying on her bed, facing the wall and crying silently."
-    "Eva yatağında yatıyordu, duvara bakıyordu ve sessizce ağlıyordu."
-
-# game/episode008_conversations.rpy:493
-translate turkish ep008_simulation_room_f4bf0124:
-
-    # "She didn't react to my presence, even when I sat down next to her on the bed."
-    "Yatakta yanında oturduğumda bile varlığıma tepki vermedi."
-
-# game/episode008_conversations.rpy:494
-translate turkish ep008_simulation_room_4169aa55:
-
-    # c "Eva, I just want to talk."
-    c "Eva, sadece konuşmak istiyorum."
-
-# game/episode008_conversations.rpy:495
-translate turkish ep008_simulation_room_1c79dccf:
-
-    # c "What you just saw in the forest...{w} I didn't want that."
-    c "Ormanda az önce gördükleriniz ...{w} Bunu istemedim."
-
-# game/episode008_conversations.rpy:496
-translate turkish ep008_simulation_room_1f8ee943:
-
-    # c "Lilly has been acting weird around me and she just threw herself at me."
-    c "Lilly etrafımda garip davranıyor ve sadece bana attı."
-
-# game/episode008_conversations.rpy:498
-translate turkish ep008_simulation_room_0d3aa968:
-
-    # "I dared to touch her shoulder."
-    "Omzuna dokunmaya cesaret ettim."
-
-# game/episode008_conversations.rpy:499
-translate turkish ep008_simulation_room_d8ad0600:
-
-    # "Eva flinched at first, but didn't pull away."
-    "Eva ilk başta kaçtı, ama çekilmedi."
-
-# game/episode008_conversations.rpy:500
-translate turkish ep008_simulation_room_4027f998:
-
-    # "Instead she turned to face me."
-    "Bunun yerine benimle yüzleşmek için döndü."
-
-# game/episode008_conversations.rpy:501
-translate turkish ep008_simulation_room_70c82741:
-
-    # "I expected to find shocked revulsion, but instead she only looked at me in anguish."
-    "Şok tiksinti bulmayı bekliyordum, ama bunun yerine bana sadece acı içinde baktı."
-
-# game/episode008_conversations.rpy:503
-translate turkish ep008_simulation_room_8f0624ad:
-
-    # e "Why her?!"
-    e "Neden o?!"
-
-# game/episode008_conversations.rpy:504
-translate turkish ep008_simulation_room_389ff477:
-
-    # "That wasn't really the question I was expecting."
-    "Bu gerçekten beklediğim soru değildi."
-
-# game/episode008_conversations.rpy:506
-translate turkish ep008_simulation_room_0643fb58:
-
-    # c "I love Lilly like a sister, nothing more."
-    c "Lilly'yi bir kız kardeş gibi seviyorum, başka bir şey yok."
-
-# game/episode008_conversations.rpy:508
-translate turkish ep008_simulation_room_475746e2:
-
-    # c "I love Lilly like a friend, nothing more."
-    c "Lilly'yi bir arkadaş gibi seviyorum, başka bir şey yok."
-
-# game/episode008_conversations.rpy:509
-translate turkish ep008_simulation_room_ffdb747f:
-
-    # c "What she did today shocked me just as much as you."
-    c "Bugün yaptığı şey beni senin kadar şok etti."
-
-# game/episode008_conversations.rpy:510
-translate turkish ep008_simulation_room_8cdd421b:
-
-    # "Eva looked at me, her lip trembling."
-    "Eva bana baktı, dudağı titriyordu."
-
-# game/episode008_conversations.rpy:511
-translate turkish ep008_simulation_room_2b546472:
-
-    # e "So you think it's wrong, what she did?"
-    e "Yani bunun yanlış olduğunu düşünüyorsun, ne yaptı?"
-
-# game/episode008_conversations.rpy:512
-translate turkish ep008_simulation_room_26eefe0a:
-
-    # c "Yes."
     c "Evet."
 
-# game/episode008_conversations.rpy:513
+
+translate turkish ep008_eva_talk_aa752ce1:
+
+
+    c "Daha önce seni bulmaya gelmiştim ama-"
+
+
+translate turkish ep008_eva_talk_bd1661fc:
+
+
+    e "Biliyorum."
+
+
+translate turkish ep008_eva_talk_0b4d1905:
+
+
+    e "Aylarca veda bile etmeden gittin, bununla başa çıkamadım."
+
+
+translate turkish ep008_eva_talk_723670b1:
+
+
+    c "Birlikte biraz vakit geçirmek ister misin diye düşünüyordum."
+
+
+translate turkish ep008_eva_talk_a678692c:
+
+
+    e "Tabii ki isterim."
+
+
+translate turkish ep008_eva_talk_d8679691:
+
+
+    l "Hey, ben buradayım?!"
+
+
+translate turkish ep008_eva_talk_8e870b01:
+
+
+    l "Az önce birlikte yürüyüşe çıkacağımıza söz verdin, sadece sen ve ben."
+
+
+translate turkish ep008_eva_talk_a636e731:
+
+
+    c "Hayır, vermedim."
+
+
+translate turkish ep008_eva_talk_6a67a40b:
+
+
+    c "Eva, bize katılır mısın?"
+
+
+translate turkish ep008_eva_talk_2e84d8e2:
+
+
+    e "Memnuniyetle."
+
+
+translate turkish ep008_eva_talk_ed9aefda:
+
+
+    "Lilly göz ucuyla baktı ama şaşırtıcı bir şekilde öfkesinin çoğu Eva'ya yönelikti."
+
+
+translate turkish ep008_eva_talk_484d0f21:
+
+
+    "Bahçeye doğru yola koyulduk, Lilly kötü bir ruh haliyle arkamızdan geliyordu."
+
+
+translate turkish ep008_eva_talk_039c3394:
+
+
+    c "Bak Eva, seni öyle bırakmamalıydım."
+
+
+translate turkish ep008_eva_talk_1933729f:
+
+
+    c "Aniden ortadan kaybolmam senin için korkunç olmalı."
+
+
+translate turkish ep008_eva_talk_eea66b6e:
+
+
+    c "Durumu kontrol edemedim, sana mesaj göndermenin bir yolu yoktu ama yine de özür dilerim."
+
+
+translate turkish ep008_eva_talk_5587fd67:
+
+
+    e "Teşekkür ederim, [p_name_short]."
+
+
+translate turkish ep008_eva_talk_1dade95c:
+
+
+    e "Çok endişelenmiştim ama Lilly bana destek oldu."
+
+
+translate turkish ep008_eva_talk_15455bae:
+
+
+    e "Sonunda ziyarete geldiğinde seni duydum."
+
+
+translate turkish ep008_eva_talk_b17caabe:
+
+
+    e "O zaman sana kızgındım, sanki hiçbir şey olmamış gibi geri dönmüştün."
+
+
+translate turkish ep008_eva_talk_822eeae6:
+
+
+    e "Sonunda seninle yüzleşecek cesareti bulduğumda, Lilly çoktan duruma el koymuştu."
+
+
+translate turkish ep008_eva_talk_985d1d63:
+
+
+    e "Bu yüzden seni göndermesine izin verdiğim için özür dilerim, gerçekten hayatımdan çıkmanı istemiyorum."
+
+
+translate turkish ep008_eva_talk_ac2bea30:
+
+
+    c "Ben de istemiyorum."
+
+
+translate turkish ep008_eva_talk_a9b58ead:
+
+
+    e "Geri döndün..."
+
+
+translate turkish ep008_eva_talk_ca9570cc:
+
+
+    c "Biraz şaşırmış gibisin."
+
+
+translate turkish ep008_eva_talk_a7069ad0:
+
+
+    e "Beni suçlayabilir misin?"
+
+
+translate turkish ep008_eva_talk_bbee7c1a:
+
+
+    c "Sanırım suçlayamam."
+
+
+translate turkish ep008_eva_talk_3fbe77c8:
+
+
+    c "Sadece şunu bil ki, tüm bu aylar boyunca yokluğum üzerinde hiçbir kontrolüm yoktu."
+
+
+translate turkish ep008_eva_talk_0d046334:
+
+
+    c "Sana bir mesaj bile gönderemezdim."
+
+
+translate turkish ep008_eva_talk_9ec10ae1:
+
+
+    e "Denedin mi?"
+
+
+translate turkish ep008_eva_talk_fb12cde9:
+
+
+    c "Çok karmaşık olduğunu anlamalısın, ama mümkün olan en kısa sürede sana dönmek için elimden gelen her şeyi yaptım."
+
+
+translate turkish ep008_eva_talk_2db71c36:
+
+
+    e "Birkaç ay sonra..."
+
+
+translate turkish ep008_eva_talk_d78dc6ef:
+
+
+    c "Birkaç ay sonra."
+
+
+translate turkish ep008_eva_talk_1a6d04a4:
+
+
+    c "Sana daha önce açıklamak istedim ama-"
+
+
+translate turkish ep008_eva_talk_e3a58387:
+
+
+    e "Ama seni görmek istemedim."
+
+
+translate turkish ep008_eva_talk_3ebd7dee:
+
+
+    c "Lilly bana açıkça söyledi."
+
+
+translate turkish ep008_eva_talk_9e3681a1:
+
+
+    e "Dürüst olmak gerekirse, o anla gurur duymuyorum."
+
+
+translate turkish ep008_eva_talk_b17caabe_1:
+
+
+    e "O zaman sana kızgındım, hiçbir şey olmamış gibi geri döndün."
+
+
+translate turkish ep008_eva_talk_822eeae6_1:
+
+
+    e "Sonunda seninle yüzleşme cesaretini topladığımda, Lilly çoktan işi kendi eline almıştı."
+
+
+translate turkish ep008_eva_talk_f5f9bfb4:
+
+
+    e "Son birkaç aydır gerçekten yanımdaydı."
+
+
+translate turkish ep008_eva_talk_d480f87a:
+
+
+    c "Bunu duyduğuma sevindim."
+
+
+translate turkish ep008_eva_talk_803c2ebf:
+
+
+    l "Siz ikiniz ne konuşuyorsunuz?"
+
+
+translate turkish ep008_eva_talk_527d5a27:
+
+
+    "Lilly açıkça kırık ruh halinden kurtulmuş ve sahiplenici bir şekilde diğer kolumu tuttu."
+
+
+translate turkish ep008_eva_talk_ef538d63:
+
+
+    l "Buraya her geldiğimde, sahip olduğumuz onca şeye hayret ediyorum."
+
+
+translate turkish ep008_eva_talk_72415ab1:
+
+
+    e "Sanırım malikânede hiç keşfetmediğim yerler var."
+
+
+translate turkish ep008_eva_talk_90c4aa54:
+
+
+    c "Babamın gösterişli bir toprak sahibi beyefendi olarak ününü korumak zorunda."
+
+
+translate turkish ep008_eva_talk_63cad487:
+
+
+    l "Kesinlikle şimdilerde, biz küçükken olduğundan daha az ilgili görünüyor."
+
+
+translate turkish ep008_eva_talk_3505fb66:
+
+
+    c "Babamın gösterişli bir toprak sahibi beyefendi olarak ününü korumak zorunda."
+
+
+translate turkish ep008_eva_talk_ccd866df:
+
+
+    e "Çocuklar?!"
+
+
+translate turkish ep008_eva_talk_5fc898b1:
+
+
+    e "Burası piknik için mükemmel bir yer değil mi?"
+
+
+translate turkish ep008_eva_talk_3f172346:
+
+
+    l "Kesinlikle öyle, tek üzücü olan yanımızda bir şey getirmemiş olmamız."
+
+
+translate turkish ep008_eva_talk_6dd00e73:
+
+
+    e "Önemli değil, geri dönüp mutfağı yağmalayacağım."
+
+
+translate turkish ep008_eva_talk_ba8b3db9:
+
+
+    c "Seninle gelmemi ister misin?"
+
+
+translate turkish ep008_eva_talk_b68fda56:
+
+
+    e "Hayır, hemen döneceğim."
+
+
+translate turkish ep008_eva_talk_9198bc72:
+
+
+    "Gerçekten peşinden gitmek istedim ama Eva açıklıktan ayrılırken Lilly beni yere çekti."
+
+
+translate turkish ep008_eva_talk_5b960d64:
+
+
+    l "Güzel, şimdi tamamen bana kaldın."
+
+
+translate turkish ep008_eva_talk_ca4c8ebe:
+
+
+    "Kız kardeşim bana çok yakın oturdu, omzu benimkine değiyordu."
+
+
+translate turkish ep008_eva_talk_b956f86f:
+
+
+    "Arkadaşım bana çok yakın oturdu, omzu benimkine değiyordu."
+
+
+translate turkish ep008_eva_talk_0d98f15b:
+
+
+    "Tüm bu sahne, araştırma istasyonundaki hücremizde gerçek Lilly ile paylaştığım anların anılarını canlandırdı."
+
+
+translate turkish ep008_eva_talk_bbd21317:
+
+
+    "Bu durumda, kısmen davranış değişikliğinin bu kadar ani olması ve benim yaptığım bir şey olması nedeniyle biraz rahatsız oldum."
+
+
+translate turkish ep008_eva_talk_fba75cb1:
+
+
+    "Sanal Lilly'nin psikolojik profilini değiştirme kararıma sessizce lanet ederek onunla oturdum."
+
+
+translate turkish ep008_eva_talk_d3091233:
+
+
+    "Çayırlara bakarak orada uzun dakikalar boyunca oturduk."
+
+
+translate turkish ep008_eva_talk_66282f9b:
+
+
+    l "Neden bu kadar dalgınsın?"
+
+
+translate turkish ep008_eva_talk_e110a90f:
+
+
+    c "Dalgın, ben-"
+
+
+translate turkish ep008_eva_talk_b4d7f180:
+
+
+    l "İnkar etme."
+
+
+translate turkish ep008_eva_talk_cac486ec:
+
+
+    c "Sadece bazı şeyleri düşünüyordum."
+
+
+translate turkish ep008_eva_talk_a165a6db:
+
+
+    l "'Bazı şeyleri düşünüyordum', daha da belirsiz olamazdın!"
+
+
+translate turkish ep008_eva_talk_c7fa39e2:
+
+
+    l "Onu düşünüyorsun, değil mi?"
+
+
+translate turkish ep008_eva_talk_a367db62:
+
+
+    l "Eva ile gitmeyi tercih ederdin."
+
+
+translate turkish ep008_eva_talk_f26d8121:
+
+
+    l "Siktiğimin piknik sepetini hazırlamak için!"
+
+
+translate turkish ep008_eva_talk_534a9821:
+
+
+    c "Evet, öyle yapardım."
+
+
+translate turkish ep008_eva_talk_85cd6b8e:
+
+
+    l "Bu hiç adil değil!"
+
+
+translate turkish ep008_eva_talk_896843ff:
+
+
+    c "Hayır, ben-"
+
+
+translate turkish ep008_eva_talk_db706fd2:
+
+
+    l "Bana yalan söyleme!"
+
+
+translate turkish ep008_eva_talk_eba0f63a:
+
+
+    "O sırada, gözlerinde yaşlar birikti, kontrolsüz öfkesinin yerini almak için savaşıyordu."
+
+
+translate turkish ep008_eva_talk_ab89619a:
+
+
+    l "Neden onunla olmak istiyorsun da benimle değil?!"
+
+
+translate turkish ep008_eva_talk_a41be52b:
+
+
+    c "Bu öyle değ-"
+
+
+translate turkish ep008_eva_talk_68a53e43:
+
+
+    l "Beni sevmiyor musun?"
+
+
+translate turkish ep008_eva_talk_ce6a2c14:
+
+
+    "Ben bir cevap bulmaya çalışırken, o üzerime geldi ve kendini bana doğru itti."
+
+
+translate turkish ep008_eva_talk_005f18df:
+
+
+    "Oldukça garip bir pozisyondaydık."
+
+
+translate turkish ep008_eva_talk_2f114776:
+
+
+    l "Seni seviyorum, [p_name_short]."
+
+
+translate turkish ep008_eva_talk_5c2c6408:
+
+
+    l "Her zaman sevdim."
+
+
+translate turkish ep008_eva_talk_8179b31a:
+
+
+    l "Seni seviyorum."
+
+
+translate turkish ep008_eva_talk_8de9cac4:
+
+
+    "Son sözleri neredeyse bir yakarıştı."
+
+
+translate turkish ep008_eva_talk_21616114:
+
+
+    "Lilly bana baktı, gözlerimle buluştu."
+
+
+translate turkish ep008_eva_talk_3c5c3f25:
+
+
+    "Dudakları benimkileri aradı ve aniden beni öptü."
+
+
+translate turkish ep008_eva_talk_9a144844:
+
+
+    "Araştırma istasyonunda Lilly ile paylaştığım öpücükten sonra uyanan duygular tekrar aklıma geldi."
+
+
+translate turkish ep008_eva_talk_31008480:
+
+
+    "Lilly'ye olan hislerim yadsınamazdı ve ezici bir yoğunlukla zihnimde patladı."
+
+
+translate turkish ep008_eva_talk_6beadf4a:
+
+
+    "Ben de hiç tereddüt etmeden onu öptüm."
+
+
+translate turkish ep008_eva_talk_678b98a8:
+
+
+    "Yapmak üzere olduğumuz şeyin yanlışlığını hissederek Lilly'yi geri itmeye çalıştım."
+
+
+translate turkish ep008_eva_talk_36a3b2ac:
+
+
+    "Bana öyle bir güçle tutundu ki, daha sert itseydim ona zarar vereceğimden korktum."
+
+
+translate turkish ep008_eva_talk_ff742714:
+
+
+    "Lilly mücadelemi görmezden geldi ve karşılık bulamasa da dudaklarımı öpücüklere boğdu."
+
+
+translate turkish ep008_eva_talk_82beb61b:
+
+
+    "Tam o anda Eva elinde piknik sepetiyle sahneye geldi."
+
+
+translate turkish ep008_eva_talk_51eae7f1:
+
+
+    "Dehşete düşmüş bir halde sepeti düşürdü ve geri çekildi."
+
+
+translate turkish ep008_eva_talk_1d153adc:
+
+
+    "Lilly ve ben onun farkına vardığımızda, belli ki perişan bir halde çoktan malikâneye doğru koşmaya başlamıştı."
+
+
+translate turkish ep008_eva_talk_4e725f66:
+
+
+    c "Eva?!"
+
+
+translate turkish ep008_eva_talk_efcacde0:
+
+
+    l "Bırak koşsun."
+
+
+translate turkish ep008_eva_talk_5bcdc724:
+
+
+    l "Sadece benimle kal."
+
+
+translate turkish ep008_eva_talk_458d82d6:
+
+
+    "Lilly kolumu acı verecek şekilde kavradı ama kendimi kurtardım."
+
+
+translate turkish ep008_eva_talk_cd36235d:
+
+
+    "Lilly tepki veremeden fırladım ve Eva'nın gittiği yöne doğru koştum."
+
+
+translate turkish ep008_eva_talk_5c511fc0:
+
+
+    "İyi bir avantajla başlamıştı, ben ormanın kıyısına vardığımda o çoktan malikâneye girmişti."
+
+
+translate turkish ep008_eva_talk_6910cf34:
+
+
+    "Binaya girdiğimde yukarıdaki kapılardan birinin çarparak kapandığını duydum."
+
+
+translate turkish ep008_eva_talk_504fca27:
+
+
+    "Aceleyle merdivenleri çıktım ve Eva'nın yatak odası kapısının önünde durdum."
+
+
+translate turkish ep008_eva_talk_5c46fc8b:
+
+
+    "Az önce olanlardan tiksinmiş bir halde, simülasyondan çıktım."
+
+
+translate turkish ep008_eva_talk_21406c92:
+
+
+    "Lilly'nin psikolojik profilinde yaptığım değişiklikler açıkça her şeyi berbat etmişti."
+
+
+translate turkish ep008_eva_talk_7a90a67c:
+
+
+    "Profili eski haline döndürme düşüncesi aklımdan geçti, ama sonra bunun sonuçlarının ne olacağını bilmenin hiçbir yolu olmadığı gerçeği beni vurdu."
+
+
+translate turkish ep008_eva_talk_62498a08:
+
+
+    "Az önce olanları düşününce, Lilly eski haline döndüğünde nasıl tepki verecekti acaba?"
+
+
+translate turkish ep008_eva_talk_f39bf988:
+
+
+    "Eva'nın güveninin zedelenmesini nasıl düzelteceğimi de bilmiyordum."
+
+
+translate turkish ep008_eva_talk_33de1bef:
+
+
+    "O anda zor bir karar verdim, bu böyle devam edemezdi."
+
+
+translate turkish ep008_eva_talk_c8aebec1:
+
+
+    "Simülasyon ayarlarını kurcalayarak her şeyi silmek için gereken kontrolleri buldum."
+
+
+translate turkish ep008_eva_talk_5761670b:
+
+
+    "Bütün bunları başlatmak bana stresten başka bir şey getirmemişti ve kız kardeşlerimin simüle edilmiş versiyonları da mutlu değildi."
+
+
+translate turkish ep008_eva_talk_6f3e998f:
+
+
+    "Bütün bunları başlatmak bana stresten başka bir şey getirmemişti ve arkadaşlarımın simüle edilmiş versiyonları da mutlu değildi."
+
+
+translate turkish ep008_eva_talk_cb973884:
+
+
+    "Kendimi hazırlayıp silme tuşuna bastım ve simülasyonun tam sistem temizliğini başlatmasını izledim."
+
+
+translate turkish ep008_eva_talk_942f0d6c:
+
+
+    "Tamamlanması biraz zaman aldı ama sonunda sistem yeniden boş hale geldi."
+
+
+translate turkish ep008_eva_talk_76ee115a:
+
+
+    "Simülasyon odasından çıktığımda ne hissedeceğimi bilemedim ve odama döndüğümde hissiz bir uyku beni ele geçirdi."
+
+
+translate turkish ep008_eva_talk_cb9413b0:
+
+
+    "O anda zor bir karar verdim."
+
+
+translate turkish ep008_eva_talk_ae47c43e:
+
+
+    "Simülasyonda tüm sistemi silme seçeneği vardı."
+
+
+translate turkish ep008_eva_talk_c864b528:
+
+
+    "Eva ve Lilly o simülasyonda dijital kopyalar olsa da, varlıklarını silmeye dayanamadım."
+
+
+translate turkish ep008_eva_talk_b0fd3b89:
+
+
+    "Simülasyonun dönüştüğü yılan yuvasına da geri dönemezdim."
+
+
+translate turkish ep008_eva_talk_fb4b3151:
+
+
+    "Bu yüzden korkakça bir çıkış yolu seçtim ve sistemi beklemeye aldım."
+
+
+translate turkish ep008_eva_talk_76ee115a_1:
+
+
+    "Simülasyon odasından çıktığımda ne hissedeceğimi bilemedim ve odama döndüğümde hissiz bir uyku beni ele geçirdi."
+
+
+translate turkish ep008_eva_talk_5bd47bc8:
+
+
+    "Aniden içimden bir pişmanlık dalgası geçti."
+
+
+translate turkish ep008_eva_talk_75d11133:
+
+
+    "Simülasyondaki bütün karmaşa benim eserimdi, bu yüzden harekete geçip çözmem gerekiyordu."
+
+
+translate turkish ep008_eva_talk_adae1e6e:
+
+
+    "Kararlı bir şekilde, Eva'yı aramak için simülasyona geri döndüm."
+
+
+translate turkish ep008_eva_talk_5611ee7b:
+
+
+    "Yine kendimi açıklıkta buldum ama Lilly ortalarda görünmüyordu."
+
+
+translate turkish ep008_eva_talk_6ae6eba1:
+
+
+    "Kurşun dolu ayakkabılarla ormandan çıkıp malikaneye geri döndüm."
+
+
+translate turkish ep008_eva_talk_1d532b83:
+
+
+    "Eva evin alt katında hiçbir yerde görünmüyordu."
+
+
+translate turkish ep008_eva_talk_aaa1bc78:
+
+
+    "Merdivenleri çıktım ve Eva'nın yatak odasının kapısının önünde durdum."
+
+
+translate turkish ep008_simulation_room_b3e5f9d5:
+
+
+    c "Eva?"
+
+
+translate turkish ep008_simulation_room_1756dfb5:
+
+
+    c "İçeri girebilir miyim?"
+
+
+translate turkish ep008_simulation_room_0c848c2e:
+
+
+    "Cevap vermedi."
+
+
+translate turkish ep008_simulation_room_d2322e5a:
+
+
+    "Kararlı bir şekilde kapıyı ittim."
+
+
+translate turkish ep008_simulation_room_0eaf6b80:
+
+
+    "Eva yatağında yatıyordu, duvara dönük sessizce ağlıyordu."
+
+
+translate turkish ep008_simulation_room_f4bf0124:
+
+
+    "Yatakta yanına oturduğumda bile varlığıma tepki vermedi."
+
+
+translate turkish ep008_simulation_room_4169aa55:
+
+
+    c "Eva, sadece konuşmak istiyorum."
+
+
+translate turkish ep008_simulation_room_1c79dccf:
+
+
+    c "Az önce ormanda gördüğün şey...{w} Ben bunu istemedim."
+
+
+translate turkish ep008_simulation_room_1f8ee943:
+
+
+    c "Lilly etrafımda garip davranıyordu ve kendini bana attı."
+
+
+translate turkish ep008_simulation_room_0d3aa968:
+
+
+    "Omzuna dokunmaya cesaret ettim."
+
+
+translate turkish ep008_simulation_room_d8ad0600:
+
+
+    "Eva önce irkildi ama geri çekilmedi."
+
+
+translate turkish ep008_simulation_room_4027f998:
+
+
+    "Bunun yerine bana doğru döndü."
+
+
+translate turkish ep008_simulation_room_70c82741:
+
+
+    "Şok olmuş bir tiksinme bekliyordum ama bunun yerine sadece acı içinde bana baktı."
+
+
+translate turkish ep008_simulation_room_8f0624ad:
+
+
+    e "Neden o?!"
+
+
+translate turkish ep008_simulation_room_389ff477:
+
+
+    "Bu gerçekten beklediğim soru değildi."
+
+
+translate turkish ep008_simulation_room_0643fb58:
+
+
+    c "Lilly'yi bir kız kardeş gibi seviyorum, başka bir şey değil."
+
+
+translate turkish ep008_simulation_room_475746e2:
+
+
+    c "Lilly'yi bir arkadaş gibi seviyorum, başka bir şey değil."
+
+
+translate turkish ep008_simulation_room_ffdb747f:
+
+
+    c "Bugün yaptıkları beni de en az senin kadar şok etti."
+
+
+translate turkish ep008_simulation_room_8cdd421b:
+
+
+    "Eva bana baktı, dudağı titriyordu."
+
+
+translate turkish ep008_simulation_room_2b546472:
+
+
+    e "Yani yaptığının yanlış olduğunu mu düşünüyorsun?"
+
+
+translate turkish ep008_simulation_room_26eefe0a:
+
+
+    c "Evet."
+
+
 translate turkish ep008_simulation_room_06b9bc65:
 
-    # "I answered before I could think about the hidden meaning of Eva's questions and cursed myself for it immediately."
-    "Eva'nın sorularının gizli anlamını düşünmeden önce cevap verdim ve hemen kendimi lanetledim."
 
-# game/episode008_conversations.rpy:515
+    "Eva'nın sorularının gizli anlamını düşünmeden önce cevap verdim ve hemen kendime lanet ettim."
+
+
 translate turkish ep008_simulation_room_19645762:
 
-    # "Eva started to cry again."
-    "Eva tekrar ağlamaya başladı."
 
-# game/episode008_conversations.rpy:516
+    "Eva yeniden ağlamaya başladı."
+
+
 translate turkish ep008_simulation_room_dc1c129a:
 
-    # c "Eva, please, tell me what's the matter?"
-    c "Eva, lütfen bana sorunun ne olduğunu söyle?"
 
-# game/episode008_conversations.rpy:517
+    c "Eva, lütfen, sorun ne söyler misin?"
+
+
 translate turkish ep008_simulation_room_19b1b08f:
 
-    # e "No, no, I can't."
+
     e "Hayır, hayır, yapamam."
 
-# game/episode008_conversations.rpy:518
+
 translate turkish ep008_simulation_room_fe448372:
 
-    # e "You'd think I'm just as terrible as Lilly."
-    e "Lilly kadar korkunç olduğumu düşünürdün."
 
-# game/episode008_conversations.rpy:519
+    e "Benim de Lilly kadar korkunç olduğumu düşünürsün."
+
+
 translate turkish ep008_simulation_room_c01d92f7:
 
-    # c "No, I won't."
-    c "Hayır, yapmayacağım."
 
-# game/episode008_conversations.rpy:520
+    c "Hayır, düşünmem."
+
+
 translate turkish ep008_simulation_room_9969bdad:
 
-    # e "Of course you will."
-    e "Tabii ki yapacaksın."
 
-# game/episode008_conversations.rpy:522
+    e "Tabii ki düşüneceksin."
+
+
 translate turkish ep008_simulation_room_8d229235:
 
-    # e "Any sane person would."
-    e "Herhangi bir aklı başında kişi olurdu."
 
-# game/episode008_conversations.rpy:523
+    e "Aklı başında olan herkes öyle düşünür."
+
+
 translate turkish ep008_simulation_room_907f922b:
 
-    # c "Try me."
-    c "Beni dene."
 
-# game/episode008_conversations.rpy:525
+    c "Dene beni."
+
+
 translate turkish ep008_simulation_room_7a568cc5:
 
-    # "Eva shuddered and averted her gaze from me, looking out of the window for a long time."
-    "Eva, uzun süre pencereden dışarı bakarak bakışlarını benden tuttu ve benden kaçtı."
 
-# game/episode008_conversations.rpy:526
+    "Eva ürperdi ve bakışlarını benden kaçırıp uzun süre pencereden dışarı baktı."
+
+
 translate turkish ep008_simulation_room_b5d34eb1:
 
-    # "She drew a ragged breath and calmed down a little."
-    "Düzenli bir nefes aldı ve biraz sakinleşti."
 
-# game/episode008_conversations.rpy:527
+    "Kesik bir nefes aldı ve biraz sakinleşti."
+
+
 translate turkish ep008_simulation_room_98ab6427:
 
-    # "When she looked at me again she seemed more determined."
+
     "Bana tekrar baktığında daha kararlı görünüyordu."
 
-# game/episode008_conversations.rpy:529
+
 translate turkish ep008_simulation_room_0778e893:
 
-    # e "You've been away a lot."
-    e "Çok uzaktaydın."
 
-# game/episode008_conversations.rpy:530
+    e "Çok uzaklardaydın."
+
+
 translate turkish ep008_simulation_room_97766170:
 
-    # c "I'd like to apologize for that."
-    c "Bunun için özür dilemek istiyorum."
 
-# game/episode008_conversations.rpy:531
+    c "Bunun için özür dilemek isterim."
+
+
 translate turkish ep008_simulation_room_b4cc4fa4:
 
-    # e "No, it isn't a reproach, just stating a fact."
-    e "Hayır, bu bir sitem değil, sadece bir gerçeği ifade ediyor."
 
-# game/episode008_conversations.rpy:532
+    e "Hayır, bu bir sitem değil, sadece bir gerçeği belirtiyorum."
+
+
 translate turkish ep008_simulation_room_da0a1b90:
 
-    # e "You've been away for longer periods of time before."
-    e "Daha önce daha uzun süredir uzaktasınız."
 
-# game/episode008_conversations.rpy:533
+    e "Daha önce de uzun süreler boyunca uzakta kaldın."
+
+
 translate turkish ep008_simulation_room_07277baa:
 
-    # e "But it has never affected me like it did recently."
-    e "Ama beni son zamanlarda olduğu gibi hiç etkilemedi."
 
-# game/episode008_conversations.rpy:535
+    e "Ama beni hiç son zamanlardaki gibi etkilememişti."
+
+
 translate turkish ep008_simulation_room_e7b52251:
 
-    # e "I've missed you, [p_name_short]."
+
     e "Seni özledim, [p_name_short]."
 
-# game/episode008_conversations.rpy:536
+
 translate turkish ep008_simulation_room_4e080096:
 
-    # e "I thought of you every day while you were gone."
-    e "Seni her gün düşündüm."
 
-# game/episode008_conversations.rpy:537
+    e "Sen yokken her gün seni düşündüm."
+
+
 translate turkish ep008_simulation_room_6a95b564:
 
-    # c "I never intended to be callous about your feelings."
-    c "Duygularınız hakkında asla tedirgin olmayı amaçlamamıştım."
 
-# game/episode008_conversations.rpy:538
+    c "Duygularına karşı asla duyarsız olmak istemedim."
+
+
 translate turkish ep008_simulation_room_34bc89e6:
 
-    # c "I know how you care for me, Eva."
-    c "Beni nasıl önemsediğini biliyorum Eva."
 
-# game/episode008_conversations.rpy:540
+    c "Benim için ne kadar önem verdiğini biliyorum, Eva."
+
+
 translate turkish ep008_simulation_room_2b527ce2:
 
-    # e "No, you don't...{w} not really."
-    e "Hayır, yapmıyorsun ...{w} tam olarak değil."
 
-# game/episode008_conversations.rpy:541
+    e "Hayır, bilmiyorsun...{w} gerçekten bilmiyorsun."
+
+
 translate turkish ep008_simulation_room_de7699a7:
 
-    # e "I have come to realize that I have feelings for you, [p_name_short]."
-    e "Senin için duygularım olduğunu fark ettim [p_name_short]."
 
-# game/episode008_conversations.rpy:543
+    e "Sana karşı duygularım olduğunu fark ettim, [p_name_short]."
+
+
 translate turkish ep008_simulation_room_524fb0cf:
 
-    # e "Something way beyond what a normal person should feel for her brother..."
-    e "Normal bir insanın kardeşi için hissetmesi gereken şeyin ötesinde bir şey ..."
 
-# game/episode008_conversations.rpy:545
+    e "Normal bir insanın erkek kardeşine hissetmesi gerekenden çok daha fazlası..."
+
+
 translate turkish ep008_simulation_room_883a460d:
 
-    # e "Something way beyond what a normal person should feel for a childhood friend..."
-    e "Normal bir insanın çocukluk arkadaşı için hissetmesi gereken şeyin ötesinde bir şey ..."
 
-# game/episode008_conversations.rpy:547
+    e "Normal bir insanın çocukluk arkadaşına hissetmesi gerekenden çok daha fazlası..."
+
+
 translate turkish ep008_simulation_room_cc197c6b:
 
-    # e "I love you, [p_name]."
+
     e "Seni seviyorum, [p_name]."
 
-# game/episode008_conversations.rpy:548
+
 translate turkish ep008_simulation_room_593fe953:
 
-    # e "When I look at you, my heart skips."
-    e "Sana baktığımda kalbim atlıyor."
 
-# game/episode008_conversations.rpy:549
+    e "Sana baktığımda kalbim duruyor."
+
+
 translate turkish ep008_simulation_room_33460bef:
 
-    # e "I know it's wrong and it disgusts me at the same time."
-    e "Yanlış olduğunu biliyorum ve aynı zamanda beni tiksiniyor."
 
-# game/episode008_conversations.rpy:551
+    e "Bunun yanlış olduğunu biliyorum ve aynı zamanda bu beni iğrendiriyor."
+
+
 translate turkish ep008_simulation_room_207f91e2:
 
-    # e "I shouldn't feel this way..."
-    e "Bu şekilde hissetmemeliyim ..."
 
-# game/episode008_conversations.rpy:555
+    e "Bu şekilde hissetmemeliyim..."
+
+
 translate turkish ep008_simulation_room_94063db1:
 
-    # "Eva's words triggered something inside me."
-    "Eva'nın sözleri içimdeki bir şeyi tetikledi."
 
-# game/episode008_conversations.rpy:556
+    "Eva'nın sözleri içimde bir şeyleri tetikledi."
+
+
 translate turkish ep008_simulation_room_b04b7efa:
 
-    # "What she described, I felt too."
-    "Ne tarif ettiği, ben de hissettim."
 
-# game/episode008_conversations.rpy:558
+    "Onun anlattıklarını ben de hissediyordum."
+
+
 translate turkish ep008_simulation_room_c47964e7:
 
-    # "We'd always been close, shared a familiarity I'd taken for granted as a sibling bond."
-    "Her zaman yakın olduk, kardeş bağı olarak kabul ettiğim bir aşinalık paylaştık."
 
-# game/episode008_conversations.rpy:560
+    "Her zaman yakındık, kardeşlik bağı olarak kabul ettiğim bir yakınlığı paylaşıyorduk."
+
+
 translate turkish ep008_simulation_room_6a281615:
 
-    # "We'd always been close, shared a familiarity I'd taken for granted as a bond of friendship."
-    "Her zaman yakın olduk, bir dostluk bağı olarak kabul ettiğim bir aşinalık paylaştık."
 
-# game/episode008_conversations.rpy:561
+    "Her zaman yakındık, arkadaşlık bağı olarak kabul ettiğim bir yakınlığı paylaşıyorduk."
+
+
 translate turkish ep008_simulation_room_1053a13d:
 
-    # "She made me realize that bond went deeper."
-    "Bond'un daha derine indiğini fark etmemi sağladı."
 
-# game/episode008_conversations.rpy:562
+    "O bağın daha derin olduğunu fark etmemi sağladı."
+
+
 translate turkish ep008_simulation_room_64cb4f9e:
 
-    # "I needed her, loved her...{w} desired her."
-    "Ona ihtiyacım vardı, onu sevdim ...{w} onu istedi."
 
-# game/episode008_conversations.rpy:563
+    "Ona ihtiyacım vardı, onu seviyordum...{w} onu arzuluyordum."
+
+
 translate turkish ep008_simulation_room_ac9f2c67:
 
-    # c "Don't let others dictate what you should feel."
-    c "Başkalarının ne hissetmeniz gerektiğini dikte etmesine izin vermeyin."
 
-# game/episode008_conversations.rpy:564
+    c "Başkalarının ne hissetmen gerektiğini söylemesine izin verme."
+
+
 translate turkish ep008_simulation_room_4d99c97e:
 
-    # c "I love you too, Eva."
-    c "Ben de seni seviyorum Eva."
 
-# game/episode008_conversations.rpy:565
+    c "Ben de seni seviyorum, Eva."
+
+
 translate turkish ep008_simulation_room_d4d0c6a1:
 
-    # e "But?"
-    e "Ancak?"
 
-# game/episode008_conversations.rpy:567
+    e "Ama?"
+
+
 translate turkish ep008_simulation_room_737a2306:
 
-    # e "Like that?"
-    e "Bunun gibi?"
 
-# game/episode008_conversations.rpy:569
+    e "Böyle mi?"
+
+
 translate turkish ep008_simulation_room_69d77325:
 
-    # "By way of an answer, I edged closer to her and kissed Eva on her lips."
-    "Bir cevap yoluyla, ona yaklaştım ve Eva'yı dudaklarında öptüm."
 
-# game/episode008_conversations.rpy:571
+    "Cevap olarak, ona yaklaştım ve Eva'yı dudaklarından öptüm."
+
+
 translate turkish ep008_simulation_room_39b27157:
 
-    # "She responded to my kiss immediately by parting her lips."
-    "Dudaklarını ayırarak hemen öpücüğüme cevap verdi."
 
-# game/episode008_conversations.rpy:572
+    "Dudaklarını ayırarak öpücüğüme hemen karşılık verdi."
+
+
 translate turkish ep008_simulation_room_703f376f:
 
-    # "Our tongues met."
+
     "Dillerimiz buluştu."
 
-# game/episode008_conversations.rpy:574
+
 translate turkish ep008_simulation_room_bc554c19:
 
-    # "She was out of breath when we separated, so I spoke before she could ask me anything more."
-    "Ayrıldığımızda nefes nefese kaldı, bu yüzden bana daha fazla bir şey sormadan önce konuştum."
 
-# game/episode008_conversations.rpy:575
+    "Ayrıldığımızda nefes nefeseydi, bu yüzden başka bir şey soramadan önce konuştum."
+
+
 translate turkish ep008_simulation_room_2f6df505:
 
-    # c "Yes, like that."
+
     c "Evet, böyle."
 
-# game/episode008_conversations.rpy:577
+
 translate turkish ep008_simulation_room_23865051:
 
-    # "Overjoyed, Eva kissed me again and we tumbled on the bed."
-    "Çok sevindi, Eva beni tekrar öptü ve yatağa yuvarlandık."
 
-# game/episode008_conversations.rpy:582
+    "Sevinçten coşan Eva beni tekrar öptü ve yatağa düştük."
+
+
 translate turkish ep008_simulation_room_2b90f7c8:
 
-    # "At that moment, the door was thrown open."
+
     "O anda kapı açıldı."
 
-# game/episode008_conversations.rpy:583
+
 translate turkish ep008_simulation_room_a46e4ad9:
 
-    # "Lilly was standing in the doorway, gaping in a mixture of horror and rage."
-    "Lilly kapıda duruyordu, bir korku ve öfke karışımında boşluktu."
 
-# game/episode008_conversations.rpy:585
+    "Lilly kapı eşiğinde duruyordu, dehşet ve öfke karışımı bir ifadeyle ağzı açık kalmıştı."
+
+
 translate turkish ep008_simulation_room_fb61d206:
 
-    # l "You fucking piece of shit!"
-    l "Sen lanet olası bok!"
 
-# game/episode008_conversations.rpy:586
+    l "Seni siktiğimin orospu çocuğu!"
+
+
 translate turkish ep008_simulation_room_57760a8f:
 
-    # l "YOU FUCKING PIECE OF SHIT!"
-    l "Sen lanet olası bok!"
 
-# game/episode008_conversations.rpy:587
+    l "SENİ SİKTİĞİMİN OROSPU ÇOCUĞU!"
+
+
 translate turkish ep008_simulation_room_fd52ce69:
 
-    # "Lilly kept repeating the same sentence over and over."
-    "Lilly aynı cümleyi tekrar tekrar tekrarladı."
 
-# game/episode008_conversations.rpy:589
+    "Lilly aynı cümleyi tekrar tekrar söylemeye devam etti."
+
+
 translate turkish ep008_simulation_room_26127081:
 
-    # "Eva stared at her in fear and I noticed I'd unconsciously shielded her with my body."
-    "Eva ona korku içinde baktı ve bilinçsizce onu vücudumla korumalayacağımı fark ettim."
 
-# game/episode008_conversations.rpy:591
+    "Eva ona korkuyla baktı ve farkında olmadan vücudumla onu koruduğumu fark ettim."
+
+
 translate turkish ep008_simulation_room_9218af9c:
 
-    # "Suddenly, Lilly stopped speaking and turned her head towards the floor."
-    "Aniden, Lilly konuşmayı bıraktı ve başını yere çevirdi."
 
-# game/episode008_conversations.rpy:592
+    "Aniden Lilly konuşmayı kesti ve başını yere çevirdi."
+
+
 translate turkish ep008_simulation_room_af09de74:
 
-    # "I thought the simulation had somehow deactivated her avatar, but I was wrong."
-    "Simülasyonun bir şekilde avatarını devre dışı bıraktığını düşündüm, ama yanılmışım."
 
-# game/episode008_conversations.rpy:594
+    "Simülasyonun bir şekilde onun avatarını devre dışı bıraktığını düşündüm, ama yanılmışım."
+
+
 translate turkish ep008_simulation_room_1dbd3dec:
 
-    # "Lilly's head jerked upwards, mouth agape and murder in her eyes."
-    "Lilly'nin kafası yukarı doğru sarsıldı, ağız agape ve cinayet gözlerinde."
 
-# game/episode008_conversations.rpy:595
+    "Lilly'nin başı yukarı fırladı, ağzı açık ve gözlerinde cinayet vardı."
+
+
 translate turkish ep008_simulation_room_0cce1e6b:
 
-    # "An inhuman wail escaped her, slowly transforming into an ungodly screeching that seemed to assault all of my senses."
-    "İnsanlık dışı bir wail ondan kaçtı, yavaşça tüm duyularıma saldıran görünen bir çığlık atmaya dönüştü."
 
-# game/episode008_conversations.rpy:597
+    "İnsan dışı bir çığlık koptu ondan, yavaşça tüm duyularıma saldıran tanrı dışı bir çığlığa dönüştü."
+
+
 translate turkish ep008_simulation_room_363bb6ab:
 
-    # "Behind me, Eva was muttering the same string of words over and over again."
-    "Arkamda, Eva aynı kelime dizisini tekrar tekrar mırıldanıyordu."
 
-# game/episode008_conversations.rpy:598
+    "Arkamda Eva aynı kelime dizisini tekrar tekrar mırıldanıyordu."
+
+
 translate turkish ep008_simulation_room_74df1c3c:
 
-    # "The sense of familiar safety I'd always felt in the simulation was completely gone, replaced by a horrific cacophony of rage emanating from Lilly."
-    "Simülasyonda her zaman hissettiğim tanıdık güvenlik duygusu tamamen gitti, yerini Lilly'den çıkan korkunç bir öfke kakofonisi aldı."
 
-# game/episode008_conversations.rpy:600
+    "Simülasyonda her zaman hissettiğim tanıdık güvenlik hissi tamamen kaybolmuş, yerini Lilly'den yayılan korkunç bir öfke kakofonisine bırakmıştı."
+
+
 translate turkish ep008_simulation_room_37d349c3:
 
-    # "Frantically, I tried to pull out of it, but the system wouldn't let me."
-    "Çılgınca, ondan çekmeye çalıştım, ama sistem bana izin vermezdi."
 
-# game/episode008_conversations.rpy:601
+    "Çılgınca, bundan kurtulmaya çalıştım ama sistem izin vermedi."
+
+
 translate turkish ep008_simulation_room_f63e06db:
 
-    # "As the sound reached a crescendo I thought my brain would turn to mush."
-    "Ses bir kreşendoya ulaştıkça beynimin lapa döneceğini düşündüm."
 
-# game/episode008_conversations.rpy:603
+    "Ses kreşendoya ulaştığında beynimin püreye döneceğini düşündüm."
+
+
 translate turkish ep008_simulation_room_1b303b95:
 
-    # "Suddenly all of the scenery dropped away."
-    "Aniden tüm manzara düştü."
 
-# game/episode008_conversations.rpy:604
+    "Aniden tüm manzara yok oldu."
+
+
 translate turkish ep008_simulation_room_fe67e2f6:
 
-    # "Lilly and Eva were still there for a moment, until they disintegrated suddenly."
-    "Lilly ve Eva aniden dağılana kadar bir an için oradaydılar."
 
-# game/episode008_conversations.rpy:606
+    "Lilly ve Eva bir an oradaydılar, ta ki aniden yok olana kadar."
+
+
 translate turkish ep008_simulation_room_c6c3041f:
 
-    # "The noise was gone and I was alone in total darkness."
-    "Gürültü gitmişti ve tamamen karanlıkta yalnızdım."
 
-# game/episode008_conversations.rpy:607
+    "Ses gitmişti ve ben tam bir karanlıkta yalnızdım."
+
+
 translate turkish ep008_simulation_room_6478026f:
 
-    # "After taking a few shuddering breaths I attempted to pull of out the simulation again."
-    "Birkaç titreme nefes aldıktan sonra simülasyonu tekrar çıkarmaya çalıştım."
 
-# game/episode008_conversations.rpy:609
+    "Birkaç titrek nefes aldıktan sonra tekrar simülasyondan çıkmaya çalıştım."
+
+
 translate turkish ep008_simulation_room_f5a66ee3:
 
-    # "This time I succeeded."
-    "Bu sefer başarılı oldum."
 
-# game/episode008_conversations.rpy:610
+    "Bu sefer başardım."
+
+
 translate turkish ep008_simulation_room_028f352d:
 
-    # "I didn't know what had just happened, but I was pretty sure the simulation had malfunctioned in a big way."
-    "Ne olduğunu bilmiyordum, ama simülasyonun büyük bir şekilde arızalandığından emindim."
 
-# game/episode008_conversations.rpy:611
+    "Ne olduğunu bilmiyordum ama simülasyonun büyük ölçüde arızalandığından oldukça emindim."
+
+
 translate turkish ep008_simulation_room_55610fb6:
 
-    # "Running a full diagnostics report would have to wait until I'd mustered the courage again to deal with the craziness that had become the simulation."
-    "Tam bir teşhis raporu çalıştırmak, simülasyon haline gelen delilikle başa çıkmak için cesareti tekrar toplayana kadar beklemek zorunda kalacaktı."
 
-# game/episode008_conversations.rpy:613
+    "Tam bir teşhis raporu çalıştırmak, simülasyonun dönüştüğü çılgınlıkla başa çıkmak için tekrar cesaret toplayana kadar beklemek zorunda kalacaktı."
+
+
 translate turkish ep008_simulation_room_16ed0c51:
 
-    # "I staggered back to my quarters and fell into a numb sleep for several hours."
-    "Çeyreklerime geri döndüm ve birkaç saat boyunca uyuşmuş bir uykuya düştüm."
 
-# game/episode008_conversations.rpy:615
+    "Sendeleyerek odama döndüm ve saatlerce uyuşuk bir uykuya daldım."
+
+
 translate turkish ep008_simulation_room_a2598a6c:
 
-    # c "I understand why this is hard for you."
+
     c "Bunun senin için neden zor olduğunu anlıyorum."
 
-# game/episode008_conversations.rpy:617
+
 translate turkish ep008_simulation_room_e23e9eba:
 
-    # c "And I love you too, but only as a brother."
-    c "Ve ben de seni seviyorum ama sadece bir erkek kardeş olarak."
 
-# game/episode008_conversations.rpy:618
+    c "Ben de seni seviyorum ama sadece bir kardeş olarak."
+
+
 translate turkish ep008_simulation_room_6b0cfc62:
 
-    # c "As you say, anything else is not natural."
-    c "Dediğiniz gibi, başka bir şey doğal değildir."
 
-# game/episode008_conversations.rpy:620
+    c "Dediğin gibi, başka türlüsü doğal değil."
+
+
 translate turkish ep008_simulation_room_610500c9:
 
-    # c "And I love you too, but only as a friend."
-    c "Ve ben de seni seviyorum ama sadece bir arkadaş olarak."
 
-# game/episode008_conversations.rpy:621
+    c "Ben de seni seviyorum ama sadece bir arkadaş olarak."
+
+
 translate turkish ep008_simulation_room_54a230b3:
 
-    # c "I'm sorry Eva, but you have to put all this out of your head."
-    c "Üzgünüm Eva, ama tüm bunları kafandan çıkarmalısın."
 
-# game/episode008_conversations.rpy:623
+    c "Üzgünüm Eva, ama bunların hepsini aklından çıkarmalısın."
+
+
 translate turkish ep008_simulation_room_8b9ced17:
 
-    # e "I know, I'm sorry, [p_name_short]."
-    e "Biliyorum üzgünüm, [p_name_short]."
 
-# game/episode008_conversations.rpy:624
+    e "Biliyorum, üzgünüm, [p_name_short]."
+
+
 translate turkish ep008_simulation_room_a120b559:
 
-    # e "I won't bring it up again."
-    e "Bir daha gündeme getirmeyeceğim."
 
-# game/episode008_conversations.rpy:625
+    e "Bir daha konuyu açmayacağım."
+
+
 translate turkish ep008_simulation_room_0610d6a2:
 
-    # e "I don't want things to be awkward between us."
-    e "Aramızda bir şeylerin garip olmasını istemiyorum."
 
-# game/episode008_conversations.rpy:626
+    e "Aramızda garip bir durum olsun istemiyorum."
+
+
 translate turkish ep008_simulation_room_50e52ce0:
 
-    # c "I'm not sure that will be possible, but I'm willing to try."
-    c "Bunun mümkün olacağından emin değilim, ama denemeye hazırım."
 
-# game/episode008_conversations.rpy:627
+    c "Bunun mümkün olacağından emin değilim ama denemeye hazırım."
+
+
 translate turkish ep008_simulation_room_9e280f00:
 
-    # e "Me too."
+
     e "Ben de."
 
-# game/episode008_conversations.rpy:629
+
 translate turkish ep008_simulation_room_b2ef8e3e:
 
-    # "I left Eva then, looking wistfully out of the window."
-    "O zaman Eva'dan ayrıldım, özlemle pencereden dışarı baktım."
 
-# game/episode008_conversations.rpy:631
+    "Sonra Eva'yı bıraktım, özlemle pencereden dışarı bakıyordu."
+
+
 translate turkish ep008_simulation_room_b8b390a3:
 
-    # "As soon as I was standing in the small simulation room again, I put the system on standby."
-    "Tekrar küçük simülasyon odasında durur durmaz, sistemi beklemeye koydum."
 
-# game/episode008_conversations.rpy:632
+    "Tekrar küçük simülasyon odasında durduğumda, sistemi bekleme moduna aldım."
+
+
 translate turkish ep008_simulation_room_c381c8c8:
 
-    # "I wasn't sure if I ever wanted to come back to this strange place the simulation had become."
-    "Simülasyonun bu garip yere geri dönmek isteyip istemediğinden emin değildim."
 
-# game/episode008_conversations.rpy:634
+    "Simülasyonun dönüştüğü bu tuhaf yere tekrar dönmek isteyip istemediğimden emin değildim."
+
+
 translate turkish ep008_simulation_room_1ca8aac0:
 
-    # "I walked back to my quarters and fell into a numb sleep for several hours."
-    "Mahallelerime geri döndüm ve birkaç saat boyunca uyuşmuş bir uykuya düştüm."
 
-# game/episode008_conversations.rpy:638
+    "Odama geri döndüm ve saatlerce uyuşuk bir uykuya daldım."
+
+
 translate turkish ep008_simulation_room_64ffb2e8:
 
-    # "Despondent, I pulled out of the simulation immediately."
+
     "Umutsuzca, hemen simülasyondan çıktım."
 
-# game/episode008_conversations.rpy:639
+
 translate turkish ep008_simulation_room_28c80458:
 
-    # "I didn't know how to fix things anymore."
+
     "Artık işleri nasıl düzelteceğimi bilmiyordum."
 
-# game/episode008_conversations.rpy:640
+
 translate turkish ep008_simulation_room_fcb1aeba:
 
-    # "The damage to Eva's trust seemed irreparable and the changes I'd made to Lilly's personality clearly fucked things up even more."
-    "Eva'nın güvenine verilen hasar onarılamaz görünüyordu ve Lilly'nin kişiliğine yaptığım değişiklikler açıkça işleri daha da berbat etti."
+
+    "Eva'nın güvenine verilen hasar onarılamaz görünüyordu ve Lilly'nin kişiliğinde yaptığım değişiklikler işleri daha da sikti."
 
 translate turkish strings:
 
-    # game/episode008_conversations.rpy:202
-    old "Risk it"
-    new "Riske atmak"
 
-    # game/episode008_conversations.rpy:202
+    old "Risk it"
+    new "Risk al"
+
+
     old "Don't tamper"
     new "Kurcalama"
 
-    # game/episode008_conversations.rpy:287
-    old "Apologize to Eva"
-    new "Eva'dan özür dilerim"
 
-    # game/episode008_conversations.rpy:287
+    old "Apologize to Eva"
+    new "Eva'dan özür dile"
+
+
     old "Wait for her to speak"
     new "Onun konuşmasını bekle"
 
-    # game/episode008_conversations.rpy:391
+
     old "Kiss her back"
-    new "Geri öpmek"
+    new "Onu geri öp"
 
-    # game/episode008_conversations.rpy:416
+
     old "Run after her"
-    new "Ondan sonra koş"
+    new "Peşinden koş"
 
-    # game/episode008_conversations.rpy:416
+
     old "Pull out of the simulation"
-    new "Simülasyondan Çıkar"
+    new "Simülasyondan çık"
 
-    # game/episode008_conversations.rpy:438
+
     old "Clear the simulation"
     new "Simülasyonu temizle"
 
-    # game/episode008_conversations.rpy:438
+
     old "Abandon the simulation"
-    new "Simülasyonu terk etmek"
+    new "Simülasyonu terk et"
 
-    # game/episode008_conversations.rpy:438
+
     old "Go back in"
-    new "Geri dönmek"
+    new "Geri dön"
 
-    # game/episode008_conversations.rpy:486
+
     old "Enter her room"
     new "Odasına gir"
 
-    # game/episode008_conversations.rpy:486
-    old "Leave the simulation"
-    new "Simülasyonu Bırakın"
 
-    # game/episode008_conversations.rpy:552
+    old "Leave the simulation"
+    new "Simülasyondan ayrıl"
+
+
     old "Tell her you love her"
     new "Ona onu sevdiğini söyle"
 
-    # game/episode008_conversations.rpy:552
+
     old "Put an end to this"
     new "Buna bir son ver"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

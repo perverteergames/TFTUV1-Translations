@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
+
 
 translate turkish strings:
 
-    # game/encyclopaedia_screens.rpy:113
+
     old "Filters"
     new "Filtreler"
 
-    # game/encyclopaedia_screens.rpy:119
-    old "All"
-    new "Herşey"
 
-    # game/encyclopaedia_screens.rpy:158
+    old "All"
+    new "Tümü"
+
+
     old "Codex: {0}"
     new "Kodeks: {0}"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

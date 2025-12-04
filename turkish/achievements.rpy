@@ -1,488 +1,488 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
+
 
 translate turkish strings:
 
-    # game/achievements.rpy:3
+
     old "Where no man has gone before"
-    new "Daha önce hiç kimsenin gitmediği yer"
+    new "Daha önce kimsenin gitmediği yere"
 
-    # game/achievements.rpy:3
+
     old "Something lost, something gained."
-    new "Kayıp bir şey kazandı."
+    new "Bir şey kaybedildi, bir şey kazanıldı."
 
-    # game/achievements.rpy:3
+
     old "The Epicly Unspeakable Apple of Sin"
-    new "Günahın epik olarak konuşulamaz elması"
+    new "Günahın Destansı Söylenemez Elması"
 
-    # game/achievements.rpy:3
+
     old "You've tasted the unspeakable and undoubtedly crave for more."
-    new "Konspozu için, daha fazlası için istenemez ve şüphesiz isteniyor."
+    new "Söylenemez olanı tattın ve kesinlikle daha fazlasını istiyorsun."
 
-    # game/achievements.rpy:3
+
     old "Locked and unloaded"
-    new "Kilitli ve boş"
+    new "Kilitli ve boşalmış"
 
-    # game/achievements.rpy:3
+
     old "Took the potion offered one night on Erigone."
-    new "Erigone'da bir gece sunulan iksir aldı."
+    new "Erigone'da bir gece sunulan iksiri içtin."
 
-    # game/achievements.rpy:3
+
     old "Priestly Duties"
-    new "Rahip görevleri"
+    new "Rahiplik Görevleri"
 
-    # game/achievements.rpy:3
+
     old "Spent the night with Erigone's priesthood."
-    new "Geceyi Erigone'un rahipliği ile geçirdi."
+    new "Erigone'un rahipleriyle geceyi geçirdin."
 
-    # game/achievements.rpy:3
+
     old "Warrior's Plight"
-    new "Savaşçının durumu"
+    new "Savaşçının Çıkmazı"
 
-    # game/achievements.rpy:3
+
     old "Erigone's warrior caste made love their battlefield."
-    new "Erigone'un savaşçı kastını savaş alanlarını sevdi."
+    new "Erigone'un savaşçı kastı savaş alanını yatağa çevirdi."
 
-    # game/achievements.rpy:3
+
     old "Hero of the Common Folk"
-    new "Ortak halkın kahramanı"
+    new "Halkın Kahramanı"
 
-    # game/achievements.rpy:3
+
     old "The desires of the common folk are often overlooked, but not by you."
-    new "Ortak halkın arzuları genellikle göz ardı edilir, ancak sizin tarafınızdan değildir."
+    new "Halkın arzuları genellikle göz ardı edilir, ama sen öyle yapmadın."
 
-    # game/achievements.rpy:3
+
     old "A Fine Vintage"
-    new "Güzel Bir Vintage"
+    new "Nadide Bir Şarap"
 
-    # game/achievements.rpy:3
+
     old "Met Doarn and sampled some of his collection of exotic drinks."
-    new "Egzotik içecek koleksiyonundan bazılarını örnekledi."
+    new "Doarn ile tanıştın ve egzotik içki koleksiyonundan tattın."
 
-    # game/achievements.rpy:3
+
     old "The Caves of Feel"
-    new "Feel Mağaraları"
+    new "Hissin Mağaraları"
 
-    # game/achievements.rpy:3
+
     old "The R'o welcomed you in great numbers."
-    new "R'o sizi çok sayıda karşıladı."
+    new "R'o seni kalabalık bir şekilde karşıladı."
 
-    # game/achievements.rpy:3
+
     old "Loving Lanan"
-    new "Sevgi dolu Lanan"
+    new "Lanan'da Aşk"
 
-    # game/achievements.rpy:3
+
     old "Some might call it a dreary moon, but you and Céline made a dream come true there."
-    new "Bazıları buna kasvetli bir ay diyebilir, ama siz ve Céline orada bir rüya gerçekleştirdiniz."
+    new "Bazıları kasvetli bir ay diyebilir, ama sen ve Céline orada bir hayali gerçekleştirdiniz."
 
-    # game/achievements.rpy:3
+
     old "Jus Primae Noctis"
-    new "Jus primae noctis"
+    new "İlk Gece Hakkı"
 
-    # game/achievements.rpy:3
+
     old "Leda and Berit enjoyed your noble privileges."
-    new "Leda ve Berit asil ayrıcalıklarınızdan keyif aldılar."
+    new "Leda ve Berit senin soylu ayrıcalıklarının tadını çıkardı."
 
-    # game/achievements.rpy:3
+
     old "Peasantly Pleasant"
-    new "Peaseatly Hoş"
+    new "Köylü Zevkleri"
 
-    # game/achievements.rpy:3
+
     old "You were rewarded for your benevolence by Leda and Berit."
-    new "Leda ve Berit tarafından hayırseverliğiniz için ödüllendirildiniz."
+    new "Leda ve Berit iyiliğinin karşılığını verdi."
 
-    # game/achievements.rpy:3
+
     old "Noble Friendship"
-    new "Asil dostluk"
+    new "Soylu Dostluk"
 
-    # game/achievements.rpy:3
+
     old "Against all odds, you and Thim have become friends."
-    new "Her şeye rağmen, sen ve Thim arkadaş oldunuz."
+    new "Tüm zorluklara rağmen, sen ve Thim arkadaş oldunuz."
 
-    # game/achievements.rpy:3
+
     old "First Taste"
-    new "İlk tat"
+    new "İlk Tat"
 
-    # game/achievements.rpy:3
+
     old "Luzane packed a surprise which you just had to sample in all its glory."
-    new "Luzane, tüm ihtişamıyla örneklemeniz gereken bir sürpriz yaptı."
+    new "Luzane öyle bir sürpriz hazırladı ki tadına bakmadan duramazdın."
 
-    # game/achievements.rpy:3
+
     old "Speaking In Tongues"
-    new "Dilde konuşmak"
+    new "Dillerle Konuşmak"
 
-    # game/achievements.rpy:3
+
     old "The language of love doesn't need a translation."
-    new "Sevginin dilinin bir çeviriye ihtiyacı yoktur."
+    new "Aşkın dili tercüme gerektirmez."
 
-    # game/achievements.rpy:3
+
     old "Destroy The Milkman"
-    new "Sütçü yok et"
+    new "Milkman'ı Yok Et"
 
-    # game/achievements.rpy:3
+
     old "Sabotaged Garomph's factory on Barranthis."
-    new "Garomph'un Barranthis fabrikasını sabote etti."
+    new "Barranthis'teki Garomph'un fabrikasını sabote ettin."
 
-    # game/achievements.rpy:3
+
     old "Spanner in the Works"
-    new "Eserlerde anahtar"
+    new "İşleri Karıştıran"
 
-    # game/achievements.rpy:3
+
     old "Repairs, loving maintenance and a little extra service."
-    new "Onarım, sevgi dolu bakım ve biraz ekstra hizmet."
+    new "Tamirat, sevgi dolu bakım ve biraz ekstra servis."
 
-    # game/achievements.rpy:3
+
     old "Greasing the Wheels"
-    new "Tekerlekleri yağlamak"
+    new "Çarkları Yağlamak"
 
-    # game/achievements.rpy:3
+
     old "Thyia and the mechanic found a common passion."
     new "Thyia ve tamirci ortak bir tutku buldular."
 
-    # game/achievements.rpy:3
+
     old "Don't you remember me?"
-    new "Beni hatırlamıyor musun?"
+    new "Beni Hatırlamıyor musun?"
 
-    # game/achievements.rpy:3
+
     old "Had fun with an oblivious Yve."
-    new "Kafif bir yve ile eğlendim."
+    new "Habersiz Yve ile eğlendin."
 
-    # game/achievements.rpy:3
+
     old "Nadya's Tale"
-    new "Nadya'nın Masalı"
+    new "Nadya'nın Hikayesi"
 
-    # game/achievements.rpy:3
+
     old "Nadya told you a shocking story."
     new "Nadya sana şok edici bir hikaye anlattı."
 
-    # game/achievements.rpy:3
+
     old "Doctor's Orders"
-    new "Doktor Siparişleri"
+    new "Doktor Emirleri"
 
-    # game/achievements.rpy:3
+
     old "Dr. Chrone is renowned for her thorough and in-depth examinations."
-    new "Dr. Chrone, kapsamlı ve derinlemesine sınavlarıyla ünlüdür."
+    new "Dr. Chrone derinlemesine muayeneleriyle ünlüdür."
 
-    # game/achievements.rpy:3
+
     old "'Twas but a kiss"
-    new "Twas ama bir öpücük"
+    new "Sadece Bir Öpücüktü"
 
-    # game/achievements.rpy:3
+
     old "You kissed Lilly for the first time."
     new "Lilly'yi ilk kez öptün."
 
-    # game/achievements.rpy:3
+
     old "Exit the Matrix"
-    new "Matrix'ten çıkın"
+    new "Matrixten Çıkış"
 
-    # game/achievements.rpy:3
+
     old "You deleted the simulation on the Iron Bastard."
-    new "Demir piç üzerindeki simülasyonu sildiniz."
+    new "Iron Bastard'daki simülasyonu sildin."
 
-    # game/achievements.rpy:3
+
     old "Snu snu"
-    new "Snu SNU"
+    new "Snu snu"
 
-    # game/achievements.rpy:3
+
     old "Inspected the troops together with Rahia."
-    new "Birlikleri Rahia ile birlikte denetledi."
+    new "Rahia ile birlikte askerleri denetledin."
 
-    # game/achievements.rpy:3
+
     old "Spelunking"
-    new "Çengel"
+    new "Mağara Keşfi"
 
-    # game/achievements.rpy:3
+
     old "Who knew caves could have such an effect on women?"
-    new "Mağaraların kadınlar üzerinde böyle bir etkisi olabileceğini kim bilebilirdi?"
+    new "Mağaraların kadınlar üzerinde böyle bir etkisi olduğunu kim bilebilirdi?"
 
-    # game/achievements.rpy:3
+
     old "Tinkle, Tinkle, Little Popstar"
-    new "Tinkle, tinkle, küçük popstar"
+    new "Parla Parla, Küçük Yıldız"
 
-    # game/achievements.rpy:3
+
     old "Yve enjoyed an evening of happy accidents."
-    new "Bir akşam mutlu kazalardan keyif aldılar."
+    new "Yve mutlu kazalarla dolu bir akşamın tadını çıkardı."
 
-    # game/achievements.rpy:3
+
     old "For Duty and Honor"
-    new "Görev ve onur için"
+    new "Görev ve Onur İçin"
 
-    # game/achievements.rpy:3
+
     old "Aligned with the warrior caste on Erigone."
-    new "Erigone üzerindeki savaşçı kastıyla hizalanmıştır."
+    new "Erigone'da savaşçı kastıyla ittifak kurdun."
 
-    # game/achievements.rpy:3
+
     old "For God and Glory"
     new "Tanrı ve Zafer İçin"
 
-    # game/achievements.rpy:3
+
     old "Allied with the priest caste on Erigone."
-    new "Erigone'daki rahip kastıyla ittifak kurdu."
+    new "Erigone'da rahip kastıyla ittifak kurdun."
 
-    # game/achievements.rpy:3
+
     old "Go your own way"
-    new "Kendi yoluna git"
+    new "Kendi Yolunu Çiz"
 
-    # game/achievements.rpy:3
+
     old "Remained neutral on Erigone."
-    new "Erigone üzerinde nötr kaldı."
+    new "Erigone'da tarafsız kaldın."
 
-    # game/achievements.rpy:3
+
     old "Accosting The Acolyte"
-    new "Acolyte'yi hesaplamak"
+    new "Çırağa Yaklaşmak"
 
-    # game/achievements.rpy:3
+
     old "Keodele learned a valuable lesson."
-    new "Keodele değerli bir ders öğrendi."
+    new "Keodele değerli bir ders aldı."
 
-    # game/achievements.rpy:3
+
     old "Bug Hunt"
-    new "Böcek avı"
+    new "Böcek Avı"
 
-    # game/achievements.rpy:3
+
     old "Participated in the Hunt on Erigone."
-    new "Erigone Hunt'a katıldı."
+    new "Erigone'daki Av'a katıldın."
 
-    # game/achievements.rpy:3
+
     old "Release the Hounds"
-    new "Hounds'u serbest bırak"
+    new "Köpekleri Serbest Bırak"
 
-    # game/achievements.rpy:3
+
     old "Shared a special moment with Kvi."
-    new "KVI ile özel bir an paylaştı."
+    new "Kvi ile özel bir an paylaştın."
 
-    # game/achievements.rpy:3
+
     old "Theatrical Entrance"
-    new "Tiyatro girişi"
+    new "Teatral Giriş"
 
-    # game/achievements.rpy:3
+
     old "You've made it to the Theater of Senses."
-    new "Senses tiyatrosuna geldiniz."
+    new "Duyular Tiyatrosu'na ulaştın."
 
-    # game/achievements.rpy:3
+
     old "Garden of Eden"
     new "Cennet Bahçesi"
 
-    # game/achievements.rpy:3
+
     old "You met with Ziv in the Grove on Erigone."
-    new "Erigone'daki Grove'da Ziv ile tanıştın."
+    new "Erigone'daki Koru'da Ziv ile buluştun."
 
-    # game/achievements.rpy:3
+
     old "Pie in the Sky"
-    new "Gökyüzünde Pie"
+    new "Gökteki Pasta"
 
-    # game/achievements.rpy:3
+
     old "The entire galaxy enjoys cream-filled delights of any kind."
-    new "Galaksinin tamamı her türlü krem dolu lezzetlere sahiptir."
+    new "Tüm galaksi kremalı zevklerin her türlüsünü sever."
 
-    # game/achievements.rpy:3
+
     old "The Princess Kneels Before You"
-    new "Prenses senden önce diz çöküyor"
+    new "Prenses Önünde Diz Çöküyor"
 
-    # game/achievements.rpy:3
+
     old "Jade will obey you, no matter what you demand."
-    new "Yeşim ne isterseniz olursa olsun sana itaat edecek."
+    new "Jade ne istersen yapacak, her emrine uyacak."
 
-    # game/achievements.rpy:3
+
     old "Celestial Bodies"
-    new "Gökyüzü bedenleri"
+    new "Göksel Bedenler"
 
-    # game/achievements.rpy:3
+
     old "When the body just needs that extra touch."
-    new "Vücut sadece bu ekstra dokunuşa ihtiyaç duyduğunda."
+    new "Bazen vücut ekstra bir dokunuşa ihtiyaç duyar."
 
-    # game/achievements.rpy:3
+
     old "Hasta la vista, baby"
-    new "Görüşürüz bebeğim"
+    new "Görüşürüz Bebeğim"
 
-    # game/achievements.rpy:3
+
     old "The face is but a canvas to enliven and enhance."
-    new "Yüz canlandırmak ve geliştirmek için bir tuvaldir."
+    new "Yüz sadece canlandırılacak ve güzelleştirilecek bir tuvaldir."
 
-    # game/achievements.rpy:3
+
     old "I'll be in my bunk"
-    new "Ranzamda olacağım"
+    new "Yatağımda Olacağım"
 
-    # game/achievements.rpy:3
+
     old "Jade helped you relax."
-    new "Jade rahatlamana yardımcı oldu."
+    new "Jade rahatlamana yardım etti."
 
-    # game/achievements.rpy:3
+
     old "Rhenkoy Companionship, Level 69"
-    new "Rhenkoy arkadaşlığı, Seviye 69"
+    new "Rhenkoy Arkadaşlığı, Seviye 69"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Ziv."
-    new "Ziv'e aşık oldu."
+    new "Ziv'e aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "Rhenkoy Divorce, Level -69"
-    new "Rhenkoy Boşanma, Seviye -69"
+    new "Rhenkoy Ayrılığı, Seviye -69"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Ziv."
-    new "Ziv ile ayrıldı."
+    new "Ziv'den ayrıldın."
 
-    # game/achievements.rpy:3
+
     old "Heart to Heart"
-    new "Kalp Kalbe"
+    new "Yürekten Yüreğe"
 
-    # game/achievements.rpy:3
+
     old "Had a good talk with Raene."
-    new "Raene ile iyi bir konuşma yaptım."
+    new "Raene ile güzel bir sohbet ettin."
 
-    # game/achievements.rpy:3
+
     old "Aven Amor"
-    new "Aven Amor"
+    new "Aven Aşkı"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Aven."
-    new "Aven'e aşık oldu."
+    new "Aven'a aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "Adieu Aven"
-    new "Adieu Aven"
+    new "Elveda Aven"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Aven."
-    new "Aven ile ayrıldı."
+    new "Aven'dan ayrıldın."
 
-    # game/achievements.rpy:3
+
     old "Lilly of My Valley"
-    new "Vadimden Lilly"
+    new "Vadimin Lilly'si"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Lilly."
-    new "Lilly'ye aşık oldu."
+    new "Lilly'ye aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "Leaving Lilly"
-    new "Lilly'den ayrılıyor"
+    new "Lilly'yi Terk Etmek"
 
-    # game/achievements.rpy:3
+
     old "Broke up with Lilly."
-    new "Lilly ile ayrıldı."
+    new "Lilly'den ayrıldın."
 
-    # game/achievements.rpy:3
+
     old "An Early Romance"
-    new "Erken bir romantizm"
+    new "Erken Bir Aşk"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Céline."
-    new "Céline'a aşık oldu."
+    new "Céline'e aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "Troubles are as endless as pleasures are brief..."
-    new "Sorunlar zevkler kadar sonsuzdur ..."
+    new "Zevkler ne kadar kısa, dertler o kadar sonsuz..."
 
-    # game/achievements.rpy:3
+
     old "Broke up with Céline."
-    new "Céline ile ayrıldı."
+    new "Céline'den ayrıldın."
 
-    # game/achievements.rpy:3
+
     old "Prophecy Girl"
-    new "Kehanet kızı"
+    new "Kehanet Kızı"
 
-    # game/achievements.rpy:3
+
     old "Discussed the prophecy with Eva."
-    new "Kehanet'i Eva ile tartıştı."
+    new "Eva ile kehaneti tartıştın."
 
-    # game/achievements.rpy:3
+
     old "Without Breaking Any Eggs"
-    new "Yumurtayı kırmadan"
+    new "Hiç Yumurta Kırmadan"
 
-    # game/achievements.rpy:3
+
     old "Attended the ceremony at Cetruvar's mansion."
-    new "Cetruvar'ın konağındaki törene katıldı."
+    new "Cetruvar'ın malikanesindeki törene katıldın."
 
-    # game/achievements.rpy:3
+
     old "Galactic Virgin"
     new "Galaktik Bakire"
 
-    # game/achievements.rpy:3
+
     old "Didn't give into carnal desires throughout the game."
-    new "Oyun boyunca karnaval arzuları vermedi."
+    new "Oyun boyunca şehvete yenik düşmedin."
 
-    # game/achievements.rpy:3
+
     old "Party Hard"
-    new "Kop kop"
+    new "Deli Gibi Parti"
 
-    # game/achievements.rpy:3
+
     old "They sure know how to party on Verdant Station."
-    new "Verdant istasyonunda nasıl parti yapılacağını kesinlikle biliyorlar."
+    new "Verdant İstasyonu'nda nasıl parti yapılacağını iyi biliyorlar."
 
-    # game/achievements.rpy:3
+
     old "Chosen One"
-    new "Seçilmiş kişi"
+    new "Seçilmiş Kişi"
 
-    # game/achievements.rpy:3
+
     old "Only had a relationship with one love interest."
-    new "Sadece bir aşk ilgisi ile bir ilişkisi vardı."
+    new "Sadece tek bir aşk ilişkisi yaşadın."
 
-    # game/achievements.rpy:3
+
     old "She's got a bad feeling about this"
-    new "Bu konuda kötü bir his var"
+    new "Bundan Kötü Bir His Aldı"
 
-    # game/achievements.rpy:3
+
     old "Some of Erigone's flora is very touchy-feely."
-    new "Erigone florası çok dokunaklı."
+    new "Erigone'un bazı bitkileri fazla el değdirmeyi seviyor."
 
-    # game/achievements.rpy:3
+
     old "Kith and..."
-    new "Kith ve ..."
+    new "Akraba ve..."
 
-    # game/achievements.rpy:3
+
     old "You've only romanced Aven and Lilly."
-    new "Sadece Aven ve Lilly'yi romantize ettin."
+    new "Sadece Aven ve Lilly ile ilişki yaşadın."
 
-    # game/achievements.rpy:3
+
     old "Friends Forever"
-    new "Sonsuza kadar arkadaş"
+    new "Sonsuza Dek Arkadaş"
 
-    # game/achievements.rpy:3
+
     old "Space is a vast, cold place..."
-    new "Uzay geniş, soğuk bir yer ..."
+    new "Uzay geniş ve soğuk bir yer..."
 
-    # game/achievements.rpy:3
+
     old "You've completed the entire first season of the game."
-    new "Oyunun ilk sezonunu tamamladınız."
+    new "Oyunun ilk sezonunu tamamen bitirdin."
 
-    # game/achievements.rpy:3
+
     old "Breaker of Chains"
-    new "Zincirlerin kırıcısı"
+    new "Zincirleri Kıran"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Jade."
-    new "Jade'e aşık oldu."
+    new "Jade'e aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "There's No I In Team"
-    new "Takımda değilim"
+    new "Takımda Ben Yok"
 
-    # game/achievements.rpy:3
+
     old "You and Kit shared a night to remember."
-    new "Siz ve Kit hatırlamak için bir gece paylaştınız."
+    new "Sen ve Kit unutulmaz bir gece paylaştınız."
 
-    # game/achievements.rpy:3
+
     old "All Hail the Queen"
-    new "Herkes kraliçeye selam versin"
+    new "Yaşasın Kraliçe"
 
-    # game/achievements.rpy:3
+
     old "You met the fabled Queen of the Acarhyn."
-    new "Acarhyn'in efsanevi kraliçesiyle tanıştın."
+    new "Efsanevi Acarhyn Kraliçesi ile tanıştın."
 
-    # game/achievements.rpy:3
+
     old "Only For Tonight?"
-    new "Sadece bu gece için mi?"
+    new "Sadece Bu Gece İçin Mi?"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Vess."
-    new "Vess'e aşık oldu."
+    new "Vess'e aşık oldun."
 
-    # game/achievements.rpy:3
+
     old "Thyia's Trust"
-    new "Thyia'nın Güven"
+    new "Thyia'nın Güveni"
 
-    # game/achievements.rpy:3
+
     old "Fell in love with Thyia."
-    new "Thyia'ya aşık oldu."
-
+    new "Thyia'ya aşık oldun."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

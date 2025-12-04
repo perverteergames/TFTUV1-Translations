@@ -1,552 +1,548 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
+
 
 translate turkish strings:
 
-    # game/screens.rpy:292
+
     old "Back"
     new "Geri"
 
-    # game/screens.rpy:293
-    old "History"
-    new "Tarih"
 
-    # game/screens.rpy:294
+    old "History"
+    new "Geçmiş"
+
+
     old "Skip"
     new "Atla"
 
-    # game/screens.rpy:295
-    old "Auto"
-    new "Oto"
 
-    # game/screens.rpy:296
+    old "Auto"
+    new "Otomatik"
+
+
     old "Save"
     new "Kaydet"
 
-    # game/screens.rpy:297
+
     old "Q.Save"
-    new "Q.Kaydet"
+    new "H.Kaydet"
 
-    # game/screens.rpy:298
+
     old "Q.Load"
-    new "Q.Yükle"
+    new "H.Yükle"
 
-    # game/screens.rpy:300
+
     old "Codex"
     new "Kodeks"
 
-    # game/screens.rpy:301
+
     old "Prefs"
-    new "Seçenekler"
+    new "Tercihler"
 
-    # game/screens.rpy:361
+
     old "Start"
-    new "Oyunu Başlat"
+    new "Başla"
 
-    # game/screens.rpy:363
+
     old "Continue"
-    new "Devam etmek"
+    new "Devam Et"
 
-    # game/screens.rpy:371
+
+    old "Choices"
+    new "Seçimler"
+
+
     old "Load"
     new "Yükle"
 
-    # game/screens.rpy:376
+
     old "Preferences"
     new "Tercihler"
 
-    # game/screens.rpy:380
+
     old "End Replay"
-    new "Son replay"
+    new "Tekrarı Bitir"
 
-    # game/screens.rpy:383
+
     old "Scene Gallery"
-    new "Sahne galerisi"
+    new "Sahne Galerisi"
 
-    # game/screens.rpy:389
-    old "Bonus"
-    new "Bonus"
 
-    # game/screens.rpy:393
-    old "Main Menu"
-    new "Ana menü"
-
-    # game/screens.rpy:395
-    old "About"
-    new "Hakkında"
-
-    # game/screens.rpy:400
-    old "Help"
-    new "Yardım"
-
-    # game/screens.rpy:622
-    old "Return"
-    new "Dönüş"
-
-    # game/screens.rpy:779
-    old "Relationships"
-    new "İlişkiler"
-
-    # game/screens.rpy:785
-    old "Close"
-    new "Kapat"
-
-    # game/screens.rpy:817
-    old "Relationship: %s"
-    new "İlişki: %s"
-
-    # game/screens.rpy:819
-    old "Pregnant: %s"
-    new "Hamile: %s"
-
-    # game/screens.rpy:914
-    old "Extras"
-    new "Ekstralar"
-
-    # game/screens.rpy:916
-    old "Ep"
-    new "EP"
-
-    # game/screens.rpy:950
     old "Achievements"
     new "Başarılar"
 
-    # game/screens.rpy:1008
-    old "Achievements Unlocked: %d / %d"
-    new "Başarılar Kilidi: %d / %d"
-
-    # game/screens.rpy:1041
-    old "Version "
-    new "Versiyon "
-
-    # game/screens.rpy:1041
-    old "[config.version!t]\n"
-    new "[config.version!t]\n"
-
-    # game/screens.rpy:1047
-    old "Translations"
-    new "Çeviriler"
-
-    # game/screens.rpy:1050
-    old "Music"
-    new "Müzik"
-
-    # game/screens.rpy:1069
-    old "{a=[track[website]]}[track[website]]{/a}"
-    new "{a=[track[website]]}[track[website]]{/a}"
-
-    # game/screens.rpy:1070
-    old "License: "
-    new "Lisans: "
-
-    # game/screens.rpy:1070
-    old "{a=[track[license_url]]}[track[license]]{/a}"
-    new "{a=[track[license_url]]}[track[license]]{/a}"
-
-    # game/screens.rpy:1074
-    old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
-    new "{size=-8}Bölümlerini kullanır {a=https://github.com/jsfehler/renpy-encyclopaedia}Ren'py için Ansiklopedi Çerçevesi{/a} Jsfehler tarafından"
-
-    # game/screens.rpy:1075
-    old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
-    new "{size=-8}Ashtar Uçan Disk, Federasyon Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Sınıf II Kargo gemisi, Wraith Raider Starship, Eagle 5 Taşıma Modelleri {a=https://www.renderosity.com/?uid=767619}Sevein/Herminio Nieves{/a}"
-
-    # game/screens.rpy:1076
-    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-    new "{size=-8}Crucer uzay ordusu ve uzay kapısı modelleri tarafından oluşturulan {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
-
-    # game/screens.rpy:1077
-    old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "{size=-8}İle yapılan {a=https://www.renpy.org/}Ren'py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-    # game/screens.rpy:1115
-    old "Page {}"
-    new "Sayfa {}"
-
-    # game/screens.rpy:1115
-    old "Automatic saves"
-    new "Otomatik Kaydetmeler"
-
-    # game/screens.rpy:1115
-    old "Quick saves"
-    new "Hızlı Kaydeler"
-
-    # game/screens.rpy:1151
-    old "Jump to page: "
-    new "Sayfaya atlayın: "
-
-    # game/screens.rpy:1181
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
-
-    # game/screens.rpy:1181
-    old "empty slot"
-    new "Boş yuva"
-
-    # game/screens.rpy:1222
-    old "<"
-    new "<"
-
-    # game/screens.rpy:1225
-    old "{#auto_page}A"
-    new "{#auto_page}A"
-
-    # game/screens.rpy:1228
-    old "{#quick_page}Q"
-    new "{#quick_page}Q"
-
-    # game/screens.rpy:1234
-    old ">"
-    new ">"
-
-    # game/screens.rpy:1292
-    old "Please name your save:"
-    new "Lütfen kaydetmenizi adlandırın:"
-
-    # game/screens.rpy:1303
-    old "Save game"
-    new "Oyunu kaydet"
-
-    # game/screens.rpy:1334
-    old "Player Names"
-    new "Oyuncu isimleri"
-
-    # game/screens.rpy:1335
-    old "Name: "
-    new "İsim: "
-
-    # game/screens.rpy:1336
-    old "Nickname: "
-    new "Takma ad: "
-
-    # game/screens.rpy:1342
-    old "Display"
-    new "Görüntü"
-
-    # game/screens.rpy:1343
-    old "Window"
-    new "Pencere"
-
-    # game/screens.rpy:1344
-    old "Fullscreen"
-    new "Tam ekran"
-
-    # game/screens.rpy:1348
-    old "Rollback Side"
-    new "Geri dönüş tarafı"
-
-    # game/screens.rpy:1349
-    old "Disable"
-    new "Devre dışı bırak"
-
-    # game/screens.rpy:1350
-    old "Left"
-    new "Sol"
-
-    # game/screens.rpy:1351
-    old "Right"
-    new "Right"
-
-    # game/screens.rpy:1356
-    old "Unseen Text"
-    new "Görünmeyen metin"
-
-    # game/screens.rpy:1357
-    old "After Choices"
-    new "Seçimlerden sonra"
-
-    # game/screens.rpy:1358
-    old "Transitions"
-    new "Geçiş"
-
-    # game/screens.rpy:1365
-    old "Language"
-    new "Dilim"
-
-    # game/screens.rpy:1366
-    old "English"
-    new "ingilizce"
-
-    # game/screens.rpy:1367
-    old "Italian (partial)"
-    new "İtalyan (kısmi)"
-
-    # game/screens.rpy:1368
-    old "Polish (partial)"
-    new "Lehçe (kısmi)"
-
-    # game/screens.rpy:1369
-    old "Portuguese"
-    new "Portekizce"
-
-    # game/screens.rpy:1370
-    old "Russian (partial)"
-    new "Rus (kısmi)"
-
-    # game/screens.rpy:1371
-    old "Turkish (Yapay Zeka)"
-    new "Türkçe)"
-
-    # game/screens.rpy:1378
-    old "Notifications"
-    new "Bildirimler"
-
-    # game/screens.rpy:1379
-    old "Show"
-    new "Göster"
-
-    # game/screens.rpy:1380
-    old "Hide"
-    new "Sakla"
-
-    # game/screens.rpy:1385
-    old "Incest"
-    new "Ensest"
-
-    # game/screens.rpy:1386
-    old "Enable"
-    new "Olanak vermek"
-
-    # game/screens.rpy:1398
-    old "Show Portraits"
-    new "Portreleri göster"
-
-    # game/screens.rpy:1410
-    old "Dialog Box Visibility"
-    new "İletişim kutusu görünürlüğü"
-
-    # game/screens.rpy:1414
-    old "Text Speed"
-    new "Metin hızı"
-
-    # game/screens.rpy:1418
-    old "Auto-Forward Time"
-    new "Otomatik ileri sürme"
-
-    # game/screens.rpy:1425
-    old "Music Volume"
-    new "Müzik sesi"
-
-    # game/screens.rpy:1432
-    old "Sound Volume"
-    new "Ses seviyesi"
-
-    # game/screens.rpy:1438
-    old "Test"
-    new "Ölçek"
-
-    # game/screens.rpy:1442
-    old "Voice Volume"
-    new "Ses seviyesi"
-
-    # game/screens.rpy:1453
-    old "Mute All"
-    new "Sesle Sesle"
-
-    # game/screens.rpy:1575
-    old "The dialogue history is empty."
-    new "Diyalog tarihi boş."
-
-    # game/screens.rpy:1645
-    old "Keyboard"
-    new "Tuş takımı"
-
-    # game/screens.rpy:1646
-    old "Mouse"
-    new "Fare"
-
-    # game/screens.rpy:1649
-    old "Gamepad"
-    new "Gampa"
-
-    # game/screens.rpy:1662
-    old "Enter"
-    new "Giriş"
-
-    # game/screens.rpy:1663
-    old "Advances dialogue and activates the interface."
-    new "Diyalogu geliştirir ve arayüzü etkinleştirir."
-
-    # game/screens.rpy:1666
-    old "Space"
-    new "Uzay"
-
-    # game/screens.rpy:1667
-    old "Advances dialogue without selecting choices."
-    new "Seçim seçmeden diyalogu geliştirir."
-
-    # game/screens.rpy:1670
-    old "Arrow Keys"
-    new "Ok tuşları"
-
-    # game/screens.rpy:1671
-    old "Navigate the interface."
-    new "Arayüzde gezin."
-
-    # game/screens.rpy:1674
-    old "Escape"
-    new "Kaçmak"
-
-    # game/screens.rpy:1675
-    old "Accesses the game menu."
-    new "Oyun menüsüne erişir."
-
-    # game/screens.rpy:1678
-    old "Ctrl"
-    new "Ctrl"
-
-    # game/screens.rpy:1679
-    old "Skips dialogue while held down."
-    new "Tutulurken diyalogu atlar."
-
-    # game/screens.rpy:1682
-    old "Tab"
-    new "Sekme"
-
-    # game/screens.rpy:1683
-    old "Toggles dialogue skipping."
-    new "Diyalog atlamasını değiştirir."
-
-    # game/screens.rpy:1686
-    old "Page Up"
-    new "Sayfa yukarı"
 
-    # game/screens.rpy:1687
-    old "Rolls back to earlier dialogue."
-    new "Daha önceki diyaloga geri döner."
+    old "Bonus"
+    new "Bonus"
 
-    # game/screens.rpy:1690
-    old "Page Down"
-    new "Sayfa indirmek"
 
-    # game/screens.rpy:1691
-    old "Rolls forward to later dialogue."
-    new "Daha sonra diyaloga ilerler."
+    old "Main Menu"
+    new "Ana Menü"
 
-    # game/screens.rpy:1695
-    old "Hides the user interface."
-    new "Kullanıcı arayüzünü gizler."
 
-    # game/screens.rpy:1699
-    old "Takes a screenshot."
-    new "Bir ekran görüntüsü alır."
+    old "About"
+    new "Hakkında"
 
-    # game/screens.rpy:1703
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Doggles Yardımcı {a=https://www.renpy.org/l/voicing}kendi kendine{/a}."
 
-    # game/screens.rpy:1707
-    old "Shows the relationships screen"
-    new "İlişkiler ekranını gösterir"
+    old "Help"
+    new "Yardım"
 
-    # game/screens.rpy:1711
-    old "Shows the codex"
-    new "Kodeksi gösterir"
 
-    # game/screens.rpy:1717
-    old "Left Click"
-    new "Sol tık"
+    old "Return"
+    new "Dön"
 
-    # game/screens.rpy:1721
-    old "Middle Click"
-    new "Orta tıklama"
 
-    # game/screens.rpy:1725
-    old "Right Click"
-    new "Sağ tık"
+    old "Relationships"
+    new "İlişkiler"
 
-    # game/screens.rpy:1729
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new "Fare tekerleği yukarı\nGeri alma tarafı tıklayın"
 
-    # game/screens.rpy:1733
-    old "Mouse Wheel Down"
-    new "Fare tekerleği aşağı"
+    old "Close"
+    new "Kapat"
 
-    # game/screens.rpy:1740
-    old "Right Trigger\nA/Bottom Button"
-    new "Doğru tetik\nA/Alt Düğmesi"
 
-    # game/screens.rpy:1744
-    old "Left Trigger\nLeft Shoulder"
-    new "Sol tetik\nSol omuz"
+    old "Relationship: %s"
+    new "İlişki: %s"
 
-    # game/screens.rpy:1748
-    old "Right Shoulder"
-    new "Sağ omuz"
 
-    # game/screens.rpy:1753
-    old "D-Pad, Sticks"
-    new "D-pad, çubuklar"
+    old "Pregnant: %s"
+    new "Hamile: %s"
 
-    # game/screens.rpy:1757
-    old "Start, Guide"
-    new "Başla, rehber"
 
-    # game/screens.rpy:1761
-    old "Y/Top Button"
-    new "Y/TOP düğmesi"
-
-    # game/screens.rpy:1764
-    old "Calibrate"
-    new "Kalibre etmek"
-
-    # game/screens.rpy:1829
-    old "Yes"
-    new "Evet"
-
-    # game/screens.rpy:1830
-    old "No"
-    new "Hayır"
-
-    # game/screens.rpy:1877
-    old "Skipping"
-    new "Atlama"
-
-    # game/screens.rpy:2100
-    old "Menu"
-    new "Menü"
-
-# TODO: Translation updated at 2022-07-27 15:56
-
-translate turkish strings:
-
-    # game/screens.rpy:1370
-    old "Italian"
-    new "İtalyan"
-
-    # game/screens.rpy:1373
-    old "Russian"
-    new "Rusça"
-
-    # game/screens.rpy:1374
-    old "Spanish"
-    new "İspanyolca"
-
-    # game/screens.rpy:1375
-    old "Turkish"
-    new "Türkçe"
-
-# TODO: Translation updated at 2023-07-10 22:17
-
-translate turkish strings:
-
-    # game/screens.rpy:899
     old "View by: "
-    new "Görüntüleyen"
+    new "Görüntüleme: "
 
-    # game/screens.rpy:901
+
     old "character"
     new "karakter"
 
-    # game/screens.rpy:903
+
     old "episode"
     new "bölüm"
 
-    # game/screens.rpy:1112
+
+    old "Extras"
+    new "Ekstralar"
+
+
+    old "Ep"
+    new "Bl"
+
+
+    old "Achievements Unlocked: %d / %d"
+    new "Açılan Başarılar: %d / %d"
+
+
+    old "Version "
+    new "Sürüm "
+
+
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+
+    old "Translations"
+    new "Çeviriler"
+
+
+    old "Music"
+    new "Müzik"
+
+
+    old "License: "
+    new "Lisans: "
+
+
     old "Website: "
     new "Web sitesi: "
 
-    # game/screens.rpy:1112
-    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
-    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    old "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
+    new "{size=-8}Uses portions of the {a=https://github.com/jsfehler/renpy-encyclopaedia}Encyclopaedia Framework for Ren'Py{/a} by jsfehler"
+
+
+    old "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+    new "{size=-8}Ashtar Flying Disk, Federation Interceptor HN48, Endor Battlecruiser, Sky Ranger Dominator, Titan Class II Cargo Ship, Wraith Raider Starship, Eagle 5 Transport models created by {a=https://www.renderosity.com/?uid=767619}sevein/Herminio Nieves{/a}"
+
+
+    old "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+    new "{size=-8}Crucero Space Army and Space Gate models created by {a=http://www.sharecg.com/pf/full_uploads.php?pf_user_name=thomasjeromenewton}Antonio Amador{/a}"
+
+
+    old "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "{size=-8}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+
+    old "Page {}"
+    new "Sayfa {}"
+
+
+    old "Automatic saves"
+    new "Otomatik kayıtlar"
+
+
+    old "Quick saves"
+    new "Hızlı kayıtlar"
+
+
+    old "Jump to page: "
+    new "Sayfaya git: "
+
+
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
+
+
+    old "empty slot"
+    new "boş yuva"
+
+
+    old "<"
+    new "<"
+
+
+    old "{#auto_page}A"
+    new "{#auto_page}O"
+
+
+    old "{#quick_page}Q"
+    new "{#quick_page}H"
+
+
+    old ">"
+    new ">"
+
+
+    old "Please name your save:"
+    new "Lütfen kayıt adını girin:"
+
+
+    old "Save game"
+    new "Oyunu kaydet"
+
+
+    old "Player Names"
+    new "Oyuncu İsimleri"
+
+
+    old "Name: "
+    new "İsim: "
+
+
+    old "Nickname: "
+    new "Takma Ad: "
+
+
+    old "Display"
+    new "Görüntü"
+
+
+    old "Window"
+    new "Pencere"
+
+
+    old "Fullscreen"
+    new "Tam Ekran"
+
+
+    old "Rollback Side"
+    new "Geri Alma Tarafı"
+
+
+    old "Disable"
+    new "Devre Dışı"
+
+
+    old "Left"
+    new "Sol"
+
+
+    old "Right"
+    new "Sağ"
+
+
+    old "Unseen Text"
+    new "Görülmemiş Metin"
+
+
+    old "After Choices"
+    new "Seçimlerden Sonra"
+
+
+    old "Transitions"
+    new "Geçişler"
+
+
+    old "Show Portraits"
+    new "Portreleri Göster"
+
+
+    old "Show"
+    new "Göster"
+
+
+    old "Hide"
+    new "Gizle"
+
+
+    old "Notifications"
+    new "Bildirimler"
+
+
+    old "Incest"
+    new "Ensest"
+
+
+    old "Enable"
+    new "Etkinleştir"
+
+
+    old "Language"
+    new "Dil"
+
+
+    old "English"
+    new "İngilizce"
+
+
+    old "Italiano"
+    new "İtalyanca"
+
+
+    old "Português"
+    new "Portekizce"
+
+
+    old "Français"
+    new "Fransızca"
+
+
+    old "Русский"
+    new "Rusça"
+
+
+    old "Español"
+    new "İspanyolca"
+
+
+    old "Türkçe"
+    new "Türkçe"
+
+
+    old "Polski (częściowo)"
+    new "Lehçe (kısmen)"
+
+
+    old "Lovense"
+    new "Lovense"
+
+
+    old "Connect your toy"
+    new "Oyuncağınızı bağlayın"
+
+
+    old "Dialog Box Visibility"
+    new "Diyalog Kutusu Görünürlüğü"
+
+
+    old "Text Speed"
+    new "Metin Hızı"
+
+
+    old "Auto-Forward Time"
+    new "Otomatik İlerleme Süresi"
+
+
+    old "Music Volume"
+    new "Müzik Sesi"
+
+
+    old "Sound Volume"
+    new "Ses Efekti"
+
+
+    old "Test"
+    new "Test"
+
+
+    old "Voice Volume"
+    new "Ses Seviyesi"
+
+
+    old "Mute All"
+    new "Tümünü Sustur"
+
+
+    old "The dialogue history is empty."
+    new "Diyalog geçmişi boş."
+
+
+    old "Keyboard"
+    new "Klavye"
+
+
+    old "Mouse"
+    new "Fare"
+
+
+    old "Gamepad"
+    new "Oyun Kumandası"
+
+
+    old "Enter"
+    new "Enter"
+
+
+    old "Advances dialogue and activates the interface."
+    new "Diyaloğu ilerletir ve arayüzü etkinleştirir."
+
+
+    old "Space"
+    new "Boşluk"
+
+
+    old "Advances dialogue without selecting choices."
+    new "Seçim yapmadan diyaloğu ilerletir."
+
+
+    old "Arrow Keys"
+    new "Yön Tuşları"
+
+
+    old "Navigate the interface."
+    new "Arayüzde gezinir."
+
+
+    old "Escape"
+    new "Escape"
+
+
+    old "Accesses the game menu."
+    new "Oyun menüsüne erişir."
+
+
+    old "Ctrl"
+    new "Ctrl"
+
+
+    old "Skips dialogue while held down."
+    new "Basılı tutulduğunda diyaloğu atlar."
+
+
+    old "Tab"
+    new "Tab"
+
+
+    old "Toggles dialogue skipping."
+    new "Diyalog atlama modunu açar/kapatır."
+
+
+    old "Page Up"
+    new "Page Up"
+
+
+    old "Rolls back to earlier dialogue."
+    new "Önceki diyaloğa geri döner."
+
+
+    old "Page Down"
+    new "Page Down"
+
+
+    old "Rolls forward to later dialogue."
+    new "Sonraki diyaloğa ilerler."
+
+
+    old "Hides the user interface."
+    new "Kullanıcı arayüzünü gizler."
+
+
+    old "Takes a screenshot."
+    new "Ekran görüntüsü alır."
+
+
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Yardımcı {a=https://www.renpy.org/l/voicing}sesli anlatım{/a} özelliğini açar/kapatır."
+
+
+    old "Shows the relationships screen"
+    new "İlişkiler ekranını gösterir"
+
+
+    old "Shows the codex"
+    new "Kodeksi gösterir"
+
+
+    old "Left Click"
+    new "Sol Tıklama"
+
+
+    old "Middle Click"
+    new "Orta Tıklama"
+
+
+    old "Right Click"
+    new "Sağ Tıklama"
+
+
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Fare Tekerleği Yukarı\nGeri Alma Tarafına Tıkla"
+
+
+    old "Mouse Wheel Down"
+    new "Fare Tekerleği Aşağı"
+
+
+    old "Right Trigger\nA/Bottom Button"
+    new "Sağ Tetik\nA/Alt Düğme"
+
+
+    old "Left Trigger\nLeft Shoulder"
+    new "Sol Tetik\nSol Omuz"
+
+
+    old "Right Shoulder"
+    new "Sağ Omuz"
+
+
+    old "D-Pad, Sticks"
+    new "D-Pad, Çubuklar"
+
+
+    old "Start, Guide"
+    new "Başlat, Kılavuz"
+
+
+    old "Y/Top Button"
+    new "Y/Üst Düğme"
+
+
+    old "Calibrate"
+    new "Kalibre Et"
+
+
+    old "Yes"
+    new "Evet"
+
+
+    old "No"
+    new "Hayır"
+
+
+    old "Skipping"
+    new "Atlanıyor"
+
+
+    old "Menu"
+    new "Menü"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-04 12:30
+
+translate turkish strings:
+
+    # game/screens.rpy:1484
+    old "简体中文"
+    new "简体中文"
+
+    # game/screens.rpy:1485
+    old "繁体中文"
+    new "繁体中文"
 

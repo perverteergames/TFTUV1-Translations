@@ -1,380 +1,332 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
+
 
 translate turkish strings:
 
-    # game/scenes.rpy:3
+
     old "Extra Scenes"
     new "Ekstra Sahneler"
 
-    # game/scenes.rpy:3
+
     old "Hands on with Céline"
-    new "Céline ile eller"
+    new "Céline ile Yakın Temas"
 
-    # game/scenes.rpy:3
+
     old "Shower with Jade"
-    new "Yeşim ile duş"
+    new "Jade ile Duş"
 
-    # game/scenes.rpy:3
+
     old "The fingers of D'ee"
-    new "D'Ee'nin parmakları"
+    new "D'ee'nin Parmakları"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fun on Verdant Station #1"
-    new "Yazar İstasyonda Lezbiyen Eğlence #1"
+    new "Verdant İstasyonu'nda Lezbiyen Eğlence #1"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fun on Verdant Station #2"
-    new "Bestan İstasyonu #2'de lezbiyen eğlence"
+    new "Verdant İstasyonu'nda Lezbiyen Eğlence #2"
 
-    # game/scenes.rpy:3
+
     old "Quickie #1"
-    new "Quickie #1"
+    new "Hızlı Kaçamak #1"
 
-    # game/scenes.rpy:3
+
     old "Quickie #2"
-    new "Quickie #2"
+    new "Hızlı Kaçamak #2"
 
-    # game/scenes.rpy:3
+
     old "Twi'll Throat"
-    new "Boğaz"
+    new "Twi'll'in Boğazı"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Fountains"
-    new "Lezbiyen çeşmeler"
+    new "Lezbiyen Fıskiyeleri"
 
-    # game/scenes.rpy:3
+
     old "A wet lesson"
-    new "Islak Ders"
+    new "Islak Bir Ders"
 
-    # game/scenes.rpy:3
+
     old "Master & Commander"
-    new "Üstat ve Komutan"
+    new "Efendi & Komutan"
 
-    # game/scenes.rpy:3
+
     old "Let it go"
-    new "Bırak gitsin"
+    new "Bırak Gitsin"
 
-    # game/scenes.rpy:3
+
     old "O Captain! My Captain!"
-    new "Ey Kaptan! Kaptanım!"
+    new "Ey Kaptan! Benim Kaptanım!"
 
-    # game/scenes.rpy:3
+
     old "Shiny!"
     new "Parlak!"
 
-    # game/scenes.rpy:3
+
     old "Better Together"
-    new "Beraber daha iyi"
+    new "Birlikte Daha İyi"
 
-    # game/scenes.rpy:3
+
     old "The Cave Sucks"
-    new "Mağara berbat"
+    new "Mağara Emiyor"
 
-    # game/scenes.rpy:3
+
     old "Groovin' in the grove"
-    new "Grove'da Groovin '"
+    new "Koruluktaki Ritim"
 
-    # game/scenes.rpy:3
+
     old "Riding the tower"
-    new "Kuleye binmek"
+    new "Kuleye Binmek"
 
-    # game/scenes.rpy:3
+
     old "To her bosom"
-    new "Koynuna"
+    new "Onun Göğsüne"
 
-    # game/scenes.rpy:3
+
     old "It's a kind of magic"
-    new "Bu bir tür sihirdir"
+    new "Bu Bir Çeşit Büyü"
 
-    # game/scenes.rpy:3
+
     old "Squat Commander"
-    new "Çömelme komutanı"
+    new "Çömelmiş Komutan"
 
-    # game/scenes.rpy:3
+
     old "Water Wrestling"
-    new "Su güreşi"
+    new "Su Güreşi"
 
-    # game/scenes.rpy:3
+
     old "Fertile Garden"
-    new "Verimli bahçe"
+    new "Verimli Bahçe"
 
-    # game/scenes.rpy:3
+
     old "Licking Lilly"
-    new "Lilly Liling"
+    new "Lilly'yi Yalamak"
 
-    # game/scenes.rpy:3
+
     old "One out of three"
-    new "Üç kişiden biri"
+    new "Üçten Biri"
 
-    # game/scenes.rpy:3
-    old "Episode #1"
-    new "Bölüm 1"
 
-    # game/scenes.rpy:3
     old "Sleeping with Céline"
-    new "Céline ile uyumak"
+    new "Céline ile Yatmak"
 
-    # game/scenes.rpy:3
+
     old "Jade's handjob"
-    new "Jade's Handjob"
+    new "Jade'in Elle Tatmini"
 
-    # game/scenes.rpy:3
-    old "Episode #2"
-    new "Bölüm 2"
 
-    # game/scenes.rpy:3
     old "A sweet deal with Thyia"
-    new "Thyia ile tatlı bir anlaşma"
+    new "Thyia ile Tatlı Bir Anlaşma"
 
-    # game/scenes.rpy:3
+
     old "R'o Orgy"
-    new "R'o orgy"
+    new "R'o Grup Seks"
 
-    # game/scenes.rpy:3
+
     old "Dreaming with Céline"
-    new "Céline ile rüya görmek"
+    new "Céline ile Rüya"
 
-    # game/scenes.rpy:3
+
     old "Jade and the captain"
-    new "Yeşim ve Kaptan"
+    new "Jade ve Kaptan"
 
-    # game/scenes.rpy:3
-    old "Episode #3"
-    new "Bölüm #3"
 
-    # game/scenes.rpy:3
     old "Party at Verdant Station"
-    new "Verdant istasyonunda parti"
+    new "Verdant İstasyonu'nda Parti"
 
-    # game/scenes.rpy:3
+
     old "Threesome with Leda and Berit (Soft)"
-    new "Leda ve Berit (yumuşak) ile üçlü"
+    new "Leda ve Berit ile Üçlü (Yumuşak)"
 
-    # game/scenes.rpy:3
+
     old "Threesome with Leda and Berit (Hard)"
-    new "Leda ve Berit (sert) ile üçlü"
+    new "Leda ve Berit ile Üçlü (Sert)"
 
-    # game/scenes.rpy:3
+
     old "Fucking Leda"
-    new "Lanet Leda"
+    new "Leda'yı Sikmek"
 
-    # game/scenes.rpy:3
+
     old "Fucking Berit"
-    new "Lanet Berit"
+    new "Berit'i Sikmek"
 
-    # game/scenes.rpy:3
-    old "Episode #4"
-    new "Bölüm 4"
 
-    # game/scenes.rpy:3
     old "Licking Luzane"
-    new "Luzane yalama"
+    new "Luzane'i Yalamak"
 
-    # game/scenes.rpy:3
+
     old "Blowing Luzane"
-    new "Üfleme"
+    new "Luzane'e Oral"
 
-    # game/scenes.rpy:3
+
     old "Hello Hannah"
     new "Merhaba Hannah"
 
-    # game/scenes.rpy:3
+
     old "Jade Anal (Soft)"
-    new "Yeşim anal (yumuşak)"
+    new "Jade Anal (Yumuşak)"
 
-    # game/scenes.rpy:3
+
     old "Jade Anal (Hard)"
-    new "Yeşim anal (sert)"
+    new "Jade Anal (Sert)"
 
-    # game/scenes.rpy:3
-    old "Episode #5"
-    new "Bölüm #5"
 
-    # game/scenes.rpy:3
     old "Footsie Céline"
-    new "Ayak Céline"
+    new "Céline'in Ayak Oyunu"
 
-    # game/scenes.rpy:3
+
     old "Sex Workshop"
-    new "Seks atölyesi"
+    new "Seks Atölyesi"
 
-    # game/scenes.rpy:3
+
     old "Lesbian Mechanics"
-    new "Lezbiyen mekaniği"
+    new "Lezbiyen Mekanikçiler"
 
-    # game/scenes.rpy:3
+
     old "Kualtha Juicing"
-    new "Kualtha Meyve suyu"
+    new "Kualtha'nın Suyu"
 
-    # game/scenes.rpy:3
+
     old "Breed! Breed! Breed!"
-    new "Doğurmak! Doğurmak! Doğurmak!"
+    new "Dölle! Dölle! Dölle!"
 
-    # game/scenes.rpy:3
+
     old "Foursome on the bridge"
-    new "Köprüde dörtlü"
+    new "Köprüde Dörtlü"
 
-    # game/scenes.rpy:3
-    old "Episode #6"
-    new "Bölüm #6"
 
-    # game/scenes.rpy:3
     old "Discipline #1"
     new "Disiplin #1"
 
-    # game/scenes.rpy:3
+
     old "Discipline #2"
     new "Disiplin #2"
 
-    # game/scenes.rpy:3
+
     old "Discipline #3"
     new "Disiplin #3"
 
-    # game/scenes.rpy:3
+
     old "Showerly Lust"
-    new "Duş şehvet"
+    new "Duşta Şehvet"
 
-    # game/scenes.rpy:3
+
     old "Thorough Examination"
-    new "Kapsamlı inceleme"
+    new "Detaylı Muayene"
 
-    # game/scenes.rpy:3
-    old "Episode #7"
-    new "Bölüm #7"
 
-    # game/scenes.rpy:3
     old "Scrambled Eggs"
-    new "Omlet"
+    new "Karışık Yumurta"
 
-    # game/scenes.rpy:3
+
     old "The Rub"
-    new "Ovmak"
+    new "Ovuşturma"
 
-    # game/scenes.rpy:3
+
     old "A welcome distraction"
-    new "Hoş bir dikkat dağıtıcı"
+    new "Hoş Bir Oyalanma"
 
-    # game/scenes.rpy:3
+
     old "Ave Aven"
-    new "Ave Aven"
+    new "Selam Aven"
 
-    # game/scenes.rpy:3
-    old "Episode #8"
-    new "Bölüm #8"
 
-    # game/scenes.rpy:3
     old "Inside Aven"
-    new "Aven'in içinde"
+    new "Aven'in İçinde"
 
-    # game/scenes.rpy:3
+
     old "Bath Time"
-    new "Banyo zamanı"
+    new "Banyo Zamanı"
 
-    # game/scenes.rpy:3
+
     old "Acarhyn Action"
-    new "Acarhyn eylemi"
+    new "Acarhyn Aksiyonu"
 
-    # game/scenes.rpy:3
-    old "Episode #9"
-    new "Bölüm 9"
 
-    # game/scenes.rpy:3
     old "Lilly's Grind"
-    new "Lilly's Grind"
+    new "Lilly'nin Sürtünmesi"
 
-    # game/scenes.rpy:3
+
     old "Washing Up"
-    new "Bulaşık yıkama"
+    new "Yıkanma"
 
-    # game/scenes.rpy:3
+
     old "Speleology"
-    new "Speleoloji"
+    new "Mağara Araştırması"
 
-    # game/scenes.rpy:3
-    old "Episode #10"
-    new "Bölüm 10"
 
-    # game/scenes.rpy:3
     old "Rooftop Rumba"
-    new "Çatı katı rumba"
+    new "Çatıda Rumba"
 
-    # game/scenes.rpy:3
+
     old "Religious Instruction"
-    new "Din eğitimi"
+    new "Dini Eğitim"
 
-    # game/scenes.rpy:3
+
     old "Saying Yes To Vess"
-    new "Bees'e evet demek"
+    new "Vess'e Evet Demek"
 
-    # game/scenes.rpy:3
+
     old "Rhenkoy Companionship"
-    new "Rhenkoy arkadaşlık"
+    new "Rhenkoy Arkadaşlığı"
 
-    # game/scenes.rpy:3
+
     old "Boffing Botany"
-    new "Boffing Botanik"
+    new "Botanik Sikişi"
 
-    # game/scenes.rpy:3
-    old "Episode #11"
-    new "Bölüm #11"
 
-    # game/scenes.rpy:3
     old "Orgy-porgy"
-    new "Orgy-porgy"
+    new "Grup Seks Partisi"
 
-    # game/scenes.rpy:3
+
     old "Jumping on Jade"
-    new "Jade'e atlamak"
+    new "Jade'in Üstüne Zıplamak"
 
-    # game/scenes.rpy:3
+
     old "Jiggering Jade"
-    new "Jigger jade"
+    new "Jade'i Titretmek"
 
-    # game/scenes.rpy:3
+
     old "Pick a Lilly"
-    new "Lilly seç"
+    new "Bir Lilly Seç"
 
-    # game/scenes.rpy:3
-    old "Episode #12"
-    new "Bölüm #12"
 
-    # game/scenes.rpy:3
     old "Beach Offensive"
-    new "Plaj saldırısı"
+    new "Plaj Saldırısı"
 
-    # game/scenes.rpy:3
+
     old "Up Her Alley"
-    new "Yukarı Alley"
+    new "Onun Sokağında"
 
-    # game/scenes.rpy:3
+
     old "Popping that Popstar"
-    new "O Popstar'ı haşhaş"
+    new "Popçıyı Patlatmak"
 
-    # game/scenes.rpy:3
+
     old "Lilly's Farewell"
-    new "Lilly'nin vedası"
+    new "Lilly'nin Vedası"
 
-    # game/scenes.rpy:3
+
     old "Sampling the wares"
-    new "Malları örneklemek"
+    new "Malları Tatmak"
 
-    # game/scenes.rpy:3
+
     old "Sampling the all of the wares"
-    new "Tüm malları örneklemek"
+    new "Tüm Malları Tatmak"
 
-    # game/scenes.rpy:3
+
     old "Shuttlecock"
-    new "Kapanan"
+    new "Mekik Siki"
 
-    # game/scenes.rpy:3
+
     old "Clogging the drain"
-    new "Tahliye tıkanma"
+    new "Deliği Tıkamak"
 
-    # game/scenes.rpy:3
+
     old "Fun on Kepler XIV"
-    new "Kepler XIV'de eğlence"
+    new "Kepler XIV'te Eğlence"
 
-    # game/scenes.rpy:3
+
     old "Bunk Bonanza"
-    new "Ranza bonanza"
-
+    new "Ranza Coşkusu"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

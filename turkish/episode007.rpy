@@ -1,9510 +1,9506 @@
-﻿# TODO: Translation updated at 2022-05-21 01:46
 
-# game/episode007.rpy:35
+
+
 translate turkish episode007_cbf80bf9:
 
-    # centered "{=chapter_heading}EPISODE 7{/=chapter_heading}"
-    centered "{=chapter_heading}Bölüm 7{/=chapter_heading}"
 
-# game/episode007.rpy:46
+    centered "BÖLÜM 7"
+
+
 translate turkish episode007_ac886fe2:
 
-    # woman "Oh fuck!{w} Oh yes!{w} Fuck me harder!"
-    woman "Oh sikeyim!{w} Oh evet!{w} Beni daha çok sikeyim!"
 
-# game/episode007.rpy:48
+    woman "Ah sik beni!{w} Ah evet!{w} Daha sert sik!"
+
+
 translate turkish episode007_4f5ac457:
 
-    # woman "Give me that big hard cock!"
-    woman "Bana o büyük sert horoz ver!"
 
-# game/episode007.rpy:49
+    woman "Ver bana o kocaman sert yarağını!"
+
+
 translate turkish episode007_81ddfaf6:
 
-    # woman "Oh baby!"
-    woman "Bebeğim!"
 
-# game/episode007.rpy:51
+    woman "Ah bebeğim!"
+
+
 translate turkish episode007_0f85d23c:
 
-    # man "Boss?"
+
     man "Patron?"
 
-# game/episode007.rpy:52
+
 translate turkish episode007_06355da6:
 
-    # gl "Can't you see I'm busy giving the lady the treat of a lifetime?"
-    gl "Hanımıza bir ömür boyu tedavi vermekle meşgul olduğumu göremiyor musun?"
 
-# game/episode007.rpy:53
+    gl "Görmüyor musun hanımefendiye hayatının zevkini yaşatıyorum?"
+
+
 translate turkish episode007_c066186d:
 
-    # man "There's a woman standing in the doorway."
-    man "Kapıda duran bir kadın var."
 
-# game/episode007.rpy:55
+    man "Kapıda bir kadın var."
+
+
 translate turkish episode007_4f5874a2:
 
-    # bl "Glixken, I presume?"
+
     bl "Glixken, sanırım?"
 
-# game/episode007.rpy:57
+
 translate turkish episode007_bb2e9883:
 
-    # gl "Well hello, did you come to join the fun?"
-    gl "Merhaba, eğlenceye katılmaya geldin mi?"
 
-# game/episode007.rpy:59
+    gl "Merhaba, eğlenceye katılmaya mı geldin?"
+
+
 translate turkish episode007_2469e57c:
 
-    # bl "How tempting, but no."
-    bl "Ne kadar cazip ama hayır."
 
-# game/episode007.rpy:60
+    bl "Ne kadar çekici olsa da, hayır."
+
+
 translate turkish episode007_e4f90cfb:
 
-    # bl "I'm here because we share an interest."
-    bl "Ben buradayım çünkü bir ilgiyi paylaşıyoruz."
 
-# game/episode007.rpy:62
+    bl "Ortak bir çıkarımız olduğu için buradayım."
+
+
 translate turkish episode007_a6015b61:
 
-    # gl "The thing that's interesting me is sitting on my cock at the moment."
-    gl "Benim ilginç olan şey şu anda benim horoz üzerinde oturmak."
 
-# game/episode007.rpy:64
+    gl "Şu anda beni ilgilendiren tek şey sikimin üstünde oturuyor."
+
+
 translate turkish episode007_37987727:
 
-    # bl "I was under the impression you were smart as mercenaries go, but you seem to be only thinking with your dick."
-    bl "Paralı askerler gittikçe akıllı olduğun izlenimi altındaydım, ama sadece sikinizle düşünüyorsun."
 
-# game/episode007.rpy:66
+    bl "Paralı askerler arasında akıllı olduğunu sanıyordum ama görünüşe göre sadece sikinle düşünüyorsun."
+
+
 translate turkish episode007_1b0c6814:
 
-    # man "This cunt is fucking annoying boss, let's just shut that little mouth of hers and rape and kill her."
-    man "Bu pislik can sıkıcı bir patron, hadi o küçük ağzını kapatalım ve tecavüz edip onu öldürelim."
 
-# game/episode007.rpy:67
+    man "Bu orospu çok sinir bozucu patron, hadi şu küçük ağzını kapatalım, sikelim ve öldürelim."
+
+
 translate turkish episode007_19c83bb8:
 
-    # man "What do you s-"
-    man "Ne yapıyorsun"
 
-# game/episode007.rpy:69
+    man "Ne di-"
+
+
 translate turkish episode007_b150db32:
 
-    # man "Aaarghh!"
+
     man "Aaarghh!"
 
-# game/episode007.rpy:71
+
 translate turkish episode007_c0d8f079:
 
-    # bl "I'm sorry, but I just can't stand rude behavior."
-    bl "Üzgünüm, ama sadece kaba davranışa dayanamıyorum."
 
-# game/episode007.rpy:72
+    bl "Üzgünüm ama kaba davranışlara tahammül edemiyorum."
+
+
 translate turkish episode007_e1dceae0:
 
-    # gl "He had it coming."
-    gl "Geldi."
 
-# game/episode007.rpy:74
+    gl "Bunu hak etti."
+
+
 translate turkish episode007_d191ecee:
 
-    # gl "Why don't you fuck off and come back later, Candy?"
-    gl "Neden fuck ve daha sonra geri dönmüyorsun Candy?"
 
-# game/episode007.rpy:75
+    gl "Neden siktirip gidip sonra gelmiyorsun, Candy?"
+
+
 translate turkish episode007_253d8f9a:
 
-    # woman "I sure will, Glixken."
-    woman "Eminim Glixken."
 
-# game/episode007.rpy:77
+    woman "Tabi ki gelirim, Glixken."
+
+
 translate turkish episode007_dea68c7b:
 
-    # gl "Now what do you want with me, lady?"
-    gl "Şimdi benimle ne istiyorsun bayan?"
 
-# game/episode007.rpy:79
+    gl "Şimdi benden ne istiyorsun, hanımefendi?"
+
+
 translate turkish episode007_e7f467cd:
 
-    # bl "Kvi suits me just fine."
-    bl "KVI bana çok yakışıyor."
 
-# game/episode007.rpy:82
+    bl "Kvi bana uyar."
+
+
 translate turkish episode007_ac3ddfc0:
 
-    # gl "What brings you to this dusty shithole, Kvi?"
-    gl "Sizi bu tozlu boktan kvi'ye getiren nedir?"
 
-# game/episode007.rpy:84
+    gl "Seni bu tozlu bok çukuruna ne getirdi, Kvi?"
+
+
 translate turkish episode007_72c0adaf:
 
-    # bl "I recently travelled to Ryūjin Prime, you may have heard of it?"
-    bl "Son zamanlarda Ryūjin Prime'a seyahat ettim, duymuş olabilir misiniz?"
 
-# game/episode007.rpy:85
+    bl "Yakın zamanda Ryūjin Prime'a gittim, duymuş olabilirsin?"
+
+
 translate turkish episode007_1ee2310a:
 
-    # gl "I do, bunch of scientists playing school together."
-    gl "Yapıyorum, birlikte okul oynayan bir grup bilim adamı."
 
-# game/episode007.rpy:86
+    gl "Biliyorum, bir grup bilim adamının birlikte okul oynadığı yer."
+
+
 translate turkish episode007_c7817f03:
 
-    # bl "A good while back a ship docked there containing a number of people I really want to meet."
-    bl "Bir gemiye geri döndüğümde, gerçekten tanışmak istediğim birkaç kişiyi içeren bir gemi."
 
-# game/episode007.rpy:88
+    bl "Bir süre önce oraya, görüşmek istediğim bazı insanları taşıyan bir gemi yanaştı."
+
+
 translate turkish episode007_64f2c7f3:
 
-    # gl "What's that got to do with me?"
-    gl "Benimle ne ilgisi var?"
 
-# game/episode007.rpy:90
+    gl "Bunun benimle ne ilgisi var?"
+
+
 translate turkish episode007_95178b73:
 
-    # bl "I traced the ship's flight manifest back to this dusty shit hole, as you so aptly called it just now."
-    bl "Şimdi bu tozlu bok deliğine geri döndüm, şimdi bu kadar uygun bir şekilde aradığınız gibi."
 
-# game/episode007.rpy:91
+    bl "Geminin uçuş kaydını, az önce çok yerinde bir şekilde söylediğin gibi, bu tozlu bok çukuruna kadar takip ettim."
+
+
 translate turkish episode007_4c6e80ee:
 
-    # bl "According to some helpful locals, there's only one place around here where this ship could come from, a place called Thyia's workshop."
-    bl "Bazı yararlı yerlilere göre, burada bu geminin gelebileceği tek bir yer var, Thyia'nın atölyesi adı verilen bir yer."
 
-# game/episode007.rpy:92
+    bl "Yardımsever yerel halka göre, bu geminin gelebileceği tek bir yer var, Thyia'nın atölyesi denilen bir yer."
+
+
 translate turkish episode007_58c33962:
 
-    # bl "Now I know your name is not Thyia and the girl who graced your cock moments before isn't either."
-    bl "Şimdi adının Thyia olmadığını biliyorum ve daha önce horoz anlarını süsleyen kız da değil."
 
-# game/episode007.rpy:93
+    bl "Şimdi, senin adının Thyia olmadığını ve az önce sikini şereflendiren kızın da olmadığını biliyorum."
+
+
 translate turkish episode007_9e9be69e:
 
-    # bl "So my question is, where's Thyia?"
-    bl "Öyleyse sorum şu, Thyia nerede?"
 
-# game/episode007.rpy:95
+    bl "Peki sorum şu, Thyia nerede?"
+
+
 translate turkish episode007_f852ff03:
 
-    # gl "Is Thyia the one you're hoping to find?"
-    gl "Thyia bulmayı umduğunuz kişi mi?"
 
-# game/episode007.rpy:97
+    gl "Bulmayı umduğun kişi Thyia mı?"
+
+
 translate turkish episode007_dac8bbf8:
 
-    # bl "Why do you sound so eager, all of a sudden?"
-    bl "Neden aniden bu kadar hevesli geliyorsun?"
 
-# game/episode007.rpy:99
+    bl "Neden birden bu kadar hevesli görünüyorsun?"
+
+
 translate turkish episode007_c75c60f2:
 
-    # gl "Because that bitch ran away from me."
-    gl "Çünkü bu orospu benden kaçtı."
 
-# game/episode007.rpy:100
+    gl "Çünkü o orospu benden kaçtı."
+
+
 translate turkish episode007_738de47c:
 
-    # gl "She owes me a great deal of money."
-    gl "Bana çok para borçlu."
 
-# game/episode007.rpy:102
+    gl "Bana çok borcu var."
+
+
 translate turkish episode007_520004e1:
 
-    # bl "I see."
+
     bl "Anlıyorum."
 
-# game/episode007.rpy:103
+
 translate turkish episode007_8c363f0b:
 
-    # bl "And the reason why you haven't gone after her is...?"
-    bl "Ve onun peşinden gitmamanın nedeni ...?"
 
-# game/episode007.rpy:105
+    bl "Peki onu neden takip etmedin...?"
+
+
 translate turkish episode007_82c0b566:
 
-    # gl "I don't have a clue where she went."
-    gl "Gittiği bir fikrim yok."
 
-# game/episode007.rpy:106
+    gl "Nereye gittiği hakkında hiçbir fikrim yok."
+
+
 translate turkish episode007_2374c4a8:
 
-    # gl "She left her workshop in a hurry, so I figured it was mine as a partial payment for everything she owes me."
-    gl "Atölyesini aceleyle bıraktı, bu yüzden bana borçlu olduğu her şey için kısmi bir ödeme olarak benim olduğunu düşündüm."
 
-# game/episode007.rpy:107
+    gl "Atölyesini aceleyle terk etti, ben de bana olan borçlarının kısmi ödemesi olarak benim olduğunu düşündüm."
+
+
 translate turkish episode007_85c9e9a0:
 
-    # gl "It's next to fucking worthless though, nobody's interested in any of the useless scrap lying about."
-    gl "Yine de değersiz lanet yanında, kimse yalan söyleyen işe yaramaz hurda ile ilgilenmiyor."
 
-# game/episode007.rpy:109
+    gl "Ama hiçbir sike yaramıyor, kimse etrafta yatan işe yaramaz hurdalara ilgi göstermiyor."
+
+
 translate turkish episode007_255b48fb:
 
-    # bl "Not even the ship that's gathering dust in the yard?"
-    bl "Bahçede toz toplayan gemi bile değil mi?"
 
-# game/episode007.rpy:111
+    bl "Bahçede toz toplayan gemi bile mi?"
+
+
 translate turkish episode007_e342f46d:
 
-    # gl "Hunk of junk."
-    gl "Önemsiz iri."
 
-# game/episode007.rpy:113
+    gl "Hurda yığını."
+
+
 translate turkish episode007_a02d26bd:
 
-    # bl "That's a Sovereignty warship you're talking about!"
-    bl "Bu, bahsettiğiniz bir egemenlik savaş gemisi!"
 
-# game/episode007.rpy:114
+    bl "Bu bahsettiğin bir Egemenlik savaş gemisi!"
+
+
 translate turkish episode007_18ba0276:
 
-    # gl "So?"
-    gl "Böyle?"
 
-# game/episode007.rpy:116
+    gl "Ee?"
+
+
 translate turkish episode007_707f91a3:
 
-    # bl "Never mind."
+
     bl "Boşver."
 
-# game/episode007.rpy:117
+
 translate turkish episode007_5ddae266:
 
-    # bl "Did Thyia leave with someone?"
-    bl "Thyia biriyle ayrıldı mı?"
 
-# game/episode007.rpy:119
+    bl "Thyia biriyle mi gitti?"
+
+
 translate turkish episode007_d0014668:
 
-    # gl "Probably that fucking boy and the redheaded piece of ass."
-    gl "Muhtemelen o lanet çocuk ve kızıl saçlı kıç parçası."
 
-# game/episode007.rpy:121
+    gl "Muhtemelen o sikik çocuk ve kızıl saçlı güzel parça."
+
+
 translate turkish episode007_06353ccd:
 
-    # bl "These two?"
-    bl "Bu ikisi?"
 
-# game/episode007.rpy:123
+    bl "Bu ikisi mi?"
+
+
 translate turkish episode007_72db2e10:
 
-    # gl "Yes, that's them."
-    gl "Evet, bu onlar."
 
-# game/episode007.rpy:125
+    gl "Evet, onlar."
+
+
 translate turkish episode007_e6dd8f92:
 
-    # gl "Girl had some nice tits on her."
-    gl "Kızın üzerinde güzel göğüsleri vardı."
 
-# game/episode007.rpy:127
+    gl "Kızın güzel memeleri vardı."
+
+
 translate turkish episode007_22c4fe3a:
 
-    # bl "Must you be so vulgar?"
-    bl "Bu kadar kaba olmalı mısın?"
 
-# game/episode007.rpy:128
+    bl "Bu kadar kaba olmak zorunda mısın?"
+
+
 translate turkish episode007_c39e85d9:
 
-    # gl "You're the one who interrupted my fun with Candy..."
-    gl "Şekerle eğlencemi kesen sensin ..."
 
-# game/episode007.rpy:130
+    gl "Candy ile olan eğlencemi bölen sensin..."
+
+
 translate turkish episode007_a4acbb3b:
 
-    # bl "Poor boy."
+
     bl "Zavallı çocuk."
 
-# game/episode007.rpy:131
+
 translate turkish episode007_9040c729:
 
-    # bl "Are you interested in getting that payment from Thyia?"
-    bl "Bu ödemeyi Thyia'dan almakla ilgileniyor musunuz?"
 
-# game/episode007.rpy:133
+    bl "Thyia'dan o ödemeyi almak ister misin?"
+
+
 translate turkish episode007_0825a139:
 
-    # gl "I am."
-    gl "Ben."
 
-# game/episode007.rpy:135
+    gl "İsterim."
+
+
 translate turkish episode007_9a448b7b:
 
-    # bl "Good, because I think our interests overlap."
-    bl "Güzel, çünkü ilgi alanlarımız örtüşüyor."
 
-# game/episode007.rpy:136
+    bl "Güzel, çünkü çıkarlarımızın örtüştüğünü düşünüyorum."
+
+
 translate turkish episode007_55bb685f:
 
-    # bl "I'd like to hire you and your boys."
-    bl "Seni ve erkek çocuklarını işe almak istiyorum."
 
-# game/episode007.rpy:137
+    bl "Seni ve adamlarını kiralamak istiyorum."
+
+
 translate turkish episode007_0b019481:
 
-    # gl "Keep talking."
-    gl "Konuşmaya devam et."
 
-# game/episode007.rpy:138
+    gl "Devam et."
+
+
 translate turkish episode007_ae3c675f:
 
-    # bl "You're going to help me find that boy, his redheaded companion and anyone else he's traveling with."
-    bl "O çocuğu, kızıl saçlı arkadaşını ve seyahat ettiği diğerlerini bulmama yardım edeceksin."
 
-# game/episode007.rpy:139
+    bl "O çocuğu, kızıl saçlı arkadaşını ve onunla seyahat eden herkesi bulmama yardım edeceksin."
+
+
 translate turkish episode007_89c61a99:
 
-    # bl "In turn, you'll get paid and Thyia handed over to you once I'm done with her."
-    bl "Buna karşılık, ödenecek ve onunla işim bittiğinde Thyia size teslim olacaksınız."
 
-# game/episode007.rpy:140
+    bl "Karşılığında para alacaksın ve işim bittiğinde Thyia'yı sana teslim edeceğim."
+
+
 translate turkish episode007_167fe94e:
 
-    # bl "Do we have a deal?"
+
     bl "Anlaştık mı?"
 
-# game/episode007.rpy:142
+
 translate turkish episode007_9179f270:
 
-    # gl "We do."
-    gl "Yaparız."
 
-# game/episode007.rpy:144
+    gl "Anlaştık."
+
+
 translate turkish episode007_12382e0e:
 
-    # bl "Good."
-    bl "İyi."
 
-# game/episode007.rpy:145
+    bl "Güzel."
+
+
 translate turkish episode007_80a4aa2b:
 
-    # bl "My ship is located two miles from here, I'll send you the coordinates."
-    bl "Gemim buradan iki mil uzakta, size koordinatları göndereceğim."
 
-# game/episode007.rpy:146
+    bl "Gemim buradan iki mil uzakta, sana koordinatları göndereceğim."
+
+
 translate turkish episode007_c5ebe274:
 
-    # bl "Meet me in two hours with your crew, I gather you'd like to say goodbye to Candy first..."
-    bl "Mürettebatınızla iki saat içinde benimle buluşun, önce Şeker'e veda etmek istiyorsun ..."
 
-# game/episode007.rpy:148
+    bl "İki saat içinde ekibinle buluş, sanırım önce Candy'e veda etmek istersin..."
+
+
 translate turkish episode007_39ce3ec6:
 
-    # gl "Yes, I still want to give her something to remember me by."
-    gl "Evet, hala onu hatırlayacak bir şey vermek istiyorum."
 
-# game/episode007.rpy:149
+    gl "Evet, ona beni hatırlatacak bir şeyler vermek istiyorum."
+
+
 translate turkish episode007_d1aa5d23:
 
-    # gl "Pleasure doing business, Kvi."
-    gl "İş yapmaktan zevk, KVI."
 
-# game/episode007.rpy:151
+    gl "Seninle iş yapmak zevkti, Kvi."
+
+
 translate turkish episode007_0b8147ba:
 
-    # bl "Likewise."
+
     bl "Aynı şekilde."
 
-# game/episode007.rpy:152
+
 translate turkish episode007_b5c4d73f:
 
-    # bl "Don't be late, I want to be back on the trail as soon as possible."
-    bl "Geç kalma, en kısa sürede patikaya geri dönmek istiyorum."
 
-# game/episode007.rpy:160
+    bl "Geç kalma, bir an önce yola çıkmak istiyorum."
+
+
 translate turkish episode007_3e6da6a8:
 
-    # "We were still in transit when Céline knocked on my door."
-    "Céline kapımı çaldığında hala transitteydik."
 
-# game/episode007.rpy:163
+    "Céline kapımı çaldığında hala yoldaydık."
+
+
 translate turkish episode007_4851defe:
 
-    # c "Hey there, did you feel a little lonely?"
-    c "Hey, biraz yalnız hissettin mi?"
 
-# game/episode007.rpy:164
+    c "Hey, biraz yalnız mı hissettin?"
+
+
 translate turkish episode007_0c1da6b1:
 
-    # ce "I am a little, but that's not why I'm here."
-    ce "Birazım, ama bu yüzden buradayım."
 
-# game/episode007.rpy:165
+    ce "Biraz öyleyim, ama buraya bunun için gelmedim."
+
+
 translate turkish episode007_a30c2502:
 
-    # c "Shame, but what's on your mind?"
-    c "Utanç, ama aklınızda ne var?"
 
-# game/episode007.rpy:167
+    c "Yazık, peki aklında ne var?"
+
+
 translate turkish episode007_e4f97873:
 
-    # c "Hey Céline."
+
     c "Hey Céline."
 
-# game/episode007.rpy:168
+
 translate turkish episode007_79725c07:
 
-    # ce "Hey, do you have a minute?"
+
     ce "Hey, bir dakikan var mı?"
 
-# game/episode007.rpy:169
+
 translate turkish episode007_59c20226:
 
-    # c "Go ahead."
-    c "Devam etmek."
 
-# game/episode007.rpy:171
-translate turkish episode007_9cad55a2:
-
-    # ce "Jade and I just completed a full diagnostic of our systems."
-    ce "Jade ve ben sistemlerimizin tam bir teşhisini tamamladık."
-
-# game/episode007.rpy:172
-translate turkish episode007_a185d9c4:
-
-    # c "Seems like a sensible thing to do after being docked for so long at that research station."
-    c "O araştırma istasyonunda bu kadar uzun süre yerleştirildikten sonra mantıklı bir şey gibi görünüyor."
-
-# game/episode007.rpy:173
-translate turkish episode007_a1d31067:
-
-    # c "Did they plant any tracking software?"
-    c "Herhangi bir izleme yazılımı eklediler mi?"
-
-# game/episode007.rpy:174
-translate turkish episode007_c1d12582:
-
-    # ce "Not that we're aware of."
-    ce "Farkında olduğumuzdan değil."
-
-# game/episode007.rpy:176
-translate turkish episode007_0682b249:
-
-    # ce "There's something else though."
-    ce "Yine de başka bir şey var."
-
-# game/episode007.rpy:177
-translate turkish episode007_021a41dd:
-
-    # c "I really don't like the sound of that."
-    c "Bunun sesini gerçekten sevmiyorum."
-
-# game/episode007.rpy:178
-translate turkish episode007_22a2f0d5:
-
-    # ce "Someone has been sending messages to an unknown recipient."
-    ce "Birisi bilinmeyen bir alıcıya mesaj gönderiyor."
-
-# game/episode007.rpy:179
-translate turkish episode007_51681bd5:
-
-    # c "What kind of messages?"
-    c "Ne tür mesajlar?"
-
-# game/episode007.rpy:181
-translate turkish episode007_a8a1a95d:
-
-    # ce "We don't know, because the original messages have been deleted and they tried to cover their tracks."
-    ce "Bilmiyoruz, çünkü orijinal mesajlar silindi ve izlerini örtmeye çalıştılar."
-
-# game/episode007.rpy:182
-translate turkish episode007_0f7f9b12:
-
-    # ce "Three messages were sent out to an unknown location."
-    ce "Üç mesaj bilinmeyen bir yere gönderildi."
-
-# game/episode007.rpy:183
-translate turkish episode007_766ac3a9:
-
-    # ce "The first one was sent while we were on Verdant Station, the second we're not sure of."
-    ce "Birincisi biz Verdant istasyonundayken gönderildi, ikincisi emin olmadığımız."
-
-# game/episode007.rpy:184
-translate turkish episode007_68301da4:
-
-    # c "And the third?"
-    c "Ve üçüncüsü?"
-
-# game/episode007.rpy:186
-translate turkish episode007_cfd65657:
-
-    # ce "In the hours after we escaped from the research station."
-    ce "Araştırma istasyonundan kaçtıktan sonraki saatlerde."
-
-# game/episode007.rpy:187
-translate turkish episode007_b437b351:
-
-    # c "Fuck."
-    c "Kahretsin."
-
-# game/episode007.rpy:189
-translate turkish episode007_ad95bac4:
-
-    # ce "It might be nothing, but we thought you should know."
-    ce "Hiçbir şey olmayabilir, ama bilmeniz gerektiğini düşündük."
-
-# game/episode007.rpy:190
-translate turkish episode007_c2241bec:
-
-    # c "We don't know the contents of those messages, but I'm pretty sure it's not nothing."
-    c "Bu mesajların içeriğini bilmiyoruz, ama bunun hiçbir şey olmadığından eminim."
-
-# game/episode007.rpy:191
-translate turkish episode007_fb00e839:
-
-    # c "Someone has been contacting a third party, probably feeding them information on our whereabouts."
-    c "Birisi üçüncü bir tarafla iletişime geçiyor, muhtemelen onlara nerede olduğumuz hakkında bilgi besliyor."
-
-# game/episode007.rpy:193
-translate turkish episode007_e51cedcf:
-
-    # ce "But who?"
-    ce "Ama kim?"
-
-# game/episode007.rpy:194
-translate turkish episode007_a4f959f9:
-
-    # c "I intend to find out."
-    c "Öğrenmeyi planlıyorum."
-
-# game/episode007.rpy:195
-translate turkish episode007_2d89cece:
-
-    # c "Is Jade somehow monitoring these illegal broadcasts?"
-    c "Yeşim bir şekilde bu yasadışı yayınları izliyor mu?"
-
-# game/episode007.rpy:197
-translate turkish episode007_3af0e4ad:
-
-    # ce "I believe she is."
-    ce "Onun olduğuna inanıyorum."
-
-# game/episode007.rpy:198
-translate turkish episode007_139c6bba:
-
-    # c "Good."
-    c "İyi."
-
-# game/episode007.rpy:199
-translate turkish episode007_ab17a107:
-
-    # c "We're the only three that know about this, right?"
-    c "Bunu bilen tek üç biziz, değil mi?"
-
-# game/episode007.rpy:200
-translate turkish episode007_c998b0d0:
-
-    # ce "We are."
-    ce "Biz."
-
-# game/episode007.rpy:201
-translate turkish episode007_77d926e7:
-
-    # c "Please tell Jade to keep this to herself."
-    c "Lütfen Jade'e bunu kendine saklamasını söyleyin."
-
-# game/episode007.rpy:203
-translate turkish episode007_1605c824:
-
-    # ce "I will."
-    ce "Yapacağım."
-
-# game/episode007.rpy:204
-translate turkish episode007_814473b3:
-
-    # "Troubled by Céline's investigation, I turned to our immediate problem, getting into Cetruvar's mansion."
-    "Céline'ın soruşturmasından rahatsız olan Cetruvar'ın konağına girerek derhal sorunumuza döndüm."
-
-# game/episode007.rpy:206
-translate turkish episode007_58282c2d:
-
-    # "I wandered past the mess and saw Thyia sitting there."
-    "Karmaşayı geçtim ve Thyia'nın orada oturduğunu gördüm."
-
-# game/episode007.rpy:207
-translate turkish episode007_70ad65a5:
-
-    # c "Hey, got a minute?"
-    c "Hey, bir dakikan mı var?"
-
-# game/episode007.rpy:208
-translate turkish episode007_e875745e:
-
-    # th "Of course."
-    th "Elbette."
-
-# game/episode007.rpy:209
-translate turkish episode007_f12a88db:
-
-    # c "Enjoying ConVitæ's hospitality for those six months, sure fucked up our plans."
-    c "Convitæ'in bu altı ay boyunca misafirperverliğinin tadını çıkarın, planlarımızı berbat etti."
-
-# game/episode007.rpy:211
-translate turkish episode007_b6db50d0:
-
-    # th "You can say that again."
-    th "Onu tekrar söyleyebilirsin."
-
-# game/episode007.rpy:212
-translate turkish episode007_aa7ef27f:
-
-    # th "Still, we're headed there, what are you planning on doing once we arrive?"
-    th "Yine de oraya yöneldik, geldikten sonra ne yapmayı planlıyorsunuz?"
-
-# game/episode007.rpy:213
-translate turkish episode007_5448e4db:
-
-    # c "I haven't got a clue, to be honest."
-    c "Dürüst olmak gerekirse bir fikrim yok."
-
-# game/episode007.rpy:214
-translate turkish episode007_492c1d27:
-
-    # c "Put on those nice clothes and knock on the front door?"
-    c "O güzel kıyafetleri giy ve ön kapıyı çalın mı?"
-
-# game/episode007.rpy:215
-translate turkish episode007_b2c0303a:
-
-    # c "The invitations Vitriv made for us are useless."
-    c "Vitriv'in bizim için yaptığı davetiyeler işe yaramaz."
-
-# game/episode007.rpy:217
-translate turkish episode007_861441b7:
-
-    # th "Yeah, I'm pretty sure selling the idea of getting into this month's party on invitations from half a year ago is impossible even for you."
-    th "Evet, yarım yıl önceki davetiyelerle bu ayın partisine girme fikrini satmak sizin için bile imkansız."
-
-# game/episode007.rpy:218
-translate turkish episode007_a1f0da02:
-
-    # c "Yeah..."
-    c "Evet..."
-
-# game/episode007.rpy:219
-translate turkish episode007_26a8f1e2:
-
-    # c "Though there's still the identities Vitriv created for us."
-    c "Vitriv'in bizim için yarattığı kimlikler olmasına rağmen."
-
-# game/episode007.rpy:220
-translate turkish episode007_82a81bcf:
-
-    # c "How good are they?"
-    c "Ne kadar iyiler?"
-
-# game/episode007.rpy:221
-translate turkish episode007_94bc987e:
-
-    # c "Will they hold if they do a background check?"
-    c "Arka plan kontrolü yaparlarsa tutacaklar mı?"
-
-# game/episode007.rpy:223
-translate turkish episode007_b60be73b:
-
-    # th "Vitriv is very good at what he does, so yes, I think those identities are solid."
-    th "Vitriv yaptığı işte çok iyi, bu yüzden evet, bence bu kimlikler sağlam."
-
-# game/episode007.rpy:224
-translate turkish episode007_f9d30170:
-
-    # th "We're a bunch of socialites looking for some fun."
-    th "Biz biraz eğlence arayan bir grup sosyalistiz."
-
-# game/episode007.rpy:225
-translate turkish episode007_da1648ac:
-
-    # th "Rich enough to attend parties like this, but not filthy rich as to attract unwanted attention."
-    th "Böyle partilere katılacak kadar zengin, ancak istenmeyen ilgiyi çekecek kadar pis zengin değil."
-
-# game/episode007.rpy:227
-translate turkish episode007_1180c3bb:
-
-    # th "Why, do you have an idea?"
-    th "Neden bir fikrin var mı?"
-
-# game/episode007.rpy:228
-translate turkish episode007_e4cd5240:
-
-    # c "More or less."
-    c "Az çok."
-
-# game/episode007.rpy:229
-translate turkish episode007_2ce1cc31:
-
-    # c "Do you have the layout of Cetruvar's mansion?"
-    c "Cetruvar'ın konağının düzeni var mı?"
-
-# game/episode007.rpy:231
-translate turkish episode007_1c62db38:
-
-    # th "Yes, I've obtained the plans back on Barranthis."
-    th "Evet, planları Barranthis'e geri aldım."
-
-# game/episode007.rpy:232
-translate turkish episode007_3f947546:
-
-    # th "Not easy to come by."
-    th "Gelmek kolay değil."
-
-# game/episode007.rpy:233
-translate turkish episode007_49de9143:
-
-    # c "There's no way we're getting into that party with our months-old invitations."
-    c "Aylar eski davetiyelerimizle o partiye girmemizin bir yolu yok."
-
-# game/episode007.rpy:234
-translate turkish episode007_23e25069:
-
-    # c "So we forget about the front door and find another way in."
-    c "Bu yüzden ön kapıyı unutuyoruz ve başka bir yol buluyoruz."
-
-# game/episode007.rpy:236
-translate turkish episode007_380c5040:
-
-    # th "You do realize that mansion is built to withstand any outside infiltration?"
-    th "Konağın herhangi bir dış sızmaya dayanacak şekilde inşa edildiğini fark ettiniz mi?"
-
-# game/episode007.rpy:237
-translate turkish episode007_7a393ff9:
-
-    # th "The guy is paranoid about security."
-    th "Adam güvenlik konusunda paranoyak."
-
-# game/episode007.rpy:238
-translate turkish episode007_18b1a63f:
-
-    # c "There must be a way."
-    c "Bir yolu olmalı."
-
-# game/episode007.rpy:239
-translate turkish episode007_5c55c403:
-
-    # th "[p_name_short], that house is sticking out of a cliff overlooking the sea."
-    th "[p_name_short], o ev denize bakan bir uçurumdan çıkıyor."
-
-# game/episode007.rpy:240
-translate turkish episode007_2ceaaeae:
-
-    # c "So we rappel from that cliff onto the top floor, hide our gear and mingle with the regular guests."
-    c "Bu yüzden o uçurumdan en üst kata rappel yapıyoruz, ekipmanımızı saklıyoruz ve normal konuklarla karışıyoruz."
-
-# game/episode007.rpy:242
-translate turkish episode007_0ab29b80:
-
-    # th "That's insane, what about all the guards?"
-    th "Bu çılgınca, ya tüm gardiyanlar?"
-
-# game/episode007.rpy:243
-translate turkish episode007_26f40186:
-
-    # c "We need a diversion."
-    c "Bir sapmaya ihtiyacımız var."
-
-# game/episode007.rpy:244
-translate turkish episode007_cd89879d:
-
-    # c "What about a ship landing unannounced, filled with a bunch of socialites looking to party."
-    c "Ya habersiz bir gemi iniş, parti isteyen bir grup sosyalistle dolu."
-
-# game/episode007.rpy:245
-translate turkish episode007_edd7e965:
-
-    # c "As soon as they start kicking a big fuss over their outdated invitations, keeping security busy, we climb down from that cliff and blend in."
-    c "Eski davetiyeleri üzerinde büyük bir yaygara atmaya başlar başlamaz, güvenliği meşgul ederek, o uçurumdan aşağı iner ve karışırız."
-
-# game/episode007.rpy:247
-translate turkish episode007_e0d0ecc2:
-
-    # th "Crazy."
-    th "Çılgın."
-
-# game/episode007.rpy:248
-translate turkish episode007_57ec8726:
-
-    # c "But doable, right?"
-    c "Ama yapılabilir, değil mi?"
-
-# game/episode007.rpy:250
-translate turkish episode007_e2c8978b:
-
-    # th "Maybe..."
-    th "Belki..."
-
-# game/episode007.rpy:251
-translate turkish episode007_d6b76d85:
-
-    # th "We have the required gear on board."
-    th "Gemide gerekli ekipman var."
-
-# game/episode007.rpy:252
-translate turkish episode007_289708ec:
-
-    # c "Good, it should be enough for a small team."
-    c "İyi, küçük bir takım için yeterli olmalı."
-
-# game/episode007.rpy:253
-translate turkish episode007_7424b10f:
-
-    # c "Kit probably, now that he's out of that wheelchair, and because he sees any rock formation as a personal challenge."
-    c "Kit muhtemelen, şimdi o tekerlekli sandalyeden çıktığına ve herhangi bir kaya oluşumunu kişisel bir meydan okuma olarak gördüğü için."
-
-# game/episode007.rpy:254
-translate turkish episode007_6edcd6cd:
-
-    # c "You, Aven and me makes four."
-    c "Sen, Aven ve ben dördü yapıyor."
-
-# game/episode007.rpy:255
-translate turkish episode007_54dc9546:
-
-    # c "That leaves the rest to create as much of a stir as possible and get the attention of any security."
-    c "Bu, geri kalanını mümkün olduğunca çok heyecan yaratmak ve herhangi bir güvenliğin dikkatini çekmek için bırakır."
-
-# game/episode007.rpy:257
-translate turkish episode007_7585f21e:
-
-    # th "Fuck, I'm really not looking forward to dangling from a rocky cliff, to be honest."
-    th "Siktir et, dürüst olmak gerekirse, kayalık bir uçurumdan sarkmayı dört gözle beklemiyorum."
-
-# game/episode007.rpy:258
-translate turkish episode007_10881298:
-
-    # th "The descent is quite treacherous, so it's going to be a challenge even without any guards looking for intruders."
-    th "İniş oldukça hain, bu yüzden davetsiz misafir arayan gardiyanlar olmadan bile bir meydan okuma olacak."
-
-# game/episode007.rpy:259
-translate turkish episode007_131a378a:
-
-    # c "Right, but we have to take this shot."
-    c "Doğru, ama bu çekimi yapmalıyız."
-
-# game/episode007.rpy:260
-translate turkish episode007_d292501b:
-
-    # c "If I'm reading those plans correctly, we should be able to land here."
-    c "Bu planları doğru bir şekilde okursam, buraya inebilmeliyiz."
-
-# game/episode007.rpy:262
-translate turkish episode007_fd09cb1b:
-
-    # th "Yes, that should be possible."
-    th "Evet, bu mümkün olmalı."
-
-# game/episode007.rpy:263
-translate turkish episode007_12315d10:
-
-    # th "That gets you access to the lower floors of the mansion."
-    th "Bu, konağın alt katlarına erişmenizi sağlar."
-
-# game/episode007.rpy:264
-translate turkish episode007_961cf08a:
-
-    # th "The party is likely held on the lowest floor, where the swimming pool is."
-    th "Parti muhtemelen yüzme havuzunun bulunduğu en düşük katta tutulmaktadır."
-
-# game/episode007.rpy:265
-translate turkish episode007_4accda74:
-
-    # th "The first floor is also open to the public, but other than that the mansion is private."
-    th "Birinci kat da halka açıktır, ancak bunun dışında konak özeldir."
-
-# game/episode007.rpy:266
-translate turkish episode007_a6abf800:
-
-    # th "There are a couple of elevators which will probably take you upstairs, but those are likely to be heavily guarded."
-    th "Muhtemelen sizi üst kata çıkaracak birkaç asansör var, ancak bunların büyük ölçüde korunması muhtemel."
-
-# game/episode007.rpy:268
-translate turkish episode007_5c466ac8:
-
-    # th "Once you're inside you need to improvise."
-    th "İçeri girdikten sonra doğaçlama yapmanız gerekir."
-
-# game/episode007.rpy:269
-translate turkish episode007_c8315362:
-
-    # th "Getting inside is tricky, but leaving the compound is a whole other matter entirely..."
-    th "İçeri girmek zor, ama bileşikten ayrılmak tamamen başka bir konu ..."
-
-# game/episode007.rpy:270
-translate turkish episode007_cae2b447:
-
-    # c "I know, but there's no other option."
-    c "Biliyorum, ama başka bir seçenek yok."
-
-# game/episode007.rpy:271
-translate turkish episode007_ede19bf3:
-
-    # c "If we aren't busted during the party, we should be able to just leave with the other guests once they all go back home."
-    c "Parti sırasında yakalanmazsak, hepsi eve döndükten sonra diğer konuklarla birlikte ayrılabilmeliyiz."
-
-# game/episode007.rpy:273
-translate turkish episode007_83284676:
-
-    # th "Risky."
-    th "Riskli."
-
-# game/episode007.rpy:274
-translate turkish episode007_bb78aab7:
-
-    # c "I know."
-    c "Biliyorum."
-
-# game/episode007.rpy:275
-translate turkish episode007_41d8b439:
-
-    # c "Could you leave these plans with me, I'm going to study them a little more."
-    c "Bu planları yanımda bırakabilir misin, onları biraz daha inceleyeceğim."
-
-# game/episode007.rpy:277
-translate turkish episode007_aee6bcfe:
-
-    # th "Of course, I'll bring the others up to speed."
-    th "Tabii ki, diğerlerini hızlandıracağım."
-
-# game/episode007.rpy:283
-translate turkish episode007_0926a89e:
-
-    # "We broke atmosphere several hours later."
-    "Birkaç saat sonra atmosferi kırdık."
-
-# game/episode007.rpy:284
-translate turkish episode007_f7c17cff:
-
-    # "Céline had plotted a course that would bring us near the cliff where the mansion was situated."
-    "Céline, bizi konağın bulunduğu uçurumun yanına getirecek bir kurs çizmişti."
-
-# game/episode007.rpy:285
-translate turkish episode007_3c401605:
-
-    # "We had no illusions we weren't already spotted by the orbital ward drones that were undoubtedly patrolling the planet's perimeter."
-    "Kuşkusuz gezegenin çevresinde devriye gezen yörünge koğuş dronları tarafından henüz görülmediğimiz hiçbir yanılsamamız yoktu."
-
-# game/episode007.rpy:287
-translate turkish episode007_e32af614:
-
-    # "Hopefully our little detour and subsequent dumping of four passengers, before officially landing at the mansion, would go unnoticed."
-    "Umarım küçük dolambaçlı sapma ve daha sonra dört yolcunun dampingini, resmen konakta inmeden önce fark edilmeyecekti."
-
-# game/episode007.rpy:289
-translate turkish episode007_5714cbcb:
-
-    # "Kit, Aven, Thyia and me were suited up and ready to make the jump."
-    "Kit, Aven, Thyia ve ben uygun olduk ve atlamaya hazır olduk."
-
-# game/episode007.rpy:290
-translate turkish episode007_516fcd00:
-
-    # "The rest of the crew were all dressed up, ready to play a bunch of clueless socialites trying to gain access to one of Cetruvar's renowned private parties."
-    "Mürettebatın geri kalanı giyinmişti, Cetruvar'ın ünlü özel partilerinden birine erişmeye çalışan bir grup clueless sosyalisti oynamaya hazırdı."
-
-# game/episode007.rpy:291
-translate turkish episode007_5b1ae7e5:
-
-    # "We had stashed our change of clothes inside our backpacks, ready to be put on as soon as we dropped inside the mansion grounds."
-    "Giysi değişimimizi sırt çantalarımızın içinde sakladık, konak alanlarına düştüğümüzde takılmaya hazırdık."
-
-# game/episode007.rpy:292
-translate turkish episode007_64407562:
-
-    # ce "Five minutes until drop-off."
-    ce "Bırakana kadar beş dakika."
-
-# game/episode007.rpy:293
-translate turkish episode007_6580c6b1:
-
-    # ce "You better get ready."
-    ce "Hazır olsan iyi olur."
-
-# game/episode007.rpy:295
-translate turkish episode007_c1de72b2:
-
-    # "We headed towards the cargo bay and waited until Céline would open the doors and give the go-ahead."
-    "Kargo Körfezi'ne doğru yola çıktık ve Céline kapıları açıp ilerlemeye kadar bekledik."
-
-# game/episode007.rpy:296
-translate turkish episode007_77f18e05:
-
-    # "Céline had assured us that she would be able to fly as low as possible towards the cliff's surface in order for us to jump down."
-    "Céline, aşağı atlayabilmemiz için uçurumun yüzeyine doğru olabildiğince düşük uçabileceğinden emin olmuştu."
-
-# game/episode007.rpy:297
-translate turkish episode007_e312d938:
-
-    # ce "Be careful, there's quite a lot of wind outside."
-    ce "Dikkatli olun, dışarıda çok fazla rüzgar var."
-
-# game/episode007.rpy:298
-translate turkish episode007_3b2180f3:
-
-    # ce "Ready?"
-    ce "Hazır?"
-
-# game/episode007.rpy:300
-translate turkish episode007_cf63047b:
-
-    # "She didn't wait for an answer and opened the cargo bay doors."
-    "Bir cevap beklemedi ve kargo koy kapılarını açtı."
-
-# game/episode007.rpy:301
-translate turkish episode007_31b9c06c:
-
-    # "A violent gust of wind nearly swept us off our feet, but we were able to make our way to the exit."
-    "Şiddetli bir rüzgar gust bizi neredeyse ayaklarımızdan süpürdü, ancak çıkışa doğru yol alabildik."
-
-# game/episode007.rpy:302
-translate turkish episode007_d63ba3a9:
-
-    # "The ship hovered closely above the rocky surface and Céline did a pretty good job of holding her steady."
-    "Gemi kayalık yüzeyin üzerinde yakından geldi ve Céline onu sabit tutmak için oldukça iyi bir iş çıkardı."
-
-# game/episode007.rpy:304
-translate turkish episode007_70503103:
-
-    # "Her warning about the wind was no exaggeration, as soon as we exited the Bastard, it tore at us with a savage ferocity."
-    "Rüzgarla ilgili uyarısı abartı değildi, piçten çıkar çıkmaz bize vahşi bir vahşetle yırttı."
-
-# game/episode007.rpy:306
-translate turkish episode007_15e685f3:
-
-    # "Kit was the first to jump, his fall cushioned by the technique we all trained for."
-    "Kit ilk atladı, düşüşü hepimizin eğittiği teknikle yastıkladı."
-
-# game/episode007.rpy:307
-translate turkish episode007_e7a10e95:
-
-    # "We all made it down in one piece."
-    "Hepimiz bunu tek parça halinde indirdik."
-
-# game/episode007.rpy:309
-translate turkish episode007_4ff6e1e4:
-
-    # "The Bastard's cargo bay door closed and she accelerated towards a higher altitude."
-    "Piç kargo koy kapısı kapandı ve daha yüksek bir irtifaya doğru hızlandı."
-
-# game/episode007.rpy:310
-translate turkish episode007_f940dcac:
-
-    # "At that point we were alone."
-    "O noktada yalnızdık."
-
-# game/episode007.rpy:312
-translate turkish episode007_a27a69f9:
-
-    # "Not wasting any time we hammered our climbing spikes into the rock and looped sturdy cables through them."
-    "Hiç zaman harcamamak, tırmanma sivri uçlarımızı kayaya dövdük ve onlardan sağlam kabloları döngü yaptık."
-
-# game/episode007.rpy:313
-translate turkish episode007_ce27790d:
-
-    # "We saw the Bastard make the necessary manoeuvres to start its descent towards the mansion's landing pad down below."
-    "Piçin, konağın iniş pedine doğru inişini başlatmak için gerekli manevraları yaptığını gördük."
-
-# game/episode007.rpy:315
-translate turkish episode007_b06b95ed:
-
-    # "Kit was the first to rappel down and did so with visible glee."
-    "Kit ilk rappel aşağı ve görünür Glee ile yaptı."
-
-# game/episode007.rpy:316
-translate turkish episode007_c84cf67a:
-
-    # "He wore the same expression during all those suicidal field trips we undertook - at his request - to various Sovereignty natural landmarks, when we were younger."
-    "Aynı ifadeyi, talebinde bulunduğumuz tüm intihar saha gezileri sırasında - daha gençken çeşitli egemenlik doğal yerler için üstlendiğimiz intihar saha gezileri giydi."
-
-# game/episode007.rpy:318
-translate turkish episode007_6292aa02:
-
-    # th "Remind me, why are we doing it this way again?"
-    th "Bana hatırlat, neden tekrar bu şekilde yapıyoruz?"
-
-# game/episode007.rpy:319
-translate turkish episode007_14b566f1:
-
-    # c "Lots of reasons that seemed good at the time."
-    c "O zamanlar iyi görünen birçok neden."
-
-# game/episode007.rpy:320
-translate turkish episode007_da0aebfa:
-
-    # c "Just don't look down."
-    c "Sadece aşağıya bakma."
-
-# game/episode007.rpy:321
-translate turkish episode007_72822904:
-
-    # th "I already did."
-    th "Zaten yaptım."
-
-# game/episode007.rpy:322
-translate turkish episode007_fe9efa64:
-
-    # th "Why did that motherfucker need to build his mansion half inside a miles-high cliff?"
-    th "Neden bu orospu çocuğunun konağını kilometrelerce yüksek bir uçurumun içine inşa etmesi gerekiyordu?"
-
-# game/episode007.rpy:323
-translate turkish episode007_733952f8:
-
-    # c "Let's ask him once we get inside."
-    c "İçeri girdikten sonra ona soralım."
-
-# game/episode007.rpy:324
-translate turkish episode007_815b5bcc:
-
-    # th "Let's."
-    th "Haydi."
-
-# game/episode007.rpy:326
-translate turkish episode007_eaf43eaf:
-
-    # "We neared one of the rooftops of the mansion complex."
-    "Konak kompleksinin çatılarından birine yaklaştık."
-
-# game/episode007.rpy:327
-translate turkish episode007_24abc0d7:
-
-    # "The Bastard had landed on the landing pad and we could see guards streaming towards the ship."
-    "Piç iniş pedine inmişti ve gardiyanların gemiye doğru aktığını görebiliyorduk."
-
-# game/episode007.rpy:328
-translate turkish episode007_c51ac60a:
-
-    # "It looked as if most of the compound's security was busy pointing guns at the Bastard's entrance hatch, giving us a small window to enter the grounds unseen."
-    "Bileşiğin güvenliğinin çoğu piçin giriş kapağında silahları işaret etmekle meşguldü ve bize görünmeyen zemine girmek için küçük bir pencere veriyor."
-
-# game/episode007.rpy:330
-translate turkish episode007_5999c124:
-
-    # "Kit hit the roof first and immediately unfastened his rappelling harness."
-    "Kit önce çatıya çarptı ve hemen rappelling kablo demetini açtı."
-
-# game/episode007.rpy:331
-translate turkish episode007_5e9d4d59:
-
-    # "Aven was next and did the same."
-    "Aven sıradaydı ve aynısını yaptı."
-
-# game/episode007.rpy:333
-translate turkish episode007_84488868:
-
-    # "Thyia and I touched down almost simultaneously."
-    "Thyia ve ben neredeyse aynı anda dokunduk."
-
-# game/episode007.rpy:335
-translate turkish episode007_ef2d2865:
-
-    # "We hid the harnesses before hastily changing into our party outfits."
-    "Parti kıyafetlerimize aceleyle değişmeden önce koşumları sakladık."
-
-# game/episode007.rpy:336
-translate turkish episode007_1fcd1383:
-
-    # "The Bastard wasn't visible from our vantage point, so there was no way of telling if they were still entertaining the compound's guard detail."
-    "Piç, bakış açımızdan görünmüyordu, bu yüzden hala bileşiğin koruma detayını eğlendirip eğlendirip eğlendirdiklerini söylemenin bir yolu yoktu."
-
-# game/episode007.rpy:337
-translate turkish episode007_3312aa42:
-
-    # "The lack of gunshots so far was a promising sign."
-    "Şimdiye kadar silah atışı eksikliği umut verici bir işaretti."
-
-# game/episode007.rpy:338
-translate turkish episode007_c6017591:
-
-    # "We would be able to descend from the roof onto a balcony via a ladder."
-    "Bir merdivenle çatıdan bir balkona inebiliriz."
-
-# game/episode007.rpy:343
-translate turkish episode007_58cc5083:
-
-    # "Below us, crowding around a large swimming pool, most of the guests were gathered."
-    "Altımızda, büyük bir yüzme havuzunun etrafında kalabalıklaşan konukların çoğu toplandı."
-
-# game/episode007.rpy:344
-translate turkish episode007_5093a049:
-
-    # "Some were swimming naked in the pool, mingling freely with the guests that still wore their clothes."
-    "Bazıları havuzda çıplak yüzüyordu, hala kıyafetlerini giyen konuklarla serbestçe karışıyordu."
-
-# game/episode007.rpy:345
-translate turkish episode007_8bc5f27e:
-
-    # "The atmosphere seemed very loose, this wasn't some stuck up cocktail party."
-    "Atmosfer çok gevşek görünüyordu, bu bazı sıkışmış kokteyl partisi değildi."
-
-# game/episode007.rpy:347
-translate turkish episode007_9da21f34:
-
-    # c "Ready to mingle?"
-    c "Karıştırmak için hazır?"
-
-# game/episode007.rpy:349
-translate turkish episode007_616109db:
-
-    # av "No...{w} But we kinda have to, don't we?"
-    av "Hayır...{w} Ama biraz zorundayız, değil mi?"
-
-# game/episode007.rpy:350
-translate turkish episode007_07400ed3:
-
-    # c "If we're to find more information on Eva, yes."
-    c "EVA hakkında daha fazla bilgi bulursak, evet."
-
-# game/episode007.rpy:351
-translate turkish episode007_d36fffff:
-
-    # c "Cetruvar should have files on the Acarhyn, so we need to get into his personal quarters."
-    c "Cetruvar'ın Acarhyn'de dosyaları olmalı, bu yüzden kişisel mahallelerine girmemiz gerekiyor."
-
-# game/episode007.rpy:353
-translate turkish episode007_1218a053:
-
-    # ki "That's not going to be easy."
-    ki "Bu kolay olmayacak."
-
-# game/episode007.rpy:354
-translate turkish episode007_7cbe9f54:
-
-    # c "No, it isn't."
-    c "Hayır, değil."
-
-# game/episode007.rpy:355
-translate turkish episode007_f50ddf08:
-
-    # c "But the night is still young, anything can happen."
-    c "Ama gece hala genç, her şey olabilir."
-
-# game/episode007.rpy:357
-translate turkish episode007_f17cd85a:
-
-    # th "Shall we split up and meet here again later?"
-    th "Daha sonra ayrılıp burada tekrar buluşalım mı?"
-
-# game/episode007.rpy:359
-translate turkish episode007_942e8e42:
-
-    # av "Sounds like a plan."
-    av "Bir plana benziyor."
-
-# game/episode007.rpy:361
-translate turkish episode007_e4947504:
-
-    # "I offered my arm to Thyia and together we took the elevator down to lower level."
-    "Kolumu Thyia'ya teklif ettim ve birlikte asansörü daha düşük seviyeye indirdik."
-
-# game/episode007.rpy:363
-translate turkish episode007_d4212a39:
-
-    # "Aven and Kit went into the opposite direction."
-    "Aven ve Kit ters yöne gitti."
-
-# game/episode007.rpy:364
-translate turkish episode007_b35e6849:
-
-    # "Soon we were surrounded by strangers."
-    "Yakında yabancılarla çevriliydik."
-
-# game/episode007.rpy:366
-translate turkish episode007_947086fa:
-
-    # "Luckily our outfits were a match with those worn by the other guests, so we didn't stand out."
-    "Neyse ki kıyafetlerimiz diğer konuklar tarafından giyilenlerle bir maçtı, bu yüzden öne çıkmadık."
-
-# game/episode007.rpy:368
-translate turkish episode007_f0f8345d:
-
-    # "I noticed that the guards were slowly trickling back, taking up positions throughout the compound."
-    "Gardiyanların bileşik boyunca pozisyon alarak yavaşça geri çekildiğini fark ettim."
-
-# game/episode007.rpy:369
-translate turkish episode007_30ee2e1c:
-
-    # "They were very unobtrusive, but there sure was a lot of muscle around for a mere garden party."
-    "Çok göze batmayanlardı, ama orada sadece bir bahçe partisi için çok fazla kas vardı."
-
-# game/episode007.rpy:370
-translate turkish episode007_ea13ac5d:
-
-    # "Cetruvar probably felt a little insecure."
-    "Cetruvar muhtemelen biraz güvensiz hissetti."
-
-# game/episode007.rpy:372
-translate turkish episode007_a7b398bb:
-
-    # "Speaking of Cetruvar, neither I nor Thyia had spotted our host yet."
-    "Cetruvar'dan bahsetmişken, ne ben ne de Thyia henüz bizim ev sahibi görmüştü."
-
-# game/episode007.rpy:373
-translate turkish episode007_7ae531f5:
-
-    # "We were both in need of a drink, so we went looking for a waiter."
-    "İkimiz de bir içecek ihtiyacımız vardı, bu yüzden bir garson aramaya gittik."
-
-# game/episode007.rpy:375
-translate turkish episode007_d46a762c:
-
-    # c "I thought this would be a very formal thing, but judging from the amount of bikinis and swimsuits I was wrong."
-    c "Bunun çok resmi bir şey olacağını düşündüm, ama bikiniler ve mayo miktarından yola çıkarak yanılmışım."
-
-# game/episode007.rpy:376
-translate turkish episode007_428306a3:
-
-    # th "Some of them are probably hired as decoration, but these parties are renowned because of all the socialites showing off their latest body sculpts."
-    th "Bazıları muhtemelen dekorasyon olarak işe alınmıştır, ancak bu partiler en son vücut heykellerini gösteren tüm sosyalistler nedeniyle ünlüdür."
-
-# game/episode007.rpy:377
-translate turkish episode007_b0f6974e:
-
-    # c "No shit..."
-    c "Bok yok ..."
-
-# game/episode007.rpy:379
-translate turkish episode007_245eac3a:
-
-    # th "That's not the only thing these events are famous for."
-    th "Bu olayların ünlü olduğu tek şey bu değil."
-
-# game/episode007.rpy:380
-translate turkish episode007_aa5cf913:
-
-    # th "Just wait until the entertainment starts."
-    th "Eğlence başlayana kadar bekleyin."
-
-# game/episode007.rpy:381
-translate turkish episode007_9116ea04:
-
-    # c "I reckon the entertainment doesn't have anything to do with playing happy music on a pair of bongos or fire juggling?"
-    c "Eğlencenin bir çift bongos veya ateş hokkabazında mutlu müzik çalmakla ilgisi olmadığını düşünüyorum."
-
-# game/episode007.rpy:382
-translate turkish episode007_014642ac:
-
-    # th "No, but you'll see."
-    th "Hayır, ama göreceksin."
-
-# game/episode007.rpy:383
-translate turkish episode007_efc4445e:
-
-    # c "Can't wait."
-    c "Bekleyemem."
-
-# game/episode007.rpy:385
-translate turkish episode007_2e6a5bf4:
-
-    # "I snatched a pair of drinks from a tray held by a passing server and handed one glass to Thyia."
-    "Geçen bir sunucu tarafından tutulan bir tepsiden bir çift içki kaptım ve Thyia'ya bir bardak verdim."
-
-# game/episode007.rpy:386
-translate turkish episode007_d0b715f8:
-
-    # c "Do you think our host will show himself?"
-    c "Sizce ev sahibimiz kendini gösterecek mi?"
-
-# game/episode007.rpy:388
-translate turkish episode007_2c34d477:
-
-    # th "I think so, he was present on all other occasions."
-    th "Bence öyle, diğer tüm durumlarda vardı."
-
-# game/episode007.rpy:389
-translate turkish episode007_70d6c3cb:
-
-    # th "There are two levels above us."
-    th "Üstümüzde iki seviye var."
-
-# game/episode007.rpy:390
-translate turkish episode007_bb21c76a:
-
-    # th "One is publicly accessible, but there's another floor above it."
-    th "Biri herkese açık olarak erişilebilir, ancak üstünde başka bir kat var."
-
-# game/episode007.rpy:392
-translate turkish episode007_f0a1920c:
-
-    # th "According to the information I have, there's an elevator to that floor."
-    th "Sahip olduğum bilgilere göre, o katta bir asansör var."
-
-# game/episode007.rpy:393
-translate turkish episode007_40606538:
-
-    # c "Heavily guarded, probably?"
-    c "Muhtemelen ağır korunuyor mu?"
-
-# game/episode007.rpy:394
-translate turkish episode007_9e857221:
-
-    # th "Probably."
-    th "Muhtemelen."
-
-# game/episode007.rpy:396
-translate turkish episode007_941c9f0d:
-
-    # th "Cetruvar doesn't fuck around."
-    th "Cetruvar etrafta dolaşmaz."
-
-# game/episode007.rpy:397
-translate turkish episode007_9592c65a:
-
-    # th "Though it surprises me we could pull off that stunt with the Iron Bastard so close to the mansion."
-    th "Beni şaşırtmasına rağmen, konaklara çok yakın olan demir piçle bu dublörden çıkarabilirdik."
-
-# game/episode007.rpy:398
-translate turkish episode007_b17b4e76:
-
-    # c "Well, for all we know the rest of the crew is lying face down on the ground at gunpoint while the guards search for us."
-    c "Her şeyden önce, mürettebatın geri kalanı, gardiyanlar bizi ararken silah zoruyla yüz yüze uzanıyor."
-
-# game/episode007.rpy:400
-translate turkish episode007_42eb924c:
-
-    # th "Could be, though I haven't heard any commotion so far."
-    th "Şimdiye kadar herhangi bir kargaşa duymamış olsam da olabilir."
-
-# game/episode007.rpy:401
-translate turkish episode007_8b3aa7a3:
-
-    # c "So far, so good."
-    c "Çok uzak çok iyi."
-
-# game/episode007.rpy:402
-translate turkish episode007_6e98d1f9:
-
-    # c "Look, Aven and Kit are walking towards us."
-    c "Bak, Aven ve Kit bize doğru yürüyor."
-
-# game/episode007.rpy:403
-translate turkish episode007_80919c3a:
-
-    # c "Enjoying the party?"
-    c "Partinin tadını çıkarıyor musun?"
-
-# game/episode007.rpy:405
-translate turkish episode007_2eff7eea:
-
-    # ki "Very much, I was about to take one of those lovely ladies up for an offer to join her in the swimming pool, but Aven wouldn't let me."
-    ki "Çok, yüzme havuzunda ona katılmak için bir teklif için o sevimli bayanlardan birini almak üzereydim, ama Aven bana izin vermedi."
-
-# game/episode007.rpy:407
-translate turkish episode007_93086bb3:
-
-    # av "I'm sorry I ruined your chance to eternal happiness with that girl, but you really have to stop thinking with your dick, Kit."
-    av "Üzgünüm, o kızla ebedi mutluluğu yapma şansını mahvettim, ama gerçekten sikinizle düşünmeyi bırakmalısın, kit."
-
-# game/episode007.rpy:408
-translate turkish episode007_ff2eef49:
-
-    # c "Ouch."
-    c "Ah."
-
-# game/episode007.rpy:410
-translate turkish episode007_37248dc4:
-
-    # av "Apart from checking out the pool, we went upstairs."
-    av "Havuzu kontrol etmenin yanı sıra yukarı çıktık."
-
-# game/episode007.rpy:411
-translate turkish episode007_3ca93da1:
-
-    # av "It's crowded up there."
-    av "Orada kalabalık."
-
-# game/episode007.rpy:412
-translate turkish episode007_4f500329:
-
-    # av "Two elevators, one guarded more heavily than the other."
-    av "Biri diğerinden daha ağır korunan iki asansör."
-
-# game/episode007.rpy:413
-translate turkish episode007_8219447f:
-
-    # av "I get a sense that people are waiting for our host to arrive to really kick off the party."
-    av "İnsanların ev sahibimizin partiyi gerçekten başlatmak için gelmesini beklediklerini anlıyorum."
-
-# game/episode007.rpy:414
-translate turkish episode007_e370e6e4:
-
-    # c "We'd better wait, in that case."
-    c "Bu durumda beklememiz iyi olur."
-
-# game/episode007.rpy:415
-translate turkish episode007_211d7242:
-
-    # c "No word about the rest of our crew?"
-    c "Mürettebatımızın geri kalanı hakkında bir kelime yok mu?"
-
-# game/episode007.rpy:417
-translate turkish episode007_dd550396:
-
-    # ki "Nothing, though people are talking about it."
-    ki "Hiçbir şey, insanlar bundan bahsediyor olsa da."
-
-# game/episode007.rpy:418
-translate turkish episode007_1b2071cd:
-
-    # ki "There's some speculation about the ship containing special guests, because it landed on Cetruvar's private landing pad."
-    ki "Özel konuklar içeren gemi hakkında bazı spekülasyonlar var, çünkü Cetruvar'ın özel iniş pedine indi."
-
-# game/episode007.rpy:419
-translate turkish episode007_2f35c87a:
-
-    # c "Oh fuck."
-    c "Oh sikeyim."
-
-# game/episode007.rpy:420
-translate turkish episode007_fc960483:
-
-    # c "Let's hope Lilly and the others can pull off that confused socialite routine convincingly..."
-    c "Umarım Lilly ve diğerleri bu karışık Socialite rutini ikna edici bir şekilde çekebilir ..."
-
-# game/episode007.rpy:421
-translate turkish episode007_674218ec:
-
-    # c "I'm going to check out those elevators for myself, are you coming Thyia?"
-    c "Bu asansörleri kendim için kontrol edeceğim, Thyia mı geliyor musun?"
-
-# game/episode007.rpy:423
-translate turkish episode007_62458cc3:
-
-    # th "Sure thing."
-    th "Tabi ki."
-
-# game/episode007.rpy:425
-translate turkish episode007_17b76bdc:
-
-    # "The elevators turned out to be the only places where the mansion's guards were most visibly on display."
-    "Asansörler, konağın gardiyanlarının en gözle görülür şekilde sergilendiği tek yer olduğu ortaya çıktı."
-
-# game/episode007.rpy:427
-translate turkish episode007_0509d4cd:
-
-    # "The party guests mostly avoided the immediate surrounding area, crowding other parts of the mansion instead."
-    "Parti konukları çoğunlukla yakın çevreden kaçındılar ve bunun yerine konağın diğer kısımlarını kalabalıklaştırdılar."
-
-# game/episode007.rpy:428
-translate turkish episode007_b18ee17c:
-
-    # "When the doors of the elevator opened, most heads turned to look at who would emerge."
-    "Asansörün kapıları açıldığında, çoğu kafa kimin ortaya çıkacağına bakmak için döndü."
-
-# game/episode007.rpy:430
-translate turkish episode007_df109787:
-
-    # "It turned out to be several familiar faces..."
-    "Birkaç tanıdık yüz olduğu ortaya çıktı ..."
-
-# game/episode007.rpy:432
-translate turkish episode007_41e2febb:
-
-    # th "Fuck, that wasn't the plan!"
-    th "Siktir et, bu plan değildi!"
-
-# game/episode007.rpy:436
-translate turkish episode007_c5d09f60:
-
-    # cet "I bid you all a heartfelt welcome to my humble abode."
-    cet "Hepinize mütevazi evime içten bir hoş geldiniz teklif ediyorum."
-
-# game/episode007.rpy:437
-translate turkish episode007_eeda6222:
-
-    # cet "Some wayward guests found themselves on my landing pad, as some of you might have noticed."
-    cet "Bazılarınızın fark etmiş olabileceği gibi, bazı yollar konuklar kendilerini iniş pedimde buldular."
-
-# game/episode007.rpy:438
-translate turkish episode007_39f41e00:
-
-    # cet "The more, the merrier, I say!"
-    cet "Ne kadar çok, daha merhamet diyorum!"
-
-# game/episode007.rpy:439
-translate turkish episode007_917107be:
-
-    # cet "Enjoy the drinks and other refreshments."
-    cet "İçeceklerin ve diğer içeceklerin tadını çıkarın."
-
-# game/episode007.rpy:440
-translate turkish episode007_e3017efb:
-
-    # cet "And let's not forget the entertainment we have in store for you."
-    cet "Ve sizin için sakladığımız eğlenceyi unutmayalım."
-
-# game/episode007.rpy:441
-translate turkish episode007_d26ac57a:
-
-    # cet "Tonight we party!"
-    cet "Bu gece parti yapıyoruz!"
-
-# game/episode007.rpy:444
-translate turkish episode007_28bf8af4:
-
-    # "The man in front of the elevator, who was obviously Ranimo Cetruvar, was greeted with numerous cheers before the music and conversation overtook everything."
-    "Açıkçası Ranimo Cetruvar olan asansörün önündeki adam, müzik ve konuşma her şeyi geçmeden önce çok sayıda alkışla karşılandı."
-
-# game/episode007.rpy:445
-translate turkish episode007_d6134f96:
-
-    # "Our friends gradually left the orbit of Cetruvar who started to make his way through the crowd."
-    "Arkadaşlarımız yavaş yavaş kalabalığın içinden geçmeye başlayan Cetruvar'ın yörüngesinden ayrıldı."
-
-# game/episode007.rpy:447
-translate turkish episode007_8575f54e:
-
-    # "That left Lilly, who, to my distinct horror, walked arm in arm with our host."
-    "Bu, benim farklı dehşetime ev sahibimizle kol kolunda yürüdü Lilly'den ayrıldı."
-
-# game/episode007.rpy:449
-translate turkish episode007_ad775935:
-
-    # "That left Lilly, who walked arm in arm with our host."
-    "Bu bizim ev sahibi ile kol kola yürüdü Lilly bıraktı."
-
-# game/episode007.rpy:450
-translate turkish episode007_2012e203:
-
-    # c "Why is Lilly hanging on that man's arm?"
-    c "Lilly neden o adamın koluna asılıyor?"
-
-# game/episode007.rpy:452
-translate turkish episode007_7d80db54:
-
-    # th "Beats me."
-    th "Beni aşar."
-
-# game/episode007.rpy:453
-translate turkish episode007_42aefb98:
-
-    # c "What a pompous clown, by the way."
-    c "Bu arada ne görkemli bir palyaço."
-
-# game/episode007.rpy:454
-translate turkish episode007_baacb623:
-
-    # th "He has a certain way with words, that much is true."
-    th "Kelimelerle belli bir yolu var, bu kadar doğru."
-
-# game/episode007.rpy:455
-translate turkish episode007_3aecaadf:
-
-    # c "Why did they all come down with Cetruvar?"
-    c "Neden hepsi Cetruvar ile geldi?"
-
-# game/episode007.rpy:457
-translate turkish episode007_11380344:
-
-    # th "I don't know, but one of our friends might have the answers."
-    th "Bilmiyorum, ama arkadaşlarımızdan birinin cevapları olabilir."
-
-# game/episode007.rpy:458
-translate turkish episode007_b12a7a79:
-
-    # th "Unless you want to say hello to our gracious host already."
-    th "Zaten zarif ev sahibimize merhaba demek istemiyorsanız."
-
-# game/episode007.rpy:460
-translate turkish episode007_7d17bbf6:
-
-    # c "I might accidentally punch him in the face with a broken wine glass, so better not."
-    c "Kırık bir şarap bardağı ile yanlışlıkla yüzüne yumruk atabilirim, çok daha iyi değil."
-
-# game/episode007.rpy:462
-translate turkish episode007_8f151fa4:
-
-    # c "I might accidentally punch him in the face to wipe that smug grin from it, so better not."
-    c "O, o kendini beğenmiş sırıtışını silmek için onu yanlışlıkla yüzüne yumruklayabilirim, bu yüzden daha iyi değil."
-
-# game/episode007.rpy:464
-translate turkish episode007_4be60cce:
-
-    # th "Testy, are we?"
-    th "Testis, değil mi?"
-
-# game/episode007.rpy:465
-translate turkish episode007_587563d4:
-
-    # c "Quite."
-    c "Epeyce."
-
-# game/episode007.rpy:466
-translate turkish episode007_20e451db:
-
-    # c "Let's go find the others."
-    c "Gidip diğerlerini bulalım."
-
-# game/episode007.rpy:468
-translate turkish episode007_f6e8b54d:
-
-    # "We found Nadya and Jade on the balcony, trying to remain inconspicuous while scanning the crowd below for familiar faces."
-    "Nadya ve Jade'i balkonda bulduk, tanıdık yüzler için aşağıdaki kalabalığı tararken göze çarpmayan kalmaya çalıştık."
-
-# game/episode007.rpy:470
-translate turkish episode007_abc69957:
-
-    # c "Fancy meeting you here."
-    c "Seninle burada buluşmaktan hoşlanıyorum."
-
-# game/episode007.rpy:471
-translate turkish episode007_d07301e4:
-
-    # na "Oh [p_name_short]!"
-    na "ey [p_name_short]!"
-
-# game/episode007.rpy:472
-translate turkish episode007_71da670e:
-
-    # c "What are you doing here?"
-    c "Burada ne yapıyorsun?"
-
-# game/episode007.rpy:474
-translate turkish episode007_a419e37c:
-
-    # na "As soon as we landed the ship was surrounded by guards."
-    na "Biz iner inmez gemi gardiyanlar ile çevriliydi."
-
-# game/episode007.rpy:475
-translate turkish episode007_569d09f2:
-
-    # na "We did our best impression of being hapless debutantes, which seemed to be working."
-    na "Çalışıyor gibi görünen şanssız debutantes olma konusundaki en iyi izlenimimizi yaptık."
-
-# game/episode007.rpy:477
-translate turkish episode007_90253ef2:
-
-    # na "They demanded our invitations and began to study them a little too keenly."
-    na "Davetiyelerimizi talep ettiler ve onları biraz fazla incelemeye başladılar."
-
-# game/episode007.rpy:478
-translate turkish episode007_bcb34861:
-
-    # na "Then he appeared, Cetruvar, I mean."
-    na "Sonra ortaya çıktı, Cetruvar, yani."
-
-# game/episode007.rpy:480
-translate turkish episode007_7febe7d7:
-
-    # na "He welcomed us personally and threw away those invitations."
-    na "Bizi kişisel olarak karşıladı ve bu davetiyeleri attı."
-
-# game/episode007.rpy:481
-translate turkish episode007_5ab8aea8:
-
-    # na "We didn't need them, he said, and asked us to accompany him for his grand entrance."
-    na "Onlara ihtiyacımız yoktu, dedi ve bizden büyük girişi için ona eşlik etmemizi istedi."
-
-# game/episode007.rpy:482
-translate turkish episode007_25a29931:
-
-    # na "He took a keen interest in Lilly, asked her to share a drink with him."
-    na "Lilly'ye yoğun bir ilgi gördü, ondan bir içki paylaşmasını istedi."
-
-# game/episode007.rpy:483
-translate turkish episode007_beb11523:
-
-    # c "And she obliged him?"
-    c "Ve onu mecbur etti mi?"
-
-# game/episode007.rpy:485
-translate turkish episode007_5505b525:
-
-    # na "I think she felt she didn't have a choice."
-    na "Sanırım bir seçeneği olmadığını hissetti."
-
-# game/episode007.rpy:487
-translate turkish episode007_af1acb8d:
-
-    # ki "What about Céline, I didn't see her with you?"
-    ki "Peki ya Céline, onu seninle görmedim?"
-
-# game/episode007.rpy:489
-translate turkish episode007_b28b2354:
-
-    # na "She chose to stay with the ship, to keep out any curious guards."
-    na "Meraklı gardiyanları dışarıda tutmak için gemide kalmayı seçti."
-
-# game/episode007.rpy:490
-translate turkish episode007_d0efb809:
-
-    # c "So she's all alone on the Bastard?"
-    c "Yani piçte yalnız mı?"
-
-# game/episode007.rpy:492
-translate turkish episode007_115682bb:
-
-    # na "No, Raene, Ziv, Vess and Thim stayed behind too."
-    na "Hayır, Raene, Ziv, Vess ve Thim de geride kaldı."
-
-# game/episode007.rpy:494
-translate turkish episode007_d8c59078:
-
-    # av "Well, this makes our exit more complicated."
-    av "Bu, çıkışımızı daha karmaşık hale getiriyor."
-
-# game/episode007.rpy:495
-translate turkish episode007_b7203187:
-
-    # c "It sure does."
-    c "Kesinlikle öyle."
-
-# game/episode007.rpy:496
-translate turkish episode007_99976b4a:
-
-    # c "Kit, Jade and Aven, could you find the others?"
-    c "Kit, Jade ve Aven, diğerlerini bulabilir misin?"
-
-# game/episode007.rpy:497
-translate turkish episode007_11578771:
-
-    # c "Thyia, Nadya and I are going to try and rescue Lilly from the clutches of our host."
-    c "Thyia, Nadya ve ben Lilly'yi ev sahibimizin debriyajlarından kurtarmaya çalışacağız."
-
-# game/episode007.rpy:499
-translate turkish episode007_8428e111:
-
-    # ki "Right, no problem."
-    ki "Doğru, sorun değil."
-
-# game/episode007.rpy:500
-translate turkish episode007_b4d1bd6f:
-
-    # ki "It seems that the entertainment is about to kick off though."
-    ki "Görünüşe göre eğlence yine de başlamak üzere."
-
-# game/episode007.rpy:501
-translate turkish episode007_5786f7a1:
-
-    # c "We'll have an easier time wading through the audience in that case."
-    c "Bu durumda seyircilerde dolaşırken daha kolay bir zaman geçireceğiz."
-
-# game/episode007.rpy:503
-translate turkish episode007_f7a832dd:
-
-    # th "I overheard a couple of people mentioning a Yalvai hatching ceremony, whatever that is."
-    th "Ne olursa olsun, bir Yalvai kuluçka töreninden bahseden birkaç kişiye kulak misafiri oldum."
-
-# game/episode007.rpy:505
-translate turkish episode007_98eae4b8:
-
-    # na "A Yalvai hatching ceremony?"
-    na "Yalvai kuluçka töreni mi?"
-
-# game/episode007.rpy:506
-translate turkish episode007_7c711db4:
-
-    # na "Are you sure that's what you heard?"
-    na "Duyduğunuzun bu olduğundan emin misin?"
-
-# game/episode007.rpy:508
-translate turkish episode007_0d3bcbd8:
-
-    # th "Yes, I'm quite sure."
-    th "Evet, eminim."
-
-# game/episode007.rpy:510
-translate turkish episode007_f46c9755:
-
-    # na "I didn't know the party would be like this..."
-    na "Partinin böyle olacağını bilmiyordum ..."
-
-# game/episode007.rpy:511
-translate turkish episode007_efe0e8c3:
-
-    # c "Like what?"
-    c "Ne gibi?"
-
-# game/episode007.rpy:513
-translate turkish episode007_4088b827:
-
-    # th "As I already told [p_name_short], Cetruvar's parties are kinda notorious for this type of thing."
-    th "Zaten söylediğim gibi [p_name_short], Cetruvar'ın partileri bu tür şeyler için kötü şöhretli."
-
-# game/episode007.rpy:514
-translate turkish episode007_6f6f512b:
-
-    # th "There are stories about orgies and weird sexual kinks on display."
-    th "Sergilenen tuhaf cinsel karışıklıklar hakkında hikayeler var."
-
-# game/episode007.rpy:515
-translate turkish episode007_1ac0c083:
-
-    # th "Today shouldn't be any different."
-    th "Bugün farklı olmamalı."
-
-# game/episode007.rpy:516
-translate turkish episode007_b66e967b:
-
-    # c "What has that got to do with a hatching ceremony?"
-    c "Bunun bir kuluçka töreni ile ne ilgisi var?"
-
-# game/episode007.rpy:518
-translate turkish episode007_85cbf3e3:
-
-    # na "Yalvai are a parasitic species who reproduce by infecting a male host in order to lay eggs inside a female."
-    na "Yalvai, bir kadının içine yumurta bırakmak için bir erkek konakçı bulaşarak çoğaltan parazitik bir türdür."
-
-# game/episode007.rpy:519
-translate turkish episode007_4cffdda2:
-
-    # na "The parasite changes the male physiology, especially the penis."
-    na "Parazit erkek fizyolojisini, özellikle penisi değiştirir."
-
-# game/episode007.rpy:520
-translate turkish episode007_bfcd214b:
-
-    # na "When the male mates with a female, his sperm alters the female's ovaries and fertilizes multiple eggs at once which in turn mutate into Yalvai eggs."
-    na "Erkek bir dişi ile eşleştiğinde, spermi dişinin yumurtalıklarını değiştirir ve aynı anda birden fazla yumurta döllenir ve bu da Yalvai yumurtalarına mutasyona sahiptir."
-
-# game/episode007.rpy:521
-translate turkish episode007_2e35ff8d:
-
-    # na "The female then gives birth to the eggs."
-    na "Dişi daha sonra yumurtaları doğurur."
-
-# game/episode007.rpy:522
-translate turkish episode007_b6436166:
-
-    # c "That sounds gross and clever at the same time."
-    c "Aynı zamanda iğrenç ve zeki geliyor."
-
-# game/episode007.rpy:524
-translate turkish episode007_1e92f3af:
-
-    # na "It's a convoluted reproduction strategy, but it has worked out quite well for the Yalvai."
-    na "Bu kıvrımlı bir üreme stratejisi, ancak Yalvai için oldukça iyi çalıştı."
-
-# game/episode007.rpy:525
-translate turkish episode007_6079666c:
-
-    # na "The male's physique is greatly enhanced, as is the penis."
-    na "Erkek fiziği, penis gibi büyük ölçüde arttırılmıştır."
-
-# game/episode007.rpy:526
-translate turkish episode007_e78cae24:
-
-    # na "For the women, the act of conceiving the eggs is said to be many times more pleasurable than an orgasm."
-    na "Kadınlar için, yumurtaları tasarlama eyleminin bir orgazmdan çok daha zevkli olduğu söylenir."
-
-# game/episode007.rpy:527
-translate turkish episode007_34235114:
-
-    # c "Right.{w} And all this is going to happen here?"
-    c "Doğru.{w} Ve bütün bunlar burada olacak mı?"
-
-# game/episode007.rpy:529
-translate turkish episode007_23717796:
-
-    # th "It seems so and that's why I'm out of here."
-    th "Öyle görünüyor ve bu yüzden buradayım."
-
-# game/episode007.rpy:547
-translate turkish episode007_4af9550a:
-
-    # c "You're not leaving, aunt Nadya?"
-    c "Ayrılmıyorsun, Nadya Teyze?"
-
-# game/episode007.rpy:549
-translate turkish episode007_72d3f50a:
-
-    # c "You're not leaving, Nadya?"
-    c "Ayrılmıyorsun, Nadya?"
-
-# game/episode007.rpy:551
-translate turkish episode007_422cd979:
-
-    # na "I've never seen a Yalvai hatching myself, so I'd like to stay and watch."
-    na "Hiç bir Yalvai'nin kendimi taradığını görmedim, bu yüzden kalmak ve izlemek istiyorum."
-
-# game/episode007.rpy:552
-translate turkish episode007_ac7fd059:
-
-    # c "Right, for scientific purposes..."
-    c "Doğru, bilimsel amaçlar için ..."
-
-# game/episode007.rpy:553
-translate turkish episode007_f2ad077b:
-
-    # na "Exactly."
-    na "Aynen öyle."
-
-# game/episode007.rpy:554
-translate turkish episode007_c7948a86:
-
-    # c "I was joking."
-    c "Şaka yapıyordum."
-
-# game/episode007.rpy:556
-translate turkish episode007_ebad5241:
-
-    # na "I wasn't, the lifecycle of the Yalvai is fascinating."
-    na "Ben değildim, Yalvai'nin yaşam döngüsü büyüleyici."
-
-# game/episode007.rpy:557
-translate turkish episode007_0973155d:
-
-    # na "It's one of the few species where the gestation of the eggs takes minimal time."
-    na "Yumurtaların gebeliğinin minimum zaman aldığı birkaç türden biridir."
-
-# game/episode007.rpy:558
-translate turkish episode007_8af5767f:
-
-    # na "From the moment the eggs are conceived inside the female it takes mere minutes to birth them."
-    na "Yumurtaların dişi içinde tasarlandığı andan itibaren onları doğum yapmak sadece dakikalar alır."
-
-# game/episode007.rpy:562
-translate turkish episode007_5686cc79:
-
-    # "Most of the people lost interest soon after and the room was soon abuzz with conversation."
-    "İnsanların çoğu kısa süre sonra ilgisini kaybetti ve oda yakında sohbetle şaşkına döndü."
-
-# game/episode007.rpy:567
-translate turkish episode007_eaf433d0:
-
-    # na "That was fascinating."
-    na "Bu büyüleyiciydi."
-
-# game/episode007.rpy:568
-translate turkish episode007_fe0cc5aa:
-
-    # c "That's one way of looking at it."
-    c "Bu ona bakmanın bir yolu."
-
-# game/episode007.rpy:570
-translate turkish episode007_b856d736:
-
-    # na "Oh...{w} Yes...{w} Quite."
-    na "Ey...{w} Evet...{w} Epeyce."
-
-# game/episode007.rpy:571
-translate turkish episode007_bdfb8bdf:
-
-    # na "But the transformations wrought by that parasite are tremendous, it's almost unbelievable."
-    na "Ancak bu parazit tarafından yapılan dönüşümler muazzam, neredeyse inanılmaz."
-
-# game/episode007.rpy:572
-translate turkish episode007_1d430ad5:
-
-    # c "I'll gladly take your word for it."
-    c "Sözünü memnuniyetle alacağım."
-
-# game/episode007.rpy:574
-translate turkish episode007_ee3a8d6d:
-
-    # na "Yes, I get what you're saying."
-    na "Evet, söylediklerini anlıyorum."
-
-# game/episode007.rpy:576
-translate turkish episode007_90c43d12:
-
-    # na "I don't know what possesses these people to willingly infect themselves with the Yalvai."
-    na "Bu insanların kendilerini Yalvai ile isteyerek enfekte etmek için neye sahip olduğunu bilmiyorum."
-
-# game/episode007.rpy:577
-translate turkish episode007_8c9337cd:
-
-    # na "The pleasure must be so addictive somehow."
-    na "Zevk bir şekilde çok bağımlılık yapmalıdır."
-
-# game/episode007.rpy:578
-translate turkish episode007_5b6998f6:
-
-    # c "Let's go find Lilly."
-    c "Lilly'yi bulalım."
-
-# game/episode007.rpy:579
-translate turkish episode007_9d76ee47:
-
-    # na "Yes, that's a good idea."
-    na "Evet bu iyi bir fikir."
-
-# game/episode007.rpy:584
-translate turkish episode007_5b6998f6_1:
-
-    # c "Let's go find Lilly."
-    c "Lilly'yi bulalım."
-
-# game/episode007.rpy:586
-translate turkish episode007_35f645e3:
-
-    # na "Right, that might be a better idea."
-    na "Doğru, bu daha iyi bir fikir olabilir."
-
-# game/episode007.rpy:587
-translate turkish episode007_a2270bdc:
-
-    # "We left the balcony as a mountain of a man entered the room adjacent."
-    "Balkondan ayrıldık bir adamın dağına bitişik odaya girdi."
-
-# game/episode007.rpy:588
-translate turkish episode007_62942f25:
-
-    # "I had an idea what would happen and I didn't intend to stay and watch."
-    "Ne olacağına dair bir fikrim vardı ve kalmayı ve izlemeyi düşünmedim."
-
-# game/episode007.rpy:591
-translate turkish episode007_955d1d88:
-
-    # "Most of the guests had been lured by the ovarian entertainment one level above."
-    "Konukların çoğu Yumurtalık Eğlencesi tarafından bir seviyeye çekilmişti."
-
-# game/episode007.rpy:593
-translate turkish episode007_1e5acc4f:
-
-    # "The level with the pool was almost deserted, save for two people looking out over the vast ocean."
-    "Havuz ile seviye neredeyse terk edilmiş, geniş okyanusa bakan iki kişi için tasarruf."
-
-# game/episode007.rpy:595
-translate turkish episode007_33f931ca:
-
-    # "I didn't fail to spot the two bodyguards hovering unobtrusively near the couple."
-    "Çiftin yakınında göze çarpmayan iki korumayı tespit etmedim."
-
-# game/episode007.rpy:596
-translate turkish episode007_fae029e7:
-
-    # "The way the man had casually draped his arm around Lilly's waist filled me with sudden rage."
-    "Adamın kolunu Lilly'nin belinin etrafına rahatça döktü. Beni ani öfke ile doldurdu."
-
-# game/episode007.rpy:598
-translate turkish episode007_84456590:
-
-    # "Nadya restrained me by pulling my arm."
-    "Nadya kolumu çekerek beni kısıtladı."
-
-# game/episode007.rpy:599
-translate turkish episode007_167f9535:
-
-    # na "Better not attract attention to yourself."
-    na "Kendinize dikkat çekmese iyi olur."
-
-# game/episode007.rpy:600
-translate turkish episode007_d37414f2:
-
-    # na "Let's walk up to them casually, shall we."
-    na "Onlara rasgele yürüyelim."
-
-# game/episode007.rpy:601
-translate turkish episode007_ac3c19b3:
-
-    # "I said nothing, but silently thanked Nadya for preventing me from doing anything rash."
-    "Hiçbir şey söylemedim, ama sessizce Nadya'ya kızarıklık yapmamı engellediği için teşekkür ettim."
-
-# game/episode007.rpy:603
-translate turkish episode007_d0af18f6:
-
-    # "Cetruvar was pointing out something far away."
-    "Cetruvar çok uzakta bir şey gösteriyordu."
-
-# game/episode007.rpy:604
-translate turkish episode007_6cf02927:
-
-    # "Probably some sea animal that was supposed to impress Lilly."
-    "Muhtemelen Lilly'yi etkilemesi gereken bazı deniz hayvanı."
-
-# game/episode007.rpy:605
-translate turkish episode007_85e33139:
-
-    # "The bodyguards quickly stepped in when we tried to cross the distance towards their boss."
-    "Korumalar, patronlarına doğru mesafeyi geçmeye çalıştığımızda hızla içeri girdi."
-
-# game/episode007.rpy:611
-translate turkish episode007_71777606:
-
-    # woman "I'm sorry, but Mister Cetruvar wishes to be left alone."
-    woman "Üzgünüm, ama Bay Cetruvar yalnız kalmak istiyor."
-
-# game/episode007.rpy:613
-translate turkish episode007_0a84ef1d:
-
-    # "I was about to make my reply when Cetruvar walked in the opposite direction towards the elevator."
-    "Cetruvar asansöre doğru ters yönde yürürken cevabımı yapmak üzereydim."
-
-# game/episode007.rpy:614
-translate turkish episode007_cc6c8b55:
-
-    # "Both he and Lilly never looked at us, seemingly absorbed in conversation."
-    "Hem o hem de Lilly bize hiç bakmadılar, görünüşte konuşmalarda emildiler."
-
-# game/episode007.rpy:616
-translate turkish episode007_8674e886:
-
-    # "Both body guards trailed them, while making clear we weren't supposed to follow them."
-    "Her iki beden muhafızları da onları takip ederken, onları takip etmememiz gerekmiyordu."
-
-# game/episode007.rpy:617
-translate turkish episode007_8057c7f9:
-
-    # c "Why the fuck is she cozying up to him like that, going up to his private apartment?!"
-    c "Neden özel dairesine gidiyor, ona böyle rahatlıyor?!"
-
-# game/episode007.rpy:619
-translate turkish episode007_b2e86cff:
-
-    # na "Maybe she felt like she didn't have a choice?"
-    na "Belki bir seçeneği yokmuş gibi hissetti?"
-
-# game/episode007.rpy:620
-translate turkish episode007_fabe4767:
-
-    # c "Maybe..."
-    c "Belki..."
-
-# game/episode007.rpy:622
-translate turkish episode007_17dab516:
-
-    # "Kit and Jade came down towards us."
-    "Kit ve Jade bize doğru indi."
-
-# game/episode007.rpy:624
-translate turkish episode007_894f9068:
-
-    # ki "That party is getting a little wild."
-    ki "Bu parti biraz vahşileşiyor."
-
-# game/episode007.rpy:626
-translate turkish episode007_5a3ed7b0:
-
-    # j "I think the correct term would be 'orgy'."
-    j "Bence doğru terim 'orgy' olacak."
-
-# game/episode007.rpy:628
-translate turkish episode007_c55d1dfd:
-
-    # ki "Thyia and Aven are still on the other floor."
-    ki "Thyia ve Aven hala diğer katta."
-
-# game/episode007.rpy:629
-translate turkish episode007_2a69f576:
-
-    # ki "But it's looking hopeless at the moment."
-    ki "Ama şu anda umutsuz görünüyor."
-
-# game/episode007.rpy:630
-translate turkish episode007_e5c8b8b0:
-
-    # c "Lilly has just gone upstairs with Cetruvar."
-    c "Lilly Cetruvar ile yukarı çıktı."
-
-# game/episode007.rpy:632
-translate turkish episode007_cf48fee1:
-
-    # ki "Why would she do that?"
-    ki "Bunu neden yapsın?"
-
-# game/episode007.rpy:633
-translate turkish episode007_8966baa1:
-
-    # c "Beats me."
-    c "Beni aşar."
-
-# game/episode007.rpy:634
-translate turkish episode007_8ba9bb12:
-
-    # c "Fuck.{w} We really need a distraction."
-    c "Kahretsin.{w} Gerçekten bir dikkat dağıtıcı şeylere ihtiyacımız var."
-
-# game/episode007.rpy:638
-translate turkish episode007_58cfcb17:
-
-    # "Someone instantly answered my prayers."
-    "Birisi anında dualarımı cevapladı."
-
-# game/episode007.rpy:639
-translate turkish episode007_b11b62df:
-
-    # "Glass shattered and people starting shouting in fear."
-    "Cam parçalandı ve insanlar korku içinde bağırmaya başlıyor."
-
-# game/episode007.rpy:641
-translate turkish episode007_8987c6e0:
-
-    # ki "A distraction you said?"
-    ki "Distalip dediğin bir dikkat dağıtıcı?"
-
-# game/episode007.rpy:642
-translate turkish episode007_2badd2bb:
-
-    # c "Quick."
-    c "Hızlı."
-
-# game/episode007.rpy:644
-translate turkish episode007_a1546fa9:
-
-    # c "Jade, Nadya, go find Aven and Thyia."
-    c "Jade, Nadya, git Aven ve Thyia'yı bul."
-
-# game/episode007.rpy:645
-translate turkish episode007_7771da9c:
-
-    # c "Kit and I will ride that elevator up."
-    c "Kit ve ben o asansöre bineceğiz."
-
-# game/episode007.rpy:646
-translate turkish episode007_07b17f84:
-
-    # ki "That leg holster has been bothering me all night, but I'm glad we brought some firepower."
-    ki "O bacak kılıfı bütün gece beni rahatsız ediyor, ama ateş gücü getirdiğimiz için mutluyum."
-
-# game/episode007.rpy:647
-translate turkish episode007_9a8e0905:
-
-    # c "Let's just hope we won't have to use it."
-    c "Umarım kullanmak zorunda kalmayacağız."
-
-# game/episode007.rpy:649
-translate turkish episode007_dfa6ab06:
-
-    # "We ran towards the elevator as the panic started to spread on the upper floor."
-    "Panik üst kata yayılmaya başladığında asansöre doğru koştuk."
-
-# game/episode007.rpy:650
-translate turkish episode007_f441da08:
-
-    # "The distressed shouting now mixed with intermittent gunfire and it almost seemed as if some kind of assault was going on."
-    "Sıkıntılı bağırma şimdi aralıklı silah sesleri ile karıştırıldı ve neredeyse bir tür saldırı devam ediyormuş gibi görünüyordu."
-
-# game/episode007.rpy:652
-translate turkish episode007_fe6aa36c:
-
-    # "We crossed the upper floor towards the private elevator."
-    "Üst katı özel asansöre doğru geçtik."
-
-# game/episode007.rpy:654
-translate turkish episode007_26f0ca4b:
-
-    # "My heart nearly sank when I saw the elevator's controls, a numeric keypad."
-    "Asansörün kontrollerini gördüğümde, sayısal bir tuş takımı neredeyse battı."
-
-# game/episode007.rpy:655
-translate turkish episode007_431033e3:
-
-    # "The doors opened however without any kind of special key code."
-    "Ancak kapılar herhangi bir özel anahtar kodu olmadan açıldı."
-
-# game/episode007.rpy:656
-translate turkish episode007_9385ffda:
-
-    # "I punched the button that would take us to Cetruvar's private level."
-    "Bizi Cetruvar'ın özel seviyesine götürecek düğmeyi yumrukladım."
-
-# game/episode007.rpy:658
-translate turkish episode007_4f954938:
-
-    # "The elevator car zipped upwards and a serene ding announced that we'd arrived at the requested floor."
-    "Asansör arabası yukarı doğru sıkıştırdı ve Sakin bir Ding, istenen yere varacağımızı açıkladı."
-
-# game/episode007.rpy:660
-translate turkish episode007_892ead63:
-
-    # "When the doors slid open we saw a floor covered in glass, the wind roaring through two broken window panes."
-    "Kapılar açıldığında, camla kaplı bir zemin gördük, rüzgar iki kırık pencere bölmesinden kükrüyor."
-
-# game/episode007.rpy:662
-translate turkish episode007_21c9a065:
-
-    # "Lilly tried to hide in a corner at the far end of the room."
-    "Lilly, odanın en ucundaki bir köşede saklanmaya çalıştı."
-
-# game/episode007.rpy:664
-translate turkish episode007_f1e5bfe3:
-
-    # "Cetruvar's bodyguards were out of commission, one lay slumped against the wall, a red smear indicating the place where her body had hit the wall."
-    "Cetruvar'ın korumaları komisyon dışındaydı, biri duvara yaslanmıştı, vücudunun duvara çarptığı yeri gösteren kırmızı bir smear."
-
-# game/episode007.rpy:666
-translate turkish episode007_7958c6a3:
-
-    # "The other one had fallen near her boss, who was cowering on the floor, a silenced gun pointed at his head."
-    "Diğeri, yerde sıkışan patronunun yanına düşmüştü, susturulmuş bir silah kafasına işaret etti."
-
-# game/episode007.rpy:668
-translate turkish episode007_68c15ab5:
-
-    # "The gun was aimed by one of the two purple-clad women who looked like coiled vipers, about to jump their prey."
-    "Silah, sarmal engerek gibi görünen iki mor kaplı kadın tarafından avlarını atlamak üzere hedeflendi."
-
-# game/episode007.rpy:669
-translate turkish episode007_842bfd28:
-
-    # "In addition to the guns, both women also wielded curved swords which had probably killed both bodyguards."
-    "Silahlara ek olarak, her iki kadın da muhtemelen her iki korumayı da öldüren kavisli kılıçlara da sahipti."
-
-# game/episode007.rpy:671
-translate turkish episode007_b2bea2c8:
-
-    # "The sound of the wind was so loud, the sword-wielding women probably hadn't heard the elevator arrive."
-    "Rüzgarın sesi çok yüksekti, kılıç kullanan kadınlar muhtemelen asansörün geldiğini duymamıştı."
-
-# game/episode007.rpy:672
-translate turkish episode007_41fab87e:
-
-    # "I nodded at Kit and we rushed forward with our weapons drawn."
-    "Kitte başını salladım ve silahlarımız çekilmiş olarak ilerledik."
-
-# game/episode007.rpy:674
-translate turkish episode007_36ab8d45:
-
-    # "The sound of glass crushing under our shoes made one of the women turn around slightly."
-    "Ayakkabılarımızın altında cam ezme sesi, kadınlardan birini hafifçe döndürdü."
-
-# game/episode007.rpy:676
-translate turkish episode007_ed56964d:
-
-    # "Kit grabbed a vase from a side table and threw it with perfect aim at one woman while firing a few rounds at the other."
-    "Kit, bir yan masadan bir vazo aldı ve diğer tarafta birkaç tur ateşlerken bir kadına mükemmel bir amaç attı."
-
-# game/episode007.rpy:677
-translate turkish episode007_1100c8ac:
-
-    # "The vase hit her square in the back of her head and she collapsed to the ground."
-    "Vazo kafasının arkasına meydanına çarptı ve yere çöktü."
-
-# game/episode007.rpy:678
-translate turkish episode007_d18c2885:
-
-    # "However, his aim was off and he failed to hit the other attacker."
-    "Ancak amacı kapalıydı ve diğer saldırganı vuramadı."
-
-# game/episode007.rpy:680
-translate turkish episode007_96a1e0bf:
-
-    # "Distracted, the other woman was too late to fully turn herself towards me and by that time I had already fired several bullets inside her chest."
-    "Dikkati dağılmış, diğer kadın kendini tamamen bana doğru çevirmek için çok geç kalmıştı ve o zamana kadar göğsünün içine birkaç mermi ateşlemiştim."
-
-# game/episode007.rpy:682
-translate turkish episode007_c07e5c9c:
-
-    # "The urge to go to Lilly and comfort her was enormous, but I had Cetruvar to worry about first."
-    "Lilly'ye gitme ve onu rahatlatma dürtüsü muazzamdı, ama ilk önce endişelenecek Cetruvar'ım vardı."
-
-# game/episode007.rpy:683
-translate turkish episode007_347d6c19:
-
-    # "He had shown real fear at those women, but confronted with only Kit and me he reverted to his suave self, even while lying on the floor."
-    "O kadınlara gerçek bir korku göstermişti, ama sadece kitle karşı karşıya kaldı ve ben yerde yatarken bile suave benliğine döndü."
-
-# game/episode007.rpy:685
-translate turkish episode007_332839ca:
-
-    # cet "What are you two doing here?"
-    cet "Burada ne yapıyorsunuz?"
-
-# game/episode007.rpy:686
-translate turkish episode007_de09697a:
-
-    # c "Really, that's the first question you ask after being assaulted by two women crashing through your windows?"
-    c "Gerçekten, bu, pencerelerinizden çarpan iki kadın tarafından saldırıya uğradıktan sonra sorduğunuz ilk soru mu?"
-
-# game/episode007.rpy:687
-translate turkish episode007_2fbdaaf7:
-
-    # c "Now, if you don't mind, I'd like to see if the lady you're with is alright."
-    c "Şimdi, eğer sakıncası yoksa, birlikte olduğun bayanın iyi olup olmadığını görmek isterim."
-
-# game/episode007.rpy:689
-translate turkish episode007_c95a0f13:
-
-    # c "Kit, can you make sure the unconscious woman stays that way?"
-    c "Kit, bilinçsiz kadının bu şekilde kaldığından emin olabilir misin?"
-
-# game/episode007.rpy:690
-translate turkish episode007_cd3ce9b0:
-
-    # ki "On it."
-    ki "Üstünde."
-
-# game/episode007.rpy:692
-translate turkish episode007_efd5fd73:
-
-    # "Ranimo stood up and brushed off his clothes, curiously regarding everything that happened next."
-    "Ranimo ayağa kalktı ve bir sonraki olan her şeyle ilgili merakla kıyafetlerini fırçaladı."
-
-# game/episode007.rpy:694
-translate turkish episode007_052f388c:
-
-    # "Lilly still trembled and looked very afraid."
-    "Lilly hala titredi ve çok korktu."
-
-# game/episode007.rpy:695
-translate turkish episode007_65e32b2c:
-
-    # c "Are you all right?"
-    c "İyi misin?"
-
-# game/episode007.rpy:696
-translate turkish episode007_0d79597b:
-
-    # l "I-I think so."
-    l "Ben öyle düşünüyorum."
-
-# game/episode007.rpy:697
-translate turkish episode007_87084087:
-
-    # "I wanted to say more, but I couldn't dare it with that damned Cetruvar in the room."
-    "Daha fazlasını söylemek istedim, ama odadaki o lanet Cetruvar ile cesaret edemedim."
-
-# game/episode007.rpy:699
-translate turkish episode007_9cc787d5:
-
-    # "Our gracious host looked in horror as Kit ripped up a, no doubt expensive, curtain he'd found somewhere to bind the woman's arms and legs."
-    "Zarif ev sahibimiz, kitin yırtıldığı için korku içinde baktı, şüphesiz pahalı, perde kadının kollarını ve bacaklarını bağlamak için bir yerde buldu."
-
-# game/episode007.rpy:700
-translate turkish episode007_9c338760:
-
-    # "Once the woman was restrained, Cetruvar looked at us expectantly."
-    "Kadın kısıtlandıktan sonra, Cetruvar bize bekledi."
-
-# game/episode007.rpy:702
-translate turkish episode007_0ea71f67:
-
-    # cet "You haven't answered my question."
-    cet "Soruma cevap vermedin."
-
-# game/episode007.rpy:703
-translate turkish episode007_332839ca_1:
-
-    # cet "What are you two doing here?"
-    cet "Burada ne yapıyorsunuz?"
-
-# game/episode007.rpy:707
-translate turkish episode007_470eb47a:
-
-    # c "We heard the commotion and decided to check it out, make sure no one was in danger."
-    c "Kargaşayı duyduk ve kontrol etmeye karar verdik, kimsenin tehlikede olmadığından emin olun."
-
-# game/episode007.rpy:709
-translate turkish episode007_133b5863:
-
-    # c "Especially my sister you seem to be entertaining this evening."
-    c "Özellikle kız kardeşim bu akşam eğlenceli görünüyorsun."
-
-# game/episode007.rpy:711
-translate turkish episode007_9ae0285f:
-
-    # c "Especially my best friend you seem to be entertaining this evening."
-    c "Özellikle en iyi arkadaşım bu akşam eğlenceli görünüyorsun."
-
-# game/episode007.rpy:713
-translate turkish episode007_21a1bf16:
-
-    # cet "How refreshingly honest, Mister Valenmann de Lonval."
-    cet "Ne kadar ferahlatıcı dürüst, Bay Valenmann de Lonval."
-
-# game/episode007.rpy:715
-translate turkish episode007_470eb47a_1:
-
-    # c "We heard the commotion and decided to check it out, make sure no one was in danger."
-    c "Kargaşayı duyduk ve kontrol etmeye karar verdik, kimsenin tehlikede olmadığından emin olun."
-
-# game/episode007.rpy:716
-translate turkish episode007_dbe203b4:
-
-    # c "I reckon this area is supposed to be off-limits?"
-    c "Sanırım bu alanın sınır dışı olması gerekiyor mu?"
-
-# game/episode007.rpy:717
-translate turkish episode007_2309ccb8:
-
-    # c "You seem to be entertaining just one lady here."
-    c "Burada sadece bir bayan eğlenceli görünüyorsun."
-
-# game/episode007.rpy:719
-translate turkish episode007_0ec0a532:
-
-    # cet "Oh, let's drop the pretense, Mister Valenmann de Lonval."
-    cet "Oh, hadi, bay Valenmann de Lonval'ı bırakalım."
-
-# game/episode007.rpy:721
-translate turkish episode007_3beb6e74:
-
-    # cet "Yes, I know who you are."
-    cet "Evet, kim olduğunu biliyorum."
-
-# game/episode007.rpy:723
-translate turkish episode007_1e331007:
-
-    # cet "I know the pretty redhead here is your sister."
-    cet "Buradaki güzel kızıllığın kız kardeşin olduğunu biliyorum."
-
-# game/episode007.rpy:725
-translate turkish episode007_8c9ef9fb:
-
-    # cet "I know the pretty redhead here is your friend."
-    cet "Buradaki güzel kızıllığın arkadaşın olduğunu biliyorum."
-
-# game/episode007.rpy:727
-translate turkish episode007_97da9159:
-
-    # cet "And your sidekick, who so expertly incapacitated one of my opponents with a priceless vase, is none other than Kit Szuzume."
-    cet "Ve paha biçilmez bir vazo ile rakiplerimden birini bu kadar ustalıkla acizleyen yardımcısınız, Kit Szuzume'dan başka bir şey değil."
-
-# game/episode007.rpy:728
-translate turkish episode007_42c30443:
-
-    # cet "I hope the rest of your crew has enjoyed the evening so far."
-    cet "Umarım mürettebatınızın geri kalanı şimdiye kadar akşamın tadını çıkarmıştır."
-
-# game/episode007.rpy:729
-translate turkish episode007_fc8504a0:
-
-    # cet "There were some unknown faces among them, but I reckon I'll know their identities soon enough."
-    cet "Aralarında bilinmeyen bazı yüzler vardı, ama sanırım kimliklerini yakında bileceğim."
-
-# game/episode007.rpy:731
-translate turkish episode007_0a5c4408:
-
-    # cet "Please have a seat."
-    cet "Lütfen oturun."
-
-# game/episode007.rpy:732
-translate turkish episode007_a6f5a03a:
-
-    # c "I prefer to stand, thank you very much."
-    c "Ayağa kalkmayı tercih ediyorum, çok teşekkür ederim."
-
-# game/episode007.rpy:734
-translate turkish episode007_0587ed26:
-
-    # "At that moment the elevator doors opened again and two fresh bodyguards entered the room."
-    "O anda asansör kapıları tekrar açıldı ve odaya iki yeni koruma girdi."
-
-# game/episode007.rpy:737
-translate turkish episode007_234a0116:
-
-    # man "Everything in order, boss?"
-    man "Her şey sırayla, patron?"
-
-# game/episode007.rpy:738
-translate turkish episode007_2b293bd0:
-
-    # cet "Yes."
-    cet "Evet."
-
-# game/episode007.rpy:739
-translate turkish episode007_8e356be3:
-
-    # cet "See to it that the restrained woman is taken to a cell."
-    cet "Kısıtlı kadının bir hücreye götürüldüğünü görün."
-
-# game/episode007.rpy:741
-translate turkish episode007_3f012d4b:
-
-    # cet "And Mister Valenmann de Lonval, I'm afraid I wasn't really asking a question."
-    cet "Ve Bay Valenmann de Lonval, korkarım gerçekten bir soru sormadım."
-
-# game/episode007.rpy:742
-translate turkish episode007_8b552d51:
-
-    # cet "Put down your weapons and sit down."
-    cet "Silahlarını bırak ve otur."
-
-# game/episode007.rpy:744
-translate turkish episode007_83bc3d07:
-
-    # "As the other side currently held the upper hand, I decided it would be better to oblige the fucker."
-    "Diğer taraf şu anda üst eli tuttuğu için, pisliği mecbur etmenin daha iyi olacağına karar verdim."
-
-# game/episode007.rpy:745
-translate turkish episode007_924198d5:
-
-    # "Once we sat down, one of the bodyguards took the unconscious body away."
-    "Oturduktan sonra, korumalardan biri bilinçsiz bedeni uzaklaştırdı."
-
-# game/episode007.rpy:747
-translate turkish episode007_de70eda2:
-
-    # cet "I must say I rather enjoyed your grand entrance."
-    cet "Büyük girişinizden hoşlandığımı söylemeliyim."
-
-# game/episode007.rpy:748
-translate turkish episode007_84f04308:
-
-    # cet "Though getting in here with outdated invitations was a long shot, you must have known that."
-    cet "Buraya eski davetiyelerle girmek uzun bir atış olsa da, bunu bilmelisiniz."
-
-# game/episode007.rpy:749
-translate turkish episode007_9aa7a3a2:
-
-    # c "I did."
-    c "Yaptım."
-
-# game/episode007.rpy:750
-translate turkish episode007_15b1bed4:
-
-    # cet "But you did it anyway."
-    cet "Ama yine de yaptın."
-
-# game/episode007.rpy:752
-translate turkish episode007_62d5646f:
-
-    # cet "You even scaled that cliff, I'm impressed."
-    cet "O uçurum bile ölçeklendirdin, etkilendim."
-
-# game/episode007.rpy:754
-translate turkish episode007_f49ef5ad:
-
-    # cet "And a little annoyed you actually pulled it off."
-    cet "Ve biraz rahatsız oldunuz."
-
-# game/episode007.rpy:756
-translate turkish episode007_ac01e703:
-
-    # cet "I must thank you for pointing out that hole in my security, I'm still not quite sure how to plug it."
-    cet "Güvenliğimdeki deliğe işaret ettiğiniz için teşekkür etmeliyim, hala nasıl takılacağından emin değilim."
-
-# game/episode007.rpy:757
-translate turkish episode007_089cc6c6:
-
-    # c "You're very welcome..."
-    c "Çok rica ederim..."
-
-# game/episode007.rpy:759
-translate turkish episode007_27b0506d:
-
-    # cet "But it seems you saved my life just now and for that I'm truly thankful."
-    cet "Ama görünüşe göre hayatımı şimdi kurtardın ve bunun için gerçekten minnettarım."
-
-# game/episode007.rpy:760
-translate turkish episode007_6163fb4a:
-
-    # cet "I'd offer you all a drink, but it seems that the intruders just obliterated my offering of spirits."
-    cet "Hepinize bir içki sunardım, ama davetsiz misafirler sadece ruhlar teklifimi yok etti."
-
-# game/episode007.rpy:762
-translate turkish episode007_a45dda0c:
-
-    # cet "So, Mister Valenmann de Lonval, you're here for your lost sister, I take it?"
-    cet "Öyleyse, Bay Valenmann de Lonval, kayıp kız kardeşin için buradasın, alıyorum?"
-
-# game/episode007.rpy:764
-translate turkish episode007_44cda932:
-
-    # cet "So, Mister Valenmann de Lonval, you're here for your lost friend, I take it?"
-    cet "Öyleyse, Bay Valenmann de Lonval, kayıp arkadaşın için buradasın, alıyorum?"
-
-# game/episode007.rpy:765
-translate turkish episode007_df83e67b:
-
-    # c "You seem to know a lot of things."
-    c "Pek çok şey biliyor gibisin."
-
-# game/episode007.rpy:767
-translate turkish episode007_9d0f1b41:
-
-    # cet "It has been my job for a long time now."
-    cet "Uzun zamandır benim işim."
-
-# game/episode007.rpy:770
-translate turkish episode007_5719ffa3:
-
-    # cet "You want the location of the home planet of your sister's kidnappers."
-    cet "Kız kardeşinizin kaçıranların ev gezegeninin yerini istiyorsunuz."
-
-# game/episode007.rpy:772
-translate turkish episode007_b62e09a1:
-
-    # cet "You want the location of the home planet of your friend's kidnappers."
-    cet "Arkadaşınızın kaçıran ev gezegeninin yerini istiyorsunuz."
-
-# game/episode007.rpy:773
-translate turkish episode007_9d9fb6df:
-
-    # c "I do."
-    c "Yaparım."
-
-# game/episode007.rpy:774
-translate turkish episode007_b6e8c43e:
-
-    # cet "What makes you think I know anything about her?"
-    cet "Onun hakkında bir şey bildiğimi düşündüren nedir?"
-
-# game/episode007.rpy:775
-translate turkish episode007_d6e7b2c0:
-
-    # c "Because you're in the business to know."
-    c "Çünkü bilmek için işin içindesiniz."
-
-# game/episode007.rpy:777
-translate turkish episode007_d99c2b0c:
-
-    # cet "Right you are."
-    cet "Doğru sen."
-
-# game/episode007.rpy:779
-translate turkish episode007_1d8794c3:
-
-    # cet "And I do know something about the whereabouts of your sister."
-    cet "Ve kız kardeşinin nerede olduğu hakkında bir şeyler biliyorum."
-
-# game/episode007.rpy:781
-translate turkish episode007_a9da5fcb:
-
-    # cet "And I do know something about the whereabouts of your friend."
-    cet "Ve arkadaşınızın nerede olduğu hakkında bir şeyler biliyorum."
-
-# game/episode007.rpy:782
-translate turkish episode007_4fd576f8:
-
-    # cet "In fact, I was planning on selling it to you."
-    cet "Aslında, size satmayı planlıyordum."
-
-# game/episode007.rpy:783
-translate turkish episode007_29a673b0:
-
-    # c "How magnanimous of you."
-    c "Ne kadar büyük."
-
-# game/episode007.rpy:785
-translate turkish episode007_425bc81b:
-
-    # cet "As soon as the guests have left and the worst of the mess has been cleaned up, I'll provide you with all the details."
-    cet "Konuklar gittiğinde ve karmaşanın en kötüsü temizlenir, size tüm ayrıntıları sağlayacağım."
-
-# game/episode007.rpy:786
-translate turkish episode007_2753af74:
-
-    # cet "Consider it payment for saving my life."
-    cet "Hayatımı kurtardığı için ödemeyi düşünün."
-
-# game/episode007.rpy:787
-translate turkish episode007_25cab9cb:
-
-    # cet "You and your crew will stay in the guest quarters of the mansion."
-    cet "Siz ve mürettebatınız konakın konuk mahallelerinde kalacaksınız."
-
-# game/episode007.rpy:788
-translate turkish episode007_55c122f1:
-
-    # "Sensing that this invitation was just as non-obligatory as his earlier request to sit down, I accepted Cetruvar's offer."
-    "Bu davetiyenin daha önceki oturma isteği kadar zorlayıcı olmadığını algılayan Cetruvar'ın teklifini kabul ettim."
-
-# game/episode007.rpy:789
-translate turkish episode007_364aab1b:
-
-    # c "We'd be honored, of course."
-    c "Tabii ki onurlandırılırdık."
-
-# game/episode007.rpy:791
-translate turkish episode007_baa692a5:
-
-    # cet "Excellent, I'll order everything to be prepared for your stay."
-    cet "Mükemmel, konaklamanız için hazırlanacak her şeyi sipariş edeceğim."
-
-# game/episode007.rpy:792
-translate turkish episode007_dd20ffbf:
-
-    # c "Thanks."
-    c "Teşekkürler."
-
-# game/episode007.rpy:793
-translate turkish episode007_9c6f53ab:
-
-    # c "Great party, by the way..."
-    c "Bu arada büyük parti ..."
-
-# game/episode007.rpy:795
-translate turkish episode007_c8e5153f:
-
-    # "Cetruvar only grinned, but I could see there was absolutely no humor behind his eyes."
-    "Cetruvar sadece sırıttı, ama gözlerinin arkasında kesinlikle hiçbir mizah olmadığını görebiliyordum."
-
-# game/episode007.rpy:800
-translate turkish episode007_c2a328f5:
-
-    # "We stayed in Cetruvar's private apartments until his security staff gave the all clear."
-    "Güvenlik personeli her şeyi netleştirene kadar Cetruvar'ın özel dairelerinde kaldık."
-
-# game/episode007.rpy:802
-translate turkish episode007_6cf962c1:
-
-    # "All the other guests had left the premises and the crew of the Bastard was brought up to speed on the latest developments."
-    "Diğer tüm konuklar tesisleri terk etmişlerdi ve piçin mürettebatı en son gelişmeleri hızlandırmak için gündeme getirildi."
-
-# game/episode007.rpy:803
-translate turkish episode007_37261bff:
-
-    # "The prospect of spending the night under the roof of Ranimo Cetruvar filled nearly everyone with apprehension."
-    "Geceyi Ranimo Cetruvar'ın çatısının altında geçirme ihtimali neredeyse herkesi endişeyle doldurdu."
-
-# game/episode007.rpy:804
-translate turkish episode007_8d8d550f:
-
-    # "My guess would be that most of us would sleep very lightly, ready for anything."
-    "Tahminimce çoğumuz çok hafif uyuyacak, her şeye hazır olacaktı."
-
-# game/episode007.rpy:806
-translate turkish episode007_8fa40ac3:
-
-    # "We were assigned small guest rooms accessible via a long corridor in a separate part of the mansion."
-    "Konağın ayrı bir bölümünde uzun bir koridor aracılığıyla erişilebilen küçük konuk odaları verildi."
-
-# game/episode007.rpy:807
-translate turkish episode007_423ec4e1:
-
-    # "This area of the complex seemed to be actually built half inside the cliff."
-    "Kompleksin bu alanı aslında uçurumun yarısı olarak inşa edilmiş gibi görünüyordu."
-
-# game/episode007.rpy:809
-translate turkish episode007_dc219897:
-
-    # "I was served a meal in my room, but I didn’t feel particularly hungry."
-    "Odamda yemek servis edildi, ama özellikle aç hissetmedim."
-
-# game/episode007.rpy:810
-translate turkish episode007_cbdef467:
-
-    # "Also, Cetruvar might have ordered the food to be laced with drugs and I’d had my fill of that during our forced enjoyment of ConVitæ’s special brand of hospitality."
-    "Ayrıca, Cetruvar yiyeceklerin uyuşturucularla bağlanmasını emretmiş olabilir ve Convitæ’in özel misafirperverliği markasının zorlanması sırasında bunu doldurdum."
-
-# game/episode007.rpy:811
-translate turkish episode007_79c0338f:
-
-    # "As nobody had forbidden it, I decided to check on some of the others."
-    "Kimse yasaklamamış olarak, diğerlerinden bazılarını kontrol etmeye karar verdim."
-
-# game/episode007.rpy:834
-translate turkish ep007_conversations_8ea51570:
-
-    # "I decided to go back to my room and think on how to get out of this situation."
-    "Odama geri dönmeye ve bu durumdan nasıl çıkacağımı düşünmeye karar verdim."
-
-# game/episode007.rpy:835
-translate turkish ep007_conversations_eb21fa4f:
-
-    # "Cetruvar was likely to turn us over to whichever party offered the most."
-    "Cetruvar'ın bizi en çok hangi partiye sunduğuna dönecekti."
-
-# game/episode007.rpy:836
-translate turkish ep007_conversations_ff9307e1:
-
-    # "His generous offer of sharing information was probably a stalling tactic."
-    "Cömert bilgi paylaşımı teklifi muhtemelen durdurucu bir taktikti."
-
-# game/episode007.rpy:837
-translate turkish ep007_conversations_956205a5:
-
-    # "We really needed an edge."
-    "Gerçekten bir kenara ihtiyacımız vardı."
-
-# game/episode007.rpy:839
-translate turkish ep007_conversations_8d91ae29:
-
-    # "Lost in thought, I bumped into Thim in the hallway."
-    "Düşüncede kayboldum, koridorda Thim'e çarptım."
-
-# game/episode007.rpy:840
-translate turkish ep007_conversations_e0cb3248:
-
-    # c "Looking for the can?"
-    c "Kutuyu mı arıyorsunuz?"
-
-# game/episode007.rpy:842
-translate turkish ep007_conversations_1bd5571c:
-
-    # t "Yeah, no."
-    t "Evet, hayır."
-
-# game/episode007.rpy:843
-translate turkish ep007_conversations_6feaf5da:
-
-    # t "I thought I heard something."
-    t "Bir şey duyduğumu sanıyordum."
-
-# game/episode007.rpy:844
-translate turkish ep007_conversations_e73ced3e:
-
-    # c "You do know we’re under guard and that there are constant patrols?"
-    c "Koruma altında olduğumuzu ve sürekli devriyeler olduğunu biliyor musunuz?"
-
-# game/episode007.rpy:846
-translate turkish ep007_conversations_2d04c748:
-
-    # t "Wow, thanks, [p_name], I really didn’t think of that."
-    t "Vay canına, teşekkürler, [p_name], Bunu gerçekten düşünmedim."
-
-# game/episode007.rpy:847
-translate turkish ep007_conversations_6d3f0a4a:
-
-    # c "What would you do without me, right?"
-    c "Bensiz ne yapardın, değil mi?"
-
-# game/episode007.rpy:848
-translate turkish ep007_conversations_a5ca0766:
-
-    # t "Exactly..."
-    t "Aynen öyle..."
-
-# game/episode007.rpy:849
-translate turkish ep007_conversations_57d16295:
-
-    # t "Now if you don’t mind, I’d like to get some sleep."
-    t "Şimdi sakıncası yoksa, biraz uyumak istiyorum."
-
-# game/episode007.rpy:851
-translate turkish ep007_conversations_c8c7871a:
-
-    # "Thim disappeared inside his room and I was about to do the same when I heard another door slide open."
-    "O odasının içinde kayboldu ve başka bir kapı slaytının açıldığını duyduğumda aynısını yapmak üzereydim."
-
-# game/episode007.rpy:858
-translate turkish ep007_conversations_1b2a663a:
-
-    # "Moments after I got back to my quarters there was a knock on the door."
-    "Çeyreklerime döndükten birkaç dakika sonra kapıyı çaldı."
-
-# game/episode007.rpy:860
-translate turkish ep007_conversations_5e30025f:
-
-    # "Thyia was waiting for me in the hallway."
-    "Thyia koridorda beni bekliyordu."
-
-# game/episode007.rpy:861
-translate turkish ep007_conversations_1784a74f:
-
-    # th "What took you so long?"
-    th "Ne seni bu kadar uzun tuttu?"
-
-# game/episode007.rpy:862
-translate turkish ep007_conversations_f8e35beb:
-
-    # c "I didn’t know we were to meet."
-    c "Buluşacağımızı bilmiyordum."
-
-# game/episode007.rpy:864
-translate turkish ep007_conversations_7772b4a0:
-
-    # th "Fine, we need to meet."
-    th "Güzel, buluşmalıyız."
-
-# game/episode007.rpy:865
-translate turkish ep007_conversations_ce3cdd38:
-
-    # c "This is probably something that we can’t discuss in my room?"
-    c "Bu muhtemelen odamda tartışamayacağımız bir şey mi?"
-
-# game/episode007.rpy:866
-translate turkish ep007_conversations_b95a802b:
-
-    # th "No, there’s probably someone listening in."
-    th "Hayır, muhtemelen dinleyen biri var."
-
-# game/episode007.rpy:867
-translate turkish ep007_conversations_0f0fbb19:
-
-    # th "There’s a balcony where the guards go for a smoke."
-    th "Muhafızların duman için gittiği bir balkon var."
-
-# game/episode007.rpy:868
-translate turkish ep007_conversations_bede0668:
-
-    # c "Let’s go for a smoke then."
-    c "O zaman bir duman için gidelim."
-
-# game/episode007.rpy:870
-translate turkish ep007_conversations_76768905:
-
-    # "The balcony was on the far end of the guest quarters, overlooking the vast ocean that seemed to cover the entirety of Almagest."
-    "Balkon, Almagest'in tamamını kapsayan geniş okyanusa bakan konuk mahallelerinin en ucundaydı."
-
-# game/episode007.rpy:871
-translate turkish ep007_conversations_59fabd12:
-
-    # c "So, what did you want to tell me?"
-    c "Peki bana ne söylemek istedin?"
-
-# game/episode007.rpy:873
-translate turkish ep007_conversations_39c86d74:
-
-    # th "Cetruvar is going to sell us out."
-    th "Cetruvar bizi satacak."
-
-# game/episode007.rpy:874
-translate turkish ep007_conversations_a24efc14:
-
-    # c "Yes, probably."
-    c "Evet muhtemelen."
-
-# game/episode007.rpy:875
-translate turkish ep007_conversations_a027bcdc:
-
-    # c "I think he’s thinking on who will pay the most."
-    c "Sanırım en çok kimin ödeyeceğini düşünüyor."
-
-# game/episode007.rpy:876
-translate turkish ep007_conversations_2c0570c9:
-
-    # c "Contemplating his options to maximize his financial returns, so to speak."
-    c "Tabiri caizse, finansal getirilerini en üst düzeye çıkarma seçeneklerini düşünmek."
-
-# game/episode007.rpy:878
-translate turkish ep007_conversations_d1921103:
-
-    # th "Right."
-    th "Doğru."
-
-# game/episode007.rpy:880
-translate turkish ep007_conversations_e01a9f25:
-
-    # th "Do you have a plan to get us out of here?"
-    th "Bizi buradan çıkarmak için bir planınız var mı?"
-
-# game/episode007.rpy:881
-translate turkish ep007_conversations_1276af08:
-
-    # c "I’ve been talking to Aven and I was planning on talking to you about it."
-    c "Aven ile konuşuyorum ve sizinle bunun hakkında konuşmayı planlıyordum."
-
-# game/episode007.rpy:882
-translate turkish ep007_conversations_afaa3f88:
-
-    # c "The trouble is, there’s too many guards and too much surveillance."
-    c "Sorun şu ki, çok fazla gardiyan ve çok fazla gözetim var."
-
-# game/episode007.rpy:883
-translate turkish ep007_conversations_18027fc6:
-
-    # c "And I don’t want to leave here without knowing where Eva is."
-    c "Ve Eva'nın nerede olduğunu bilmeden buradan ayrılmak istemiyorum."
-
-# game/episode007.rpy:884
-translate turkish ep007_conversations_d142acb6:
-
-    # c "Cetruvar admitted he knows something."
-    c "Cetruvar bir şey bildiğini itiraf etti."
-
-# game/episode007.rpy:885
-translate turkish ep007_conversations_700f5f32:
-
-    # c "If we can also find out what those women dressed in purple were after..."
-    c "Mor giymiş kadınların sonra ne olduğunu da öğrenebilirsek ..."
-
-# game/episode007.rpy:886
-translate turkish ep007_conversations_c5f595b8:
-
-    # th "You’re really bad at cutting your losses, aren’t you?"
-    th "Kayıplarınızı kesmekte gerçekten kötüsün, değil mi?"
-
-# game/episode007.rpy:887
-translate turkish ep007_conversations_91b9e0dc:
-
-    # c "If you dangle a cake in front of me, I’m going to fucking eat it too."
-    c "Önümde bir pasta sallarsan, ben de yiyeceğim."
-
-# game/episode007.rpy:888
-translate turkish ep007_conversations_00b9f2bc:
-
-    # th "I have an idea to get us out of here."
-    th "Bizi buradan çıkarmak için bir fikrim var."
-
-# game/episode007.rpy:889
-translate turkish ep007_conversations_903273b0:
-
-    # c "Go on."
     c "Devam et."
 
-# game/episode007.rpy:891
-translate turkish ep007_conversations_3b67f29b:
 
-    # th "I’ve had my eyes open during our stay here so far."
-    th "Şimdiye kadar kaldığımız süre boyunca gözlerimi açtım."
+translate turkish episode007_9cad55a2:
 
-# game/episode007.rpy:892
-translate turkish ep007_conversations_31016eb4:
 
-    # th "This whole mansion is built out of separate modules, each connected by an elevator."
-    th "Tüm bu konak, her biri bir asansörle bağlanan ayrı modüllerden inşa edilmiştir."
+    ce "Jade ve ben sistemlerimizin tam bir teşhisini tamamladık."
 
-# game/episode007.rpy:893
-translate turkish ep007_conversations_25bcc0e9:
 
-    # th "Every module has its own ventilation system that’s unconnected to the other modules."
-    th "Her modülün diğer modüllere bağlı olmayan kendi havalandırma sistemi vardır."
+translate turkish episode007_a185d9c4:
 
-# game/episode007.rpy:894
-translate turkish ep007_conversations_3866c9de:
 
-    # th "Ours is separate from Cetruvar’s private quarters, as are the guard quarters."
-    th "Bizimki, bekçi mahalleleri gibi Cetruvar’ın özel mahallelerinden ayrıdır."
+    c "O araştırma istasyonunda bu kadar uzun süre kaldıktan sonra mantıklı görünüyor."
 
-# game/episode007.rpy:895
-translate turkish ep007_conversations_2f4f9fdc:
 
-    # th "Also, for a guy who’s paranoid about security, Cetruvar really needs to check the locking procedures on some of the weapon cabinets scattered around the complex."
-    th "Ayrıca, güvenlik konusunda paranoyak olan bir adam için, Cetruvar'ın kompleksin etrafına dağılmış bazı silah dolaplarındaki kilitleme prosedürlerini gerçekten kontrol etmesi gerekiyor."
+translate turkish episode007_a1d31067:
 
-# game/episode007.rpy:896
-translate turkish ep007_conversations_447a1a92:
 
-    # c "You tested those locks yourself, huh?"
-    c "Bu kilitleri kendiniz test ettin, ha?"
+    c "Herhangi bir takip yazılımı yerleştirdiler mi?"
 
-# game/episode007.rpy:898
-translate turkish ep007_conversations_f4dc627e:
 
-    # th "I sure did."
-    th "Yaptığıma eminim."
+translate turkish episode007_c1d12582:
 
-# game/episode007.rpy:899
-translate turkish ep007_conversations_788e70d3:
 
-    # th "I’m now the proud owner of a set of gas grenades and a couple of pistols."
-    th "Şimdi bir dizi gaz bombasının ve birkaç tabancanın gururlu sahibiyim."
+    ce "Bildiğimiz kadarıyla hayır."
 
-# game/episode007.rpy:900
-translate turkish ep007_conversations_26c1fcc5:
 
-    # c "Does that set of grenades perhaps contain sleeping gas?"
-    c "Bu el bombası kümesi belki de uyku gazı içeriyor mu?"
+translate turkish episode007_0682b249:
 
-# game/episode007.rpy:902
-translate turkish ep007_conversations_b84f4981:
 
-    # th "Indeed it does."
-    th "Gerçekten öyle."
+    ce "Ama başka bir şey var."
 
-# game/episode007.rpy:904
-translate turkish ep007_conversations_480397dd:
 
-    # th "So I was thinking, we throw those grenades into the ventilation shaft of the guard quarters and let the gas do its work."
-    th "Bu yüzden düşünüyordum, bu el bombalarını koruma mahallelerinin havalandırma şaftına atıyoruz ve gazın işini yapmasına izin veriyoruz."
+translate turkish episode007_021a41dd:
 
-# game/episode007.rpy:906
-translate turkish ep007_conversations_1d010436:
 
-    # th "While the guards enjoy a good night’s rest, we can slip out of here."
-    th "Gardiyanlar iyi bir gece dinlenmesinin tadını çıkarırken, buradan çıkabiliriz."
+    c "Bu gerçekten hoşuma gitmedi.."
 
-# game/episode007.rpy:907
-translate turkish ep007_conversations_3aab48d0:
 
-    # c "Let’s do it, they’ve certainly earned it after all that hard work today."
-    c "Yapalım, bugün bu kadar zor işten sonra kesinlikle kazandılar."
+translate turkish episode007_22a2f0d5:
 
-# game/episode007.rpy:908
-translate turkish ep007_conversations_5d62377f:
 
-    # c "Is there an easy way to administer the gas into the ventilation shaft?"
-    c "Gazı havalandırma şaftına uygulamanın kolay bir yolu var mı?"
+    ce "Birisi bilinmeyen bir alıcıya mesajlar gönderiyormuş."
 
-# game/episode007.rpy:910
-translate turkish ep007_conversations_f4bec136:
 
-    # th "I found a vent which connects to the guard’s quarters not far from here."
-    th "Buradan uzak olmayan muhafızların mahallelerine bağlanan bir havalandırma buldum."
+translate turkish episode007_51681bd5:
 
-# game/episode007.rpy:911
-translate turkish ep007_conversations_4faa42f0:
 
-    # c "Fantastic."
-    c "Fantastik."
+    c "Ne tür mesajlar?"
 
-# game/episode007.rpy:912
-translate turkish ep007_conversations_1d65159e:
 
-    # c "That should take care of most of the guards, except for the ones who’re patrolling the premises."
-    c "Bu, binada devriye gezenler hariç, gardiyanların çoğuna bakmalıdır."
+translate turkish episode007_a8a1a95d:
 
-# game/episode007.rpy:913
-translate turkish ep007_conversations_91491bcb:
 
-    # c "And then there’s the matter of getting into Cetruvar’s chambers."
-    c "Ve sonra Cetruvar’ın odalarına girme meselesi var."
+    ce "Bilmiyoruz, çünkü orijinal mesajlar silinmiş ve izlerini kapatmaya çalışmışlar."
 
-# game/episode007.rpy:914
-translate turkish ep007_conversations_a4a1a953:
 
-    # c "Are his quarters reachable via a ventilation shaft too?"
-    c "Çeyreklerine havalandırma şaftıyla da ulaşılabilir mi?"
+translate turkish episode007_0f7f9b12:
 
-# game/episode007.rpy:916
-translate turkish ep007_conversations_5aebf2da:
 
-    # th "They might, but I haven’t found an outlet similar to the one that leads to the guard quarters."
-    th "Yapabilirler, ama gardiyan mahallelerine yol açan bir çıkış bulamadım."
+    ce "Bilinmeyen bir konuma üç mesaj gönderilmiş."
 
-# game/episode007.rpy:917
-translate turkish ep007_conversations_91388939:
 
-    # c "Fuck, so stealth is out of the question in that case."
-    c "Siktir et, bu durumda gizlilik söz konusu değil."
+translate turkish episode007_766ac3a9:
 
-# game/episode007.rpy:918
-translate turkish ep007_conversations_568a6285:
 
-    # c "We should have much less guards to deal with, so we could go in through the front door, throw a gas grenade inside his chambers and hope for the best."
-    c "Başa çıkmak için çok daha az muhafızlarımız olmalı, böylece ön kapıdan içeri girebilir, odalarının içine bir gaz bombası atabilir ve en iyisini umabiliriz."
+    ce "İlki Verdant İstasyonu'ndayken gönderilmiş, ikincisinden emin değiliz."
 
-# game/episode007.rpy:919
-translate turkish ep007_conversations_b99a1ad4:
 
-    # c "So we put those fuckers to sleep, neutralize Cetruvar somehow, find the intel on Eva and take the Bastard back into space."
-    c "Bu yüzden o pislikleri uyutmaya koyduk, Cetruvar'ı bir şekilde nötralize ediyoruz, EVA'daki Intel'i bulduk ve piçleri uzaya geri götürüyoruz."
+translate turkish episode007_68301da4:
 
-# game/episode007.rpy:921
-translate turkish ep007_conversations_b4848f22:
 
-    # th "That plan has some major weak spots and you know it."
-    th "Bu planın bazı büyük zayıf noktaları var ve biliyorsunuz."
+    c "Peki ya üçüncüsü?"
 
-# game/episode007.rpy:922
-translate turkish ep007_conversations_509bd10a:
 
-    # c "We’ll need to improvise at certain points, that’s for sure."
-    c "Belirli noktalarda doğaçlama yapmamız gerekecek, bu kesin."
+translate turkish episode007_cfd65657:
 
-# game/episode007.rpy:923
-translate turkish ep007_conversations_a49118bd:
 
-    # th "I guess there’s no other way around it."
-    th "Sanırım etrafında başka bir yol yok."
+    ce "Araştırma istasyonundan kaçtıktan sonraki saatlerde."
 
-# game/episode007.rpy:925
-translate turkish ep007_conversations_0e1023f2:
 
-    # th "Also, we need Jade to do her magic on Cetruvar’s systems."
-    th "Ayrıca, Cetruvar’ın sistemlerinde sihrini yapmak için Jade'e ihtiyacımız var."
+translate turkish episode007_b437b351:
 
-# game/episode007.rpy:926
-translate turkish ep007_conversations_25f14f52:
 
-    # c "I saw a private terminal in Cetruvar’s quarters, there’s a good chance the information is on that computer."
-    c "Cetruvar’ın mahallelerinde özel bir terminal gördüm, bilginin o bilgisayarda olma şansı yüksek."
+    c "Siktir."
 
-# game/episode007.rpy:927
-translate turkish ep007_conversations_5799428a:
 
-    # c "I’ll ask Jade if she meets us in an hour."
-    c "Jade'e bir saat içinde bizimle tanışıp karşılaşmadığını soracağım."
+translate turkish episode007_ad95bac4:
 
-# game/episode007.rpy:928
-translate turkish ep007_conversations_396cb6c2:
 
-    # th "I’ll go get the hardware."
-    th "Donanımı alacağım."
+    ce "Önemsiz bir şey olabilir ama bilmen gerektiğini düşündük."
 
-# game/episode007.rpy:930
-translate turkish ep007_conversations_759703a5:
 
-    # "We went in opposite directions, hoping to evade the guards on night duty."
-    "Gece görevinde gardiyanlardan kaçmayı umarak zıt yönlere gittik."
+translate turkish episode007_c2241bec:
 
-# game/episode007.rpy:932
-translate turkish ep007_conversations_ce6ee65e:
 
-    # "I caught Jade during her training routine just before going to bed."
-    "Yatmadan hemen önce eğitim rutini sırasında Jade'i yakaladım."
+    c "O mesajların içeriğini bilmiyoruz ama bunun önemsiz olmadığına eminim."
 
-# game/episode007.rpy:934
-translate turkish ep007_conversations_e8b2f0b0:
 
-    # "A set of traditional Twi’ll physical exercises to balance the body and mind, or something like that."
-    "Bir dizi geleneksel twi, bedeni ve zihni dengelemek için fiziksel egzersizler ya da bunun gibi bir şey."
+translate turkish episode007_fb00e839:
 
-# game/episode007.rpy:942
-translate turkish ep007_conversations_8030a70f:
 
-    # "It just looked insanely hot, also because she was doing them naked."
-    "Sadece çıplak yapıyordu, çünkü onları çıplak yapıyordu."
+    c "Birisi üçüncü bir tarafla iletişim kurmuş, muhtemelen nerede olduğumuz hakkında bilgi veriyorlar."
 
-# game/episode007.rpy:943
-translate turkish ep007_conversations_593f9c58:
 
-    # c "Why do those poses make you look extra gorgeous?"
-    c "Neden bu pozlar sizi çok muhteşem görünmenizi sağlıyor?"
+translate turkish episode007_e51cedcf:
 
-# game/episode007.rpy:945
-translate turkish ep007_conversations_409f68ca:
 
-    # j "I know, it’s a failing of mine."
-    j "Biliyorum, bu benim başarısız."
+    ce "Ama kim?"
 
-# game/episode007.rpy:946
-translate turkish ep007_conversations_f67c5ae7:
 
-    # j "Those movements were once part of the holiest of holiest sacrements in our religion and I pervert them by making it look like a lap dance."
-    j "Bu hareketler bir zamanlar dinimizdeki en kutsal kurbanların bir parçasıydı ve ben de bir tur dansı gibi görünmesini sağlayarak onları saptırıyorum."
+translate turkish episode007_a4f959f9:
 
-# game/episode007.rpy:947
-translate turkish ep007_conversations_8962f1eb:
 
-    # c "Are you serious, this whole routine is normally part of a religious ceremony?"
-    c "Ciddi misiniz, bu rutin normalde dini bir törenin parçası mı?"
+    c "Öğrenmeyi düşünüyorum."
 
-# game/episode007.rpy:949
-translate turkish ep007_conversations_dd03ea04:
 
-    # j "Haha, of course not!"
-    j "Haha, elbette hayır!"
+translate turkish episode007_2d89cece:
 
-# game/episode007.rpy:951
-translate turkish ep007_conversations_f5020b8a:
 
-    # j "Unless you count seduction as the official Twi’ll religion."
-    j "Baştan çıkarmayı resmi twi dini olarak saymadığınız sürece."
+    ce "Jade bu yasadışı yayınları bir şekilde takip ediyor mu?"
 
-# game/episode007.rpy:952
-translate turkish ep007_conversations_d248683f:
 
-    # j "Though in a way, it might be..."
-    j "Bir bakıma olsa da, ..."
+translate turkish episode007_3af0e4ad:
 
-# game/episode007.rpy:954
-translate turkish ep007_conversations_0c15638a:
 
-    # j "Anyway, what do you need me for?"
-    j "Her neyse, bana ne için ihtiyacın var?"
+    ce "Sanırım öyle."
 
-# game/episode007.rpy:955
-translate turkish ep007_conversations_0ea3c70a:
 
-    # c "Lots of things...{w} But I’d like you to come with me now."
-    c "Birçok şey...{w} Ama şimdi benimle gelmeni istiyorum."
+translate turkish episode007_139c6bba:
 
-# game/episode007.rpy:956
-translate turkish ep007_conversations_5e4ace8e:
 
-    # j "Of course."
-    j "Elbette."
+    c "İyi."
 
-# game/episode007.rpy:963
-translate turkish ep007_conversations_f4a3b1d2:
 
-    # c "You look extremely fuckable right now, you know that?"
-    c "Şu anda son derece becerdin görünüyorsun, bunu biliyor musun?"
+translate turkish episode007_ab17a107:
 
-# game/episode007.rpy:964
-translate turkish ep007_conversations_c3c3014c:
 
-    # "The girl didn’t hear me come in and was obviously startled by my brusque comment."
-    "Kız gelmemi duymadı ve açıkçası brusque yorumumla şaşırdı."
+    c "Bunu bilen sadece üç kişiyiz, değil mi?"
 
-# game/episode007.rpy:966
-translate turkish ep007_conversations_16dd6b0e:
 
-    # j "Yes, master."
-    j "Evet usta."
+translate turkish episode007_c998b0d0:
 
-# game/episode007.rpy:967
-translate turkish ep007_conversations_51d0b8be:
 
-    # c "Sadly, I don’t have time to play with you, I need you to come with me, Jade."
-    c "Ne yazık ki, seninle oynamak için zamanım yok, benimle gelmene ihtiyacım var, Jade."
+    ce "Öyle."
 
-# game/episode007.rpy:968
-translate turkish ep007_conversations_fbaa5fcd:
 
-    # j "Of course, master."
-    j "Tabii ki, usta."
+translate turkish episode007_77d926e7:
 
-# game/episode007.rpy:970
-translate turkish ep007_conversations_b8700ae8:
 
-    # c "I need you to come with me, Jade."
-    c "Benimle gelmene ihtiyacım var, Jade."
+    c "Lütfen Jade'e bunu kendine saklamasını söyle."
 
-# game/episode007.rpy:972
-translate turkish ep007_conversations_fbaa5fcd_1:
 
-    # j "Of course, master."
-    j "Tabii ki, usta."
+translate turkish episode007_1605c824:
 
-# game/episode007.rpy:975
-translate turkish ep007_conversations_75ece378:
 
-    # "I guided Jade towards the same balcony where Thyia and I spoke earlier."
-    "Jade'i Thyia ve ben daha önce konuştuğumuz aynı balkona yönlendirdim."
+    ce "Söylerim."
 
-# game/episode007.rpy:976
-translate turkish ep007_conversations_9a1a9231:
 
-    # j "So you need me to break into Cetruvar’s personal computer?"
-    j "Yani Cetruvar’ın kişisel bilgisayarına girmeme mi ihtiyacınız var?"
+translate turkish episode007_814473b3:
 
-# game/episode007.rpy:977
-translate turkish ep007_conversations_26eefe0a:
 
-    # c "Yes."
-    c "Evet."
+    "Céline'in araştırmasından rahatsız olarak, acil sorunumuza döndüm: Cetruvar'ın malikanesine girmek."
 
-# game/episode007.rpy:978
-translate turkish ep007_conversations_b9c3c026:
 
-    # j "No problem, if you can get me inside his room."
-    j "Sorun değil, eğer beni odasının içine alabilirsen."
+translate turkish episode007_58282c2d:
 
-# game/episode007.rpy:979
-translate turkish ep007_conversations_30abbac8:
 
-    # c "We’re working on that."
-    c "Bunun üzerinde çalışıyoruz."
+    "Dağınıklığın yanından geçerken orada oturan Thyia'yı gördüm."
 
-# game/episode007.rpy:980
-translate turkish ep007_conversations_1afeb994:
 
-    # c "Meet me in front of my room in one hour, everything should be set up by then."
-    c "Benimle bir saat içinde odamın önünde buluş, o zamana kadar her şey kurulmalı."
+translate turkish episode007_70ad65a5:
 
-# game/episode007.rpy:981
-translate turkish ep007_conversations_ca021bae:
 
-    # j "I will."
-    j "Yapacağım."
+    c "Hey, bir dakikan var mı?"
 
-# game/episode007.rpy:983
-translate turkish ep007_conversations_cdcf5af3:
 
-    # "A guard walked past us as we finished our conversation."
-    "Konuşmamızı bitirirken bir bekçi bizi geçti."
+translate turkish episode007_e875745e:
 
-# game/episode007.rpy:988
-translate turkish ep007_conversations_5592ac1c:
 
-    # woman "What are you doing outside of your quarters?"
-    woman "Çeyreklerin dışında ne yapıyorsun?"
+    th "Tabii ki."
 
-# game/episode007.rpy:989
-translate turkish ep007_conversations_d59bd0a0:
 
-    # c "Aren’t we allowed some fresh air?"
-    c "Temiz havaya izin vermiyor mu?"
+translate turkish episode007_f12a88db:
 
-# game/episode007.rpy:990
-translate turkish ep007_conversations_0e5d2e97:
 
-    # woman "It’s late, you’ll disturb the other guests."
-    woman "Geç kaldı, diğer konukları rahatsız edeceksiniz."
+    c "ConVitæ'nin misafirperverliğinden altı ay yararlanmak planlarımızı fena sikti."
 
-# game/episode007.rpy:991
-translate turkish ep007_conversations_8154f829:
 
-    # c "Thank you for your concern."
-    c "İlgin için teşekkür ederim."
+translate turkish episode007_b6db50d0:
 
-# game/episode007.rpy:993
-translate turkish ep007_conversations_95b321a9:
 
-    # "The guard didn’t press further, so I walked away from her, in search of Thyia."
-    "Muhafız daha fazla baskı yapmadı, bu yüzden Thyia'yı aramak için ondan uzaklaştım."
+    th "Bir daha söyleyebilirsin."
 
-# game/episode007.rpy:994
-translate turkish ep007_conversations_28f26ed4:
 
-    # "She met me down the corridor looking excited."
-    "Beni heyecanlı görünen koridorda tanıştı."
+translate turkish episode007_aa7ef27f:
 
-# game/episode007.rpy:996
-translate turkish ep007_conversations_550308a8:
 
-    # th "Ready to do this?"
-    th "Bunu yapmaya hazır mısınız?"
+    th "Yine de oraya gidiyoruz, vardığımızda ne yapmayı planlıyorsun?"
 
-# game/episode007.rpy:997
-translate turkish ep007_conversations_b63d6bf3:
 
-    # c "I am."
-    c "Ben."
+translate turkish episode007_5448e4db:
 
-# game/episode007.rpy:998
-translate turkish ep007_conversations_86d309ce:
 
-    # th "Here’s one of the guns, and I’ve brought the grenades."
-    th "İşte silahlardan biri ve el bombalarını getirdim."
+    c "Dürüst olmak gerekirse, hiçbir fikrim yok."
 
-# game/episode007.rpy:999
-translate turkish ep007_conversations_33da7d28:
 
-    # c "Good, let’s go find that vent."
-    c "Güzel, gidelim o havayı bulalım."
+translate turkish episode007_492c1d27:
 
-# game/episode007.rpy:1001
-translate turkish ep007_conversations_d3f308df:
 
-    # "Thyia knew the way and guided us towards the spot where we needed to deposit the grenades."
-    "Thyia yolu biliyordu ve bizi el bombalarını yatırmak için gereken noktaya yönlendirdi."
+    c "O güzel kıyafetleri giyip kapıyı mı çalacaksın?"
 
-# game/episode007.rpy:1003
-translate turkish ep007_conversations_17b78bb2:
 
-    # "Just as we were about to remove the grating from the vent, the guard who accosted me earlier rounded the corner."
-    "Tıpkı ızgarayı havalandırmadan çıkarmak üzereyken, beni daha önce suçlayan bekçi köşeyi yuvarladı."
+translate turkish episode007_b2c0303a:
 
-# game/episode007.rpy:1005
-translate turkish ep007_conversations_d12fa3f5:
 
-    # th "Fuck."
-    th "Kahretsin."
+    c "Vitriv'in bize yaptığı davetiyeler işe yaramaz."
 
-# game/episode007.rpy:1007
-translate turkish ep007_conversations_36eeb9da:
 
-    # "Without hesitating I pushed Thyia against the wall and wrapped my arms around her."
-    "Tereddüt etmeden Thyia'yı duvara ittim ve kollarımı etrafına sardım."
+translate turkish episode007_861441b7:
 
-# game/episode007.rpy:1009
-translate turkish ep007_conversations_1321cdb9:
 
-    # "I kissed her full on the lips."
-    "Onu dudaklarından öperdim."
+    th "Evet, altı ay önceki davetiyelerle bu ayki partiye girme fikrini satmanın senin için bile imkansız olduğuna eminim."
 
-# game/episode007.rpy:1010
-translate turkish ep007_conversations_f219d87c:
 
-    # "Thyia was too startled to return the kiss at first, but when the guard approached us she gave herself over to the moment completely."
-    "Thyia ilk başta öpücüğü geri vermek için çok şaşırmıştı, ama gardiyan bize yaklaştığında kendini o ana kadar tamamen verdi."
+translate turkish episode007_a1f0da02:
 
-# game/episode007.rpy:1012
-translate turkish ep007_conversations_909e401e:
 
-    # woman "Excuse me."
-    woman "Affedersiniz."
+    c "Evet..."
 
-# game/episode007.rpy:1013
-translate turkish ep007_conversations_808aacc9:
 
-    # c "What?{w} Oh."
-    c "Ne?{w} Ey."
+translate turkish episode007_26a8f1e2:
 
-# game/episode007.rpy:1014
-translate turkish ep007_conversations_2077c7ce:
 
-    # woman "You again."
-    woman "Yine sen."
+    c "Yine de Vitriv'in bizim için yarattığı kimlikler var."
 
-# game/episode007.rpy:1015
-translate turkish ep007_conversations_2dd46812:
 
-    # woman "You’re keeping busy tonight, aren’t you?"
-    woman "Bu gece meşgul oluyorsun, değil mi?"
+translate turkish episode007_82a81bcf:
 
-# game/episode007.rpy:1016
-translate turkish ep007_conversations_e96df658:
 
-    # woman "Mister Cetruvar assigned you a room, please use it for whatever the fuck you’re doing."
-    woman "Bay Cetruvar size bir oda atadı, lütfen ne yaptığınız için kullanın."
+    c "Ne kadar iyiler?"
 
-# game/episode007.rpy:1017
-translate turkish ep007_conversations_a192efc8:
 
-    # c "Right, we will."
-    c "Doğru, yapacağız."
+translate turkish episode007_94bc987e:
 
-# game/episode007.rpy:1019
-translate turkish ep007_conversations_f73bdab2:
 
-    # c "Are you coming, Thyia?"
-    c "Geliyor musun Thyia?"
+    c "Özgeçmiş kontrolü yaparlarsa dayanırlar mı?"
 
-# game/episode007.rpy:1020
-translate turkish ep007_conversations_73f7090f:
 
-    # th "Err...{w} Yes...{w} Yes I am."
-    th "Hata ...{w} Evet...{w} Evet benim."
+translate turkish episode007_b60be73b:
 
-# game/episode007.rpy:1022
-translate turkish ep007_conversations_202224de:
 
-    # "The guard seemed to pay us no mind, but did mutter in displeasure as she walked past us."
-    "Muhafız bize akıl ödemedi, ama biz geçerken hoşnutsuzluk içinde mırıldandı."
+    th "Vitriv işinde çok iyi, o yüzden evet, bu kimliklerin sağlam olduğunu düşünüyorum."
 
-# game/episode007.rpy:1024
-translate turkish ep007_conversations_ef43b041:
 
-    # th "What the fuck did you do that for, [p_name_short]?"
-    th "Bunu ne yaptın [p_name_short]?"
+translate turkish episode007_f9d30170:
 
-# game/episode007.rpy:1025
-translate turkish ep007_conversations_783a3952:
 
-    # c "It’s called a distraction."
-    c "Buna dikkat dağıtıcı denir."
+    th "Eğlence arayan bir grup sosyeteyiz."
 
-# game/episode007.rpy:1026
-translate turkish ep007_conversations_b9c59dfd:
 
-    # th "It sure was."
-    th "Kesinlikle öyleydi."
+translate turkish episode007_da1648ac:
 
-# game/episode007.rpy:1028
-translate turkish ep007_conversations_31ff3b5e:
 
-    # th "Also, you’re still holding me."
-    th "Ayrıca, hala beni tutuyorsun."
+    th "Bu tür partilere katılacak kadar zengin ama istenmeyen dikkat çekecek kadar da zengin değil."
 
-# game/episode007.rpy:1032
-translate turkish ep007_conversations_56fb54d6:
 
-    # "She didn’t remove my hands from her hips and instead looked at me with a strange mixture of longing and growing alarm."
-    "Ellerimi kalçalarından çıkarmadı ve bunun yerine bana garip bir özlem ve büyüyen alarm karışımı ile baktı."
+translate turkish episode007_1180c3bb:
 
-# game/episode007.rpy:1034
-translate turkish ep007_conversations_8fb0e760:
 
-    # "I kissed Thyia again."
-    "Thyia'yı tekrar öptüm."
+    th "Neden, bir fikrin mi var?"
 
-# game/episode007.rpy:1035
-translate turkish ep007_conversations_63b5a5c8:
 
-    # "Once again, she accepted me and only tried to disentangle herself after what seemed like a delightful eternity."
-    "Bir kez daha beni kabul etti ve sadece hoş bir sonsuzluk gibi görünen şeyden sonra kendini çözmeye çalıştı."
+translate turkish episode007_e4cd5240:
 
-# game/episode007.rpy:1037
-translate turkish ep007_conversations_8e4f8590:
 
-    # th "I...{w} We...{w} The grating!"
-    th "İ...{w} Biz...{w} Izgara!"
+    c "Az çok."
 
-# game/episode007.rpy:1038
-translate turkish ep007_conversations_184ebaa5:
 
-    # c "Right, we still have some guards to gas."
-    c "Doğru, hala gaza gardiyanlarımız var."
+translate turkish episode007_2ce1cc31:
 
-# game/episode007.rpy:1039
-translate turkish ep007_conversations_90fe5535:
 
-    # th "Exactly.{w} Guards.{w} Gas."
-    th "Aynen öyle.{w} Gardiyanlar.{w} Gaz."
+    c "Cetruvar'ın malikanesinin planı sende var mı?"
 
-# game/episode007.rpy:1041
-translate turkish ep007_conversations_184ebaa5_1:
 
-    # c "Right, we still have some guards to gas."
-    c "Doğru, hala gaza gardiyanlarımız var."
+translate turkish episode007_1c62db38:
 
-# game/episode007.rpy:1042
-translate turkish ep007_conversations_b588e543:
 
-    # th "We do indeed."
-    th "Gerçekten yapıyoruz."
+    th "Evet, planları Barranthis'te ele geçirdim."
 
-# game/episode007.rpy:1045
-translate turkish ep007_conversations_c2376a0e:
 
-    # "The grating wasn’t that well secured and we had access to the vent in no time."
-    "Izgara o kadar iyi değildi ve hiçbir zaman havalandırmaya erişimimiz vardı."
+translate turkish episode007_3f947546:
 
-# game/episode007.rpy:1047
-translate turkish ep007_conversations_67d96be9:
 
-    # th "Well, here goes."
-    th "İşte gidiyor."
+    th "Elde etmesi kolay değildi."
 
-# game/episode007.rpy:1048
-translate turkish ep007_conversations_63f3d68a:
 
-    # th "If it works, we won’t hear a thing."
-    th "Çalışırsa, bir şey duymayacağız."
+translate turkish episode007_49de9143:
 
-# game/episode007.rpy:1049
-translate turkish ep007_conversations_8fb1a0fa:
 
-    # th "Otherwise we’re in a world of trouble."
-    th "Aksi takdirde bela dünyasındayız."
+    c "Aylık davetiyelerle o partiye girmenin hiçbir yolu yok."
 
-# game/episode007.rpy:1050
-translate turkish ep007_conversations_9eecd492:
 
-    # c "What if one of the patrols comes to check on their colleagues?"
-    c "Ya devriyelerden biri meslektaşlarını kontrol etmeye gelirse?"
+translate turkish episode007_23e25069:
 
-# game/episode007.rpy:1051
-translate turkish ep007_conversations_959b7229:
 
-    # th "Same world of trouble."
-    th "Aynı sorun dünyası."
+    c "O zaman ön kapıyı unutup başka bir yol bulalım."
 
-# game/episode007.rpy:1052
-translate turkish ep007_conversations_9ebf0dc9:
 
-    # th "So we have to move quickly and be gone before the night is out."
-    th "Bu yüzden hızlı hareket etmeliyiz ve gece çıkmadan önce gitmeliyiz."
+translate turkish episode007_380c5040:
 
-# game/episode007.rpy:1053
-translate turkish ep007_conversations_8bdc12f0:
 
-    # c "In that case, you do the honors."
-    c "Bu durumda, onurları yaparsınız."
+    th "O malikanenin dışarıdan herhangi bir sızıntıya karşı inşa edildiğinin farkındasın değil mi?"
 
-# game/episode007.rpy:1055
-translate turkish ep007_conversations_7f64bfcb:
 
-    # "Thyia pulled the pin on one of the grenades and lobbed it inside the vent."
-    "Thyia pimi el bombalarından birine çekti ve havalandırmanın içine girdi."
+translate turkish episode007_7a393ff9:
 
-# game/episode007.rpy:1056
-translate turkish ep007_conversations_18434601:
 
-    # "While it clattered through the shaft, she primed a second grenade."
-    "Şafttan geçerken, ikinci bir el bombası hazırladı."
+    th "Herif güvenlik konusunda paranoyak."
 
-# game/episode007.rpy:1058
-translate turkish ep007_conversations_bb93e22d:
 
-    # th "And one more for good measure."
-    th "Ve bir tane daha iyi önlem için."
+translate turkish episode007_18b1a63f:
 
-# game/episode007.rpy:1059
-translate turkish ep007_conversations_b3796811:
 
-    # th "Hope they sleep tight."
-    th "Umarım sıkı uyurlar."
+    c "Bir yolu olmalı."
 
-# game/episode007.rpy:1060
-translate turkish ep007_conversations_7e173243:
 
-    # c "Right, let’s go find Jade."
-    c "Doğru, hadi Jade'i bulalım."
+translate turkish episode007_5c55c403:
 
-# game/episode007.rpy:1062
-translate turkish ep007_conversations_bb7da63f:
 
-    # "Jade stepped out of the shadows once we neared the entrance to Cetruvar’s quarters."
-    "Jade, Cetruvar’ın mahallelerinin girişine yaklaştıktan sonra gölgelerden çıktı."
+    th "[p_name_short], o ev denize bakan bir uçurumun üzerinde duruyor."
 
-# game/episode007.rpy:1063
-translate turkish ep007_conversations_43457ebb:
 
-    # c "Any guards outside his quarters?"
-    c "Mahallelerinin dışında gardiyan var mı?"
+translate turkish episode007_2ceaaeae:
 
-# game/episode007.rpy:1064
-translate turkish ep007_conversations_b825bdd2:
 
-    # j "Yes, two."
-    j "Evet, iki."
+    c "O zaman o uçurumdan üst kata ineriz, eşyalarımızı saklar ve normal misafirlere karışırız."
 
-# game/episode007.rpy:1065
-translate turkish ep007_conversations_d7ac1729:
 
-    # c "That was to be expected..."
-    c "Beklenecekti ..."
+translate turkish episode007_0ab29b80:
 
-# game/episode007.rpy:1066
-translate turkish ep007_conversations_9c98b948:
 
-    # c "What do we do about them?"
-    c "Onlar hakkında ne yapıyoruz?"
+    th "Bu çılgınlık, peki ya tüm muhafızlar?"
 
-# game/episode007.rpy:1068
-translate turkish ep007_conversations_b4179f26:
 
-    # "Thyia was about to voice her opinion when the door slammed open and out came Cetruvar with several bodyguards."
-    "Thyia, kapı açıldığında ve dışarı çıktığında Cetruvar'ı birkaç korumaya getirdiğinde fikrini dile getirmek üzereydi."
+translate turkish episode007_26f40186:
 
-# game/episode007.rpy:1069
-translate turkish ep007_conversations_fbbae7e8:
 
-    # "The guards at the door followed their employer immediately."
-    "Kapıdaki gardiyanlar derhal işverenlerini takip etti."
+    c "Bir oyalama taktiğine ihtiyacımız var."
 
-# game/episode007.rpy:1070
-translate turkish ep007_conversations_54dffae7:
 
-    # "We slinked into the shadows, but we didn’t need to because they were too busy arguing among themselves."
-    "Gölgelere karıştık, ama gerekmiyordu çünkü kendi aralarında tartışmakla meşgullerdi."
+translate turkish episode007_cd89879d:
 
-# game/episode007.rpy:1072
-translate turkish ep007_conversations_8aa7574c:
 
-    # cet "How the fuck did this happen?!"
-    cet "Bu nasıl oldu?!"
+    c "Parti yapmak isteyen bir grup sosyeteyle dolu bir gemi habersizce inse ne olur?"
 
-# game/episode007.rpy:1073
-translate turkish ep007_conversations_7e9029e6:
 
-    # cet "She was stripped, wasn’t she?"
-    cet "Sıyırılmış, değil mi?"
+translate turkish episode007_edd7e965:
 
-# game/episode007.rpy:1076
-translate turkish ep007_conversations_c0a58289:
 
-    # woman "Yes sir, we left the prisoner wearing only her underwear."
-    woman "Evet efendim, mahkumu sadece iç çamaşırını giyerek bıraktık."
+    c "Onlar eski davetiyeleriyle büyük bir olay çıkarıp güvenliği meşgul ederken, biz de o uçurumdan inip kalabalığa karışırız."
 
-# game/episode007.rpy:1077
-translate turkish ep007_conversations_8af48d77:
 
-    # cet "Then explain to me how she could off herself in a closed cell?"
-    cet "O zaman bana kapalı bir hücrede kendini nasıl çıkarabileceğini açıklayın?"
+translate turkish episode007_e0d0ecc2:
 
-# game/episode007.rpy:1078
-translate turkish ep007_conversations_609b622b:
 
-    # woman "I-"
-    woman "İ-"
+    th "Çılgınca."
 
-# game/episode007.rpy:1079
-translate turkish ep007_conversations_c8d0f7e4:
 
-    # "The rest was inaudible as they marched quickly out of earshot."
-    "Geri kalanı hızla kulaktan yürürken duyulamadı."
+translate turkish episode007_57ec8726:
 
-# game/episode007.rpy:1081
-translate turkish ep007_conversations_0ac8d002:
 
-    # th "The prisoner killed herself?"
-    th "Mahkum kendini mi öldürdü?"
+    c "Ama yapılabilir, değil mi?"
 
-# game/episode007.rpy:1082
-translate turkish ep007_conversations_e82dc334:
 
-    # c "Apparently she did."
-    c "Görünüşe göre yaptı."
+translate turkish episode007_e2c8978b:
 
-# game/episode007.rpy:1083
-translate turkish ep007_conversations_b075d208:
 
-    # c "No time to worry about that, Ranimo’s rooms are empty."
-    c "Bunun için endişelenecek zaman yok, Ranimo’nun odaları boş."
+    th "Belki..."
 
-# game/episode007.rpy:1085
-translate turkish ep007_conversations_2fde9657:
 
-    # "Getting into Cetruvar’s personal quarters proved easy."
-    "Cetruvar’ın kişisel mahallelerine girmek kolay oldu."
+translate turkish episode007_d6b76d85:
 
-# game/episode007.rpy:1086
-translate turkish ep007_conversations_e1ebebd9:
 
-    # "Thyia had the door open in seconds and we slipped in quietly."
-    "Thyia kapıyı saniyeler içinde açtı ve sessizce içeri girdik."
+    th "Gemide gerekli ekipman var."
 
-# game/episode007.rpy:1088
-translate turkish ep007_conversations_9d5c87aa:
 
-    # "Most of the damage to the apartment had been repaired and nothing else hinted at the violence that had occurred earlier in the day."
-    "Daireye verilen hasarın çoğu onarılmıştı ve başka hiçbir şey günün erken saatlerinde meydana gelen şiddeti ima etmedi."
+translate turkish episode007_289708ec:
 
-# game/episode007.rpy:1090
-translate turkish ep007_conversations_8337f9c2:
 
-    # "I pointed Jade to the console I noticed earlier and she started to work quickly."
-    "Jade'i daha önce fark ettiğim konsola işaret ettim ve çabucak çalışmaya başladı."
+    c "İyi, küçük bir ekip için yeterli olmalı."
 
-# game/episode007.rpy:1091
-translate turkish ep007_conversations_d08272aa:
 
-    # "Thyia watched the hallway in case our host returned early."
-    "Thyia ev sahibimiz erken dönmesi durumunda koridor izledi."
+translate turkish episode007_7424b10f:
 
-# game/episode007.rpy:1093
-translate turkish ep007_conversations_1a427168:
 
-    # j "This isn’t going to be easy."
-    j "Bu kolay olmayacak."
+    c "Kit muhtemelen, artık o tekerlekli sandalyeden kurtuldu ve her kaya oluşumunu kişisel bir meydan okuma olarak görüyor."
 
-# game/episode007.rpy:1094
-translate turkish ep007_conversations_4d544b97:
 
-    # c "I didn’t think it would be."
-    c "Olacağını düşünmedim."
+translate turkish episode007_6edcd6cd:
 
-# game/episode007.rpy:1096
-translate turkish ep007_conversations_7aaf6225:
 
-    # "Jade was already lost in thought, her lips pursed into a thin line of frustration."
-    "Yeşim zaten düşüncede kayboldu, dudakları ince bir hayal kırıklığı yarattı."
+    c "Sen, Aven ve ben dört kişi eder."
 
-# game/episode007.rpy:1098
-translate turkish ep007_conversations_72a7a977:
 
-    # j "I know this type of system, but it’s been hardened."
-    j "Bu tür bir sistemi biliyorum, ama sertleşti."
+translate turkish episode007_54dc9546:
 
-# game/episode007.rpy:1099
-translate turkish ep007_conversations_d378706b:
 
-    # j "Probably some custom-made patches."
-    j "Muhtemelen bazı özel yapım yamalar."
+    c "Bu da geride kalanların mümkün olduğunca olay çıkarıp güvenliğin dikkatini çekmesine olanak sağlar."
 
-# game/episode007.rpy:1100
-translate turkish ep007_conversations_136da1f3:
 
-    # c "Can you break it?"
-    c "Kırılabilir misin?"
+translate turkish episode007_7585f21e:
 
-# game/episode007.rpy:1102
-translate turkish ep007_conversations_068ac14b:
 
-    # j "I don’t know."
-    j "Bilmiyorum."
+    th "Siktir, dürüst olmak gerekirse kayalık bir uçurumdan sarkmayı hiç istemiyorum."
 
-# game/episode007.rpy:1104
-translate turkish ep007_conversations_1d523c6f:
 
-    # th "I suggest we hurry up, there’s no telling when they’ll return."
-    th "Acele etmemizi öneririm, ne zaman döneceklerini söylememiştir."
+translate turkish episode007_10881298:
 
-# game/episode007.rpy:1106
-translate turkish ep007_conversations_96aa35ff:
 
-    # j "I’m working as hard as I can."
-    j "Elimden geldiğince çok çalışıyorum."
+    th "İniş oldukça tehlikeli, bu nedenle davetsiz misafirleri arayan herhangi bir muhafız olmasa bile zorlu olacak"
 
-# game/episode007.rpy:1107
-translate turkish ep007_conversations_7e1ae24a:
 
-    # c "Right, why don’t you find the others and take them to the Bastard, Thyia."
-    c "Doğru, neden diğerlerini bulamıyorsunuz ve onları piçe götürmüyorsun, Thyia."
+translate turkish episode007_131a378a:
 
-# game/episode007.rpy:1108
-translate turkish ep007_conversations_7606489a:
 
-    # c "Considering everything that’s happening right now, we should be ready to take off immediately."
-    c "Şu anda olan her şeyi göz önünde bulundurarak, hemen kalkmaya hazır olmalıyız."
+    c "Doğru, ama bu şansı kullanmalıyız."
 
-# game/episode007.rpy:1110
-translate turkish ep007_conversations_c7763b6f:
 
-    # th "Understood."
-    th "Anladım."
+translate turkish episode007_d292501b:
 
-# game/episode007.rpy:1112
-translate turkish ep007_conversations_5fa5ca7f:
 
-    # "Thyia disappeared in search for the others."
-    "Thyia diğerlerini aramak için kayboldu."
+    c "Eğer planları doğru okuyorsam, buraya inebilmeliyiz."
 
-# game/episode007.rpy:1113
-translate turkish ep007_conversations_4acebbe4:
 
-    # c "Is there anything I can do to help, Jade?"
-    c "Yardım etmek için yapabileceğim bir şey var mı, Jade?"
+translate turkish episode007_fd09cb1b:
 
-# game/episode007.rpy:1115
-translate turkish ep007_conversations_0c471653:
 
-    # j "Maybe search the room to see if he's left any personal stuff around?"
-    j "Belki etrafta kişisel şeyler bırakıp bırakmadığını görmek için odayı arayın?"
+    th "Evet, bu mümkün olmalı."
 
-# game/episode007.rpy:1116
-translate turkish ep007_conversations_1a033f56:
 
-    # c "On it."
-    c "Üstünde."
+translate turkish episode007_12315d10:
 
-# game/episode007.rpy:1122
-translate turkish ep007_cetruvar_search_choices_8c66395c:
 
-    # "The bed looked slept on, the covers having been pulled back."
-    "Yatak uyudu, kapaklar geri çekildi."
+    th "Bu sana malikanenin alt katlarına erişim sağlar."
 
-# game/episode007.rpy:1127
-translate turkish ep007_cetruvar_search_choices_8767ef8c:
 
-    # "It was cold outside."
-    "Dışarıda soğuktu."
+translate turkish episode007_961cf08a:
 
-# game/episode007.rpy:1132
-translate turkish ep007_cetruvar_search_choices_e58215a9:
 
-    # "A half-finished drink was left on a side table."
-    "Bir yan masaya yarı bitmiş bir içecek kaldı."
+    th "Parti muhtemelen havuzun olduğu en alt katta yapılıyor."
 
-# game/episode007.rpy:1136
-translate turkish ep007_cetruvar_search_choices_26f0f5ea:
 
-    # "The desk itself was empty, save for a few decorative knick-knacks."
-    "Masanın kendisi boştu, birkaç dekoratif knick-backs için tasarruf edin."
+translate turkish episode007_4accda74:
 
-# game/episode007.rpy:1138
-translate turkish ep007_cetruvar_search_choices_1b76c196:
 
-    # "When I looked beneath the desk, my eye caught the metallic sheen of what looked like a flat object, half-hidden under a trash can."
-    "Masanın altına baktığımda, gözüm, bir çöp kutusunun altında yarı gizlenmiş düz bir nesne gibi görünen metalik parlaklığını yakaladı."
+    th "Birinci kat da halka açık, ama onun dışında malikane özel."
 
-# game/episode007.rpy:1140
-translate turkish ep007_cetruvar_search_choices_bca265c5:
 
-    # "I pulled the thing out from under the wastebasket."
-    "Atık sepetinin altından bir şeyi çıkardım."
+translate turkish episode007_a6abf800:
 
-# game/episode007.rpy:1141
-translate turkish ep007_cetruvar_search_choices_72c55ad1:
 
-    # "It turned out to be a small tablet."
-    "Küçük bir tablet olduğu ortaya çıktı."
+    th "Sizi üst kata çıkaracak birkaç asansör var, ama muhtemelen sıkı korunuyorlar."
 
-# game/episode007.rpy:1142
-translate turkish ep007_cetruvar_search_choices_c16503bc:
 
-    # "The device might have slipped out of Cetruvar’s pocket when he was forced on the ground by his attackers earlier."
-    "Cihaz, daha önce saldırganları tarafından yere zorlandığında Cetruvar’ın cebinden çıkmış olabilir."
+translate turkish episode007_5c466ac8:
 
-# game/episode007.rpy:1144
-translate turkish ep007_cetruvar_search_choices_fbcce27d:
 
-    # c "I think I found something."
-    c "Sanırım bir şey buldum."
+    th "İçeri girdiğinizde doğaçlama yapmanız gerekecek."
 
-# game/episode007.rpy:1145
-translate turkish ep007_cetruvar_search_choices_0abbb47f:
 
-    # c "Would this be of any help, Jade?"
-    c "Bu herhangi bir yardımcı olur mu Jade?"
+translate turkish episode007_c8315362:
 
-# game/episode007.rpy:1147
-translate turkish ep007_cetruvar_search_choices_4a9283e4:
 
-    # j "Cetruvar’s tablet?"
-    j "Cetruvar’ın tableti?"
+    th "İçeri girmek zor, ama tesisten çıkmak tamamen başka bir mesele..."
 
-# game/episode007.rpy:1148
-translate turkish ep007_cetruvar_search_choices_58f3a46c:
 
-    # j "That would be perfect."
-    j "Muhteşem olurdu."
+translate turkish episode007_cae2b447:
 
-# game/episode007.rpy:1150
-translate turkish ep007_cetruvar_search_choices_12e7e33b:
 
-    # "I handed her the device and her eyes lit up."
-    "Ona cihazı verdim ve gözleri aydınlandı."
+    c "Biliyorum, ama başka seçenek yok."
 
-# game/episode007.rpy:1151
-translate turkish ep007_cetruvar_search_choices_2ccb80ca:
 
-    # j "Oh, this is more than perfect."
-    j "Oh, bu mükemmel olmaktan daha fazlası."
+translate turkish episode007_ede19bf3:
 
-# game/episode007.rpy:1152
-translate turkish ep007_cetruvar_search_choices_44ba27a2:
 
-    # j "Several exploits for this model have been published."
-    j "Bu model için birkaç istismar yayınlanmıştır."
+    c "Parti sırasında yakalanmazsak, diğer misafirler evlerine dönerken onlarla birlikte çıkabiliriz."
 
-# game/episode007.rpy:1154
-translate turkish ep007_cetruvar_search_choices_c84eb90d:
 
-    # "Jade hooked up the tablet to her own device and starting typing rapidly."
-    "Jade tableti kendi cihazına bağladı ve hızla yazmaya başladı."
+translate turkish episode007_83284676:
 
-# game/episode007.rpy:1155
-translate turkish ep007_cetruvar_search_choices_b32e2060:
 
-    # j "And...{w} In!"
-    j "Ve...{w} İçinde!"
+    th "Riskli."
 
-# game/episode007.rpy:1156
-translate turkish ep007_cetruvar_search_choices_a358090b:
 
-    # c "Just like that?"
-    c "Aynen böyle?"
+translate turkish episode007_bb78aab7:
 
-# game/episode007.rpy:1157
-translate turkish ep007_cetruvar_search_choices_d20b9dc5:
 
-    # j "Just like that."
-    j "Aynen böyle."
-
-# game/episode007.rpy:1158
-translate turkish ep007_cetruvar_search_choices_e055b786:
-
-    # j "That tablet is a bug-ridden piece of crap."
-    j "Bu tablet, böcek basmış bir bok parçasıdır."
-
-# game/episode007.rpy:1160
-translate turkish ep007_cetruvar_search_choices_bbb8e9d5:
-
-    # j "I’m amazed he carried it around, especially since his personal computer is secured like a fortress."
-    j "Özellikle kişisel bilgisayarı bir kale gibi güvence altına alındığı için onu taşıdığına şaşırdım."
-
-# game/episode007.rpy:1161
-translate turkish ep007_cetruvar_search_choices_c252d911:
-
-    # c "No time to waste, is there anything useful on that tablet?"
-    c "Boşa harcayacak zaman yok, o tablette yararlı bir şey var mı?"
-
-# game/episode007.rpy:1163
-translate turkish ep007_cetruvar_search_choices_6fcfd293:
-
-    # j "Several files, some encrypted."
-    j "Birkaç dosya, bazıları şifreli."
-
-# game/episode007.rpy:1164
-translate turkish ep007_cetruvar_search_choices_03ff0359:
-
-    # j "Wait a minute, there’s some security footage of the prisoner."
-    j "Bir dakika, mahkumun bazı güvenlik görüntüleri var."
-
-# game/episode007.rpy:1165
-translate turkish ep007_cetruvar_search_choices_74b92f41:
-
-    # c "We’ll look at that later."
-    c "Buna daha sonra bakacağız."
-
-# game/episode007.rpy:1166
-translate turkish ep007_cetruvar_search_choices_6d4ef673:
-
-    # c "Anything on Eva?"
-    c "Eva'da bir şey var mı?"
-
-# game/episode007.rpy:1167
-translate turkish ep007_cetruvar_search_choices_ddb4c913:
-
-    # j "There’s a whole list of names."
-    j "Bütün bir isim listesi var."
-
-# game/episode007.rpy:1169
-translate turkish ep007_cetruvar_search_choices_e1a5e627:
-
-    # j "Wait!"
-    j "Beklemek!"
-
-# game/episode007.rpy:1171
-translate turkish ep007_cetruvar_search_choices_c786eaf0:
-
-    # j "There’s a document mentioning the Acarhyn!"
-    j "Acarhyn'den bahseden bir belge var!"
-
-# game/episode007.rpy:1172
-translate turkish ep007_cetruvar_search_choices_6aaa3972:
-
-    # j "“Monitoring continues. No further incursions of the Acarhyn into foreign territory have occurred.”"
-    j "“İzleme devam ediyor. Acarhyn'in yabancı bölgeye daha fazla saldırısı gerçekleşmedi.”"
-
-# game/episode007.rpy:1173
-translate turkish ep007_cetruvar_search_choices_a998de7f:
-
-    # j "“Erigone is still too dangerous to navigate. Source has agreed upon further intel drop-offs per the usual procedure.”"
-    j "“Erigone hala gezinmek için çok tehlikeli. Kaynak, olağan prosedüre göre daha fazla intel düşüşü üzerinde anlaştı.”"
-
-# game/episode007.rpy:1174
-translate turkish ep007_cetruvar_search_choices_48fafe6b:
-
-    # j "“The Acarhyn seem preoccupied with the rise of what they call the Virgin Queen. Source suggests schism in the old ranks and a new religious dogma emerging.”"
-    j "“Acarhyn, Bakire Kraliçe dediklerinin yükselişiyle meşgul görünüyor. Kaynak, eski saflarda şema ve yeni bir dini dogma ortaya çıkmasını önerir.”"
-
-# game/episode007.rpy:1175
-translate turkish ep007_cetruvar_search_choices_02726e3e:
-
-    # c "Erigone?"
-    c "Erigone?"
-
-# game/episode007.rpy:1176
-translate turkish ep007_cetruvar_search_choices_6440e711:
-
-    # c "That’s a system, isn’t it?"
-    c "Bu bir sistem, değil mi?"
-
-# game/episode007.rpy:1178
-translate turkish ep007_cetruvar_search_choices_ac2ed105:
-
-    # j "I think so."
-    j "Bence de."
-
-# game/episode007.rpy:1179
-translate turkish ep007_cetruvar_search_choices_67efca96:
-
-    # c "In that case, I think we have what we need."
-    c "Bu durumda, bence ihtiyacımız olan şey var."
-
-# game/episode007.rpy:1180
-translate turkish ep007_cetruvar_search_choices_d77696cf:
-
-    # c "Let’s get out of here."
-    c "Hadi buradan gidelim."
-
-# game/episode007.rpy:1196
-translate turkish ep007_cetruvar_search_choices_393a5290:
-
-    # "The small bathroom didn’t look like it was used recently."
-    "Küçük banyo son zamanlarda kullanılmış gibi görünmüyordu."
-
-# game/episode007.rpy:1201
-translate turkish ep007_cetruvar_search_choices_548d0ba9:
-
-    # "The apartment was kept immaculately clean and the space below the sofa was no exception."
-    "Daire tertemiz temiz tutuldu ve kanepe altındaki alan bir istisna değildi."
-
-# game/episode007.rpy:1207
-translate turkish ep007_cetruvar_search_choices_eee06c9a:
-
-    # "Together, we hurried out of Cetruvar’s apartment and ran into the corridor."
-    "Birlikte Cetruvar’ın dairesinden acele ettik ve koridora koştuk."
-
-# game/episode007.rpy:1208
-translate turkish ep007_cetruvar_search_choices_67fa561a:
-
-    # "All the doors of the guest quarters were ajar, so the rest of the crew had already left for the launch platform where the Bastard was docked."
-    "Konuk mahallelerinin tüm kapıları Ajar'dı, bu yüzden mürettebatın geri kalanı piçin yerleştirildiği lansman platformuna gitmişti."
-
-# game/episode007.rpy:1210
-translate turkish ep007_cetruvar_search_choices_0c8ec93f:
-
-    # "We ran up the stairs towards the launch platform."
-    "Merdivenleri fırlatma platformuna doğru koştuk."
-
-# game/episode007.rpy:1217
-translate turkish ep007_cetruvar_search_choices_2efd8980:
-
-    # man "Stop right there!"
-    man "Orada dur!"
-
-# game/episode007.rpy:1218
-translate turkish ep007_cetruvar_search_choices_0a830946:
-
-    # c "Fuck!"
-    c "Kahretsin!"
-
-# game/episode007.rpy:1219
-translate turkish ep007_cetruvar_search_choices_b1ccba62:
-
-    # c "Keep running!"
-    c "Koşmaya devam et!"
-
-# game/episode007.rpy:1221
-translate turkish ep007_cetruvar_search_choices_fcbdac86:
-
-    # "Despite not having a clear shot, the guards fired a couple of rounds at us anyway."
-    "Net bir atış yapmamasına rağmen, gardiyanlar yine de bize birkaç tur attı."
-
-# game/episode007.rpy:1223
-translate turkish ep007_cetruvar_search_choices_d06d8701:
-
-    # "We rounded a corner and the Iron Bastard came into view."
-    "Bir köşeyi yuvarladık ve demir piç göründü."
-
-# game/episode007.rpy:1224
-translate turkish ep007_cetruvar_search_choices_f6a27d67:
-
-    # "The crew was already aboard, as became evident by the engines roaring to life when we started to cross the short distance to the entrance hatch."
-    "Mürettebat, giriş kapağına kısa mesafeyi geçmeye başladığımızda hayata kükreyen motorlar tarafından belirginleştiği için zaten gemideydi."
-
-# game/episode007.rpy:1225
-translate turkish ep007_cetruvar_search_choices_848eb22d:
-
-    # "Footsteps could be heard behind us."
-    "Ayak sesleri arkamızda duyulabilirdi."
-
-# game/episode007.rpy:1227
-translate turkish ep007_cetruvar_search_choices_6ed6fe6b:
-
-    # man "Stop!"
-    man "Durmak!"
-
-# game/episode007.rpy:1228
-translate turkish ep007_cetruvar_search_choices_47106d45:
-
-    # man "On the floor!"
-    man "Yerde!"
-
-# game/episode007.rpy:1229
-translate turkish ep007_cetruvar_search_choices_36805a99:
-
-    # "Bullets whizzed past us and one lodged inside the ship’s armored hull."
-    "Mermiler bizi geçti ve biri geminin zırhlı gövdesinin içine yerleştirildi."
-
-# game/episode007.rpy:1230
-translate turkish ep007_cetruvar_search_choices_cae37b95:
-
-    # "Thyia’s head appeared outside the ship and she aimed a gun at the guards."
-    "Thyia’nın kafası geminin dışında ortaya çıktı ve gardiyanlara bir silah hedefledi."
-
-# game/episode007.rpy:1231
-translate turkish ep007_cetruvar_search_choices_c58ad17f:
-
-    # th "Hurry up!"
-    th "Acele et!"
-
-# game/episode007.rpy:1233
-translate turkish ep007_cetruvar_search_choices_605c501e:
-
-    # "Thyia took Jade’s hand and together we jumped inside the ship."
-    "Thyia Jade’in elini aldı ve birlikte geminin içine atladık."
-
-# game/episode007.rpy:1234
-translate turkish ep007_cetruvar_search_choices_443731d4:
-
-    # "When our feet crossed the threshold, the guards unleashed another volley of bullets."
-    "Ayaklarımız eşiği geçtiğinde, gardiyanlar başka bir mermi voleyanı serbest bıraktı."
-
-# game/episode007.rpy:1236
-translate turkish ep007_cetruvar_search_choices_a0445680:
-
-    # "Jade screamed and crashed to the floor."
-    "Jade çığlık attı ve yere çarptı."
-
-# game/episode007.rpy:1238
-translate turkish ep007_cetruvar_search_choices_44e58eb9:
-
-    # "Thyia hit the button to close the hatch and the ship took off."
-    "Thyia kapağı kapatmak için düğmeye bastı ve gemi yola çıktı."
-
-# game/episode007.rpy:1239
-translate turkish ep007_cetruvar_search_choices_a9750f4a:
-
-    # "Bullets still rained on the hull for quite a while, until our ship was out of range."
-    "Mermiler, gemimiz menzile çıkana kadar bir süre gövdeye yağmur yağdı."
-
-# game/episode007.rpy:1242
-translate turkish ep007_cetruvar_search_choices_d06d8701_1:
-
-    # "We rounded a corner and the Iron Bastard came into view."
-    "Bir köşeyi yuvarladık ve demir piç göründü."
-
-# game/episode007.rpy:1243
-translate turkish ep007_cetruvar_search_choices_f6a27d67_1:
-
-    # "The crew was already aboard, as became evident by the engines roaring to life when we started to cross the short distance to the entrance hatch."
-    "Mürettebat, giriş kapağına kısa mesafeyi geçmeye başladığımızda hayata kükreyen motorlar tarafından belirginleştiği için zaten gemideydi."
-
-# game/episode007.rpy:1244
-translate turkish ep007_cetruvar_search_choices_912a8858:
-
-    # "Footsteps could be heard behind us, but they were far away."
-    "Ayak sesleri arkamızda duyulabilirdi, ama çok uzaktaydılar."
-
-# game/episode007.rpy:1246
-translate turkish ep007_cetruvar_search_choices_688fee7e:
-
-    # "When the guards finally appeared at the top of the stairs, we were already safely inside the ship."
-    "Gardiyanlar nihayet merdivenlerin tepesinde göründüğünde, zaten geminin içindeydik."
-
-# game/episode007.rpy:1247
-translate turkish ep007_cetruvar_search_choices_44e58eb9_1:
-
-    # "Thyia hit the button to close the hatch and the ship took off."
-    "Thyia kapağı kapatmak için düğmeye bastı ve gemi yola çıktı."
-
-# game/episode007.rpy:1249
-translate turkish ep007_cetruvar_search_choices_1e461f93:
-
-    # "The guards started shooting at the ship in vain, the Bastard’s armor protecting us against the futile pinpricks fired from the handguns."
-    "Gardiyanlar, piçin zırhı bizi tabancalardan ateşlenen nafile pinpricklere karşı koruyan Basıl'da gemiye ateş etmeye başladı."
-
-# game/episode007.rpy:1250
-translate turkish ep007_cetruvar_search_choices_a9750f4a_1:
-
-    # "Bullets still rained on the hull for quite a while, until our ship was out of range."
-    "Mermiler, gemimiz menzile çıkana kadar bir süre gövdeye yağmur yağdı."
-
-# game/episode007.rpy:1253
-translate turkish ep007_cetruvar_search_choices_5479f872:
-
-    # cet "You searched her?"
-    cet "Onu mı aradın?"
-
-# game/episode007.rpy:1254
-translate turkish ep007_cetruvar_search_choices_81ce2a4e:
-
-    # man "We did, sir."
-    man "Yaptık efendim."
-
-# game/episode007.rpy:1255
-translate turkish ep007_cetruvar_search_choices_91677ee9:
-
-    # man "She was stripped down to her underwear."
-    man "İç çamaşırına sıyrıldı."
-
-# game/episode007.rpy:1257
-translate turkish ep007_cetruvar_search_choices_c9a14d76:
-
-    # cet "So someone must have slipped her a knife."
-    cet "Yani birisi ona bir bıçak kaydırmış olmalı."
-
-# game/episode007.rpy:1258
-translate turkish ep007_cetruvar_search_choices_5da099d1:
-
-    # cet "Have you checked the camera feed?"
-    cet "Kamera beslemesini kontrol ettiniz mi?"
-
-# game/episode007.rpy:1259
-translate turkish ep007_cetruvar_search_choices_80b453ea:
-
-    # man "The camera seems to have glitched at a certain point during the night, sir."
-    man "Kamera gece boyunca belirli bir noktada aksaklık gibi görünüyor, efendim."
-
-# game/episode007.rpy:1260
-translate turkish ep007_cetruvar_search_choices_3ae34a7f:
-
-    # cet "Of course..."
-    cet "Elbette..."
-
-# game/episode007.rpy:1262
-translate turkish ep007_cetruvar_search_choices_1af2bed2:
-
-    # cet "Round up the remaining fucking guests, we need to have a serious conversation with-"
-    cet "Kalan lanet misafirleri tamamlayın, ciddi bir konuşma yapmalıyız-"
-
-# game/episode007.rpy:1264
-translate turkish ep007_cetruvar_search_choices_49429a38:
-
-    # cet "What the...?!"
-    cet "Ne ...?!"
-
-# game/episode007.rpy:1265
-translate turkish ep007_cetruvar_search_choices_d488dd73:
-
-    # cet "Are those gunshots?"
-    cet "Bu silah sesleri mi?"
-
-# game/episode007.rpy:1267
-translate turkish ep007_cetruvar_search_choices_48e70863:
-
-    # cet "Why do I hear gunshots?!"
-    cet "Neden silah sesleri duyuyorum?!"
-
-# game/episode007.rpy:1268
-translate turkish ep007_cetruvar_search_choices_02f4ec11:
-
-    # man "Checking in right now, sir."
-    man "Şu anda kontrol ediyorum efendim."
-
-# game/episode007.rpy:1270
-translate turkish ep007_cetruvar_search_choices_8cb6f128:
-
-    # man "..."
-    man "..."
-
-# game/episode007.rpy:1272
-translate turkish ep007_cetruvar_search_choices_954f2279:
-
-    # man "Sir.{w} A small detail seems to be in pursuit of the guests, sir."
-    man "Sayın.{w} Küçük bir ayrıntı misafirlerin peşinde görünüyor, efendim."
-
-# game/episode007.rpy:1274
-translate turkish ep007_cetruvar_search_choices_74b03d97:
-
-    # cet "Small detail?!"
-    cet "Küçük detay?!"
-
-# game/episode007.rpy:1276
-translate turkish ep007_cetruvar_search_choices_4573b761:
-
-    # cet "Where are all my fucking guards?"
-    cet "Tüm gardiyanlar nerede?"
-
-# game/episode007.rpy:1277
-translate turkish ep007_cetruvar_search_choices_7074133f:
-
-    # man "The guard post isn’t responding, sir."
-    man "Guard Post cevap vermiyor, efendim."
-
-# game/episode007.rpy:1278
-translate turkish ep007_cetruvar_search_choices_d82f57d8:
-
-    # cet "Get someone to check it out at once!"
-    cet "Birini hemen kontrol etmesini sağlayın!"
-
-# game/episode007.rpy:1280
-translate turkish ep007_cetruvar_search_choices_31cbcd4b:
-
-    # man "Yes sir."
-    man "Evet efendim."
-
-# game/episode007.rpy:1282
-translate turkish ep007_cetruvar_search_choices_8cb6f128_1:
-
-    # man "..."
-    man "..."
-
-# game/episode007.rpy:1284
-translate turkish ep007_cetruvar_search_choices_1ff9e11f:
-
-    # man "Uh, sir?"
-    man "Uh, efendim?"
-
-# game/episode007.rpy:1286
-translate turkish ep007_cetruvar_search_choices_bf64d41a:
-
-    # cet "That better not be a ship engine I’m hearing!"
-    cet "Duyduğum bir gemi motoru olmasa iyi olur!"
-
-# game/episode007.rpy:1287
-translate turkish ep007_cetruvar_search_choices_8a4917ce:
-
-    # man "I’ve just gotten word that they’ve stormed the platform."
-    man "Platformu bastırdıklarını söyledim."
-
-# game/episode007.rpy:1288
-translate turkish ep007_cetruvar_search_choices_89781989:
-
-    # man "They seem to be in possession of their ship."
-    man "Gemilerine sahip gibi görünüyorlar."
-
-# game/episode007.rpy:1290
-translate turkish ep007_cetruvar_search_choices_accb4c4f:
-
-    # cet "You don’t say..."
-    cet "Söylemiyorsun ..."
-
-# game/episode007.rpy:1291
-translate turkish ep007_cetruvar_search_choices_873f119f:
-
-    # man "What do we do, sir?"
-    man "Ne yapacağız efendim?"
-
-# game/episode007.rpy:1292
-translate turkish ep007_cetruvar_search_choices_ea864ab2:
-
-    # cet "Order the drones to take them the fuck down!"
-    cet "Drone'a onları lanetlemek için sipariş edin!"
-
-# game/episode007.rpy:1293
-translate turkish ep007_cetruvar_search_choices_ff6ed8d5:
-
-    # man "Sir, the drones are still out of commission after the attack earlier."
-    man "Efendim, daha önce saldırıdan sonra dronlar hala komisyon dışı."
-
-# game/episode007.rpy:1295
-translate turkish ep007_cetruvar_search_choices_cff5f74d:
-
-    # cet "MOTHERFUCKER!"
-    cet "Motor!"
-
-# game/episode007.rpy:1300
-translate turkish ep007_cetruvar_search_choices_19723a6c:
-
-    # c "Are we clear yet?"
-    c "Henüz açık mıyız?"
-
-# game/episode007.rpy:1305
-translate turkish ep007_cetruvar_search_choices_df91fa59:
-
-    # av "We are."
-    av "Biz."
-
-# game/episode007.rpy:1306
-translate turkish ep007_cetruvar_search_choices_c78bcb68:
-
-    # av "No one in pursuit."
-    av "Takipte kimse yok."
-
-# game/episode007.rpy:1310
-translate turkish ep007_cetruvar_search_choices_f68eaea1:
-
-    # c "Good, Céline, set course to the following coordinates, we’re going to Erigone."
-    c "İyi, céline, rotayı aşağıdaki koordinatlara ayarlayın, Erigone'a gidiyoruz."
-
-# game/episode007.rpy:1312
-translate turkish ep007_cetruvar_search_choices_c628cc92:
-
-    # ce "Uh, [p_name_short]."
-    ce "Uh, [p_name_short]."
-
-# game/episode007.rpy:1313
-translate turkish ep007_cetruvar_search_choices_0ec9a2ee:
-
-    # c "The screen is flashing red."
-    c "Ekran kırmızı yanıp sönüyor."
-
-# game/episode007.rpy:1314
-translate turkish ep007_cetruvar_search_choices_781fb4b3:
-
-    # c "That’s not good is it?"
-    c "Bu iyi değil, değil mi?"
-
-# game/episode007.rpy:1315
-translate turkish ep007_cetruvar_search_choices_3c61d1c4:
-
-    # ce "Are you sure those coordinates are correct?"
-    ce "Bu koordinatların doğru olduğundan emin misiniz?"
-
-# game/episode007.rpy:1316
-translate turkish ep007_cetruvar_search_choices_ede08962:
-
-    # c "I don’t know, we didn’t have time to stop and ask."
-    c "Bilmiyorum, durup soracak zamanımız yoktu."
-
-# game/episode007.rpy:1318
-translate turkish ep007_cetruvar_search_choices_bd2d5656:
-
-    # ce "Erigone is supposed to be a microquasar."
-    ce "Erigone'un bir mikroquasar olması gerekiyordu."
-
-# game/episode007.rpy:1319
-translate turkish ep007_cetruvar_search_choices_12eb7f2b:
-
-    # ce "Basically a giant star and a black hole all wrapped in a nebula."
-    ce "Temelde dev bir yıldız ve bir kara delik bir bulutsu içine sarılmış."
-
-# game/episode007.rpy:1320
-translate turkish ep007_cetruvar_search_choices_1ba91d4a:
-
-    # c "You know, you actually make that sound cozy."
-    c "Bilirsiniz, aslında o sesi rahat hale getiriyorsun."
-
-# game/episode007.rpy:1322
-translate turkish ep007_cetruvar_search_choices_7e2fe7de:
-
-    # ce "Perhaps, if it weren’t for the black hole sucking the life out of the gas giant and spitting all of it out as plasma into the nebula, in turn creating a massive amount of gamma rays."
-    ce "Belki de, kara deliğin gaz devinin hayatını emmesi ve hepsini bulutsu olarak plazma olarak tükürdüğü ve büyük miktarda gama ışınları yaratmasaydı."
-
-# game/episode007.rpy:1323
-translate turkish ep007_cetruvar_search_choices_f5f7c27d:
-
-    # c "Right."
-    c "Doğru."
-
-# game/episode007.rpy:1328
-translate turkish ep007_cetruvar_search_choices_b38587e4:
-
-    # av "How solid is this information from Cetruvar?"
-    av "Cetruvar'dan bu bilgi ne kadar sağlam?"
-
-# game/episode007.rpy:1329
-translate turkish ep007_cetruvar_search_choices_57371bdd:
-
-    # c "This is from his personal datapad."
-    c "Bu onun kişisel datapadından."
-
-# game/episode007.rpy:1330
-translate turkish ep007_cetruvar_search_choices_f1f8777e:
-
-    # av "Which he conveniently forgot to take with him?"
-    av "Hangisi yanında almayı unuttu?"
-
-# game/episode007.rpy:1331
-translate turkish ep007_cetruvar_search_choices_d7f98c5c:
-
-    # c "He was being threatened at the time."
-    c "O sırada tehdit ediliyordu."
-
-# game/episode007.rpy:1333
-translate turkish ep007_cetruvar_search_choices_c74ddb65:
-
-    # c "I don’t think this is a setup, do you Jade?"
-    c "Bunun bir kurulum olduğunu düşünmüyorum, değil mi?"
-
-# game/episode007.rpy:1335
-translate turkish ep007_cetruvar_search_choices_65aa5c70:
-
-    # j "The information looks to be genuine."
-    j "Bilgiler gerçek gibi görünüyor."
-
-# game/episode007.rpy:1336
-translate turkish ep007_cetruvar_search_choices_9d687ae4:
-
-    # j "There’s too much salacious information on that tablet for it to be a plant for us to find."
-    j "Bu tablette bulmamız için bir bitki olması için çok fazla müstehcen bilgi var."
-
-# game/episode007.rpy:1338
-translate turkish ep007_cetruvar_search_choices_7295d58b:
-
-    # c "I don’t think this is a setup."
-    c "Bunun bir kurulum olduğunu düşünmüyorum."
-
-# game/episode007.rpy:1339
-translate turkish ep007_cetruvar_search_choices_0f0fb1dc:
-
-    # c "There’s too much salacious information on that tablet for it to be a plant for us to find."
-    c "Bu tablette bulmamız için bir bitki olması için çok fazla müstehcen bilgi var."
-
-# game/episode007.rpy:1344
-translate turkish ep007_cetruvar_search_choices_cec13a86:
-
-    # av "Yet we’re about to fly into something that makes a nuclear explosion seem like a party popper."
-    av "Yine de nükleer bir patlamayı bir parti popper gibi görünen bir şeye uçmak üzereyiz."
-
-# game/episode007.rpy:1345
-translate turkish ep007_cetruvar_search_choices_a235ef53:
-
-    # c "If the data we have about that place is correct."
-    c "O yer hakkında sahip olduğumuz veriler doğruysa."
-
-# game/episode007.rpy:1346
-translate turkish ep007_cetruvar_search_choices_e39e5a1f:
-
-    # c "Telling everyone your system is a microquasar sure is a convenient way to deter any tourists from visiting... "
-    c "Herkese sisteminizin bir mikroquasar olduğunu söylemek, herhangi bir turistin ziyaret etmesini engellemenin uygun bir yoludur ... "
-
-# game/episode007.rpy:1347
-translate turkish ep007_cetruvar_search_choices_7bed8935:
-
-    # c "Céline, can we approach that nebula?"
-    c "Céline, bu bulutsu yaklaşabilir miyiz?"
-
-# game/episode007.rpy:1349
-translate turkish ep007_cetruvar_search_choices_200fbc46:
-
-    # ce "To a certain distance, yes, but our shielding doesn’t last forever."
-    ce "Belli bir mesafeye göre, evet, ama korumamız sonsuza dek sürmez."
-
-# game/episode007.rpy:1350
-translate turkish ep007_cetruvar_search_choices_bbe56e9a:
-
-    # c "Would we be able to do a quick scan of the system?"
-    c "Sistemin hızlı bir şekilde taranmasını yapabilir miyiz?"
-
-# game/episode007.rpy:1351
-translate turkish ep007_cetruvar_search_choices_1c95cf63:
-
-    # ce "Yes, that should be possible, if nothing interferes with the scan."
-    ce "Evet, hiçbir şey taramaya müdahale etmiyorsa, bu mümkün olmalıdır."
-
-# game/episode007.rpy:1352
-translate turkish ep007_cetruvar_search_choices_31993810:
-
-    # c "Right, take us to a safe distance then, I’d like to see that supposed hellscape for myself."
-    c "Doğru, bizi güvenli bir mesafeye götürün, o zaman kendim için sözde cehennem görmek istiyorum."
-
-# game/episode007.rpy:1354
-translate turkish ep007_cetruvar_search_choices_ab05b18c:
-
-    # ce "Understood."
-    ce "Anladım."
-
-# game/episode007.rpy:1355
-translate turkish ep007_cetruvar_search_choices_16ca3f98:
-
-    # ce "At any rate, we’ll have a long ride ahead of us."
-    ce "Her halükarda önümüzde uzun bir yolculuk yapacağız."
-
-# game/episode007.rpy:1356
-translate turkish ep007_cetruvar_search_choices_877cd240:
-
-    # c "Good, because I haven’t actually slept for a minute in Ranimo’s little bed and breakfast..."
-    c "Güzel, çünkü Ranimo’nun küçük yatak ve kahvaltısında bir dakikalığına uyumadım ..."
-
-# game/episode007.rpy:1361
-translate turkish ep007_cetruvar_search_choices_5c1cf597:
-
-    # "Céline programmed the autopilot, while the rest of the crew went to find their bunks."
-    "Céline otomatik pilotu programlarken, mürettebatın geri kalanı ranzalarını bulmaya gitti."
-
-# game/episode007.rpy:1364
-translate turkish ep007_cetruvar_search_choices_f9731095:
-
-    # "Jade had been taken to the medbay to have her foot wound treated by Thim."
-    "Jade, ayağının yaralanması için Medbay'a götürülmüştü."
-
-# game/episode007.rpy:1366
-translate turkish ep007_cetruvar_search_choices_1ad62794:
-
-    # "Jade had been taken to the medbay to have her foot wound treated by the autodoc."
-    "Jade, ayağının Autodoc tarafından tedavi edilmesi için Medbay'a götürülmüştü."
-
-# game/episode007.rpy:1367
-translate turkish ep007_cetruvar_search_choices_c2741753:
-
-    # "A status check revealed that she was already resting and that her wound would heal completely."
-    "Bir durum kontrolü zaten dinlendiğini ve yarasının tamamen iyileşeceğini ortaya koydu."
-
-# game/episode007.rpy:1382
-translate turkish ep007_na_talk_8e9360e4:
-
-    # na "Oh hey [p_name_short]."
-    na "Oh hey [p_name_short]."
-
-# game/episode007.rpy:1383
-translate turkish ep007_na_talk_3e84f929:
-
-    # c "Reading up on things?"
-    c "Bir şeyleri okuyor musunuz?"
-
-# game/episode007.rpy:1384
-translate turkish ep007_na_talk_fa32f1cf:
-
-    # na "Yes, I pulled up some information on the Yalvai, they’re such fascinating creatures."
-    na "Evet, Yalvai hakkında bazı bilgiler aldım, çok büyüleyici yaratıklar."
-
-# game/episode007.rpy:1385
-translate turkish ep007_na_talk_7a845a25:
-
-    # c "That’s one way to put it."
-    c "Bunu koymanın bir yolu."
-
-# game/episode007.rpy:1386
-translate turkish ep007_na_talk_3d0b8134:
-
-    # c "Well, I’d better let you get back to reading."
-    c "Okumaya geri dönmene izin verirsem iyi olur."
-
-# game/episode007.rpy:1389
-translate turkish ep007_na_talk_6fd0ffb0:
-
-    # na "[p_name]?"
-    na "[p_name]?"
-
-# game/episode007.rpy:1390
-translate turkish ep007_na_talk_24c7ada5:
-
-    # c "Yes?"
-    c "Evet?"
-
-# game/episode007.rpy:1391
-translate turkish ep007_na_talk_e0344445:
-
-    # na "I don’t want to intrude, but I’ve been wondering something ever since we escaped that research station."
-    na "İçeri girmek istemiyorum, ama o araştırma istasyonundan kaçtığımızdan beri bir şey merak ediyorum."
-
-# game/episode007.rpy:1394
-translate turkish ep007_na_talk_ae6e8b71:
-
-    # na "You and Aven have grown closer, haven’t you?"
-    na "Sen ve Aven yaklaştınız, değil mi?"
-
-# game/episode007.rpy:1396
-translate turkish ep007_na_talk_33324028:
-
-    # na "You and Lilly have grown closer, haven’t you?"
-    na "Sen ve Lilly yaklaştınız, değil mi?"
-
-# game/episode007.rpy:1397
-translate turkish ep007_na_talk_e2a97f5b:
-
-    # "My heart sank at that moment."
-    "O anda kalbim battı."
-
-# game/episode007.rpy:1398
-translate turkish ep007_na_talk_6528e29a:
-
-    # "Did she notice anything?"
-    "Bir şey fark etti mi?"
-
-# game/episode007.rpy:1400
-translate turkish ep007_na_talk_92860cec:
-
-    # "She couldn't know about the kiss Aven and I shared here on Almagest?"
-    "Aven ve ben burada Almagest'te paylaştıklarını KISS hakkında bilemedi mi?"
-
-# game/episode007.rpy:1402
-translate turkish ep007_na_talk_b59d407d:
-
-    # "We didn’t do anything inappropriate when we were held together in that cell, did we?"
-    "O hücrede bir araya geldiğimizde uygunsuz bir şey yapmadık, değil mi?"
-
-# game/episode007.rpy:1405
-translate turkish ep007_na_talk_c37e4ec0:
-
-    # c "Sure, we talked things over, but other than that I’m not sure I follow."
-    c "Tabii, bir şeyler konuştuk, ama bunun dışında takip ettiğimden emin değilim."
-
-# game/episode007.rpy:1407
-translate turkish ep007_na_talk_abf78642:
-
-    # na "Right, that must be it."
-    na "Doğru, bu olmalı."
-
-# game/episode007.rpy:1408
-translate turkish ep007_na_talk_14e8bda1:
-
-    # na "Glad you were able to talk."
-    na "Konuşabildiğine sevindim."
-
-# game/episode007.rpy:1409
-translate turkish ep007_na_talk_fb03ba9f:
-
-    # c "I’ll let you go back to reading."
-    c "Okumaya geri dönmene izin vereceğim."
-
-# game/episode007.rpy:1411
-translate turkish ep007_na_talk_512fd9c9:
-
-    # na "Thank you, [p_name_short]."
-    na "Teşekkür ederim, [p_name_short]."
-
-# game/episode007.rpy:1414
-translate turkish ep007_na_talk_8d740489:
-
-    # c "We have."
-    c "Sahibiz."
-
-# game/episode007.rpy:1415
-translate turkish ep007_na_talk_4141727e:
-
-    # na "I thought as much."
-    na "O kadar düşündüm."
-
-# game/episode007.rpy:1417
-translate turkish ep007_na_talk_1f4a80b6:
-
-    # na "I...{w} Just be careful."
-    na "İ...{w} Sadece dikkatli ol."
-
-# game/episode007.rpy:1418
-translate turkish ep007_na_talk_ef821644:
-
-    # na "Feelings can be confusing and you might end up hurting one another by accident."
-    na "Duygular kafa karıştırıcı olabilir ve sonunda kazara zarar verebilirsiniz."
-
-# game/episode007.rpy:1419
-translate turkish ep007_na_talk_fea73121:
-
-    # na "Make sure you’re both on the same page."
-    na "İkinizin de aynı sayfada olduğunuzdan emin olun."
-
-# game/episode007.rpy:1420
-translate turkish ep007_na_talk_f6d9a786:
-
-    # na "Don’t be afraid of following your feelings, but don’t force things either."
-    na "Duygularınızı takip etmekten korkmayın, ama bir şeyleri de zorlamayın."
-
-# game/episode007.rpy:1422
-translate turkish ep007_na_talk_0a28922b:
-
-    # na "I’m sorry, I’m not very coherent at the moment, am I?"
-    na "Üzgünüm, şu anda çok tutarlı değilim, değil mi?"
-
-# game/episode007.rpy:1423
-translate turkish ep007_na_talk_60433a42:
-
-    # "Her words sure had me confused."
-    "Onun sözleri kesinlikle kafam karıştı."
-
-# game/episode007.rpy:1425
-translate turkish ep007_na_talk_1f0c015f:
-
-    # "Was she giving her implicit consent to courting Aven?"
-    "Aven'i kurmaya örtük rızası veriyor muydu?"
-
-# game/episode007.rpy:1427
-translate turkish ep007_na_talk_73b69529:
-
-    # "Was she giving her implicit consent to courting Lilly?"
-    "Lilly'yi kurmaya örtük rızası mı veriyordu?"
-
-# game/episode007.rpy:1428
-translate turkish ep007_na_talk_4f82f0ba:
-
-    # "Why wasn’t she disgusted by the idea?"
-    "Neden bu fikirden tiksinmedi?"
-
-# game/episode007.rpy:1429
-translate turkish ep007_na_talk_d63414de:
-
-    # "Nadya had risen while I mulled things over."
-    "Ben bir şeyleri birleştirirken Nadya yükselmişti."
-
-# game/episode007.rpy:1431
-translate turkish ep007_na_talk_94715b23:
-
-    # "She took me in a warm embrace."
-    "Beni sıcak bir kucakla aldı."
-
-# game/episode007.rpy:1433
-translate turkish ep007_na_talk_e99d2f65:
-
-    # na "Aven is my special girl."
-    na "Aven benim özel kızım."
-
-# game/episode007.rpy:1435
-translate turkish ep007_na_talk_9b6ba11f:
-
-    # na "Lilly is my special girl."
-    na "Lilly benim özel kızım."
-
-# game/episode007.rpy:1438
-translate turkish ep007_na_talk_5858f5d4:
-
-    # "Nadya suddenly peered at me with penetrating eyes."
-    "Nadya aniden bana nüfuz eden gözlerle baktı."
-
-# game/episode007.rpy:1439
-translate turkish ep007_na_talk_7cbf205a:
-
-    # na "You know you sometimes look an awful lot like your father?"
-    na "Bazen babana gibi çok fazla göründüğünü biliyor musun?"
-
-# game/episode007.rpy:1440
-translate turkish ep007_na_talk_1c3b17a1:
-
-    # c "I reckon that’s a bad thing?"
-    c "Sanırım bu kötü bir şey mi?"
-
-# game/episode007.rpy:1442
-translate turkish ep007_na_talk_6a6905bc:
-
-    # na "It brings back memories, yes."
-    na "Anıları geri getiriyor, evet."
-
-# game/episode007.rpy:1443
-translate turkish ep007_na_talk_414a482e:
-
-    # na "Though the memories I have of him when we were young aren’t tainted by what came after."
-    na "Her ne kadar gençken onun anılarım, sonra gelenlerle lekelenmiyor."
-
-# game/episode007.rpy:1446
-translate turkish ep007_na_talk_d5fd095f:
-
-    # na "And know that I’ve never resented you or your sisters in any way."
-    na "Ve sana veya kız kardeşlerinize hiçbir şekilde hiç kızmadığımı bilin."
-
-# game/episode007.rpy:1448
-translate turkish ep007_na_talk_fe31ea61:
-
-    # na "And know that I’ve never resented you or Lilly and Eva in any way."
-    na "Ve sana ya da Lilly ve Eva'ya hiç kızmadığımı bilin."
-
-# game/episode007.rpy:1449
-translate turkish ep007_na_talk_d84dcf02:
-
-    # "Nadya had risen while I mulled over this sudden and weird exchange."
-    "Nadya bu ani ve tuhaf değişim üzerinde mulling yaparken yükselmişti."
-
-# game/episode007.rpy:1451
-translate turkish ep007_na_talk_94715b23_1:
-
-    # "She took me in a warm embrace."
-    "Beni sıcak bir kucakla aldı."
-
-# game/episode007.rpy:1456
-translate turkish ep007_na_talk_bbb9e4c6:
-
-    # "Relishing her smell and the warmth of her body, I wrapped my arms around her."
-    "Kokusunu ve vücudunun sıcaklığını alarak kollarımı onun etrafına sardım."
-
-# game/episode007.rpy:1458
-translate turkish ep007_na_talk_75467193:
-
-    # "I didn’t exactly return her embrace, turning the heartfelt moment into something a little awkward."
-    "Kabulunu tam olarak geri döndürmedim, yürekten anı biraz garip bir şeye dönüştürdüm."
-
-# game/episode007.rpy:1460
-translate turkish ep007_na_talk_9d7f4bfa:
-
-    # na "Glad we were able to talk."
-    na "Konuşabildiğimize sevindim."
-
-# game/episode007.rpy:1461
-translate turkish ep007_na_talk_fb03ba9f_1:
-
-    # c "I’ll let you go back to reading."
-    c "Okumaya geri dönmene izin vereceğim."
-
-# game/episode007.rpy:1462
-translate turkish ep007_na_talk_512fd9c9_1:
-
-    # na "Thank you, [p_name_short]."
-    na "Teşekkür ederim, [p_name_short]."
-
-# game/episode007.rpy:1466
-translate turkish ep007_na_talk_c208cf1e:
-
-    # na "You’re my remarkable boy, remember that."
-    na "Sen benim olağanüstü oğlumsun, bunu hatırla."
-
-# game/episode007.rpy:1468
-translate turkish ep007_na_talk_c7728461:
-
-    # "She took my head in her hands and kissed me on the lips."
-    "Başımı eline aldı ve beni dudaklarından öptü."
-
-# game/episode007.rpy:1469
-translate turkish ep007_na_talk_fbb9e49a:
-
-    # "That gesture startled me and I couldn’t help but return the kiss."
-    "Bu jest beni şaşırttı ve öpücüğü geri döndüremedim."
-
-# game/episode007.rpy:1471
-translate turkish ep007_na_talk_76e55bf8:
-
-    # "Her lips lingered far too long on mine."
-    "Dudakları benim üzerinde çok uzun süre kaldı."
-
-# game/episode007.rpy:1472
-translate turkish ep007_na_talk_ad095099:
-
-    # "Nadya had her eyes closed all the time, as if in a state of trance."
-    "Nadya, sanki bir trans halindeymiş gibi gözlerini her zaman kapadı."
-
-# game/episode007.rpy:1474
-translate turkish ep007_na_talk_c34ce269:
-
-    # "When she finally disentangled, her eyes fluttered open and I saw embarrassment in her eyes."
-    "Sonunda ayrıldığında, gözleri çırpındı ve gözlerinde utanç gördüm."
-
-# game/episode007.rpy:1475
-translate turkish ep007_na_talk_2df73829:
-
-    # na "Forgive me, I...{w} I...{w} I need to get back to my reading."
-    na "Affet beni, ben ...{w} İ...{w} Okumama geri dönmem gerekiyor."
-
-# game/episode007.rpy:1476
-translate turkish ep007_na_talk_bd11f3f6:
-
-    # c "Yes, yes of course."
-    c "Evet evet elbette."
-
-# game/episode007.rpy:1478
-translate turkish ep007_na_talk_6f982faf:
-
-    # "I stepped out of her quarters, feeling even more confused than earlier."
-    "Çeyreğinden çıktım, öncekinden daha da karışık hissediyorum."
-
-# game/episode007.rpy:1484
-translate turkish ep007_av_talk_c9fb0e2d:
-
-    # av "Oh, I was about to hop into the shower."
-    av "Oh, duşa atlamak üzereydim."
-
-# game/episode007.rpy:1485
-translate turkish ep007_av_talk_8b040dc1:
-
-    # c "No problem, just checking in."
-    c "Sorun değil, sadece check -in."
-
-# game/episode007.rpy:1486
-translate turkish ep007_av_talk_fb1755bb:
-
-    # c "Good night."
-    c "İyi geceler."
-
-# game/episode007.rpy:1487
-translate turkish ep007_av_talk_1790d364:
-
-    # av "Good night to you too."
-    av "Sana da iyi geceler."
-
-# game/episode007.rpy:1489
-translate turkish ep007_av_talk_62f46459:
-
-    # av "Did you come by earlier, when I was just in the shower?"
-    av "Sadece duştayken daha önce geldin mi?"
-
-# game/episode007.rpy:1490
-translate turkish ep007_av_talk_11111377:
-
-    # c "No, I didn’t."
-    c "Hayır, yapmadım."
-
-# game/episode007.rpy:1492
-translate turkish ep007_av_talk_bf200bb5:
-
-    # av "The water was lovely."
-    av "Su güzeldi."
-
-# game/episode007.rpy:1493
-translate turkish ep007_av_talk_9e97fbc8:
-
-    # av "Cetruvar might be an obnoxious prick, but he knows how to indulge in the right luxuries."
-    av "Cetruvar iğrenç bir pislik olabilir, ancak doğru lükslere nasıl şımartılacağını biliyor."
-
-# game/episode007.rpy:1494
-translate turkish ep007_av_talk_f9501d02:
-
-    # c "Careful what you say here, he might be listening in."
-    c "Burada ne dediğine dikkat et, dinliyor olabilir."
-
-# game/episode007.rpy:1496
-translate turkish ep007_av_talk_1120118b:
-
-    # av "Well, fuck him."
-    av "Pekala, onu sikeyim."
-
-# game/episode007.rpy:1497
-translate turkish ep007_av_talk_f5f7c27d:
-
-    # c "Right."
-    c "Doğru."
-
-# game/episode007.rpy:1498
-translate turkish ep007_av_talk_ecab27d4:
-
-    # av "Why don’t we go for a walk then?"
-    av "O zaman neden yürüyüşe çıkmıyoruz?"
-
-# game/episode007.rpy:1499
-translate turkish ep007_av_talk_cac66d33:
-
-    # av "Cetruvar has this crazy indoor garden somewhere near the entrance of his private quarters."
-    av "Cetruvar, özel mahallelerinin girişine yakın bir yerde bu çılgın kapalı bahçeye sahiptir."
-
-# game/episode007.rpy:1500
-translate turkish ep007_av_talk_dd8c4fab:
-
-    # c "I’d like to see that."
-    c "Bunu görmek istiyorum."
-
-# game/episode007.rpy:1501
-translate turkish ep007_av_talk_74d578a6:
-
-    # c "Are you going dressed like that?"
-    c "Böyle giyinmiş misin?"
-
-# game/episode007.rpy:1502
-translate turkish ep007_av_talk_c4e82a8a:
-
-    # c "Not that I mind..."
-    c "Dikkat ettiğim için değil ..."
-
-# game/episode007.rpy:1504
-translate turkish ep007_av_talk_3954146d:
-
-    # av "Oh...{w} Right, there’s a bathrobe around here somewhere."
-    av "Ey...{w} Doğru, burada bir yerde bir bornoz var."
-
-# game/episode007.rpy:1505
-translate turkish ep007_av_talk_e6600899:
-
-    # "Aven put on a silk robe that made her look quite distinguished, despite her wearing nothing but her underwear beneath it."
-    "Aven, altındaki iç çamaşırından başka bir şey giymesine rağmen, onu oldukça ayırt ettiren ipek bir bornoz giydi."
-
-# game/episode007.rpy:1506
-translate turkish ep007_av_talk_c672ca83:
-
-    # "The place wasn’t far from our quarters and the smell of flowers and soil greeted us even before we entered the garden."
-    "Yer bizim mahallelerden uzak değildi ve çiçek ve toprak kokusu biz bahçeye girmeden önce bile bizi karşıladı."
-
-# game/episode007.rpy:1508
-translate turkish ep007_av_talk_b98415da:
-
-    # av "Look at that, a lot of those are extremely rare."
-    av "Bakın, bunların çoğu son derece nadirdir."
-
-# game/episode007.rpy:1509
-translate turkish ep007_av_talk_80cd480b:
-
-    # c "I’ll take your word for it, I skipped all botany classes at the academy."
-    c "Sözünü alacağım, tüm botanik derslerini Akademi'de atladım."
-
-# game/episode007.rpy:1510
-translate turkish ep007_av_talk_b000ad2c:
-
-    # av "From what I’ve heard, you skipped most classes at the academy."
-    av "Duyduğum kadarıyla Akademi'de çoğu dersi atladınız."
-
-# game/episode007.rpy:1511
-translate turkish ep007_av_talk_4798a489:
-
-    # c "Lies!"
-    c "Yalanlar!"
-
-# game/episode007.rpy:1513
-translate turkish ep007_av_talk_c3c5dadd:
-
-    # "We sat down on a bench in the middle of the garden."
-    "Bahçenin ortasındaki bir bankta oturduk."
-
-# game/episode007.rpy:1514
-translate turkish ep007_av_talk_6e45f873:
-
-    # av "So, I guess we need to address something."
-    av "Yani, sanırım bir şeye değinmemiz gerekiyor."
-
-# game/episode007.rpy:1515
-translate turkish ep007_av_talk_dfada02e:
-
-    # av "Our stay in that ConVitæ cell was a little confusing."
-    av "Bu Convitæ hücresinde bizim kalmak biraz kafa karıştırıcıydı."
-
-# game/episode007.rpy:1516
-translate turkish ep007_av_talk_61ed7c35:
-
-    # c "You can say that again."
-    c "Onu tekrar söyleyebilirsin."
-
-# game/episode007.rpy:1518
-translate turkish ep007_av_talk_ff91fc7a:
-
-    # av "We confessed some pretty intimate things to each other."
-    av "Birbirimize oldukça samimi şeyler itiraf ettik."
-
-# game/episode007.rpy:1519
-translate turkish ep007_av_talk_8ac8c7a0:
-
-    # av "Things that weren’t that controversial until we regained our memories..."
-    av "Anılarımızı geri kazanana kadar tartışmalı olmayan şeyler ..."
-
-# game/episode007.rpy:1520
-translate turkish ep007_av_talk_66b5f8f6:
-
-    # av "I think the question now is, where do we stand?"
-    av "Sanırım şimdi soru, nerede duruyoruz?"
-
-# game/episode007.rpy:1523
-translate turkish ep007_av_talk_5997c9ca:
-
-    # c "Nothing has changed."
-    c "Hiçbir şey değişmedi."
-
-# game/episode007.rpy:1524
-translate turkish ep007_av_talk_ff48b5e9:
-
-    # c "Regaining my memories has actually put everything into perspective, to be honest."
-    c "Anılarımı yeniden kazanmak, dürüst olmak gerekirse her şeyi perspektife koydu."
-
-# game/episode007.rpy:1526
-translate turkish ep007_av_talk_f4260636:
-
-    # c "The bond we shared as children, the way we just hit off after picking up you and Aunt Nadya on Ryūjin Prime..."
-    c "Çocukken paylaştığımız bağ, sizi ve Nadya'yı Ryūjin Prime'da aldıktan sonra vurma şeklimiz ..."
-
-# game/episode007.rpy:1528
-translate turkish ep007_av_talk_ff9fc71e:
-
-    # c "The bond we shared as children, the way we just hit off after picking up you and Nadya on Ryūjin Prime..."
-    c "Çocukken paylaştığımız bağ, sizi ve Nadya'yı Ryūjin Prime'da aldıktan sonra vurma şeklimiz ..."
-
-# game/episode007.rpy:1529
-translate turkish ep007_av_talk_7dde42a7:
-
-    # c "I looked up to you as a child, admired you."
-    c "Sana çocukken baktım, hayran kaldım."
-
-# game/episode007.rpy:1530
-translate turkish ep007_av_talk_72717d58:
-
-    # c "I still admire you now."
-    c "Hala sana hayranım."
-
-# game/episode007.rpy:1532
-translate turkish ep007_av_talk_fa97bbe6:
-
-    # c "Not as the young girl who dared to do anything, but I admire the woman you’ve grown into."
-    c "Hiçbir şey yapmaya cesaret eden genç kız olarak değil, ama büyüdüğün kadına hayranım."
-
-# game/episode007.rpy:1534
-translate turkish ep007_av_talk_bd6f0495:
-
-    # c "You’re beautiful, funny and I think my love for you goes beyond normal kinship."
-    c "Çok güzel, komiksin ve bence sana olan aşkım normal akrabalığın ötesine geçiyor."
-
-# game/episode007.rpy:1536
-translate turkish ep007_av_talk_f98b8e97:
-
-    # c "You’re beautiful, funny and I think my love for you goes beyond normal friendship."
-    c "Çok güzel, komiksin ve bence sana olan aşkım normal dostluğun ötesine geçiyor."
-
-# game/episode007.rpy:1538
-translate turkish ep007_av_talk_06abcc16:
-
-    # c "Oh shit...{w} I’ve made you cry."
-    c "Kahretsin...{w} Seni ağlattım."
-
-# game/episode007.rpy:1540
-translate turkish ep007_av_talk_6d87848f:
-
-    # av "Fuck.{w} You can be so intense, you know that?"
-    av "Kahretsin.{w} Çok yoğun olabilirsin, bunu biliyor musun?"
-
-# game/episode007.rpy:1543
-translate turkish ep007_av_talk_c50f69f1:
-
-    # av "Just like you tried to push our conversation back on the Bastard immediately after what happened."
-    av "Tıpkı olanlardan hemen sonra konuşmamızı piçe geri itmeye çalıştığınız gibi."
-
-# game/episode007.rpy:1547
-translate turkish ep007_av_talk_5edb2813:
-
-    # c "I’m sorry about that, I should have given you some space."
-    c "Bunun için üzgünüm, sana biraz yer vermeliydim."
-
-# game/episode007.rpy:1549
-translate turkish ep007_av_talk_4c7a8829:
-
-    # av "Thank you, that means a lot."
-    av "Teşekkür ederim, bu çok şey ifade ediyor."
-
-# game/episode007.rpy:1551
-translate turkish ep007_av_talk_532cc7b2:
-
-    # c "I would have said the same things as I did just now."
-    c "Şu anda yaptığımla aynı şeyleri söylerdim."
-
-# game/episode007.rpy:1552
-translate turkish ep007_av_talk_9ee33f57:
-
-    # av "I am willing to believe that."
-    av "Buna inanmaya hazırım."
-
-# game/episode007.rpy:1553
-translate turkish ep007_av_talk_e0a06d52:
-
-    # av "But it’s not only about you is it, I needed time to process everything."
-    av "Ama bu sadece seninle ilgili değil, her şeyi işlemek için zamana ihtiyacım vardı."
-
-# game/episode007.rpy:1554
-translate turkish ep007_av_talk_99e5e7ac:
-
-    # av "I’m afraid you just want to rush into this."
-    av "Korkarım sadece buna acele etmek istiyorsun."
-
-# game/episode007.rpy:1556
-translate turkish ep007_av_talk_cff11a28:
-
-    # av "This was a mistake, I’m sorry."
-    av "Bu bir hataydı, üzgünüm."
-
-# game/episode007.rpy:1558
-translate turkish ep007_av_talk_c24359e4:
-
-    # "Aven abruptly stood up and walked out of the garden."
-    "Aven aniden ayağa kalktı ve bahçeden çıktı."
-
-# game/episode007.rpy:1559
-translate turkish ep007_av_talk_b4a91900:
-
-    # c "Aven?"
-    c "Aven?"
-
-# game/episode007.rpy:1560
-translate turkish ep007_av_talk_f5929276:
-
-    # c "Aven!"
-    c "AVEN!"
-
-# game/episode007.rpy:1561
-translate turkish ep007_av_talk_b437b351:
-
-    # c "Fuck."
-    c "Kahretsin."
-
-# game/episode007.rpy:1565
-translate turkish ep007_av_talk_f73abbc6:
-
-    # av "When all the memories came flooding back in I also realized what an asshole you can be."
-    av "Tüm anılar geri döndüğünde, ne bir pislik olabileceğini de fark ettim."
-
-# game/episode007.rpy:1566
-translate turkish ep007_av_talk_e0b4b14d:
-
-    # c "Say what?!"
-    c "Ne dedin?!"
-
-# game/episode007.rpy:1568
-translate turkish ep007_av_talk_b85e4df9:
-
-    # av "Come on, you know what I mean."
-    av "Hadi, ne demek istediğimi biliyorsun."
-
-# game/episode007.rpy:1571
-translate turkish ep007_av_talk_ed3387fb:
-
-    # av "Trash-talking your sister, being stuck-up about some cleavage, not to mention refusing Ziv and Raene passage on that shuttle."
-    av "Kız kardeşinizle konuşmak, biraz bölünme hakkında sıkışmış olmak, Ziv ve Raene'nin bu mekiğin pasajını reddetmesinden bahsetmiyorum bile."
-
-# game/episode007.rpy:1573
-translate turkish ep007_av_talk_18e9f261:
-
-    # av "Trash-talking your friend, being stuck-up about some cleavage, not to mention refusing Ziv and Raene passage on that shuttle."
-    av "Arkadaşınızla konuşmak, biraz bölünme hakkında sıkışmış olmak, Ziv ve Raene pasajını reddetmekten bahsetmiyorum bile."
-
-# game/episode007.rpy:1576
-translate turkish ep007_av_talk_a63dbd5d:
-
-    # av "Trash-talking your sister, being stuck-up about some cleavage..."
-    av "Kız kardeşinizle uğraşmak, biraz bölünme hakkında sıkışmış ..."
-
-# game/episode007.rpy:1578
-translate turkish ep007_av_talk_661ce278:
-
-    # av "Trash-talking your friend, being stuck-up about some cleavage..."
-    av "Arkadaşınızla uğraşmak, biraz bölünme hakkında sıkışmış olmak ..."
-
-# game/episode007.rpy:1580
-translate turkish ep007_av_talk_3daca6d8:
-
-    # av "So I’m sorry, the whole thing seemed suddenly less rosy colored."
-    av "Bu yüzden üzgünüm, her şey aniden daha az pembe renkli görünüyordu."
-
-# game/episode007.rpy:1585
-translate turkish ep007_av_talk_bc9bf6b6:
-
-    # c "I can’t take back what I said."
-    c "Söylediklerimi geri alamıyorum."
-
-# game/episode007.rpy:1586
-translate turkish ep007_av_talk_a402d9c8:
-
-    # c "And you really startled me in the hallway."
-    c "Ve beni gerçekten koridorda korkuttun."
-
-# game/episode007.rpy:1587
-translate turkish ep007_av_talk_793d5668:
-
-    # c "I’m trying to be as good a captain of this ship as I can be, but I fully admit I’ve made mistakes."
-    c "Bu geminin olabildiğince iyi bir kaptanı olmaya çalışıyorum, ancak hatalar yaptığımı tamamen itiraf ediyorum."
-
-# game/episode007.rpy:1588
-translate turkish ep007_av_talk_ab758384:
-
-    # c "I can’t promise I won’t ever make them again, but I’ll try and be the best I can."
-    c "Onları bir daha asla yapmayacağım söz veremem, ama elimden gelenin en iyisini yapmaya çalışacağım."
-
-# game/episode007.rpy:1589
-translate turkish ep007_av_talk_4f9e76fa:
-
-    # c "For the crew, but most of all, for you."
-    c "Mürettebat için, ama en önemlisi sizin için."
-
-# game/episode007.rpy:1591
-translate turkish ep007_av_talk_4c7a8829_1:
-
-    # av "Thank you, that means a lot."
-    av "Teşekkür ederim, bu çok şey ifade ediyor."
-
-# game/episode007.rpy:1593
-translate turkish ep007_av_talk_9d00543c:
-
-    # c "Well, I can’t change who I am."
-    c "Kim olduğumu değiştiremem."
-
-# game/episode007.rpy:1594
-translate turkish ep007_av_talk_deb10863:
-
-    # c "You know who I am by now, so take it or leave it."
-    c "Şimdiye kadar kim olduğumu biliyorsun, bu yüzden al ya da bırak."
-
-# game/episode007.rpy:1595
-translate turkish ep007_av_talk_332fa1fc:
-
-    # av "I was afraid you’d say something like that."
-    av "Böyle bir şey söyleyeceğinden korkuyordum."
-
-# game/episode007.rpy:1597
-translate turkish ep007_av_talk_cff11a28_1:
-
-    # av "This was a mistake, I’m sorry."
-    av "Bu bir hataydı, üzgünüm."
-
-# game/episode007.rpy:1599
-translate turkish ep007_av_talk_c24359e4_1:
-
-    # "Aven abruptly stood up and walked out of the garden."
-    "Aven aniden ayağa kalktı ve bahçeden çıktı."
-
-# game/episode007.rpy:1603
-translate turkish ep007_av_talk_a2570449:
-
-    # av "I’ve spent most of the time since we escaped the research station thinking about us."
-    av "Araştırma istasyonundan kaçtığımızdan beri çoğu zaman geçirdim."
-
-# game/episode007.rpy:1604
-translate turkish ep007_av_talk_18b62967:
-
-    # av "Thinking of reasons why we shouldn’t act on the feelings we’ve shared."
-    av "Paylaştığımız duygular üzerinde hareket etmememiz gerektiğini düşünmek."
-
-# game/episode007.rpy:1606
-translate turkish ep007_av_talk_68914d89:
-
-    # av "And I come up empty, because I feel the same way about you, despite knowing we’re related."
-    av "Ve boş geliyorum, çünkü ilgili olduğumuzu bilmemize rağmen senin için de aynı şekilde hissediyorum."
-
-# game/episode007.rpy:1608
-translate turkish ep007_av_talk_50b592b4:
-
-    # av "And I come up empty, because I feel the same way about you."
-    av "Ve boş geliyorum, çünkü senin hakkında aynı şekilde hissediyorum."
-
-# game/episode007.rpy:1609
-translate turkish ep007_av_talk_93841f77:
-
-    # av "I don’t care, I just want to be with you."
-    av "Umurumda değil, sadece seninle olmak istiyorum."
-
-# game/episode007.rpy:1611
-translate turkish ep007_av_talk_5afd2893:
-
-    # "We inched closer to each other, our lips met and then we were kissing."
-    "Birbirimize yaklaştık, dudaklarımız buluştu ve sonra öpüşüyorduk."
-
-# game/episode007.rpy:1612
-translate turkish ep007_av_talk_a96cfa13:
-
-    # "Aven smiled at me after we reluctantly parted from each other."
-    "Aven, isteksizce birbirimizden ayrıldıktan sonra bana gülümsedi."
-
-# game/episode007.rpy:1614
-translate turkish ep007_av_talk_55586e95:
-
-    # c "We’re going to be together, no matter what."
-    c "Ne olursa olsun birlikte olacağız."
-
-# game/episode007.rpy:1615
-translate turkish ep007_av_talk_f8fed461:
-
-    # av "We’ll make it work, won’t we?"
-    av "İşe yarayacağız, değil mi?"
-
-# game/episode007.rpy:1616
-translate turkish ep007_av_talk_7ed290f7:
-
-    # c "We will."
-    c "Yapacağız."
-
-# game/episode007.rpy:1617
-translate turkish ep007_av_talk_fc40639a:
-
-    # av "I really wish I could invite you to my room tonight, but that might not be a good idea with the possibility of Cetruvar spying on us."
-    av "Keşke seni bu gece odama davet edebilseydim, ama bu Cetruvar'ın bize casusluk olasılığı ile iyi bir fikir olmayabilir."
-
-# game/episode007.rpy:1618
-translate turkish ep007_av_talk_80710974:
-
-    # c "I hate that obnoxious prick even more now."
-    c "Şimdi o iğrenç hcy'den nefret ediyorum."
-
-# game/episode007.rpy:1619
-translate turkish ep007_av_talk_9a38bb3f:
-
-    # av "I know."
-    av "Biliyorum."
-
-# game/episode007.rpy:1620
-translate turkish ep007_av_talk_8f266868:
-
-    # av "Promise me we’ll get together back on the Bastard after we’ve left this dreadful place."
-    av "Bu korkunç yerden ayrıldıktan sonra piç üzerinde bir araya geleceğimize söz ver."
-
-# game/episode007.rpy:1621
-translate turkish ep007_av_talk_a44ccf78:
-
-    # c "I promise."
-    c "Söz veriyorum."
-
-# game/episode007.rpy:1622
-translate turkish ep007_av_talk_946ad523:
-
-    # av "Good, now give me another kiss."
-    av "Güzel, şimdi bana başka bir öpücük ver."
-
-# game/episode007.rpy:1624
-translate turkish ep007_av_talk_f3a645f1:
-
-    # "I held her close and we got caught up in another long kiss."
-    "Onu yakın tuttum ve başka bir uzun öpücükle yakalandık."
-
-# game/episode007.rpy:1625
-translate turkish ep007_av_talk_43496698:
-
-    # "Her tongue darted out and found mine."
-    "Dili dışarı çıktı ve benimkini buldu."
-
-# game/episode007.rpy:1626
-translate turkish ep007_av_talk_083ae6c1:
-
-    # "I didn’t want that moment to end, but when it finally did we were both flushed and out of breath."
-    "O anın bitmesini istemiyordum, ama nihayetinde hem kızarık hem de nefes nefese kaldık."
-
-# game/episode007.rpy:1628
-translate turkish ep007_av_talk_ec1d3469:
-
-    # "For a short while we remained seated on that bench, holding hands."
-    "Kısa bir süre için el ele tutuşarak o bankta oturduk."
-
-# game/episode007.rpy:1630
-translate turkish ep007_av_talk_16659807:
-
-    # "Eventually we awoke from our lovestruck trance and returned to our quarters."
-    "Sonunda Lovestruck Trance'ımızdan uyandık ve mahallelerimize geri döndük."
-
-# game/episode007.rpy:1632
-translate turkish ep007_av_talk_508fff9b:
-
-    # c "It’s as you said, regaining our memories changed everything."
-    c "Söylediğiniz gibi, anılarımızı yeniden kazanmak her şeyi değiştirdi."
-
-# game/episode007.rpy:1634
-translate turkish ep007_av_talk_54476b55:
-
-    # c "We were confused and let that define our feelings for each other."
-    c "Kafamız karıştı ve bunun birbirimize olan duygularımızı tanımlamasına izin verdik."
-
-# game/episode007.rpy:1636
-translate turkish ep007_av_talk_6c0852ec:
-
-    # c "I’m happy to have such a strong bond with my cousin, but that’s as far as it goes for me."
-    c "Kuzenimle çok güçlü bir bağa sahip olduğum için mutluyum, ama bu benim için gittiği kadar."
-
-# game/episode007.rpy:1638
-translate turkish ep007_av_talk_e3daed98:
-
-    # c "I’m happy to have such a strong bond with you, but that’s as far as it goes for me."
-    c "Seninle çok güçlü bir bağa sahip olduğum için mutluyum, ama bu benim için gittiği kadar."
-
-# game/episode007.rpy:1640
-translate turkish ep007_av_talk_81ecb9ce:
-
-    # av "I..."
-    av "İ..."
-
-# game/episode007.rpy:1641
-translate turkish ep007_av_talk_6a521d14:
-
-    # c "Oh...{w} Shit.{w} You feel differently?"
-    c "Ey...{w} Bok.{w} Farklı hissediyor musun?"
-
-# game/episode007.rpy:1643
-translate turkish ep007_av_talk_9aacbb44:
-
-    # av "I...{w} I don’t know what I feel."
-    av "İ...{w} Ne hissettiğimi bilmiyorum."
-
-# game/episode007.rpy:1644
-translate turkish ep007_av_talk_708f54f5:
-
-    # av "Thank you for being honest with me."
-    av "Bana karşı dürüst olduğun için teşekkürler."
-
-# game/episode007.rpy:1645
-translate turkish ep007_av_talk_6e2b258d:
-
-    # av "I’d like to go back to my room now."
-    av "Şimdi odama geri dönmek istiyorum."
-
-# game/episode007.rpy:1647
-translate turkish ep007_av_talk_b79de9ca:
-
-    # "Abruptly, Aven rose and walked out of the garden."
-    "Aniden Aven yükseldi ve bahçeden çıktı."
-
-# game/episode007.rpy:1653
-translate turkish ep007_l_talk_b92990b2:
-
-    # c "Hey sis, mind if I come in?"
-    c "Hey abla, eğer içeri girersem sakın?"
-
-# game/episode007.rpy:1655
-translate turkish ep007_l_talk_0df50a79:
-
-    # c "Hey Lilly, mind if I come in?"
-    c "Hey Lilly, içeri girersem sakın?"
-
-# game/episode007.rpy:1656
-translate turkish ep007_l_talk_7df34f95:
-
-    # c "Lilly?"
-    c "Lilly?"
-
-# game/episode007.rpy:1657
-translate turkish ep007_l_talk_232c1908:
-
-    # "At first I thought the room was empty, but that’s when I noticed her huddled next to the bed."
-    "İlk başta odanın boş olduğunu düşündüm, ama o zaman onu yatağın yanında toplandığını fark ettim."
-
-# game/episode007.rpy:1659
-translate turkish ep007_l_talk_1b4bc736:
-
-    # c "Lilly?{w} Are you okay?"
-    c "Lilly?{w} İyi misin?"
-
-# game/episode007.rpy:1661
-translate turkish ep007_l_talk_6a226b65:
-
-    # "She looked up at me with a tear-streaked face and I hurried over to her."
-    "Bana gözyaşı çizgili bir yüzle baktı ve ben ona acele ettim."
-
-# game/episode007.rpy:1663
-translate turkish ep007_l_talk_9b75067b:
-
-    # "Lilly allowed herself to be drawn up and I took her in my arms."
-    "Lilly kendisinin çizilmesine izin verdi ve onu kollarıma aldım."
-
-# game/episode007.rpy:1664
-translate turkish ep007_l_talk_97bad437:
-
-    # c "What’s wrong?"
-    c "Sorun nedir?"
-
-# game/episode007.rpy:1665
-translate turkish ep007_l_talk_986be115:
-
-    # "She just cried."
-    "Sadece ağladı."
-
-# game/episode007.rpy:1666
-translate turkish ep007_l_talk_1b19602e:
-
-    # "I held her for as long as it took to get herself together."
-    "Kendini bir araya getirmek için onu tuttum."
-
-# game/episode007.rpy:1668
-translate turkish ep007_l_talk_80a85163:
-
-    # l "Everything is wrong, [p_name_short]."
-    l "Her şey yanlış, [p_name_short]."
-
-# game/episode007.rpy:1669
-translate turkish ep007_l_talk_e52d1df3:
-
-    # l "From the moment Cetruvar stood before the entrance hatch of the Bastard I’ve been scared out of my mind."
-    l "Cetruvar, piçin giriş kapağından önce durduğu andan itibaren aklımdan korktum."
-
-# game/episode007.rpy:1670
-translate turkish ep007_l_talk_d7589cc3:
-
-    # l "And then he chose me."
-    l "Ve sonra beni seçti."
-
-# game/episode007.rpy:1671
-translate turkish ep007_l_talk_70338c69:
-
-    # l "Oh, he was polite about it."
-    l "Oh, bu konuda kibardı."
-
-# game/episode007.rpy:1672
-translate turkish ep007_l_talk_10ccff33:
-
-    # l "\"Would you be so kind as to join me as my companion for the party?\", he said."
-    l "\"Parti için arkadaşım olarak bana katılacak kadar nazik olur muydunuz?\", dedi."
-
-# game/episode007.rpy:1674
-translate turkish ep007_l_talk_97022f42:
-
-    # l "He left little room for me to imagine I had any other choice."
-    l "Başka bir seçeneğim olduğunu hayal etmem için benim için çok az yer bıraktı."
-
-# game/episode007.rpy:1675
-translate turkish ep007_l_talk_5d81798e:
-
-    # l "That look in his eyes...{w} He knew from the start what we were up to."
-    l "Gözlerine bakış ...{w} Başından beri ne yaptığımızı biliyordu."
-
-# game/episode007.rpy:1676
-translate turkish ep007_l_talk_f65c97f6:
-
-    # c "Yes, that much is clear."
-    c "Evet, bu kadar açık."
-
-# game/episode007.rpy:1678
-translate turkish ep007_l_talk_66c1fef7:
-
-    # l "When he took me up to his quarters together with his bodyguards..."
-    l "Beni korumalarıyla birlikte mahallelerine götürdüğünde ..."
-
-# game/episode007.rpy:1679
-translate turkish ep007_l_talk_95b60fcb:
-
-    # l "He could have done anything to me and I think he would have..."
-    l "Bana bir şey yapabilirdi ve sanırım ..."
-
-# game/episode007.rpy:1680
-translate turkish ep007_l_talk_faeaf46c:
-
-    # c "Did he touch you in any way, because-"
-    c "Sana hiçbir şekilde dokundu mu, çünkü-"
-
-# game/episode007.rpy:1682
-translate turkish ep007_l_talk_0a577d7a:
-
-    # l "No, he didn’t."
-    l "Hayır, yapmadı."
-
-# game/episode007.rpy:1683
-translate turkish ep007_l_talk_fbff7e0a:
-
-    # l "He didn’t get the chance."
-    l "Şans bulamadı."
-
-# game/episode007.rpy:1685
-translate turkish ep007_l_talk_27e7ac83:
-
-    # l "Fuck...{w} Those women."
-    l "Kahretsin...{w} O kadınlar."
-
-# game/episode007.rpy:1686
-translate turkish ep007_l_talk_b44d5acb:
-
-    # l "One impaled a bodyguard, I can still see the blood-"
-    l "Biri bir korumayı kazınmış, yine de kanı görebiliyorum"
-
-# game/episode007.rpy:1688
-translate turkish ep007_l_talk_0e24dcd9:
-
-    # "Unable to finish her sentence, she buried her head in my chest again and took a deep breath."
-    "Cümlesini bitiremedi, başını tekrar göğsüme gömdü ve derin bir nefes aldı."
-
-# game/episode007.rpy:1690
-translate turkish ep007_l_talk_8b343dc3:
-
-    # l "I’m glad you and Kit arrived."
-    l "Kitin geldiğine sevindim."
-
-# game/episode007.rpy:1694
-translate turkish ep007_l_talk_e5f8714f:
-
-    # c "You know I’ll always look out for you and won’t allow anything to happen to you."
-    c "Her zaman size bakacağım ve başınıza hiçbir şey olmasına izin vermeyeceğim biliyorsun."
-
-# game/episode007.rpy:1695
-translate turkish ep007_l_talk_b04241cf:
-
-    # l "I know."
-    l "Biliyorum."
-
-# game/episode007.rpy:1697
-translate turkish ep007_l_talk_80637fc3:
-
-    # l "Thank you, [p_name_short]."
-    l "Teşekkür ederim, [p_name_short]."
-
-# game/episode007.rpy:1698
-translate turkish ep007_l_talk_85495086:
-
-    # l "I think I’m going to try and get some sleep now."
-    l "Sanırım şimdi biraz uyuyacağım."
-
-# game/episode007.rpy:1699
-translate turkish ep007_l_talk_ea7b83f0:
-
-    # c "Right, that might be a good idea."
-    c "Doğru, bu iyi bir fikir olabilir."
-
-# game/episode007.rpy:1701
-translate turkish ep007_l_talk_aef0b115:
-
-    # c "Sleep well, sis."
-    c "İyi uyu, abla."
-
-# game/episode007.rpy:1703
-translate turkish ep007_l_talk_be025cc1:
-
-    # c "Sleep well, Lilly."
-    c "İyi uyu, Lilly."
-
-# game/episode007.rpy:1704
-translate turkish ep007_l_talk_735a8294:
-
-    # l "You too."
-    l "Sen de."
-
-# game/episode007.rpy:1707
-translate turkish ep007_l_talk_92a56fce:
-
-    # l "Oh, [p_name_short]?"
-    l "Ey, [p_name_short]?"
-
-# game/episode007.rpy:1708
-translate turkish ep007_l_talk_737ac06f:
-
-    # l "I’m sorry I acted that way."
-    l "Bu şekilde davrandığım için üzgünüm."
-
-# game/episode007.rpy:1709
-translate turkish ep007_l_talk_a7a67943:
-
-    # c "What way?"
-    c "Ne şekilde?"
-
-# game/episode007.rpy:1710
-translate turkish ep007_l_talk_3e3c2be6:
-
-    # l "You know, back when we'd just escaped the research station."
-    l "Bilirsiniz, araştırma istasyonundan yeni kaçtığımızda."
-
-# game/episode007.rpy:1714
-translate turkish ep007_l_talk_462ce532:
-
-    # c "Right, we’d been through a lot though, so I understand."
-    c "Doğru, yine de çok şey yaşıyorduk, bu yüzden anlıyorum."
-
-# game/episode007.rpy:1716
-translate turkish ep007_l_talk_eb2b4275:
-
-    # l "I lied about not remembering everything that happened in that cell."
-    l "O hücrede olan her şeyi hatırlamamaktan yalan söyledim."
-
-# game/episode007.rpy:1717
-translate turkish ep007_l_talk_ffa6ddb6:
-
-    # l "I...{w} I just couldn’t deal with it."
-    l "İ...{w} Sadece bununla başa çıkamadım."
-
-# game/episode007.rpy:1718
-translate turkish ep007_l_talk_bb78aab7:
-
-    # c "I know."
     c "Biliyorum."
 
-# game/episode007.rpy:1722
-translate turkish ep007_l_talk_07dddb26:
 
-    # c "But we can’t keep dancing around all this."
-    c "Ama tüm bunların etrafında dans etmeye devam edemeyiz."
+translate turkish episode007_41d8b439:
 
-# game/episode007.rpy:1723
-translate turkish ep007_l_talk_b4f0caee:
 
-    # c "We need to talk about it."
-    c "Bunun hakkında konuşmalıyız."
+    c "Bu planları bana bırakabilir misin? Biraz daha inceleyeceğim."
 
-# game/episode007.rpy:1725
-translate turkish ep007_l_talk_2c130648:
 
-    # l "What?{w} Right now?"
-    l "Ne?{w} Şu anda?"
+translate turkish episode007_aee6bcfe:
 
-# game/episode007.rpy:1726
-translate turkish ep007_l_talk_2796fc5c:
 
-    # c "Preferably, yes."
-    c "Tercihen evet."
+    th "Tabii ki, diğerlerini de bilgilendireceğim."
 
-# game/episode007.rpy:1728
-translate turkish ep007_l_talk_d38cbfc4:
 
-    # l "I can’t...{w} Not yet...{w} Please."
-    l "Yapamam...{w} Henüz değil...{w} Lütfen."
+translate turkish episode007_0926a89e:
 
-# game/episode007.rpy:1729
-translate turkish ep007_l_talk_8272dc14:
 
-    # c "Fine.{w} I’ll wait."
-    c "İyi.{w} Bekleyeceğim."
+    "Birkaç saat sonra atmosferden çıktık."
 
-# game/episode007.rpy:1731
-translate turkish ep007_l_talk_cf6b14a0:
 
-    # l "Thank you."
-    l "Teşekkür ederim."
+translate turkish episode007_f7c17cff:
 
-# game/episode007.rpy:1732
-translate turkish ep007_l_talk_60840077:
 
-    # l "I really need to rest now."
-    l "Şimdi gerçekten dinlenmem gerekiyor."
+    "Céline bizi malikanenin bulunduğu uçurumun yakınına getirecek bir rota çizmişti."
 
-# game/episode007.rpy:1734
-translate turkish ep007_l_talk_bce05693:
 
-    # "Lilly trembled as she moved to the bed and wrapped the covers tightly around her."
-    "Lilly yatağa taşınırken titredi ve kapakları etrafına sıkıca sardı."
+translate turkish episode007_3c401605:
 
-# game/episode007.rpy:1735
-translate turkish ep007_l_talk_9fcead47:
 
-    # c "Good night, Lilly."
-    c "İyi geceler Lilly."
+    "Gezegenin çevresini devriye gezen yörünge koruma dronları tarafından çoktan fark edildiğimize dair hiç şüphemiz yoktu."
 
-# game/episode007.rpy:1736
-translate turkish ep007_l_talk_ebc7b084:
 
-    # l "Good night."
-    l "İyi geceler."
+translate turkish episode007_e32af614:
 
-# game/episode007.rpy:1739
-translate turkish ep007_l_talk_abc3b8b3:
 
-    # c "Once you’re ready to talk, I’ll be there."
-    c "Konuşmaya hazır olduğunuzda, orada olacağım."
+    "Umarım malikaneye resmi olarak inmeden önceki küçük sapma ve dört yolcuyu indirme işlemimiz fark edilmez."
 
-# game/episode007.rpy:1741
-translate turkish ep007_l_talk_cf6b14a0_1:
 
-    # l "Thank you."
-    l "Teşekkür ederim."
+translate turkish episode007_5714cbcb:
 
-# game/episode007.rpy:1742
-translate turkish ep007_l_talk_d8827962:
 
-    # l "I promise I won’t take long, [p_name_short]."
-    l "Söz veriyorum uzun sürmeyeceğim [p_name_short]."
+    "Kit, Aven, Thyia ve ben giyinmiş ve atlayışa hazırdık."
 
-# game/episode007.rpy:1743
-translate turkish ep007_l_talk_b06c0660:
 
-    # c "Take all the time you need."
-    c "İhtiyacınız olan her zaman alın."
+translate turkish episode007_516fcd00:
 
-# game/episode007.rpy:1744
-translate turkish ep007_l_talk_6d7e0c04:
 
-    # l "Thanks, [p_name_short]."
-    l "Teşekkürler, [p_name_short]."
+    "Mürettebatın geri kalanı, Cetruvar'ın ünlü özel partilerinden birine girmeye çalışan bir grup kafasız sosyeteyi oynamaya hazır, şık giyinmişlerdi."
 
-# game/episode007.rpy:1746
-translate turkish ep007_l_talk_46a0ddab:
 
-    # "Lilly hugged me, evidently calmed by our conversation."
-    "Lilly bana sarıldı, açıkça konuşmamızla sakinleşti."
+translate turkish episode007_5b1ae7e5:
 
-# game/episode007.rpy:1748
-translate turkish ep007_l_talk_56581d44:
 
-    # c "Right, I only wanted to talk, you know?"
-    c "Doğru, sadece konuşmak istedim, biliyor musun?"
+    "Yedek kıyafetlerimizi sırt çantalarımıza koymuştuk, malikane arazisine iner inmez giymeye hazırdık."
 
-# game/episode007.rpy:1750
-translate turkish ep007_l_talk_b04241cf_1:
 
-    # l "I know."
-    l "Biliyorum."
+translate turkish episode007_64407562:
 
-# game/episode007.rpy:1751
-translate turkish ep007_l_talk_d5d97710:
 
-    # l "Good night, [p_name]."
-    l "İyi geceler, [p_name]."
+    ce "İnişe beş dakika kaldı."
 
-# game/episode007.rpy:1752
-translate turkish ep007_l_talk_9fcead47_1:
 
-    # c "Good night, Lilly."
-    c "İyi geceler Lilly."
+translate turkish episode007_6580c6b1:
 
-# game/episode007.rpy:1754
-translate turkish ep007_l_talk_b48e46c5:
 
-    # c "We were already on our way."
-    c "Zaten yoldaydık."
+    ce "Hazırlansan iyi olur."
 
-# game/episode007.rpy:1755
-translate turkish ep007_l_talk_62c720d0:
 
-    # c "Cetruvar never stood a chance."
-    c "Cetruvar asla bir şans yoktu."
+translate turkish episode007_c1de72b2:
 
-# game/episode007.rpy:1757
-translate turkish ep007_l_talk_74386115:
 
-    # l "If you say so."
-    l "Öyle diyorsan."
+    "Kargo bölümüne doğru ilerledik ve Céline kapıları açıp işaret verene kadar bekledik."
 
-# game/episode007.rpy:1758
-translate turkish ep007_l_talk_353d8753:
 
-    # l "I think I’m going to try and get some sleep."
-    l "Sanırım biraz uyuyacağım."
+translate turkish episode007_77f18e05:
 
-# game/episode007.rpy:1759
-translate turkish ep007_l_talk_848b0b66:
 
-    # c "Good idea."
-    c "İyi bir fikir."
+    "Céline bize atlayabilmemiz için uçağı kayalık yüzeyine mümkün olduğunca alçaktan uçurabileceğine dair güvence vermişti."
 
-# game/episode007.rpy:1761
-translate turkish ep007_l_talk_aef0b115_1:
 
-    # c "Sleep well, sis."
-    c "İyi uyu, abla."
+translate turkish episode007_e312d938:
 
-# game/episode007.rpy:1763
-translate turkish ep007_l_talk_be025cc1_1:
 
-    # c "Sleep well, Lilly."
-    c "İyi uyu, Lilly."
+    ce "Dikkatli olun, dışarıda bayağı rüzgar var."
 
-# game/episode007.rpy:1764
-translate turkish ep007_l_talk_735a8294_1:
 
-    # l "You too."
-    l "Sen de."
+translate turkish episode007_3b2180f3:
 
-# game/episode007.rpy:1769
-translate turkish ep007_vess_3f583260:
 
-    # "Out came Vess, who didn’t seem to notice me at first."
-    "İlk başta beni fark etmemiş gibi görünmeyen vese çıktı."
+    ce "Hazır mısınız?"
 
-# game/episode007.rpy:1771
-translate turkish ep007_vess_a0b1b4c4:
 
-    # ve "Oh...{w} Uh.{w} Hey!"
-    ve "Ey...{w} Uh.{w} Hey!"
+translate turkish episode007_cf63047b:
 
-# game/episode007.rpy:1772
-translate turkish ep007_vess_57894fb3:
 
-    # c "Everything okay?"
-    c "Her şey yolunda?"
+    "Cevabımızı beklemeden kargo bölümünün kapılarını açtı."
 
-# game/episode007.rpy:1774
-translate turkish ep007_vess_515670e7:
 
-    # ve "Yes...{w} That is, I thought I heard some strange noises."
-    ve "Evet...{w} Yani, garip sesler duyduğumu düşündüm."
+translate turkish episode007_31b9c06c:
 
-# game/episode007.rpy:1775
-translate turkish ep007_vess_e2682f8f:
 
-    # c "You’re not the first to remark on that."
-    c "Bunu ilk ifade eden sen değilsin."
+    "Şiddetli bir rüzgar bizi neredeyse ayaklarımızın üzerinden savuracaktı, ama çıkışa ulaşmayı başardık."
 
-# game/episode007.rpy:1776
-translate turkish ep007_vess_7486c2a0:
 
-    # c "You seem a little flustered, are you alright?"
-    c "Biraz kızarmış görünüyorsun, iyi misin?"
+translate turkish episode007_d63ba3a9:
 
-# game/episode007.rpy:1778
-translate turkish ep007_vess_818bf944:
 
-    # ve "Do I?"
-    ve "ME?"
+    "Gemi kayalık yüzeyin hemen üzerinde süzülüyordu ve Céline gemiyi sabit tutmayı oldukça iyi başardı."
 
-# game/episode007.rpy:1782
-translate turkish ep007_vess_563dda86:
 
-    # c "Yes, did something happen?"
-    c "Evet, bir şey oldu mu?"
+translate turkish episode007_70503103:
 
-# game/episode007.rpy:1784
-translate turkish ep007_vess_06aceb26:
 
-    # ve "It’s nothing, just one of the guards..."
-    ve "Hiçbir şey, gardiyanlardan sadece biri ..."
+    "Rüzgar hakkındaki uyarısı abartı değildi, Bastard'dan çıkar çıkmaz vahşi bir şiddetle bizi savurdu."
 
-# game/episode007.rpy:1785
-translate turkish ep007_vess_9d9b3d9a:
 
-    # c "One of the guards did something?"
-    c "Muhafızlardan biri bir şey mi yaptı?"
+translate turkish episode007_15e685f3:
 
-# game/episode007.rpy:1787
-translate turkish ep007_vess_feda8eff:
 
-    # ve "No, not like that."
-    ve "Hayır, öyle değil."
+    "Kit ilk atlayan kişiydi, düşüşünü hepimizin eğitimini aldığı teknikle yumuşattı."
 
-# game/episode007.rpy:1788
-translate turkish ep007_vess_7f0edef3:
 
-    # ve "Just funny looks."
-    ve "Sadece komik görünüm."
+translate turkish episode007_e7a10e95:
 
-# game/episode007.rpy:1789
-translate turkish ep007_vess_be218516:
 
-    # ve "This whole place just feels wrong."
-    ve "Bütün bu yer yanlış hissediyor."
+    "Hepimiz sağ salim aşağı indik."
 
-# game/episode007.rpy:1791
-translate turkish ep007_vess_2d354079:
 
-    # ve "It’s a lavish mansion, but also a prison, if you know what I mean."
-    ve "Ne demek istediğimi biliyorsanız, cömert bir konak, ama aynı zamanda bir hapishane."
+translate turkish episode007_4ff6e1e4:
 
-# game/episode007.rpy:1792
-translate turkish ep007_vess_68c7b05d:
 
-    # c "I know exactly what you mean."
-    c "Ne demek istediğini tam olarak biliyorum."
+    "Bastard'ın kargo bölümü kapısı kapandı ve daha yüksek bir irtifaya doğru hızlandı."
 
-# game/episode007.rpy:1796
-translate turkish ep007_vess_dc2903e3:
 
-    # c "Why don’t we have a drink together, to take the edge off things."
-    c "Neden birlikte bir içki içmiyoruz, bir şeylerden çıkarak."
+translate turkish episode007_f940dcac:
 
-# game/episode007.rpy:1798
-translate turkish ep007_vess_06f0a1e1:
 
-    # ve "I’d like that."
-    ve "Bunu istiyorum."
+    "O noktada yapayalnızdık."
 
-# game/episode007.rpy:1800
-translate turkish ep007_vess_610a0df6:
 
-    # "Vess’ room was the same as mine, so I walked straight to the minibar and picked a bottle."
-    "Vess'in odası benimkiyle aynıydı, bu yüzden doğrudan Minibar'a yürüdüm ve bir şişe aldım."
+translate turkish episode007_a27a69f9:
 
-# game/episode007.rpy:1801
-translate turkish ep007_vess_916c49bc:
 
-    # "I poured two glasses and handed one to her."
-    "İki bardak döktüm ve ona bir tane verdim."
+    "Vakit kaybetmeden tırmanma çivilerimizi kayaya çaktık ve sağlam halatları onların arasından geçirdik."
 
-# game/episode007.rpy:1803
-translate turkish ep007_vess_b0d547f3:
 
-    # ve "Thanks."
-    ve "Teşekkürler."
+translate turkish episode007_ce27790d:
 
-# game/episode007.rpy:1805
-translate turkish ep007_vess_3533c72c:
 
-    # ve "Oh, this is nice."
-    ve "Oh, bu güzel."
+    "Bastard'ın aşağıdaki malikânenin iniş pistine doğru alçalmaya başlamak için gerekli manevraları yaptığını gördük."
 
-# game/episode007.rpy:1806
-translate turkish ep007_vess_fac532ec:
 
-    # ve "Makes me feel all warm inside."
-    ve "İçeride beni sıcak hissettiriyor."
+translate turkish episode007_b06b95ed:
 
-# game/episode007.rpy:1807
-translate turkish ep007_vess_b8d372a0:
 
-    # c "That was the idea."
-    c "Fikir buydu."
+    "Kit ilk inen kişiydi ve bunu gözle görülür bir neşeyle yaptı."
 
-# game/episode007.rpy:1809
-translate turkish ep007_vess_5b561910:
 
-    # ve "I’d already gone to bed, but I heard noises in the hallway and kept listening for them."
-    ve "Zaten yattım, ama koridorda sesler duydum ve onları dinlemeye devam ettim."
+translate turkish episode007_c84cf67a:
 
-# game/episode007.rpy:1811
-translate turkish ep007_vess_52ce35a9:
 
-    # ve "So I’m glad that you want to keep me company."
-    ve "Bu yüzden beni şirket tutmak istediğine sevindim."
+    "Daha gençken, onun isteği üzerine, Sovereignty'nin çeşitli doğal simgelerine yaptığımız o intihar gibi gezilerde de aynı ifadeyi takınırdı."
 
-# game/episode007.rpy:1812
-translate turkish ep007_vess_f613cb69:
 
-    # "Our glasses were already empty, so I offered Vess a refill."
-    "Gözlüklerimiz zaten boştu, bu yüzden vess bir yeniden doldurma teklif ettim."
+translate turkish episode007_6292aa02:
 
-# game/episode007.rpy:1814
-translate turkish ep007_vess_e21b169c:
 
-    # ve "Just a little, I’m not getting drunk again!"
-    ve "Biraz, tekrar sarhoş değilim!"
+    th "Hatırlatsana, neden yine bu şekilde yapıyoruz?"
 
-# game/episode007.rpy:1815
-translate turkish ep007_vess_e2ec89c8:
 
-    # c "Because of what happened on Barranthis?"
-    c "Barranthis'te ne oldu?"
+translate turkish episode007_14b566f1:
 
-# game/episode007.rpy:1817
-translate turkish ep007_vess_3b642682:
 
-    # ve "I...{w} No...{w} I..."
-    ve "İ...{w} Hayır...{w} İ..."
+    c "O an mantıklı görünen bir sürü neden vardı."
 
-# game/episode007.rpy:1818
-translate turkish ep007_vess_3f33e8f9:
 
-    # c "I’m teasing you, Vess."
-    c "Seninle alay ediyorum, vess."
+translate turkish episode007_da0aebfa:
 
-# game/episode007.rpy:1819
-translate turkish ep007_vess_eee2b4ec:
 
-    # ve "Oh."
-    ve "Ey."
+    c "Sadece aşağı bakma."
 
-# game/episode007.rpy:1821
-translate turkish ep007_vess_000c2ac6:
 
-    # c "Though if you want to talk about that night..."
-    c "O gece hakkında konuşmak istiyorsan ..."
+translate turkish episode007_72822904:
 
-# game/episode007.rpy:1823
-translate turkish ep007_vess_9d99d2f4:
 
-    # ve "Must we?"
-    ve "Zorundayız?"
+    th "Çoktan baktım bile."
 
-# game/episode007.rpy:1824
-translate turkish ep007_vess_49735fae:
 
-    # c "I kissed you, you kissed me back."
-    c "Seni öptüm, beni öptün."
+translate turkish episode007_fe9efa64:
 
-# game/episode007.rpy:1826
-translate turkish ep007_vess_507711f5:
 
-    # ve "And I pulled back."
-    ve "Ve geri çekildim."
+    th "O orospu çocuğu neden malikânesini kilometrelerce yükseklikteki bir uçurumun içine yapmak zorundaydı?"
 
-# game/episode007.rpy:1827
-translate turkish ep007_vess_26eefe0a:
 
-    # c "Yes."
+translate turkish episode007_733952f8:
+
+
+    c "İçeri girdiğimizde ona soralım."
+
+
+translate turkish episode007_815b5bcc:
+
+
+    th "Soralım."
+
+
+translate turkish episode007_eaf43eaf:
+
+
+    "Malikâne kompleksinin çatılarından birine yaklaştık."
+
+
+translate turkish episode007_24abc0d7:
+
+
+    "Bastard iniş pistine inmişti ve muhafızların gemiye doğru akın ettiğini görebiliyorduk."
+
+
+translate turkish episode007_c51ac60a:
+
+
+    "Tesisin güvenlik güçlerinin çoğu Bastard'ın giriş kapağına silah doğrultmakla meşgul görünüyordu, bu da bize görünmeden içeri girmek için küçük bir fırsat verdi."
+
+
+translate turkish episode007_5999c124:
+
+
+    "Çatıya ilk Kit çıktı ve hemen iple iniş kemerini çözdü."
+
+
+translate turkish episode007_5e9d4d59:
+
+
+    "Aven sonrakiydi ve aynısını yaptı."
+
+
+translate turkish episode007_84488868:
+
+
+    "Thyia ve ben neredeyse aynı anda indik."
+
+
+translate turkish episode007_ef2d2865:
+
+
+    "Parti kıyafetlerimizi aceleyle giymeden önce ipleri sakladık."
+
+
+translate turkish episode007_1fcd1383:
+
+
+    "Bastard bulunduğumuz noktadan görünmüyordu, bu yüzden hala tesisin güvenlik görevlilerini oyalayıp oyalamadıklarını anlayamıyorduk."
+
+
+translate turkish episode007_3312aa42:
+
+
+    "Şimdiye kadar silah sesi duyulmaması umut vericiydi."
+
+
+translate turkish episode007_c6017591:
+
+
+    "Çatıdan bir merdiven yardımıyla balkona inebilecektik."
+
+
+translate turkish episode007_58cc5083:
+
+
+    "Aşağımızda, büyük bir yüzme havuzunun etrafında kalabalık halinde çoğu misafir toplanmıştı."
+
+
+translate turkish episode007_5093a049:
+
+
+    "Bazıları havuzda çıplak yüzüyor, hala giyinik olan misafirlerle rahatça kaynaşıyorlardı."
+
+
+translate turkish episode007_8bc5f27e:
+
+
+    "Ortam oldukça rahat görünüyordu, bu sıkıcı bir kokteyl partisi değildi."
+
+
+translate turkish episode007_9da21f34:
+
+
+    c "Kaynaşmaya hazır mısın?"
+
+
+translate turkish episode007_616109db:
+
+
+    av "Hayır...{w} Ama biraz mecburuz, değil mi?"
+
+
+translate turkish episode007_07400ed3:
+
+
+    c "Eva hakkında daha fazla bilgi bulacaksak, evet."
+
+
+translate turkish episode007_d36fffff:
+
+
+    c "Cetruvar'ın Acarhyn hakkında dosyaları olmalı, bu yüzden onun özel dairesine girmemiz gerek."
+
+
+translate turkish episode007_1218a053:
+
+
+    ki "Bu kolay olmayacak."
+
+
+translate turkish episode007_7cbe9f54:
+
+
+    c "Hayır, değil."
+
+
+translate turkish episode007_f50ddf08:
+
+
+    c "Ama gece daha yeni başlıyor, her şey olabilir."
+
+
+translate turkish episode007_f17cd85a:
+
+
+    th "Ayrılıp daha sonra burada tekrar buluşalım mı?"
+
+
+translate turkish episode007_942e8e42:
+
+
+    av "Kulağa iyi bir plan gibi geliyor."
+
+
+translate turkish episode007_e4947504:
+
+
+    "Kolumu Thyia'ya uzattım ve birlikte asansörle alt kata indik."
+
+
+translate turkish episode007_d4212a39:
+
+
+    "Aven ve Kit karşı yöne gittiler."
+
+
+translate turkish episode007_b35e6849:
+
+
+    "Kısa süre sonra yabancılarla çevrelenmiştik."
+
+
+translate turkish episode007_947086fa:
+
+
+    "Neyse ki kıyafetlerimiz diğer misafirlerin giydiği kıyafetlerle uyumluydu, bu yüzden göze batmıyorduk."
+
+
+translate turkish episode007_f0f8345d:
+
+
+    "Muhafızların yavaşça geri döndüklerini ve tesis boyunca mevzilendiklerini fark ettim."
+
+
+translate turkish episode007_30ee2e1c:
+
+
+    "Göze batmıyorlardı ama sıradan bir bahçe partisi için etrafta fazla sayıda kaslı adam vardı."
+
+
+translate turkish episode007_ea13ac5d:
+
+
+    "Cetruvar muhtemelen biraz güvensiz hissediyordu."
+
+
+translate turkish episode007_a7b398bb:
+
+
+    "Cetruvar'dan bahsetmişken, ne ben ne de Thyia ev sahibimizi henüz görmemiştik."
+
+
+translate turkish episode007_7ae531f5:
+
+
+    "İkimizin de içkiye ihtiyacı vardı, bu yüzden bir garson aramaya koyulduk."
+
+
+translate turkish episode007_d46a762c:
+
+
+    c "Bunun çok resmi bir şey olacağını düşünmüştüm, ama bikini ve mayo sayısına bakılırsa yanılmışım."
+
+
+translate turkish episode007_428306a3:
+
+
+    th "Bazıları muhtemelen dekorasyon olarak tutulmuş, ama bu partiler sosyetenin en son vücut şekillerini sergilediği yerler olarak ünlü."
+
+
+translate turkish episode007_b0f6974e:
+
+
+    c "Hassiktir..."
+
+
+translate turkish episode007_245eac3a:
+
+
+    th "Bu etkinlikler sadece bunun için ünlü değil."
+
+
+translate turkish episode007_aa5cf913:
+
+
+    th "Eğlence başlayana kadar bekle."
+
+
+translate turkish episode007_9116ea04:
+
+
+    c "Sanırım eğlence bongo çalıp neşeli müzik yapmak ya da ateş gösterisi yapmakla ilgili değil?"
+
+
+translate turkish episode007_014642ac:
+
+
+    th "Hayır, ama göreceksin."
+
+
+translate turkish episode007_efc4445e:
+
+
+    c "Sabırsızlanıyorum."
+
+
+translate turkish episode007_2e6a5bf4:
+
+
+    "Geçen bir garsonun tepsisinden iki içki kaptım ve bir bardağı Thyia'ya uzattım."
+
+
+translate turkish episode007_d0b715f8:
+
+
+    c "Sence ev sahibimiz kendini gösterecek mi?"
+
+
+translate turkish episode007_2c34d477:
+
+
+    th "Sanırım gösterecek, diğer tüm etkinliklerde bulunmuştu."
+
+
+translate turkish episode007_70d6c3cb:
+
+
+    th "Üstümüzde iki kat var."
+
+
+translate turkish episode007_bb21c76a:
+
+
+    th "Biri halka açık, ama onun üstünde başka bir kat daha var."
+
+
+translate turkish episode007_f0a1920c:
+
+
+    th "Sahip olduğum bilgiye göre, o kata çıkan bir asansör var."
+
+
+translate turkish episode007_40606538:
+
+
+    c "Muhtemelen sıkı korunuyordur?"
+
+
+translate turkish episode007_9e857221:
+
+
+    th "Muhtemelen."
+
+
+translate turkish episode007_941c9f0d:
+
+
+    th "Cetruvar işi sıkı tutuyor."
+
+
+translate turkish episode007_9592c65a:
+
+
+    th "Yine de Iron Bastard malikâneye bu kadar yakınken o numarayı yapabilmemiz beni şaşırttı."
+
+
+translate turkish episode007_b17b4e76:
+
+
+    c "Eh, bildiğimiz kadarıyla muhafızlar bizi ararken mürettebatın geri kalanı silah zoruyla yerde yatıyor olabilir."
+
+
+translate turkish episode007_42eb924c:
+
+
+    th "Olabilir, gerçi şimdiye kadar hiç kargaşa sesi duymadım."
+
+
+translate turkish episode007_8b3aa7a3:
+
+
+    c "Şimdilik her şey yolunda."
+
+
+translate turkish episode007_6e98d1f9:
+
+
+    c "Bak, Aven ve Kit bize doğru geliyor."
+
+
+translate turkish episode007_80919c3a:
+
+
+    c "Partiyi beğendiniz mi?"
+
+
+translate turkish episode007_2eff7eea:
+
+
+    ki "Çok beğendim, o güzel hanımlardan birine havuza birlikte girmeyi teklif edecektim ama Aven izin vermedi."
+
+
+translate turkish episode007_93086bb3:
+
+
+    av "O kızla sonsuz mutluluğa erişme şansını mahvettiğim için üzgünüm ama artık sikinle düşünmeyi bırakmalısın, Kit."
+
+
+translate turkish episode007_ff2eef49:
+
+
+    c "Off."
+
+
+translate turkish episode007_37248dc4:
+
+
+    av "Havuzu kontrol etmenin dışında, yukarı çıktık."
+
+
+translate turkish episode007_3ca93da1:
+
+
+    av "Yukarısı kalabalık."
+
+
+translate turkish episode007_4f500329:
+
+
+    av "İki asansör var, biri diğerinden daha sıkı korunuyor."
+
+
+translate turkish episode007_8219447f:
+
+
+    av "İnsanlar partinin başlaması için ev sahibimizin gelmesini bekliyor gibi."
+
+
+translate turkish episode007_e370e6e4:
+
+
+    c "O zaman beklesek iyi olur."
+
+
+translate turkish episode007_211d7242:
+
+
+    c "Ekibimizin geri kalanından haber var mı?"
+
+
+translate turkish episode007_dd550396:
+
+
+    ki "Hiçbir şey yok, ama insanlar bunun hakkında konuşuyor."
+
+
+translate turkish episode007_1b2071cd:
+
+
+    ki "Gemi Cetruvar'ın özel iniş pistine indiği için, içinde özel misafirler olduğuna dair söylentiler var."
+
+
+translate turkish episode007_2f35c87a:
+
+
+    c "Siktir."
+
+
+translate turkish episode007_fc960483:
+
+
+    c "Umarım Lilly ve diğerleri şu kafası karışık sosyete numarasını inandırıcı bir şekilde yapabilirler..."
+
+
+translate turkish episode007_674218ec:
+
+
+    c "Ben şu asansörlere bir bakacağım, geliyor musun Thyia?"
+
+
+translate turkish episode007_62458cc3:
+
+
+    th "Tabi."
+
+
+translate turkish episode007_17b76bdc:
+
+
+    "Asansörler, malikanenin muhafızlarının en görünür şekilde sergilendiği tek yerlerdi."
+
+
+translate turkish episode007_0509d4cd:
+
+
+    "Parti misafirleri çoğunlukla yakın çevredeki alanlardan kaçınıp, malikanenin diğer bölümlerinde kalabalık oluşturuyorlardı."
+
+
+translate turkish episode007_b18ee17c:
+
+
+    "Asansörün kapıları açıldığında, çoğu kafa kimin çıkacağını görmek için döndü."
+
+
+translate turkish episode007_df109787:
+
+
+    "Birkaç tanıdık yüz çıktı..."
+
+
+translate turkish episode007_41e2febb:
+
+
+    th "Siktir, bu planın bir parçası değildi!"
+
+
+translate turkish episode007_c5d09f60:
+
+
+    cet "Hepinize mütevazı evime içtenlikle hoş geldiniz diyorum."
+
+
+translate turkish episode007_eeda6222:
+
+
+    cet "Bazılarınızın fark etmiş olabileceği gibi, bazı yolunu şaşırmış misafirler kendilerini benim iniş pistimde buldu."
+
+
+translate turkish episode007_39f41e00:
+
+
+    cet "Ne kadar çok o kadar iyi, derim!"
+
+
+translate turkish episode007_917107be:
+
+
+    cet "İçeceklerin ve diğer ikramların tadını çıkarın."
+
+
+translate turkish episode007_e3017efb:
+
+
+    cet "Ve sizin için hazırladığımız eğlenceyi unutmayalım."
+
+
+translate turkish episode007_d26ac57a:
+
+
+    cet "Bu gece parti var!"
+
+
+translate turkish episode007_28bf8af4:
+
+
+    "Asansörün önündeki adam, ki bu açıkça Ranimo Cetruvar'dı, müzik ve sohbet her şeyin önüne geçmeden önce bir sürü tezahüratla karşılandı."
+
+
+translate turkish episode007_d6134f96:
+
+
+    "Arkadaşlarımız yavaş yavaş kalabalığın arasından geçmeye başlayan Cetruvar'ın yörüngesinden ayrıldı."
+
+
+translate turkish episode007_8575f54e:
+
+
+    "Geriye Lilly kalıyordu, o da beni dehşete düşüren bir şekilde ev sahibimizle kol kola yürüyordu."
+
+
+translate turkish episode007_ad775935:
+
+
+    "Geriye Lilly kaldı, ev sahibimizle kol kola yürüyordu."
+
+
+translate turkish episode007_2012e203:
+
+
+    c "Lilly neden o adamın koluna yapışmış?"
+
+
+translate turkish episode007_7d80db54:
+
+
+    th "Hiçbir fikrim yok."
+
+
+translate turkish episode007_42aefb98:
+
+
+    c "Ne gösterişli bir palyaço bu arada."
+
+
+translate turkish episode007_baacb623:
+
+
+    th "Kendine has bir konuşma tarzı var, bu kadarı kesin."
+
+
+translate turkish episode007_3aecaadf:
+
+
+    c "Neden hepsi Cetruvar'la birlikte indi?"
+
+
+translate turkish episode007_11380344:
+
+
+    th "Bilmiyorum ama arkadaşlarımızdan birinin cevapları olabilir."
+
+
+translate turkish episode007_b12a7a79:
+
+
+    th "Tabii nazik ev sahibimize şimdiden merhaba demek istemiyorsan."
+
+
+translate turkish episode007_7d17bbf6:
+
+
+    c "Kırık bir şarap bardağıyla yüzüne kazara yumruk atabilirim, o yüzden daha iyi olmaz."
+
+
+translate turkish episode007_8f151fa4:
+
+
+    c "O kendini beğenmiş sırıtışını silmek için yüzüne kazara yumruk atabilirim, o yüzden daha iyi olmaz."
+
+
+translate turkish episode007_4be60cce:
+
+
+    th "Sinirli miyiz?"
+
+
+translate turkish episode007_587563d4:
+
+
+    c "Oldukça."
+
+
+translate turkish episode007_20e451db:
+
+
+    c "Hadi diğerlerini bulalım."
+
+
+translate turkish episode007_f6e8b54d:
+
+
+    "Nadya ve Jade'i balkonda bulduk, aşağıdaki kalabalıkta tanıdık yüzler ararken göze çarpmamaya çalışıyorlardı."
+
+
+translate turkish episode007_abc69957:
+
+
+    c "Sizi burada görmek ne hoş."
+
+
+translate turkish episode007_d07301e4:
+
+
+    na "Ah [p_name_short]!"
+
+
+translate turkish episode007_71da670e:
+
+
+    c "Ne işiniz var burada?"
+
+
+translate turkish episode007_a419e37c:
+
+
+    na "İner inmez gemi muhafızlar tarafından kuşatıldı."
+
+
+translate turkish episode007_569d09f2:
+
+
+    na "Çaresiz sosyetikler numarası yaptık elimizden geldiğince, işe yarıyor gibiydi."
+
+
+translate turkish episode007_90253ef2:
+
+
+    na "Davetiyelerimizi istediler ve onları biraz fazla dikkatli incelemeye başladılar."
+
+
+translate turkish episode007_bcb34861:
+
+
+    na "Sonra o belirdi, yani Cetruvar."
+
+
+translate turkish episode007_7febe7d7:
+
+
+    na "Bizi şahsen karşıladı ve o davetiyeleri attı."
+
+
+translate turkish episode007_5ab8aea8:
+
+
+    na "Bunlara ihtiyacımız yok dedi ve görkemli girişi için ona eşlik etmemizi istedi."
+
+
+translate turkish episode007_25a29931:
+
+
+    na "Lilly'ye özel bir ilgi gösterdi, onunla bir içki içmek istedi."
+
+
+translate turkish episode007_beb11523:
+
+
+    c "Ve o da kabul mü etti?"
+
+
+translate turkish episode007_5505b525:
+
+
+    na "Sanırım başka seçeneği olmadığını düşündü."
+
+
+translate turkish episode007_af1acb8d:
+
+
+    ki "Peki ya Céline, onu sizinle görmedim?"
+
+
+translate turkish episode007_b28b2354:
+
+
+    na "Meraklı muhafızları uzak tutmak için gemiyle kalmayı seçti."
+
+
+translate turkish episode007_d0efb809:
+
+
+    c "Yani Bastard'da tek başına mı?"
+
+
+translate turkish episode007_115682bb:
+
+
+    na "Hayır, Raene, Ziv, Vess ve Thim de geride kaldı."
+
+
+translate turkish episode007_d8c59078:
+
+
+    av "Eh, bu çıkışımızı daha karmaşık hale getiriyor."
+
+
+translate turkish episode007_b7203187:
+
+
+    c "Kesinlikle öyle."
+
+
+translate turkish episode007_99976b4a:
+
+
+    c "Kit, Jade ve Aven, diğerlerini bulabilir misiniz?"
+
+
+translate turkish episode007_11578771:
+
+
+    c "Thyia, Nadya ve ben Lilly'yi ev sahibimizin pençelerinden kurtarmaya çalışacağız."
+
+
+translate turkish episode007_8428e111:
+
+
+    ki "Tamam, sorun değil."
+
+
+translate turkish episode007_b4d1bd6f:
+
+
+    ki "Gerçi eğlence başlamak üzere gibi görünüyor."
+
+
+translate turkish episode007_5786f7a1:
+
+
+    c "Bu durumda kalabalığın arasından geçmek daha kolay olacak."
+
+
+translate turkish episode007_f7a832dd:
+
+
+    th "Birkaç kişinin Yalvai kuluçka töreninden bahsettiğini duydum, her ne demekse."
+
+
+translate turkish episode007_98eae4b8:
+
+
+    na "Bir Yalvai kuluçka töreni mi?"
+
+
+translate turkish episode007_7c711db4:
+
+
+    na "Duyduğun şey bu muydu emin misin?"
+
+
+translate turkish episode007_0d3bcbd8:
+
+
+    th "Evet, oldukça eminim."
+
+
+translate turkish episode007_f46c9755:
+
+
+    na "Partinin böyle olacağını bilmiyordum..."
+
+
+translate turkish episode007_efe0e8c3:
+
+
+    c "Nasıl yani?"
+
+
+translate turkish episode007_4088b827:
+
+
+    th "[p_name_short]'a da söylediğim gibi, Cetruvar'ın partileri bu tür şeylerle ünlü."
+
+
+translate turkish episode007_6f6f512b:
+
+
+    th "Seks partileri ve tuhaf cinsel fantezilerin sergilendiğine dair hikayeler var."
+
+
+translate turkish episode007_1ac0c083:
+
+
+    th "Bugün de farklı olmayacak."
+
+
+translate turkish episode007_b66e967b:
+
+
+    c "Bunun kuluçka töreniyle ne alakası var?"
+
+
+translate turkish episode007_85cbf3e3:
+
+
+    na "Yalvai parazit bir tür. Dişinin içine yumurta bırakmak için erkek konağı enfekte ederek ürerler."
+
+
+translate turkish episode007_4cffdda2:
+
+
+    na "Parazit erkeğin fizyolojisini değiştirir, özellikle de sikini."
+
+
+translate turkish episode007_bfcd214b:
+
+
+    na "Erkek dişiyle çiftleştiğinde, dölü dişinin yumurtalıklarını değiştirir ve bir seferde birden fazla yumurtayı dölleyerek Yalvai yumurtalarına dönüştürür."
+
+
+translate turkish episode007_2e35ff8d:
+
+
+    na "Sonra dişi yumurtaları doğurur."
+
+
+translate turkish episode007_b6436166:
+
+
+    c "Hem iğrenç hem de zekice geliyor kulağa."
+
+
+translate turkish episode007_1e92f3af:
+
+
+    na "Karmaşık bir üreme stratejisi ama Yalvai'ler için gayet iyi işliyor."
+
+
+translate turkish episode007_6079666c:
+
+
+    na "Erkeğin fiziği çok gelişiyor, siki de öyle."
+
+
+translate turkish episode007_e78cae24:
+
+
+    na "Kadınlar için yumurtaları taşımanın orgazmdan kat kat daha zevkli olduğu söyleniyor."
+
+
+translate turkish episode007_34235114:
+
+
+    c "Anladım.{w} Ve bütün bunlar burada mı olacak?"
+
+
+translate turkish episode007_23717796:
+
+
+    th "Öyle görünüyor ve ben bu yüzden çıkıyorum buradan."
+
+
+translate turkish episode007_4af9550a:
+
+
+    c "Sen gitmiyor musun, Nadya teyze?"
+
+
+translate turkish episode007_72d3f50a:
+
+
+    c "Sen gitmiyor musun, Nadya?"
+
+
+translate turkish episode007_422cd979:
+
+
+    na "Daha önce hiç Yalvai kuluçkası görmedim, o yüzden kalıp izlemek istiyorum."
+
+
+translate turkish episode007_ac7fd059:
+
+
+    c "Tabi, bilimsel amaçlar için..."
+
+
+translate turkish episode007_f2ad077b:
+
+
+    na "Aynen öyle."
+
+
+translate turkish episode007_c7948a86:
+
+
+    c "Şaka yapıyordum."
+
+
+translate turkish episode007_ebad5241:
+
+
+    na "Ben yapmıyordum, Yalvai'lerin yaşam döngüsü büyüleyici."
+
+
+translate turkish episode007_0973155d:
+
+
+    na "Yumurtaların gelişmesinin en kısa sürdüğü türlerden biri."
+
+
+translate turkish episode007_8af5767f:
+
+
+    na "Dişinin içinde yumurtalar oluştuğu andan itibaren doğurmaları sadece birkaç dakika sürüyor."
+
+
+translate turkish episode007_5686cc79:
+
+
+    "Çoğu insan kısa süre sonra ilgisini kaybetti ve oda hemen sohbetle doldu."
+
+
+translate turkish episode007_eaf433d0:
+
+
+    na "Bu büyüleyiciydi."
+
+
+translate turkish episode007_fe0cc5aa:
+
+
+    c "Buna bakmanın bir yolu da bu."
+
+
+translate turkish episode007_b856d736:
+
+
+    na "Ah...{w} Evet...{w} Kesinlikle."
+
+
+translate turkish episode007_bdfb8bdf:
+
+
+    na "Ama bu parazitin yol açtığı değişimler muazzam, inanılmaz gibi."
+
+
+translate turkish episode007_1d430ad5:
+
+
+    c "Sözünü seve seve kabul ederim."
+
+
+translate turkish episode007_ee3a8d6d:
+
+
+    na "Evet, ne demek istediğini anlıyorum."
+
+
+translate turkish episode007_90c43d12:
+
+
+    na "Bu insanların neden kendilerini isteyerek Yalvai ile enfekte ettiklerini anlamıyorum."
+
+
+translate turkish episode007_8c9337cd:
+
+
+    na "Verdiği zevk bir şekilde çok bağımlılık yapıcı olmalı."
+
+
+translate turkish episode007_5b6998f6:
+
+
+    c "Hadi Lilly'yi bulalım."
+
+
+translate turkish episode007_9d76ee47:
+
+
+    na "Evet, bu iyi bir fikir."
+
+
+translate turkish episode007_5b6998f6_1:
+
+
+    c "Hadi Lilly'yi bulalım."
+
+
+translate turkish episode007_35f645e3:
+
+
+    na "Doğru, bu daha iyi bir fikir olabilir."
+
+
+translate turkish episode007_a2270bdc:
+
+
+    "Yan odaya dağ gibi bir adam girerken biz balkonu terk ettik."
+
+
+translate turkish episode007_62942f25:
+
+
+    "Ne olacağını tahmin edebiliyordum ve kalıp izlemeyi düşünmüyordum."
+
+
+translate turkish episode007_955d1d88:
+
+
+    "Misafirlerin çoğu bir üst kattaki erotik eğlenceye kapılmıştı."
+
+
+translate turkish episode007_1e5acc4f:
+
+
+    "Havuzun olduğu kat, engin okyanusa bakan iki kişi dışında neredeyse boştu."
+
+
+translate turkish episode007_33f931ca:
+
+
+    "Çiftin yakınında göze batmadan duran iki korumayı fark etmemek mümkün değildi."
+
+
+translate turkish episode007_fae029e7:
+
+
+    "Adamın kolunu rahatça Lilly'nin beline dolaması içimi ani bir öfkeyle doldurdu."
+
+
+translate turkish episode007_84456590:
+
+
+    "Nadya kolumdan çekerek beni engelledi."
+
+
+translate turkish episode007_167f9535:
+
+
+    na "Dikkat çekmesen daha iyi olur."
+
+
+translate turkish episode007_d37414f2:
+
+
+    na "Hadi yanlarına rahatça yürüyelim, olur mu?"
+
+
+translate turkish episode007_ac3c19b3:
+
+
+    "Hiçbir şey söylemedim ama Nadya'ya beni ani bir şey yapmaktan alıkoyduğu için içimden teşekkür ettim."
+
+
+translate turkish episode007_d0af18f6:
+
+
+    "Cetruvar uzaktaki bir şeyi işaret ediyordu."
+
+
+translate turkish episode007_6cf02927:
+
+
+    "Muhtemelen Lilly'yi etkilemesi gereken bir deniz hayvanıydı."
+
+
+translate turkish episode007_85e33139:
+
+
+    "Patronlarına doğru yaklaşmaya çalıştığımızda korumalar hızlıca önümüzü kesti."
+
+
+translate turkish episode007_71777606:
+
+
+    woman "Üzgünüm, ama Bay Cetruvar yalnız kalmak istiyor."
+
+
+translate turkish episode007_0a84ef1d:
+
+
+    "Tam cevap verecekken Cetruvar asansöre doğru ters yönde yürümeye başladı."
+
+
+translate turkish episode007_cc6c8b55:
+
+
+    "Hem o hem de Lilly bize hiç bakmadı, sohbete dalmış görünüyorlardı."
+
+
+translate turkish episode007_8674e886:
+
+
+    "İki koruma da peşlerinden gitti ve onları takip etmememiz gerektiğini açıkça belli ettiler."
+
+
+translate turkish episode007_8057c7f9:
+
+
+    c "Neden ona böyle yakınlaşıyor, özel dairesine gidiyor?!"
+
+
+translate turkish episode007_b2e86cff:
+
+
+    na "Belki de başka seçeneği olmadığını düşünmüştür?"
+
+
+translate turkish episode007_fabe4767:
+
+
+    c "Belki de..."
+
+
+translate turkish episode007_17dab516:
+
+
+    "Kit ve Jade bize doğru geldi."
+
+
+translate turkish episode007_894f9068:
+
+
+    ki "Bu parti biraz çığırından çıkıyor."
+
+
+translate turkish episode007_5a3ed7b0:
+
+
+    j "Bence doğru terim 'seks partisi' olur."
+
+
+translate turkish episode007_c55d1dfd:
+
+
+    ki "Thyia ve Aven hala diğer katta."
+
+
+translate turkish episode007_2a69f576:
+
+
+    ki "Ama şu an durum umutsuz görünüyor."
+
+
+translate turkish episode007_e5c8b8b0:
+
+
+    c "Lilly az önce Cetruvar'la yukarı çıktı."
+
+
+translate turkish episode007_cf48fee1:
+
+
+    ki "Neden böyle bir şey yaptı ki?"
+
+
+translate turkish episode007_8966baa1:
+
+
+    c "Hiçbir fikrim yok."
+
+
+translate turkish episode007_8ba9bb12:
+
+
+    c "Siktir.{w} Gerçekten bir dikkat dağıtmaya ihtiyacımız var."
+
+
+translate turkish episode007_58cfcb17:
+
+
+    "Birisi anında dualarıma cevap verdi."
+
+
+translate turkish episode007_b11b62df:
+
+
+    "Cam kırıldı ve insanlar korkuyla bağırmaya başladı."
+
+
+translate turkish episode007_8987c6e0:
+
+
+    ki "Dikkat dağıtma dedin?"
+
+
+translate turkish episode007_2badd2bb:
+
+
+    c "Çabuk."
+
+
+translate turkish episode007_a1546fa9:
+
+
+    c "Jade, Nadya, gidin Aven ve Thyia'yı bulun."
+
+
+translate turkish episode007_7771da9c:
+
+
+    c "Kit ve ben asansörle yukarı çıkacağız."
+
+
+translate turkish episode007_07b17f84:
+
+
+    ki "Bu bacak kılıfı bütün gece rahatsız etti, ama silah getirdiğimize sevindim."
+
+
+translate turkish episode007_9a8e0905:
+
+
+    c "Umarım kullanmak zorunda kalmayız."
+
+
+translate turkish episode007_dfa6ab06:
+
+
+    "Üst katta panik yayılmaya başlarken asansöre doğru koştuk."
+
+
+translate turkish episode007_f441da08:
+
+
+    "Telaşlı bağrışlara şimdi aralıklı silah sesleri de karışıyordu ve sanki bir saldırı oluyormuş gibiydi."
+
+
+translate turkish episode007_fe6aa36c:
+
+
+    "Üst katı geçip özel asansöre doğru ilerledik."
+
+
+translate turkish episode007_26f0ca4b:
+
+
+    "Asansörün kontrollerini, sayısal tuş takımını görünce kalbim neredeyse duracaktı."
+
+
+translate turkish episode007_431033e3:
+
+
+    "Ancak kapılar herhangi bir özel şifre olmadan açıldı."
+
+
+translate turkish episode007_9385ffda:
+
+
+    "Bizi Cetruvar'ın özel katına götürecek düğmeye bastım."
+
+
+translate turkish episode007_4f954938:
+
+
+    "Asansör yukarı fırladı ve sakin bir 'ding' sesiyle istediğimiz kata vardığımızı bildirdi."
+
+
+translate turkish episode007_892ead63:
+
+
+    "Kapılar kayarak açıldığında, camla kaplı bir kat gördük, rüzgar kırık iki pencereden uğuldayarak esiyordu."
+
+
+translate turkish episode007_21c9a065:
+
+
+    "Lilly odanın uzak köşesinde saklanmaya çalışıyordu."
+
+
+translate turkish episode007_f1e5bfe3:
+
+
+    "Cetruvar'ın korumaları devre dışı kalmıştı, biri duvara yaslanmış yatıyordu, duvardaki kırmızı leke vücudunun çarptığı yeri gösteriyordu."
+
+
+translate turkish episode007_7958c6a3:
+
+
+    "Diğeri patronunun yanına düşmüştü, patron yerde büzülmüş, başına susturuculu bir silah doğrultulmuştu."
+
+
+translate turkish episode007_68c15ab5:
+
+
+    "Silahı, avlarının üzerine atlamak üzere olan kıvrılmış yılanları andıran mor giysili iki kadından biri tutuyordu."
+
+
+translate turkish episode007_842bfd28:
+
+
+    "Silahların yanı sıra, her iki kadın da muhtemelen korumaları öldürmüş olan eğri kılıçlar taşıyordu."
+
+
+translate turkish episode007_b2bea2c8:
+
+
+    "Rüzgarın sesi o kadar yüksekti ki, kılıçlı kadınlar muhtemelen asansörün geldiğini duymamıştı."
+
+
+translate turkish episode007_41fab87e:
+
+
+    "Kit'e başımla işaret verdim ve silahlarımızı çekip ileri atıldık."
+
+
+translate turkish episode007_36ab8d45:
+
+
+    "Ayakkabılarımızın altında ezilen camların sesi kadınlardan birinin hafifçe dönmesine neden oldu."
+
+
+translate turkish episode007_ed56964d:
+
+
+    "Kit yan masadan bir vazo aldı ve mükemmel bir nişanla bir kadına fırlatırken diğerine de birkaç el ateş etti."
+
+
+translate turkish episode007_1100c8ac:
+
+
+    "Vazo kafasının tam arkasına çarptı ve yere yığıldı."
+
+
+translate turkish episode007_d18c2885:
+
+
+    "Ancak nişan alamadı ve diğer saldırganı vurmayı başaramadı."
+
+
+translate turkish episode007_96a1e0bf:
+
+
+    "Dikkati dağılan diğer kadın bana doğru dönmek için çok geç kalmıştı ve o zamana kadar göğsüne birkaç kurşun sıkmıştım bile."
+
+
+translate turkish episode007_c07e5c9c:
+
+
+    "Lilly'nin yanına gidip onu rahatlatma isteği çok büyüktü ama önce Cetruvar için endişelenmem gerekiyordu."
+
+
+translate turkish episode007_347d6c19:
+
+
+    "O kadınlardan gerçekten korktuğunu belli ediyordu, ama karşısında sadece Kit ve ben varken, yerde yatarken bile o kibar haline geri döndü."
+
+
+translate turkish episode007_332839ca:
+
+
+    cet "Siz ikiniz burada ne yapıyorsunuz?"
+
+
+translate turkish episode007_de09697a:
+
+
+    c "Gerçekten, iki kadın tarafından pencerelerinizden içeri girilerek saldırıya uğradıktan sonra sorduğunuz ilk soru bu mu?"
+
+
+translate turkish episode007_2fbdaaf7:
+
+
+    c "Şimdi, eğer sakıncası yoksa, yanınızdaki bayanın iyi olup olmadığını görmek istiyorum."
+
+
+translate turkish episode007_c95a0f13:
+
+
+    c "Kit, baygın kadının bu şekilde kalmasını sağlayabilir misin?"
+
+
+translate turkish episode007_cd3ce9b0:
+
+
+    ki "Hallederim."
+
+
+translate turkish episode007_efd5fd73:
+
+
+    "Ranimo ayağa kalktı ve kıyafetlerini silkeledi, sonrasında olan her şeyi merakla izledi."
+
+
+translate turkish episode007_052f388c:
+
+
+    "Lilly hala titriyordu ve çok korkmuş görünüyordu."
+
+
+translate turkish episode007_65e32b2c:
+
+
+    c "İyi misin?"
+
+
+translate turkish episode007_0d79597b:
+
+
+    l "S-Sanırım iyiyim."
+
+
+translate turkish episode007_87084087:
+
+
+    "Daha fazla şey söylemek istedim ama o lanet Cetruvar odadayken cesaret edemedim."
+
+
+translate turkish episode007_9cc787d5:
+
+
+    "Nazik ev sahibimiz, Kit'in bir yerden bulduğu şüphesiz pahalı perdeyi kadının kollarını ve bacaklarını bağlamak için yırtmasını dehşetle izledi."
+
+
+translate turkish episode007_9c338760:
+
+
+    "Kadın bağlandıktan sonra, Cetruvar bize beklentiyle baktı."
+
+
+translate turkish episode007_0ea71f67:
+
+
+    cet "Soruma cevap vermediniz."
+
+
+translate turkish episode007_332839ca_1:
+
+
+    cet "Siz ikiniz burada ne yapıyorsunuz?"
+
+
+translate turkish episode007_470eb47a:
+
+
+    c "Kargaşayı duyduk ve kontrol etmeye karar verdik, kimsenin tehlikede olmadığından emin olmak istedik."
+
+
+translate turkish episode007_133b5863:
+
+
+    c "Özellikle bu akşam eğlendirdiğiniz kız kardeşim."
+
+
+translate turkish episode007_9ae0285f:
+
+
+    c "Özellikle bu akşam eğlendirdiğiniz en yakın arkadaşım."
+
+
+translate turkish episode007_21a1bf16:
+
+
+    cet "Ne kadar da ferahlatıcı bir dürüstlük, Bay Valenmann de Lonval."
+
+
+translate turkish episode007_470eb47a_1:
+
+
+    c "Kargaşayı duyduk ve kontrol etmeye karar verdik, kimsenin tehlikede olmadığından emin olmak istedik."
+
+
+translate turkish episode007_dbe203b4:
+
+
+    c "Sanırım burası yasak bölge olmalı?"
+
+
+translate turkish episode007_2309ccb8:
+
+
+    c "Burada sadece bir hanımı ağırlıyor gibisiniz."
+
+
+translate turkish episode007_0ec0a532:
+
+
+    cet "Ah, numarayı bırakalım, Bay Valenmann de Lonval."
+
+
+translate turkish episode007_3beb6e74:
+
+
+    cet "Evet, kim olduğunuzu biliyorum."
+
+
+translate turkish episode007_1e331007:
+
+
+    cet "Buradaki güzel kızıl saçlının kız kardeşin olduğunu biliyorum."
+
+
+translate turkish episode007_8c9ef9fb:
+
+
+    cet "Buradaki güzel kızıl saçlının arkadaşın olduğunu biliyorum."
+
+
+translate turkish episode007_97da9159:
+
+
+    cet "Ve paha biçilemez bir vazoyla rakiplerimden birini ustaca etkisiz hale getiren yardımcın da Kit Szuzume'den başkası değil."
+
+
+translate turkish episode007_42c30443:
+
+
+    cet "Umarım mürettebatının geri kalanı şu ana kadar geceden keyif almıştır."
+
+
+translate turkish episode007_fc8504a0:
+
+
+    cet "Aralarında bazı tanımadığım yüzler vardı, ama sanırım yakında kim olduklarını öğreneceğim."
+
+
+translate turkish episode007_0a5c4408:
+
+
+    cet "Lütfen oturun."
+
+
+translate turkish episode007_a6f5a03a:
+
+
+    c "Ayakta kalmayı tercih ederim, çok teşekkürler."
+
+
+translate turkish episode007_0587ed26:
+
+
+    "O anda asansör kapıları tekrar açıldı ve iki yeni koruma odaya girdi."
+
+
+translate turkish episode007_234a0116:
+
+
+    man "Her şey yolunda mı, patron?"
+
+
+translate turkish episode007_2b293bd0:
+
+
+    cet "Evet."
+
+
+translate turkish episode007_8e356be3:
+
+
+    cet "Bağlı kadının bir hücreye götürülmesini sağlayın."
+
+
+translate turkish episode007_3f012d4b:
+
+
+    cet "Ve Bay Valenmann de Lonval, korkarım gerçekten soru sormuyordum."
+
+
+translate turkish episode007_8b552d51:
+
+
+    cet "Silahlarınızı bırakın ve oturun."
+
+
+translate turkish episode007_83bc3d07:
+
+
+    "Şu anda karşı taraf üstün durumdaydı, o piçin dediğini yapmanın daha iyi olacağına karar verdim."
+
+
+translate turkish episode007_924198d5:
+
+
+    "Oturduğumuzda, korumalardan biri baygın kadını alıp götürdü."
+
+
+translate turkish episode007_de70eda2:
+
+
+    cet "İtiraf etmeliyim ki gösterişli girişinizden oldukça keyif aldım."
+
+
+translate turkish episode007_84f04308:
+
+
+    cet "Gerçi eski davetiyelerle buraya girmeye çalışmak büyük bir riskti, bunu biliyor olmalıydınız."
+
+
+translate turkish episode007_9aa7a3a2:
+
+
+    c "Biliyordum."
+
+
+translate turkish episode007_15b1bed4:
+
+
+    cet "Ama yine de yaptınız."
+
+
+translate turkish episode007_62d5646f:
+
+
+    cet "O kayalığa bile tırmandınız, etkilendim."
+
+
+translate turkish episode007_f49ef5ad:
+
+
+    cet "Ve bunu başarmanız beni biraz sinirlendirdi."
+
+
+translate turkish episode007_ac01e703:
+
+
+    cet "Güvenlik sistemindeki bu açığı gösterdiğiniz için teşekkür etmeliyim, hala nasıl kapatacağımdan emin değilim."
+
+
+translate turkish episode007_089cc6c6:
+
+
+    c "Rica ederim..."
+
+
+translate turkish episode007_27b0506d:
+
+
+    cet "Ama görünüşe göre az önce hayatımı kurtardınız ve bunun için gerçekten minnettarım."
+
+
+translate turkish episode007_6163fb4a:
+
+
+    cet "Hepinize içki ikram ederdim ama görünüşe göre davetsiz misafirler içki koleksiyonumu mahvetti."
+
+
+translate turkish episode007_a45dda0c:
+
+
+    cet "Demek, Bay Valenmann de Lonval, kaybolan kız kardeşiniz için buradasınız, öyle mi?"
+
+
+translate turkish episode007_44cda932:
+
+
+    cet "Demek, Bay Valenmann de Lonval, kaybolan arkadaşınız için buradasınız, öyle mi?"
+
+
+translate turkish episode007_df83e67b:
+
+
+    c "Çok şey biliyor gibi görünüyorsun."
+
+
+translate turkish episode007_9d0f1b41:
+
+
+    cet "Bu uzun zamandır benim işim."
+
+
+translate turkish episode007_5719ffa3:
+
+
+    cet "Kız kardeşinizi kaçıranların ana gezegeninin yerini istiyorsunuz."
+
+
+translate turkish episode007_b62e09a1:
+
+
+    cet "Arkadaşınızı kaçıranların ana gezegeninin yerini istiyorsunuz."
+
+
+translate turkish episode007_9d9fb6df:
+
+
     c "Evet."
 
-# game/episode007.rpy:1829
-translate turkish ep007_vess_d667c0d0:
 
-    # ve "I panicked."
-    ve "Panikledim."
+translate turkish episode007_b6e8c43e:
 
-# game/episode007.rpy:1830
-translate turkish ep007_vess_85504fd7:
 
-    # c "But why?"
-    c "Ama neden?"
+    cet "Onun hakkında bir şey bildiğimi nereden çıkardınız?"
 
-# game/episode007.rpy:1832
-translate turkish ep007_vess_69694c67:
 
-    # ve "Well, I mean, you barely know me, I barely know you."
-    ve "Demek istediğim, beni zar zor tanıyorsun, seni zar zor tanıyorum."
+translate turkish episode007_d6e7b2c0:
 
-# game/episode007.rpy:1834
-translate turkish ep007_vess_70331540:
 
-    # ve "Through sheer coincidence we’ve come to live on a ship together, out on a mission to save your sister."
-    ve "Tesadüfen, kız kardeşinizi kurtarma görevinde birlikte bir gemide yaşamaya geldik."
+    c "Çünkü bu senin işin."
 
-# game/episode007.rpy:1836
-translate turkish ep007_vess_fa4fa4f7:
 
-    # ve "Through sheer coincidence we’ve come to live on a ship together, out on a mission to save your friend."
-    ve "Tesadüfle birlikte bir gemide, arkadaşınızı kurtarmak için bir göreve geldik."
+translate turkish episode007_d99c2b0c:
 
-# game/episode007.rpy:1837
-translate turkish ep007_vess_ce324da5:
 
-    # ve "The enormity of it all just came flooding in, so I panicked."
-    ve "Hepsinin büyüklüğü içeri girdi, bu yüzden panikledim."
+    cet "Haklısın."
 
-# game/episode007.rpy:1839
-translate turkish ep007_vess_9edc5481:
 
-    # ve "Am I making any sense?"
-    ve "Bir anlam ifade ediyor muyum?"
+translate turkish episode007_1d8794c3:
 
-# game/episode007.rpy:1840
-translate turkish ep007_vess_27e906d1:
 
-    # c "A little."
-    c "Bir miktar."
+    cet "Ve kız kardeşinizin nerede olduğu hakkında gerçekten bir şeyler biliyorum."
 
-# game/episode007.rpy:1841
-translate turkish ep007_vess_c0d6e785:
 
-    # c "I’d really like to know you a little better though."
-    c "Yine de seni biraz daha iyi tanımak isterim."
+translate turkish episode007_a9da5fcb:
 
-# game/episode007.rpy:1843
-translate turkish ep007_vess_02861675:
 
-    # ve "I do too."
-    ve "Ben de yaptım."
+    cet "Ve arkadaşınızın nerede olduğu hakkında gerçekten bir şeyler biliyorum."
 
-# game/episode007.rpy:1844
-translate turkish ep007_vess_42a242cb:
 
-    # "I poured us another drink and noticed Vess studying me."
-    "Bize başka bir içki döktüm ve beni incelerken vese fark ettim."
+translate turkish episode007_4fd576f8:
 
-# game/episode007.rpy:1846
-translate turkish ep007_vess_6910d403:
 
-    # ve "So, who are you, [p_name]?"
-    ve "Yani sen kimsin, [p_name]?"
+    cet "Aslında, bu bilgiyi size satmayı planlıyordum."
 
-# game/episode007.rpy:1847
-translate turkish ep007_vess_93e160cd:
 
-    # c "Just another pampered rich kid who deserted the navy and became a cargo runner."
-    c "Donanmayı terk eden ve kargo koşucusu olan başka bir şımarık zengin çocuk."
+translate turkish episode007_29a673b0:
 
-# game/episode007.rpy:1849
-translate turkish ep007_vess_0f61a12b:
 
-    # ve "Surely it’s not as simple as that?"
-    ve "Elbette bu kadar basit değil mi?"
+    c "Ne kadar da cömertsiniz."
 
-# game/episode007.rpy:1850
-translate turkish ep007_vess_b5a20318:
 
-    # c "I’m sure it isn’t."
-    c "Eminim değil."
+translate turkish episode007_425bc81b:
 
-# game/episode007.rpy:1851
-translate turkish ep007_vess_be639e4a:
 
-    # c "Though I guess I was pampered and rich at some point."
-    c "Sanırım bir noktada şımartılmış ve zengin oldum."
+    cet "Misafirler gider gitmez ve en kötü dağınıklık temizlendiğinde, size tüm detayları vereceğim."
 
-# game/episode007.rpy:1852
-translate turkish ep007_vess_29804053:
 
-    # c "But what about you, what would you say defines you, Vess?"
-    c "Ama peki ya sen, seni tanımlar, vess?"
+translate turkish episode007_2753af74:
 
-# game/episode007.rpy:1854
-translate turkish ep007_vess_94fddbd8:
 
-    # ve "Loneliness?"
-    ve "Yalnızlık?"
+    cet "Bunu hayatımı kurtarmanın karşılığı olarak düşünün."
 
-# game/episode007.rpy:1856
-translate turkish ep007_vess_ca03c962:
 
-    # ve "Sorry, that sounded awfully gloomy."
-    ve "Üzgünüm, bu çok kasvetli geliyordu."
+translate turkish episode007_25cab9cb:
 
-# game/episode007.rpy:1857
-translate turkish ep007_vess_3d4b5e08:
 
-    # c "Did you feel alone on Lanan?"
-    c "Lanan'da yalnız hissettin mi?"
+    cet "Siz ve mürettebatınız malikanenin misafir bölümünde kalacaksınız."
 
-# game/episode007.rpy:1859
-translate turkish ep007_vess_82352075:
 
-    # ve "I guess I did."
-    ve "Sanırım yaptım."
+translate turkish episode007_55c122f1:
 
-# game/episode007.rpy:1861
-translate turkish ep007_vess_d7368f75:
 
-    # ve "I haven’t had that feeling since I started travelling with the crew on the Iron Bastard."
-    ve "Demir piçinde mürettebatla seyahat etmeye başladığımdan beri bu hissi yaşamadım."
+    "Bu davetin de tıpkı önceki oturma isteği gibi zorunlu olmadığını hissederek, Cetruvar'ın teklifini kabul ettim."
 
-# game/episode007.rpy:1862
-translate turkish ep007_vess_bb452e0e:
 
-    # c "I’m glad you found some warmth."
-    c "Biraz sıcaklık bulduğunuza sevindim."
+translate turkish episode007_364aab1b:
 
-# game/episode007.rpy:1864
-translate turkish ep007_vess_548b60fe:
 
-    # c "But I reckon you're eager to find your family as well?"
-    c "Ama sanırım ailenizi de bulmaya hevesli misin?"
+    c "Elbette, onur duyarız."
 
-# game/episode007.rpy:1866
-translate turkish ep007_vess_5e0f00f9:
 
-    # ve "My family...{w} Yes...{w} Of course."
-    ve "Ailem...{w} Evet...{w} Elbette."
+translate turkish episode007_baa692a5:
 
-# game/episode007.rpy:1867
-translate turkish ep007_vess_9e22c3ee:
 
-    # c "I know it’s a topic you’d rather not want to talk about, but you must be a little excited we’re closer to finding our loved ones?"
-    c "Bunun hakkında konuşmak istemeyeceğiniz bir konu olduğunu biliyorum, ama sevdiklerimizi bulmaya daha yakın olduğumuz için biraz heyecanlı olmalısınız?"
+    cet "Mükemmel, kalışınız için her şeyin hazırlanması için emir vereceğim."
 
-# game/episode007.rpy:1869
-translate turkish ep007_vess_6393305d:
 
-    # ve "Of course I am."
-    ve "Tabiki de öyleyim."
+translate turkish episode007_dd20ffbf:
 
-# game/episode007.rpy:1870
-translate turkish ep007_vess_2297020d:
 
-    # c "I feel a ‘but’ lingering there somewhere."
-    c "Orada bir yerde kalıyor."
+    c "Teşekkürler."
 
-# game/episode007.rpy:1872
-translate turkish ep007_vess_bb386636:
 
-    # ve "It’s just that I’m no longer certain I want to go back to that life."
-    ve "Sadece o hayata geri dönmek istediğimden emin değilim."
+translate turkish episode007_9c6f53ab:
 
-# game/episode007.rpy:1873
-translate turkish ep007_vess_6a3cefbf:
 
-    # ve "Living with them, I mean."
-    ve "Onlarla yaşamak, yani."
+    c "Bu arada, harika bir partiydi..."
 
-# game/episode007.rpy:1874
-translate turkish ep007_vess_24366554:
 
-    # c "I understand."
-    c "Anladım."
+translate turkish episode007_c8e5153f:
 
-# game/episode007.rpy:1876
-translate turkish ep007_vess_da7e7697:
 
-    # c "I take it you lived with relatives on Lanan?"
-    c "Lanan'daki akrabalarıyla mı yaşadığını mı?"
+    "Cetruvar sadece sırıttı, ama gözlerinde kesinlikle hiç mizah olmadığını görebiliyordum."
 
-# game/episode007.rpy:1878
-translate turkish ep007_vess_9278b3ae:
 
-    # ve "After grandfather died, a distant aunt and uncle took me in."
-    ve "Büyükbaba öldükten sonra uzak bir teyze ve amca beni içeri aldı."
+translate turkish episode007_c2a328f5:
 
-# game/episode007.rpy:1880
-translate turkish ep007_vess_2187dabe:
 
-    # c "You didn’t live with your parents on Lanan, did you?"
-    c "Ailenle Lanan'da yaşamadın, değil mi?"
+    "Güvenlik ekibi her şeyin yolunda olduğunu söyleyene kadar Cetruvar'ın özel dairesinde kaldık."
 
-# game/episode007.rpy:1882
-translate turkish ep007_vess_593da3d5:
 
-    # ve "No, I didn’t."
-    ve "Hayır, yapmadım."
+translate turkish episode007_6cf962c1:
 
-# game/episode007.rpy:1883
-translate turkish ep007_vess_752039f2:
 
-    # ve "I never knew my parents."
-    ve "Ailemi hiç tanımadım."
+    "Diğer tüm misafirler tesisten ayrılmıştı ve Bastard'ın mürettebatı son gelişmelerden haberdar edildi."
 
-# game/episode007.rpy:1884
-translate turkish ep007_vess_8647537c:
 
-    # ve "A distant aunt and uncle took me in."
-    ve "Uzak bir teyze ve amca beni içeri aldı."
+translate turkish episode007_37261bff:
 
-# game/episode007.rpy:1886
-translate turkish ep007_vess_373ccd53:
 
-    # ve "They cared for me, were good to me, make no mistake, but I never felt a deep connection."
-    ve "Bana önem verdiler, bana iyi geldiler, hata yapmama, ama hiç derin bir bağlantı hissetmedim."
+    "Ranimo Cetruvar'ın çatısı altında geceyi geçirme düşüncesi neredeyse herkesi endişeyle doldurdu."
 
-# game/episode007.rpy:1888
-translate turkish ep007_vess_3726349a:
 
-    # ve "Does that make sense?"
-    ve "bu mantıklı mı?"
+translate turkish episode007_8d8d550f:
 
-# game/episode007.rpy:1889
-translate turkish ep007_vess_3275e9ef:
 
-    # c "I think so."
-    c "Bence de."
+    "Tahminimce çoğumuz her şeye hazır, tetikte uyuyacaktık."
 
-# game/episode007.rpy:1891
-translate turkish ep007_vess_bd63a039:
 
-    # ve "So I still really want to find them, but I’ve decided I don’t want to go back with them."
-    ve "Bu yüzden hala onları bulmak istiyorum, ama onlarla geri dönmek istemediğim karar verdim."
+translate turkish episode007_8fa40ac3:
 
-# game/episode007.rpy:1892
-translate turkish ep007_vess_46bfc7fb:
 
-    # c "You want to throw your lot in with us?"
-    c "Bizim yanımızda çok şey atmak ister misin?"
+    "Bize malikanenin ayrı bir bölümünde, uzun bir koridordan ulaşılan küçük misafir odaları verildi."
 
-# game/episode007.rpy:1894
-translate turkish ep007_vess_0ee5278a:
 
-    # ve "I do, if you’ll have me..."
-    ve "Yaparım, eğer bana sahip olursan ..."
+translate turkish episode007_423ec4e1:
 
-# game/episode007.rpy:1899
-translate turkish ep007_vess_122a88e8:
 
-    # c "You needn’t ask, of course you’re welcome."
-    c "Sormana gerek yok, elbette hoş geldiniz."
+    "Kompleksin bu bölümü aslında yarısı kayalığın içine inşa edilmiş gibiydi."
 
-# game/episode007.rpy:1901
-translate turkish ep007_vess_b22bb46c:
 
-    # ve "I’m really happy to hear that."
-    ve "Bunu duyduğuma gerçekten sevindim."
+translate turkish episode007_dc219897:
 
-# game/episode007.rpy:1902
-translate turkish ep007_vess_2b3fd261:
 
-    # c "Why don’t we have another drink to that?"
-    c "Neden buna başka bir içki içmiyoruz?"
+    "Odama yemek getirildi ama pek aç hissetmiyordum."
 
-# game/episode007.rpy:1903
-translate turkish ep007_vess_fad8957f:
 
-    # ve "I wish I could, but I already feel a little groggy."
-    ve "Keşke yapabilseydim, ama zaten biraz garip hissediyorum."
+translate turkish episode007_cbdef467:
 
-# game/episode007.rpy:1904
-translate turkish ep007_vess_ae5ee46f:
 
-    # ve "I might need some sleep."
-    ve "Biraz uykuya ihtiyacım olabilir."
+    "Ayrıca, Cetruvar yemeğe uyuşturucu karıştırılmasını emretmiş olabilirdi ve ConVitæ'nin özel misafirperverliğini zorla tattığımız zamanlarda bundan yeterince çekmiştim."
 
-# game/episode007.rpy:1905
-translate turkish ep007_vess_92366787:
 
-    # c "Right, of course."
-    c "Doğru, elbette."
+translate turkish episode007_79c0338f:
 
-# game/episode007.rpy:1907
-translate turkish ep007_vess_cb334d43:
 
-    # ve "[p_name]?"
-    ve "[p_name]?"
+    "Kimse yasaklamadığı için diğerlerini kontrol etmeye karar verdim."
 
-# game/episode007.rpy:1908
-translate turkish ep007_vess_72e38782:
 
-    # ve "Would you please stay?"
-    ve "Lütfen kalır mısın?"
+translate turkish ep007_conversations_8ea51570:
 
-# game/episode007.rpy:1909
-translate turkish ep007_vess_b1e5e523:
 
-    # ve "I just don’t want to fall asleep alone tonight."
-    ve "Sadece bu gece yalnız uykuya dalmak istemiyorum."
+    "Bu durumdan nasıl kurtulacağımızı düşünmek için odama dönmeye karar verdim."
 
-# game/episode007.rpy:1913
-translate turkish ep007_vess_6b385b7e:
 
-    # c "I’d be happy to."
-    c "Mutlu olurum."
+translate turkish ep007_conversations_eb21fa4f:
 
-# game/episode007.rpy:1915
-translate turkish ep007_vess_7c73f150:
 
-    # ve "In that case I’ll fetch us that one last drink."
-    ve "Bu durumda bize son bir içeceği getireceğim."
+    "Cetruvar muhtemelen bizi en yüksek teklifi verene teslim edecekti."
 
-# game/episode007.rpy:1917
-translate turkish ep007_vess_e6b03c20:
 
-    # "As Vess busied herself with our drinks, I wondered what her invitation meant exactly."
-    "Vess içeceklerimizle kendini meşgul ederken, davetinin tam olarak ne anlama geldiğini merak ettim."
+translate turkish ep007_conversations_ff9307e1:
 
-# game/episode007.rpy:1918
-translate turkish ep007_vess_8d4e5273:
 
-    # "She handed me a glass and sat on the bed next to me."
-    "Bana bir bardak verdi ve yanımda yatağa oturdu."
+    "Onun cömertçe bilgi paylaşma teklifi muhtemelen bir oyalama taktiğiydi."
 
-# game/episode007.rpy:1920
-translate turkish ep007_vess_776302ea:
 
-    # "We enjoyed the strong alcohol in silence, watching out over the night-touched ocean below."
-    "Biz aşağıda gece dokunaklı okyanus izlemek, sessiz alkol sessiz alkol zevk."
+translate turkish ep007_conversations_956205a5:
 
-# game/episode007.rpy:1922
-translate turkish ep007_vess_f3b1b1a5:
 
-    # "Vess smiled at me faintly and set down her half-finished drink."
-    "Vess bana hafifçe gülümsedi ve yarı bitmiş içkisini bıraktı."
+    "Gerçekten bir avantaja ihtiyacımız vardı."
 
-# game/episode007.rpy:1923
-translate turkish ep007_vess_5d6af8ed:
 
-    # ve "Too much for me, I’m afraid, I’m going to lie down."
-    ve "Benim için çok fazla, korkarım, uzanacağım."
+translate turkish ep007_conversations_8d91ae29:
 
-# game/episode007.rpy:1924
-translate turkish ep007_vess_edd836f2:
 
-    # "I emptied my glass and slipped out of my tux."
-    "Camımı boşalttım ve smokimden çıktım."
+    "Düşüncelere dalmış bir halde, koridorda Thim'e çarptım."
 
-# game/episode007.rpy:1926
-translate turkish ep007_vess_386d84d9:
 
-    # "Admiring the curves of Vess’ body, I eased myself on the bed."
-    "Vess bedeninin eğrilerine hayran kaldım, kendimi yatakta hafiflettim."
+translate turkish ep007_conversations_e0cb3248:
 
-# game/episode007.rpy:1927
-translate turkish ep007_vess_d6bd2d6d:
 
-    # "Lying on my back I closed my eyes and was about to give myself over to sleep."
-    "Sırtımda yatarken gözlerimi kapattım ve kendimi uyumak üzereydim."
+    c "Tuvaleti mi arıyorsun?"
 
-# game/episode007.rpy:1929
-translate turkish ep007_vess_2b72d6cb:
 
-    # ve "[p_name_short]?"
-    ve "[p_name_short]?"
+translate turkish ep007_conversations_1bd5571c:
 
-# game/episode007.rpy:1930
-translate turkish ep007_vess_c5f9e5a0:
 
-    # ve "Could you hold me, just to help me fall asleep?"
-    ve "Sadece uykuya dalmama yardım etmek için beni tutabilir misin?"
+    t "Yok, hayır."
 
-# game/episode007.rpy:1932
-translate turkish ep007_vess_6c0a7816:
 
-    # "My heart jumped and wordlessly I took her in my arms, her body cuddling mine."
-    "Kalbim atladı ve kelimesizce onu kollarıma aldım, vücudu benimkini sarıyor."
+translate turkish ep007_conversations_6feaf5da:
 
-# game/episode007.rpy:1934
-translate turkish ep007_vess_dfd2576c:
 
-    # "I didn’t want to ruin the moment by talking and besides, the effects of the liquor were rapidly catching up with me."
-    "Anı konuşarak mahvetmek istemedim ve ayrıca likörün etkileri hızla beni yakalıyordu."
+    t "Bir şey duyduğumu sandım."
 
-# game/episode007.rpy:1936
-translate turkish ep007_vess_49d5b0fa:
 
-    # "It didn’t take long for me to fall into a very deep sleep."
-    "Çok derin bir uykuya dalmam uzun sürmedi."
+translate turkish ep007_conversations_e73ced3e:
 
-# game/episode007.rpy:1937
-translate turkish ep007_vess_593cc76f:
 
-    # "I woke up once, after an alcohol-fuelled nightmare, the details of which I couldn’t recall."
-    "Detayları hatırlayamadığım alkol yakıtlı bir kabustan sonra bir kez uyandım."
+    c "Gözetim altında olduğumuzu ve sürekli devriye gezildiğini biliyorsun, değil mi?"
 
-# game/episode007.rpy:1939
-translate turkish ep007_vess_2857504c:
 
-    # c "Vess?"
-    c "Vess?"
+translate turkish ep007_conversations_2d04c748:
 
-# game/episode007.rpy:1941
-translate turkish ep007_vess_5250f809:
 
-    # "Or maybe I didn’t wake up at all and it was all part of the same fever dream, because the next time I awoke she was right there next to me."
-    "Ya da belki hiç uyanmadım ve hepsi aynı ateş rüyasının bir parçasıydı, çünkü bir dahaki sefere uyandığımda tam yanımda idi."
+    t "Vay, sağol [p_name], bunu gerçekten düşünememiştim."
 
-# game/episode007.rpy:1943
-translate turkish ep007_vess_624dc8c1:
 
-    # "Vess moaned softly."
-    "Vess yumuşak bir şekilde inledi."
+translate turkish ep007_conversations_6d3f0a4a:
 
-# game/episode007.rpy:1944
-translate turkish ep007_vess_9fb1b352:
 
-    # "Her body was pressed against mine, her ass slowly grinding against my crotch."
-    "Vücudu benimkine bastırıldı, kıçımı yavaşça kasıklara taşıyordu."
+    c "Bensiz ne yapardın, değil mi?"
 
-# game/episode007.rpy:1946
-translate turkish ep007_vess_bd94aae0:
 
-    # "I felt my erection brushing against her butt."
-    "Ereksiyonumun poposuna karşı fırçalandığını hissettim."
+translate turkish ep007_conversations_a5ca0766:
 
-# game/episode007.rpy:1947
-translate turkish ep007_vess_a051a6e6:
 
-    # "Was she even awake?"
-    "Hatta uyanık mıydı?"
+    t "Kesinlikle..."
 
-# game/episode007.rpy:1955
-translate turkish ep007_vess_6a3bdb88:
 
-    # "Eventually Vess fell asleep again."
-    "Sonunda vess tekrar uykuya daldı."
+translate turkish ep007_conversations_57d16295:
 
-# game/episode007.rpy:1956
-translate turkish ep007_vess_ecc0d7fe:
 
-    # "Unfortunately I was left with a large erection and nobody but myself to take care of that..."
-    "Ne yazık ki büyük bir ereksiyon kalmıştım ve benden başka kimse bununla ilgilenmem için ..."
+    t "Şimdi izin verirsen, biraz uyumak istiyorum."
 
-# game/episode007.rpy:1957
-translate turkish ep007_vess_0f953818:
 
-    # "The reality of the situation also came crashing down at that moment, ruining any further prospects of having a release."
-    "Durumun gerçeği de o anda çöktü ve serbest bırakma olasılığını mahvediyor."
+translate turkish ep007_conversations_c8c7871a:
 
-# game/episode007.rpy:1958
-translate turkish ep007_vess_6fd509ad:
 
-    # "I still didn’t have a plan to escape Cetruvar’s mansion and the clock was ticking..."
-    "Hala Cetruvar’ın konağından kaçmak için bir planım yoktu ve saat geçiyordu ..."
+    "Thim odasına girdi ve ben de aynısını yapmak üzereyken başka bir kapının açıldığını duydum."
 
-# game/episode007.rpy:1959
-translate turkish ep007_vess_36d9f865:
 
-    # "I decided to go back to my room to wrack my brain and come up with an escape plan."
-    "Beynimi sarmak ve bir kaçış planı bulmak için odama geri dönmeye karar verdim."
+translate turkish ep007_conversations_1b2a663a:
 
-# game/episode007.rpy:1962
-translate turkish ep007_vess_53e08918:
 
-    # "If she wasn’t awake yet, things could get very embarrassing, so I pulled away."
-    "Henüz uyanık olmasaydı, işler çok utanç verici olabilir, bu yüzden çektim."
+    "Odama döndükten kısa bir süre sonra kapı çaldı."
 
-# game/episode007.rpy:1963
-translate turkish ep007_vess_a9458e47:
 
-    # "The sudden motion didn’t seem to startle Vess, who shifted to lie on her stomach."
-    "Ani hareket, karnına uzanmak için değişen vess gibi görünmüyordu."
+translate turkish ep007_conversations_5e30025f:
 
-# game/episode007.rpy:1964
-translate turkish ep007_vess_e42fba1a:
 
-    # "She was probably deep asleep, so I decided to go back to my room before things got out of hand again."
-    "Muhtemelen derin uyuyordu, bu yüzden işler tekrar elden çıkmadan önce odama geri dönmeye karar verdim."
+    "Thyia koridorda beni bekliyordu."
 
-# game/episode007.rpy:1965
-translate turkish ep007_vess_a86451a7:
 
-    # "Besides, I still didn’t have a plan to escape Cetruvar’s mansion."
-    "Ayrıca, Cetruvar’ın konağından kaçma planım yoktu."
+translate turkish ep007_conversations_1784a74f:
 
-# game/episode007.rpy:1967
-translate turkish ep007_vess_a3185665:
 
-    # c "I’m not sure that’s a good idea, Vess."
-    c "Bunun iyi bir fikir olduğundan emin değilim."
+    th "Neden bu kadar uzun sürdü?"
 
-# game/episode007.rpy:1969
-translate turkish ep007_vess_121ababf:
 
-    # ve "Right, you’re right, of course."
-    ve "Doğru, elbette haklısın."
+translate turkish ep007_conversations_f8e35beb:
 
-# game/episode007.rpy:1971
-translate turkish ep007_vess_2a0902d4:
 
-    # ve "Sleep well, [p_name]."
-    ve "İyi uykular, [p_name]."
+    c "Buluşacağımızı bilmiyordum."
 
-# game/episode007.rpy:1972
-translate turkish ep007_vess_beedc328:
 
-    # c "You too, Vess."
-    c "Sen de vess."
+translate turkish ep007_conversations_7772b4a0:
 
-# game/episode007.rpy:1973
-translate turkish ep007_vess_c50a984d:
 
-    # c "And remember, I’m right next door if you need me."
-    c "Ve unutmayın, bana ihtiyacın olursa hemen yanımda."
+    th "Tamam, görüşmemiz gerek."
 
-# game/episode007.rpy:1974
-translate turkish ep007_vess_f1457fa1:
 
-    # ve "Of course, thank you."
-    ve "Tabii ki teşekkür ederim."
+translate turkish ep007_conversations_ce3cdd38:
 
-# game/episode007.rpy:1976
-translate turkish ep007_vess_675ad5cf:
 
-    # c "I’m sure the rest of the crew wouldn’t have a problem with that."
-    c "Eminim mürettebatın geri kalanının bununla ilgili bir sorunu olmazdı."
+    c "Bu muhtemelen odamda konuşamayacağımız bir şey?"
 
-# game/episode007.rpy:1978
-translate turkish ep007_vess_e9307c26:
 
-    # ve "I’m glad to hear that."
-    ve "Bunu duyduğuma sevindim."
+translate turkish ep007_conversations_b95a802b:
 
-# game/episode007.rpy:1979
-translate turkish ep007_vess_d9720ca8:
 
-    # ve "Thank you for the company, [p_name_short], but I’d like to try and catch some sleep now."
-    ve "Şirket için teşekkürler, [p_name_short], ama şimdi biraz uyumaya çalışmak istiyorum."
+    th "Hayır, muhtemelen biri dinliyordur."
 
-# game/episode007.rpy:1980
-translate turkish ep007_vess_cf0f6519:
 
-    # c "Of course, sleep well Vess."
-    c "Tabii ki, iyi uyuyun."
+translate turkish ep007_conversations_0f0fbb19:
 
-# game/episode007.rpy:1981
-translate turkish ep007_vess_5d89cc61:
 
-    # "The girl just smiled and watched me leave the room."
-    "Kız gülümsedi ve odadan ayrılmamı izledi."
+    th "Muhafızların sigara içmeye gittiği bir balkon var."
 
-# game/episode007.rpy:1983
-translate turkish ep007_vess_30647064:
 
-    # c "I’m right next door, so if anything happens just cry out and I’ll be there any second."
-    c "Hemen yanalayım, eğer bir şey olursa sadece ağlayın ve orada olacağım."
+translate turkish ep007_conversations_bede0668:
 
-# game/episode007.rpy:1985
-translate turkish ep007_vess_b62c291a:
 
-    # ve "Thank you, [p_name]."
-    ve "Teşekkür ederim, [p_name]."
+    c "O zaman sigara içmeye gidelim."
 
-# game/episode007.rpy:1986
-translate turkish ep007_vess_7ae87016:
 
-    # c "Sleep well Vess."
-    c "İyi uyuyun."
+translate turkish ep007_conversations_76768905:
 
-# game/episode007.rpy:1987
-translate turkish ep007_vess_d349c01f:
 
-    # ve "You too, [p_name_short]."
-    ve "Sen de, [p_name_short]."
+    "Balkon misafir bölümünün en ucundaydı ve Almagest'in tamamını kaplıyor gibi görünen geniş okyanusa bakıyordu."
 
-# game/episode007.rpy:1989
-translate turkish ep007_vess_b4b02f84:
 
-    # c "Never mind, I must be imagining things."
-    c "Boş ver, bir şeyler hayal ediyor olmalıyım."
+translate turkish ep007_conversations_59fabd12:
 
-# game/episode007.rpy:1990
-translate turkish ep007_vess_7ae87016_1:
 
-    # c "Sleep well Vess."
-    c "İyi uyuyun."
+    c "Ee, bana ne söylemek istiyordun?"
 
-# game/episode007.rpy:1992
-translate turkish ep007_vess_6f627325:
 
-    # ve "Good night, [p_name]."
-    ve "İyi geceler, [p_name]."
+translate turkish ep007_conversations_39c86d74:
 
-# game/episode007.rpy:1997
-translate turkish ep007_thyia_2fe9005a:
 
-    # "I caught up with Thyia as she was heading towards the engine room."
-    "Motor odasına doğru ilerlerken Thyia'yı yakaladım."
+    th "Cetruvar bizi satacak."
 
-# game/episode007.rpy:1998
-translate turkish ep007_thyia_7f0b6519:
 
-    # c "Hey Thyia, wait up."
-    c "Hey Thyia, bekle."
+translate turkish ep007_conversations_a24efc14:
 
-# game/episode007.rpy:2000
-translate turkish ep007_thyia_5c508a19:
 
-    # "She turned her head to look at me, but didn’t slow down, so I jogged towards her."
-    "Bana bakmak için başını çevirdi, ama yavaşlamadı, bu yüzden ona doğru koştum."
+    c "Evet, muhtemelen."
 
-# game/episode007.rpy:2001
-translate turkish ep007_thyia_7bb1d557:
 
-    # c "I was wondering if we could talk."
-    c "Konuşup konuşamayacağımızı merak ediyordum."
+translate turkish ep007_conversations_a027bcdc:
 
-# game/episode007.rpy:2003
-translate turkish ep007_thyia_f75b53d9:
 
-    # th "About?"
-    th "Hakkında?"
+    c "Sanırım en çok kimin ödeyeceğini düşünüyor."
 
-# game/episode007.rpy:2004
-translate turkish ep007_thyia_8904d74f:
 
-    # c "About what happened on Almagest."
-    c "Almagest'te ne olduğu hakkında."
+translate turkish ep007_conversations_2c0570c9:
 
-# game/episode007.rpy:2006
-translate turkish ep007_thyia_bc7d7c14:
 
-    # th "Our plan worked.{w} We’ve got your sister’s location and now we’re on our way.{w} Hurray."
-    th "Planımız işe yaradı.{w} Kız kardeşinizin konumu var ve şimdi yoldayız.{w} Yaşasın."
+    c "Yani, mali getirilerini en üst düzeye çıkarmak için seçeneklerini değerlendiriyor."
 
-# game/episode007.rpy:2008
-translate turkish ep007_thyia_ea39e297:
 
-    # th "Our plan worked.{w} We’ve got your friend's location and now we’re on our way.{w} Hurray."
-    th "Planımız işe yaradı.{w} Arkadaşınızın konumu var ve şimdi yoldayız.{w} Yaşasın."
+translate turkish ep007_conversations_d1921103:
 
-# game/episode007.rpy:2009
-translate turkish ep007_thyia_5b348017:
 
-    # c "You know what I’m talking about."
-    c "Ne hakkında konuştuğumu biliyorsun."
+    th "Doğru."
 
-# game/episode007.rpy:2011
-translate turkish ep007_thyia_8e8f2821:
 
-    # "We’d reached the engine room and after pushing open the door, Thyia just kept on walking."
-    "Motor odasına ulaştık ve kapıyı açtıktan sonra Thyia yürümeye devam etti."
+translate turkish ep007_conversations_e01a9f25:
 
-# game/episode007.rpy:2012
-translate turkish ep007_thyia_22731138:
 
-    # th "What’s there to talk about?"
-    th "Konuşacak ne var?"
+    th "Buradan çıkmak için bir planın var mı?"
 
-# game/episode007.rpy:2013
-translate turkish ep007_thyia_75b82456:
 
-    # c "We kissed."
-    c "Öpüştük."
+translate turkish ep007_conversations_1276af08:
 
-# game/episode007.rpy:2015
-translate turkish ep007_thyia_2051358b:
 
-    # th "So?"
-    th "Böyle?"
+    c "Aven'le konuşuyordum ve seninle de bu konuda konuşmayı planlıyordum."
 
-# game/episode007.rpy:2018
-translate turkish ep007_thyia_6d732b33:
 
-    # th "I already told you that was a one-time deal."
-    th "Bunun bir kerelik bir anlaşma olduğunu zaten söyledim."
+translate turkish ep007_conversations_afaa3f88:
 
-# game/episode007.rpy:2020
-translate turkish ep007_thyia_e706d122:
 
-    # th "We also had sex in my workshop."
-    th "Atölyemde de seks yaptık."
+    c "Sorun şu ki, çok fazla muhafız ve çok fazla gözetim var."
 
-# game/episode007.rpy:2022
-translate turkish ep007_thyia_affcc0e4:
 
-    # th "That was a one-time deal, as far as I’m concerned."
-    th "Bu, endişelendiğim kadarıyla bir kerelik bir anlaşma oldu."
+translate turkish ep007_conversations_18027fc6:
 
-# game/episode007.rpy:2024
-translate turkish ep007_thyia_83f53cc5:
 
-    # th "A kiss to distract a guard and it worked."
-    th "Bir koruyucuyu dağıtmak için bir öpücük ve işe yaradı."
+    c "Ve Eva'nın nerede olduğunu bilmeden buradan ayrılmak istemiyorum."
 
-# game/episode007.rpy:2025
-translate turkish ep007_thyia_68bd73ec:
 
-    # c "That kiss sure sent a different message."
-    c "O öpücük kesinlikle farklı bir mesaj gönderdi."
+translate turkish ep007_conversations_d142acb6:
 
-# game/episode007.rpy:2027
-translate turkish ep007_thyia_9d5481f4:
 
-    # c "Especially the second time with no guard in sight..."
-    c "Özellikle ikinci kez görünürde nöbet tutmadan ..."
+    c "Cetruvar bir şeyler bildiğini itiraf etti."
 
-# game/episode007.rpy:2029
-translate turkish ep007_thyia_b8bdb705:
 
-    # c "Wait, why are you undressing yourself?"
-    c "Bekle, neden kendini soyuyorsun?"
+translate turkish ep007_conversations_700f5f32:
 
-# game/episode007.rpy:2030
-translate turkish ep007_thyia_c3f1e33f:
 
-    # th "Because I want to go to sleep."
-    th "Çünkü uyumak istiyorum."
+    c "Eğer mor giyinmiş o kadınların peşinde olduğu şeyi de öğrenebilirsek..."
 
-# game/episode007.rpy:2031
-translate turkish ep007_thyia_7214cfe2:
 
-    # c "Oh..."
-    c "Ey..."
+translate turkish ep007_conversations_c5f595b8:
 
-# game/episode007.rpy:2034
-translate turkish ep007_thyia_72aeab20:
 
-    # c "Come on Thyia, I know this is just an act to shut me out."
-    c "Hadi Thyia, bunun beni kapatmak için sadece bir eylem olduğunu biliyorum."
+    th "Kayıplarını kesmekte gerçekten kötüsün, değil mi?"
 
-# game/episode007.rpy:2036
-translate turkish ep007_thyia_cea52b06:
 
-    # th "What the fuck are you on about?!"
-    th "Ne hakkında?!"
+translate turkish ep007_conversations_91b9e0dc:
 
-# game/episode007.rpy:2037
-translate turkish ep007_thyia_520f6064:
 
-    # c "Admit it, you’re doing this just to make me feel uncomfortable."
-    c "İtiraf et, bunu sadece beni rahatsız etmek için yapıyorsun."
+    c "Önümde bir pasta sallıyorsan, onu da sikerim."
 
-# game/episode007.rpy:2039
-translate turkish ep007_thyia_19775a01:
 
-    # c "Trouble is, I’ve already seen you naked, so go on ahead and lose all the clothing."
-    c "Sorun şu ki, seni zaten çıplak gördüm, bu yüzden devam et ve tüm kıyafetleri kaybet."
+translate turkish ep007_conversations_00b9f2bc:
 
-# game/episode007.rpy:2041
-translate turkish ep007_thyia_e3376a17:
 
-    # c "Trouble is, I like naked women, so go on ahead and lose all the clothing."
-    c "Sorun şu ki, çıplak kadınları seviyorum, bu yüzden devam et ve tüm kıyafetleri kaybet."
+    th "Buradan çıkmak için bir fikrim var."
 
-# game/episode007.rpy:2043
-translate turkish ep007_thyia_3522c826:
 
-    # th "..."
-    th "..."
+translate turkish ep007_conversations_903273b0:
 
-# game/episode007.rpy:2044
-translate turkish ep007_thyia_d4c5df8a:
 
-    # c "Fine, don’t say anything."
-    c "Güzel, hiçbir şey söyleme."
+    c "Devam et."
 
-# game/episode007.rpy:2047
-translate turkish ep007_thyia_f7d0409d:
 
-    # c "I’ll just say I was happy you kissed me back in that hallway."
-    c "Sadece o koridorda beni öptüğün için mutlu olduğumu söyleyeceğim."
+translate turkish ep007_conversations_3b67f29b:
 
-# game/episode007.rpy:2049
-translate turkish ep007_thyia_d83617cd:
 
-    # c "I know our little romp on Vulpes was a one-time thing for you."
-    c "Vulpes'teki küçük boğazımızın sizin için bir kerelik bir şey olduğunu biliyorum."
+    th "Şimdiye kadar burada kaldığımız süre boyunca gözlerim açıktı."
 
-# game/episode007.rpy:2051
-translate turkish ep007_thyia_0f167641:
 
-    # c "I know our little romp on Vulpes was just a bit of fooling around for you, because it was for me too at that time."
-    c "Vulpes'teki küçük boğazımızın sizin için biraz kandırmak olduğunu biliyorum, çünkü o zaman benim için de oldu."
+translate turkish ep007_conversations_31016eb4:
 
-# game/episode007.rpy:2054
-translate turkish ep007_thyia_9cf3e27a:
 
-    # c "I’ve really come to appreciate you, Thyia."
-    c "Seni gerçekten takdir etmeye geldim, Thyia."
+    th "Bu malikânenin tamamı ayrı modüllerden inşa edilmiş, her biri bir asansörle bağlı."
 
-# game/episode007.rpy:2056
-translate turkish ep007_thyia_5a8cf958:
 
-    # c "But I’ve really come to appreciate you, Thyia."
-    c "Ama seni gerçekten takdir etmeye geldim, Thyia .."
+translate turkish ep007_conversations_25bcc0e9:
 
-# game/episode007.rpy:2057
-translate turkish ep007_thyia_edd7c16e:
 
-    # c "And deep down I think you feel the same way, otherwise I can’t explain that kiss on Almagest."
-    c "Ve derinlerde bence aynı şekilde hissediyorsun, aksi takdirde Almagest'teki o öpücüğü açıklayamam."
+    th "Her modülün kendi havalandırma sistemi var ve diğer modüllerle bağlantısı yok."
 
-# game/episode007.rpy:2059
-translate turkish ep007_thyia_a29849ee:
 
-    # th "Well fuck."
-    th "Pekala siktir."
+translate turkish ep007_conversations_3866c9de:
 
-# game/episode007.rpy:2062
-translate turkish ep007_thyia_9eec8739:
 
-    # c "You know what? This is going nowhere anyway."
-    c "Biliyor musun? Bu yine de hiçbir yere gitmiyor."
+    th "Bizimki Cetruvar'ın özel dairesinden ayrı, muhafız daireleri de öyle."
 
-# game/episode007.rpy:2063
-translate turkish ep007_thyia_717f7343:
 
-    # c "Good night, Thyia."
-    c "İyi geceler Thyia."
+translate turkish ep007_conversations_2f4f9fdc:
 
-# game/episode007.rpy:2065
-translate turkish ep007_thyia_34f16f09:
 
-    # th "Good night."
-    th "İyi geceler."
+    th "Ayrıca, güvenlik konusunda paranoyak biri için Cetruvar'ın kompleks etrafına dağılmış silah dolaplarındaki kilit prosedürlerini gerçekten kontrol etmesi gerekiyor."
 
-# game/episode007.rpy:2067
-translate turkish ep007_thyia_4c07a863:
 
-    # c "Right, sleep tight, in that case."
-    c "Doğru, sıkı uyu, bu durumda."
+translate turkish ep007_conversations_447a1a92:
 
-# game/episode007.rpy:2069
-translate turkish ep007_thyia_646848ec:
 
-    # th "Yeah, you too..."
-    th "Evet sen de..."
+    c "Sen kendin test ettin bu kilitleri, ha?"
 
-# game/episode007.rpy:2076
-translate turkish ep007_aven_0fc5fb57:
 
-    # "Not long after retiring to my quarters, there was a knock on my door."
-    "Mahallelerime emekli olduktan kısa bir süre sonra kapımı vurdu."
+translate turkish ep007_conversations_f4dc627e:
 
-# game/episode007.rpy:2078
-translate turkish ep007_aven_c212b281:
 
-    # av "I don’t think anybody saw me."
-    av "Kimsenin beni gördüğünü sanmıyorum."
+    th "Kesinlikle öyle yaptım."
 
-# game/episode007.rpy:2079
-translate turkish ep007_aven_54abdce7:
 
-    # c "Have you been sneaking around the ship, Aven?"
-    c "Geminin etrafında gizlice mi giriyorsun, Aven?"
+translate turkish ep007_conversations_788e70d3:
 
-# game/episode007.rpy:2080
-translate turkish ep007_aven_d9199f37:
 
-    # c "Why don’t you sneak over here in that case?"
-    c "Bu durumda neden buraya gizlice girmiyorsun?"
+    th "Şimdi bir set gaz bombası ve birkaç tabancaya sahip gururlu bir sahibim."
 
-# game/episode007.rpy:2082
-translate turkish ep007_aven_22b54613:
 
-    # av "Excellent idea."
-    av "Mükemmel fikir."
+translate turkish ep007_conversations_26c1fcc5:
 
-# game/episode007.rpy:2087
-translate turkish ep007_aven_c1b0819a:
 
-    # "Before she came to my bed, Aven slipped out of her clothing and revealed her gorgeous figure to me."
-    "Yatağıma gelmeden önce Aven kıyafetlerinden çıktı ve bana muhteşem figürünü ortaya çıkardı."
+    c "Bu bomba setinde uyku gazı var mı acaba?"
 
-# game/episode007.rpy:2089
-translate turkish ep007_aven_1561f12b:
 
-    # av "You’re staring."
-    av "Bakıyorsun."
+translate turkish ep007_conversations_b84f4981:
 
-# game/episode007.rpy:2090
-translate turkish ep007_aven_f705f491:
 
-    # av "It makes you look dumb and absolutely cute at the same time."
-    av "Aynı zamanda aptal ve kesinlikle sevimli görünmenizi sağlar."
+    th "Gerçekten var."
 
-# game/episode007.rpy:2091
-translate turkish ep007_aven_7b93bbf6:
 
-    # c "You should be spanked, you know that."
-    c "Spanked olmalısın, bunu biliyorsun."
+translate turkish ep007_conversations_480397dd:
 
-# game/episode007.rpy:2093
-translate turkish ep007_aven_0f489028:
 
-    # av "Well now, aren’t we kinky all of a sudden."
-    av "Şimdi, birdenbire bükülmedik."
+    th "Ben de düşünüyordum ki, bu bombaları muhafız dairelerinin havalandırma kanalına atarız ve gazın işini yapmasını bekleriz."
 
-# game/episode007.rpy:2095
-translate turkish ep007_aven_532ef4be:
 
-    # "Aven laughed and nestled herself against me."
-    "Aven güldü ve bana karşı kendini yuva etti."
+translate turkish ep007_conversations_1d010436:
 
-# game/episode007.rpy:2096
-translate turkish ep007_aven_d3e106c8:
 
-    # av "Are you nervous?"
-    av "Gergin misin?"
+    th "Muhafızlar güzel bir gece uykusunun tadını çıkarırken, biz de buradan sıvışabiliriz."
 
-# game/episode007.rpy:2097
-translate turkish ep007_aven_27e906d1:
 
-    # c "A little."
-    c "Bir miktar."
+translate turkish ep007_conversations_3aab48d0:
 
-# game/episode007.rpy:2099
-translate turkish ep007_aven_b7dc6258:
 
-    # av "A little?{w} I could hear your heart beating from outside the door."
-    av "Bir miktar?{w} Kalbinin kapının dışından attığını duyabiliyordum."
+    c "Hadi yapalım, bugün bunca çalışmadan sonra kesinlikle hak ettiler."
 
-# game/episode007.rpy:2100
-translate turkish ep007_aven_a8dd8b71:
 
-    # c "You’re big on the overstatements all of a sudden, aren’t you?"
-    c "Birdenbire abartılarda büyüksün, değil mi?"
+translate turkish ep007_conversations_5d62377f:
 
-# game/episode007.rpy:2102
-translate turkish ep007_aven_e20877e7:
 
-    # av "Yes...{w} Because I’m scared shitless."
-    av "Evet...{w} Çünkü boktan korkuyorum."
+    c "Gazı havalandırma kanalına vermek için kolay bir yol var mı?"
 
-# game/episode007.rpy:2103
-translate turkish ep007_aven_5dbbffe8:
 
-    # av "Do you...{w} Do you have second thoughts about this?"
-    av "Öyle mi...{w} Bu konuda ikinci düşünceleriniz var mı?"
+translate turkish ep007_conversations_f4bec136:
 
-# game/episode007.rpy:2107
-translate turkish ep007_aven_299d153d:
 
-    # c "I don’t know."
-    c "Bilmiyorum."
+    th "Buradan çok uzak olmayan, muhafız dairelerine bağlanan bir havalandırma buldum."
 
-# game/episode007.rpy:2109
-translate turkish ep007_aven_748689d4:
 
-    # c "I know it’s morally wrong."
-    c "Ahlaki açıdan yanlış olduğunu biliyorum."
+translate turkish ep007_conversations_4faa42f0:
 
-# game/episode007.rpy:2110
-translate turkish ep007_aven_59c2bfba:
 
-    # c "If all this ever comes out we’ll be pariahs."
-    c "Bütün bunlar ortaya çıkarsa pariah olacağız."
+    c "Harika."
 
-# game/episode007.rpy:2112
-translate turkish ep007_aven_911387aa:
 
-    # c "I know it’s going to be a shock to many."
-    c "Birçokları için şok olacağını biliyorum."
+translate turkish ep007_conversations_1d65159e:
 
-# game/episode007.rpy:2113
-translate turkish ep007_aven_9ced86a1:
 
-    # c "I'm not sure what they'd think."
-    c "Ne düşüneceklerinden emin değilim."
+    c "Bu, tesisi devriye gezen muhafızlar hariç çoğu muhafızı halledecektir."
 
-# game/episode007.rpy:2115
-translate turkish ep007_aven_92a5f099:
 
-    # av "What the fuck, [p_name_short]?!"
-    av "Ne lanet [p_name_short]?!"
+translate turkish ep007_conversations_91491bcb:
 
-# game/episode007.rpy:2116
-translate turkish ep007_aven_df4bf908:
 
-    # av "Toying with me, killing the mood?"
-    av "Benimle oynuyor, ruh halini mi öldürüyorsun?"
+    c "Ve sonra Cetruvar'ın odalarına girme meselesi var."
 
-# game/episode007.rpy:2117
-translate turkish ep007_aven_896843ff:
 
-    # c "No, I-"
-    c "Hayır, ben-"
+translate turkish ep007_conversations_a4a1a953:
 
-# game/episode007.rpy:2119
-translate turkish ep007_aven_105d4aa6:
 
-    # av "I’m coming here all vulnerable and you’re just going on spouting nonsense about morals?!"
-    av "Buraya tüm savunmasız geliyorum ve sadece ahlakla ilgili saçmalıklara mı devam ediyorsun?!"
+    c "Onun dairesine de havalandırma kanalından ulaşılabiliyor mu?"
 
-# game/episode007.rpy:2121
-translate turkish ep007_aven_c6e58997:
 
-    # av "I’m coming here all vulnerable and you’re just going on spouting nonsense about everybody else's feelings?!"
-    av "Buraya tüm savunmasız geliyorum ve sadece herkesin duyguları hakkında saçma sapan mı devam ediyorsun?!"
+translate turkish ep007_conversations_5aebf2da:
 
-# game/episode007.rpy:2122
-translate turkish ep007_aven_7126ee0d:
 
-    # av "Well fuck you!"
-    av "Pekala, seni siktir!"
+    th "Olabilir, ama muhafız dairelerine giden gibi bir çıkış bulamadım."
 
-# game/episode007.rpy:2124
-translate turkish ep007_aven_6106c8f4:
 
-    # "Aven stormed out in a fit of rage, forgetting her clothing along the way."
-    "Aven, kıyafetlerini yol boyunca unutarak öfkeyle uğraştı."
+translate turkish ep007_conversations_91388939:
 
-# game/episode007.rpy:2128
-translate turkish ep007_aven_e69e42b8:
 
-    # c "No."
-    c "Hayır."
+    c "Kahretsin, bu durumda gizlilik söz konusu bile olamaz."
 
-# game/episode007.rpy:2130
-translate turkish ep007_aven_ae4cc0cd:
 
-    # av "That sounds definitive."
-    av "Kulağa kesin geliyor."
+translate turkish ep007_conversations_568a6285:
 
-# game/episode007.rpy:2131
-translate turkish ep007_aven_5d5583ab:
 
-    # c "It is."
-    c "Bu."
+    c "Uğraşacağımız çok daha az muhafız olacak, o yüzden ön kapıdan girebilir, odalarına bir gaz bombası atıp en iyisini umabiliriz."
 
-# game/episode007.rpy:2133
-translate turkish ep007_aven_1fb03af0:
 
-    # av "But-"
-    av "Ancak-"
+translate turkish ep007_conversations_b99a1ad4:
 
-# game/episode007.rpy:2134
-translate turkish ep007_aven_5d1f62c9:
 
-    # c "Shut up."
-    c "Kapa çeneni."
+    c "Yani o piçleri uyutacağız, bir şekilde Cetruvar'ı etkisiz hale getireceğiz, Eva hakkında bilgi bulacağız ve Bastard'ı uzaya geri götüreceğiz."
 
-# game/episode007.rpy:2142
-translate turkish ep007_celine_754bbe12:
 
-    # "I wandered back to the bridge to find Céline still in her chair."
-    "Céline'ı hala sandalyesinde bulmak için köprüye geri döndüm."
+translate turkish ep007_conversations_b4848f22:
 
-# game/episode007.rpy:2143
-translate turkish ep007_celine_dfbf8579:
 
-    # c "Flying manually to Erigone?"
-    c "Erigone'a manuel olarak uçmak mı?"
+    th "Bu planın bazı büyük zayıf noktaları var ve sen de biliyorsun."
 
-# game/episode007.rpy:2145
-translate turkish ep007_celine_ef101571:
 
-    # ce "Just for a bit, it calms my mind."
-    ce "Sadece biraz, aklımı sakinleştiriyor."
+translate turkish ep007_conversations_509bd10a:
 
-# game/episode007.rpy:2146
-translate turkish ep007_celine_3e6372d6:
 
-    # ce "I was about to go to sleep, actually."
-    ce "Aslında uyumak üzereydim."
+    c "Bazı noktalarda doğaçlama yapmamız gerekecek, bu kesin."
 
-# game/episode007.rpy:2148
-translate turkish ep007_celine_3eadc15d:
 
-    # c "Yeah, most of the crew has gone to bed, I think."
-    c "Evet, mürettebatın çoğu yatağa gitti."
+translate turkish ep007_conversations_a49118bd:
 
-# game/episode007.rpy:2149
-translate turkish ep007_celine_d54638e3:
 
-    # c "By the way, anything new on our mole communicating with the enemy?"
-    c "Bu arada, köstebekimizde düşmanla iletişim kuran yeni bir şey var mı?"
+    th "Sanırım başka çaresi yok."
 
-# game/episode007.rpy:2151
-translate turkish ep007_celine_1d1abc18:
 
-    # ce "Nope, nothing, neither on Almagest nor after we left orbit"
-    ce "Hayır, hiçbir şey, ne Almagest'te ne de yörüngeden ayrıldıktan sonra"
+translate turkish ep007_conversations_0e1023f2:
 
-# game/episode007.rpy:2152
-translate turkish ep007_celine_7857ed3a:
 
-    # ce "Though we can’t be sure they’re speaking to our enemies."
-    ce "Her ne kadar düşmanlarımızla konuştuklarından emin olamayız."
+    th "Ayrıca, Jade'in Cetruvar'ın sistemleri üzerinde sihir yapması gerekiyor."
 
-# game/episode007.rpy:2153
-translate turkish ep007_celine_358e4521:
 
-    # c "I’m pretty sure they are."
-    c "Olduklarından eminim."
+translate turkish ep007_conversations_25f14f52:
 
-# game/episode007.rpy:2154
-translate turkish ep007_celine_02c756ee:
 
-    # c "The arrival of those women at the mansion was no coincidence."
-    c "Bu kadınların konaklara gelişi tesadüf değildi."
+    c "Cetruvar'ın dairesinde özel bir terminal gördüm, bilgiler büyük ihtimalle o bilgisayardadır."
 
-# game/episode007.rpy:2155
-translate turkish ep007_celine_48793930:
 
-    # ce "Maybe you’re right."
-    ce "Belki sen haklısın."
+translate turkish ep007_conversations_5799428a:
 
-# game/episode007.rpy:2156
-translate turkish ep007_celine_7c1886c8:
 
-    # c "Anyway, keep monitoring, but get some rest before we reach Erigone."
-    c "Her neyse, izlemeye devam edin, ancak Erigone'a ulaşmadan önce biraz dinlenin."
+    c "Jade'e bir saat sonra bizimle buluşup buluşamayacağını soracağım."
 
-# game/episode007.rpy:2157
-translate turkish ep007_celine_faa2f03a:
 
-    # c "I’m heading to my quarters to do just that."
-    c "Tam da bunu yapmak için mahallelerime gidiyorum."
+translate turkish ep007_conversations_396cb6c2:
 
-# game/episode007.rpy:2159
-translate turkish ep007_celine_a61c7a0c:
 
-    # ce "I really want a kiss before you go."
-    ce "Gitmeden önce gerçekten bir öpücük istiyorum."
+    th "Ben gidip donanımı alacağım."
 
-# game/episode007.rpy:2161
-translate turkish ep007_celine_cbce38d5:
 
-    # "We embraced and I kissed her, Céline giving herself over completely to me."
-    "Kucakladık ve onu öptüm, Céline kendini tamamen bana verdi."
+translate turkish ep007_conversations_759703a5:
 
-# game/episode007.rpy:2165
-translate turkish ep007_celine_9eb431c8:
 
-    # "We finally kissed each other good night and disentangled."
-    "Sonunda birbirimize iyi geceler öptük ve ayrışmadık."
+    "Gece nöbetindeki muhafızlardan kaçmayı umarak zıt yönlere gittik."
 
-# game/episode007.rpy:2166
-translate turkish ep007_celine_1c6a7480:
 
-    # "Céline put her clothing back on, snuggled back into her chair and took control of the Bastard again."
-    "Céline kıyafetlerini tekrar taktı, sandalyesine geri döndü ve piç kontrolünü tekrar aldı."
+translate turkish ep007_conversations_ce6ee65e:
 
-# game/episode007.rpy:2168
-translate turkish ep007_celine_1f772d82:
 
-    # "We kissed each other good night and disentangled."
-    "Birbirimize iyi geceler öptük ve ayrışmadık."
+    "Yatmadan önce Jade'i antrenman rutini sırasında yakaladım."
 
-# game/episode007.rpy:2169
-translate turkish ep007_celine_4bc248ca:
 
-    # "Céline snuggled back into her chair and took control of the Bastard again."
-    "Céline sandalyesine geri döndü ve tekrar piç kontrolünü aldı."
+translate turkish ep007_conversations_e8b2f0b0:
 
-# game/episode007.rpy:2172
-translate turkish ep007_celine_7f760824:
 
-    # ce "Was there something you wanted?"
-    ce "İstediğin bir şey var mıydı?"
+    "Vücudu ve zihni dengelemek için geleneksel Twi'll fiziksel egzersizleri seti, ya da öyle bir şey."
 
-# game/episode007.rpy:2173
-translate turkish ep007_celine_b3091e65:
 
-    # c "Just checking if our mole decided to contact the enemy again."
-    c "Sadece köstebekimizin düşmanla tekrar iletişim kurmaya karar verip vermediğini kontrol ediyorum."
+translate turkish ep007_conversations_8030a70f:
 
-# game/episode007.rpy:2174
-translate turkish ep007_celine_0915d466:
 
-    # ce "No, there hasn’t been any illegal communication, neither on Almagest nor after we left orbit."
-    ce "Hayır, ne Almagest'te ne de yörüngeden ayrıldıktan sonra yasadışı bir iletişim olmadı."
+    "Çok seksi görünüyordu, ayrıca bunları çıplak yapıyor olması da cabası."
 
-# game/episode007.rpy:2175
-translate turkish ep007_celine_7857ed3a_1:
 
-    # ce "Though we can’t be sure they’re speaking to our enemies."
-    ce "Her ne kadar düşmanlarımızla konuştuklarından emin olamayız."
+translate turkish ep007_conversations_593f9c58:
 
-# game/episode007.rpy:2176
-translate turkish ep007_celine_358e4521_1:
 
-    # c "I’m pretty sure they are."
-    c "Olduklarından eminim."
+    c "Bu pozlar seni neden bu kadar çekici gösteriyor?"
 
-# game/episode007.rpy:2177
-translate turkish ep007_celine_02c756ee_1:
 
-    # c "The arrival of those women at the mansion was no coincidence."
-    c "Bu kadınların konaklara gelişi tesadüf değildi."
+translate turkish ep007_conversations_409f68ca:
 
-# game/episode007.rpy:2178
-translate turkish ep007_celine_7c1886c8_1:
 
-    # c "Anyway, keep monitoring, but get some rest before we reach Erigone."
-    c "Her neyse, izlemeye devam edin, ancak Erigone'a ulaşmadan önce biraz dinlenin."
+    j "Biliyorum, bu benim bir kusurum."
 
-# game/episode007.rpy:2180
-translate turkish ep007_celine_e87d1a00:
 
-    # ce "I will, thanks."
-    ce "Yapacağım, teşekkürler."
+translate turkish ep007_conversations_f67c5ae7:
 
-# game/episode007.rpy:2191
-translate turkish ep007_ceremony_3f73b4ac:
 
-    # "People started applauding as a mountain of a man entered the room."
-    "İnsanlar bir adamın dağı odaya girerken alkışlamaya başladı."
+    j "Bu hareketler bir zamanlar dinimizin en kutsal ayinlerinin bir parçasıydı ve ben onları kucak dansı gibi göstererek bozuyorum."
 
-# game/episode007.rpy:2192
-translate turkish ep007_ceremony_4abbe8fa:
 
-    # c "That's a human male, right?"
-    c "Bu bir insan erkek, değil mi?"
+translate turkish ep007_conversations_8962f1eb:
 
-# game/episode007.rpy:2194
-translate turkish ep007_ceremony_44bb3730:
 
-    # na "Yes, I do believe he is human."
-    na "Evet, onun insan olduğuna inanıyorum."
+    c "Ciddi misin, bu rutinin tamamı normalde dini bir törene mi ait?"
 
-# game/episode007.rpy:2195
-translate turkish ep007_ceremony_3d9726c2:
 
-    # na "The Yalvai supposedly thrive in human hosts."
-    na "Yalvai, insan ev sahiplerinde gelişiyor."
+translate turkish ep007_conversations_dd03ea04:
 
-# game/episode007.rpy:2196
-translate turkish ep007_ceremony_f5f7c27d:
 
-    # c "Right."
+    j "Haha, tabii ki değil!"
+
+
+translate turkish ep007_conversations_f5020b8a:
+
+
+    j "Baştan çıkarmayı resmi Twi'll dini saymazsan tabii."
+
+
+translate turkish ep007_conversations_d248683f:
+
+
+    j "Gerçi bir bakıma, öyle olabilir..."
+
+
+translate turkish ep007_conversations_0c15638a:
+
+
+    j "Neyse, beni ne için istedin?"
+
+
+translate turkish ep007_conversations_0ea3c70a:
+
+
+    c "Birçok şey için...{w} Ama şimdi benimle gelmeni istiyorum."
+
+
+translate turkish ep007_conversations_5e4ace8e:
+
+
+    j "Tabii ki."
+
+
+translate turkish ep007_conversations_f4a3b1d2:
+
+
+    c "Şu an çok sikilesi görünüyorsun, bunu biliyor musun?"
+
+
+translate turkish ep007_conversations_c3c3014c:
+
+
+    "Kız içeri girdiğimi duymamıştı ve kaba yorumumdan açıkça irkildim."
+
+
+translate turkish ep007_conversations_16dd6b0e:
+
+
+    j "Evet, efendim."
+
+
+translate turkish ep007_conversations_51d0b8be:
+
+
+    c "Maalesef seninle oynamaya vaktim yok, benimle gelmen gerek, Jade."
+
+
+translate turkish ep007_conversations_fbaa5fcd:
+
+
+    j "Tabii ki, efendim."
+
+
+translate turkish ep007_conversations_b8700ae8:
+
+
+    c "Benimle gelmen gerek, Jade."
+
+
+translate turkish ep007_conversations_fbaa5fcd_1:
+
+
+    j "Tabii ki, efendim."
+
+
+translate turkish ep007_conversations_75ece378:
+
+
+    "Jade'i, daha önce Thyia ile konuştuğumuz balkona doğru yönlendirdim."
+
+
+translate turkish ep007_conversations_9a1a9231:
+
+
+    j "Yani Cetruvar'ın kişisel bilgisayarına girmemi mi istiyorsun?"
+
+
+translate turkish ep007_conversations_26eefe0a:
+
+
+    c "Evet."
+
+
+translate turkish ep007_conversations_b9c3c026:
+
+
+    j "Sorun değil, eğer beni odasına sokabilirsen."
+
+
+translate turkish ep007_conversations_30abbac8:
+
+
+    c "Onun üzerinde çalışıyoruz."
+
+
+translate turkish ep007_conversations_1afeb994:
+
+
+    c "Bir saat sonra odamın önünde buluş benimle, o zamana kadar her şey hazır olmalı."
+
+
+translate turkish ep007_conversations_ca021bae:
+
+
+    j "Tamam."
+
+
+translate turkish ep007_conversations_cdcf5af3:
+
+
+    "Konuşmamızı bitirdiğimizde bir muhafız yanımızdan geçti."
+
+
+translate turkish ep007_conversations_5592ac1c:
+
+
+    woman "Odanızın dışında ne yapıyorsunuz?"
+
+
+translate turkish ep007_conversations_d59bd0a0:
+
+
+    c "Biraz temiz hava almamıza izin yok mu?"
+
+
+translate turkish ep007_conversations_0e5d2e97:
+
+
+    woman "Geç oldu, diğer misafirleri rahatsız edeceksiniz."
+
+
+translate turkish ep007_conversations_8154f829:
+
+
+    c "İlginiz için teşekkürler."
+
+
+translate turkish ep007_conversations_95b321a9:
+
+
+    "Muhafız daha fazla üstelemedi, ben de ondan uzaklaşıp Thyia'yı aramaya koyuldum."
+
+
+translate turkish ep007_conversations_28f26ed4:
+
+
+    "Koridorun aşağısında heyecanlı görünerek benimle buluştu."
+
+
+translate turkish ep007_conversations_550308a8:
+
+
+    th "Bunu yapmaya hazır mısın?"
+
+
+translate turkish ep007_conversations_b63d6bf3:
+
+
+    c "Hazırım."
+
+
+translate turkish ep007_conversations_86d309ce:
+
+
+    th "İşte silahlardan biri ve el bombalarını da getirdim."
+
+
+translate turkish ep007_conversations_33da7d28:
+
+
+    c "Güzel, hadi şu havalandırmayı bulalım."
+
+
+translate turkish ep007_conversations_d3f308df:
+
+
+    "Thyia yolu biliyordu ve bizi el bombalarını bırakmamız gereken yere doğru yönlendirdi."
+
+
+translate turkish ep007_conversations_17b78bb2:
+
+
+    "Tam havalandırmanın ızgarasını çıkarmak üzereyken, daha önce beni durduran muhafız köşeyi döndü."
+
+
+translate turkish ep007_conversations_d12fa3f5:
+
+
+    th "Siktir."
+
+
+translate turkish ep007_conversations_36eeb9da:
+
+
+    "Tereddüt etmeden Thyia'yı duvara doğru ittim ve kollarımı ona sardım."
+
+
+translate turkish ep007_conversations_1321cdb9:
+
+
+    "Onu dudaklarından öptüm."
+
+
+translate turkish ep007_conversations_f219d87c:
+
+
+    "Thyia başta öpücüğe karşılık veremeyecek kadar şaşkındı, ama muhafız bize yaklaşınca kendini tamamen ana bıraktı."
+
+
+translate turkish ep007_conversations_909e401e:
+
+
+    woman "Affedersiniz."
+
+
+translate turkish ep007_conversations_808aacc9:
+
+
+    c "Ne?{w} Ah."
+
+
+translate turkish ep007_conversations_2077c7ce:
+
+
+    woman "Yine siz."
+
+
+translate turkish ep007_conversations_2dd46812:
+
+
+    woman "Bu gece meşgulsünüz, değil mi?"
+
+
+translate turkish ep007_conversations_e96df658:
+
+
+    woman "Bay Cetruvar size bir oda tahsis etti, ne bok yiyorsanız lütfen orada yeyin."
+
+
+translate turkish ep007_conversations_a192efc8:
+
+
+    c "Tamam, öyle yapacağız."
+
+
+translate turkish ep007_conversations_f73bdab2:
+
+
+    c "Geliyor musun, Thyia?"
+
+
+translate turkish ep007_conversations_73f7090f:
+
+
+    th "Şey...{w} Evet...{w} Evet geliyorum."
+
+
+translate turkish ep007_conversations_202224de:
+
+
+    "Muhafız bize aldırış etmiyor gibiydi ama yanımızdan geçerken hoşnutsuzlukla mırıldandı."
+
+
+translate turkish ep007_conversations_ef43b041:
+
+
+    th "Bunu neden yaptın amına koyayım, [p_name_short]?"
+
+
+translate turkish ep007_conversations_783a3952:
+
+
+    c "Buna dikkat dağıtma denir."
+
+
+translate turkish ep007_conversations_b9c59dfd:
+
+
+    th "Kesinlikle öyleydi."
+
+
+translate turkish ep007_conversations_31ff3b5e:
+
+
+    th "Ayrıca, hala beni tutuyorsun."
+
+
+translate turkish ep007_conversations_56fb54d6:
+
+
+    "Ellerimi kalçalarından çekmedi ve bunun yerine bana özlem ve artan bir endişenin garip bir karışımıyla baktı."
+
+
+translate turkish ep007_conversations_8fb0e760:
+
+
+    "Thyia'yı tekrar öptüm."
+
+
+translate turkish ep007_conversations_63b5a5c8:
+
+
+    "Bir kez daha beni kabul etti ve kendini ancak keyifli bir sonsuzluk gibi gelen bir sürenin ardından kurtarmaya çalıştı."
+
+
+translate turkish ep007_conversations_8e4f8590:
+
+
+    th "Ben...{w} Biz...{w} Izgara!"
+
+
+translate turkish ep007_conversations_184ebaa5:
+
+
+    c "Tamam, hala gazlamamız gereken muhafızlar var."
+
+
+translate turkish ep007_conversations_90fe5535:
+
+
+    th "Kesinlikle.{w} Muhafızlar.{w} Gaz."
+
+
+translate turkish ep007_conversations_184ebaa5_1:
+
+
+    c "Tamam, hala gazlamamız gereken muhafızlar var."
+
+
+translate turkish ep007_conversations_b588e543:
+
+
+    th "Aynen öyle."
+
+
+translate turkish ep007_conversations_c2376a0e:
+
+
+    "Izgara çok iyi sabitlenmemişti ve havalandırmaya hemen ulaştık."
+
+
+translate turkish ep007_conversations_67d96be9:
+
+
+    th "Peki, başlıyoruz."
+
+
+translate turkish ep007_conversations_63f3d68a:
+
+
+    th "Eğer işe yararsa, hiçbir şey duymayacağız."
+
+
+translate turkish ep007_conversations_8fb1a0fa:
+
+
+    th "Aksi takdirde başımız büyük belada."
+
+
+translate turkish ep007_conversations_9eecd492:
+
+
+    c "Ya devriyelerden biri arkadaşlarını kontrol etmeye gelirse?"
+
+
+translate turkish ep007_conversations_959b7229:
+
+
+    th "Yine aynı büyük bela."
+
+
+translate turkish ep007_conversations_9ebf0dc9:
+
+
+    th "Bu yüzden hızlı hareket edip gece bitmeden gitmeliyiz."
+
+
+translate turkish ep007_conversations_8bdc12f0:
+
+
+    c "Bu durumda, onur senin olsun."
+
+
+translate turkish ep007_conversations_7f64bfcb:
+
+
+    "Thyia el bombalarından birinin pimini çekip havalandırmanın içine fırlattı."
+
+
+translate turkish ep007_conversations_18434601:
+
+
+    "Bomba kanaldan tangırdayarak giderken, ikinci bir bombayı hazırladı."
+
+
+translate turkish ep007_conversations_bb93e22d:
+
+
+    th "Ve emin olmak için bir tane daha."
+
+
+translate turkish ep007_conversations_b3796811:
+
+
+    th "Umarım rahat uyurlar."
+
+
+translate turkish ep007_conversations_7e173243:
+
+
+    c "Tamam, hadi Jade'i bulalım."
+
+
+translate turkish ep007_conversations_bb7da63f:
+
+
+    "Cetruvar'ın dairesinin girişine yaklaştığımızda Jade gölgelerden çıktı."
+
+
+translate turkish ep007_conversations_43457ebb:
+
+
+    c "Dairesinin dışında muhafız var mı?"
+
+
+translate turkish ep007_conversations_b825bdd2:
+
+
+    j "Evet, iki tane."
+
+
+translate turkish ep007_conversations_d7ac1729:
+
+
+    c "Beklendiği gibiydi..."
+
+
+translate turkish ep007_conversations_9c98b948:
+
+
+    c "Onlar hakkında ne yapacağız?"
+
+
+translate turkish ep007_conversations_b4179f26:
+
+
+    "Thyia fikrini söylemek üzereyken kapı çarparak açıldı ve Cetruvar birkaç korumasıyla dışarı çıktı."
+
+
+translate turkish ep007_conversations_fbbae7e8:
+
+
+    "Kapıdaki muhafızlar hemen patronlarının peşinden gittiler."
+
+
+translate turkish ep007_conversations_54dffae7:
+
+
+    "Gölgelere sindik ama buna gerek yoktu çünkü onlar kendi aralarında tartışmakla meşguldüler."
+
+
+translate turkish ep007_conversations_8aa7574c:
+
+
+    cet "Bu nasıl oldu amına koyayım?!"
+
+
+translate turkish ep007_conversations_7e9029e6:
+
+
+    cet "Soyulmuştu, değil mi?"
+
+
+translate turkish ep007_conversations_c0a58289:
+
+
+    woman "Evet efendim, mahkumu sadece iç çamaşırlarıyla bırakmıştık."
+
+
+translate turkish ep007_conversations_8af48d77:
+
+
+    cet "O zaman kapalı bir hücrede kendini nasıl öldürebildiğini açıkla bana?"
+
+
+translate turkish ep007_conversations_609b622b:
+
+
+    woman "Ben-"
+
+
+translate turkish ep007_conversations_c8d0f7e4:
+
+
+    "Hızla uzaklaşırken geri kalanı duyulmaz oldu."
+
+
+translate turkish ep007_conversations_0ac8d002:
+
+
+    th "Mahkum kendini öldürdü mü?"
+
+
+translate turkish ep007_conversations_e82dc334:
+
+
+    c "Görünüşe göre öyle yapmış."
+
+
+translate turkish ep007_conversations_b075d208:
+
+
+    c "Bunu düşünecek zaman yok, Ranimo'nun odaları boş."
+
+
+translate turkish ep007_conversations_2fde9657:
+
+
+    "Cetruvar'ın özel dairesine girmek kolay oldu."
+
+
+translate turkish ep007_conversations_e1ebebd9:
+
+
+    "Thyia kapıyı saniyeler içinde açtı ve sessizce içeri süzüldük."
+
+
+translate turkish ep007_conversations_9d5c87aa:
+
+
+    "Dairenin çoğu hasarı onarılmıştı ve gün içinde yaşanan şiddetten hiçbir iz kalmamıştı."
+
+
+translate turkish ep007_conversations_8337f9c2:
+
+
+    "Jade'e daha önce fark ettiğim konsolu gösterdim ve hemen çalışmaya başladı."
+
+
+translate turkish ep007_conversations_d08272aa:
+
+
+    "Thyia, ev sahibimiz erken dönerse diye koridoru gözetledi."
+
+
+translate turkish ep007_conversations_1a427168:
+
+
+    j "Bu kolay olmayacak."
+
+
+translate turkish ep007_conversations_4d544b97:
+
+
+    c "Kolay olacağını düşünmemiştim."
+
+
+translate turkish ep007_conversations_7aaf6225:
+
+
+    "Jade çoktan düşüncelere dalmıştı, dudakları hayal kırıklığıyla ince bir çizgi halini almıştı."
+
+
+translate turkish ep007_conversations_72a7a977:
+
+
+    j "Bu tür sistemi biliyorum ama güçlendirilmiş."
+
+
+translate turkish ep007_conversations_d378706b:
+
+
+    j "Muhtemelen özel yapım yamalar."
+
+
+translate turkish ep007_conversations_136da1f3:
+
+
+    c "Kırabilir misin?"
+
+
+translate turkish ep007_conversations_068ac14b:
+
+
+    j "Bilmiyorum."
+
+
+translate turkish ep007_conversations_1d523c6f:
+
+
+    th "Acele etmeliyiz, ne zaman dönecekleri belli değil."
+
+
+translate turkish ep007_conversations_96aa35ff:
+
+
+    j "Elimden geldiğince hızlı çalışıyorum."
+
+
+translate turkish ep007_conversations_7e1ae24a:
+
+
+    c "Tamam, diğerlerini bulup Bastard'a götürsene Thyia."
+
+
+translate turkish ep007_conversations_7606489a:
+
+
+    c "Şu anda olan her şeyi düşününce, hemen kalkışa hazır olmalıyız."
+
+
+translate turkish ep007_conversations_c7763b6f:
+
+
+    th "Anlaşıldı."
+
+
+translate turkish ep007_conversations_5fa5ca7f:
+
+
+    "Thyia diğerlerini aramak için gözden kayboldu."
+
+
+translate turkish ep007_conversations_4acebbe4:
+
+
+    c "Yardım edebileceğim bir şey var mı, Jade?"
+
+
+translate turkish ep007_conversations_0c471653:
+
+
+    j "Belki odayı arayıp etrafta kişisel bir şey bırakmış mı diye bakabilirsin?"
+
+
+translate turkish ep007_conversations_1a033f56:
+
+
+    c "Tamam, bakıyorum."
+
+
+translate turkish ep007_cetruvar_search_choices_8c66395c:
+
+
+    "Yatak kullanılmış gibi görünüyordu, örtüler geri çekilmişti."
+
+
+translate turkish ep007_cetruvar_search_choices_8767ef8c:
+
+
+    "Dışarısı soğuktu."
+
+
+translate turkish ep007_cetruvar_search_choices_e58215a9:
+
+
+    "Yan masada yarım kalmış bir içecek vardı."
+
+
+translate turkish ep007_cetruvar_search_choices_26f0f5ea:
+
+
+    "Masanın üstünde birkaç süs eşyası dışında bir şey yoktu."
+
+
+translate turkish ep007_cetruvar_search_choices_1b76c196:
+
+
+    "Masanın altına baktığımda, çöp kutusunun altında yarı gizlenmiş düz bir nesnenin metalik parıltısı gözüme çarptı."
+
+
+translate turkish ep007_cetruvar_search_choices_bca265c5:
+
+
+    "Nesneyi çöp kutusunun altından çektim."
+
+
+translate turkish ep007_cetruvar_search_choices_72c55ad1:
+
+
+    "Küçük bir tablet olduğu ortaya çıktı."
+
+
+translate turkish ep007_cetruvar_search_choices_c16503bc:
+
+
+    "Cihaz, Cetruvar saldırganlar tarafından yere zorla yatırıldığında cebinden düşmüş olabilir."
+
+
+translate turkish ep007_cetruvar_search_choices_fbcce27d:
+
+
+    c "Sanırım bir şey buldum."
+
+
+translate turkish ep007_cetruvar_search_choices_0abbb47f:
+
+
+    c "Bu işe yarar mı, Jade?"
+
+
+translate turkish ep007_cetruvar_search_choices_4a9283e4:
+
+
+    j "Cetruvar'ın tableti mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_58f3a46c:
+
+
+    j "Bu harika olur."
+
+
+translate turkish ep007_cetruvar_search_choices_12e7e33b:
+
+
+    "Cihazı ona verdim ve gözleri parladı."
+
+
+translate turkish ep007_cetruvar_search_choices_2ccb80ca:
+
+
+    j "Oh, bu daha da harika."
+
+
+translate turkish ep007_cetruvar_search_choices_44ba27a2:
+
+
+    j "Bu model için birçok güvenlik açığı yayınlandı."
+
+
+translate turkish ep007_cetruvar_search_choices_c84eb90d:
+
+
+    "Jade tableti kendi cihazına bağladı ve hızlıca yazmaya başladı."
+
+
+translate turkish ep007_cetruvar_search_choices_b32e2060:
+
+
+    j "Ve...{w} Girdik!"
+
+
+translate turkish ep007_cetruvar_search_choices_a358090b:
+
+
+    c "Bu kadar kolay mı?"
+
+
+translate turkish ep007_cetruvar_search_choices_d20b9dc5:
+
+
+    j "Aynen öyle."
+
+
+translate turkish ep007_cetruvar_search_choices_e055b786:
+
+
+    j "Bu tablet hatalarla dolu bir çöp parçası."
+
+
+translate turkish ep007_cetruvar_search_choices_bbb8e9d5:
+
+
+    j "Özellikle kişisel bilgisayarı kale gibi korumalıyken bunu yanında taşımasına şaşırdım."
+
+
+translate turkish ep007_cetruvar_search_choices_c252d911:
+
+
+    c "Kaybedecek zaman yok, tablette işe yarar bir şey var mı?"
+
+
+translate turkish ep007_cetruvar_search_choices_6fcfd293:
+
+
+    j "Birkaç dosya var, bazıları şifreli."
+
+
+translate turkish ep007_cetruvar_search_choices_03ff0359:
+
+
+    j "Bir dakika, mahkumun bazı güvenlik görüntüleri var."
+
+
+translate turkish ep007_cetruvar_search_choices_74b92f41:
+
+
+    c "Ona daha sonra bakarız."
+
+
+translate turkish ep007_cetruvar_search_choices_6d4ef673:
+
+
+    c "Eva hakkında bir şey var mı?"
+
+
+translate turkish ep007_cetruvar_search_choices_ddb4c913:
+
+
+    j "Bir sürü isim listesi var."
+
+
+translate turkish ep007_cetruvar_search_choices_e1a5e627:
+
+
+    j "Bekle!"
+
+
+translate turkish ep007_cetruvar_search_choices_c786eaf0:
+
+
+    j "Acarhyn'den bahseden bir belge var!"
+
+
+translate turkish ep007_cetruvar_search_choices_6aaa3972:
+
+
+    j "'İzleme devam ediyor. Acarhyn'in yabancı topraklara başka bir sızması olmadı.'"
+
+
+translate turkish ep007_cetruvar_search_choices_a998de7f:
+
+
+    j "'Erigone hala seyrüsefer için çok tehlikeli. Kaynak, her zamanki prosedüre göre daha fazla istihbarat bırakmayı kabul etti.'"
+
+
+translate turkish ep007_cetruvar_search_choices_48fafe6b:
+
+
+    j "'Acarhyn'ler Bakire Kraliçe dedikleri kişinin yükselişiyle meşgul görünüyor. Kaynak, eski sıralarda bir bölünme ve yeni bir dini dogmanın ortaya çıktığını öne sürüyor.'"
+
+
+translate turkish ep007_cetruvar_search_choices_02726e3e:
+
+
+    c "Erigone?"
+
+
+translate turkish ep007_cetruvar_search_choices_6440e711:
+
+
+    c "Bu bir sistem, değil mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_ac2ed105:
+
+
+    j "Sanırım öyle."
+
+
+translate turkish ep007_cetruvar_search_choices_67efca96:
+
+
+    c "Bu durumda, ihtiyacımız olan şeyi bulduğumuzu düşünüyorum."
+
+
+translate turkish ep007_cetruvar_search_choices_d77696cf:
+
+
+    c "Hadi buradan çıkalım."
+
+
+translate turkish ep007_cetruvar_search_choices_393a5290:
+
+
+    "Küçük banyo yakın zamanda kullanılmış gibi görünmüyordu."
+
+
+translate turkish ep007_cetruvar_search_choices_548d0ba9:
+
+
+    "Daire kusursuz bir şekilde temiz tutulmuştu ve kanepenin altındaki alan da bunun istisnası değildi."
+
+
+translate turkish ep007_cetruvar_search_choices_eee06c9a:
+
+
+    "Birlikte, Cetruvar'ın dairesinden aceleyle çıkıp koridora koştuk."
+
+
+translate turkish ep007_cetruvar_search_choices_67fa561a:
+
+
+    "Misafir odalarının tüm kapıları aralıktı, bu yüzden mürettebatın geri kalanı çoktan Bastard'ın bağlı olduğu fırlatma platformuna gitmişti."
+
+
+translate turkish ep007_cetruvar_search_choices_0c8ec93f:
+
+
+    "Fırlatma platformuna doğru merdivenlerden yukarı koştuk."
+
+
+translate turkish ep007_cetruvar_search_choices_2efd8980:
+
+
+    man "Orada durun!"
+
+
+translate turkish ep007_cetruvar_search_choices_0a830946:
+
+
+    c "Siktir!"
+
+
+translate turkish ep007_cetruvar_search_choices_b1ccba62:
+
+
+    c "Koşmaya devam et!"
+
+
+translate turkish ep007_cetruvar_search_choices_fcbdac86:
+
+
+    "Net bir atış pozisyonları olmamasına rağmen, muhafızlar yine de bize birkaç el ateş ettiler."
+
+
+translate turkish ep007_cetruvar_search_choices_d06d8701:
+
+
+    "Köşeyi döndük ve Iron Bastard görüş alanımıza girdi."
+
+
+translate turkish ep007_cetruvar_search_choices_f6a27d67:
+
+
+    "Giriş kapağına olan kısa mesafeyi geçmeye başladığımızda motorların çalışmaya başlamasından anlaşıldığı üzere mürettebat çoktan gemideydi."
+
+
+translate turkish ep007_cetruvar_search_choices_848eb22d:
+
+
+    "Arkamızdan ayak sesleri duyulabiliyordu."
+
+
+translate turkish ep007_cetruvar_search_choices_6ed6fe6b:
+
+
+    man "Dur!"
+
+
+translate turkish ep007_cetruvar_search_choices_47106d45:
+
+
+    man "Yere yatın!"
+
+
+translate turkish ep007_cetruvar_search_choices_36805a99:
+
+
+    "Mermiler yanımızdan vızıldayarak geçti ve biri geminin zırhlı gövdesine saplandı."
+
+
+translate turkish ep007_cetruvar_search_choices_cae37b95:
+
+
+    "Thyia'nın kafası geminin dışında belirdi ve muhafızlara silah doğrulttu."
+
+
+translate turkish ep007_cetruvar_search_choices_c58ad17f:
+
+
+    th "Acele edin!"
+
+
+translate turkish ep007_cetruvar_search_choices_605c501e:
+
+
+    "Thyia, Jade'in elini tuttu ve birlikte geminin içine atladık."
+
+
+translate turkish ep007_cetruvar_search_choices_443731d4:
+
+
+    "Ayaklarımız eşiği geçtiğinde, muhafızlar bir mermi yağmuru daha başlattı."
+
+
+translate turkish ep007_cetruvar_search_choices_a0445680:
+
+
+    "Jade çığlık atarak yere yığıldı."
+
+
+translate turkish ep007_cetruvar_search_choices_44e58eb9:
+
+
+    "Thyia kapağı kapatmak için düğmeye bastı ve gemi havalandı."
+
+
+translate turkish ep007_cetruvar_search_choices_a9750f4a:
+
+
+    "Gemimiz menzil dışına çıkana kadar gövdeye bir süre daha mermi yağdı."
+
+
+translate turkish ep007_cetruvar_search_choices_d06d8701_1:
+
+
+    "Köşeyi döndük ve Iron Bastard görüş alanımıza girdi."
+
+
+translate turkish ep007_cetruvar_search_choices_f6a27d67_1:
+
+
+    "Giriş kapağına olan kısa mesafeyi geçmeye başladığımızda motorların çalışmaya başlamasından anlaşıldığı üzere mürettebat çoktan gemideydi."
+
+
+translate turkish ep007_cetruvar_search_choices_912a8858:
+
+
+    "Arkamızdan ayak sesleri duyulabiliyordu ama uzaktaydılar."
+
+
+translate turkish ep007_cetruvar_search_choices_688fee7e:
+
+
+    "Muhafızlar sonunda merdivenlerin tepesinde göründüğünde, biz çoktan güvenli bir şekilde geminin içindeydik."
+
+
+translate turkish ep007_cetruvar_search_choices_44e58eb9_1:
+
+
+    "Thyia kapağı kapatmak için düğmeye bastı ve gemi havalandı."
+
+
+translate turkish ep007_cetruvar_search_choices_1e461f93:
+
+
+    "Muhafızlar boşuna gemiye ateş etmeye başladı, Bastard'ın zırhı bizi tabancalardan atılan etkisiz mermilerden koruyordu."
+
+
+translate turkish ep007_cetruvar_search_choices_a9750f4a_1:
+
+
+    "Gemimiz menzil dışına çıkana kadar gövdeye bir süre daha mermi yağdı."
+
+
+translate turkish ep007_cetruvar_search_choices_5479f872:
+
+
+    cet "Onu aradınız mı?"
+
+
+translate turkish ep007_cetruvar_search_choices_81ce2a4e:
+
+
+    man "Evet, efendim."
+
+
+translate turkish ep007_cetruvar_search_choices_91677ee9:
+
+
+    man "İç çamaşırlarına kadar soyuldu."
+
+
+translate turkish ep007_cetruvar_search_choices_c9a14d76:
+
+
+    cet "Öyleyse biri ona gizlice bir bıçak vermiş olmalı."
+
+
+translate turkish ep007_cetruvar_search_choices_5da099d1:
+
+
+    cet "Kamera görüntülerini kontrol ettin mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_80b453ea:
+
+
+    man "Efendim, kamera gece boyunca bir noktada arızalanmış gibi görünüyor."
+
+
+translate turkish ep007_cetruvar_search_choices_3ae34a7f:
+
+
+    cet "Tabii ki..."
+
+
+translate turkish ep007_cetruvar_search_choices_1af2bed2:
+
+
+    cet "Kalan siktiğimin misafirlerini toplayın, ciddi bir konuşma yapmamız gerekiyor-"
+
+
+translate turkish ep007_cetruvar_search_choices_49429a38:
+
+
+    cet "Bu da ne...?!"
+
+
+translate turkish ep007_cetruvar_search_choices_d488dd73:
+
+
+    cet "Bunlar silah sesi mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_48e70863:
+
+
+    cet "Neden silah sesleri duyuyorum?!"
+
+
+translate turkish ep007_cetruvar_search_choices_02f4ec11:
+
+
+    man "Hemen kontrol ediyorum, efendim."
+
+
+translate turkish ep007_cetruvar_search_choices_8cb6f128:
+
+
+    man "..."
+
+
+translate turkish ep007_cetruvar_search_choices_954f2279:
+
+
+    man "Efendim.{w} Küçük bir grup misafirlerin peşine düşmüş görünüyor, efendim."
+
+
+translate turkish ep007_cetruvar_search_choices_74b03d97:
+
+
+    cet "Küçük bir grup mu?!"
+
+
+translate turkish ep007_cetruvar_search_choices_4573b761:
+
+
+    cet "Siktiğimin muhafızları nerede?"
+
+
+translate turkish ep007_cetruvar_search_choices_7074133f:
+
+
+    man "Nöbetçi kulübesi yanıt vermiyor, efendim."
+
+
+translate turkish ep007_cetruvar_search_choices_d82f57d8:
+
+
+    cet "Birini gönder hemen kontrol etsin!"
+
+
+translate turkish ep007_cetruvar_search_choices_31cbcd4b:
+
+
+    man "Emredersiniz efendim."
+
+
+translate turkish ep007_cetruvar_search_choices_8cb6f128_1:
+
+
+    man "..."
+
+
+translate turkish ep007_cetruvar_search_choices_1ff9e11f:
+
+
+    man "Şey, efendim?"
+
+
+translate turkish ep007_cetruvar_search_choices_bf64d41a:
+
+
+    cet "Duyduğum şey gemi motoru olmasın sakın!"
+
+
+translate turkish ep007_cetruvar_search_choices_8a4917ce:
+
+
+    man "Az önce platformu bastıkları haberi geldi."
+
+
+translate turkish ep007_cetruvar_search_choices_89781989:
+
+
+    man "Görünüşe göre gemilerini ele geçirmişler."
+
+
+translate turkish ep007_cetruvar_search_choices_accb4c4f:
+
+
+    cet "Sahi mi diyorsun..."
+
+
+translate turkish ep007_cetruvar_search_choices_873f119f:
+
+
+    man "Ne yapalım, efendim?"
+
+
+translate turkish ep007_cetruvar_search_choices_ea864ab2:
+
+
+    cet "Dronelara emir ver, o siktiğimin gemisini düşürsünler!"
+
+
+translate turkish ep007_cetruvar_search_choices_ff6ed8d5:
+
+
+    man "Efendim, droneler hala önceki saldırıdan sonra kullanım dışı."
+
+
+translate turkish ep007_cetruvar_search_choices_cff5f74d:
+
+
+    cet "OROSPU ÇOCUKLARI!"
+
+
+translate turkish ep007_cetruvar_search_choices_19723a6c:
+
+
+    c "Artık güvende miyiz?"
+
+
+translate turkish ep007_cetruvar_search_choices_df91fa59:
+
+
+    av "Öyleyiz."
+
+
+translate turkish ep007_cetruvar_search_choices_c78bcb68:
+
+
+    av "Kimse peşimizde değil."
+
+
+translate turkish ep007_cetruvar_search_choices_f68eaea1:
+
+
+    c "Güzel, Céline, şu koordinatlara rota çiz, Erigone'ye gidiyoruz."
+
+
+translate turkish ep007_cetruvar_search_choices_c628cc92:
+
+
+    ce "Ah, [p_name_short]."
+
+
+translate turkish ep007_cetruvar_search_choices_0ec9a2ee:
+
+
+    c "Ekran kırmızı yanıp sönüyor."
+
+
+translate turkish ep007_cetruvar_search_choices_781fb4b3:
+
+
+    c "Bu iyi bir şey değil, değil mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_3c61d1c4:
+
+
+    ce "Bu koordinatların doğru olduğuna emin misin?"
+
+
+translate turkish ep007_cetruvar_search_choices_ede08962:
+
+
+    c "Bilmiyorum, durup sormaya vaktimiz olmadı."
+
+
+translate turkish ep007_cetruvar_search_choices_bd2d5656:
+
+
+    ce "Erigone'nin bir mikro kuvazar olması gerekiyor."
+
+
+translate turkish ep007_cetruvar_search_choices_12eb7f2b:
+
+
+    ce "Temel olarak dev bir yıldız ve bir kara delik, hepsi bir bulutsuyla sarılı."
+
+
+translate turkish ep007_cetruvar_search_choices_1ba91d4a:
+
+
+    c "Biliyor musun, kulağa aslında oldukça rahat geldi."
+
+
+translate turkish ep007_cetruvar_search_choices_7e2fe7de:
+
+
+    ce "Belki de, eğer kara delik gaz devinin içindeki yaşamı emip plazma olarak nebulaya tükürmeseydi ve bu da büyük miktarda gama ışını yaratmasaydı."
+
+
+translate turkish ep007_cetruvar_search_choices_f5f7c27d:
+
+
     c "Doğru."
 
-# game/episode007.rpy:2197
+
+translate turkish ep007_cetruvar_search_choices_b38587e4:
+
+
+    av "Cetruvar'dan gelen bu bilgi ne kadar sağlam?"
+
+
+translate turkish ep007_cetruvar_search_choices_57371bdd:
+
+
+    c "Bu onun kişisel veri tabletinden."
+
+
+translate turkish ep007_cetruvar_search_choices_f1f8777e:
+
+
+    av "Ki onu yanına almayı çok uygun bir şekilde unuttu, öyle mi?"
+
+
+translate turkish ep007_cetruvar_search_choices_d7f98c5c:
+
+
+    c "O sırada tehdit ediliyordu."
+
+
+translate turkish ep007_cetruvar_search_choices_c74ddb65:
+
+
+    c "Bunun bir tuzak olduğunu sanmıyorum, sen ne dersin Jade?"
+
+
+translate turkish ep007_cetruvar_search_choices_65aa5c70:
+
+
+    j "Bilgiler gerçek görünüyor."
+
+
+translate turkish ep007_cetruvar_search_choices_9d687ae4:
+
+
+    j "O tablette bizim bulmamız için yerleştirilmiş olamayacak kadar çok seksi bilgi var."
+
+
+translate turkish ep007_cetruvar_search_choices_7295d58b:
+
+
+    c "Bunun bir tuzak olduğunu sanmıyorum."
+
+
+translate turkish ep007_cetruvar_search_choices_0f0fb1dc:
+
+
+    c "O tablette bizim bulmamız için yerleştirilmiş olamayacak kadar çok seksi bilgi var."
+
+
+translate turkish ep007_cetruvar_search_choices_cec13a86:
+
+
+    av "Yine de nükleer patlamayı parti patlatıcısı gibi gösterecek bir şeyin içine uçmak üzereyiz."
+
+
+translate turkish ep007_cetruvar_search_choices_a235ef53:
+
+
+    c "Tabii eğer o yer hakkındaki verilerimiz doğruysa."
+
+
+translate turkish ep007_cetruvar_search_choices_e39e5a1f:
+
+
+    c "Sisteminizin bir mikro kuvazar olduğunu herkese söylemek, turistleri uzak tutmak için oldukça uygun bir yol..."
+
+
+translate turkish ep007_cetruvar_search_choices_7bed8935:
+
+
+    c "Céline, şu nebulaya yaklaşabilir miyiz?"
+
+
+translate turkish ep007_cetruvar_search_choices_200fbc46:
+
+
+    ce "Belirli bir mesafeye kadar evet, ama kalkanlarımız sonsuza kadar dayanmaz."
+
+
+translate turkish ep007_cetruvar_search_choices_bbe56e9a:
+
+
+    c "Sistemin hızlı bir taramasını yapabilir miyiz?"
+
+
+translate turkish ep007_cetruvar_search_choices_1c95cf63:
+
+
+    ce "Evet, eğer taramaya bir şey engel olmazsa mümkün olmalı."
+
+
+translate turkish ep007_cetruvar_search_choices_31993810:
+
+
+    c "Tamam, bizi güvenli bir mesafeye götür o zaman, o sözde cehennem manzarasını kendim görmek istiyorum."
+
+
+translate turkish ep007_cetruvar_search_choices_ab05b18c:
+
+
+    ce "Anlaşıldı."
+
+
+translate turkish ep007_cetruvar_search_choices_16ca3f98:
+
+
+    ce "Her halükarda, önümüzde uzun bir yolculuk var."
+
+
+translate turkish ep007_cetruvar_search_choices_877cd240:
+
+
+    c "İyi, çünkü Ranimo'nun küçük pansiyonunda bir dakika bile uyuyamadım..."
+
+
+translate turkish ep007_cetruvar_search_choices_5c1cf597:
+
+
+    "Céline otopilotu programlarken, mürettebatın geri kalanı ranzalarını bulmaya gitti."
+
+
+translate turkish ep007_cetruvar_search_choices_f9731095:
+
+
+    "Jade'in ayak yarası tedavi edilmek üzere Thim tarafından revire götürüldü."
+
+
+translate turkish ep007_cetruvar_search_choices_1ad62794:
+
+
+    "Jade'in ayak yarası tedavi edilmek üzere otomatik doktor tarafından revire götürüldü."
+
+
+translate turkish ep007_cetruvar_search_choices_c2741753:
+
+
+    "Durum kontrolü, onun dinlenmekte olduğunu ve yarasının tamamen iyileşeceğini gösterdi."
+
+
+translate turkish ep007_na_talk_8e9360e4:
+
+
+    na "Ah merhaba [p_name_short]."
+
+
+translate turkish ep007_na_talk_3e84f929:
+
+
+    c "Bir şeyler mi okuyorsun?"
+
+
+translate turkish ep007_na_talk_fa32f1cf:
+
+
+    na "Evet, Yalvai hakkında biraz bilgi çıkardım, çok büyüleyici yaratıklar."
+
+
+translate turkish ep007_na_talk_7a845a25:
+
+
+    c "Buna öyle de denebilir."
+
+
+translate turkish ep007_na_talk_3d0b8134:
+
+
+    c "Okumaya devam etsen iyi olur."
+
+
+translate turkish ep007_na_talk_6fd0ffb0:
+
+
+    na "[p_name]?"
+
+
+translate turkish ep007_na_talk_24c7ada5:
+
+
+    c "Evet?"
+
+
+translate turkish ep007_na_talk_e0344445:
+
+
+    na "Rahatsız etmek istemem ama o araştırma istasyonundan kaçtığımızdan beri bir şeyi merak ediyorum."
+
+
+translate turkish ep007_na_talk_ae6e8b71:
+
+
+    na "Sen ve Aven yakınlaştınız, değil mi?"
+
+
+translate turkish ep007_na_talk_33324028:
+
+
+    na "Sen ve Lilly yakınlaştınız, değil mi?"
+
+
+translate turkish ep007_na_talk_e2a97f5b:
+
+
+    "O anda kalbim yerinden çıkacak gibi oldu."
+
+
+translate turkish ep007_na_talk_6528e29a:
+
+
+    "Bir şey fark etti mi?"
+
+
+translate turkish ep007_na_talk_92860cec:
+
+
+    "Aven'le burada, Almagest'te öpüştüğümüzü bilmiyor olamaz mı?"
+
+
+translate turkish ep007_na_talk_b59d407d:
+
+
+    "O hücrede birlikte tutulurken uygunsuz bir şey yapmadık, değil mi?"
+
+
+translate turkish ep007_na_talk_c37e4ec0:
+
+
+    c "Elbette, bazı şeyleri konuştuk, ama bunun dışında anladığımdan emin değilim."
+
+
+translate turkish ep007_na_talk_abf78642:
+
+
+    na "Doğru, bu olmalı."
+
+
+translate turkish ep007_na_talk_14e8bda1:
+
+
+    na "Konuşabildiğine sevindim."
+
+
+translate turkish ep007_na_talk_fb03ba9f:
+
+
+    c "Bırakayım da okumaya devam et."
+
+
+translate turkish ep007_na_talk_512fd9c9:
+
+
+    na "Teşekkürler, [p_name_short]."
+
+
+translate turkish ep007_na_talk_8d740489:
+
+
+    c "Evet."
+
+
+translate turkish ep007_na_talk_4141727e:
+
+
+    na "Ben de öyle düşünmüştüm."
+
+
+translate turkish ep007_na_talk_1f4a80b6:
+
+
+    na "Ben...{w} Sadece dikkatli ol."
+
+
+translate turkish ep007_na_talk_ef821644:
+
+
+    na "Duygular kafa karıştırıcı olabilir ve kazara birbirinizi incitebilirsiniz."
+
+
+translate turkish ep007_na_talk_fea73121:
+
+
+    na "İkinizin de aynı fikirde olduğundan emin ol."
+
+
+translate turkish ep007_na_talk_f6d9a786:
+
+
+    na "Duygularının peşinden gitmekten korkma ama bir şeyleri zorlamaya da çalışma."
+
+
+translate turkish ep007_na_talk_0a28922b:
+
+
+    na "Özür dilerim, şu anda pek mantıklı konuşamıyorum, değil mi?"
+
+
+translate turkish ep007_na_talk_60433a42:
+
+
+    "Sözleri kafamı karıştırmıştı."
+
+
+translate turkish ep007_na_talk_1f0c015f:
+
+
+    "Aven'la birlikte olmama üstü kapalı onay mı veriyordu?"
+
+
+translate turkish ep007_na_talk_73b69529:
+
+
+    "Lilly'le birlikte olmama üstü kapalı onay mı veriyordu?"
+
+
+translate turkish ep007_na_talk_4f82f0ba:
+
+
+    "Neden bu fikirden tiksinmemişti?"
+
+
+translate turkish ep007_na_talk_d63414de:
+
+
+    "Ben bunları düşünürken Nadya ayağa kalktı."
+
+
+translate turkish ep007_na_talk_94715b23:
+
+
+    "Beni sıcak bir şekilde kucakladı."
+
+
+translate turkish ep007_na_talk_e99d2f65:
+
+
+    na "Aven benim özel kızım."
+
+
+translate turkish ep007_na_talk_9b6ba11f:
+
+
+    na "Lilly benim özel kızım."
+
+
+translate turkish ep007_na_talk_5858f5d4:
+
+
+    "Nadya aniden delici gözlerle bana baktı."
+
+
+translate turkish ep007_na_talk_7cbf205a:
+
+
+    na "Bazen babana çok benzediğini biliyor musun?"
+
+
+translate turkish ep007_na_talk_1c3b17a1:
+
+
+    c "Sanırım bu kötü bir şey?"
+
+
+translate turkish ep007_na_talk_6a6905bc:
+
+
+    na "Evet, anıları geri getiriyor."
+
+
+translate turkish ep007_na_talk_414a482e:
+
+
+    na "Gerçi gençken onunla ilgili anılarım sonradan olanlarla lekelenmedi."
+
+
+translate turkish ep007_na_talk_d5fd095f:
+
+
+    na "Ve bil ki senden ya da kız kardeşlerinden hiçbir şekilde nefret etmedim."
+
+
+translate turkish ep007_na_talk_fe31ea61:
+
+
+    na "Ve bil ki senden ya da Lilly ve Eva'dan hiçbir şekilde nefret etmedim."
+
+
+translate turkish ep007_na_talk_d84dcf02:
+
+
+    "Bu ani ve garip konuşmayı düşünürken Nadya ayağa kalktı."
+
+
+translate turkish ep007_na_talk_94715b23_1:
+
+
+    "Beni sıcak bir şekilde kucakladı."
+
+
+translate turkish ep007_na_talk_bbb9e4c6:
+
+
+    "Kokusunun ve vücudunun sıcaklığının tadını çıkararak kollarımı ona doladım."
+
+
+translate turkish ep007_na_talk_75467193:
+
+
+    "Tam olarak kucaklaşmasına karşılık vermedim, içten anı biraz garip bir şeye dönüştü."
+
+
+translate turkish ep007_na_talk_9d7f4bfa:
+
+
+    na "Konuşabildiğimize sevindim."
+
+
+translate turkish ep007_na_talk_fb03ba9f_1:
+
+
+    c "Seni okumana geri bırakayım."
+
+
+translate turkish ep007_na_talk_512fd9c9_1:
+
+
+    na "Teşekkür ederim, [p_name_short]."
+
+
+translate turkish ep007_na_talk_c208cf1e:
+
+
+    na "Sen benim olağanüstü oğlumsun, bunu unutma."
+
+
+translate turkish ep007_na_talk_c7728461:
+
+
+    "Başımı ellerinin arasına aldı ve dudaklarımdan öptü."
+
+
+translate turkish ep007_na_talk_fbb9e49a:
+
+
+    "Bu hareket beni şaşırttı ve öpücüğe karşılık vermeden edemedim."
+
+
+translate turkish ep007_na_talk_76e55bf8:
+
+
+    "Dudakları dudaklarımda çok uzun süre kaldı."
+
+
+translate turkish ep007_na_talk_ad095099:
+
+
+    "Nadya sanki trans halindeymiş gibi gözlerini hep kapalı tuttu."
+
+
+translate turkish ep007_na_talk_c34ce269:
+
+
+    "Sonunda ayrıldığında, gözleri titreyerek açıldı ve gözlerinde utanç gördüm."
+
+
+translate turkish ep007_na_talk_2df73829:
+
+
+    na "Affedersin, ben...{w} ben...{w} okumama geri dönmem lazım."
+
+
+translate turkish ep007_na_talk_bd11f3f6:
+
+
+    c "Evet, evet tabi ki."
+
+
+translate turkish ep007_na_talk_6f982faf:
+
+
+    "Öncekinden daha da kafası karışmış bir halde odasından çıktım."
+
+
+translate turkish ep007_av_talk_c9fb0e2d:
+
+
+    av "Ah, tam duşa girecektim."
+
+
+translate turkish ep007_av_talk_8b040dc1:
+
+
+    c "Sorun değil, sadece kontrol ediyordum."
+
+
+translate turkish ep007_av_talk_fb1755bb:
+
+
+    c "İyi geceler."
+
+
+translate turkish ep007_av_talk_1790d364:
+
+
+    av "Sana da iyi geceler."
+
+
+translate turkish ep007_av_talk_62f46459:
+
+
+    av "Daha önce, ben duştayken geldin mi?"
+
+
+translate turkish ep007_av_talk_11111377:
+
+
+    c "Hayır, gelmedim."
+
+
+translate turkish ep007_av_talk_bf200bb5:
+
+
+    av "Su harikaydı."
+
+
+translate turkish ep007_av_talk_9e97fbc8:
+
+
+    av "Cetruvar iğrenç bir sik olabilir, ama doğru lükslere nasıl düşkün olunacağını biliyor."
+
+
+translate turkish ep007_av_talk_f9501d02:
+
+
+    c "Burada ne söylediğine dikkat et, bizi dinliyor olabilir."
+
+
+translate turkish ep007_av_talk_1120118b:
+
+
+    av "Siktir et onu."
+
+
+translate turkish ep007_av_talk_f5f7c27d:
+
+
+    c "Doğru."
+
+
+translate turkish ep007_av_talk_ecab27d4:
+
+
+    av "O zaman neden bir yürüyüşe çıkmıyoruz?"
+
+
+translate turkish ep007_av_talk_cac66d33:
+
+
+    av "Cetruvar'ın özel dairesinin girişinin yakınlarında çılgın bir iç bahçesi var."
+
+
+translate turkish ep007_av_talk_dd8c4fab:
+
+
+    c "Onu görmek isterim."
+
+
+translate turkish ep007_av_talk_74d578a6:
+
+
+    c "Bu şekilde mi giyinik gideceksin?"
+
+
+translate turkish ep007_av_talk_c4e82a8a:
+
+
+    c "Umurumda değil gerçi..."
+
+
+translate turkish ep007_av_talk_3954146d:
+
+
+    av "Ah...{w} Doğru, buralarda bir yerde bornoz var."
+
+
+translate turkish ep007_av_talk_e6600899:
+
+
+    "Aven, altında sadece iç çamaşırı olmasına rağmen, onu oldukça seçkin gösteren ipek bir bornoz giydi."
+
+
+translate turkish ep007_av_talk_c672ca83:
+
+
+    "Yer odalarımızdan uzak değildi ve bahçeye girmeden önce bile çiçeklerin ve toprağın kokusu bizi karşıladı."
+
+
+translate turkish ep007_av_talk_b98415da:
+
+
+    av "Şuna bak, bunların çoğu son derece nadir."
+
+
+translate turkish ep007_av_talk_80cd480b:
+
+
+    c "Sözüne güveneceğim, akademideki tüm botanik derslerini atladım."
+
+
+translate turkish ep007_av_talk_b000ad2c:
+
+
+    av "Duyduğuma göre akademideki derslerin çoğunu atlamışsın."
+
+
+translate turkish ep007_av_talk_4798a489:
+
+
+    c "Yalanlar!"
+
+
+translate turkish ep007_av_talk_c3c5dadd:
+
+
+    "Bahçenin ortasındaki bir banka oturduk."
+
+
+translate turkish ep007_av_talk_6e45f873:
+
+
+    av "Sanırım bir şeyi ele almamız gerekiyor."
+
+
+translate turkish ep007_av_talk_dfada02e:
+
+
+    av "O ConVitæ hücresindeki kalışımız biraz kafa karıştırıcıydı."
+
+
+translate turkish ep007_av_talk_61ed7c35:
+
+
+    c "Bunu bir daha söyleyebilirsin."
+
+
+translate turkish ep007_av_talk_ff91fc7a:
+
+
+    av "Birbirimize oldukça özel şeyler itiraf ettik."
+
+
+translate turkish ep007_av_talk_8ac8c7a0:
+
+
+    av "Anılarımızı geri kazanana kadar o kadar tartışmalı olmayan şeyler..."
+
+
+translate turkish ep007_av_talk_66b5f8f6:
+
+
+    av "Sanırım şimdi soru şu, nerede duruyoruz?"
+
+
+translate turkish ep007_av_talk_5997c9ca:
+
+
+    c "Hiçbir şey değişmedi."
+
+
+translate turkish ep007_av_talk_ff48b5e9:
+
+
+    c "Dürüst olmak gerekirse, anılarımı geri kazanmak aslında her şeyi perspektife oturttu."
+
+
+translate turkish ep007_av_talk_f4260636:
+
+
+    c "Çocukken paylaştığımız bağ, seni ve Nadya Teyze'yi Ryūjin Prime'dan aldıktan sonra nasıl anlaştığımız..."
+
+
+translate turkish ep007_av_talk_ff9fc71e:
+
+
+    c "Çocukken paylaştığımız bağ, seni ve Nadya'yı Ryūjin Prime'dan aldıktan sonra nasıl anlaştığımız..."
+
+
+translate turkish ep007_av_talk_7dde42a7:
+
+
+    c "Çocukken sana hayrandım, seni takdir ediyordum."
+
+
+translate turkish ep007_av_talk_72717d58:
+
+
+    c "Hala sana hayranım."
+
+
+translate turkish ep007_av_talk_fa97bbe6:
+
+
+    c "Her şeyi yapmaya cesaret eden genç kız olarak değil, büyüdüğün kadın olarak sana hayranım."
+
+
+translate turkish ep007_av_talk_bd6f0495:
+
+
+    c "Güzelsin, eğlencelisin ve sana olan sevgimin normal akrabalığın ötesine geçtiğini düşünüyorum."
+
+
+translate turkish ep007_av_talk_f98b8e97:
+
+
+    c "Güzelsin, eğlencelisin ve sana olan sevgimin normal arkadaşlığın ötesine geçtiğini düşünüyorum."
+
+
+translate turkish ep007_av_talk_06abcc16:
+
+
+    c "Ah siktir...{w} Seni ağlattım."
+
+
+translate turkish ep007_av_talk_6d87848f:
+
+
+    av "Siktir.{w} Çok yoğun olabiliyorsun, bunu biliyor musun?"
+
+
+translate turkish ep007_av_talk_c50f69f1:
+
+
+    av "Tıpkı olanlardan hemen sonra konuşmamızı Bastard'ın üzerine yıkmaya çalıştığın gibi."
+
+
+translate turkish ep007_av_talk_5edb2813:
+
+
+    c "Bunun için özür dilerim, seni biraz rahat bırakmalıydım."
+
+
+translate turkish ep007_av_talk_4c7a8829:
+
+
+    av "Teşekkür ederim, bu benim için çok şey ifade ediyor."
+
+
+translate turkish ep007_av_talk_532cc7b2:
+
+
+    c "Az önce söylediğim şeyleri yine söylerdim."
+
+
+translate turkish ep007_av_talk_9ee33f57:
+
+
+    av "Buna inanmak istiyorum."
+
+
+translate turkish ep007_av_talk_e0a06d52:
+
+
+    av "Ama bu sadece seninle ilgili değil, her şeyi sindirmek için zamana ihtiyacım vardı."
+
+
+translate turkish ep007_av_talk_99e5e7ac:
+
+
+    av "Korkarım bu işi çok aceleye getiriyorsun."
+
+
+translate turkish ep007_av_talk_cff11a28:
+
+
+    av "Bu bir hataydı, özür dilerim."
+
+
+translate turkish ep007_av_talk_c24359e4:
+
+
+    "Aven aniden ayağa kalktı ve bahçeden çıktı."
+
+
+translate turkish ep007_av_talk_b4a91900:
+
+
+    c "Aven?"
+
+
+translate turkish ep007_av_talk_f5929276:
+
+
+    c "Aven!"
+
+
+translate turkish ep007_av_talk_b437b351:
+
+
+    c "Siktir."
+
+
+translate turkish ep007_av_talk_f73abbc6:
+
+
+    av "Tüm anılar geri geldiğinde ne kadar göt olabileceğini de fark ettim."
+
+
+translate turkish ep007_av_talk_e0b4b14d:
+
+
+    c "Ne dedin sen?!"
+
+
+translate turkish ep007_av_talk_b85e4df9:
+
+
+    av "Hadi ama, ne demek istediğimi biliyorsun."
+
+
+translate turkish ep007_av_talk_ed3387fb:
+
+
+    av "Kız kardeşin hakkında kötü konuşman, göğüs dekoltesi konusunda ukalalık yapman, Ziv ve Raene'nin mekiğe binmesine izin vermemen bir yana."
+
+
+translate turkish ep007_av_talk_18e9f261:
+
+
+    av "Arkadaşın hakkında kötü konuşman, göğüs dekoltesi konusunda ukalalık yapman, Ziv ve Raene'nin mekiğe binmesine izin vermemen bir yana."
+
+
+translate turkish ep007_av_talk_a63dbd5d:
+
+
+    av "Kız kardeşin hakkında kötü konuşman, göğüs dekoltesi konusunda ukalalık yapman..."
+
+
+translate turkish ep007_av_talk_661ce278:
+
+
+    av "Arkadaşın hakkında kötü konuşman, göğüs dekoltesi konusunda ukalalık yapman..."
+
+
+translate turkish ep007_av_talk_3daca6d8:
+
+
+    av "Özür dilerim ama her şey birden daha az pembe görünmeye başladı."
+
+
+translate turkish ep007_av_talk_bc9bf6b6:
+
+
+    c "Söylediklerimi geri alamam."
+
+
+translate turkish ep007_av_talk_a402d9c8:
+
+
+    c "Ve koridorda beni gerçekten şaşırttın."
+
+
+translate turkish ep007_av_talk_793d5668:
+
+
+    c "Bu geminin kaptanı olarak elimden gelenin en iyisini yapmaya çalışıyorum ama hatalar yaptığımı kabul ediyorum."
+
+
+translate turkish ep007_av_talk_ab758384:
+
+
+    c "Bir daha asla hata yapmayacağıma söz veremem ama elimden gelenin en iyisini yapmaya çalışacağım."
+
+
+translate turkish ep007_av_talk_4f9e76fa:
+
+
+    c "Mürettebat için, ama en çok senin için."
+
+
+translate turkish ep007_av_talk_4c7a8829_1:
+
+
+    av "Teşekkür ederim, bu benim için çok şey ifade ediyor."
+
+
+translate turkish ep007_av_talk_9d00543c:
+
+
+    c "Ben buyum, değişemem."
+
+
+translate turkish ep007_av_talk_deb10863:
+
+
+    c "Artık kim olduğumu biliyorsun, ya kabul et ya da bırak gitsin."
+
+
+translate turkish ep007_av_talk_332fa1fc:
+
+
+    av "Böyle bir şey söyleyeceğinden korkuyordum."
+
+
+translate turkish ep007_av_talk_cff11a28_1:
+
+
+    av "Bu bir hataydı, özür dilerim."
+
+
+translate turkish ep007_av_talk_c24359e4_1:
+
+
+    "Aven aniden ayağa kalktı ve bahçeden çıktı."
+
+
+translate turkish ep007_av_talk_a2570449:
+
+
+    av "Araştırma istasyonundan kaçtığımızdan beri zamanımın çoğunu bizi düşünerek geçirdim."
+
+
+translate turkish ep007_av_talk_18b62967:
+
+
+    av "Paylaştığımız duygular üzerine neden hareket etmememiz gerektiğini düşünüyordum."
+
+
+translate turkish ep007_av_talk_68914d89:
+
+
+    av "Ve hiçbir şey bulamadım, çünkü akraba olduğumuzu bilmeme rağmen sana karşı aynı şeyleri hissediyorum."
+
+
+translate turkish ep007_av_talk_50b592b4:
+
+
+    av "Ve hiçbir şey bulamadım, çünkü sana karşı aynı şeyleri hissediyorum."
+
+
+translate turkish ep007_av_talk_93841f77:
+
+
+    av "Umurumda değil, sadece seninle olmak istiyorum."
+
+
+translate turkish ep007_av_talk_5afd2893:
+
+
+    "Birbirimize yaklaştık, dudaklarımız birleşti ve öpüşmeye başladık."
+
+
+translate turkish ep007_av_talk_a96cfa13:
+
+
+    "İsteksizce ayrıldıktan sonra Aven bana gülümsedi."
+
+
+translate turkish ep007_av_talk_55586e95:
+
+
+    c "Ne olursa olsun birlikte olacağız."
+
+
+translate turkish ep007_av_talk_f8fed461:
+
+
+    av "Başaracağız, değil mi?"
+
+
+translate turkish ep007_av_talk_7ed290f7:
+
+
+    c "Başaracağız."
+
+
+translate turkish ep007_av_talk_fc40639a:
+
+
+    av "Keşke bu gece seni odama davet edebilseydim ama Cetruvar'ın bizi gözetleme ihtimali varken bu iyi bir fikir olmayabilir."
+
+
+translate turkish ep007_av_talk_80710974:
+
+
+    c "O göt lalesi piçten şimdi daha da nefret ediyorum."
+
+
+translate turkish ep007_av_talk_9a38bb3f:
+
+
+    av "Biliyorum."
+
+
+translate turkish ep007_av_talk_8f266868:
+
+
+    av "Bu korkunç yerden ayrıldıktan sonra Bastard'da bir araya geleceğimize söz ver."
+
+
+translate turkish ep007_av_talk_a44ccf78:
+
+
+    c "Söz veriyorum."
+
+
+translate turkish ep007_av_talk_946ad523:
+
+
+    av "Güzel, şimdi bana bir öpücük daha ver."
+
+
+translate turkish ep007_av_talk_f3a645f1:
+
+
+    "Onu kendime çektim ve uzun bir öpücüğe daldık."
+
+
+translate turkish ep007_av_talk_43496698:
+
+
+    "Dili dışarı çıktı ve benimkini buldu."
+
+
+translate turkish ep007_av_talk_083ae6c1:
+
+
+    "O anın bitmesini istemiyordum ama sonunda ikimiz de kızarmış ve nefes nefese kalmıştık."
+
+
+translate turkish ep007_av_talk_ec1d3469:
+
+
+    "Kısa bir süre bankta el ele oturmaya devam ettik."
+
+
+translate turkish ep007_av_talk_16659807:
+
+
+    "Sonunda aşk dolu trans halinden uyandık ve odalarımıza döndük."
+
+
+translate turkish ep007_av_talk_508fff9b:
+
+
+    c "Söylediğin gibi, anılarımızı geri kazanmak her şeyi değiştirdi."
+
+
+translate turkish ep007_av_talk_54476b55:
+
+
+    c "Kafamız karışıktı ve birbirimize olan duygularımızı bu belirledi."
+
+
+translate turkish ep007_av_talk_6c0852ec:
+
+
+    c "Kuzenimle böyle güçlü bir bağım olduğu için mutluyum ama benim için bu kadar."
+
+
+translate turkish ep007_av_talk_e3daed98:
+
+
+    c "Seninle böyle güçlü bir bağım olduğu için mutluyum ama benim için bu kadar."
+
+
+translate turkish ep007_av_talk_81ecb9ce:
+
+
+    av "Ben..."
+
+
+translate turkish ep007_av_talk_6a521d14:
+
+
+    c "Oh...{w} Siktir.{w} Sen farklı mı hissediyorsun?"
+
+
+translate turkish ep007_av_talk_9aacbb44:
+
+
+    av "Ben...{w} Ne hissettiğimi bilmiyorum."
+
+
+translate turkish ep007_av_talk_708f54f5:
+
+
+    av "Benimle dürüst olduğun için teşekkür ederim."
+
+
+translate turkish ep007_av_talk_6e2b258d:
+
+
+    av "Şimdi odama dönmek istiyorum."
+
+
+translate turkish ep007_av_talk_b79de9ca:
+
+
+    "Aven aniden ayağa kalktı ve bahçeden çıktı."
+
+
+translate turkish ep007_l_talk_b92990b2:
+
+
+    c "Hey kardeşim, girebilir miyim?"
+
+
+translate turkish ep007_l_talk_0df50a79:
+
+
+    c "Hey Lilly, girebilir miyim?"
+
+
+translate turkish ep007_l_talk_7df34f95:
+
+
+    c "Lilly?"
+
+
+translate turkish ep007_l_talk_232c1908:
+
+
+    "İlk başta oda boş sandım ama sonra onu yatağın yanında büzülmüş halde gördüm."
+
+
+translate turkish ep007_l_talk_1b4bc736:
+
+
+    c "Lilly?{w} İyi misin?"
+
+
+translate turkish ep007_l_talk_6a226b65:
+
+
+    "Gözyaşlarıyla dolu yüzüyle bana baktı ve hemen yanına koştum."
+
+
+translate turkish ep007_l_talk_9b75067b:
+
+
+    "Lilly kendini bıraktı ve onu kollarıma aldım."
+
+
+translate turkish ep007_l_talk_97bad437:
+
+
+    c "Ne oldu?"
+
+
+translate turkish ep007_l_talk_986be115:
+
+
+    "Sadece ağladı."
+
+
+translate turkish ep007_l_talk_1b19602e:
+
+
+    "Kendini toparlayana kadar onu tuttum."
+
+
+translate turkish ep007_l_talk_80a85163:
+
+
+    l "Her şey yanlış, [p_name_short]."
+
+
+translate turkish ep007_l_talk_e52d1df3:
+
+
+    l "Cetruvar Bastard'ın giriş kapağının önünde durduğu andan beri çok korkuyorum."
+
+
+translate turkish ep007_l_talk_d7589cc3:
+
+
+    l "Ve sonra beni seçti."
+
+
+translate turkish ep007_l_talk_70338c69:
+
+
+    l "Oh, bu konuda kibardı."
+
+
+translate turkish ep007_l_talk_10ccff33:
+
+
+    l "\"Partide bana eşlik etme nezaketini gösterir misiniz?\", dedi."
+
+
+translate turkish ep007_l_talk_97022f42:
+
+
+    l "Başka bir seçeneğim olduğunu hayal etmeme pek imkan bırakmadı."
+
+
+translate turkish ep007_l_talk_5d81798e:
+
+
+    l "Gözlerindeki o bakış...{w} En başından beri ne yaptığımızı biliyordu."
+
+
+translate turkish ep007_l_talk_f65c97f6:
+
+
+    c "Evet, bu çok açık."
+
+
+translate turkish ep007_l_talk_66c1fef7:
+
+
+    l "Beni korumaları ile birlikte odasına götürdüğünde..."
+
+
+translate turkish ep007_l_talk_95b60fcb:
+
+
+    l "Bana her şeyi yapabilirdi ve sanırım yapacaktı..."
+
+
+translate turkish ep007_l_talk_faeaf46c:
+
+
+    c "Sana herhangi bir şekilde dokundu mu, çünkü-"
+
+
+translate turkish ep007_l_talk_0a577d7a:
+
+
+    l "Hayır, dokunmadı."
+
+
+translate turkish ep007_l_talk_fbff7e0a:
+
+
+    l "Fırsat bulamadı."
+
+
+translate turkish ep007_l_talk_27e7ac83:
+
+
+    l "Siktir...{w} O kadınlar."
+
+
+translate turkish ep007_l_talk_b44d5acb:
+
+
+    l "Biri bir korumayı deşti, hala kanı görebiliyorum-"
+
+
+translate turkish ep007_l_talk_0e24dcd9:
+
+
+    "Cümlesini bitiremeden başını yine göğsüme gömdü ve derin bir nefes aldı."
+
+
+translate turkish ep007_l_talk_8b343dc3:
+
+
+    l "Sen ve Kit'in geldiğine sevindim."
+
+
+translate turkish ep007_l_talk_e5f8714f:
+
+
+    c "Seni her zaman koruyacağımı ve sana bir şey olmasına izin vermeyeceğimi biliyorsun."
+
+
+translate turkish ep007_l_talk_b04241cf:
+
+
+    l "Biliyorum."
+
+
+translate turkish ep007_l_talk_80637fc3:
+
+
+    l "Teşekkür ederim, [p_name_short]."
+
+
+translate turkish ep007_l_talk_85495086:
+
+
+    l "Sanırım şimdi biraz uyumaya çalışacağım."
+
+
+translate turkish ep007_l_talk_ea7b83f0:
+
+
+    c "Doğru, bu iyi bir fikir olabilir."
+
+
+translate turkish ep007_l_talk_aef0b115:
+
+
+    c "İyi uykular, kardeşim."
+
+
+translate turkish ep007_l_talk_be025cc1:
+
+
+    c "İyi uykular, Lilly."
+
+
+translate turkish ep007_l_talk_735a8294:
+
+
+    l "Sen de."
+
+
+translate turkish ep007_l_talk_92a56fce:
+
+
+    l "Oh, [p_name_short]?"
+
+
+translate turkish ep007_l_talk_737ac06f:
+
+
+    l "O şekilde davrandığım için özür dilerim."
+
+
+translate turkish ep007_l_talk_a7a67943:
+
+
+    c "Nasıl?"
+
+
+translate turkish ep007_l_talk_3e3c2be6:
+
+
+    l "Biliyorsun, araştırma istasyonundan yeni kaçtığımız zamanlar."
+
+
+translate turkish ep007_l_talk_462ce532:
+
+
+    c "Doğru, çok şey yaşadık, o yüzden anlıyorum."
+
+
+translate turkish ep007_l_talk_eb2b4275:
+
+
+    l "O hücrede yaşananların hepsini hatırlamadığım konusunda yalan söyledim."
+
+
+translate turkish ep007_l_talk_ffa6ddb6:
+
+
+    l "Ben...{w} Sadece bununla başa çıkamadım."
+
+
+translate turkish ep007_l_talk_bb78aab7:
+
+
+    c "Biliyorum."
+
+
+translate turkish ep007_l_talk_07dddb26:
+
+
+    c "Ama tüm bunların etrafında dans etmeye devam edemeyiz."
+
+
+translate turkish ep007_l_talk_b4f0caee:
+
+
+    c "Bunu konuşmamız gerek."
+
+
+translate turkish ep007_l_talk_2c130648:
+
+
+    l "Ne?{w} Şimdi mi?"
+
+
+translate turkish ep007_l_talk_2796fc5c:
+
+
+    c "Tercihen, evet."
+
+
+translate turkish ep007_l_talk_d38cbfc4:
+
+
+    l "Yapamam...{w} Henüz değil...{w} Lütfen."
+
+
+translate turkish ep007_l_talk_8272dc14:
+
+
+    c "Tamam.{w} Bekleyeceğim."
+
+
+translate turkish ep007_l_talk_cf6b14a0:
+
+
+    l "Teşekkür ederim."
+
+
+translate turkish ep007_l_talk_60840077:
+
+
+    l "Şimdi gerçekten dinlenmeye ihtiyacım var."
+
+
+translate turkish ep007_l_talk_bce05693:
+
+
+    "Lilly yatağa giderken titredi ve örtüleri sıkıca etrafına sardı."
+
+
+translate turkish ep007_l_talk_9fcead47:
+
+
+    c "İyi geceler, Lilly."
+
+
+translate turkish ep007_l_talk_ebc7b084:
+
+
+    l "İyi geceler."
+
+
+translate turkish ep007_l_talk_abc3b8b3:
+
+
+    c "Konuşmaya hazır olduğunda, burada olacağım."
+
+
+translate turkish ep007_l_talk_cf6b14a0_1:
+
+
+    l "Teşekkür ederim."
+
+
+translate turkish ep007_l_talk_d8827962:
+
+
+    l "Söz veriyorum uzun sürmeyecek, [p_name_short]."
+
+
+translate turkish ep007_l_talk_b06c0660:
+
+
+    c "İhtiyacın olan tüm zamanı al."
+
+
+translate turkish ep007_l_talk_6d7e0c04:
+
+
+    l "Teşekkürler, [p_name_short]."
+
+
+translate turkish ep007_l_talk_46a0ddab:
+
+
+    "Lilly bana sarıldı, konuşmamızın onu sakinleştirdiği belliydi."
+
+
+translate turkish ep007_l_talk_56581d44:
+
+
+    c "Tamam, sadece konuşmak istedim, biliyorsun değil mi?"
+
+
+translate turkish ep007_l_talk_b04241cf_1:
+
+
+    l "Biliyorum."
+
+
+translate turkish ep007_l_talk_d5d97710:
+
+
+    l "İyi geceler, [p_name]."
+
+
+translate turkish ep007_l_talk_9fcead47_1:
+
+
+    c "İyi geceler, Lilly."
+
+
+translate turkish ep007_l_talk_b48e46c5:
+
+
+    c "Zaten yoldaydık."
+
+
+translate turkish ep007_l_talk_62c720d0:
+
+
+    c "Cetruvar'ın hiç şansı yoktu."
+
+
+translate turkish ep007_l_talk_74386115:
+
+
+    l "Sen öyle diyorsan."
+
+
+translate turkish ep007_l_talk_353d8753:
+
+
+    l "Sanırım biraz uyumaya çalışacağım."
+
+
+translate turkish ep007_l_talk_848b0b66:
+
+
+    c "İyi fikir."
+
+
+translate turkish ep007_l_talk_aef0b115_1:
+
+
+    c "İyi uykular, kardeşim."
+
+
+translate turkish ep007_l_talk_be025cc1_1:
+
+
+    c "İyi uykular, Lilly."
+
+
+translate turkish ep007_l_talk_735a8294_1:
+
+
+    l "Sen de."
+
+
+translate turkish ep007_vess_3f583260:
+
+
+    "Vess dışarı çıktı, ilk başta beni fark etmemiş gibiydi."
+
+
+translate turkish ep007_vess_a0b1b4c4:
+
+
+    ve "Oh...{w} Ah.{w} Hey!"
+
+
+translate turkish ep007_vess_57894fb3:
+
+
+    c "Her şey yolunda mı?"
+
+
+translate turkish ep007_vess_515670e7:
+
+
+    ve "Evet...{w} Yani, bazı garip sesler duyduğumu sandım."
+
+
+translate turkish ep007_vess_e2682f8f:
+
+
+    c "Bunu söyleyen ilk kişi sen değilsin."
+
+
+translate turkish ep007_vess_7486c2a0:
+
+
+    c "Biraz telaşlı görünüyorsun, iyi misin?"
+
+
+translate turkish ep007_vess_818bf944:
+
+
+    ve "Öyle mi?"
+
+
+translate turkish ep007_vess_563dda86:
+
+
+    c "Evet, bir şey mi oldu?"
+
+
+translate turkish ep007_vess_06aceb26:
+
+
+    ve "Önemli değil, sadece muhafızlardan biri..."
+
+
+translate turkish ep007_vess_9d9b3d9a:
+
+
+    c "Muhafızlardan biri bir şey mi yaptı?"
+
+
+translate turkish ep007_vess_feda8eff:
+
+
+    ve "Hayır, öyle değil."
+
+
+translate turkish ep007_vess_7f0edef3:
+
+
+    ve "Sadece tuhaf bakışlar."
+
+
+translate turkish ep007_vess_be218516:
+
+
+    ve "Bu yerin tamamı yanlış geliyor."
+
+
+translate turkish ep007_vess_2d354079:
+
+
+    ve "Ne demek istediğimi anlıyorsan, gösterişli bir malikane ama aynı zamanda bir hapishane."
+
+
+translate turkish ep007_vess_68c7b05d:
+
+
+    c "Tam olarak ne demek istediğini anlıyorum."
+
+
+translate turkish ep007_vess_dc2903e3:
+
+
+    c "Neden birlikte bir şeyler içip rahatlamıyoruz."
+
+
+translate turkish ep007_vess_06f0a1e1:
+
+
+    ve "İsterim."
+
+
+translate turkish ep007_vess_610a0df6:
+
+
+    "Vess'in odası benimkiyle aynıydı, bu yüzden doğruca minibara gidip bir şişe aldım."
+
+
+translate turkish ep007_vess_916c49bc:
+
+
+    "İki bardak doldurdum ve birini ona verdim."
+
+
+translate turkish ep007_vess_b0d547f3:
+
+
+    ve "Teşekkürler."
+
+
+translate turkish ep007_vess_3533c72c:
+
+
+    ve "Oh, bu güzelmiş."
+
+
+translate turkish ep007_vess_fac532ec:
+
+
+    ve "İçimi ısıtıyor."
+
+
+translate turkish ep007_vess_b8d372a0:
+
+
+    c "Amaç buydu zaten."
+
+
+translate turkish ep007_vess_5b561910:
+
+
+    ve "Çoktan yatmıştım ama koridordan sesler duydum ve dinlemeye devam ettim."
+
+
+translate turkish ep007_vess_52ce35a9:
+
+
+    ve "Bu yüzden bana eşlik etmek istediğine sevindim."
+
+
+translate turkish ep007_vess_f613cb69:
+
+
+    "Bardaklarımız çoktan boşalmıştı, bu yüzden Vess'e tekrar doldurma teklif ettim."
+
+
+translate turkish ep007_vess_e21b169c:
+
+
+    ve "Sadece biraz, bir daha sarhoş olmayacağım!"
+
+
+translate turkish ep007_vess_e2ec89c8:
+
+
+    c "Barranthis'te olanlar yüzünden mi?"
+
+
+translate turkish ep007_vess_3b642682:
+
+
+    ve "Ben...{w} Hayır...{w} Ben..."
+
+
+translate turkish ep007_vess_3f33e8f9:
+
+
+    c "Seninle dalga geçiyorum, Vess."
+
+
+translate turkish ep007_vess_eee2b4ec:
+
+
+    ve "Oh."
+
+
+translate turkish ep007_vess_000c2ac6:
+
+
+    c "Gerçi o gece hakkında konuşmak istersen..."
+
+
+translate turkish ep007_vess_9d99d2f4:
+
+
+    ve "Şart mı?"
+
+
+translate turkish ep007_vess_49735fae:
+
+
+    c "Ben seni öptüm, sen de beni öptün."
+
+
+translate turkish ep007_vess_507711f5:
+
+
+    ve "Ve geri çekildim."
+
+
+translate turkish ep007_vess_26eefe0a:
+
+
+    c "Evet."
+
+
+translate turkish ep007_vess_d667c0d0:
+
+
+    ve "Panikledim."
+
+
+translate turkish ep007_vess_85504fd7:
+
+
+    c "Ama neden?"
+
+
+translate turkish ep007_vess_69694c67:
+
+
+    ve "Yani, demek istediğim, beni çok az tanıyorsun, ben de seni çok az tanıyorum."
+
+
+translate turkish ep007_vess_70331540:
+
+
+    ve "Sırf tesadüf eseri bir gemide birlikte yaşamaya başladık, kız kardeşini kurtarma görevinde."
+
+
+translate turkish ep007_vess_fa4fa4f7:
+
+
+    ve "Sırf tesadüf eseri bir gemide birlikte yaşamaya başladık, arkadaşını kurtarma görevinde."
+
+
+translate turkish ep007_vess_ce324da5:
+
+
+    ve "Her şeyin büyüklüğü birden üzerime çöktü, bu yüzden panikledim."
+
+
+translate turkish ep007_vess_9edc5481:
+
+
+    ve "Mantıklı geliyor mu?"
+
+
+translate turkish ep007_vess_27e906d1:
+
+
+    c "Biraz."
+
+
+translate turkish ep007_vess_c0d6e785:
+
+
+    c "Yine de seni biraz daha iyi tanımak isterim."
+
+
+translate turkish ep007_vess_02861675:
+
+
+    ve "Ben de."
+
+
+translate turkish ep007_vess_42a242cb:
+
+
+    "Bize bir içki daha doldurdum ve Vess'in beni incelediğini fark ettim."
+
+
+translate turkish ep007_vess_6910d403:
+
+
+    ve "Peki, sen kimsin, [p_name]?"
+
+
+translate turkish ep007_vess_93e160cd:
+
+
+    c "Sadece donanmadan kaçıp kargo taşıyıcısı olan şımarık zengin bir çocuk."
+
+
+translate turkish ep007_vess_0f61a12b:
+
+
+    ve "Kesinlikle bu kadar basit değildir?"
+
+
+translate turkish ep007_vess_b5a20318:
+
+
+    c "Eminim değildir."
+
+
+translate turkish ep007_vess_be639e4a:
+
+
+    c "Gerçi sanırım bir zamanlar şımarık ve zengindim."
+
+
+translate turkish ep007_vess_29804053:
+
+
+    c "Peki ya sen, seni ne tanımlar dersin, Vess?"
+
+
+translate turkish ep007_vess_94fddbd8:
+
+
+    ve "Yalnızlık?"
+
+
+translate turkish ep007_vess_ca03c962:
+
+
+    ve "Özür dilerim, bu korkunç derecede kasvetli geldi."
+
+
+translate turkish ep007_vess_3d4b5e08:
+
+
+    c "Lanan'da yalnız mı hissettin?"
+
+
+translate turkish ep007_vess_82352075:
+
+
+    ve "Sanırım öyleydim."
+
+
+translate turkish ep007_vess_d7368f75:
+
+
+    ve "Iron Bastard'daki mürettebatla seyahat etmeye başladığımdan beri o duyguyu yaşamadım."
+
+
+translate turkish ep007_vess_bb452e0e:
+
+
+    c "Biraz sıcaklık bulduğuna sevindim."
+
+
+translate turkish ep007_vess_548b60fe:
+
+
+    c "Ama sanırım sen de aileni bulmak için sabırsızlanıyorsun?"
+
+
+translate turkish ep007_vess_5e0f00f9:
+
+
+    ve "Ailem...{w} Evet...{w} Tabii ki."
+
+
+translate turkish ep007_vess_9e22c3ee:
+
+
+    c "Konuşmak istemediğin bir konu olduğunu biliyorum ama sevdiklerimizi bulmaya yaklaştığımız için biraz heyecanlı olmalısın?"
+
+
+translate turkish ep007_vess_6393305d:
+
+
+    ve "Tabii ki öyleyim."
+
+
+translate turkish ep007_vess_2297020d:
+
+
+    c "Bir 'ama' var gibi hissediyorum."
+
+
+translate turkish ep007_vess_bb386636:
+
+
+    ve "Sadece artık o hayata dönmek istediğimden emin değilim."
+
+
+translate turkish ep007_vess_6a3cefbf:
+
+
+    ve "Onlarla yaşamak, demek istiyorum."
+
+
+translate turkish ep007_vess_24366554:
+
+
+    c "Anlıyorum."
+
+
+translate turkish ep007_vess_da7e7697:
+
+
+    c "Sanırım Lanan'da akrabalarınla yaşadın?"
+
+
+translate turkish ep007_vess_9278b3ae:
+
+
+    ve "Büyükbabam öldükten sonra, uzak bir teyze ve amca beni yanlarına aldı."
+
+
+translate turkish ep007_vess_2187dabe:
+
+
+    c "Lanan'da ailenle yaşamadın, değil mi?"
+
+
+translate turkish ep007_vess_593da3d5:
+
+
+    ve "Hayır, yaşamadım."
+
+
+translate turkish ep007_vess_752039f2:
+
+
+    ve "Ailemi hiç tanımadım."
+
+
+translate turkish ep007_vess_8647537c:
+
+
+    ve "Uzak bir teyze ve amca beni yanlarına aldı."
+
+
+translate turkish ep007_vess_373ccd53:
+
+
+    ve "Bana baktılar, iyi davrandılar, yanlış anlama, ama hiç derin bir bağ hissetmedim."
+
+
+translate turkish ep007_vess_3726349a:
+
+
+    ve "Mantıklı geliyor mu?"
+
+
+translate turkish ep007_vess_3275e9ef:
+
+
+    c "Sanırım öyle."
+
+
+translate turkish ep007_vess_bd63a039:
+
+
+    ve "Bu yüzden hala onları bulmak istiyorum ama onlarla geri dönmek istemediğime karar verdim."
+
+
+translate turkish ep007_vess_46bfc7fb:
+
+
+    c "Kaderinizi bizimle paylaşmak mı istiyorsun?"
+
+
+translate turkish ep007_vess_0ee5278a:
+
+
+    ve "Evet, eğer beni kabul ederseniz..."
+
+
+translate turkish ep007_vess_122a88e8:
+
+
+    c "Sormanıza gerek yok, tabii ki hoş geldiniz."
+
+
+translate turkish ep007_vess_b22bb46c:
+
+
+    ve "Bunu duyduğuma çok sevindim."
+
+
+translate turkish ep007_vess_2b3fd261:
+
+
+    c "Neden bunun şerefine bir içki daha içmiyoruz?"
+
+
+translate turkish ep007_vess_fad8957f:
+
+
+    ve "Keşke içebilsem ama şimdiden biraz sersem hissediyorum."
+
+
+translate turkish ep007_vess_ae5ee46f:
+
+
+    ve "Biraz uykuya ihtiyacım olabilir."
+
+
+translate turkish ep007_vess_92366787:
+
+
+    c "Doğru, tabii ki."
+
+
+translate turkish ep007_vess_cb334d43:
+
+
+    ve "[p_name]?"
+
+
+translate turkish ep007_vess_72e38782:
+
+
+    ve "Lütfen kalır mısın?"
+
+
+translate turkish ep007_vess_b1e5e523:
+
+
+    ve "Bu gece yalnız uyumak istemiyorum."
+
+
+translate turkish ep007_vess_6b385b7e:
+
+
+    c "Memnuniyetle."
+
+
+translate turkish ep007_vess_7c73f150:
+
+
+    ve "Bu durumda son bir içki daha alayım."
+
+
+translate turkish ep007_vess_e6b03c20:
+
+
+    "Vess içkilerimizle meşgulken, davetinin tam olarak ne anlama geldiğini merak ettim."
+
+
+translate turkish ep007_vess_8d4e5273:
+
+
+    "Bana bir bardak verdi ve yatakta yanıma oturdu."
+
+
+translate turkish ep007_vess_776302ea:
+
+
+    "Aşağıdaki gecenin dokunduğu okyanusu seyrederek sessizce sert alkolün tadını çıkardık."
+
+
+translate turkish ep007_vess_f3b1b1a5:
+
+
+    "Vess bana hafifçe gülümsedi ve yarım kalan içkisini bıraktı."
+
+
+translate turkish ep007_vess_5d6af8ed:
+
+
+    ve "Korkarım benim için fazla, uzanacağım."
+
+
+translate turkish ep007_vess_edd836f2:
+
+
+    "Bardağımı boşalttım ve smokinden sıyrıldım."
+
+
+translate turkish ep007_vess_386d84d9:
+
+
+    "Vess'in vücudunun kıvrımlarına hayran kalarak kendimi yatağa bıraktım."
+
+
+translate turkish ep007_vess_d6bd2d6d:
+
+
+    "Sırtüstü uzanıp gözlerimi kapattım ve kendimi uykuya bırakmak üzereydim."
+
+
+translate turkish ep007_vess_2b72d6cb:
+
+
+    ve "[p_name_short]?"
+
+
+translate turkish ep007_vess_c5f9e5a0:
+
+
+    ve "Beni tutabilir misin, sadece uykuya dalmama yardımcı olmak için?"
+
+
+translate turkish ep007_vess_6c0a7816:
+
+
+    "Kalbim sıçradı ve sessizce onu kollarıma aldım, vücudu benimkine sokuldu."
+
+
+translate turkish ep007_vess_dfd2576c:
+
+
+    "Konuşarak anı bozmak istemedim, ayrıca alkolün etkileri hızla beni yakalıyordu."
+
+
+translate turkish ep007_vess_49d5b0fa:
+
+
+    "Çok derin bir uykuya dalmam uzun sürmedi."
+
+
+translate turkish ep007_vess_593cc76f:
+
+
+    "Alkol kaynaklı bir kabustan sonra bir kez uyandım, detaylarını hatırlayamadığım."
+
+
+translate turkish ep007_vess_2857504c:
+
+
+    c "Vess?"
+
+
+translate turkish ep007_vess_5250f809:
+
+
+    "Ya da belki hiç uyanmadım ve hepsi aynı ateşli rüyanın parçasıydı, çünkü bir sonraki uyanışımda o tam yanımdaydı."
+
+
+translate turkish ep007_vess_624dc8c1:
+
+
+    "Vess hafifçe inledi."
+
+
+translate turkish ep007_vess_9fb1b352:
+
+
+    "Vücudu benimkine yapışmıştı, götü yavaşça sikime sürtünüyordu."
+
+
+translate turkish ep007_vess_bd94aae0:
+
+
+    "Sikim götüne sürtünürken hissettim."
+
+
+translate turkish ep007_vess_a051a6e6:
+
+
+    "Uyanık mıydı ki?"
+
+
+translate turkish ep007_vess_6a3bdb88:
+
+
+    "Sonunda Vess tekrar uykuya daldı."
+
+
+translate turkish ep007_vess_ecc0d7fe:
+
+
+    "Ne yazık ki büyük bir sikle baş başa kaldım ve onunla ilgilenecek kendimden başka kimse yoktu..."
+
+
+translate turkish ep007_vess_0f953818:
+
+
+    "O anda durumun gerçekliği de üzerime çöktü, boşalma ihtimalini tamamen yok etti."
+
+
+translate turkish ep007_vess_6fd509ad:
+
+
+    "Hala Cetruvar'ın malikanesinden kaçmak için bir planım yoktu ve saat ilerliyordu..."
+
+
+translate turkish ep007_vess_36d9f865:
+
+
+    "Odama dönüp kafamı yormaya ve bir kaçış planı yapmaya karar verdim."
+
+
+translate turkish ep007_vess_53e08918:
+
+
+    "Eğer henüz uyanmamışsa, işler çok utanç verici olabilirdi, bu yüzden geri çekildim."
+
+
+translate turkish ep007_vess_a9458e47:
+
+
+    "Ani hareket Vess'i şaşırtmış görünmüyordu, karnının üzerine döndü."
+
+
+translate turkish ep007_vess_e42fba1a:
+
+
+    "Muhtemelen derin uykudaydı, bu yüzden işler tekrar kontrolden çıkmadan odama dönmeye karar verdim."
+
+
+translate turkish ep007_vess_a86451a7:
+
+
+    "Ayrıca, hala Cetruvar'ın malikanesinden kaçmak için bir planım yoktu."
+
+
+translate turkish ep007_vess_a3185665:
+
+
+    c "Bunun iyi bir fikir olduğundan emin değilim, Vess."
+
+
+translate turkish ep007_vess_121ababf:
+
+
+    ve "Doğru, haklısın, tabii ki."
+
+
+translate turkish ep007_vess_2a0902d4:
+
+
+    ve "İyi uykular, [p_name]."
+
+
+translate turkish ep007_vess_beedc328:
+
+
+    c "Sen de, Vess."
+
+
+translate turkish ep007_vess_c50a984d:
+
+
+    c "Ve unutma, ihtiyacın olursa hemen yan odadayım."
+
+
+translate turkish ep007_vess_f1457fa1:
+
+
+    ve "Tabii ki, teşekkür ederim."
+
+
+translate turkish ep007_vess_675ad5cf:
+
+
+    c "Eminim mürettebatın geri kalanının bununla bir sorunu olmaz."
+
+
+translate turkish ep007_vess_e9307c26:
+
+
+    ve "Bunu duyduğuma sevindim."
+
+
+translate turkish ep007_vess_d9720ca8:
+
+
+    ve "Arkadaşlığın için teşekkürler, [p_name_short], ama artık biraz uyumaya çalışmak istiyorum."
+
+
+translate turkish ep007_vess_cf0f6519:
+
+
+    c "Tabii ki, iyi uykular Vess."
+
+
+translate turkish ep007_vess_5d89cc61:
+
+
+    "Kız sadece gülümsedi ve odadan çıkışımı izledi."
+
+
+translate turkish ep007_vess_30647064:
+
+
+    c "Hemen yan odadayım, bir şey olursa bağır, anında oradayım."
+
+
+translate turkish ep007_vess_b62c291a:
+
+
+    ve "Teşekkürler, [p_name]."
+
+
+translate turkish ep007_vess_7ae87016:
+
+
+    c "İyi uykular Vess."
+
+
+translate turkish ep007_vess_d349c01f:
+
+
+    ve "Sen de, [p_name_short]."
+
+
+translate turkish ep007_vess_b4b02f84:
+
+
+    c "Boşver, hayal görüyor olmalıyım."
+
+
+translate turkish ep007_vess_7ae87016_1:
+
+
+    c "İyi uykular Vess."
+
+
+translate turkish ep007_vess_6f627325:
+
+
+    ve "İyi geceler, [p_name]."
+
+
+translate turkish ep007_thyia_2fe9005a:
+
+
+    "Thyia'ya makine dairesine giderken yetiştim."
+
+
+translate turkish ep007_thyia_7f0b6519:
+
+
+    c "Hey Thyia, bekle."
+
+
+translate turkish ep007_thyia_5c508a19:
+
+
+    "Bana bakmak için başını çevirdi ama yavaşlamadı, ben de ona doğru koştum."
+
+
+translate turkish ep007_thyia_7bb1d557:
+
+
+    c "Konuşabilir miyiz diye merak ediyordum."
+
+
+translate turkish ep007_thyia_f75b53d9:
+
+
+    th "Ne hakkında?"
+
+
+translate turkish ep007_thyia_8904d74f:
+
+
+    c "Almagest'te olanlar hakkında."
+
+
+translate turkish ep007_thyia_bc7d7c14:
+
+
+    th "Planımız işe yaradı.{w} Kız kardeşinin yerini bulduk ve şimdi yoldayız.{w} Yaşasın."
+
+
+translate turkish ep007_thyia_ea39e297:
+
+
+    th "Planımız işe yaradı.{w} Arkadaşının yerini bulduk ve şimdi yoldayız.{w} Yaşasın."
+
+
+translate turkish ep007_thyia_5b348017:
+
+
+    c "Neden bahsettiğimi biliyorsun."
+
+
+translate turkish ep007_thyia_8e8f2821:
+
+
+    "Makine dairesine ulaşmıştık ve kapıyı açtıktan sonra Thyia yürümeye devam etti."
+
+
+translate turkish ep007_thyia_22731138:
+
+
+    th "Konuşacak ne var ki?"
+
+
+translate turkish ep007_thyia_75b82456:
+
+
+    c "Öpüştük."
+
+
+translate turkish ep007_thyia_2051358b:
+
+
+    th "Eee?"
+
+
+translate turkish ep007_thyia_6d732b33:
+
+
+    th "Sana bunun bir seferlik olduğunu söylemiştim."
+
+
+translate turkish ep007_thyia_e706d122:
+
+
+    th "Atölyemde de sikişmiştik."
+
+
+translate turkish ep007_thyia_affcc0e4:
+
+
+    th "Bana kalırsa bu bir seferlikti."
+
+
+translate turkish ep007_thyia_83f53cc5:
+
+
+    th "Bir nöbetçiyi oyalamak için bir öpücük ve işe yaradı."
+
+
+translate turkish ep007_thyia_68bd73ec:
+
+
+    c "O öpücük kesinlikle farklı bir mesaj verdi."
+
+
+translate turkish ep007_thyia_9d5481f4:
+
+
+    c "Özellikle ikinci seferde ortada nöbetçi yokken..."
+
+
+translate turkish ep007_thyia_b8bdb705:
+
+
+    c "Dur, neden soyunuyorsun?"
+
+
+translate turkish ep007_thyia_c3f1e33f:
+
+
+    th "Çünkü uyumak istiyorum."
+
+
+translate turkish ep007_thyia_7214cfe2:
+
+
+    c "Ah..."
+
+
+translate turkish ep007_thyia_72aeab20:
+
+
+    c "Hadi ama Thyia, bunun beni uzak tutmak için bir numara olduğunu biliyorum."
+
+
+translate turkish ep007_thyia_cea52b06:
+
+
+    th "Ne sikimden bahsediyorsun sen?!"
+
+
+translate turkish ep007_thyia_520f6064:
+
+
+    c "İtiraf et, bunu sadece beni rahatsız etmek için yapıyorsun."
+
+
+translate turkish ep007_thyia_19775a01:
+
+
+    c "Sorun şu ki, seni zaten çıplak gördüm, o yüzden devam et ve tüm kıyafetlerini çıkar."
+
+
+translate turkish ep007_thyia_e3376a17:
+
+
+    c "Sorun şu ki, çıplak kadınları seviyorum, o yüzden devam et ve tüm kıyafetlerini çıkar."
+
+
+translate turkish ep007_thyia_3522c826:
+
+
+    th "..."
+
+
+translate turkish ep007_thyia_d4c5df8a:
+
+
+    c "Tamam, hiçbir şey söyleme."
+
+
+translate turkish ep007_thyia_f7d0409d:
+
+
+    c "Sadece o koridorda beni öptüğün için mutlu olduğumu söyleyeceğim."
+
+
+translate turkish ep007_thyia_d83617cd:
+
+
+    c "Vulpes'teki küçük sikişmemizin senin için bir seferlik olduğunu biliyorum."
+
+
+translate turkish ep007_thyia_0f167641:
+
+
+    c "Vulpes'teki küçük sikişmemizin senin için sadece biraz eğlence olduğunu biliyorum, çünkü o zamanlar benim için de öyleydi."
+
+
+translate turkish ep007_thyia_9cf3e27a:
+
+
+    c "Seni gerçekten takdir etmeye başladım, Thyia."
+
+
+translate turkish ep007_thyia_5a8cf958:
+
+
+    c "Ama seni gerçekten takdir etmeye başladım, Thyia."
+
+
+translate turkish ep007_thyia_edd7c16e:
+
+
+    c "Ve içten içe senin de aynı şekilde hissettiğini düşünüyorum, yoksa Almagest'teki o öpücüğü açıklayamam."
+
+
+translate turkish ep007_thyia_a29849ee:
+
+
+    th "Vay amına koyayım."
+
+
+translate turkish ep007_thyia_9eec8739:
+
+
+    c "Biliyor musun? Bu hiçbir yere varmayacak zaten."
+
+
+translate turkish ep007_thyia_717f7343:
+
+
+    c "İyi geceler, Thyia."
+
+
+translate turkish ep007_thyia_34f16f09:
+
+
+    th "İyi geceler."
+
+
+translate turkish ep007_thyia_4c07a863:
+
+
+    c "Tamam, o zaman iyi uykular."
+
+
+translate turkish ep007_thyia_646848ec:
+
+
+    th "Evet, sen de..."
+
+
+translate turkish ep007_aven_0fc5fb57:
+
+
+    "Odama çekildikten kısa bir süre sonra kapım çalındı."
+
+
+translate turkish ep007_aven_c212b281:
+
+
+    av "Kimsenin beni gördüğünü sanmıyorum."
+
+
+translate turkish ep007_aven_54abdce7:
+
+
+    c "Gemide gizlice dolaşıyor muydun, Aven?"
+
+
+translate turkish ep007_aven_d9199f37:
+
+
+    c "O zaman neden buraya gizlice gelmiyorsun?"
+
+
+translate turkish ep007_aven_22b54613:
+
+
+    av "Harika fikir."
+
+
+translate turkish ep007_aven_c1b0819a:
+
+
+    "Yatağıma gelmeden önce Aven kıyafetlerini çıkardı ve muhteşem vücudunu bana gösterdi."
+
+
+translate turkish ep007_aven_1561f12b:
+
+
+    av "Bakıyorsun."
+
+
+translate turkish ep007_aven_f705f491:
+
+
+    av "Bu seni hem aptal hem de kesinlikle sevimli gösteriyor."
+
+
+translate turkish ep007_aven_7b93bbf6:
+
+
+    c "Götüne şaplak atılmalı, bunu biliyorsun."
+
+
+translate turkish ep007_aven_0f489028:
+
+
+    av "Peki şimdi, birden seksi olmadık mı?"
+
+
+translate turkish ep007_aven_532ef4be:
+
+
+    "Aven güldü ve kendini bana yasladı."
+
+
+translate turkish ep007_aven_d3e106c8:
+
+
+    av "Gergin misin?"
+
+
+translate turkish ep007_aven_27e906d1:
+
+
+    c "Biraz."
+
+
+translate turkish ep007_aven_b7dc6258:
+
+
+    av "Biraz mı?{w} Kalp atışlarını kapının dışından duyabiliyordum."
+
+
+translate turkish ep007_aven_a8dd8b71:
+
+
+    c "Birden abartılı konuşmaya başladın, değil mi?"
+
+
+translate turkish ep007_aven_e20877e7:
+
+
+    av "Evet...{w} Çünkü götüm tutuşuyor."
+
+
+translate turkish ep007_aven_5dbbffe8:
+
+
+    av "Sen...{w} Bu konuda tereddütlerin var mı?"
+
+
+translate turkish ep007_aven_299d153d:
+
+
+    c "Bilmiyorum."
+
+
+translate turkish ep007_aven_748689d4:
+
+
+    c "Bunun ahlaken yanlış olduğunu biliyorum."
+
+
+translate turkish ep007_aven_59c2bfba:
+
+
+    c "Eğer bunların hepsi ortaya çıkarsa parya oluruz."
+
+
+translate turkish ep007_aven_911387aa:
+
+
+    c "Bunun birçok kişi için şok olacağını biliyorum."
+
+
+translate turkish ep007_aven_9ced86a1:
+
+
+    c "Ne düşüneceklerinden emin değilim."
+
+
+translate turkish ep007_aven_92a5f099:
+
+
+    av "Ne sikimdir bu, [p_name_short]?!"
+
+
+translate turkish ep007_aven_df4bf908:
+
+
+    av "Benimle oynuyor, havayı öldürüyor musun?"
+
+
+translate turkish ep007_aven_896843ff:
+
+
+    c "Hayır, ben-"
+
+
+translate turkish ep007_aven_105d4aa6:
+
+
+    av "Ben buraya savunmasız geliyorum ve sen sadece ahlak hakkında saçmalıklar mı söylüyorsun?!"
+
+
+translate turkish ep007_aven_c6e58997:
+
+
+    av "Ben buraya savunmasız geliyorum ve sen sadece başkalarının duyguları hakkında saçmalıklar mı söylüyorsun?!"
+
+
+translate turkish ep007_aven_7126ee0d:
+
+
+    av "Siktir git!"
+
+
+translate turkish ep007_aven_6106c8f4:
+
+
+    "Aven öfkeyle fırtına gibi çıktı, kıyafetlerini unutarak."
+
+
+translate turkish ep007_aven_e69e42b8:
+
+
+    c "Hayır."
+
+
+translate turkish ep007_aven_ae4cc0cd:
+
+
+    av "Bu kesin gibi görünüyor."
+
+
+translate turkish ep007_aven_5d5583ab:
+
+
+    c "Öyle."
+
+
+translate turkish ep007_aven_1fb03af0:
+
+
+    av "Ama-"
+
+
+translate turkish ep007_aven_5d1f62c9:
+
+
+    c "Kapa çeneni."
+
+
+translate turkish ep007_celine_754bbe12:
+
+
+    "Köprüye geri döndüğümde Céline'i hala sandalyesinde buldum."
+
+
+translate turkish ep007_celine_dfbf8579:
+
+
+    c "Erigone'a manuel olarak mı uçuyorsun?"
+
+
+translate turkish ep007_celine_ef101571:
+
+
+    ce "Sadece biraz, zihnimi sakinleştiriyor."
+
+
+translate turkish ep007_celine_3e6372d6:
+
+
+    ce "Aslında uyumak üzereydim."
+
+
+translate turkish ep007_celine_3eadc15d:
+
+
+    c "Evet, mürettebatın çoğu yatmaya gitti sanırım."
+
+
+translate turkish ep007_celine_d54638e3:
+
+
+    c "Bu arada, köstebeğimizin düşmanla iletişimi hakkında yeni bir şey var mı?"
+
+
+translate turkish ep007_celine_1d1abc18:
+
+
+    ce "Hayır, hiçbir şey yok, ne Almagest'te ne de yörüngeden ayrıldıktan sonra"
+
+
+translate turkish ep007_celine_7857ed3a:
+
+
+    ce "Gerçi düşmanlarımızla konuştuklarından emin olamayız."
+
+
+translate turkish ep007_celine_358e4521:
+
+
+    c "Oldukça eminim öyleler."
+
+
+translate turkish ep007_celine_02c756ee:
+
+
+    c "O kadınların malikaneye gelişi tesadüf değildi."
+
+
+translate turkish ep007_celine_48793930:
+
+
+    ce "Belki de haklısın."
+
+
+translate turkish ep007_celine_7c1886c8:
+
+
+    c "Neyse, izlemeye devam et ama Erigone'a varmadan önce biraz dinlen."
+
+
+translate turkish ep007_celine_faa2f03a:
+
+
+    c "Ben de odama gidip tam olarak bunu yapacağım."
+
+
+translate turkish ep007_celine_a61c7a0c:
+
+
+    ce "Gitmeden önce gerçekten bir öpücük istiyorum."
+
+
+translate turkish ep007_celine_cbce38d5:
+
+
+    "Sarıldık ve onu öptüm, Céline kendini tamamen bana bıraktı."
+
+
+translate turkish ep007_celine_9eb431c8:
+
+
+    "Sonunda birbirimize iyi geceler öpücüğü verdik ve ayrıldık."
+
+
+translate turkish ep007_celine_1c6a7480:
+
+
+    "Céline kıyafetlerini geri giydi, sandalyesine geri sokuldu ve Bastard'ın kontrolünü tekrar ele aldı."
+
+
+translate turkish ep007_celine_1f772d82:
+
+
+    "Birbirimize iyi geceler öpücüğü verdik ve ayrıldık."
+
+
+translate turkish ep007_celine_4bc248ca:
+
+
+    "Céline sandalyesine geri sokuldu ve Bastard'ın kontrolünü tekrar ele aldı."
+
+
+translate turkish ep007_celine_7f760824:
+
+
+    ce "İstediğin bir şey mi vardı?"
+
+
+translate turkish ep007_celine_b3091e65:
+
+
+    c "Sadece köstebeğimizin düşmanla tekrar iletişime geçmeye karar verip vermediğini kontrol ediyorum."
+
+
+translate turkish ep007_celine_0915d466:
+
+
+    ce "Hayır, ne Almagest'te ne de yörüngeden ayrıldıktan sonra herhangi bir yasadışı iletişim olmadı."
+
+
+translate turkish ep007_celine_7857ed3a_1:
+
+
+    ce "Gerçi düşmanlarımızla konuştuklarından emin olamayız."
+
+
+translate turkish ep007_celine_358e4521_1:
+
+
+    c "Oldukça eminim öyleler."
+
+
+translate turkish ep007_celine_02c756ee_1:
+
+
+    c "O kadınların malikaneye gelişi tesadüf değildi."
+
+
+translate turkish ep007_celine_7c1886c8_1:
+
+
+    c "Neyse, izlemeye devam et ama Erigone'a varmadan önce biraz dinlen."
+
+
+translate turkish ep007_celine_e87d1a00:
+
+
+    ce "Öyle yapacağım, teşekkürler."
+
+
+translate turkish ep007_ceremony_3f73b4ac:
+
+
+    "Dağ gibi bir adam odaya girdiğinde insanlar alkışlamaya başladı."
+
+
+translate turkish ep007_ceremony_4abbe8fa:
+
+
+    c "Bu bir insan erkeği, değil mi?"
+
+
+translate turkish ep007_ceremony_44bb3730:
+
+
+    na "Evet, insan olduğuna inanıyorum."
+
+
+translate turkish ep007_ceremony_3d9726c2:
+
+
+    na "Yalvai'lerin insan konakçılarda geliştiği söylenir."
+
+
+translate turkish ep007_ceremony_f5f7c27d:
+
+
+    c "Doğru."
+
+
 translate turkish ep007_ceremony_6a770ccc:
 
-    # c "I take that the fact that he looks like a giant is because of the parasite?"
-    c "Bir dev gibi görünmesinin parazit yüzünden olduğunu kabul ediyorum?"
 
-# game/episode007.rpy:2198
+    c "Dev gibi görünmesinin sebebinin parazit olduğunu varsayıyorum?"
+
+
 translate turkish ep007_ceremony_821823a5:
 
-    # na "I suppose so."
-    na "Bende öyle tahmin ediyorum."
 
-# game/episode007.rpy:2199
+    na "Sanırım öyle."
+
+
 translate turkish ep007_ceremony_395307db:
 
-    # "With his back turned to the audience, the giant started to remove his loincloth."
-    "Sırtını seyirciye çevirirken, dev somankotunu kaldırmaya başladı."
 
-# game/episode007.rpy:2201
+    "Sırtı izleyicilere dönük olan dev, peştemalini çıkarmaya başladı."
+
+
 translate turkish ep007_ceremony_6158dc7a:
 
-    # "Several women hooted when the cloth dropped at his feet, baring his ass."
-    "Birkaç kadın, bez ayaklarına düştüğünde, kıçını engelledi."
 
-# game/episode007.rpy:2203
+    "Bez ayaklarının dibine düştüğünde ve götü açığa çıktığında birkaç kadın ıslık çaldı."
+
+
 translate turkish ep007_ceremony_407512f6:
 
-    # "The delighted yelps made way for gasps when the man turned around and revealed his cock."
-    "Memnun Yelps, adam döndüğünde ve horozunu ortaya çıkardığında soluk solukluk için yol yaptı."
 
-# game/episode007.rpy:2204
+    "Adam döndüğünde ve sikini gösterdiğinde keyifli çığlıklar yerini nefes kesintilerine bıraktı."
+
+
 translate turkish ep007_ceremony_b0f95e95:
 
-    # "The thing was unlike anything I'd ever seen, weirdly gnarled and deformed, not to mention quite huge."
-    "Şimdiye kadar gördüğüm hiçbir şeye benzemiyordu, garip bir şekilde budasıydı ve deforme olmuştu, oldukça büyük bahsetmiyorum."
 
-# game/episode007.rpy:2206
+    "Bu şey daha önce gördüğüm hiçbir şeye benzemiyordu, tuhaf bir şekilde düğümlü ve deforme olmuştu, oldukça kocaman olduğundan bahsetmiyorum bile."
+
+
 translate turkish ep007_ceremony_b03f7269:
 
-    # c "Also the work of the parasite, I take it?"
-    c "Ayrıca parazitin işi, alıyorum?"
 
-# game/episode007.rpy:2207
+    c "Bu da parazitin işi, öyle mi?"
+
+
 translate turkish ep007_ceremony_4c73cadc:
 
-    # na "Yes, it doesn't look pretty, does it?"
+
     na "Evet, güzel görünmüyor, değil mi?"
 
-# game/episode007.rpy:2209
+
 translate turkish ep007_ceremony_3811975a:
 
-    # "Before I could answer a young woman entered the room, dressed in the same simple garments as the giant."
-    "Cevap vermeden önce, genç bir kadın devle aynı basit giysiler giymiş odaya girdi."
 
-# game/episode007.rpy:2210
+    "Ben cevap veremeden genç bir kadın odaya girdi, devin giydiği gibi basit giysiler giymişti."
+
+
 translate turkish ep007_ceremony_3ed7745d:
 
-    # c "Wait...{w} They aren't going to...{w} You know..."
-    c "Beklemek...{w} Yapmayacaklar ...{w} Biliyorsun..."
 
-# game/episode007.rpy:2211
+    c "Dur...{w} Onlar...{w} Bilirsin..."
+
+
 translate turkish ep007_ceremony_3fac0987:
 
-    # na "Yes, I believe they're going to have sex."
-    na "Evet, seks yapacaklarına inanıyorum."
 
-# game/episode007.rpy:2212
+    na "Evet, sikişecekler sanırım."
+
+
 translate turkish ep007_ceremony_ba1226fb:
 
-    # c "She'll break in two!"
-    c "O ikisini kıracak!"
 
-# game/episode007.rpy:2214
+    c "İkiye bölünecek!"
+
+
 translate turkish ep007_ceremony_faa63138:
 
-    # na "The parasite will take care of that...{w} Hopefully..."
-    na "Parazit bununla ilgilenecek ...{w} Umutla..."
 
-# game/episode007.rpy:2215
+    na "Parazit bununla ilgilenecek...{w} Umarım..."
+
+
 translate turkish ep007_ceremony_4069883c:
 
-    # c "That doesn't sound all too reassuring."
-    c "Bu çok güven verici gelmiyor."
 
-# game/episode007.rpy:2220
+    c "Bu pek güven verici gelmiyor."
+
+
 translate turkish ep007_ceremony_286ca8b3:
 
-    # "The woman dropped the loose gown she was wearing to reveal her shapely body."
-    "Kadın, vücudunu ortaya çıkarmak için giydiği gevşek elbiseyi düşürdü."
 
-# game/episode007.rpy:2221
+    "Kadın üzerindeki bol elbiseyi çıkarıp biçimli vücudunu gösterdi."
+
+
 translate turkish ep007_ceremony_1f800c81:
 
-    # "She regarded her audience with a fevered gaze of anticipation and pure lust."
-    "İzleyicisini ateşli bir beklenti ve saf şehvet bakışıyla gördü."
 
-# game/episode007.rpy:2222
+    "İzleyicilerine beklenti ve saf şehvet dolu ateşli bir bakışla baktı."
+
+
 translate turkish ep007_ceremony_a510be1c:
 
-    # c "I don't think this is her first time."
-    c "Bunun ilk kez olduğunu sanmıyorum."
 
-# game/episode007.rpy:2224
+    c "Bunun onun ilk kez olmadığını düşünüyorum."
+
+
 translate turkish ep007_ceremony_0058fd77:
 
-    # na "Probably not, the Yalvai mating ritual is supposed to be very addictive."
-    na "Muhtemelen hayır, Yalvai çiftleşme ritüeli çok bağımlılık yapmalıdır."
 
-# game/episode007.rpy:2226
+    na "Muhtemelen değil, Yalvai çiftleşme ritüelinin çok bağımlılık yapıcı olduğu söylenir."
+
+
 translate turkish ep007_ceremony_e0feb3e9:
 
-    # "The young woman dropped to her knees after a series of movements that were clearly choreographed."
-    "Genç kadın, açıkça koreografiye tabi tutulan bir dizi hareketten sonra dizlerinin üstüne düştü."
 
-# game/episode007.rpy:2227
+    "Genç kadın açıkça koreografisi yapılmış bir dizi hareketten sonra dizlerinin üzerine çöktü."
+
+
 translate turkish ep007_ceremony_e0f733f6:
 
-    # "Whatever debased sexual acts they would perform, it would all be covered in a thin veneer of ritualistic spirituality."
-    "Yapacakları cinsel eylemler ne olursa olsun, hepsi ritüel maneviyatın ince bir kaplamasıyla kaplanacaktı."
 
-# game/episode007.rpy:2229
+    "Ne tür aşağılayıcı cinsel eylemler yapacak olurlarsa olsunlar, hepsi ritüel maneviyatının ince bir cilası altında örtülecekti."
+
+
 translate turkish ep007_ceremony_fb04a6f5:
 
-    # "The giant approached, his cock growing even larger than before."
-    "Dev yaklaştı, horoz eskisinden bile daha büyük büyüyor."
 
-# game/episode007.rpy:2230
+    "Dev yaklaştı, siki öncekinden daha da büyüyordu."
+
+
 translate turkish ep007_ceremony_a28d5785:
 
-    # woman "I humbly accept your Seed."
-    woman "Tohumunu alçakgönüllü bir şekilde kabul ediyorum."
 
-# game/episode007.rpy:2232
+    woman "Dölünü alçakgönüllülükle kabul ediyorum."
+
+
 translate turkish ep007_ceremony_44b67239:
 
-    # woman "Please fuck me until I'm ready to Birth the Reward."
-    woman "Ödülü doğurmaya hazır olana kadar lütfen beni becer."
 
-# game/episode007.rpy:2233
+    woman "Lütfen beni Ödülü Doğurmaya hazır olana kadar sik."
+
+
 translate turkish ep007_ceremony_42abf8a7:
 
-    # "I had to suppress a snigger because of the woman's overly dramatic tone."
-    "Kadının aşırı dramatik tonu nedeniyle bir snigger'ı bastırmak zorunda kaldım."
 
-# game/episode007.rpy:2235
+    "Kadının aşırı dramatik tonu yüzünden kıkırdamamı bastırmak zorunda kaldım."
+
+
 translate turkish ep007_ceremony_a76039ea:
 
-    # "Feeling a little weird I was actually about to watch two people fucking in front of an audience together with my aunt, I stole a glance at her."
-    "Biraz garip hissediyorum Aslında teyzemle birlikte bir izleyicinin önünde iki kişiyi izlemek üzereydim, ona bir bakış attım."
 
-# game/episode007.rpy:2237
+    "Teyzem ile birlikte bir izleyici kitlesinin önünde sikişen iki kişiyi izlemek üzere olduğum için biraz tuhaf hissederek ona göz attım."
+
+
 translate turkish ep007_ceremony_74f33a2d:
 
-    # "Feeling a little weird I was actually about to watch two people fucking in front of an audience together with Nadya, I stole a glance at her."
-    "Biraz garip hissediyorum aslında Nadya ile birlikte bir izleyicinin önünde iki kişiyi izlemek üzereydim, ona bir bakış attım."
 
-# game/episode007.rpy:2239
+    "Nadya ile birlikte bir izleyici kitlesinin önünde sikişen iki kişiyi izlemek üzere olduğum için biraz tuhaf hissederek ona göz attım."
+
+
 translate turkish ep007_ceremony_0aef7de6:
 
-    # "Nadya was obviously caught up in all of the proceedings and didn't want to miss any detail."
-    "Nadya açıkça tüm yargılamalara yakalandı ve herhangi bir ayrıntıyı kaçırmak istemedi."
 
-# game/episode007.rpy:2240
+    "Nadya açıkça tüm olanlara kapılmıştı ve hiçbir ayrıntıyı kaçırmak istemiyordu."
+
+
 translate turkish ep007_ceremony_d34f4c46:
 
-    # "In contrast with the rest of the audience, her interest was probably completely fuelled by scientific interest instead of sensationalism."
-    "İzleyicilerin geri kalanının aksine, ilgisi muhtemelen sansasyonalizm yerine bilimsel ilgi ile tamamen körüklendi."
 
-# game/episode007.rpy:2242
+    "İzleyicilerin geri kalanının aksine, onun ilgisi muhtemelen sansasyonellik yerine tamamen bilimsel ilgiden kaynaklanıyordu."
+
+
 translate turkish ep007_ceremony_2fa3ff81:
 
-    # "A cry of pain shocked everyone as the giant pushed his giant cock inside the woman, who clearly needed more time to adjust."
-    "Dev, dev horozunu, uyum sağlamak için daha fazla zamana ihtiyaç duyan kadının içine iterken herkesi şok etti."
 
-# game/episode007.rpy:2244
+    "Dev, kocaman sikini kadının içine iterken acı dolu bir çığlık herkesi şoke etti, kadının açıkça daha fazla zamana ihtiyacı vardı."
+
+
 translate turkish ep007_ceremony_d423b903:
 
-    # "I watched the entire length of the crooked dick disappear inside the woman's vagina."
-    "Çarpık dick'in tüm uzunluğunun kadının vajinasının içinde kaybolduğunu izledim."
 
-# game/episode007.rpy:2245
+    "Eğri sikin tamamının kadının amının içinde kaybolmasını izledim."
+
+
 translate turkish ep007_ceremony_18e11061:
 
-    # "She didn't seem in pain any longer, but more in a trance-like state, urging him to start fucking."
-    "Artık acı içinde görünmüyordu, ama daha çok trans benzeri bir durumda, onu lanet etmeye başlamaya çağırıyor."
 
-# game/episode007.rpy:2247
+    "Artık acı çekiyor gibi görünmüyordu, daha çok trans benzeri bir durumda, onu sikmeye başlaması için teşvik ediyordu."
+
+
 translate turkish ep007_ceremony_e785f614:
 
-    # na "See how the Yalvai is already doing its transformative work?"
-    na "Yalvai'nin zaten dönüştürücü çalışmalarını nasıl yaptığını görüyor musunuz?"
 
-# game/episode007.rpy:2248
+    na "Yalvai'nin dönüştürücü işini nasıl yaptığını görüyor musun?"
+
+
 translate turkish ep007_ceremony_7fddf13a:
 
-    # na "This would kill a normal human being, but the parasite has released certain fluids to make the woman's vagina accommodate the penis."
-    na "Bu normal bir insanı öldürür, ancak parazit, kadının vajinasının penisi barındırması için belirli sıvılar serbest bırakmıştır."
 
-# game/episode007.rpy:2249
+    na "Bu normal bir insanı öldürürdü, ama parazit kadının amının siki alabilmesi için bazı sıvılar salgıladı."
+
+
 translate turkish ep007_ceremony_3b5d9b51:
 
-    # "Nadya's biology lesson wasn't appreciated by some members of the audience, who turned to shush us."
-    "Nadya'nın biyoloji dersi, bizi süzmeye yönelen bazı izleyiciler tarafından takdir edilmedi."
 
-# game/episode007.rpy:2251
+    "Nadya'nın biyoloji dersi, bizi susturmak için dönen bazı izleyiciler tarafından takdir edilmedi."
+
+
 translate turkish ep007_ceremony_139f2c90:
 
-    # "The giant was now fucking the woman, pushing her against the cushion of the ottoman."
-    "Dev şimdi kadını lanetledi, onu Osmanlı'nın yastığına karşı itiyordu."
 
-# game/episode007.rpy:2252
+    "Dev şimdi kadını sikiyordu ve onu sedirin minderine doğru itiyordu."
+
+
 translate turkish ep007_ceremony_0818e4d3:
 
-    # "She was like a doll in his hands, speared on his enormous cock."
-    "Elinde bir bebek gibiydi, muazzam horozuna mızrak oldu."
 
-# game/episode007.rpy:2254
+    "Kocaman sikine saplanmış, onun ellerinde bir bebek gibiydi."
+
+
 translate turkish ep007_ceremony_bfa63178:
 
-    # "The girl drooled and moaned as her stomach bulged unnaturally."
-    "Kız midesi doğal olmayan bir şekilde şişirildiğinde kızardı ve inledi."
 
-# game/episode007.rpy:2256
+    "Kızın karnı doğal olmayan bir şekilde şişerken salyaları akıyor ve inliyordu."
+
+
 translate turkish ep007_ceremony_38d23246:
 
-    # "The towering man lifted the girl up, his cock still deep inside her cunt and turned her towards us."
-    "Yükselen adam kızı kaldırdı, horoz hala onun pislik içinde derin ve onu bize doğru çevirdi."
 
-# game/episode007.rpy:2257
+    "Dev adam kızı kaldırdı, siki hala amının derinliklerindeyken onu bize doğru çevirdi."
+
+
 translate turkish ep007_ceremony_362786d3:
 
-    # "Her pussy was extremely dilated to adapt to the giant cock."
-    "Onu kedi dev horoz adapte etmek için son derece dilate oldu."
 
-# game/episode007.rpy:2259
+    "Amı dev sike uyum sağlamak için aşırı genişlemişti."
+
+
 translate turkish ep007_ceremony_9eafd723:
 
-    # "I had never seen so much juice dripping from a cunt along the shaft and onto the floor, where it formed a puddle."
-    "Şaft boyunca ve yere bir su birikintisi oluşturduğu yere bir pislik damlayan çok fazla meyve suyu görmemiştim."
 
-# game/episode007.rpy:2260
+    "Daha önce bir amcıktan sik boyunca ve yerde bir su birikintisi oluşturacak kadar çok döl damladığını hiç görmemiştim."
+
+
 translate turkish ep007_ceremony_fd672728:
 
-    # "Excessive lubrication was probably another way in which the parasite assisted in this whole procedure."
-    "Aşırı yağlama muhtemelen parazitin tüm bu prosedürde yardımcı olmasının başka bir yoluydu."
 
-# game/episode007.rpy:2262
+    "Aşırı kayganlaştırma muhtemelen parazitin bu sürecin tamamına yardımcı olduğu başka bir yoldu."
+
+
 translate turkish ep007_ceremony_f62d2f88:
 
-    # woman "I'm ready to receive the Seed!"
-    woman "Tohumu almaya hazırım!"
 
-# game/episode007.rpy:2263
+    woman "Dölü almaya hazırım!"
+
+
 translate turkish ep007_ceremony_a085e590:
 
-    # woman "Please give me your Seed!"
-    woman "Lütfen bana tohumunu verin!"
 
-# game/episode007.rpy:2264
+    woman "Lütfen bana dölünü ver!"
+
+
 translate turkish ep007_ceremony_da4542a4:
 
-    # "Nearly everyone in the audience seemed to hold their breath."
-    "Seyircilerdeki neredeyse herkes nefeslerini tutuyor gibiydi."
 
-# game/episode007.rpy:2266
+    "İzleyicilerin neredeyse hepsi nefesini tutmuş gibiydi."
+
+
 translate turkish ep007_ceremony_bdeb52b3:
 
-    # "The only audible sounds were the heavy grunting of the giant and the ecstatic moans of the girl."
-    "Tek duyulabilir sesler, devin ve kızın kendinden geçmiş inliyorlarının ağır homurdanmasıydı."
 
-# game/episode007.rpy:2268
+    "Duyulabilen tek sesler devin ağır homurtuları ve kızın kendinden geçmiş inlemeleri idi."
+
+
 translate turkish ep007_ceremony_3708d4c7:
 
-    # "Suddenly, the man roared and the girl screamed."
-    "Aniden, adam kükredi ve kız çığlık attı."
 
-# game/episode007.rpy:2271
+    "Aniden adam kükredi ve kız çığlık attı."
+
+
 translate turkish ep007_ceremony_f951c4a3:
 
-    # "I saw his cock pulsing as the girl convulsed in orgasm."
-    "Orgazm içinde sarılmış kız gibi onun horoz nabız gördüm."
 
-# game/episode007.rpy:2272
+    "Kız orgazm içinde kasılırken onun sikinin nabız gibi attığını gördüm."
+
+
 translate turkish ep007_ceremony_a4508b3f:
 
-    # "He was pumping her full of cum while holding her helplessly in the air."
-    "Onu çaresizce havada tutarken onu cum dolu pompalıyordu."
 
-# game/episode007.rpy:2274
+    "Onu çaresizce havada tutarken dölüyle dolduruyordu."
+
+
 translate turkish ep007_ceremony_34df9164:
 
-    # "The ejaculation wasn't quick."
+
     "Boşalma hızlı değildi."
 
-# game/episode007.rpy:2275
+
 translate turkish ep007_ceremony_516b4da4:
 
-    # "The giant's cock throbbing with each wave of cum shot deep inside the girl."
-    "Dev horoz her bir cum dalga ile kızın derinlik içinde vurdu."
 
-# game/episode007.rpy:2276
+    "Devin siki kızın içine her döl dalgası fışkırdığında zonkluyordu."
+
+
 translate turkish ep007_ceremony_26bd79fe:
 
-    # "I couldn't venture a guess as to the amount he deposited in her, but we all got an idea when her belly started inflating."
-    "Ona yatırdığı miktar hakkında bir tahminde bulunamadım, ancak karnı şişmeye başladığında hepimiz bir fikrimiz var."
 
-# game/episode007.rpy:2278
+    "İçine ne kadar boşaldığını tahmin edemezdim ama karnı şişmeye başladığında hepimiz bir fikir edindik."
+
+
 translate turkish ep007_ceremony_f2482719:
 
-    # c "Is he...{w} Is it that much?"
-    c "O mu...{w} O kadar mı?"
 
-# game/episode007.rpy:2279
+    c "O...{w} Bu kadar çok mu?"
+
+
 translate turkish ep007_ceremony_9aff8287:
 
-    # na "He's now flooding her womb with seed, yes."
-    na "Şimdi rahmini tohumla dolduruyor, evet."
 
-# game/episode007.rpy:2280
+    na "Evet, şu anda rahmini dölle dolduruyor."
+
+
 translate turkish ep007_ceremony_c11d3fbf:
 
-    # "Nadya was still acting like a detached scientist, but I saw many others around me either disgusted or extremely aroused."
-    "Nadya hala müstakil bir bilim adamı gibi davranıyordu, ama etrafımdaki diğerlerinin tiksinmiş ya da aşırı derecede uyandırıldığını gördüm."
 
-# game/episode007.rpy:2282
+    "Nadya hala tarafsız bir bilim insanı gibi davranıyordu, ama etrafımdaki diğer insanların ya iğrendiğini ya da aşırı tahrik olduğunu gördüm."
+
+
 translate turkish ep007_ceremony_3add3ce1:
 
-    # "The girl now looked pregnant with the giant's cum."
-    "Kız şimdi devin cum ile hamile görünüyordu."
 
-# game/episode007.rpy:2283
+    "Kız şimdi devin dölüyle hamile gibi görünüyordu."
+
+
 translate turkish ep007_ceremony_b6e4107e:
 
-    # "With one last roar, the man pulled her from his cock, a dribble of glowing cum immediately flowing from the woman's cunt."
-    "Son bir kükreme ile, adam onu horozundan çekti, hemen kadının pisliğinden akan parlayan cum sarhoş."
 
-# game/episode007.rpy:2285
+    "Son bir kükreme ile adam onu sikinden çekti, parlayan döl hemen kadının amından akmaya başladı."
+
+
 translate turkish ep007_ceremony_50c9c7ef:
 
-    # "She crawled towards the sofa and rested her back against it."
-    "Kanepeye doğru süründü ve ona karşı durdu."
 
-# game/episode007.rpy:2286
+    "Kanepeye doğru sürünerek gitti ve sırtını ona yasladı."
+
+
 translate turkish ep007_ceremony_f7872f23:
 
-    # "Glowing cum was still oozing from her gash when she spread her legs, but her swollen belly didn't diminish."
-    "Parlayan cum bacaklarını yaydığında hala yarasından sızıyordu, ama şişmiş göbeği azalmadı."
 
-# game/episode007.rpy:2287
+    "Bacaklarını açtığında parlayan döl hala amından sızıyordu ama şişmiş karnı küçülmedi."
+
+
 translate turkish ep007_ceremony_1fa8940a:
 
-    # "Nobody paid attention to the giant who left the room quietly."
-    "Kimse odayı sessizce terk eden deve dikkat etmedi."
 
-# game/episode007.rpy:2289
+    "Odadan sessizce çıkan deve kimse dikkat etmedi."
+
+
 translate turkish ep007_ceremony_02f5f422:
 
-    # "All eyes were on the woman, who lay against the sofa wearing a radiant smile and staring in the distance."
-    "Tüm gözler, parlak bir gülümseme giyen ve uzaktan bakan kanepeye karşı uzanan kadın üzerindeydi."
 
-# game/episode007.rpy:2290
+    "Tüm gözler, kanepeye yaslanmış, parlak bir gülümsemeyle uzaklara bakan kadının üzerindeydi."
+
+
 translate turkish ep007_ceremony_a61fd9c9:
 
-    # "A sudden cry and she shivered again and her legs thrashed involuntarily."
-    "Ani bir ağlama ve tekrar titredi ve bacakları istemsizce çöktü."
 
-# game/episode007.rpy:2292
+    "Ani bir çığlık attı ve tekrar titredi, bacakları istemsizce çırpındı."
+
+
 translate turkish ep007_ceremony_aaee4f1f:
 
-    # "Without touching herself, she launched into an orgasm that seemed to erupt from the very core of her being."
-    "Kendine dokunmadan, varlığının çekirdeğinden çıkmış gibi görünen bir orgazm haline geldi."
 
-# game/episode007.rpy:2294
+    "Kendine dokunmadan, varlığının tam merkezinden fışkırıyor gibi görünen bir orgazma başladı."
+
+
 translate turkish ep007_ceremony_5c3d94b2:
 
-    # "Every muscle in her body was taut and she threw her head back."
-    "Vücudundaki her kas gergindi ve başını geri attı."
 
-# game/episode007.rpy:2295
+    "Vücudundaki her kas gergindi ve başını geriye attı."
+
+
 translate turkish ep007_ceremony_ac2b97e0:
 
-    # woman "It comes!"
-    woman "Gelir!"
 
-# game/episode007.rpy:2296
+    woman "Geliyor!"
+
+
 translate turkish ep007_ceremony_8fbfd9d8:
 
-    # "She sat up, straining against the onslaught of the changes that were evidently rippling through her body."
-    "Oturdu, vücudunda açıkça dalgalanan değişikliklerin saldırısına karşı süzüldü."
 
-# game/episode007.rpy:2298
+    "Doğruldu, vücudunda dalgalanan değişimlerin saldırısına karşı zorlanıyordu."
+
+
 translate turkish ep007_ceremony_36010617:
 
-    # "Amidst moans and sighs of extreme pleasure, her gash began to widen, followed by a stream of thick glowing semen."
-    "İnliyor ve aşırı zevk iç çekiyor, yarısı genişlemeye başladı, ardından kalın parlayan bir meni akışı izledi."
 
-# game/episode007.rpy:2302
+    "Aşırı zevk inlemeleri ve iç çekişleri arasında, amı genişlemeye başladı, ardından kalın parlayan döl akışı geldi."
+
+
 translate turkish ep007_ceremony_a6778e29:
 
-    # "She then pushed out something solid and cried in rapture as the egg pushed against the rim of her vagina."
-    "Daha sonra yumurta vajinasının kenarına doğru iterken sağlam bir şey dışarı itti ve rapture'da ağladı."
 
-# game/episode007.rpy:2303
+    "Sonra katı bir şey çıkardı ve yumurta amının kenarına bastırırken kendinden geçerek bağırdı."
+
+
 translate turkish ep007_ceremony_35667733:
 
-    # "The egg pulsed with the same glow as the semen and was as large as a newborn's head."
-    "Yumurta, meni ile aynı parıltı ile darbeli ve yeni doğanın başı kadar büyüktü."
 
-# game/episode007.rpy:2304
+    "Yumurta dölle aynı parlaklıkta nabız gibi atıyordu ve yeni doğmuş bir bebeğin başı kadar büyüktü."
+
+
 translate turkish ep007_ceremony_6461a19a:
 
-    # "When she had pushed out the egg in its entirety another wave of cum flooded from her cunt."
-    "Yumurtayı bütünüyle ittiğinde, onun pisliklerinden sular altında başka bir cum dalgası."
 
-# game/episode007.rpy:2306
+    "Yumurtayı tamamen çıkardığında amından başka bir döl dalgası fışkırdı."
+
+
 translate turkish ep007_ceremony_e2701de2:
 
-    # "Her pussy began to widen again and another egg slipped from her vaginal tract."
-    "Onun kedi tekrar genişlemeye başladı ve başka bir yumurta onun vajinal yolundan kaydı."
 
-# game/episode007.rpy:2308
+    "Amı tekrar genişlemeye başladı ve vajinal kanalından başka bir yumurta kaydı."
+
+
 translate turkish ep007_ceremony_e702414a:
 
-    # "The young woman clawed at the cushions as she experienced one of her numerous orgasms."
-    "Genç kadın, sayısız orgazmlarından birini deneyimlerken minderlere pençeledi."
 
-# game/episode007.rpy:2310
+    "Genç kadın sayısız orgazmlarından birini yaşarken yastıkları tırmaladı."
+
+
 translate turkish ep007_ceremony_c620c08e:
 
-    # "Two more eggs followed until the woman collapsed on the couch drooling and still leaking cum from her slit."
-    "İki yumurta daha izledi, kadın kanepe salya salladı ve hala yarıktan cum sızdırana kadar izledi."
 
-# game/episode007.rpy:2311
+    "Kadın kanepeye yığılıp salyaları akarken ve amından hala döl sızarken iki yumurta daha geldi."
+
+
 translate turkish ep007_ceremony_18aa92aa:
 
-    # "After a short silence, someone started to applaud, soon followed by most of the other people gathered in the room."
-    "Kısa bir sessizlikten sonra, birisi alkışlamaya başladı, kısa süre sonra odada toplanan diğer insanların çoğu izledi."
 
-# game/episode007.rpy:2312
+    "Kısa bir sessizlikten sonra birisi alkışlamaya başladı, ardından odada toplanan diğer insanların çoğu da katıldı."
+
+
 translate turkish ep007_ceremony_14b36c97:
 
-    # "The woman remained on the couch after the applause had died down, breathing deep and staring in the distance in absolute contentment."
-    "Kadın alkışlar öldükten, derin nefes aldıktan ve mutlak memnuniyetle uzaktan baktıktan sonra kanepede kaldı."
 
-# game/episode007.rpy:2321
+    "Alkışlar dindikten sonra kadın kanepede kaldı, derin nefesler alıyor ve mutlak bir memnuniyetle uzaklara bakıyordu."
+
+
 translate turkish ep007_vess_sex_44766da2:
 
-    # "I shifted my hand towards her breast."
+
     "Elimi göğsüne doğru kaydırdım."
 
-# game/episode007.rpy:2322
+
 translate turkish ep007_vess_sex_2f70d7f1:
 
-    # "Her nipples were hard under the gauzy fabric of her nightdress."
-    "Meme uçları geceliklerinin guzez kumaşının altında sertti."
 
-# game/episode007.rpy:2324
+    "Geceliğinin tül kumaşının altında meme uçları sertti."
+
+
 translate turkish ep007_vess_sex_b2553592:
 
-    # "She moaned again, the soft flesh of her butt pressing against my erection."
-    "Tekrar inledi, poposunun yumuşak eti ereksiyonuma bastırdı."
 
-# game/episode007.rpy:2326
+    "Tekrar inledi, kalçasının yumuşak eti ereksiyonuma bastırıyordu."
+
+
 translate turkish ep007_vess_sex_ff0ca6eb:
 
-    # "I freed her breast and massaged the plump flesh softly."
-    "Göğsünü serbest bıraktım ve tombul eti yumuşak bir şekilde masaj yaptım."
 
-# game/episode007.rpy:2327
+    "Göğsünü serbest bıraktım ve dolgun eti yumuşakça masaj yaptım."
+
+
 translate turkish ep007_vess_sex_a5235b3c:
 
-    # "Shallow breaths escaped her as I pulled down her nightdress to reveal her bosom."
-    "Sığ nefesleri kaçtı ve koynunu ortaya çıkarmak için geceliklerini aşağı çektim."
 
-# game/episode007.rpy:2328
+    "Geceliğini çekip göğsünü açarken yüzeysel nefesler verdi."
+
+
 translate turkish ep007_vess_sex_4913b296:
 
-    # "She couldn’t be asleep anymore, but she remained silent, letting her body language do the talking."
-    "Artık uyuyamadı, ama sessiz kaldı ve beden dilinin konuşmasını yapmasına izin verdi."
 
-# game/episode007.rpy:2330
+    "Artık uyuyor olamazdı ama sessiz kaldı, vücut dilinin konuşmasına izin verdi."
+
+
 translate turkish ep007_vess_sex_babb352b:
 
-    # "My hand trailed from her breasts across the naked skin of her belly."
-    "Elim göğüslerinden karnının çıplak derisinde izledi."
 
-# game/episode007.rpy:2331
+    "Elim göğüslerinden karnının çıplak tenine doğru ilerledi."
+
+
 translate turkish ep007_vess_sex_e7ecd2ea:
 
-    # "She opened her legs as I arrived at her mound."
-    "Höyüğüne vardığımda bacaklarını açtı."
 
-# game/episode007.rpy:2332
+    "Kasığına vardığımda bacaklarını açtı."
+
+
 translate turkish ep007_vess_sex_bd388120:
 
-    # "My fingers softly touched her thighs, working their way towards her pussy."
-    "Parmaklarım yumuşakça uyluklarına dokundu, onu kedi yoluna doğru çalıştı."
 
-# game/episode007.rpy:2334
+    "Parmaklarım yumuşakça kalçalarına dokundu, amına doğru ilerledi."
+
+
 translate turkish ep007_vess_sex_a272d666:
 
-    # "Vess was burning up beneath my finger tips and my teasing managed to draw out her first words."
-    "Vess parmak uçlarımın altında yanıyordu ve alayım ilk sözlerini çizmeyi başardı."
 
-# game/episode007.rpy:2335
+    "Vess parmak uçlarımın altında yanıyordu ve kışkırtmam ilk kelimelerini çıkarmayı başardı."
+
+
 translate turkish ep007_vess_sex_da9861c0:
 
-    # ve "Please...{w} Please go on!"
-    ve "Lütfen...{w} Lütfen git!"
 
-# game/episode007.rpy:2337
+    ve "Lütfen...{w} Lütfen devam et!"
+
+
 translate turkish ep007_vess_sex_0bcc6e07:
 
-    # "I gently pushed away her panties which were slick with her moisture."
-    "Nemiyle kaygan olan külotunu nazikçe ittim."
 
-# game/episode007.rpy:2338
+    "Nemleriyle kayganlaşmış külotunu nazikçe kenara ittim."
+
+
 translate turkish ep007_vess_sex_e89487bc:
 
-    # "When I caressed her pussy with my fingers she gasped and thrust her pelvis forward."
-    "Onu parmaklarımla kedi okşadığımda o nefes nefese ve pelvisini öne doğru itti."
 
-# game/episode007.rpy:2340
+    "Parmaklarımla amını okşadığımda nefesi kesildi ve kalçasını öne doğru itti."
+
+
 translate turkish ep007_vess_sex_026f34ba:
 
-    # "Using one finger, I ran along the length of her tight slit, parting her lips ever so slightly."
-    "Bir parmağını kullanarak, sıkı yarının uzunluğu boyunca koştum, dudaklarını çok hafifçe ayırdım."
 
-# game/episode007.rpy:2341
+    "Bir parmağımı kullanarak, dar amı boyunca gezdirdim, dudaklarını hafifçe ayırdım."
+
+
 translate turkish ep007_vess_sex_7b8ca94f:
 
-    # "Vess bit her lip and urged me to continue with small motions of her hand resting on my hip."
-    "Vess dudağını ısırdı ve beni kalçama dayanan elinin küçük hareketleriyle devam etmeye çağırdı."
 
-# game/episode007.rpy:2343
+    "Vess dudağını ısırdı ve kalçama dayalı eliyle küçük hareketlerle devam etmemi istedi."
+
+
 translate turkish ep007_vess_sex_d8db0560:
 
-    # ve "Don’t stop!{w} Please!"
+
     ve "Durma!{w} Lütfen!"
 
-# game/episode007.rpy:2344
+
 translate turkish ep007_vess_sex_107f0ba0:
 
-    # "I started running a finger across her labia again, more slowly this time, her body becoming taut with anticipation."
-    "Bu sefer daha yavaş labia boyunca bir parmak çalıştırmaya başladım, vücudu beklenti ile gerginleşti."
 
-# game/episode007.rpy:2346
+    "Parmağımı tekrar dudaklarında gezdirmeye başladım, bu sefer daha yavaşça, vücudu beklentiyle gerildi."
+
+
 translate turkish ep007_vess_sex_8df9beb6:
 
-    # "When I finally reached her clit she shuddered and thrashed her legs."
-    "Sonunda klitorisine ulaştığımda titredi ve bacaklarını attı."
 
-# game/episode007.rpy:2347
+    "Sonunda klitorisine ulaştığımda titredi ve bacaklarını çırptı."
+
+
 translate turkish ep007_vess_sex_29df3492:
 
-    # "I decided to focus on her bean for a while, making gyrating motions to prepare her for release."
-    "Bir süre fasulyesine odaklanmaya karar verdim ve onu serbest bırakmaya hazırlamak için girat hareketleri yaptım."
 
-# game/episode007.rpy:2349
+    "Bir süre düğmesine odaklanmaya karar verdim, boşalması için dairesel hareketler yapıyordum."
+
+
 translate turkish ep007_vess_sex_f7178cc0:
 
-    # "The girl drew ragged breaths, her cheeks flushed and sweat pearling on her breasts."
-    "Kız düzensiz nefesler çizdi, yanakları kızardı ve göğüslerinde inen terliyor."
 
-# game/episode007.rpy:2350
+    "Kız kesik kesik nefesler aldı, yanakları kızarmış ve göğüslerinde ter taneleri vardı."
+
+
 translate turkish ep007_vess_sex_c071e112:
 
-    # ve "Keep going, [p_name], please don’t stop now!"
-    ve "Devam etmek, [p_name], lütfen şimdi durma!"
 
-# game/episode007.rpy:2351
+    ve "Devam et, [p_name], lütfen şimdi durma!"
+
+
 translate turkish ep007_vess_sex_d22ace61:
 
-    # "Kissing her neck, I gave her a short burst of satisfaction before taking my fingers off her clitoris."
-    "Boynunu öperken, parmaklarımı klitorisinden almadan önce ona kısa bir memnuniyet patlaması verdim."
 
-# game/episode007.rpy:2352
+    "Boynunu öperek, parmaklarımı klitorisinden çekmeden önce kısa bir tatmin patlaması verdim."
+
+
 translate turkish ep007_vess_sex_0de9e1a1:
 
-    # ve "No!{w} [p_name_short]!{w} What are you doing?"
+
     ve "Hayır!{w} [p_name_short]!{w} Ne yapıyorsun?"
 
-# game/episode007.rpy:2354
+
 translate turkish ep007_vess_sex_c4f66bdc:
 
-    # "I ran my fingers through her slit, deeper than before."
-    "Parmaklarımı eskisinden daha derin, onun yarısından geçirdim."
 
-# game/episode007.rpy:2356
+    "Parmaklarımı amında gezdirdim, öncekinden daha derin."
+
+
 translate turkish ep007_vess_sex_4bc36503:
 
-    # "Her lips parted and I slowly edged two of my fingers inside her pussy."
-    "Dudakları ayrıldı ve ben yavaş yavaş benim kedi içinde benim parmaklarım kenar."
 
-# game/episode007.rpy:2357
+    "Dudakları ayrıldı ve iki parmağımı yavaşça amının içine soktum."
+
+
 translate turkish ep007_vess_sex_10dc71b3:
 
-    # "Vess threw back her head and moaned loudly."
-    "Vess başını geri attı ve yüksek sesle inledi."
 
-# game/episode007.rpy:2359
+    "Vess başını geriye attı ve yüksek sesle inledi."
+
+
 translate turkish ep007_vess_sex_407f16e2:
 
-    # "Her nails dug into my skin as I fingerfucked her, juice flowing liberally from her cunt."
-    "Tırnakları cildime kazdı, ben onu parmakla vururken, meyve suyu pisliğinden liberal olarak akıyordu."
 
-# game/episode007.rpy:2360
+    "Onu parmaklarken tırnakları tenime battı, amından bol bol su akıyordu."
+
+
 translate turkish ep007_vess_sex_aaaf8afb:
 
-    # "When I returned to her clit, everything was slippery and drenched in the girl’s pussy juice."
-    "Onun klitorisine döndüğümde, her şey kaygan ve kızın kedi suyunda sırılsıklam oldu."
 
-# game/episode007.rpy:2361
+    "Klitorisine geri döndüğümde, her şey kaygan ve kızın am suyuna batmıştı."
+
+
 translate turkish ep007_vess_sex_c084676a:
 
-    # "She whimpered and sighed, her eyes closed, as she completely surrendered to me."
-    "Fısıldadı ve içini çekti, bana tamamen teslim olurken gözleri kapandı."
 
-# game/episode007.rpy:2363
+    "Gözleri kapalı, inledi ve iç çekti, kendini tamamen bana teslim etti."
+
+
 translate turkish ep007_vess_sex_f4ad0605:
 
-    # ve "Make me cum!{w} Please!{w} Make me cum!"
-    ve "Beni boşaltır!{w} Lütfen!{w} Beni boşaltır!"
 
-# game/episode007.rpy:2364
+    ve "Boşalt beni!{w} Lütfen!{w} Boşalt beni!"
+
+
 translate turkish ep007_vess_sex_cbaa4251:
 
-    # "Her voice was barely a whisper, but it didn’t diminish the power of her lust-filled plea."
-    "Sesi zar zor bir fısıltı, ama şehvet dolu savunmasının gücünü azaltmadı."
 
-# game/episode007.rpy:2365
+    "Sesi neredeyse bir fısıltıydı ama bu şehvet dolu yakarışının gücünü azaltmadı."
+
+
 translate turkish ep007_vess_sex_1baed1c9:
 
-    # "My fingers worked her clit again while I stimulated her breast with my other hand."
+
     "Diğer elimle göğsünü uyarırken parmaklarım tekrar klitorisini çalıştırdı."
 
-# game/episode007.rpy:2367
+
 translate turkish ep007_vess_sex_171e16e7:
 
-    # "Vess was barely able to move, every muscle in her body strained in preparation for the inevitable release."
-    "Vess zar zor hareket edebildi, vücudundaki her kas kaçınılmaz salım için hazırlandı."
 
-# game/episode007.rpy:2368
+    "Vess neredeyse hareket edemiyordu, vücudundaki her kas kaçınılmaz boşalma için hazırlanıyordu."
+
+
 translate turkish ep007_vess_sex_f3200043:
 
-    # "A wealth of juice gushing over my fingers was the first indicator of her climax."
-    "Parmaklarımın üzerinde fışkıran zengin bir meyve suyu, doruğunun ilk göstergesiydi."
 
-# game/episode007.rpy:2371
+    "Parmaklarımın üzerine fışkıran bol miktarda su, orgazmının ilk göstergesiydi."
+
+
 translate turkish ep007_vess_sex_ce793f6e:
 
-    # "She managed to cross her legs, locking my hand firmly against her convulsing pussy from where the orgasm spread to every part of her body."
-    "O, orgazmın vücudunun her parçasına yayıldığı yerden konvulsing kedisine elimi sıkıca kilitleyerek bacaklarını geçmeyi başardı."
 
-# game/episode007.rpy:2373
+    "Bacaklarını çaprazlamayı başardı, elimi kasılan amına sıkıca kilitleyerek orgazmın vücudunun her yerine yayılmasını sağladı."
+
+
 translate turkish ep007_vess_sex_a4392b50:
 
-    # "I held her while she trembled and moaned, still enraptured by her climax."
-    "Titredi ve inliyorken onu tuttum, hala doruğuyla yakalandım."
 
-# game/episode007.rpy:2374
+    "Titreyip inlerken onu tuttum, hala orgazmının etkisindeydi."
+
+
 translate turkish ep007_vess_sex_9b5b3f63:
 
-    # "It took a long while before her heartbeat returned to normal and her breathing stilled."
-    "Kalp atışının normale dönmesi ve nefes alması durması uzun sürdü."
 
-# game/episode007.rpy:2383
+    "Kalp atışının normale dönmesi ve nefesinin düzelmesi uzun sürdü."
+
+
 translate turkish ep007_thyia_sex_783f01cf:
 
-    # "She walked towards me as her bra fell to the ground."
-    "Sütyenine düştüğünde bana doğru yürüdü."
 
-# game/episode007.rpy:2384
+    "Sütyeni yere düşerken bana doğru yürüdü."
+
+
 translate turkish ep007_thyia_sex_0d74a7d4:
 
-    # "I expected her to say something, but instead she stepped in close, her breasts brushing against my chest."
-    "Onun bir şey söylemesini bekliyordum, ama bunun yerine yakın adım attı, göğsümü göğsüme fırçaladı."
 
-# game/episode007.rpy:2385
+    "Bir şey söylemesini bekliyordum ama bunun yerine yaklaştı, göğüsleri göğsüme sürtündü."
+
+
 translate turkish ep007_thyia_sex_b0a44aa9:
 
-    # "One hand hovered towards my crotch and I responded to her touch immediately."
-    "Bir el kasımıma doğru ilerledi ve ben hemen dokunuşuna cevap verdim."
 
-# game/episode007.rpy:2386
+    "Bir eli kasığıma doğru süzüldü ve dokunuşuna hemen karşılık verdim."
+
+
 translate turkish ep007_thyia_sex_b5dab2b5:
 
-    # "She massaged my member through the fabric of my pants, her defiant eyes holding my gaze."
-    "Üyemi pantolonumun dokusuyla masaj yaptı, meydan okuyan gözleri bakışlarımı tuttu."
 
-# game/episode007.rpy:2387
+    "Pantolonumun kumaşı üzerinden sikimi masaj yaptı, meydan okuyan gözleri bakışlarımı tutuyordu."
+
+
 translate turkish ep007_thyia_sex_b5caee14:
 
-    # c "Thyia..."
-    c "Thyia ..."
 
-# game/episode007.rpy:2389
+    c "Thyia..."
+
+
 translate turkish ep007_thyia_sex_cfc56783:
 
-    # th "Ssssh, you know you want this."
-    th "SSSSH, bunu istediğini biliyorsun."
 
-# game/episode007.rpy:2390
+    th "Ssssh, bunu istediğini biliyorsun."
+
+
 translate turkish ep007_thyia_sex_e4473ee9:
 
-    # th "I want this..."
-    th "Bunu istiyorum..."
 
-# game/episode007.rpy:2392
+    th "Ben bunu istiyorum..."
+
+
 translate turkish ep007_thyia_sex_8d88203d:
 
-    # "Thyia had already undone my pants and slowly lowered herself to the floor kissing my abdomen."
-    "Thyia zaten pantolonumu geri almıştı ve yavaşça karnımı öperek yere indirmişti."
 
-# game/episode007.rpy:2393
+    "Thyia çoktan pantolonumu çözmüştü ve karnımı öperek yavaşça yere eğildi."
+
+
 translate turkish ep007_thyia_sex_72700cc0:
 
-    # "Kneeling on the floor, Thyia looked up at me, past my proud erection."
-    "Yerde diz çökmüş olan Thyia, gururlu ereksiyonumu geçerek bana baktı."
 
-# game/episode007.rpy:2395
+    "Yerde diz çökmüş, Thyia bana baktı, gururlu ereksiyonumun üzerinden."
+
+
 translate turkish ep007_thyia_sex_dbe3fc7b:
 
-    # th "We both want this."
+
     th "İkimiz de bunu istiyoruz."
 
-# game/episode007.rpy:2397
+
 translate turkish ep007_thyia_sex_8a016ffb:
 
-    # "Before I could respond, the woman had already grabbed my cock and her tongue slid along my shaft."
-    "Cevap vermeden önce, kadın zaten benim horoz almıştı ve dili benim şaft boyunca kaymış."
 
-# game/episode007.rpy:2398
+    "Ben cevap veremeden kadın sikimi kavramıştı bile ve dili sikim boyunca kaydı."
+
+
 translate turkish ep007_thyia_sex_a3aa63dd:
 
-    # "I wanted to protest, call her out on this distraction and her refusal to talk to me."
-    "Protesto etmek, onu bu dikkat dağınıklığı ve benimle konuşmayı reddetmesi için çağırmak istedim."
 
-# game/episode007.rpy:2400
+    "İtiraz etmek, bu dikkat dağıtıcı şey ve benimle konuşmayı reddetmesi için onu azarlamak istedim."
+
+
 translate turkish ep007_thyia_sex_d27c58d8:
 
-    # "The feeling of her wet tongue on my hard dick and the promises it held proved too much for me and I gave in."
-    "Onun ıslak dilimi benim sert dick ve verdiği vaatler benim için çok fazla kanıtladı ve ben teslim oldu."
 
-# game/episode007.rpy:2402
+    "Islak dilinin sert sikimde yarattığı his ve vaatleri benim için çok fazlaydı ve pes ettim."
+
+
 translate turkish ep007_thyia_sex_7459fb78:
 
-    # "At my first moan, I thought I detected a glint of triumph in her eyes, or was it resignation?"
-    "İlk inlememde, gözlerinde bir zafer parıltısı tespit ettiğimi düşündüm, yoksa istifa mıydı?"
 
-# game/episode007.rpy:2404
+    "İlk inlememde, gözlerinde bir zafer parıltısı gördüğümü sandım, yoksa bu teslimiyet miydi?"
+
+
 translate turkish ep007_thyia_sex_ae88edfc:
 
-    # "I didn’t have time to think about it, because at that point she took my cock inside of her mouth."
-    "Bunu düşünmek için zamanım yoktu, çünkü o noktada horozumu ağzının içine aldı."
 
-# game/episode007.rpy:2405
+    "Bunu düşünmeye vaktim olmadı çünkü o anda sikimi ağzına aldı."
+
+
 translate turkish ep007_thyia_sex_c117f2da:
 
-    # "Thyia sucked eagerly, using her hands to massage the root of my shaft and my balls."
-    "Thyia, şaftımın ve toplarımın köküne masaj yapmak için ellerini kullanarak hevesle emdi."
 
-# game/episode007.rpy:2406
+    "Thyia istekle emdi, ellerini sikimin kökünü ve taşaklarımı masaj yapmak için kullandı."
+
+
 translate turkish ep007_thyia_sex_99660dd1:
 
-    # "Her tongue twirled and teased the entire length of my shaft as it disappeared deeper inside her mouth."
-    "Dili, ağzının içinde daha derin kaybolurken şaftımın tüm uzunluğunu döndürdü ve alay etti."
 
-# game/episode007.rpy:2408
+    "Dili sikimin tamamı boyunca döndü ve kışkırttı, ağzının derinliklerine kayboldukça."
+
+
 translate turkish ep007_thyia_sex_c17aac9c:
 
-    # "When she returned to work on my tip I shuddered and released a surge of precum."
-    "Benim ucumda çalışmaya döndüğünde ürperdim ve Precum'un dalgalanmasını serbest bıraktım."
 
-# game/episode007.rpy:2410
+    "Başıma geri döndüğünde titredim ve bir zevk suyu dalgası saldım."
+
+
 translate turkish ep007_thyia_sex_38c7c1e8:
 
-    # "She released my cock from her mouth and looked up at me grinning."
-    "O benim horoz onu ağzından serbest bıraktı ve bana sırıtarak baktı."
 
-# game/episode007.rpy:2411
+    "Sikimi ağzından çıkardı ve sırıtarak bana baktı."
+
+
 translate turkish ep007_thyia_sex_bfd887e3:
 
-    # th "Ready to fuck me?"
+
     th "Beni sikmeye hazır mısın?"
 
-# game/episode007.rpy:2413
+
 translate turkish ep007_thyia_sex_af914e47:
 
-    # "We got completely naked and I pushed her towards the makeshift workshop table."
-    "Tamamen çıplak olduk ve onu geçici atölye masasına doğru ittim."
 
-# game/episode007.rpy:2414
+    "Tamamen çıplak kaldık ve onu geçici atölye masasına doğru ittim."
+
+
 translate turkish ep007_thyia_sex_6b25ed9f:
 
-    # "She arched her back and opened her legs for me."
-    "O sırtını kemerli ve bacaklarını benim için açtı."
 
-# game/episode007.rpy:2416
+    "Sırtını kamburlaştırdı ve benim için bacaklarını açtı."
+
+
 translate turkish ep007_thyia_sex_f19e30e7:
 
-    # th "Fuck me, [p_name_short]."
-    th "Siktir et beni [p_name_short]."
 
-# game/episode007.rpy:2421
+    th "Sik beni, [p_name_short]."
+
+
 translate turkish ep007_thyia_sex_e4fc42da:
 
-    # "I stood between her legs, admiring her firm breasts, nipples hard with excitement."
-    "Bacaklarının arasında durdum, sağlam göğüslerine hayran kaldım, heyecanla sert meme uçları."
 
-# game/episode007.rpy:2422
+    "Bacaklarının arasında durdum, sert göğüslerini ve heyecandan sertleşmiş meme uçlarını hayranlıkla izledim."
+
+
 translate turkish ep007_thyia_sex_1df7a007:
 
-    # "My cock pushed against her entrance which was covered in her moisture."
-    "Benim horoz nemle kaplı onun girişine doğru itti."
 
-# game/episode007.rpy:2424
+    "Sikim, nemleriyle kaplı girişine bastırdı."
+
+
 translate turkish ep007_thyia_sex_97ac780a:
 
-    # th "Please, I want you inside me!"
-    th "Lütfen seni içimde istiyorum!"
 
-# game/episode007.rpy:2425
+    th "Lütfen, seni içimde istiyorum!"
+
+
 translate turkish ep007_thyia_sex_b631ddc2:
 
-    # "I pushed past her slick lips and felt her ribbed tunnel encircle my shaft."
-    "Onun kaygan dudaklarını geçtim ve şeritli tünelinin şaftımı kuşattığını hissettim."
 
-# game/episode007.rpy:2427
+    "Kaygan dudaklarının arasından geçtim ve dar tünelinin sikimi sardığını hissettim."
+
+
 translate turkish ep007_thyia_sex_e9a210b6:
 
-    # th "Oh fuck yes!"
-    th "Oh lanet evet!"
 
-# game/episode007.rpy:2428
+    th "Oh evet sik!"
+
+
 translate turkish ep007_thyia_sex_eae64d43:
 
-    # "Cupping her breasts I pushed myself deeper inside her."
-    "Göğüslerini çukurluk yaparak kendimi onun içinde daha derine ittim."
 
-# game/episode007.rpy:2429
+    "Göğüslerini avuçlayarak kendimi daha derine ittim."
+
+
 translate turkish ep007_thyia_sex_1d55642b:
 
-    # "I squeezed and kneaded her tits, rubbing her nipples with my thumbs."
-    "Ben sıktı ve göğüslerini yoğurdu, benim başparmak ile meme ovuşturarak."
 
-# game/episode007.rpy:2431
+    "Göğüslerini sıktım ve yoğurdum, başparmaklarımla meme uçlarını ovdum."
+
+
 translate turkish ep007_thyia_sex_15c12fd4:
 
-    # th "Oh shit, [p_name_short], keep doing that!"
-    th "Kahretsin, [p_name_short], bunu yapmaya devam et!"
 
-# game/episode007.rpy:2433
+    th "Oh siktir, [p_name_short], devam et!"
+
+
 translate turkish ep007_thyia_sex_f1e1b243:
 
-    # "Some of the tools on the table’s surface clattered on the floor as the table rocked back and forth."
-    "Masa ileri geri sallanırken masanın yüzeyindeki bazı aletler yere tıkandı."
 
-# game/episode007.rpy:2434
+    "Masa ileri geri sallandıkça masanın üzerindeki bazı aletler yere düştü."
+
+
 translate turkish ep007_thyia_sex_9443d281:
 
-    # "Thyia pushed herself upwards towards my body in an attempt to take even more of my girth inside her warm cunt."
-    "Thyia, sıcak pisliğinin içinde çevremden daha fazlasını almak için vücuduma doğru yukarı doğru itti."
 
-# game/episode007.rpy:2436
+    "Thyia, kalın sikimin daha fazlasını sıcak amının içine almak için kendini yukarı doğru itti."
+
+
 translate turkish ep007_thyia_sex_f073c0a9:
 
-    # "The creaking of the table got on my nerves so I lifted Thyia from it."
-    "Masanın gıcırdaması sinirlerimin üzerine çıktı, bu yüzden Thyia'yı ondan kaldırdım."
 
-# game/episode007.rpy:2437
+    "Masanın gıcırtısı sinirlerimi bozdu, bu yüzden Thyia'yı kaldırdım."
+
+
 translate turkish ep007_thyia_sex_3152c050:
 
-    # "She yelped in surprise and wrapped her arms around my neck."
-    "Şaşırtıcı bir şekilde bağırdı ve kollarını boynumun etrafına sardı."
 
-# game/episode007.rpy:2439
+    "Şaşkınlıkla bağırdı ve kollarını boynuma doladı."
+
+
 translate turkish ep007_thyia_sex_5ed5c052:
 
-    # "The full weight of her body was pushing my cock to the root inside her wet slit."
-    "Vücudunun tüm ağırlığı benim horoz ıslak yarık içindeki köke itiyordu."
 
-# game/episode007.rpy:2440
+    "Vücudunun tüm ağırlığı sikimi ıslak amının derinliklerine itiyordu."
+
+
 translate turkish ep007_thyia_sex_ade3093b:
 
-    # "Thyia bit her lip and let out a small breathless moan."
-    "Thyia dudağını ısırdı ve küçük bir nefessiz inilti bıraktı."
 
-# game/episode007.rpy:2441
+    "Thyia dudağını ısırdı ve nefessiz küçük bir inleme çıkardı."
+
+
 translate turkish ep007_thyia_sex_4922469a:
 
-    # "She relished in the quiet moment of deep penetration, keeping us both on knife’s edge."
-    "Sessiz derin penetrasyon anında sevildi, ikimiz de bizi bıçak kenarında tuttu."
 
-# game/episode007.rpy:2443
+    "Derin penetrasyonun sessiz anının tadını çıkardı, ikimizi de bıçak sırtında tuttu."
+
+
 translate turkish ep007_thyia_sex_b5b69349:
 
-    # th "Fuck me harder, [p_name_short]...{w} Just give it to me."
-    th "Beni daha çok sikeyim [p_name_short]...{w} Sadece bana ver."
 
-# game/episode007.rpy:2444
+    th "Daha sert sik beni, [p_name_short]...{w} Ver onu bana."
+
+
 translate turkish ep007_thyia_sex_8e4934df:
 
-    # "Her words were barely a whisper, but they stirred me nonetheless."
-    "Sözleri zar zor bir fısıltıydı, ama yine de beni karıştırdılar."
 
-# game/episode007.rpy:2446
+    "Sözleri neredeyse bir fısıltıydı ama yine de beni heyecanlandırdı."
+
+
 translate turkish ep007_thyia_sex_fa94bef1:
 
-    # "I lifted her from my cock and spun her around."
-    "Onu benim horozdan kaldırdım ve etrafında döndüm."
 
-# game/episode007.rpy:2447
+    "Onu sikimden kaldırdım ve çevirdim."
+
+
 translate turkish ep007_thyia_sex_b1629340:
 
-    # "Her voluptuous ass came into view and I couldn’t resist slapping it."
-    "Şehvetli kıçını görmeye başladı ve tokatlamaya direnemedim."
 
-# game/episode007.rpy:2449
+    "Dolgun götü görüş alanıma girdi ve ona vurmaktan kendimi alamadım."
+
+
 translate turkish ep007_thyia_sex_fbb5b547:
 
-    # "My cock between her legs, I pushed Thyia towards the bulkhead."
-    "Benim horoz onun bacaklar arası, Thyia bölme doğru itti."
 
-# game/episode007.rpy:2451
+    "Sikim bacaklarının arasında, Thyia'yı bölmeye doğru ittim."
+
+
 translate turkish ep007_thyia_sex_05dabc3e:
 
-    # "She gasped as I pushed her legs apart and drove my cock inside her pussy again."
-    "Ben bacaklarını itti ve onu kedi için için benim horoz sürdü nefes nefese."
 
-# game/episode007.rpy:2452
+    "Bacaklarını ayırıp sikimi tekrar amına sokarken nefesi kesildi."
+
+
 translate turkish ep007_thyia_sex_b27740e0:
 
-    # th "Yes [p_name_short], give me that big cock of yours!"
-    th "Evet [p_name_short], bana o büyük horozu ver!"
 
-# game/episode007.rpy:2453
+    th "Evet [p_name_short], ver bana o koca sikini!"
+
+
 translate turkish ep007_thyia_sex_c96878a0:
 
-    # "Steadying herself against the wall, Thyia accepted my long and hard thrusts with pleasure."
-    "Kendini duvara karşı sabitleyen Thyia, uzun ve sert itişlerimi zevkle kabul etti."
 
-# game/episode007.rpy:2455
+    "Duvara tutunarak, Thyia uzun ve sert vuruşlarımı zevkle kabul etti."
+
+
 translate turkish ep007_thyia_sex_4657a574:
 
-    # "Her thighs were smeared with her juices, mixed with my pre-cum, a sheen of sweat covering us both."
-    "Onun uylukları benim meyve suları ile bulaşmış, benim pre-cum, ikimizi kaplayan bir ter parlaklığı ile karıştırıldı."
 
-# game/episode007.rpy:2456
+    "Kalçaları kendi sularıyla ve benim zevk suyumla karışık halde sıvanmıştı, ikimizi de ter kaplıyordu."
+
+
 translate turkish ep007_thyia_sex_3508e764:
 
-    # "We were close."
-    "Biz yakındık."
 
-# game/episode007.rpy:2457
+    "Yakındık."
+
+
 translate turkish ep007_thyia_sex_3baaa476:
 
-    # "I grabbed her by the hips and drove my cock to its base inside her cunt."
-    "Onu kalçalarından yakaladım ve onun pislik içinde üssüne benim horoz sürdü."
 
-# game/episode007.rpy:2460
+    "Kalçalarından tuttum ve sikimi amının derinliklerine kadar soktum."
+
+
 translate turkish ep007_thyia_sex_20d8a75b:
 
-    # "Thyia climaxed."
-    "Thyia doruğa çıktı."
 
-# game/episode007.rpy:2461
+    "Thyia orgazm oldu."
+
+
 translate turkish ep007_thyia_sex_6c12d3fe:
 
-    # "She shuddered and moaned and a gush of her juices pushed past my twitching cock."
-    "O ürperti ve inledi ve onun meyve suları benim seğirme horoz geçti itti."
 
-# game/episode007.rpy:2462
+    "Titredi ve inledi, suları seğiren sikimin yanından fışkırdı."
+
+
 translate turkish ep007_thyia_sex_aa618b9a:
 
-    # th "Oh fuck yes!{w} Oh [p_name_short]!{w} Oh [p_name_short]!"
-    th "Oh lanet evet!{w} ey [p_name_short]!{w} ey [p_name_short]!"
 
-# game/episode007.rpy:2467
+    th "Oh evet sik!{w} Oh [p_name_short]!{w} Oh [p_name_short]!"
+
+
 translate turkish ep007_thyia_sex_c3539d26:
 
-    # "Cum burst from my cock right at that point and coated the warm flesh of her convulsing vagina."
-    "Cum benim horoz tam o noktada patladı ve onu sarsıcı vajina sıcak eti kapladı."
 
-# game/episode007.rpy:2470
+    "Tam o anda sikimden döl fışkırdı ve kasılan amının sıcak etini kapladı."
+
+
 translate turkish ep007_thyia_sex_46870500:
 
-    # "I held her against the bulkhead as more seed spilled inside her with big spurts."
-    "Büyük spurts ile içine daha fazla tohum dökülürken onu bölmeye karşı tuttum."
 
-# game/episode007.rpy:2474
+    "Daha fazla döl büyük fışkırmalarla içine akarken onu bölmeye karşı tuttum."
+
+
 translate turkish ep007_thyia_sex_0d721f87:
 
-    # "Thyia’s orgasm brought me to the brink as well."
-    "Thyia’nın orgazmı beni de eşiğine getirdi."
 
-# game/episode007.rpy:2477
+    "Thyia'nın orgazmı beni de sınıra getirdi."
+
+
 translate turkish ep007_thyia_sex_52d0df63:
 
-    # "I pulled out of her convulsing vagina and cum burst from my cock all over her back."
-    "Onun sarsıcı vajina ve cum patlama onu benim horoz benim horoz geri çekti."
 
-# game/episode007.rpy:2478
+    "Kasılan amından çıktım ve sikimden fışkıran döl sırtını kapladı."
+
+
 translate turkish ep007_thyia_sex_8ce52a80:
 
-    # "I held her against the bulkhead as more seed spilled on her ass and lower back."
-    "Kıçına daha fazla tohum döküldüğünde ve beline karşı tuttum."
 
-# game/episode007.rpy:2482
+    "Daha fazla döl götüne ve bel çukuruna akarken onu bölmeye karşı tuttum."
+
+
 translate turkish ep007_thyia_sex_0d721f87_1:
 
-    # "Thyia’s orgasm brought me to the brink as well."
-    "Thyia’nın orgazmı beni de eşiğine getirdi."
 
-# game/episode007.rpy:2484
+    "Thyia'nın orgazmı beni de sınıra getirdi."
+
+
 translate turkish ep007_thyia_sex_80d5dcbd:
 
-    # "I pulled out of her convulsing vagina, released her quivering body and pushed her to her knees."
-    "Convulsing vajinasından çekildim, titreyen bedenini serbest bıraktım ve dizlerine ittim."
 
-# game/episode007.rpy:2487
+    "Kasılan amından çıktım, titreyen vücudunu bıraktım ve onu dizlerinin üzerine ittim."
+
+
 translate turkish ep007_thyia_sex_4925881b:
 
-    # "Cum burst from my cock all over her face."
-    "Cum yüzünün her yerinde benim horoz patladı."
 
-# game/episode007.rpy:2488
+    "Sikimden fışkıran döl yüzünü kapladı."
+
+
 translate turkish ep007_thyia_sex_d2b5f939:
 
-    # "I held her down as more seed spilled on her face and in her open mouth."
-    "Yüzüne ve açık ağzına daha fazla tohum dökülürken onu tuttum."
 
-# game/episode007.rpy:2490
+    "Daha fazla döl yüzüne ve açık ağzına akarken onu aşağıda tuttum."
+
+
 translate turkish ep007_thyia_sex_0154ef6a:
 
-    # "Thyia lowered herself to the ground and sat with her back against the wall."
-    "Thyia kendini yere indirdi ve duvara geri döndü."
 
-# game/episode007.rpy:2492
+    "Thyia kendini yere indirdi ve sırtını duvara yaslayarak oturdu."
+
+
 translate turkish ep007_thyia_sex_36aceafd:
 
-    # th "You made me break my rule, you bastard."
-    th "Kuralımı kırdım, piç."
 
-# game/episode007.rpy:2494
+    th "Kuralımı bozmama neden oldun, piç."
+
+
 translate turkish ep007_thyia_sex_9b08f60a:
 
-    # th "You're making me reconsider my rule about second times, you bastard."
-    th "İkinci kez kuralımı yeniden düşünmemi sağlıyorsun, piç."
 
-# game/episode007.rpy:2495
+    th "İkinci kez hakkındaki kuralımı yeniden düşünmemi sağlıyorsun, piç."
+
+
 translate turkish ep007_thyia_sex_0008e41d:
 
-    # c "Sorry, not sorry."
-    c "Üzgünüm, üzgün değil."
 
-# game/episode007.rpy:2497
+    c "Üzgünüm, değilim."
+
+
 translate turkish ep007_thyia_sex_3527b82e:
 
-    # th "Me neither."
-    th "Ben de değil."
 
-# game/episode007.rpy:2498
+    th "Ben de."
+
+
 translate turkish ep007_thyia_sex_a2ae8c46:
 
-    # th "I’m going to catch some sleep now."
+
     th "Şimdi biraz uyuyacağım."
 
-# game/episode007.rpy:2500
+
 translate turkish ep007_thyia_sex_e4511343:
 
-    # th "See you later, [p_name_short]."
-    th "Görüşürüz, [p_name_short]."
 
-# game/episode007.rpy:2501
+    th "Sonra görüşürüz, [p_name_short]."
+
+
 translate turkish ep007_thyia_sex_8edc667e:
 
-    # "I felt there was much more to say, but after what we just shared, I just couldn’t."
-    "Söyleyecek çok şey olduğunu hissettim, ama yeni paylaştıktan sonra yapamadım."
 
-# game/episode007.rpy:2502
+    "Söylenecek çok şey olduğunu hissettim ama az önce paylaştıklarımızdan sonra yapamadım."
+
+
 translate turkish ep007_thyia_sex_3fb81ad9:
 
-    # "Next time I’d be better prepared..."
-    "Bir dahaki sefere daha iyi hazırlanırdım ..."
 
-# game/episode007.rpy:2503
+    "Bir dahaki sefere daha iyi hazırlanacağım..."
+
+
 translate turkish ep007_thyia_sex_d9785ae0:
 
-    # c "Sleep tight, Thyia."
-    c "Sıkı uyu, Thyia."
 
-# game/episode007.rpy:2512
+    c "İyi uykular, Thyia."
+
+
 translate turkish ep007_av_sex_29dc49ea:
 
-    # "Aven smiled as I kissed her and all doubts fell away right at that moment."
-    "Aven onu öperken gülümsedi ve o anda tüm şüpheler düştü."
 
-# game/episode007.rpy:2513
+    "Onu öperken Aven gülümsedi ve tüm şüpheler o anda yok oldu."
+
+
 translate turkish ep007_av_sex_2c9bb0a8:
 
-    # "Only she and I existed."
+
     "Sadece o ve ben vardık."
 
-# game/episode007.rpy:2515
+
 translate turkish ep007_av_sex_9a409cf8:
 
-    # "Aven moaned as our tongues touched and she touched my chest, her fingertips trailing my muscles."
-    "Aven dillerimiz dokunurken inledi ve göğsüme dokundu, parmak uçları kaslarımı takip etti."
 
-# game/episode007.rpy:2517
+    "Dillerimiz birbirine değerken Aven inledi ve göğsüme dokundu, parmak uçları kaslarımı takip ediyordu."
+
+
 translate turkish ep007_av_sex_3b99fd8d:
 
-    # "In turn I cupped her full breasts in my hands, the fabric of her underwear preventing me from truly touching her."
-    "Buna karşılık, tam göğüslerini ellerime götürdüm, iç çamaşırının kumaşı bana gerçekten dokunmamı engelledim."
 
-# game/episode007.rpy:2518
+    "Ben de dolgun göğüslerini avuçladım, iç çamaşırının kumaşı gerçekten dokunmamı engelliyordu."
+
+
 translate turkish ep007_av_sex_f0064bfd:
 
-    # "Aven noticed and fiddled with the clasps of her bra behind her back."
-    "Aven, sütyeninin arkasındaki tokalarla fark etti ve uğraştı."
 
-# game/episode007.rpy:2520
+    "Aven fark etti ve arkasındaki sütyeninin kopçalarıyla oynadı."
+
+
 translate turkish ep007_av_sex_3cb7ba18:
 
-    # "When the garment fell from her chest I lowered my head towards her and kissed her collarbone."
-    "Giysi göğsünden düştüğünde başımı ona doğru indirdim ve köprücük kemiğini öptüm."
 
-# game/episode007.rpy:2521
+    "Kıyafet göğsünden düştüğünde başımı ona doğru eğdim ve köprücük kemiğini öptüm."
+
+
 translate turkish ep007_av_sex_03771695:
 
-    # "She shivered as I kissed her again in the same place and massaged her bare breasts."
-    "Onu tekrar aynı yerde öptü ve çıplak göğüslerine masaj yaparken titredi."
 
-# game/episode007.rpy:2523
+    "Aynı yeri tekrar öpüp çıplak göğüslerini masaj yaparken titredi."
+
+
 translate turkish ep007_av_sex_2fe2137a:
 
-    # "The girl took my head in her hands and nudged me closer towards one of her boobs."
-    "Kız başımı ellerine aldı ve göğüslerinden birine daha yakın beni çekti."
 
-# game/episode007.rpy:2524
+    "Kız başımı ellerinin arasına aldı ve beni göğüslerinden birine doğru itti."
+
+
 translate turkish ep007_av_sex_af69b3c6:
 
-    # "A hard nipple brushed my lips and Aven pushed her upper body forward, craving my mouth on the sensitive skin."
-    "Sert bir meme başı dudaklarımı fırçaladı ve Aven üst vücudunu öne doğru itti, ağzımı hassas cilde özlemişti."
 
-# game/episode007.rpy:2526
+    "Sert bir meme ucu dudaklarıma sürtündü ve Aven üst bedenini öne doğru itti, ağzımı hassas teninde istiyordu."
+
+
 translate turkish ep007_av_sex_bb814939:
 
-    # "My tongue teased her nipple, making Aven exhale deeply."
-    "Dilim onun meme ucunu kızdırdı, aven derin nefes verdi."
 
-# game/episode007.rpy:2527
+    "Dilim meme ucunu kışkırttı, Aven'in derin nefes almasına neden oldu."
+
+
 translate turkish ep007_av_sex_51609576:
 
-    # "When I finally kissed the tip of her breast, she dug her nails into my arms."
-    "Sonunda göğsünün ucunu öptüğümde tırnaklarını kollarıma kazdı."
 
-# game/episode007.rpy:2529
+    "Sonunda göğsünün ucunu öptüğümde, tırnaklarını kollarıma geçirdi."
+
+
 translate turkish ep007_av_sex_bf123a78:
 
-    # av "Oh, [p_name]!"
-    av "Ey, [p_name]!"
 
-# game/episode007.rpy:2530
+    av "Oh, [p_name]!"
+
+
 translate turkish ep007_av_sex_25ee8b7b:
 
-    # av "I want you so much."
+
     av "Seni çok istiyorum."
 
-# game/episode007.rpy:2531
+
 translate turkish ep007_av_sex_dfa5b75d:
 
-    # "I busied myself with her other breast, eventually alternating between them, until they were covered in film of sweat and saliva."
-    "Kendimi diğer göğsüyle meşgul ettim, sonunda ter ve tükürük filmi ile kaplanana kadar aralarında değiştim."
 
-# game/episode007.rpy:2533
+    "Diğer göğsüyle meşgul oldum, sonunda aralarında geçiş yaptım, ter ve tükürük filmiyle kaplanana kadar."
+
+
 translate turkish ep007_av_sex_220b88a7:
 
-    # "Aven’s hands were all over me, but one hand eventually found its way between my thighs."
-    "Aven’in elleri her yerdeydi, ama bir el sonunda uyluklarım arasında yolunu buldu."
 
-# game/episode007.rpy:2534
+    "Aven'in elleri her yerimdeydi ama bir eli sonunda bacaklarımın arasına ulaştı."
+
+
 translate turkish ep007_av_sex_a234fa6b:
 
-    # "My erection bulged strongly against my boxers and stirred when her fingertips ran over my underwear."
-    "Ereksiyonum boksörlerime karşı güçlü bir şekilde şişti ve parmak uçları iç çamaşırımın üzerinden geçtiğinde karıştı."
 
-# game/episode007.rpy:2535
+    "Ereksiyonum boxerıma karşı güçlü bir şekilde kabardı ve parmak uçları iç çamaşırımın üzerinde gezindiğinde kıpırdandı."
+
+
 translate turkish ep007_av_sex_aad10c53:
 
-    # av "Are you hard for me?"
-    av "Benim için zor mısın"
 
-# game/episode007.rpy:2537
+    av "Benim için sertleştin mi?"
+
+
 translate turkish ep007_av_sex_71e2b568:
 
-    # "I could only nod, because she’d pressed her hand against my boner, squeezing softly."
-    "Sadece başımı sallayabiliyordum, çünkü elini yumuşak bir şekilde sıkarak elini boksuma bastırmıştı."
 
-# game/episode007.rpy:2538
+    "Sadece başımı sallayabildim çünkü elini sikime bastırmış, hafifçe sıkıyordu."
+
+
 translate turkish ep007_av_sex_a880dcd5:
 
-    # "She rubbed my cock slowly through the fabric of my boxers."
-    "O benim boksörler kumaştan yavaşça benim horoz ovuşturdu."
 
-# game/episode007.rpy:2539
+    "Boxerımın kumaşı üzerinden sikimi yavaşça ovdu."
+
+
 translate turkish ep007_av_sex_d0372955:
 
-    # "I suppressed a pang of frustration prompted by the slowness of our love-making."
-    "Aşk yapımımızın yavaşlığının yarattığı bir hayal kırıklığı patlamasını bastırdım."
 
-# game/episode007.rpy:2540
+    "Sevişmemizin yavaşlığından kaynaklanan bir hayal kırıklığı hissini bastırdım."
+
+
 translate turkish ep007_av_sex_c91ef8c5:
 
-    # "I wanted to possess Aven, to lie between her soft thighs, enter her and make her mine."
-    "Aven'e sahip olmak, yumuşak uyluklarının arasında uzanmak, ona girmek ve benimkini yapmak istedim."
 
-# game/episode007.rpy:2541
+    "Aven'e sahip olmak istedim, yumuşak kalçalarının arasına uzanmak, içine girmek ve onu kendimin yapmak."
+
+
 translate turkish ep007_av_sex_5c0f7d31:
 
-    # "Evidently, Aven didn’t want to rush into things and preferred to take things slow."
-    "Açıkçası, Aven bir şeylere acele etmek istemedi ve işleri yavaşlatmayı tercih etti."
 
-# game/episode007.rpy:2543
+    "Belli ki Aven acele etmek istemiyordu ve işleri yavaş almayı tercih ediyordu."
+
+
 translate turkish ep007_av_sex_72ea3903:
 
-    # "I let one hand fall from her breasts and caressed her thigh."
-    "Bir elinin göğüslerinden düşmesine izin verdim ve uyluğunu okşadım."
 
-# game/episode007.rpy:2544
+    "Bir elimi göğüslerinden çektim ve kalçasını okşadım."
+
+
 translate turkish ep007_av_sex_73f1b917:
 
-    # "The girl opened her legs slightly to reveal more of her panties."
-    "Kız külotunu daha fazla ortaya çıkarmak için bacaklarını hafifçe açtı."
 
-# game/episode007.rpy:2545
+    "Kız külotunun daha fazlasını göstermek için bacaklarını hafifçe açtı."
+
+
 translate turkish ep007_av_sex_9002b7df:
 
-    # "I continued my way, tiptoeing over the soft skin of her thigh towards her pussy."
-    "Ben yoluma devam etti, onun kedi için uyluğunun yumuşak derisi üzerinde sessizce."
 
-# game/episode007.rpy:2546
+    "Yoluma devam ettim, kalçasının yumuşak teninde parmak uçlarımla amına doğru ilerledim."
+
+
 translate turkish ep007_av_sex_aeeb0cd9:
 
-    # "Her hold on my cock slackened with every inch I got closer towards her mound."
-    "Benim horoz onun höyük her inç ile gevşedi onun höyüğüne yaklaştı."
 
-# game/episode007.rpy:2548
+    "Kasığına her yaklaştığımda sikimi tutuşu gevşedi."
+
+
 translate turkish ep007_av_sex_e2036198:
 
-    # "When I finally pressed my fingers against her covered slit I could feel the warmth of her sex."
-    "Sonunda parmaklarımı kapalı yarısına bastırdığımda, seksinin sıcaklığını hissedebiliyordum."
 
-# game/episode007.rpy:2549
+    "Sonunda parmaklarımı örtülü yarığına bastırdığımda amının sıcaklığını hissedebiliyordum."
+
+
 translate turkish ep007_av_sex_15168d68:
 
-    # "I rubbed her pussy through her panties, the fabric darkening when it became slick with her moisture."
-    "Ben onu külot, onun nem ile kaygan hale geldiğinde kumaş karartma onun kedi ovuşturdu."
 
-# game/episode007.rpy:2550
+    "Külotunun üzerinden amını ovdum, kumaş nemleriyle kayganlaştıkça koyulaştı."
+
+
 translate turkish ep007_av_sex_0601a376:
 
-    # "Aven drew a ragged breath, her hand limp on the bulge of my cock."
-    "Aven düzensiz bir nefes aldı, elini horozun şişkinliğine topalladı."
 
-# game/episode007.rpy:2551
+    "Aven kesik bir nefes aldı, eli sikimin kabarıklığında gevşekti."
+
+
 translate turkish ep007_av_sex_0d10f29e:
 
-    # "I withdrew my hand and moved my fingers towards her navel."
-    "Elimi geri çektim ve parmaklarımı göbeğine doğru hareket ettirdim."
 
-# game/episode007.rpy:2553
+    "Elimi çektim ve parmaklarımı göbeğine doğru hareket ettirdim."
+
+
 translate turkish ep007_av_sex_b610d153:
 
-    # "A frustrated noise escaped, but I soon had her on edge again when I stroked the smooth skin of her abdomen."
-    "Hayal kırıklığına uğramış bir gürültü kaçtı, ama karnının pürüzsüz cildini okşadığımda kısa süre sonra onu tekrar kenara bıraktım."
 
-# game/episode007.rpy:2554
+    "Hayal kırıklığına uğramış bir ses çıktı ama karnının pürüzsüz tenini okşadığımda onu tekrar zevke getirdim."
+
+
 translate turkish ep007_av_sex_5fc36dbd:
 
-    # "My fingers slipped inside her panties and I felt the warm wetness that emanated from between her legs."
-    "Parmaklarım onun külotunun içine kaydı ve bacaklarının arasından çıkan sıcak ıslaklığı hissettim."
 
-# game/episode007.rpy:2555
+    "Parmaklarım külotunun içine kaydı ve bacaklarının arasından yayılan sıcak ıslaklığı hissettim."
+
+
 translate turkish ep007_av_sex_4f08556b:
 
-    # "Aven sought my lips again and kissed me furiously, as if to spur me on."
-    "Aven dudaklarımı tekrar aradı ve sanki beni teşvik etmek gibi öfkeyle öptü."
 
-# game/episode007.rpy:2557
+    "Aven tekrar dudaklarımı aradı ve beni teşvik etmek istercesine öfkeyle öptü."
+
+
 translate turkish ep007_av_sex_ba66cebb:
 
-    # av "I want this so badly, [p_name_short]!"
-    av "Bunu çok istiyorum [p_name_short]!"
 
-# game/episode007.rpy:2558
+    av "Bunu çok istiyorum, [p_name_short]!"
+
+
 translate turkish ep007_av_sex_b1ecef8e:
 
-    # "She started massaging my cock again and tried to get into my boxers as well."
-    "O benim horoz tekrar masaj başladı ve benim boksörler de almaya çalıştı."
 
-# game/episode007.rpy:2559
+    "Tekrar sikimi masaj yapmaya başladı ve boxerıma da girmeye çalıştı."
+
+
 translate turkish ep007_av_sex_de53b3d8:
 
-    # "Longing for the touch of her bare fingers on my cock, I quickly wormed myself out of my underwear as Aven did the same."
-    "Benim horoz çıplak parmakları dokunuşu için özlem, Aven aynı şeyi yaptı gibi kendimi iç çamaşırımdan hızla solmuşum."
 
-# game/episode007.rpy:2561
+    "Çıplak parmaklarının sikimde dokunuşunu özleyerek, Aven'in yaptığı gibi ben de hızla iç çamaşırımdan kurtuldum."
+
+
 translate turkish ep007_av_sex_7f7cd0ca:
 
-    # "When she noticed me looking at her standing in all her naked splendor, she suddenly hesitated."
-    "Tüm çıplak ihtişamında durmasına baktığımı fark ettiğinde, aniden tereddüt etti."
 
-# game/episode007.rpy:2562
+    "Tüm çıplak ihtişamıyla ayakta dururken ona baktığımı fark ettiğinde aniden tereddüt etti."
+
+
 translate turkish ep007_av_sex_e718268e:
 
-    # c "What, are you shy all of a sudden?"
-    c "Ne, aniden utangaç mısın?"
 
-# game/episode007.rpy:2563
+    c "Ne oldu, birden utangaç mı oldun?"
+
+
 translate turkish ep007_av_sex_e81af241:
 
-    # av "Shut up!"
+
     av "Kapa çeneni!"
 
-# game/episode007.rpy:2564
+
 translate turkish ep007_av_sex_8a6b3805:
 
-    # c "Is this the same girl who flaunted her cleavage a good while back?"
-    c "Bu, bölünmesini gösteren aynı kız mı?"
 
-# game/episode007.rpy:2565
+    c "Bu bir süre önce göğüs dekoltesini sergileyen kızla aynı kişi mi?"
+
+
 translate turkish ep007_av_sex_b0e1fdf8:
 
-    # av "I said, shut up!"
-    av "Kapa çeneni dedim!"
 
-# game/episode007.rpy:2567
+    av "Dedim ki, kapa çeneni!"
+
+
 translate turkish ep007_av_sex_f8f8dd07:
 
-    # "Laughing, she pushed me back on the bed."
-    "Gülüyor, beni yatağa geri itti."
 
-# game/episode007.rpy:2568
+    "Gülerek beni yatağa geri itti."
+
+
 translate turkish ep007_av_sex_38ad1dcd:
 
-    # "I resisted a little, just for show and we wrestled, stealing kisses and trying to stay on the bed."
-    "Biraz direndim, sadece gösteri için ve güreştik, öpücük çaldık ve yatakta kalmaya çalıştık."
 
-# game/episode007.rpy:2569
+    "Biraz direndim, sadece gösteriş için ve güreştik, öpücükler çalarak ve yatakta kalmaya çalışarak."
+
+
 translate turkish ep007_av_sex_fa5b6c0e:
 
-    # av "We really need a bigger bed."
+
     av "Gerçekten daha büyük bir yatağa ihtiyacımız var."
 
-# game/episode007.rpy:2570
+
 translate turkish ep007_av_sex_aa036ba9:
 
-    # c "Agreed, a more comfortable one too."
-    c "Kabul etti, daha rahat bir tane."
 
-# game/episode007.rpy:2572
+    c "Katılıyorum, daha rahat bir tane de."
+
+
 translate turkish ep007_av_sex_afdb3bcd:
 
-    # av "Come to think of it, this entire room is a little plain..."
-    av "Düşünmeye gel, tüm bu oda biraz sade ..."
 
-# game/episode007.rpy:2573
+    av "Düşününce, bu odanın tamamı biraz sade..."
+
+
 translate turkish ep007_av_sex_4d9528e2:
 
-    # c "Damn, you’ve seen me naked and now you're already planning on redecorating my personal quarters."
-    c "Kahretsin, beni çıplak gördün ve şimdi zaten kişisel mahallelerimi yeniden dekore etmeyi planlıyorsun."
 
-# game/episode007.rpy:2574
+    c "Lanet olsun, beni çıplak gördün ve şimdiden kişisel odamı yeniden dekore etmeyi planlıyorsun."
+
+
 translate turkish ep007_av_sex_e42ee09b:
 
-    # av "I repeat, shut up!"
-    av "Tekrar ediyorum, kapa çeneni!"
 
-# game/episode007.rpy:2575
+    av "Tekrarlıyorum, kapa çeneni!"
+
+
 translate turkish ep007_av_sex_b859ad9f:
 
-    # c "I’ll shut you up!"
-    c "Seni kapatacağım!"
 
-# game/episode007.rpy:2576
+    c "Senin çeneni kapatacağım!"
+
+
 translate turkish ep007_av_sex_00b2eedc:
 
-    # "While I uttered those words I pressed my hand between her legs and Aven gasped."
-    "Bu kelimeleri söylerken elimi bacaklarının arasına bastırdım ve Aven nefes nefese kaldım."
 
-# game/episode007.rpy:2578
+    "Bu sözleri söylerken elimi bacaklarının arasına bastırdım ve Aven'in nefesi kesildi."
+
+
 translate turkish ep007_av_sex_f893bde7:
 
-    # av "Cheating...{w} Aaah!"
+
     av "Hile...{w} Aaah!"
 
-# game/episode007.rpy:2580
+
 translate turkish ep007_av_sex_20f5a459:
 
-    # "We were instantly back into the realm of desire and lust."
-    "Anında arzu ve şehvet alanına geri döndük."
 
-# game/episode007.rpy:2581
+    "Anında arzu ve şehvet alemine geri döndük."
+
+
 translate turkish ep007_av_sex_9d8e4865:
 
-    # "My fingers came back drenched in Aven’s nectar and I pressed them against her lips."
-    "Parmaklarım Aven’in Nektarına sırılsıklam geri döndü ve ben onları dudaklarına bastırdım."
 
-# game/episode007.rpy:2583
+    "Parmaklarım Aven'in balıyla sırılsıklam geri geldi ve onları dudaklarına bastırdım."
+
+
 translate turkish ep007_av_sex_050a8db5:
 
-    # "Looking at me, she took both digits into her mouth and sucked the pussy juices from my fingers."
-    "Bana bakarak, her iki basamağı ağzına aldı ve parmaklarımdan kedi meyve sularını emdi."
 
-# game/episode007.rpy:2585
+    "Bana bakarak, her iki parmağımı da ağzına aldı ve am sularını parmaklarımdan emdi."
+
+
 translate turkish ep007_av_sex_8476aefd:
 
-    # "Aven had taken my dick in a tight grip and started jerking me off."
-    "Aven sikimi sıkı bir kavrama almıştı ve beni sarsmaya başlamıştı."
 
-# game/episode007.rpy:2586
+    "Aven sikimi sıkıca kavradı ve beni çekmeye başladı."
+
+
 translate turkish ep007_av_sex_c07e7ef9:
 
-    # "We were lying next to each other, my hand between her legs and her hand holding on to my hard cock."
-    "Biz yan yana yatıyorduk, elim bacakları ve elimi benim sert horoz tutarak."
 
-# game/episode007.rpy:2588
+    "Yan yana uzanıyorduk, elim bacaklarının arasında ve eli sert sikimi tutuyordu."
+
+
 translate turkish ep007_av_sex_4464e0ab:
 
-    # "We now moved in unison, she was jerking me with increasing speed, while I massaged her pussy and clit."
-    "Biz şimdi birlikte taşındı, ben onu kedi ve klitoris masaj yaparken beni artan hız ile mastürbasyon oldu."
 
-# game/episode007.rpy:2589
+    "Şimdi uyum içinde hareket ediyorduk, o artan bir hızla beni çekerken, ben de amını ve klitorisini masaj yapıyordum."
+
+
 translate turkish ep007_av_sex_2aa1c6ae:
 
-    # av "Keep going, [p_name_short], rub my pussy!"
-    av "Devam etmek, [p_name_short], kedi ov!"
 
-# game/episode007.rpy:2590
+    av "Devam et, [p_name_short], amımı ov!"
+
+
 translate turkish ep007_av_sex_a87df7c3:
 
-    # av "That’s it, that’s it!"
-    av "İşte bu, hepsi bu!"
 
-# game/episode007.rpy:2592
+    av "İşte bu, işte bu!"
+
+
 translate turkish ep007_av_sex_1c1f640f:
 
-    # "One of Aven’s hands joined mine and she wetted her palm."
-    "Aven’in ellerinden biri benimkine katıldı ve avucunu ıslattı."
 
-# game/episode007.rpy:2593
+    "Aven'in ellerinden biri benimkine katıldı ve avucunu ıslattı."
+
+
 translate turkish ep007_av_sex_79abf91c:
 
-    # "She pulled the skin of my shaft back, causing some strain at the tip that felt both vaguely painful and feverishly pleasing."
-    "Şaftımın cildini geri çekti ve hem belirsiz bir şekilde ağrılı hem de ateşli bir şekilde hoş hisseden uçta biraz zorlanmaya neden oldu."
 
-# game/episode007.rpy:2595
+    "Sikimin derisini geriye çekti, bu da ucunda hem belirsiz bir acı hem de ateşli bir zevk veren bir gerginliğe neden oldu."
+
+
 translate turkish ep007_av_sex_e6c0c5eb:
 
-    # "Aven pressed the wet palm of her hand on the tip of my dick and rubbed softly."
-    "Aven elinin ıslak avucunu benim dick ucuna bastırdı ve yumuşakça ovuşturdu."
 
-# game/episode007.rpy:2596
+    "Aven ıslak avucunu sikimin ucuna bastırdı ve yavaşça ovdu."
+
+
 translate turkish ep007_av_sex_391dc523:
 
-    # c "Oh Aven!{w} Fuck!"
-    c "Oh Aven!{w} Kahretsin!"
 
-# game/episode007.rpy:2597
+    c "Oh Aven!{w} Siktir!"
+
+
 translate turkish ep007_av_sex_12b6da5d:
 
-    # av "Do you like that, [p_name_short]?"
-    av "Bunu beğendin mi, [p_name_short]?"
 
-# game/episode007.rpy:2598
+    av "Bunu sevdin mi, [p_name_short]?"
+
+
 translate turkish ep007_av_sex_1b230a0c:
 
-    # av "Are you going to cum for me?"
-    av "Benim için cum yapacak mısın?"
 
-# game/episode007.rpy:2599
+    av "Benim için boşalacak mısın?"
+
+
 translate turkish ep007_av_sex_a69c590f:
 
-    # "Precum started flowing and mixed with the pussy juice that covered her hand."
-    "Precum akmaya başladı ve elini kaplayan kedi suyu ile karıştırıldı."
 
-# game/episode007.rpy:2600
+    "Zevk suyu akmaya başladı ve elini kaplayan am suyuyla karıştı."
+
+
 translate turkish ep007_av_sex_b31b1846:
 
-    # "Aven kept rubbing and jerked my cock with her other hand."
-    "Aven sürtünmeye devam etti ve diğer eliyle benim horoz sarsıntı."
 
-# game/episode007.rpy:2602
+    "Aven ovmaya devam etti ve diğer eliyle sikimi çekti."
+
+
 translate turkish ep007_av_sex_7ed17c9c:
 
-    # "Only by sheer force of will was I able to continue my work on her slit."
-    "Sadece irade gücüyle onun yarık üzerindeki çalışmalarıma devam edebildim."
 
-# game/episode007.rpy:2603
+    "Sadece saf irade gücüyle amındaki işime devam edebildim."
+
+
 translate turkish ep007_av_sex_d593615b:
 
-    # "I had inserted two fingers inside her now, stimulating her warm wet flesh."
-    "Sıcak ıslak etini uyararak şimdi içine iki parmağı yerleştirmiştim."
 
-# game/episode007.rpy:2604
+    "Şimdi içine iki parmak sokmuştum, sıcak ıslak etini uyarıyordum."
+
+
 translate turkish ep007_av_sex_425c47f3:
 
-    # av "Yes, [p_name_short], fuck me with your fingers."
-    av "Evet, [p_name_short], parmaklarınızla siktir et."
 
-# game/episode007.rpy:2605
+    av "Evet, [p_name_short], parmaklarınla sik beni."
+
+
 translate turkish ep007_av_sex_83b08721:
 
-    # av "I’m going to-{w} oh fuck!"
-    av "Ben yapacağım{w} Oh sikeyim!"
 
-# game/episode007.rpy:2606
+    av "Ben-{w} oh siktir!"
+
+
 translate turkish ep007_av_sex_467b85da:
 
-    # av "K-keep g-going!"
-    av "K-tut g-devam!"
 
-# game/episode007.rpy:2608
+    av "D-devam et!"
+
+
 translate turkish ep007_av_sex_c081b3f3:
 
-    # "Aven’s chest and cheeks were flushed and sweat was pearling on her skin."
-    "Aven’in göğsü ve yanakları kızardı ve teri cildinde inendi."
 
-# game/episode007.rpy:2610
+    "Aven'in göğsü ve yanakları kızarmıştı ve teninde ter taneleri vardı."
+
+
 translate turkish ep007_av_sex_3e1d49d1:
 
-    # "I pulled her closer and kissed her breast."
-    "Onu yaklaştırdım ve göğsünü öptüm."
 
-# game/episode007.rpy:2611
+    "Onu kendime çektim ve göğsünü öptüm."
+
+
 translate turkish ep007_av_sex_368d9af2:
 
-    # "She intensified the massage of my cock, while I fingered Aven to her climax."
-    "Ben onun doruk için aven parmaklı, benim horoz masaj yoğunlaştırdı."
 
-# game/episode007.rpy:2613
+    "Ben Aven'i parmaklarımla orgazma ulaştırırken o da sikimin masajını yoğunlaştırdı."
+
+
 translate turkish ep007_av_sex_74cba423:
 
-    # av "I’m cumming!{w} I’m cumming!"
-    av "Ben cumming!{w} Ben cumming!"
 
-# game/episode007.rpy:2614
+    av "Geliyorum!{w} Geliyorum!"
+
+
 translate turkish ep007_av_sex_6876b783:
 
-    # "Looking at her enraptured face, her body quivering in anticipation, I stopped holding back."
-    "Kapalı yüzüne bakarak, vücudu beklentiyle titriyor, geri çekilmeyi bıraktım."
 
-# game/episode007.rpy:2616
+    "Kendinden geçmiş yüzüne, beklentiyle titreyen vücuduna bakarak kendimi tutmayı bıraktım."
+
+
 translate turkish ep007_av_sex_47c046e5:
 
-    # "We gripped each other firmly as my cock spurted cum and Aven’s convulsing pussy released a stream of juice."
-    "Bizim horoz cum ve Aven’in Convulsing Pussy bir meyve suyu akışı yayınladı gibi birbirimize sıkıca kavradı."
 
-# game/episode007.rpy:2619
+    "Sikim döl fışkırtırken ve Aven'in kasılan amı su akıtırken birbirimizi sıkıca tuttuk."
+
+
 translate turkish ep007_av_sex_9948f87b:
 
-    # av "Oh fuck [p_name_short]!{w} Yes!{w} Yes!"
-    av "Oh sikeyim [p_name_short]!{w} Evet!{w} Evet!"
 
-# game/episode007.rpy:2622
+    av "Oh siktir [p_name_short]!{w} Evet!{w} Evet!"
+
+
 translate turkish ep007_av_sex_898ace8f:
 
-    # "Aven held onto my twitching member as cum streamed on her hands."
-    "Aven, cum ellerinde akarken seğirme üyeme tuttu."
 
-# game/episode007.rpy:2624
+    "Döl ellerine akarken Aven seğiren sikimi tuttu."
+
+
 translate turkish ep007_av_sex_05603fd7:
 
-    # "I still had my hand between her legs, locked in place by her thighs."
-    "Hala bacaklarının arasında elim vardı, uyluklarıyla yerine kilitlendi."
 
-# game/episode007.rpy:2625
+    "Elim hala bacaklarının arasındaydı, kalçaları tarafından yerine kilitlenmişti."
+
+
 translate turkish ep007_av_sex_8f8e98e5:
 
-    # "Locked in an embrace, we orgasmed together."
-    "Bir kucaklamaya kilitlendi, birlikte orgasmed."
 
-# game/episode007.rpy:2627
+    "Bir kucaklaşmaya kilitlenmiş halde, birlikte orgazm olduk."
+
+
 translate turkish ep007_av_sex_2feb8e6e:
 
-    # "Completely spent, Aven rested her head on my back."
-    "Tamamen harcanan Aven, başını sırtımda dinlendirdi."
 
-# game/episode007.rpy:2628
+    "Tamamen tükenmiş olan Aven başını sırtıma yasladı."
+
+
 translate turkish ep007_av_sex_db18b8b1:
 
-    # "She sighed and closed her eyes."
+
     "İç çekti ve gözlerini kapattı."
 
-# game/episode007.rpy:2629
+
 translate turkish ep007_av_sex_bfd9f0c2:
 
-    # "We didn’t speak, but somehow everything felt right."
-    "Konuşmadık, ama bir şekilde her şey doğru hissetti."
 
-# game/episode007.rpy:2631
+    "Konuşmadık ama bir şekilde her şey doğru hissettirdi."
+
+
 translate turkish ep007_av_sex_0e87b008:
 
-    # "I listened to the slowing of her breathing until I was sure she was sound asleep."
-    "Uykulu olduğundan emin olana kadar nefes almanın yavaşlamasını dinledim."
 
-# game/episode007.rpy:2632
+    "Derin uykuda olduğundan emin olana kadar nefesinin yavaşlamasını dinledim."
+
+
 translate turkish ep007_av_sex_41da42e8:
 
-    # "Only then did I close my eyes and fell asleep with my newfound love next to me."
-    "Ancak o zaman gözlerimi kapattım ve yanımdaki yeni aşkımla uyuyakaldım."
+
+    "Ancak o zaman gözlerimi kapattım ve yeni bulduğum aşkımla yanımda uykuya daldım."
 
 translate turkish strings:
 
-    # game/episode007.rpy:38
+
     old "Vulpes Velox, Settlement"
-    new "Vulpes velox, yerleşim"
+    new "Vulpes Velox, Yerleşim"
 
-    # game/episode007.rpy:158
+
     old "Unknown, En route to Almagest"
-    new "Bilinmeyen, Almagest yolunda"
+    new "Bilinmeyen, Almagest'e giden yolda"
 
-    # game/episode007.rpy:532
+
     old "Yalvai"
     new "Yalvai"
 
-    # game/episode007.rpy:532
+
     old "A parasitic species that grants its host, male or female, special sexual powers in return for laying and fertilizing eggs inside a host. The Yalvai parasites favor human hosts and are often used in spectacular sexual rituals."
-    new "Bir ev sahibine yumurta döşeme ve gübreleme karşılığında ev sahibi, erkek veya kadın, özel cinsel güçlerini veren parazitik bir tür. Yalvai parazitleri insan konaklarını destekler ve genellikle muhteşem cinsel ritüellerde kullanılır."
+    new "Konakçısına, erkek veya kadın, bir konakçının içine yumurta bırakma ve dölleme karşılığında özel cinsel güçler veren parazitik bir tür. Yalvai parazitleri insan konakçıları tercih eder ve genellikle gösterişli cinsel ritüellerde kullanılır."
 
-    # game/episode007.rpy:542
+
     old "Watch the ceremony"
-    new "Töreni İzleyin"
+    new "Töreni izle"
 
-    # game/episode007.rpy:813
+
     old "Visit Nadya"
-    new "Nadya'yı ziyaret edin"
+    new "Nadya'yı ziyaret et"
 
-    # game/episode007.rpy:813
+
     old "Visit Aven"
-    new "Aven'i ziyaret edin"
+    new "Aven'i ziyaret et"
 
-    # game/episode007.rpy:935
+
     old "Compliment her"
     new "Ona iltifat et"
 
-    # game/episode007.rpy:935
+
     old "Be rude"
     new "Kaba ol"
 
-    # game/episode007.rpy:935
+
     old "Ask her to come"
-    new "Ondan gelmesini isteyin"
+    new "Gelmesini iste"
 
-    # game/episode007.rpy:1029
+
     old "Kiss her again"
-    new "Onu tekrar öp"
+    new "Tekrar öp"
 
-    # game/episode007.rpy:1029
+
     old "Let go"
     new "Bırak"
 
-    # game/episode007.rpy:1118
-    old "Look near the bed"
-    new "Yatağın yakınında bak"
 
-    # game/episode007.rpy:1118
+    old "Look near the bed"
+    new "Yatağın yanına bak"
+
+
     old "Look outside"
     new "Dışarı bak"
 
-    # game/episode007.rpy:1118
+
     old "Look at the chair"
     new "Sandalyeye bak"
 
-    # game/episode007.rpy:1118
+
     old "Look at the desk"
     new "Masaya bak"
 
-    # game/episode007.rpy:1118
+
     old "Look inside bathroom"
-    new "Banyo içine bak"
+    new "Banyonun içine bak"
 
-    # game/episode007.rpy:1118
+
     old "Look under the couch"
-    new "Kanepenin altına bak"
+    new "Koltuğun altına bak"
 
-    # game/episode007.rpy:1183
-    old "Erigone"
-    new "Erigon"
 
-    # game/episode007.rpy:1183
     old "Location: Hyginus Chain"
-    new "Konum: Hyginus zinciri"
+    new "Konum: Hyginus Zinciri"
 
-    # game/episode007.rpy:1183
+
     old "Home planet of the Acarhyn, the warrior race that kidnapped Eva. Erigone is supposedly a microquasar and a very dangerous place indeed."
-    new "Eva'yı kaçıran savaşçı ırkı Acarhyn'in ev gezegeni. Erigone sözde bir mikroquasar ve gerçekten çok tehlikeli bir yer."
+    new "Eva'yı kaçıran savaşçı ırk Acarhyn'in ana gezegeni. Erigone'nin bir mikro kuasar olduğu ve gerçekten çok tehlikeli bir yer olduğu söyleniyor."
 
-    # game/episode007.rpy:1453
+
     old "Hold her close"
     new "Onu yakın tut"
 
-    # game/episode007.rpy:1453
+
     old "Don't give in"
-    new "Verme"
+    new "Pes etme"
 
-    # game/episode007.rpy:1521
+
     old "Profess your love"
-    new "Aşkın Profese"
+    new "Aşkını itiraf et"
 
-    # game/episode007.rpy:1521
+
     old "Everything changed"
     new "Her şey değişti"
 
-    # game/episode007.rpy:1544
-    old "Defend"
-    new "Savunmak"
 
-    # game/episode007.rpy:1582
+    old "Defend"
+    new "Savun"
+
+
     old "Tell her how it is"
     new "Ona nasıl olduğunu söyle"
 
-    # game/episode007.rpy:1691
+
     old "Be confident"
-    new "Kendine güvenmek"
+    new "Kendinden emin ol"
 
-    # game/episode007.rpy:1711
+
     old "Be stern"
-    new "Sert olmak"
+    new "Sert ol"
 
-    # game/episode007.rpy:1720
+
     old "Pressure her"
-    new "Baskı"
+    new "Ona baskı yap"
 
-    # game/episode007.rpy:1720
+
     old "Give her space"
-    new "Ona yer ver"
+    new "Ona alan ver"
 
-    # game/episode007.rpy:1793
+
     old "Offer her a drink"
-    new "Ona bir içki teklif et"
+    new "Ona içki teklif et"
 
-    # game/episode007.rpy:1793
+
     old "Say good night"
-    new "İyi geceler de"
+    new "İyi geceler dile"
 
-    # game/episode007.rpy:1896
+
     old "Welcome her"
-    new "Hoş Geldiniz"
+    new "Onu karşıla"
 
-    # game/episode007.rpy:1949
+
     old "Touch her breasts"
     new "Göğüslerine dokun"
 
-    # game/episode007.rpy:2032
+
     old "Persuade her to talk"
     new "Onu konuşmaya ikna et"
 
-    # game/episode007.rpy:2032
+
     old "Respect her privacy"
-    new "Gizliliğine saygı duy"
+    new "Mahremiyetine saygı göster"
 
-    # game/episode007.rpy:2045
+
     old "Talk about your feelings"
-    new "Duygularınız hakkında konuşun"
-
+    new "Duygularından bahset"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
