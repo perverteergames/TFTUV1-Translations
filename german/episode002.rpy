@@ -7090,10 +7090,6 @@ translate german strings:
     new "Das 'blinde' Springen ermöglicht Hyperraumreisen, allerdings ohne klares Ziel und gilt als extrem gefährlich."
 
     # game/episode002.rpy:406
-    old "Vulpes Velox"
-    new "Vulpes Velox"
-
-    # game/episode002.rpy:406
     old "Location: Somewhere near Alpha Vulpeculae"
     new "Standort: Irgendwo in der Nähe von Alpha Vulpeculae"
 
@@ -7106,16 +7102,8 @@ translate german strings:
     new "Der größte Teil des Planeten ist von Wüste bedeckt, obwohl es einige größere Siedlungen gibt. Thyias Werkstatt befindet sich in einer der kleineren Siedlungen auf Vulpes Velox."
 
     # game/episode002.rpy:442
-    old "Thyia"
-    new "Thyia"
-
-    # game/episode002.rpy:442
     old "Thyia is a salvager and engineer working out of her workshop on Vulpes Velox."
     new "Thyia ist eine Bergungsspezialistin und Ingenieurin, die in ihrer Werkstatt auf Vulpes Velox arbeitet."
-
-    # game/episode002.rpy:672
-    old "Iron Bastard"
-    new "Iron Bastard"
 
     # game/episode002.rpy:672
     old "An aging cargo hauler outfitted with extra armored plating and guns by a string of owners. Part of the name stems from the alloy used in the armored plating, containing metals from Earth."
@@ -7132,10 +7120,6 @@ translate german strings:
     # game/episode002.rpy:942
     old "After a run-in with Glixken and his crew, she's forced to flee and join the crew on the Iron Bastard."
     new "Nach einem Zusammenstoß mit Glixken und seiner Gang war sie gezwungen zu fliehen und sich der Crew der Iron Bastard anzuschließen."
-
-    # game/episode002.rpy:1142
-    old "Nyiruan 12-Beta"
-    new "Nyiruan 12-Beta"
 
     # game/episode002.rpy:1142
     old "Homeworld of the R'o, a tribal species of humanoids. The planet has a moderate climate and is very green and fertile, allowing for the lifestyle the R'o tribes still practice - farming, hunting and gathering."
@@ -7166,10 +7150,6 @@ translate german strings:
     new "D'ee"
 
     # game/episode002.rpy:1608
-    old "Ryūjin Prime"
-    new "Ryūjin Prime"
-
-    # game/episode002.rpy:1608
     old "Location: Cat’s Eye Nebula"
     new "Standort: Katzen Augen Nebel"
 
@@ -7196,10 +7176,6 @@ translate german strings:
     # game/episode002.rpy:1717
     old "Childhood friend of [p_name]. Was taken away from Tuolovi by Nadya as a child. A skilled fighter and diplomat, Aven often accompanies her mother on scientific expeditions."
     new "Eine Kindheitsfreund von [p_name]. Wurde als Kind von Nadya von Tuolovi weggebracht. Aven ist eine geschickte Kämpferin und Diplomatin und begleitet ihre Mutter oft auf wissenschaftlichen Expeditionen."
-
-    # game/episode002.rpy:1786
-    old "Nadya"
-    new "Nadya"
 
     # game/episode002.rpy:1786
     old "Mother of Aven and sister to Agust. After her unwilling departure from Tuolovi she settled as a professor in Xenoanthropology at the university on Ryūjin Prime, where she lives with her daughter."

@@ -1,78 +1,146 @@
-﻿# TODO: Translation updated at 2020-05-14 09:22
+# TODO: Translation updated at 2025-11-20 00:44
 
 translate german strings:
 
     # game/scenes.rpy:3
     old "Extra Scenes"
-    new "Extra Szenen"
+    new "Zusätzliche Szenen"
 
     # game/scenes.rpy:3
     old "Hands on with Céline"
-    new "Bei Céline Hand anlegen"
+    new "Hands on with Céline"
 
     # game/scenes.rpy:3
     old "Shower with Jade"
-    new "Mit Jade duschen"
+    new "Dusche mit Jade"
 
     # game/scenes.rpy:3
     old "The fingers of D'ee"
-    new "D'ees Finger"
+    new "Die Finger von D\'ee"
 
     # game/scenes.rpy:3
     old "Lesbian Fun on Verdant Station #1"
-    new "Lesbischer Spaß auf Station Verdant #1"
+    new "Lesbischer Spaß auf Verdant Station #1"
 
     # game/scenes.rpy:3
     old "Lesbian Fun on Verdant Station #2"
-    new "Lesbischer Spaß auf Station Verdant #2"
+    new "Lesbischer Spaß auf Verdant Station #2"
 
     # game/scenes.rpy:3
-    old "Episode #1"
-    new "Episode #1"
+    old "Quickie #1"
+    new "Quickie #1"
+
+    # game/scenes.rpy:3
+    old "Quickie #2"
+    new "Quickie #2"
+
+    # game/scenes.rpy:3
+    old "Twi'll Throat"
+    new "Twi'll Throat"
+
+    # game/scenes.rpy:3
+    old "Lesbian Fountains"
+    new "Lesbenbrunnen"
+
+    # game/scenes.rpy:3
+    old "A wet lesson"
+    new "Eine nasse Lektion"
+
+    # game/scenes.rpy:3
+    old "Master & Commander"
+    new "Master & Commander"
+
+    # game/scenes.rpy:3
+    old "Let it go"
+    new "Lass es los"
+
+    # game/scenes.rpy:3
+    old "O Captain! My Captain!"
+    new "Oh Kapitän! Mein Kapitän!"
+
+    # game/scenes.rpy:3
+    old "Shiny!"
+    new "Shiny!"
+
+    # game/scenes.rpy:3
+    old "Better Together"
+    new "Gemeinsam sind wir besser"
+
+    # game/scenes.rpy:3
+    old "The Cave Sucks"
+    new "Die Höhle ist echt ätzend"
+
+    # game/scenes.rpy:3
+    old "Groovin' in the grove"
+    new "Groovin' in the grove"
+
+    # game/scenes.rpy:3
+    old "Riding the tower"
+    new "Die auf dem Turm reitet"
+
+    # game/scenes.rpy:3
+    old "To her bosom"
+    new "An ihre Brust"
+
+    # game/scenes.rpy:3
+    old "It's a kind of magic"
+    new "Es ist eine Art Magie."
+
+    # game/scenes.rpy:3
+    old "Squat Commander"
+    new "Squat Commander"
+
+    # game/scenes.rpy:3
+    old "Water Wrestling"
+    new "Wasserringen"
+
+    # game/scenes.rpy:3
+    old "Fertile Garden"
+    new "Fruchtbarer Garten"
+
+    # game/scenes.rpy:3
+    old "Licking Lilly"
+    new "Die Lilie leckt"
+
+    # game/scenes.rpy:3
+    old "One out of three"
+    new "Eins von drei"
 
     # game/scenes.rpy:3
     old "Sleeping with Céline"
-    new "Mit Céline schlafen"
+    new "Schlafen mit Céline"
 
     # game/scenes.rpy:3
     old "Jade's handjob"
-    new "Jade's Handjob"
-
-    # game/scenes.rpy:3
-    old "Episode #2"
-    new "Episode #2"
+    new "Jades Handjob"
 
     # game/scenes.rpy:3
     old "A sweet deal with Thyia"
-    new "Eine süßer Deal mit Thyia"
+    new "Ein toller Deal mit Thyia"
 
     # game/scenes.rpy:3
     old "R'o Orgy"
-    new "R'o Orgie"
+    new "R\'o Orgie"
 
     # game/scenes.rpy:3
     old "Dreaming with Céline"
-    new "Mit Céline träumen"
+    new "Träumen mit Céline"
 
     # game/scenes.rpy:3
     old "Jade and the captain"
-    new "Jade und der Captain"
-
-    # game/scenes.rpy:3
-    old "Episode #3"
-    new "Episode #3"
+    new "Jade und der Kapitän"
 
     # game/scenes.rpy:3
     old "Party at Verdant Station"
-    new "Party Station Verdant"
+    new "Party im Verdant Station"
 
     # game/scenes.rpy:3
     old "Threesome with Leda and Berit (Soft)"
-    new "Dreier mit Leda und Berit (sanft)"
+    new "Dreier mit Leda und Berit (Soft)"
 
     # game/scenes.rpy:3
     old "Threesome with Leda and Berit (Hard)"
-    new "Dreier mit Leda und Berit (hart)"
+    new "Dreier mit Leda und Berit (Hart)"
 
     # game/scenes.rpy:3
     old "Fucking Leda"
@@ -81,10 +149,6 @@ translate german strings:
     # game/scenes.rpy:3
     old "Fucking Berit"
     new "Berit ficken"
-
-    # game/scenes.rpy:3
-    old "Episode #4"
-    new "Episode #4"
 
     # game/scenes.rpy:3
     old "Licking Luzane"
@@ -100,82 +164,35 @@ translate german strings:
 
     # game/scenes.rpy:3
     old "Jade Anal (Soft)"
-    new "Jade Anal (sanft)"
+    new "Jade Anal (Soft)"
 
     # game/scenes.rpy:3
     old "Jade Anal (Hard)"
-    new "Jade Anal (hart)"
-# TODO: Translation updated at 2020-06-24 20:25
-
-translate german strings:
-
-    # game/scenes.rpy:3
-    old "Quickie #1"
-    new "Quickie #1"
-
-    # game/scenes.rpy:3
-    old "Quickie #2"
-    new "Quickie #2"
-
-# TODO: Translation updated at 2020-12-21 23:18
-
-translate german strings:
-
-    # game/scenes.rpy:3
-    old "Tw'ill Throat"
-    new "Tw'ill Kehle"
-
-    # game/scenes.rpy:3
-    old "Lesbian Fountains"
-    new "Lesbische Fontänen"
-
-    # game/scenes.rpy:3
-    old "A wet lesson"
-    new "Eine nasse Stunde"
-
-    # game/scenes.rpy:3
-    old "Master & Commander"
-    new "Meister & Commander"
-
-    # game/scenes.rpy:3
-    old "Doctor Blow"
-    new "Doktor Blow"
-
-    # game/scenes.rpy:3
-    old "Episode #5"
-    new "Episode #5"
+    new "Jade Anal (Hart)"
 
     # game/scenes.rpy:3
     old "Footsie Céline"
-    new "Fußarbeit Céline"
+    new "Footsie Céline"
 
     # game/scenes.rpy:3
     old "Sex Workshop"
-    new "Sex-Werkstatt"
+    new "Sex-Workshop"
 
     # game/scenes.rpy:3
     old "Lesbian Mechanics"
     new "Lesbische Mechanikerinnen"
 
     # game/scenes.rpy:3
-    old "Iana and Sil"
-    new "Iana und Sil"
-
-    # game/scenes.rpy:3
     old "Kualtha Juicing"
-    new "Kualtha-Entsaftung"
+    new "Kualtha Juicing"
 
     # game/scenes.rpy:3
     old "Breed! Breed! Breed!"
-    new "Brüte! Brüte! Brüte!"
+    new "Züchte! Züchte! Züchte!"
 
     # game/scenes.rpy:3
     old "Foursome on the bridge"
-    new "Vierer auf der Brücke"
-
-    # game/scenes.rpy:3
-    old "Episode #6"
-    new "Episode #6"
+    new "Vierergruppe auf der Brücke"
 
     # game/scenes.rpy:3
     old "Discipline #1"
@@ -191,224 +208,125 @@ translate german strings:
 
     # game/scenes.rpy:3
     old "Showerly Lust"
-    new "Dusch-Lust"
+    new "Showerly Lust"
 
     # game/scenes.rpy:3
     old "Thorough Examination"
-    new "Sorgfältige Untersuchung"
-
-    # game/scenes.rpy:3
-    old "Episode #7"
-    new "Episode #7"
+    new "Gründliche Untersuchung"
 
     # game/scenes.rpy:3
     old "Scrambled Eggs"
     new "Rührei"
-# TODO: Translation updated at 2021-07-17 21:27
-
-translate german strings:
-
-    # game/scenes.rpy:3
-    old "Twi'll Throat"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Let it go"
-    new ""
-
-    # game/scenes.rpy:3
-    old "O Captain! My Captain!"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Shiny!"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Better Together"
-    new ""
-
-    # game/scenes.rpy:3
-    old "The Cave Sucks"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Groovin' in the grove"
-    new ""
 
     # game/scenes.rpy:3
     old "The Rub"
-    new ""
+    new "The Rub"
 
     # game/scenes.rpy:3
     old "A welcome distraction"
-    new ""
+    new "Eine willkommene Ablenkung"
 
     # game/scenes.rpy:3
     old "Ave Aven"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Episode #8"
-    new ""
+    new "Ave Aven"
 
     # game/scenes.rpy:3
     old "Inside Aven"
-    new ""
+    new "Inside Aven"
 
     # game/scenes.rpy:3
     old "Bath Time"
-    new ""
+    new "Badezeit"
 
     # game/scenes.rpy:3
     old "Acarhyn Action"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Episode #9"
-    new ""
+    new "Acarhyn Action"
 
     # game/scenes.rpy:3
     old "Lilly's Grind"
-    new ""
+    new "Lillys Grind"
 
     # game/scenes.rpy:3
     old "Washing Up"
-    new ""
+    new "Beim Abwaschen"
 
     # game/scenes.rpy:3
     old "Speleology"
-    new ""
-
-# TODO: Translation updated at 2021-09-24 09:06
-
-translate german strings:
-
-    # game/scenes.rpy:3
-    old "Riding the tower"
-    new ""
-
-    # game/scenes.rpy:3
-    old "To her bosom"
-    new ""
-
-    # game/scenes.rpy:3
-    old "It's a kind of magic"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Squat Commander"
-    new ""
-
-    # game/scenes.rpy:3
-    old "???"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Episode #10"
-    new ""
+    new "Höhlenforschung"
 
     # game/scenes.rpy:3
     old "Rooftop Rumba"
-    new ""
+    new "Rooftop Rumba"
 
     # game/scenes.rpy:3
     old "Religious Instruction"
-    new ""
+    new "Religionsunterricht"
 
     # game/scenes.rpy:3
     old "Saying Yes To Vess"
-    new ""
+    new "Die Ja zu Vess sagt"
 
     # game/scenes.rpy:3
     old "Rhenkoy Companionship"
-    new ""
+    new "Rhenkoy-Begleitung"
 
     # game/scenes.rpy:3
     old "Boffing Botany"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Episode #11"
-    new ""
+    new "Boffing Botany"
 
     # game/scenes.rpy:3
     old "Orgy-porgy"
-    new ""
+    new "Orgie-porgie"
 
     # game/scenes.rpy:3
     old "Jumping on Jade"
-    new ""
+    new "Die auf Jade springt"
 
     # game/scenes.rpy:3
     old "Jiggering Jade"
-    new ""
+    new "Jiggering Jade"
 
     # game/scenes.rpy:3
     old "Pick a Lilly"
-    new ""
-
-# TODO: Translation updated at 2022-05-22 20:05
-
-translate german strings:
-
-    # game/scenes.rpy:3
-    old "Water Wrestling"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Fertile Garden"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Licking Lilly"
-    new ""
-
-    # game/scenes.rpy:3
-    old "One out of three"
-    new ""
-
-    # game/scenes.rpy:3
-    old "Episode #12"
-    new ""
+    new "Pflücke eine Lilie"
 
     # game/scenes.rpy:3
     old "Beach Offensive"
-    new ""
+    new "Strandoffensive"
 
     # game/scenes.rpy:3
     old "Up Her Alley"
-    new ""
+    new "Up Her Alley"
 
     # game/scenes.rpy:3
     old "Popping that Popstar"
-    new ""
+    new "Popping that Popstar"
 
     # game/scenes.rpy:3
     old "Lilly's Farewell"
-    new ""
+    new "Lillys Abschied"
 
     # game/scenes.rpy:3
     old "Sampling the wares"
-    new ""
+    new "Die Warenprobe"
 
     # game/scenes.rpy:3
     old "Sampling the all of the wares"
-    new ""
+    new "Die alle Waren probiert."
 
     # game/scenes.rpy:3
     old "Shuttlecock"
-    new ""
+    new "Federball"
 
     # game/scenes.rpy:3
     old "Clogging the drain"
-    new ""
+    new "Verstopft den Abfluss"
 
     # game/scenes.rpy:3
     old "Fun on Kepler XIV"
-    new ""
+    new "Spaß mit Kepler XIV"
 
     # game/scenes.rpy:3
     old "Bunk Bonanza"
-    new ""
+    new "Bunk Bonanza"
 

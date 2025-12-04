@@ -4932,10 +4932,6 @@ translate german strings:
     old "Better not"
     new "Lieber nicht"
 
-    # game/episode001.rpy:734
-    old "TGN Ypotryll"
-    new "TGN Ypotryll"
-
     # game/episode001.rpy:811
     old "Massage me"
     new "Massiere mich"
@@ -5173,16 +5169,8 @@ translate german strings:
     new "Yve Valenmann de Lonval, ehemalige Pop-Sängerin, die Agust heiratete als sie noch sehr jug waren. Mutter von [p_name]. Sie verbringt ihre Zeit in dem Anwesen auf Tuolovi, wo sie eine ganze Schar von Liebhabern unterhält."
 
     # game/episode001.rpy:162
-    old "Aven"
-    new "Aven"
-
-    # game/episode001.rpy:162
     old "Aven, childhood friend of [p_name]. Was taken away by Nadya."
     new "Aven, Kindheitsfreundin von [p_name]. Wurde von Nadya mitgenommen."
-
-    # game/episode001.rpy:181
-    old "Eva"
-    new "Eva"
 
     # game/episode001.rpy:181
     old "Eva Valenmann de Lonval, sister of Lilly and [p_name]."
@@ -5191,10 +5179,6 @@ translate german strings:
     # game/episode001.rpy:191
     old "Eva Arderne, childhood friend of [p_name]."
     new "Eva Arderne, Kindheitsfreundin von [p_name]."
-
-    # game/episode001.rpy:214
-    old "Lilly"
-    new "Lilly"
 
     # game/episode001.rpy:214
     old "Lilly Valenmann de Lonval, sister of Eva and [p_name]."
@@ -5257,10 +5241,6 @@ translate german strings:
     new "Erste Begegnung während einees Angriffs auf TGN-Personal auf dem Mond Lanan P-10, wo viele entführt wurden. Die Frauen erscheinen muskulös, tragen kunstvolle Rüstungen und bevorzugen anscheinend den Kampf mit recht einfachen Nahkampfwaffen."
 
     # game/episode001.rpy:753
-    old "Jade"
-    new "Jade"
-
-    # game/episode001.rpy:753
     old "Short for Jade'anna N'ec L'ordann va T'olnec. [p_name]'s personal Twi'll attendant, given to him on his sixteenth birthday."
     new "Kurz für Jade'anna N'ec L'ordann va T'olnec. Ist die Twi'll-Bedienstete von [p_name], die ihm zu seinen sechzehnten Geburtstag geschenkt wurde."
 
@@ -5271,10 +5251,6 @@ translate german strings:
     # game/episode001.rpy:773
     old "Tw’ill were the first alien species the human race encountered on their initial explorations outside the known galaxy. The intelligent, benign race of humanoids were promptly enslaved by the Terran invaders and their homeworld Luclite orbiting Xut Thanaili was destroyed. 80% of the populace were wiped out and the rest of them (male and female) are commonly held as sex slaves by wealthy Terran individuals."
     new "Die Twi'll waren die erste fremde Spezies, auf die die menschliche Rasse bei ihrer ersten Erkundung außerhalb der bekannten Galaxie traf. Die intelligente, friedliebende humanoide Rasse wurde umgehend von den terranischen Invasoren versklavt und ihre Heimatwelt Luclite in Orbit um Xut Thanaili wurde zerstört. 80% der Bevölkerung wurde ausgelöscht und die Verbleibenden (männlich und weiblich) werden gewöhnlich von wohlhabenden Terranern als Sexsklaven gehalten."
-
-    # game/episode001.rpy:1004
-    old "Vess"
-    new "Vess"
 
     # game/episode001.rpy:1004
     old "Vess is a girl [p_name] encountered during the botched operation on Lanan P-10, helping her escape on a transport to the TGN Ypotryll. Her family was taken when the Warrior Women invaded the moon."
@@ -5364,10 +5340,6 @@ translate german strings:
     # game/episode001.rpy:267
     old "Commander Szuzume is the most senior officer on the Ypotryll."
     new "Commander Szuzume ist der ranghöchste Offizier auf der Ypotryll."
-
-    # game/episode001.rpy:1273
-    old "TGN Enfield"
-    new "TGN Enfield"
 
     # game/episode001.rpy:1273
     old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."

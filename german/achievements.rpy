@@ -20,7 +20,7 @@ translate german strings:
 
     # game/achievements.rpy:3
     old "Locked and unloaded"
-    new "entladen und entsichert"
+    new "Entladen und entsichert"
 
     # game/achievements.rpy:3
     old "Took the potion offered one night on Erigone."

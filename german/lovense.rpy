@@ -78,3 +78,15 @@ translate german strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}Hinweis:{/b} Wenn Sie einen Kauf tätigen, indem Sie auf die obige Schaltfläche klicken, erhalte ich möglicherweise eine kleine Provision, ohne dass Ihnen zusätzliche Kosten entstehen. Ich empfehle nur Produkte, die ich persönlich benutze und denen ich vertraue."
 
+# TODO: Translation updated at 2025-09-04 11:35
+
+translate german strings:
+
+    # game/lovense.rpy:304
+    old "[[x] Close"
+    new ""
+
+    # game/lovense.rpy:374
+    old "Test Device"
+    new ""
+

@@ -11,9 +11,9 @@ translate german strings:
 
     # game/encyclopaedia_screens.rpy:113
     old "Filters"
-    new ""
+    new "Filters"
 
     # game/encyclopaedia_screens.rpy:119
     old "All"
-    new ""
+    new "Alle"
 

@@ -1,138 +1,140 @@
-﻿# TODO: Translation updated at 2020-05-14 09:22
+# TODO: Translation updated at 2025-11-20 00:44
 
 translate german strings:
 
-    # game/script.rpy:126
+    # game/script.rpy:29
+    old "Taboo Edition disabled"
+    new "Tabu-Edition deaktiviert"
+
+    # game/script.rpy:31
+    old "Taboo Edition enabled"
+    new "Tabu-Edition aktiviert"
+
+    # game/script.rpy:51
+    old "CODEX UPDATED"
+    new "CODEX AKTUALISIERT"
+
+    # game/script.rpy:116
+    old "Camran"
+    new "Camran"
+
+    # game/script.rpy:119
+    old "Cam"
+    new "Cam"
+
+    # game/script.rpy:129
+    old "ACHIEVEMENT UNLOCKED"
+    new "ERFOLG FREIGESCHALTET"
+
+    # game/script.rpy:204
+    old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
+    new "Drücke {i}\"Enter\"{/i} auf der Bildschirmtastatur, um zu bestätigen."
+
+    # game/script.rpy:208
     old "Confirm"
     new "Bestätigen"
-# TODO: Translation updated at 2020-12-21 23:18
-
-translate german strings:
-
-    # game/script.rpy:16
-    old "Taboo Edition disabled"
-    new "Tabu Edition deaktiviert"
-
-    # game/script.rpy:18
-    old "Taboo Edition enabled"
-    new "Tabu Edition aktiviert"
-
-    # game/script.rpy:38
-    old "CODEX UPDATED"
-    new "KODEX AKTUALISIERT"
 
     # game/script.rpy:274
+    old "Please select the Season 1 save you'd like to load:"
+    new "Bitte wähle den Spielstand aus Staffel 1 aus, den du laden möchtest:"
+
+    # game/script.rpy:295
+    old "Exit"
+    new "Ausgang"
+
+    # game/script.rpy:369
+    old "THANK YOU"
+    new "DANKE"
+
+    # game/script.rpy:370
+    old "A big thank you to my top tier backers, you rock!"
+    new "Ein großes Dankeschön an meine Top-Unterstützer, ihr seid spitze!"
+
+    # game/script.rpy:412
+    old "No previous season data found"
+    new "Es wurden keine Daten aus der vorherigen Saison gefunden."
+
+    # game/script.rpy:417
+    old "Please complete the previous season of the game before continuing with this version and make sure a Season save file is present in the saves directory."
+    new "Bitte schließe die vorherige Saison des Spiels ab, bevor du mit dieser Version fortfährst, und stelle sicher, dass sich eine Speicherdatei der Saison im Speicherverzeichnis befindet."
+
+    # game/script.rpy:421
+    old "Consult the game manual or {a=https://perverteer.com/faq}the FAQ section{/a} for more information."
+    new "Lies im Spielhandbuch oder {a=https://perverteer.com/faq}im FAQ-Bereich{/a} nach, um weitere Informationen zu erhalten."
+
+    # game/script.rpy:425
+    old "Quit"
+    new "Beenden"
+
+    # game/script.rpy:459
+    old "Story, artwork and development"
+    new "Story, Artwork und Entwicklung"
+
+    # game/script.rpy:459
+    old "Perverteer"
+    new "Perversling"
+
+    # game/script.rpy:459
+    old "Animations"
+    new "Animationen"
+
+    # game/script.rpy:459
+    old "Alorth"
+    new "Alorth"
+
+    # game/script.rpy:459
+    old "Proofreading"
+    new "Korrekturlesen"
+
+    # game/script.rpy:459
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, Marcurion, Razielprince und ThunderRob"
+
+    # game/script.rpy:459
+    old "Testing"
+    new "Test"
+
+    # game/script.rpy:459
+    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki und Razielprince"
+
+    # game/script.rpy:459
+    old "Translation"
+    new "Übersetzung"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portugiesisch){/i}, MyPrettyWolfy {i}(Russisch){/i}, Freeman {i}(Polnisch){/i}, Frank Rosario {i}(Italienisch){/i}, Juan Manuel und Kabezon {i}(Spanisch){/i}, Donk. {i}(Türkisch, darkeros.org){/i}"
+
+    # game/script.rpy:459
+    old "Special thanks to"
+    new "Besonderer Dank an"
+
+    # game/script.rpy:459
+    old "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
+    new "Alorth, Grubb, HoboCop86, th66, Mac und Morbil."
+
+    # game/script.rpy:459
+    old "Very special thanks to"
+    new "Ein ganz besonderer Dank an"
+
+    # game/script.rpy:459
+    old "All loyal patrons who generously supported the development of this project."
+    new "Allen treuen Förderern, die die Entwicklung dieses Projekts großzügig unterstützt haben."
+
+    # game/script.rpy:564
+    old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
+    new "{=location_subheading}STANDORT:{/=location_subheading}\n[location]"
+
+    # game/script.rpy:574
     old "Unread"
     new "Ungelesen"
 
-    # game/script.rpy:277
+    # game/script.rpy:577
     old "What is your name?"
-    new "Wie lautet Dein Vorname?"
+    new "Wie heißt du?"
 
-    # game/script.rpy:280
+    # game/script.rpy:580
     old "What is your nickname?"
-    new "Wie lautet Dein Spitzname?"
-# TODO: Translation updated at 2021-07-17 21:27
-
-translate german strings:
-
-    # game/script.rpy:183
-    old "Please select the Season 1 save you'd like to load:"
-    new ""
-
-    # game/script.rpy:204
-    old "Exit"
-    new ""
-
-    # game/script.rpy:315
-    old "No previous season data found"
-    new ""
-
-    # game/script.rpy:320
-    old "Please complete the previous season of the game before contuining with this version and make sure a Season save file is present in the saves directory."
-    new ""
-
-    # game/script.rpy:324
-    old "Consult the game manual or {a=https://perverteer.com/faq}the FAQ section{/a} for more information."
-    new ""
-
-# TODO: Translation updated at 2021-09-24 09:06
-
-translate german strings:
-
-    # game/script.rpy:320
-    old "Please complete the previous season of the game before continuing with this version and make sure a Season save file is present in the saves directory."
-    new ""
-
-# TODO: Translation updated at 2022-05-22 20:05
-
-translate german strings:
-
-    # game/script.rpy:111
-    old "ACHIEVEMENT UNLOCKED"
-    new ""
-
-    # game/script.rpy:393
-    old "Story, artwork and development"
-    new ""
-
-    # game/script.rpy:393
-    old "Perverteer"
-    new ""
-
-    # game/script.rpy:393
-    old "Animations"
-    new ""
-
-    # game/script.rpy:393
-    old "Alorth"
-    new ""
-
-    # game/script.rpy:393
-    old "Proofreading"
-    new ""
-
-    # game/script.rpy:393
-    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
-    new ""
-
-    # game/script.rpy:393
-    old "Testing"
-    new ""
-
-    # game/script.rpy:393
-    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new ""
-
-    # game/script.rpy:393
-    old "Translation"
-    new ""
-
-    # game/script.rpy:393
-    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}"
-    new ""
-
-    # game/script.rpy:393
-    old "Special thanks to"
-    new ""
-
-    # game/script.rpy:393
-    old "Alorth, Grubb, HoboCop86, th66, Mac and Morbil."
-    new ""
-
-    # game/script.rpy:393
-    old "Very special thanks to"
-    new ""
-
-    # game/script.rpy:393
-    old "All loyal patrons who generously supported the development of this project."
-    new ""
-
-# TODO: Translation updated at 2022-07-27 15:28
-
-translate german strings:
-
-    # game/script.rpy:197
-    old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new ""
+    new "Wie lautet dein Spitzname?"
 

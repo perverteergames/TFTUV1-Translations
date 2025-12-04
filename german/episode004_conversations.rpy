@@ -4958,3 +4958,11 @@ translate german ep004_jade_sex_hard_36c63158:
     # "After plastering her face with semen, I allowed her to collapse on top of me."
     "Nachdem ich ihr ins Gesicht gespritzt hatte, ließ ich sie auf mich sinken."
 
+# TODO: Translation updated at 2025-09-04 11:35
+
+# game/episode004_conversations.rpy:1430
+translate german ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    ""
+
