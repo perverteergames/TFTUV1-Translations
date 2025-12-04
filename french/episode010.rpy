@@ -11127,4 +11127,17 @@ translate french strings:
     new "chasseresse"
 
     old "Admiral"
-    new "Amiral"
+    new "Amiral"# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode010.rpy:81
+translate french episode010_b1e9252e:
+
+    # bl "They seemed to have pissed off a local crime lord here and then vanished without a trace into the Heveliun Belt, a local asteroid field."
+    bl "Il semble qu'ils aient énervé un seigneur du crime local et qu'ils aient disparu sans laisser de traces dans la ceinture helluvienne, un champ d'astéroïdes local."
+
+# game/episode010.rpy:3074
+translate french ep010_vess_sex_ad74bdfa:
+
+    # ve "I’m not sure you realize how much I enjoyed our night on Almagest?"
+    ve "Je ne suis pas sûr que tu réalises à quel point j'ai apprécié notre nuit sur Almaghest ?"
+

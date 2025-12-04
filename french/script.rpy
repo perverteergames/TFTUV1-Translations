@@ -132,3 +132,19 @@ translate french strings:
     old "A big thank you to my top tier backers, you rock!"
     new "Un grand merci à mes donateurs de premier rang, vous êtes géniaux !"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+translate french strings:
+
+    # game/script.rpy:116
+    old "Camran"
+    new "Camran"
+
+    # game/script.rpy:119
+    old "Cam"
+    new "Cam"
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+

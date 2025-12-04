@@ -575,3 +575,15 @@ translate french strings:
     old "Polski (częściowo)"
     new "Polski (częściowo)"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+translate french strings:
+
+    # game/screens.rpy:1484
+    old "简体中文"
+    new "简体中文"
+
+    # game/screens.rpy:1485
+    old "繁体中文"
+    new "繁体中文"
+

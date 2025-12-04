@@ -4806,3 +4806,11 @@ translate french strings:
     old "Don’t apologize"
     new "Ne t'excuse pas"
 
+# TODO: Translation updated at 2025-09-04 11:32
+
+# game/episode004_conversations.rpy:1430
+translate french ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Après avoir enduit son visage de sperme, je l'ai laissée s'effondrer sur moi."
+
