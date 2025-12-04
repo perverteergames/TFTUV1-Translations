@@ -578,3 +578,55 @@ translate polish strings:
     old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
     new ""
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+translate polish strings:
+
+    # game/screens.rpy:369
+    old "Choices"
+    new "Choices"
+
+    # game/screens.rpy:1469
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1471
+    old "Connect your toy"
+    new "Connect your toy"
+
+    # game/screens.rpy:1484
+    old "简体中文"
+    new "简体中文"
+
+    # game/screens.rpy:1485
+    old "繁体中文"
+    new "繁体中文"
+
+    # game/screens.rpy:1486
+    old "Italiano"
+    new "Italiano"
+
+    # game/screens.rpy:1487
+    old "Português"
+    new "Português"
+
+    # game/screens.rpy:1488
+    old "Français"
+    new "Français"
+
+    # game/screens.rpy:1491
+    old "Русский"
+    new "Русский"
+
+    # game/screens.rpy:1492
+    old "Español"
+    new "Español"
+
+    # game/screens.rpy:1493
+    old "Türkçe"
+    new "Türkçe"
+
+    # game/screens.rpy:1494
+    old "Polski (częściowo)"
+    new "Polski (częściowo)"
+

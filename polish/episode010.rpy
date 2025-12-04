@@ -11826,3 +11826,17 @@ translate polish ep010_raene_1ba67ae8:
     # "The calgounds ran fast, and Raene had a head start."
     ""
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+# game/episode010.rpy:81
+translate polish episode010_b1e9252e:
+
+    # bl "They seemed to have pissed off a local crime lord here and then vanished without a trace into the Heveliun Belt, a local asteroid field."
+    bl ""
+
+# game/episode010.rpy:3074
+translate polish ep010_vess_sex_ad74bdfa:
+
+    # ve "I’m not sure you realize how much I enjoyed our night on Almagest?"
+    ve ""
+

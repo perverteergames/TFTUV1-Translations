@@ -4888,3 +4888,11 @@ translate polish ep004_jade_sex_hard_36c63158:
     # "After plastering her face with semen, I allowed her to collapse on top of me."
     "Po oblaniu jej twarzy nasieniem, pozwoliłem jej opaść na mnie."
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+# game/episode004_conversations.rpy:1430
+translate polish ep004_jade_sex_soft_5ca849a8:
+
+    # "After plastering her face with semen, she collapsed on top of me with a broad smile."
+    "Po pokryciu jej twarzy spermą, upadła na mnie z szerokim uśmiechem."
+

@@ -13696,3 +13696,11 @@ translate polish ep005_doarn_finger_03374062:
     # "This wasn't sensual masturbation, but rather a frantic finger fuck, a single-minded pursuit of climax."
     "To nie była zmysłowa masturbacja, ale raczej szaleńcze ruchanie palcami, samotna pogoń za szczytem."
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+# game/episode005.rpy:1712
+translate polish ep005_thim_c5f9a2ed:
+
+    # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
+    c "Myślałem, że jesteś zadowolony z gwarantowanego tytułu oficerskiego, który czeka na ciebie po ukończeniu studiów."
+

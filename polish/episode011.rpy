@@ -6440,3 +6440,17 @@ translate polish strings:
     old "Fuck another girl"
     new ""
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+# game/episode011.rpy:1636
+translate polish ep011_feast_orgy_a104c94d:
+
+    # woman2 "They’re both very big boys, aren’t they?"
+    woman2 ""
+
+# game/episode011.rpy:1673
+translate polish ep011_feast_orgy_78c80ce2:
+
+    # woman2 "He’s a big boy, isn’t he?"
+    woman2 ""
+

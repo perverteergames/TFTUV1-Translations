@@ -7538,3 +7538,11 @@ translate polish strings:
     old "Siora"
     new ""
 
+# TODO: Translation updated at 2025-09-04 11:46
+
+# game/extras.rpy:1989
+translate polish extra_scene_22_95509110:
+
+    # "The commander swallowed everything and turned her attention back to me."
+    ""
+
