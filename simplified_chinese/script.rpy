@@ -150,3 +150,11 @@ translate simplified_chinese strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new "{=location_subheading}位置:{/=location_subheading}\n[location]"
 
+# TODO: Translation updated at 2025-07-27 00:26
+
+translate simplified_chinese strings:
+
+    # game/script.rpy:459
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+

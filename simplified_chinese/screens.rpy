@@ -541,3 +541,11 @@ translate simplified_chinese strings:
     old "简体中文"
     new "简体中文"
 
+# TODO: Translation updated at 2025-09-04 12:21
+
+translate simplified_chinese strings:
+
+    # game/screens.rpy:1485
+    old "繁体中文"
+    new "繁体中文"
+
