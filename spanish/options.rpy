@@ -15,6 +15,6 @@ translate spanish strings:
     new "Grubb {i}(portugués){/i}, MyPrettyWolfy {i}(ruso){/i}, Rory Mercury91 (francés), Frank Rosario {i}(italiano){/i}, Freeman {i}(polaco, parcial){/i}, Juan Manuel y Kabezon {i}(español, parcial){/i}, Donk. {i}(turco, darkeros.org){/i}"
 
     # game/options.rpy:752
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Gracias a HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki y Razielprince por probarlo.\n\nMuchísimas gracias a mis patrocinadores de primer nivel. ¡Sois geniales! Entre mis patrocinadores pasados y presentes se encuentran:\n{i}"
+    old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Gracias a HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki y Razielprince por probarlo.\n\nMuchísimas gracias a mis patrocinadores de primer nivel. ¡Sois geniales! Entre mis patrocinadores pasados y presentes se encuentran:\n{i}"
 

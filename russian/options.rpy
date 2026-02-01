@@ -15,8 +15,8 @@ translate russian strings:
     new "Grubb {i}(Portuguese, partial){/i}, Rory-Mercury91 {i}(French){/i}, Frank Rosario {i}(Italian, partial){/i}, Juan Manuel {i}(Spanish, partial){/i}, MyPrettyWolfy {i}(Russian){/i}, `SpeciaL. (Turkish, partial)"
 
     # game/options.rpy:591
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Спасибо HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince за тестирование.\n\nБольшое спасибо моим спонсорам топ-тира. Вы великолепны! Прошлые и нынешние покровители включают в себя:\n{i}"
+    old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Спасибо HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki, FckThisShtImOut and Razielprince за тестирование.\n\nБольшое спасибо моим спонсорам топ-тира. Вы великолепны! Прошлые и нынешние покровители включают в себя:\n{i}"
 
 # TODO: Translation updated at 2025-09-04 12:12
 
@@ -27,6 +27,6 @@ translate russian strings:
     new "Grubb {i}(португальский){/i}, MyPrettyWolfy {i}(русский){/i}, Rory Mercury91 (французский), Frank Rosario {i}(итальянский){/i}, Freeman {i}(польский, частично){/i}, Juan Manuel и Kabezon {i}(испанский, частично){/i}, Donk. {i}(турецкий, darkeros.org){/i}"
 
     # game/options.rpy:752
-    old "Thanks to HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Спасибо HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki и Razielprince за тестирование. \n\nОгромное спасибо моим спонсорам высшего уровня. Вы лучшие! Среди прошлых и нынешних спонсоров:\n{i}"
+    old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Спасибо HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki и Razielprince за тестирование. \n\nОгромное спасибо моим спонсорам высшего уровня. Вы лучшие! Среди прошлых и нынешних спонсоров:\n{i}"
 
