@@ -9256,11 +9256,19 @@ translate polish episode006_b8ae7812:
 translate polish episode006_a3e40928:
 
     # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
-    co ""
+    co "Niestety, Hreir nie był zbyt wylewny podczas swojej ostatniej spowiedzi, ale może jego dane pokażą nam dokąd te wojowniczki zabrały siostrę chłopca."
 
 # game/episode006.rpy:135
 translate polish episode006_6700ecb2:
 
     # "A small window allowed me to view the area just beyond, a corridor, just as unremarkable as my cell."
-    ""
+    "Małe okienko pozwoliło mi zobaczyć okolicę tuż za nim, korytarz, równie nijaki jak moja cela."
+
+# TODO: Translation updated at 2026-02-03 11:21
+
+# game/episode006.rpy:2377
+translate polish ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "Kobieta krzyknęła z bólu, gdy pierwsze centymetry wsunęły się do jej wnętrza, a ona próbowała mówić."
 

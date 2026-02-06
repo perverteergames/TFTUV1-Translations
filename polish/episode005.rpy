@@ -13704,3 +13704,11 @@ translate polish ep005_thim_c5f9a2ed:
     # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
     c "Myślałem, że jesteś zadowolony z gwarantowanego tytułu oficerskiego, który czeka na ciebie po ukończeniu studiów."
 
+# TODO: Translation updated at 2026-02-03 11:21
+
+# game/episode005.rpy:1206
+translate polish ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "Upewniając się, że motor jest zabezpieczony, zostawiliśmy go tuż przed kasynem i minęliśmy beznamiętnych bramkarzy stojących po obu stronach drzwi."
+

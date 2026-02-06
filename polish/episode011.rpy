@@ -6454,3 +6454,11 @@ translate polish ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 ""
 
+# TODO: Translation updated at 2026-02-03 11:21
+
+# game/episode011.rpy:1740
+translate polish ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    ""
+
