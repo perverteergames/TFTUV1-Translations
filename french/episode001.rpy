@@ -5173,4 +5173,179 @@ translate french strings:
     new "Garde"
 
     old "Officer"
-    new "Officier"
+    new "Officier"# TODO: Translation updated at 2026-02-03 11:18
+
+# game/episode001.rpy:155
+translate french episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "Après une longue période de deuil, Eva et Lilly ont commencé à combler le grand vide laissé par Aven après son départ soudain."
+
+# game/episode001.rpy:278
+translate french episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "Écoutez tous."
+
+# game/episode001.rpy:405
+translate french ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "Tu as fait ce que tu voulais, comme toujours, et je n'ai aucune envie de te parler."
+
+# game/episode001.rpy:499
+translate french ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "Les attaques ont probablement été causées par une meute de prédateurs venus de la chaîne de montagnes voisine et qui s'attaquaient au bétail."
+
+# game/episode001.rpy:516
+translate french ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "J'ai déjà dit que les expéditions d'entraînement ressemblaient plus à des camps d'été qu'à de véritables missions."
+
+# game/episode001.rpy:518
+translate french ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "À mon avis, cette nuit-là, dans tout Lanan P-10, beaucoup de recrues ont vécu des moments très heureux entre elles."
+
+# game/episode001.rpy:554
+translate french ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "Heureusement pour moi, Thim dormait encore."
+
+# game/episode001.rpy:573
+translate french ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "Après avoir été séparé pendant plus d'un an de mes sœurs, j'ai été frappée par leur beauté lorsqu'elles m'ont enfin rejointe à l'académie."
+
+# game/episode001.rpy:575
+translate french ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "Après avoir été séparée pendant plus d'un an de mes amies, j'ai été frappé par leur beauté lorsqu'elles m'ont finalement rejointe à l'académie."
+
+# game/episode001.rpy:596
+translate french ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "D'après la carte, il ne devrait pas être loin d'ici."
+
+# game/episode001.rpy:646
+translate french ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "C'est à ce moment précis que nous avons été choqués par des bruits de coups de feu provenant des environs de l'endroit où j'ai envoyé Lilly, Eva et Thim."
+
+# game/episode001.rpy:702
+translate french ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "Elle n'est plus là, mec. Tu ne peux rien y faire."
+
+# game/episode001.rpy:711
+translate french ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "Essaie encore la radio Céline, on aura peut-être de la chance et on arrivera à joindre le contrôle de mission."
+
+# game/episode001.rpy:756
+translate french ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "Avant que je puisse m'allonger correctement et rassembler mes pensées, j'ai entendu la porte s'ouvrir."
+
+# game/episode001.rpy:894
+translate french ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "J'ai décidé de me rendre à l'infirmerie pour voir comment allaient Lilly et Kit. La blessure de Kit était très grave, mais si les médecins s'étaient occupés de lui à temps, il aurait pu s'en sortir."
+
+# game/episode001.rpy:913
+translate french ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "Ne prends pas ce ton avec moi, mon garçon, ou je te fais jeter en cellule."
+
+# game/episode001.rpy:982
+translate french ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "Bien sûr, c'est ce que j'avais prévu de faire."
+
+# game/episode001.rpy:1047
+translate french ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "À chaque minute de notre voyage, l'espoir de trouver une trace d'Eva s'amenuisait."
+
+# game/episode001.rpy:1098
+translate french ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "Alors que l'équipage du vaisseau se retire pour la nuit, je me dirige vers le pont du hangar."
+
+# game/episode001.rpy:1199
+translate french ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "Oui je suis partante."
+
+# game/episode001.rpy:1203
+translate french ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "Et toi Lilly ?"
+
+# game/episode001.rpy:1208
+translate french ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "Bien sûr, je me retire et vous devriez tous le faire."
+
+# game/episode001.rpy:1223
+translate french ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "Avant que Thim ne puisse sprinter jusqu'au poste de garde le plus proche, Jade est sur lui et lui assène un coup de clé à molette à l'arrière de la tête."
+
+# game/episode001.rpy:1233
+translate french ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "Grâce à lui, nous devons nous dépêcher."
+
+# game/episode001.rpy:1284
+translate french ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "Dès que nous aurons pris le contrôle du hangar, vous sortirez du vaisseau les mains en l'air et vous vous agenouillerez devant la coque."
+
+# game/episode001.rpy:1306
+translate french ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "Si vous n'obtempérez pas, nous serons obligés de vous abattre."
+
+# game/episode001.rpy:1346
+translate french ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "C'est ce putain de bon à rien de garçon, n'est-ce pas ?"
+
+# game/episode001.rpy:1414
+translate french ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "Nous avons laissé échapper un soupir de soulagement, lorsqu'il nous a tourné le dos."
+
+# game/episode001.rpy:1473
+translate french ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "Ses mains douces ont touché mon pénis alors qu'elle concentrait toute son attention à me faire plaisir."
+

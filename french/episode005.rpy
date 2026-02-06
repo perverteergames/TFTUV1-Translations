@@ -13323,3 +13323,10 @@ translate french ep005_thim_c5f9a2ed:
     # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
     c "Je pensais que tu étais heureux avec ce titre d'officier garanti qui t'attendait après l'obtention de ton diplôme."
 
+# TODO: Translation updated at 2026-02-03 11:18
+
+# game/episode005.rpy:1206
+translate french ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "En nous assurant que la moto était bien attachée, nous l'avons laissée juste devant le casino et nous sommes passés devant les videurs impassibles qui encadraient la porte."

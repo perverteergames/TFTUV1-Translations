@@ -96,3 +96,11 @@ translate french strings:
     old "Test Device"
     new "Test Device"
 
+# TODO: Translation updated at 2026-02-03 11:18
+
+translate french strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Non connecté à un jouet Lovense. Veuillez vérifier votre connexion dans les préférences du jeu."
+

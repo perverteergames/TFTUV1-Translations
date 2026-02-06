@@ -8762,4 +8762,11 @@ translate french strings:
     new "Esclave"
 
     old "Doctor"
-    new "Docteur"
+    new "Docteur"# TODO: Translation updated at 2026-02-03 11:18
+
+# game/episode006.rpy:2377
+translate french ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "La femme a hurlé de douleur lorsque les premiers centimètres ont glissé à l'intérieur d'elle et elle a essayé de parler."
+

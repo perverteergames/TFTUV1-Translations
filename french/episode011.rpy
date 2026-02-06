@@ -6456,3 +6456,11 @@ translate french ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 "C'est un grand garçon, n'est-ce pas ?"
 
+# TODO: Translation updated at 2026-02-03 11:18
+
+# game/episode011.rpy:1740
+translate french ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "À côté de moi, l'une des Acarhyn était en train d'atteindre l'orgasme avec ses doigts."
+
