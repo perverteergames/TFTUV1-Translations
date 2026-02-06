@@ -13336,3 +13336,11 @@ translate spanish ep005_thim_c5f9a2ed:
     # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
     c "Pensaba que estabas contento con ese título de oficial garantizado que te esperaba después de graduarte."
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode005.rpy:1206
+translate spanish ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "Nos aseguramos de que la moto estaba bien sujeta y la dejamos justo delante del casino y pasamos por delante de los impasibles porteros que flanqueaban la puerta."
+

@@ -6476,3 +6476,11 @@ translate spanish ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 "Es un chico grande, ¿verdad?"
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode011.rpy:1740
+translate spanish ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "A mi lado, una de las Acarhyn se estaba llevando al clímax con sus dedos."
+

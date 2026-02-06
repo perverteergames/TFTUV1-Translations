@@ -4,11 +4,11 @@ translate spanish strings:
 
     # game/achievements.rpy:3
     old "Test Achievement"
-    new ""
+    new "Resultados de las pruebas"
 
     # game/achievements.rpy:3
     old "Achievement description"
-    new ""
+    new "Descripción del logro"
 
 # TODO: Translation updated at 2022-04-20 21:55
 

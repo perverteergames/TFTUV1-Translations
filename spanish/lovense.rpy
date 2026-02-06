@@ -70,3 +70,31 @@ translate spanish strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}NOTA:{/b} Si haces una compra haciendo clic en el botón de arriba, puede que gane una pequeña comisión sin coste adicional para ti. Solo recomiendo productos que uso personalmente y en los que confío."
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+translate spanish strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "No conectado a un juguete Lovense. Comprueba tu conexión en las preferencias del juego."
+
+    # game/lovense.rpy:300
+    old "[[b] Close"
+    new "[[b] Cerrar"
+
+    # game/lovense.rpy:304
+    old "[[x] Close"
+    new "[[x] Cerrar"
+
+    # game/lovense.rpy:321
+    old "Use the {i}Lovense Remote{/i} app for Android and iOS to obtain the IP address and port to connect to your toy. Please make sure both the device running {i}Tales From The Unending Void{/i} and {i}Lovense Remote{/i} app are connected to the same network (LAN) and that your toy has been powered on and is connected to the {i}Lovense Remote{/i} app."
+    new "Utiliza la aplicación {i}Lovense Remote{/i} para Android e iOS para obtener la dirección IP y el puerto para conectarte a tu juguete. Asegúrate de que tanto el dispositivo que ejecuta {i}Tales From The Unending Void{/i} como la aplicación {i}Lovense Remote{/i} estén conectados a la misma red (LAN) y de que tu juguete esté encendido y conectado a la aplicación {i}Lovense Remote{/i}."
+
+    # game/lovense.rpy:332
+    old "Edit"
+    new "Editar"
+
+    # game/lovense.rpy:374
+    old "Test Device"
+    new "Dispositivo de prueba"
+

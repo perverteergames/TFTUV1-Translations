@@ -158,3 +158,23 @@ translate spanish strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new "{=location_subheading}UBICACIÓN:{/=location_subheading}\n[location]"
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+translate spanish strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "¡LA HISTORIA CONTINÚA!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "Tras el apasionante final de la primera temporada, la tripulación del Iron Bastard se encuentra conmocionada por las acciones de Agust y el Confesor. Ya no satisfechos con ser las víctimas de la profecía que parece obsesionar a todo el mundo, Camran y sus amigos deciden tomar cartas en el asunto y vencer a Agust y sus secuaces en su propio terreno."
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "Por el camino, Camran puede encontrar el amor y el placer entre las mujeres de la tripulación. ¿Te enamorarás de Eva y Lilly, dejarás que Jade y Vess te sirvan en todo lo que necesites o crearás un harén con todas las chicas con las que te involucres? La elección es tuya y podrás descubrirlo en la penúltima temporada de Tales From The Unending Void."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Disponible exclusivamente en GOG.com o como parte de una suscripción a Patreon/SubscribeStar."
+
