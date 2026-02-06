@@ -6462,3 +6462,11 @@ translate italian ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 "È un ragazzone, vero?"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode011.rpy:1740
+translate italian ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "Accanto a me, una delle Acarhyn stava raggiungendo l'orgasmo con le dita."
+

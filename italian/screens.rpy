@@ -724,3 +724,19 @@ translate italian strings:
     old "Polski (częściowo)"
     new "Polski (częściowo)"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+translate italian strings:
+
+    # game/screens.rpy:1288
+    old "SEASON 2"
+    new "STAGIONE 2"
+
+    # game/screens.rpy:1290
+    old "SEASON 3"
+    new "STAGIONE 3"
+
+    # game/screens.rpy:1527
+    old "Deutsch"
+    new "Deutsch"
+

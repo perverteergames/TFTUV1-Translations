@@ -166,3 +166,23 @@ translate italian strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
     new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+translate italian strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "LA STORIA CONTINUA!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "Dopo l'avvincente finale della prima stagione, l'equipaggio dell'Iron Bastard si ritrova sconvolto dalle azioni di Agust e del Confessore. Non più soddisfatti di essere le vittime della Profezia a cui tutti sembrano essere così attaccati, Camran e i suoi amici decidono di prendere in mano la situazione e battere Agust e i suoi lacchè al loro stesso gioco."
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "Lungo il percorso, Camran potrebbe trovare amore e piacere tra le donne dell'equipaggio. Avrai una storia d'amore con Eva e Lilly, lascerai che Jade e Vess ti servano in ogni modo possibile o creerai un harem con tutte le ragazze con cui hai una relazione? La scelta è tua e potrai scoprirlo nella penultima stagione di Tales From The Unending Void."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Disponibile esclusivamente su GOG.com o come parte di un abbonamento Patreon/SubscribeStar."
+

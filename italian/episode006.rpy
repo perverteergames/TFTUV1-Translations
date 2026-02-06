@@ -8768,3 +8768,11 @@ translate italian strings:
     old "Vaginal"
     new "Vaginale"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode006.rpy:2377
+translate italian ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "La donna urlò di dolore quando i primi centimetri scivolarono dentro di lei e cercò di parlare."
+
