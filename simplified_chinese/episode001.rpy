@@ -5135,3 +5135,179 @@ translate simplified_chinese strings:
     # game/episode001.rpy:1438
     old "Creampie"
     new "内射"
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode001.rpy:155
+translate simplified_chinese episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "在一段漫长的悲伤时期后，伊娃和莉莉开始填补艾文突然离开后留下的巨大空缺。"
+
+# game/episode001.rpy:278
+translate simplified_chinese episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "所有人听着。"
+
+# game/episode001.rpy:405
+translate simplified_chinese ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "如你所愿，我丝毫不想跟你说话。"
+
+# game/episode001.rpy:499
+translate simplified_chinese ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "攻击可能是由一群来自附近山脉的动物掠食者捕食牲畜引起的。"
+
+# game/episode001.rpy:516
+translate simplified_chinese ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "我已经说过，训练远征更像是夏令营，而不是真实的沉重任务。"
+
+# game/episode001.rpy:518
+translate simplified_chinese ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "我猜那天晚上，在拉南P-10星到处，很多新兵经历了相互之间的非常快乐时刻。"
+
+# game/episode001.rpy:554
+translate simplified_chinese ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "幸运的是蒂姆还在睡。"
+
+# game/episode001.rpy:573
+translate simplified_chinese ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "与妹妹们分离一年多，当她们终于来到学院时，我被她们的美震撼了。"
+
+# game/episode001.rpy:575
+translate simplified_chinese ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "与老友们分离一年多，当她们终于来到学院时，我被她们的美震撼了。"
+
+# game/episode001.rpy:596
+translate simplified_chinese ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "按地图看离这儿应该不远。"
+
+# game/episode001.rpy:646
+translate simplified_chinese ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "就在那一刻，我们被来自我派莉莉、伊娃和蒂姆去的那附近的枪声震惊了。"
+
+# game/episode001.rpy:702
+translate simplified_chinese ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "她不见了，伙计。你什么也做不了。"
+
+# game/episode001.rpy:711
+translate simplified_chinese ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "瑟琳，再试试无线电，说不定我们运气好能联通任务控制中心。"
+
+# game/episode001.rpy:756
+translate simplified_chinese ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "没等我躺好整理思绪，我就听到门滑开了。"
+
+# game/episode001.rpy:894
+translate simplified_chinese ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "我决定去医务室看看莉莉和基特怎么样了。基特的伤很重，但要是医护人员及时赶到，他可能还有救。"
+
+# game/episode001.rpy:913
+translate simplified_chinese ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "别用那种语气跟我说话，小子，不然我让你被关进禁闭室。"
+
+# game/episode001.rpy:982
+translate simplified_chinese ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "当然我正打算这么干。"
+
+# game/episode001.rpy:1047
+translate simplified_chinese ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "每过一分钟，找到伊娃线索的希望就更加渺茫。"
+
+# game/episode001.rpy:1098
+translate simplified_chinese ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "当船的机组成员去休息过夜时，我出发去了机库甲板。"
+
+# game/episode001.rpy:1199
+translate simplified_chinese ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "是的，算我一个。"
+
+# game/episode001.rpy:1203
+translate simplified_chinese ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "莉莉，那你呢？"
+
+# game/episode001.rpy:1208
+translate simplified_chinese ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "我当然退出，你们也都该退出。"
+
+# game/episode001.rpy:1223
+translate simplified_chinese ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "蒂姆还没冲到警卫站，杰德就扑到他身后用扳手猛击后脑。"
+
+# game/episode001.rpy:1233
+translate simplified_chinese ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "托他的福，我们得抓紧了。"
+
+# game/episode001.rpy:1284
+translate simplified_chinese ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "一旦我们控制了机库，你就要从飞船里出来，双手举在空中，跪在船体前。"
+
+# game/episode001.rpy:1306
+translate simplified_chinese ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "如果你们不服从，我们只能把你们击落了。"
+
+# game/episode001.rpy:1346
+translate simplified_chinese ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "准是那个该死的废物小子，是吧。"
+
+# game/episode001.rpy:1414
+translate simplified_chinese ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "见他转身背对我们，我俩才如释重负地喘了口气。"
+
+# game/episode001.rpy:1473
+translate simplified_chinese ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "她柔若无骨的手抚弄着我的阴茎，全神贯注地取悦着我。"
+

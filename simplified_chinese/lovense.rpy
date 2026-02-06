@@ -85,3 +85,11 @@ translate simplified_chinese strings:
     # game/lovense.rpy:447
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}注：{/b} 若您通过上方按钮购买，我可能会获得少量佣金且您无需额外付费。我仅推荐我个人使用且信赖的产品。"
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate simplified_chinese strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "未连接到Lovense玩具。请在游戏设置中检查连接状态。"
+

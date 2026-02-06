@@ -549,3 +549,19 @@ translate simplified_chinese strings:
     old "繁体中文"
     new "繁体中文"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate simplified_chinese strings:
+
+    # game/screens.rpy:1288
+    old "SEASON 2"
+    new "第二季"
+
+    # game/screens.rpy:1290
+    old "SEASON 3"
+    new "第三季"
+
+    # game/screens.rpy:1527
+    old "Deutsch"
+    new "Deutsch"
+

@@ -6435,3 +6435,11 @@ translate simplified_chinese strings:
     # game/episode011.rpy:1946
     old "Fuck another girl"
     new "操另一个姑娘"
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode011.rpy:1740
+translate simplified_chinese ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "在我身旁，有个阿卡海茵人正用手指让自己攀上高潮。"
+

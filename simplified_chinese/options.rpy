@@ -21,3 +21,11 @@ translate simplified_chinese strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
     new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate simplified_chinese strings:
+
+    # game/options.rpy:46
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
+    new "Grubb {i}(葡萄牙语){/i}, MyPrettyWolfy {i}(俄语){/i}, Rory Mercury91 (法语), Frank Rosario {i}(意大利语){/i}, Freeman {i}(波兰语, 部分){/i}, Juan Manuel 和 Kabezon {i}(西班牙语, 部分){/i}, Donk. {i}(土耳其语, darkeros.org){/i}, Bomber86 (德语)"
+

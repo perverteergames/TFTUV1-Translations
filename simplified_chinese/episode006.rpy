@@ -8755,3 +8755,11 @@ translate simplified_chinese strings:
     # game/episode006.rpy:2364
     old "Vaginal"
     new "阴道交"
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode006.rpy:2377
+translate simplified_chinese ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "当最初的几英寸滑入她体内时，那个女人痛得叫了起来，她试图说话。"
+

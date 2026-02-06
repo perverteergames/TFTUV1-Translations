@@ -13307,3 +13307,11 @@ translate simplified_chinese strings:
     # game/episode005.rpy:3612
     old "Creampie Lyna"
     new "内射琳娜"
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode005.rpy:1206
+translate simplified_chinese ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "确保飞车停稳后，我们把它扔在赌场门前，走过守在门边面无表情的保镖。"
+
