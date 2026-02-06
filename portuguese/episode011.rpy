@@ -6492,3 +6492,11 @@ translate portuguese ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 "Ele é um menino grande, não é?"
 
+# TODO: Translation updated at 2026-02-03 11:12
+
+# game/episode011.rpy:1740
+translate portuguese ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "Ao meu lado, uma das Acarhyn estava chegando ao clímax com seus dedos."
+

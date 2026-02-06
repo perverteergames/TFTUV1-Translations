@@ -94,3 +94,11 @@ translate portuguese strings:
     old "Enjoy TFTUV with Lovense!"
     new "Aproveite o TFTUV com a Lovense!"
 
+# TODO: Translation updated at 2026-02-03 11:12
+
+translate portuguese strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Não está conectado a um brinquedo Lovense. Verifique sua conexão nas preferências do jogo."
+

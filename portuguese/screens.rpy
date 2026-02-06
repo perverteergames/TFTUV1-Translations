@@ -638,3 +638,19 @@ translate portuguese strings:
     old "Polski (częściowo)"
     new "Polski (częściowo)"
 
+# TODO: Translation updated at 2026-02-03 11:12
+
+translate portuguese strings:
+
+    # game/screens.rpy:1288
+    old "SEASON 2"
+    new "TEMPORADA 2"
+
+    # game/screens.rpy:1290
+    old "SEASON 3"
+    new "TEMPORADA 3"
+
+    # game/screens.rpy:1527
+    old "Deutsch"
+    new "Deutsch"
+

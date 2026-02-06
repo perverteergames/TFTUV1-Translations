@@ -8868,3 +8868,11 @@ translate portuguese episode006_a3e40928:
     # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
     co "Infelizmente, Hreir não foi muito aberto na sua confissão final, mas talvez seus registros vão nos mostrar onde aquelas mulheres guerreiras levaram a amiga do garoto."
 
+# TODO: Translation updated at 2026-02-03 11:12
+
+# game/episode006.rpy:2377
+translate portuguese ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "A mulher gritou de dor quando as primeiras polegadas entraram e ela tentou falar."
+

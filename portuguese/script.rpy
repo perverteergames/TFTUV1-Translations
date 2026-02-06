@@ -174,3 +174,23 @@ translate portuguese strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new "{=location_subheading}LOCALIZAÇÃO:{/=location_subheading}\n[location]"
 
+# TODO: Translation updated at 2026-02-03 11:12
+
+translate portuguese strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "A HISTÓRIA CONTINUA!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "Após o emocionante final da primeira temporada, a tripulação do Iron Bastard se vê abalada pelas ações de Agust e do Confessor. Não mais satisfeitos em ser vítimas da profecia que parece preocupar tanto a todos, Camran e seus amigos decidem tomar o assunto em suas próprias mãos e derrotar Agust e seus lacaios em seu próprio jogo."
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "Ao longo do caminho, Camran pode encontrar amor e prazer entre as mulheres da tripulação. Você vai namorar Eva e Lilly, deixar Jade e Vess te servirem em tudo ou começar um harém com todas as garotas com quem você se envolver? A escolha é sua e você pode descobrir na penúltima temporada de Tales From The Unending Void."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Disponível exclusivamente no GOG.com ou como parte de uma assinatura Patreon/SubscribeStar."
+
