@@ -158,3 +158,23 @@ translate traditional_chinese strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
     new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate traditional_chinese strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "故事繼續！"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "在扣人心弦的第一季終集過後，鐵暴君號的船員們因阿古斯特與告解者的行徑而心神不寧。卡姆蘭與夥伴們不再甘於成為眾人執念的預言受害者，決定親自動手，以牙還牙地擊敗阿古斯特及其爪牙。"
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "旅途中，卡姆蘭或許能在船員中的女性身上尋得愛戀與歡愉。你將與伊娃和莉莉展開戀情？讓潔德與薇絲事事伺候？抑或與所有相遇的女孩建立後宮？抉擇權在你手中，答案盡在《無盡虛空傳奇》第二季倒數第二章揭曉。"
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "僅限於 GOG.com 平台提供，或作為 Patreon/SubscribeStar 訂閱服務的一部分。"
+

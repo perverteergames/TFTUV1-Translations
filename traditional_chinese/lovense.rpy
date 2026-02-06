@@ -86,3 +86,11 @@ translate traditional_chinese strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}註：{/b} 若您通過上方按鈕購買，我可能會獲得少量佣金且您無需額外付費。我僅推薦我個人使用且信賴的產品。"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate traditional_chinese strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "未連接至 Lovense 玩具。請於遊戲設定中檢查您的連線狀態。"
+

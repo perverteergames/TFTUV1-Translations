@@ -13308,3 +13308,11 @@ translate traditional_chinese strings:
     old "Creampie Lyna"
     new "內射琳娜"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode005.rpy:1206
+translate traditional_chinese ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "確認自行車已妥善鎖好後，我們將它停放在賭場正門前，從兩側守衛著大門的冷面保鑣身旁走過。"
+

@@ -6436,3 +6436,11 @@ translate traditional_chinese strings:
     old "Fuck another girl"
     new "操另一個姑娘"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode011.rpy:1740
+translate traditional_chinese ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "在我身旁，一名阿卡欣正用手指將自己帶向高潮。"
+

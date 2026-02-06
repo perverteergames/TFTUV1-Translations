@@ -21,3 +21,11 @@ translate traditional_chinese strings:
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
     new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate traditional_chinese strings:
+
+    # game/options.rpy:46
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
+    new "Grubb {i}(葡萄牙語){/i}, MyPrettyWolfy {i}(俄語){/i}, Rory Mercury91 (法語), Frank Rosario {i}(義大利語){/i}, Freeman {i}(波蘭語, 部分){/i}, Juan Manuel 和 Kabezon {i}(西班牙語, 部分){/i}, Donk. {i}(土耳其語, darkeros.org){/i}, Bomber86 (德語)"
+

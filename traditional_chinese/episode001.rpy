@@ -5144,3 +5144,179 @@ translate traditional_chinese strings:
     old "Tw’ill were the first alien species the human race encountered on their initial explorations outside the known galaxy. The intelligent, benign race of humanoids were promptly enslaved by the Terran invaders and their homeworld Luclite orbiting Xut Thanaili was destroyed. 80% of the populace were wiped out and the rest of them (male and female) are commonly held as sex slaves by wealthy Terran individuals."
     new "特維爾人是人類首次在已知星系外探險時遇到的外星種族。這個智能、溫和的人形種族很快被人族入侵者奴役，他們圍繞許特塔納利旋轉的星球的故鄉盧克利特被摧毀。80%的人口被消滅，其餘的人(包括男性和女性)通常被人族的富人們當作性奴。"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode001.rpy:155
+translate traditional_chinese episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "經歷漫長的哀傷期後，伊娃和莉莉開始填補艾文驟然離去後留下的巨大空缺。"
+
+# game/episode001.rpy:278
+translate traditional_chinese episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "各位聽好了。"
+
+# game/episode001.rpy:405
+translate traditional_chinese ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "你總是如願以償，而我對你毫無交談的意願。"
+
+# game/episode001.rpy:499
+translate traditional_chinese ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "這些攻擊很可能是源自附近山脈的一群掠食性動物所為，牠們正獵捕著牲畜。"
+
+# game/episode001.rpy:516
+translate traditional_chinese ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "我已經提過，那些訓練遠征更像是夏令營，而非真正的重型任務。"
+
+# game/episode001.rpy:518
+translate traditional_chinese ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "我猜想，那晚在蘭南P-10基地的每個角落，許多新兵都與同伴共度了無數歡欣時刻。"
+
+# game/episode001.rpy:554
+translate traditional_chinese ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "幸運的是，提姆還在睡覺。"
+
+# game/episode001.rpy:573
+translate traditional_chinese ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "與姐妹們分離逾年之後，當她們終於來到學院與我團聚時，她們的美貌令我驚豔不已。"
+
+# game/episode001.rpy:575
+translate traditional_chinese ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "與朋友們分離逾年之後，當他們終於來到學院與我重逢時，我被他們的美麗深深震撼。"
+
+# game/episode001.rpy:596
+translate traditional_chinese ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "根據地圖顯示，這裡應該離目的地不遠。"
+
+# game/episode001.rpy:646
+translate traditional_chinese ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "就在那一刻，我們被槍聲震懾了——那些槍聲正來自我派莉莉、伊娃和蒂姆前往的區域。"
+
+# game/episode001.rpy:702
+translate traditional_chinese ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "她走了，兄弟。你無能為力。"
+
+# game/episode001.rpy:711
+translate traditional_chinese ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "再試試無線電吧，席琳，說不定我們會走運，能聯繫上任務控制中心。"
+
+# game/episode001.rpy:756
+translate traditional_chinese ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "在我還來不及好好躺下整理思緒時，便聽見門滑開的聲響。"
+
+# game/episode001.rpy:894
+translate traditional_chinese ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "我決定前往醫務室看看莉莉和基特的狀況。基特的傷勢相當嚴重，但若醫護人員及時救治，他或許還能撐過來。"
+
+# game/episode001.rpy:913
+translate traditional_chinese ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "別用那種口氣跟我說話，小子，否則我就把你扔進禁閉室。"
+
+# game/episode001.rpy:982
+translate traditional_chinese ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "當然，我原本就打算這麼做。"
+
+# game/episode001.rpy:1047
+translate traditional_chinese ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "每當我們前行一分鐘，找到伊娃蹤跡的希望便隨之消逝一分。"
+
+# game/episode001.rpy:1098
+translate traditional_chinese ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "當船員們就寢時，我走向機庫甲板。"
+
+# game/episode001.rpy:1199
+translate traditional_chinese ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "好的，我參加。"
+
+# game/episode001.rpy:1203
+translate traditional_chinese ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "莉莉，你呢？"
+
+# game/episode001.rpy:1208
+translate traditional_chinese ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "當然我已經退出，你們也該全數退出。"
+
+# game/episode001.rpy:1223
+translate traditional_chinese ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "在提姆來得及衝向最近的警衛站之前，潔德已撲上身來，用扳手猛擊他的後腦勺。"
+
+# game/episode001.rpy:1233
+translate traditional_chinese ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "多虧了他，我們得趕快行動。"
+
+# game/episode001.rpy:1284
+translate traditional_chinese ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "一旦我們控制住機庫艙，你必須舉起雙手走出飛船，並在船體前方跪下。"
+
+# game/episode001.rpy:1306
+translate traditional_chinese ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "若您不遵從，我們將被迫將您擊落。"
+
+# game/episode001.rpy:1346
+translate traditional_chinese ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "就是那個該死的廢物小子，對吧？"
+
+# game/episode001.rpy:1414
+translate traditional_chinese ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "當他轉身背對我們時，我們才鬆了口氣。"
+
+# game/episode001.rpy:1473
+translate traditional_chinese ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "她柔軟的手撫摸著我的陰莖，全神貫注地專注於帶給我愉悅。"
+

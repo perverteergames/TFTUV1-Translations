@@ -8756,3 +8756,11 @@ translate traditional_chinese strings:
     old "Vaginal"
     new "陰道交"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode006.rpy:2377
+translate traditional_chinese ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "當最初的幾英寸滑入她體內時，女人痛得尖叫起來，她試圖開口說話。"
+
