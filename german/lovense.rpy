@@ -84,9 +84,17 @@ translate german strings:
 
     # game/lovense.rpy:304
     old "[[x] Close"
-    new ""
+    new "[[x] Schließen"
 
     # game/lovense.rpy:374
     old "Test Device"
-    new ""
+    new "Testgerät"
+
+# TODO: Translation updated at 2026-02-03 11:19
+
+translate german strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Nicht mit einem Lovense-Spielzeug verbunden. Bitte überprüfen Sie Ihre Verbindung in den Einstellungen des Spiels."
 

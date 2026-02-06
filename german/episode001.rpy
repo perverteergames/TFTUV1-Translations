@@ -5345,3 +5345,179 @@ translate german strings:
     old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."
     new "Ein leichter Jäger, der von [p_name] und seiner Crew während ihrer Desertion gekapert wurde."
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode001.rpy:155
+translate german episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "Nach einer langen Trauerphase begannen Eva und Lilly, die Lücke zu füllen, die der plötzliche Weggang von Aven hinterlassen hatte."
+
+# game/episode001.rpy:278
+translate german episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "Alle herhören."
+
+# game/episode001.rpy:405
+translate german ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "Du hast wie immer deinen Kopf durchgesetzt. Und ich habe wirklich keine Lust mit dir zu reden."
+
+# game/episode001.rpy:499
+translate german ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "Die Angriffe sind wahrscheinlich auf ein Rudel von Raubtieren zurückzuführen, die aus dem nahe gelegenen Gebirge kommen und das Vieh jagen."
+
+# game/episode001.rpy:516
+translate german ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "Ich erwähnte bereits, dass die Trainingsmissionen eher an ein Ferienlager erinnerten als an einen echten Einsatz."
+
+# game/episode001.rpy:518
+translate german ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "Ich vermute, dass in dieser Nacht auf ganz Lanan P-10 viele Rekruten einige sehr glückliche Momente miteinander erlebt haben."
+
+# game/episode001.rpy:554
+translate german ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "Zum Glück schlief Thim noch."
+
+# game/episode001.rpy:573
+translate german ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "Nachdem ich meine Schwestern über ein Jahr nicht gesehen hatten, war ich von ihrer Schönheit überweältigt, als ich sie an Akademie endlich wiedersah."
+
+# game/episode001.rpy:575
+translate german ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "Nachdem ich meine Freundinnen über ein Jahr nicht gesehen hatten, war ich von ihrer Schönheit überweältigt, als ich sie an Akademie endlich wiedersah."
+
+# game/episode001.rpy:596
+translate german ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "Der Karte zufolge sollte es nicht mehr weit sein."
+
+# game/episode001.rpy:646
+translate german ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "In diesem Moment hörten wir Schüsse aus der Richtung, in die ich Lilly, Eva und Thim geschickt hatte."
+
+# game/episode001.rpy:702
+translate german ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "Sie ist fort und es gibt nichts, was du tun kannst."
+
+# game/episode001.rpy:711
+translate german ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "Versuch es nochmal über Funk, Céline, vielleicht haben wir Glück und kommen zur Einsatzleitung durch."
+
+# game/episode001.rpy:756
+translate german ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "Bevor ich mich hinlegen und meine Gedanken sortieren konnte, hörte ich, wie sich die Tür öffnete."
+
+# game/episode001.rpy:894
+translate german ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "Ich beschloss, zur Krankenstation zu gehen und nach Lilly und Kit zu sehen. Kits Wunde war übel, aber falls er rechtzeitig versorgt wurde, hat er es bestimmt überlebt."
+
+# game/episode001.rpy:913
+translate german ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "Nicht in diesem Ton, Rekrut. Oder ich lasse dich in den Bau stecken."
+
+# game/episode001.rpy:982
+translate german ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "Genau das hatte ich vor."
+
+# game/episode001.rpy:1047
+translate german ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "Jede Minute, die wir weiterflogen, schwand die Hoffnung, noch eine Spur von Eva zu finden."
+
+# game/episode001.rpy:1098
+translate german ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "Als sich die Besatzung für die Nacht zurückzog, machte ich mich auf den Weg zum Hangardeck."
+
+# game/episode001.rpy:1199
+translate german ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "Ja, ich bin dabei."
+
+# game/episode001.rpy:1203
+translate german ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "Was ist mit dir, Lilly?"
+
+# game/episode001.rpy:1208
+translate german ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "Natürlich bin ich nicht dabei und das solltet ihr alle auch tun."
+
+# game/episode001.rpy:1223
+translate german ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "Bevor er zur nächsten Wache sprinten konnte, war Jade schon bei ihm und schlug ihm mit einem Schraubenschlüssel auf den Hinterkopf."
+
+# game/episode001.rpy:1233
+translate german ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "Dank ihm müssen wir nun schnell handeln."
+
+# game/episode001.rpy:1284
+translate german ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "Sobald wir die Hangarbucht unter Kontrolle haben, kommen sie mit erhobenen Händen aus dem Schiff und knien nieder."
+
+# game/episode001.rpy:1306
+translate german ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "Wenn sie nicht kooperieren, sind wir gezwungen, das Feuer zu eröffnen."
+
+# game/episode001.rpy:1346
+translate german ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "Es ist dieser verdammte Nichtsnutz, stimmt's?"
+
+# game/episode001.rpy:1414
+translate german ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "Wir seufzten leise vor Erleichterung, als er sich von uns abwandte."
+
+# game/episode001.rpy:1473
+translate german ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "Ihre sanften Hände berührten meinen Schwanz, während sie ihre ganze Aufmerksamkeit darauf richtete, mir Freude zu bereiten."
+

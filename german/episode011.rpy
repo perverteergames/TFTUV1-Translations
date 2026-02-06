@@ -6436,3 +6436,11 @@ translate german strings:
     old "Fuck another girl"
     new "Fick ein anderes Mädchen"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode011.rpy:1740
+translate german ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "Neben mir brachte sich eine der Acarhyn mit ihren Fingern zum Höhepunkt."
+

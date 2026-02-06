@@ -138,3 +138,23 @@ translate german strings:
     old "What is your nickname?"
     new "Wie lautet dein Spitzname?"
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+translate german strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "DIE GESCHICHTE GEHT WEITER!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "Nach dem spannenden Finale der ersten Staffel sind die Mitglieder der Crew „Iron Bastard“ durch die Handlungen von Agust und dem Beichtvater verunsichert. Camran und seine Freunde wollen nicht länger Opfer der Prophezeiung sein, von der alle so besessen sind, und beschließen, die Dinge selbst in die Hand zu nehmen und Agust und seine Handlanger mit ihren eigenen Waffen zu schlagen.
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "Auf seinem Weg könnte Camran unter den Frauen der Crew Liebe und Vergnügen finden. Wirst du Eva und Lilly umwerben, Jade und Vess dir in jeder Hinsicht zu Diensten sein lassen oder mit allen Mädchen, mit denen du zu tun hast, einen Harem gründen? Die Wahl liegt bei dir, und du kannst es in der vorletzten Staffel von Tales From The Unending Void herausfinden."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Exklusiv erhältlich auf GOG.com oder als Teil eines Patreon/SubscribeStar-Abonnements."
+

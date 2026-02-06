@@ -14204,3 +14204,11 @@ translate german ep005_thim_c5f9a2ed:
     # c "I just thought you were happy with that guaranteed officer title waiting on you after graduation."
     c "Ich dachte nur, dass du mit dem garantierten Offizierstitel, der nach deinem Abschluss auf dich wartet, zufrieden bist."
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode005.rpy:1206
+translate german ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "Wir sicherten den Speeder und gingen an den teilnahmslosen Türstehern am Eingang des Casinos vorbei."
+

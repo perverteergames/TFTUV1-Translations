@@ -8852,3 +8852,11 @@ translate german episode006_6700ecb2:
     # "A small window allowed me to view the area just beyond, a corridor, just as unremarkable as my cell."
     "Durch ein kleines Fenster konnte ich den Bereich direkt dahinter überblicken, einen Korridor, der genauso unauffällig war wie meine Zelle." 
 
+# TODO: Translation updated at 2026-02-03 11:19
+
+# game/episode006.rpy:2377
+translate german ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "Die Frau schrie vor Schmerz auf, als die ersten Zentimeter in sie hineinglitten und sie versuchte zu sprechen."
+
