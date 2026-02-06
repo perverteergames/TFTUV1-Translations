@@ -5136,3 +5136,179 @@ translate turkish strings:
     old "Creampie"
     new "İçine boşal"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode001.rpy:155
+translate turkish episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "Uzun bir yas döneminden sonra, Eva ve Lilly, Aven'in ani ayrılışının ardından bıraktığı büyük boşluğu doldurmaya başladılar."
+
+# game/episode001.rpy:278
+translate turkish episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "Herkes dinlesin."
+
+# game/episode001.rpy:405
+translate turkish ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "Her zamanki gibi istediğini elde ettin ve ben seninle konuşmak istemiyorum."
+
+# game/episode001.rpy:499
+translate turkish ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "Saldırılar muhtemelen yakındaki dağlık bölgeden gelen ve çiftlik hayvanlarını avlayan bir grup yırtıcı hayvan tarafından gerçekleştirilmiştir."
+
+# game/episode001.rpy:516
+translate turkish ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "Eğitim seferlerinin gerçek ağır görevlerden çok yaz kampına benzediğini daha önce de belirtmiştim."
+
+# game/episode001.rpy:518
+translate turkish ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "Tahminimce o gece, Lanan P-10'un her yerinde birçok acemi asker birbirleriyle çok mutlu anlar yaşamışlardır."
+
+# game/episode001.rpy:554
+translate turkish ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "Şanslıyım ki, Thim hala uyuyordu."
+
+# game/episode001.rpy:573
+translate turkish ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "Kız kardeşlerimden bir yıldan fazla bir süre ayrı kaldıktan sonra, sonunda akademide bana katıldıklarında onların güzelliği beni çok etkiledi."
+
+# game/episode001.rpy:575
+translate turkish ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "Arkadaşlarımdan bir yıldan fazla bir süre ayrı kaldıktan sonra, sonunda akademide bana katıldıklarında onların güzelliği beni çok etkiledi."
+
+# game/episode001.rpy:596
+translate turkish ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "Haritaya göre, buradan çok uzak olmamalı."
+
+# game/episode001.rpy:646
+translate turkish ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "Tam o anda, Lilly, Eva ve Thim'i gönderdiğim bölgeden gelen silah sesleri bizi şok etti."
+
+# game/episode001.rpy:702
+translate turkish ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "O gitti dostum. Yapabileceğin hiçbir şey yok."
+
+# game/episode001.rpy:711
+translate turkish ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "Radyoyu tekrar dene, Céline, şansımız yaver giderse görev kontrol merkezine ulaşabiliriz."
+
+# game/episode001.rpy:756
+translate turkish ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "Düzgün bir şekilde uzanıp düşüncelerimi toparlayamadan, kapının açıldığını duydum."
+
+# game/episode001.rpy:894
+translate turkish ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "Revire gidip Lilly ve Kit'in durumuna bakmaya karar verdim. Kit'in yarası çok kötüydü, ama sağlık görevlileri zamanında müdahale etselerdi, hayatta kalabilirdi."
+
+# game/episode001.rpy:913
+translate turkish ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "Bana bu şekilde konuşma evlat, yoksa seni hücreye attırırım."
+
+# game/episode001.rpy:982
+translate turkish ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "Tabii ki, ben de tam olarak bunu yapmayı planlıyordum."
+
+# game/episode001.rpy:1047
+translate turkish ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "Yolculuğumuzun her dakikasında, Eva'nın izini bulma umudumuz azalıyordu."
+
+# game/episode001.rpy:1098
+translate turkish ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "Geminin mürettebatı gece için dinlenmeye çekilirken, ben hangar güvertesine doğru yola çıktım."
+
+# game/episode001.rpy:1199
+translate turkish ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "Evet, ben de varım."
+
+# game/episode001.rpy:1203
+translate turkish ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "Peki ya sen, Lilly?"
+
+# game/episode001.rpy:1208
+translate turkish ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "Tabii ki ben dışarıdayım, hepiniz de öyle olmalısınız."
+
+# game/episode001.rpy:1223
+translate turkish ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "Thim en yakın güvenlik görevlisi kulübesine koşamadan Jade üzerine atladı ve bir İngiliz anahtarıyla kafasının arkasına vurdu."
+
+# game/episode001.rpy:1233
+translate turkish ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "Onun sayesinde acele etmemiz gerekiyor."
+
+# game/episode001.rpy:1284
+translate turkish ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "Hangar bölmesini kontrol altına aldığımızda, ellerini havaya kaldırarak gemiden çıkıp gövdenin önüne diz çökmelisin."
+
+# game/episode001.rpy:1306
+translate turkish ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "Eğer uymazsanız, sizi vurmak zorunda kalacağız."
+
+# game/episode001.rpy:1346
+translate turkish ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "O lanet olası işe yaramaz çocuk, değil mi?"
+
+# game/episode001.rpy:1414
+translate turkish ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "O bize sırtını döndüğünde rahat bir nefes aldık."
+
+# game/episode001.rpy:1473
+translate turkish ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "Yumuşak elleri penisime dokundu, tüm dikkatini bana zevk vermek için verdi."
+

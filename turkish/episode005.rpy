@@ -13316,3 +13316,11 @@ translate turkish strings:
     old "Don’t mention the pregnant girl"
     new "Hamile kızdan bahsetmeyin."
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode005.rpy:1206
+translate turkish ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "Bisikletin güvenli olduğundan emin olduktan sonra onu kumarhanenin hemen önüne bıraktık ve kapının iki yanında duran ifadesiz güvenlik görevlilerinin yanından geçtik."
+

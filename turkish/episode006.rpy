@@ -8539,3 +8539,11 @@ translate turkish strings:
     old "Don’t talk about it"
     new "Bundan bahsetme."
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode006.rpy:2377
+translate turkish ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "Kadın, ilk birkaç santim içinden kayarken acı içinde çığlık attı ve konuşmaya çalıştı."
+

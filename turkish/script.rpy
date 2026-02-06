@@ -146,3 +146,23 @@ translate turkish strings:
     old "{=location_subheading}LOCATION:{/=location_subheading}\n[location]"
     new "{=location_subheading}KONUM:{/=location_subheading}\n[location]"
 
+# TODO: Translation updated at 2026-02-03 11:24
+
+translate turkish strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "HİKAYE DEVAM EDİYOR!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "Heyecan verici birinci sezon finalinin ardından, Iron Bastard ekibi Agust ve Confessor'un eylemlerinden dolayı sarsılır. Artık herkesin takıntılı olduğu Kehanet'in kurbanları olmaktan bıkmış olan Camran ve arkadaşları, işleri kendi ellerine almaya karar verir ve Agust ile uşaklarını kendi oyunlarında yenmeye karar verir."
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "Yol boyunca Camran, mürettebatın kadınları arasında aşk ve zevk bulabilir. Eva ve Lilly ile romantik bir ilişki yaşayacak mısın, Jade ve Vess'in sana her konuda hizmet etmesine izin verecek misin, yoksa ilişkide olduğun her kızla bir harem kuracak mısın? Seçim senin ve bunu Tales From The Unending Void'un ikinci sezonunun son bölümünde öğrenebilirsin."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Yalnızca GOG.com'da veya Patreon/SubscribeStar aboneliğinin bir parçası olarak mevcuttur."
+

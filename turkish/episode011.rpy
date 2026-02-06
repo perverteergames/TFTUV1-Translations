@@ -6436,3 +6436,11 @@ translate turkish strings:
     old "Fuck another girl"
     new "Başka bir kızı sik"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-02-03 11:24
+
+# game/episode011.rpy:1740
+translate turkish ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "Yanımda, Acarhyn'lerden biri parmaklarıyla kendini orgazma ulaştırıyordu."
+
