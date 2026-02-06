@@ -14464,3 +14464,11 @@ translate russian ep005_jade_factory_talk_42d9e489:
     # c "Giving him just one bullet was more than a kindness."
     c "Дать ему всего одну пулю было более чем милосердием."
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode005.rpy:1206
+translate russian ep005_workshop_visit_dbd5ffee:
+
+    # "Making sure the bike was secured we left it right in front of the casino and walked past the impassive bouncers flanking the door."
+    "Убедившись, что велосипед надежно закреплен, мы оставили его прямо перед казино и прошли мимо бесстрастных вышибал, стоящих по обе стороны от двери."
+

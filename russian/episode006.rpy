@@ -8902,3 +8902,11 @@ translate russian episode006_a3e40928:
     # co "Sadly, Hreir wasn't very forthcoming during his final confession, but maybe his records will show us where those warrior women took the boy's friend."
     co "К сожалению, Хрейр был не очень откровенен во время своей последней исповеди, но, возможно, его записи поведают нам, куда эти женщины-воины забрали подругу мальчика."
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode006.rpy:2377
+translate russian ep006_doctor_sex_20361538:
+
+    # "The woman yelped in pain as the first inches slid inside her and she tried to speak."
+    "Женщина вскрикнула от боли, когда первые сантиметры вошли в нее, и попыталась что-то сказать."
+

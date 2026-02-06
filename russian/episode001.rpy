@@ -5643,3 +5643,179 @@ translate russian strings:
     old "A TGN light fighter commandeered by [p_name] and crew during their desertion from the navy."
     new "Лёгкий истребитель ЗГФ, захваченный [p_name] и экипажем во время дезертирства из флота."
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode001.rpy:155
+translate russian episode001_feb27594:
+
+    # "After a long period of grieving, Eva and Lilly started to fill that large gap Aven left after her sudden departure."
+    "После долгого периода скорби Ева и Лилли начали заполнять ту большую пустоту, которую оставила Авен после своего внезапного ухода."
+
+# game/episode001.rpy:278
+translate russian episode001_e584cf28:
+
+    # ca "Listen up, everyone."
+    ca "Слушайте все."
+
+# game/episode001.rpy:405
+translate russian ep001_basecamp_conversation_aa879a6c:
+
+    # l "You’ve got your way, as always, and I have zero desire to talk to you."
+    l "Ты, как всегда, добился своего, а у меня нет ни малейшего желания с тобой разговаривать."
+
+# game/episode001.rpy:499
+translate russian ep001_basecamp_conversation_0e5c8651:
+
+    # "The attacks were likely caused by a pack of animal predators coming from the nearby mountain range, preying on the livestock."
+    "Ты, как всегда, добился своего, а у меня нет ни малейшего желания с тобой разговаривать."
+
+# game/episode001.rpy:516
+translate russian ep001_basecamp_conversation_3719c9fb:
+
+    # "I’ve already mentioned that the training expeditions were more like summer camp than actual heavy-duty missions."
+    "Я уже упоминал, что учебные экспедиции больше походили на летний лагерь, чем на настоящие тяжелые миссии."
+
+# game/episode001.rpy:518
+translate russian ep001_basecamp_conversation_bea97d28:
+
+    # "My guess is that night, all over Lanan P-10, a lot of recruits experienced some very happy moments with each other."
+    "Я предполагаю, что в ту ночь по всему Ланану P-10 многие новобранцы пережили очень счастливые моменты друг с другом."
+
+# game/episode001.rpy:554
+translate russian ep001_basecamp_night_b3f72ecb_1:
+
+    # "Lucky for me, Thim was still asleep."
+    "К счастью для меня, Тим еще спал."
+
+# game/episode001.rpy:573
+translate russian ep001_basecamp_night_18dee944:
+
+    # "After being separated for over a year from my sisters, I was struck by their beauty when they finally joined me at the academy."
+    "После более чем годичной разлуки с сестрами я был потрясен их красотой, когда они наконец присоединились ко мне в академии."
+
+# game/episode001.rpy:575
+translate russian ep001_basecamp_night_947d4fde:
+
+    # "After being separated for over a year from my friends, I was struck by their beauty when they finally joined me at the academy."
+    "После более чем годичной разлуки с друзьями я был поражен их красотой, когда они наконец присоединились ко мне в академии."
+
+# game/episode001.rpy:596
+translate russian ep001_basecamp_night_f0f216f9:
+
+    # e "According to the map, it shouldn’t be far from here."
+    e "Судя по карте, это должно быть недалеко отсюда."
+
+# game/episode001.rpy:646
+translate russian ep001_basecamp_night_c9de6b75:
+
+    # "Right at that moment, we were shocked by the sounds of gunfire from the vicinity where I sent Lilly, Eva and Thim."
+    "В этот момент мы были потрясены звуками выстрелов, доносившимися из того места, куда я отправил Лилли, Еву и Тима."
+
+# game/episode001.rpy:702
+translate russian ep001_basecamp_night_6a68dfb2:
+
+    # t "She’s gone, man. Nothing you can do about it."
+    t "Она ушла, чувак. Ты ничего не можешь с этим поделать."
+
+# game/episode001.rpy:711
+translate russian ep001_basecamp_night_28d73b5d:
+
+    # c "Try the radio again, Céline, we might get lucky and get through to mission control."
+    c "Попробуй еще раз связаться по радио, Селин, может, нам повезет и мы дозвонимся до центра управления полетами."
+
+# game/episode001.rpy:756
+translate russian ep001_basecamp_night_6dc1b0aa:
+
+    # "Before I could lie down properly and collect my thoughts, I heard the door slide open."
+    "Еще не успев как следует прилечь и собраться с мыслями, я услышал, как открылась дверь."
+
+# game/episode001.rpy:894
+translate russian ep001_basecamp_night_3c394d7b:
+
+    # "I decided to head to the sickbay and see how Lilly and Kit were doing. Kit’s wound was very bad, but if the medics got to him in time, he might have made it."
+    "Я решил пойти в лазарет и посмотреть, как там Лилли и Кит. Рана Кита была очень тяжелой, но если медики успеют ему помочь, он, возможно, выживет."
+
+# game/episode001.rpy:913
+translate russian ep001_basecamp_night_a92c7fbc:
+
+    # ca "Don’t take that tone with me, boy, or I’ll have you thrown into the brig."
+    ca "Не разговаривай со мной в таком тоне, парень, а то я отправлю тебя в карцер."
+
+# game/episode001.rpy:982
+translate russian ep001_medbay_8f660e42:
+
+    # "Of course, I was planning on doing just that."
+    "Конечно, я как раз собирался это сделать."
+
+# game/episode001.rpy:1047
+translate russian ep001_medbay_67374027:
+
+    # "Every minute we traveled, any hope of finding a trace of Eva dwindled."
+    "С каждой минутой нашего путешествия надежда найти следы Евы таяла."
+
+# game/episode001.rpy:1098
+translate russian ep001_medbay_9f1dcf6a:
+
+    # "As the crew of the ship retired for the night, I headed out to the hangar deck."
+    "Когда экипаж корабля ушел на ночной отдых, я направился к палубе ангара."
+
+# game/episode001.rpy:1199
+translate russian ep001_medbay_d43c0683:
+
+    # ce "Yes, I'm in."
+    ce "Да, я в деле."
+
+# game/episode001.rpy:1203
+translate russian ep001_medbay_abfdf62e:
+
+    # c "What about you, Lilly?"
+    c "А ты, Лилли?"
+
+# game/episode001.rpy:1208
+translate russian ep001_medbay_d1053e7b:
+
+    # l "Of course I'm out, and you should all be."
+    l "Конечно, я против, и вы все должны быть против."
+
+# game/episode001.rpy:1223
+translate russian ep001_medbay_5d954850:
+
+    # "Before Thim could sprint to the nearest guard station, Jade was upon him, clubbing him on the back of the head with a wrench."
+    "Прежде чем Тим успел добежать до ближайшего поста охраны, Джейд набросилась на него и ударила его по затылку гаечным ключом."
+
+# game/episode001.rpy:1233
+translate russian ep001_medbay_aebd708f:
+
+    # c "Thanks to him, we need to hurry."
+    c "Благодаря ему нам нужно торопиться."
+
+# game/episode001.rpy:1284
+translate russian ep001_medbay_75be184d:
+
+    # man "Once we establish control of the hangar bay, you're to come out of the ship with your hands in the air and kneel in front of the hull."
+    man "Как только мы установим контроль над ангаром, вы должны выйти из корабля с поднятыми руками и встать на колени перед корпусом."
+
+# game/episode001.rpy:1306
+translate russian ep001_medbay_49394529:
+
+    # ca "If you do not comply, we will be forced to shoot you down."
+    ca "Если вы не подчинитесь, мы будем вынуждены вас застрелить."
+
+# game/episode001.rpy:1346
+translate russian ep001_medbay_38c414e8:
+
+    # ca "It's that fucking good-for-nothing boy, isn't it?"
+    ca "Это тот чертов никудышный мальчишка, да?"
+
+# game/episode001.rpy:1414
+translate russian ep001_celine_sex_fbc12aac:
+
+    # "We let out a sigh of relief when he turned his back on us."
+    "Мы вздохнули с облегчением, когда он отвернулся от нас."
+
+# game/episode001.rpy:1473
+translate russian ep001_jade_hj_def4ca8c:
+
+    # "Her soft hands touched my penis, as she focused all of her attention on bringing me pleasure."
+    "Ее нежные руки коснулись моего пениса, и она сосредоточила все свое внимание на том, чтобы доставить мне удовольствие."
+

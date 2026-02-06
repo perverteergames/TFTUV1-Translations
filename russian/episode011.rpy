@@ -6476,3 +6476,11 @@ translate russian ep011_feast_orgy_78c80ce2:
     # woman2 "He’s a big boy, isn’t he?"
     woman2 "Он большой мальчик, не так ли?"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+# game/episode011.rpy:1740
+translate russian ep011_feast_orgy_1e3db472:
+
+    # "Next to me, one of the Acarhyn was bringing herself to a climax with her fingers."
+    "Рядом со мной одна из Акархин доводила себя до оргазма пальцами."
+

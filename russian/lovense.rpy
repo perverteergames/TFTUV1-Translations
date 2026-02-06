@@ -71,3 +71,27 @@ translate russian strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}ПРИМЕЧАНИЕ:{/b} Если вы совершите покупку, нажав на кнопку выше, я получу небольшую комиссию без каких-либо дополнительных затрат с вашей стороны. Я рекомендую только те продукты, которыми пользуюсь сама и которым доверяю."
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate russian strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new "Не подключено к игрушке Lovense. Проверьте подключение в настройках игры."
+
+    # game/lovense.rpy:300
+    old "[[b] Close"
+    new "[[b] Закрыть"
+
+    # game/lovense.rpy:304
+    old "[[x] Close"
+    new "[[x] Закрыть"
+
+    # game/lovense.rpy:332
+    old "Edit"
+    new "Редактировать"
+
+    # game/lovense.rpy:374
+    old "Test Device"
+    new "Тестовое устройство"
+

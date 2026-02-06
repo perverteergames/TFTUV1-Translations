@@ -404,5 +404,25 @@ translate russian strings:
 
     # game/script.rpy:459
     old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
-    new "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Freeman {i}(Polish){/i}, Frank Rosario {i}(Italian){/i}, Juan Manuel and Kabezon {i}(Spanish){/i}, Donk. {i}(Turkish, darkeros.org){/i}"
+    new "Grubb {i}(португальский){/i}, MyPrettyWolfy {i}(русский){/i}, Freeman {i}(польский){/i}, Frank Rosario {i}(итальянский){/i}, Juan Manuel и Kabezon {i}(испанский){/i}, Donk. {i}(турецкий, darkeros.org){/i}"
+
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate russian strings:
+
+    # game/script.rpy:424
+    old "THE STORY CONTINUES!"
+    new "ИСТОРИЯ ПРОДОЛЖАЕТСЯ!"
+
+    # game/script.rpy:425
+    old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
+    new "После захватывающего финала первого сезона команда «Железного бастарда» оказывается потрясена действиями Агуста и Исповедника. Не желая больше быть жертвами Пророчества, которое, кажется, так волнует всех вокруг, Камран и его друзья решают взять дело в свои руки и победить Агуста и его приспешников в их же игре."
+
+    # game/script.rpy:426
+    old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
+    new "По пути Камран может найти любовь и удовольствие среди женщин экипажа. Будете ли вы ухаживать за Евой и Лилли, позволите Джейд и Весс обслуживать вас во всех отношениях или создадите гарем из всех девушек, с которыми вы связаны? Выбор за вами, и вы сможете узнать ответ в предпоследнем сезоне второго сезона «Рассказов из бесконечной пустоты»."
+
+    # game/script.rpy:427
+    old "Available exclusively on GOG.com or as part of a Patreon/SubscribeStar subscription."
+    new "Доступно исключительно на GOG.com или в рамках подписки Patreon/SubscribeStar."
 

@@ -776,3 +776,19 @@ translate russian strings:
     old "Polski (częściowo)"
     new "Polski (częściowo)"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate russian strings:
+
+    # game/screens.rpy:1288
+    old "SEASON 2"
+    new "СЕЗОН 2"
+
+    # game/screens.rpy:1290
+    old "SEASON 3"
+    new "СЕЗОН 3"
+
+    # game/screens.rpy:1527
+    old "Deutsch"
+    new "Deutsch"
+

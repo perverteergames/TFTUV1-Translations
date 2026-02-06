@@ -30,3 +30,11 @@ translate russian strings:
     old "Thanks to HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki and Razielprince for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
     new "Спасибо HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, Ravendarklocks, gamersglory, GhostPhil, Grubb, Freki и Razielprince за тестирование. \n\nОгромное спасибо моим спонсорам высшего уровня. Вы лучшие! Среди прошлых и нынешних спонсоров:\n{i}"
 
+# TODO: Translation updated at 2026-02-03 11:22
+
+translate russian strings:
+
+    # game/options.rpy:46
+    old "Grubb {i}(Portuguese){/i}, MyPrettyWolfy {i}(Russian){/i}, Rory Mercury91 (French), Frank Rosario {i}(Italian){/i}, Freeman {i}(Polish, partial){/i}, Juan Manuel and Kabezon {i}(Spanish, partial){/i}, Donk. {i}(Turkish, darkeros.org){/i}, Bomber86 (German)"
+    new "Grubb {i}(португальский){/i}, MyPrettyWolfy {i}(русский){/i}, Rory Mercury91 (французский), Frank Rosario {i}(итальянский){/i}, Freeman {i}(польский, частично){/i}, Juan Manuel и Kabezon {i}(испанский, частично){/i}, Donk. {i}(турецкий, darkeros.org){/i}, Bomber86 (немецкий)"
+
