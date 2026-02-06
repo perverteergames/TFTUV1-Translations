@@ -148,7 +148,7 @@ translate german strings:
 
     # game/script.rpy:425
     old "Following the riveting Season One finale, the crew of the Iron Bastard find themselves rattled by the actions of Agust and the Confessor. No longer satisfied to be the victims of the Prophecy everyone seems to be so hung up about, Camran and friends decide to take matters into their own hands and beat Agust and his lackeys at their own game."
-    new "Nach dem spannenden Finale der ersten Staffel sind die Mitglieder der Crew „Iron Bastard“ durch die Handlungen von Agust und dem Beichtvater verunsichert. Camran und seine Freunde wollen nicht länger Opfer der Prophezeiung sein, von der alle so besessen sind, und beschließen, die Dinge selbst in die Hand zu nehmen und Agust und seine Handlanger mit ihren eigenen Waffen zu schlagen.
+    new "Nach dem spannenden Finale der ersten Staffel sind die Mitglieder der Crew „Iron Bastard“ durch die Handlungen von Agust und dem Beichtvater verunsichert. Camran und seine Freunde wollen nicht länger Opfer der Prophezeiung sein, von der alle so besessen sind, und beschließen, die Dinge selbst in die Hand zu nehmen und Agust und seine Handlanger mit ihren eigenen Waffen zu schlagen."
 
     # game/script.rpy:426
     old "Along the way, Camran may find love and pleasure among the women of the crew. Will you romance Eva and Lilly, let Jade and Vess serve you in every way or start a harem with every girl you're involved with? The choice is yours and you can find out in penultimate Season Two of Tales From The Unending Void."
